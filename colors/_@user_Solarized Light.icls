@@ -4,10 +4,12 @@
     <property name="created">2017-05-02T08:51:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2017-09-19T20:17:58</property>
+    <property name="modified">2017-09-19T20:56:52</property>
     <property name="originalScheme">Solarized Light</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.5" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_LINE_SPACING" value="1.5" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baeeba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
@@ -1006,6 +1008,7 @@
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="839496" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
