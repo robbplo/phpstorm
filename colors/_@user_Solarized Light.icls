@@ -4,7 +4,7 @@
     <property name="created">2017-05-02T08:51:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2017-09-20T09:25:51</property>
+    <property name="modified">2017-09-20T11:30:39</property>
     <property name="originalScheme">Solarized Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -638,12 +638,26 @@
         <option name="FOREGROUND" value="dc322f" />
       </value>
     </option>
+    <option name="DEFAULT_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="445459" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="445459" />
+      </value>
+    </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
-    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="445459" />
+      </value>
+    </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -686,7 +700,11 @@
         <option name="FOREGROUND" value="79a71" />
       </value>
     </option>
-    <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_PREDEFINED_SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="445459" />
+      </value>
+    </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="d33682" />
