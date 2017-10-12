@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1507799516325">
+      <file name="/Dummy.txt" timestamp="1507814020419">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/product-tool/resources/assets/js/components/ProductShow.vue" timestamp="1507801736329">
@@ -22,17 +22,26 @@
       <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/Appointment.php" timestamp="1507793144808">
         <mark key="'" line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1507807546112">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="57" column="0" />
+      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" timestamp="1507813856969">
+        <mark key="[" line="83" column="27" />
+        <mark key="]" line="83" column="27" />
+        <mark key="^" line="83" column="27" />
+        <mark key="." line="83" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1507814242958">
+        <mark key="[" line="72" column="42" />
+        <mark key="]" line="74" column="11" />
+        <mark key="." line="74" column="11" />
+        <mark key="^" line="74" column="11" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Customer.php" timestamp="1507793787328">
         <mark key="[" line="52" column="34" />
         <mark key="]" line="52" column="34" />
         <mark key="." line="52" column="34" />
         <mark key="^" line="52" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/coach-frontend/layouts/default.vue" timestamp="1507814093279">
+        <mark key="'" line="23" column="17" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/Customer.php" timestamp="1507793994986">
         <mark key="[" line="21" column="86" />
@@ -47,12 +56,12 @@
       </file>
       <file name="$USER_HOME$/code/product-tool/api/Product/Http/Controllers/ProductController.php" timestamp="1507795584408" />
       <file name="$USER_HOME$/code/product-tool/database/seeds/UserSeeder.php" timestamp="1507795915944" />
-      <file name="$USER_HOME$/code/coach-frontend/store/index.js" timestamp="1507707307275">
+      <file name="$USER_HOME$/code/coach-frontend/store/index.js" timestamp="1507814005161">
         <mark key="'" line="32" column="19" />
-        <mark key="[" line="3" column="29" />
-        <mark key="]" line="3" column="29" />
+        <mark key="[" line="28" column="9" />
+        <mark key="]" line="28" column="9" />
         <mark key="m" line="32" column="5" />
-        <mark key="." line="3" column="29" />
+        <mark key="." line="28" column="9" />
         <mark key="^" line="3" column="29" />
       </file>
     </filemarks>
@@ -66,13 +75,31 @@
       <jump line="19" column="35" filename="$USER_HOME$/code/coach-backend/api/v1/Resources/Appointment.php" />
       <jump line="65" column="78" filename="$USER_HOME$/code/product-tool/resources/assets/js/components/ProductShow.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/code/product-tool/resources/assets/js/components/ProductShow.vue" />
+      <jump line="93" column="7" filename="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" />
+      <jump line="3" column="13" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
+      <jump line="5" column="13" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
+      <jump line="6" column="17" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
+      <jump line="11" column="18" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
+      <jump line="12" column="14" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
+      <jump line="14" column="13" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
+      <jump line="15" column="17" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
+      <jump line="19" column="18" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
+      <jump line="20" column="14" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
+      <jump line="22" column="13" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
+      <jump line="23" column="17" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>div</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgIA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Ly8gICAgICAgIDsK</text>
@@ -101,16 +128,19 @@
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgIA==</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>div</last-search>
+      <last-offset />
+      <last-pattern>div</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>nuxt</entry>
+        <entry>div</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
