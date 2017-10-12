@@ -27,6 +27,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="LINE_COMMENT_ADD_SPACE" value="false" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -35,6 +36,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="SPACE_AROUND_UNARY_OPERATOR" value="true" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
