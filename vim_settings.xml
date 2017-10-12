@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1507794194178">
+      <file name="/Dummy.txt" timestamp="1507795644795">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/product-tool/resources/assets/js/components/ProductShow.vue" timestamp="1507794479970">
@@ -12,6 +12,15 @@
         <mark key="]" line="17" column="0" />
         <mark key="^" line="62" column="76" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/product-tool/package.json" timestamp="1507794730759" />
+      <file name="$USER_HOME$/code/product-tool/resources/assets/js/components/ProductForm.vue" timestamp="1507795615844">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/Appointment.php" timestamp="1507793144808">
+        <mark key="'" line="19" column="35" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Customer.php" timestamp="1507793787328">
         <mark key="[" line="52" column="34" />
@@ -25,6 +34,13 @@
         <mark key="." line="21" column="87" />
         <mark key="^" line="21" column="85" />
       </file>
+      <file name="$USER_HOME$/code/product-tool/database/seeds/DatabaseSeeder.php" timestamp="1507796170021">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/product-tool/api/Product/Http/Controllers/ProductController.php" timestamp="1507795584408" />
+      <file name="$USER_HOME$/code/product-tool/database/seeds/UserSeeder.php" timestamp="1507795915944" />
       <file name="$USER_HOME$/code/coach-frontend/store/index.js" timestamp="1507707307275">
         <mark key="'" line="32" column="19" />
         <mark key="[" line="3" column="29" />
@@ -32,10 +48,6 @@
         <mark key="m" line="32" column="5" />
         <mark key="." line="3" column="29" />
         <mark key="^" line="3" column="29" />
-      </file>
-      <file name="$USER_HOME$/code/product-tool/package.json" timestamp="1507794730759" />
-      <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/Appointment.php" timestamp="1507793144808">
-        <mark key="'" line="19" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -50,25 +62,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+e3sgcHJvZHVjdC5kZWxpdmVyX3RpbWUgfX08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+e3sgcHJvZHVjdC5kZWxpdmVyX3RpbWUgfX08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZWxpdmVyeSI+Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIDsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5maXJzdCgpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZmFjdG9yeShcQXBwXERvY3Rvcjo6Y2xhc3MsIDIwMCktPmNyZWF0ZSgpLT5lYWNoKGZ1bmN0aW9uKCRkb2N0b3IpIHVzZSAoJHByb2R1Y3RzLCAkZmFrZXIpIHsKICAgICAgICAgIAovLyAgICAgICAgfSk=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9jbGljay1pbnB1dD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25leHRBcHBvaW50bWVudCcgPT4gbmV3IEFwcG9pbnRtZW50KCR0aGlzLT53aGVuTG9hZGVkKCduZXh0QXBwb2ludG1lbnQnKTBdKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgID4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgc3RvcmUgPSAoKSA9PiBuZXcgVnVleC5TdG9yZSh7CiAgc3RhdGU6IHsKICAgIHNlc3Npb246IG51bGwsCiAgICBsb2NhbGVzOiBbJ25sJywgJ2VuJ10sCiAgICBsb2NhbGU6ICdubCcsCiAgICB1c2VyOiB7CiAgICAgIG5hbWU6ICdZdXJpIGRlIFdpdCcsCiAgICAgIHBpY3R1cmU6ICdodHRwczovL3JhbmRvbXVzZXIubWUvYXBpL3BvcnRyYWl0cy9tZW4vMzEuanBnJwogICAgfSwKICAgIGN1c3RvbWVyczogW10sCiAgICBjdXN0b21lcjogewogICAgICBuYW1lOiAnVGphcmRvIERydXl2ZW4nLAogICAgICBwaWN0dXJlOiAnaHR0cHM6Ly9yYW5kb211c2VyLm1lL2FwaS9wb3J0cmFpdHMvd29tZW4vNTcuanBnJywKICAgICAgZ2VuZGVyOiAnZmVtYWxlJywKICAgICAgbWV0YTogewogICAgICAgIGRhdGVPZkJpcnRoOiAnMTk5Mi0wNi0xNCcsCiAgICAgICAgd2VpZ2h0OiA4MCwKICAgICAgICBsZW5ndGg6IDE3NiwKICAgICAgICB3YWlzdDogMAogICAgICB9CiAgICB9CiAgfSwKICBtdXRhdGlvbnMsCiAgZ2V0dGVycywKICBhY3Rpb25zCn0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1pbi1sZW5ndGg9IjUiCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpyZXF1aXJlZD0idHJ1ZSIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBibHVyPSJ1cGRhdGVQcm9kdWN0KCkiCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJkZWxpdmVyeSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
