@@ -13,6 +13,7 @@
         <mark key="^" line="172" column="0" />
         <mark key="." line="172" column="0" />
       </file>
+      <file name="$USER_HOME$/code/coach-backend/vendor/illuminate/http/Resources/Json/Resource.php" timestamp="1507814931112" />
       <file name="$USER_HOME$/code/product-tool/package.json" timestamp="1507794730759" />
       <file name="$USER_HOME$/code/product-tool/resources/assets/js/components/ProductForm.vue" timestamp="1507795615844">
         <mark key="[" line="65" column="0" />
@@ -28,11 +29,12 @@
         <mark key="^" line="83" column="27" />
         <mark key="." line="83" column="27" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1507814242958">
-        <mark key="[" line="72" column="42" />
-        <mark key="]" line="74" column="11" />
-        <mark key="." line="74" column="11" />
-        <mark key="^" line="74" column="11" />
+      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1507815416998">
+        <mark key="'" line="73" column="17" />
+        <mark key="[" line="73" column="45" />
+        <mark key="]" line="73" column="18" />
+        <mark key="." line="73" column="18" />
+        <mark key="^" line="74" column="10" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Customer.php" timestamp="1507793787328">
         <mark key="[" line="52" column="34" />
@@ -43,11 +45,11 @@
       <file name="$USER_HOME$/code/coach-frontend/layouts/default.vue" timestamp="1507814093279">
         <mark key="'" line="23" column="17" />
       </file>
-      <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/Customer.php" timestamp="1507793994986">
-        <mark key="[" line="21" column="86" />
-        <mark key="]" line="21" column="87" />
-        <mark key="." line="21" column="87" />
-        <mark key="^" line="21" column="85" />
+      <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/Customer.php" timestamp="1507815079124">
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="28" column="37" />
+        <mark key="." line="28" column="37" />
+        <mark key="^" line="27" column="59" />
       </file>
       <file name="$USER_HOME$/code/product-tool/database/seeds/DatabaseSeeder.php" timestamp="1507796170021">
         <mark key="[" line="23" column="0" />
@@ -87,43 +89,47 @@
       <jump line="20" column="14" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
       <jump line="22" column="13" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
       <jump line="23" column="17" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
+      <jump line="78" column="11" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="69" column="22" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="103" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="73" column="17" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ewogICAgICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$relationship</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICA=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAu</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Ly8gICAgICAgIDsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ZmFjdG9yeShcQXBwXERvY3Rvcjo6Y2xhc3MsIDIwMCktPmNyZWF0ZSgpLT5lYWNoKGZ1bmN0aW9uKCRkb2N0b3IpIHVzZSAoJHByb2R1Y3RzLCAkZmFrZXIpIHsKICAgICAgICAgIAovLyAgICAgICAgfSk=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9jbGljay1pbnB1dD4K</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgID4K</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1pbi1sZW5ndGg9IjUiCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpyZXF1aXJlZD0idHJ1ZSIK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBibHVyPSJ1cGRhdGVQcm9kdWN0KCkiCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJkZWxpdmVyeSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpyZXF1aXJlZD0idHJ1ZSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
