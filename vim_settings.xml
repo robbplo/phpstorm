@@ -21,11 +21,11 @@
       <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/Appointment.php" timestamp="1507793144808">
         <mark key="'" line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" timestamp="1507813856969">
-        <mark key="[" line="83" column="27" />
-        <mark key="]" line="83" column="27" />
-        <mark key="^" line="83" column="27" />
-        <mark key="." line="83" column="27" />
+      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" timestamp="1507883116357">
+        <mark key="[" line="98" column="6" />
+        <mark key="]" line="99" column="13" />
+        <mark key="^" line="99" column="13" />
+        <mark key="." line="99" column="13" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1507881521091">
         <mark key="'" line="78" column="21" />
@@ -34,7 +34,8 @@
         <mark key="." line="91" column="35" />
         <mark key="^" line="91" column="35" />
       </file>
-      <file name="$USER_HOME$/code/coach-backend/app/Customer.php" timestamp="1507793787328">
+      <file name="$USER_HOME$/code/coach-backend/app/Customer.php" timestamp="1507883378145">
+        <mark key="'" line="23" column="0" />
         <mark key="[" line="52" column="34" />
         <mark key="]" line="52" column="34" />
         <mark key="." line="52" column="34" />
@@ -49,18 +50,23 @@
         <mark key="." line="28" column="37" />
         <mark key="^" line="27" column="59" />
       </file>
+      <file name="$USER_HOME$/code/coach-frontend/store/utils/api.js" timestamp="1507883206713">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
       <file name="$USER_HOME$/code/product-tool/database/seeds/DatabaseSeeder.php" timestamp="1507796170021">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/store/index.js" timestamp="1507814005161">
-        <mark key="'" line="32" column="19" />
-        <mark key="[" line="28" column="9" />
-        <mark key="]" line="28" column="9" />
-        <mark key="m" line="32" column="5" />
-        <mark key="." line="28" column="9" />
-        <mark key="^" line="3" column="29" />
+      <file name="$USER_HOME$/code/coach-frontend/store/index.js" timestamp="1507883156371">
+        <mark key="'" line="30" column="19" />
+        <mark key="[" line="26" column="9" />
+        <mark key="m" line="30" column="5" />
+        <mark key="]" line="26" column="9" />
+        <mark key="." line="26" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -98,13 +104,27 @@
       <jump line="51" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="78" column="21" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="45" column="38" filename="$USER_HOME$/code/coach-backend/app/Customer.php" />
+      <jump line="52" column="12" filename="$USER_HOME$/code/coach-backend/app/Customer.php" />
+      <jump line="41" column="0" filename="$USER_HOME$/code/coach-backend/app/Customer.php" />
+      <jump line="35" column="0" filename="$USER_HOME$/code/coach-backend/app/Customer.php" />
+      <jump line="30" column="0" filename="$USER_HOME$/code/coach-backend/app/Customer.php" />
+      <jump line="27" column="0" filename="$USER_HOME$/code/coach-backend/app/Customer.php" />
+      <jump line="25" column="0" filename="$USER_HOME$/code/coach-backend/app/Customer.php" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/coach-backend/app/Customer.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/coach-backend/app/Customer.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/coach-backend/app/Customer.php" />
+      <jump line="55" column="0" filename="$USER_HOME$/code/coach-backend/app/Customer.php" />
+      <jump line="54" column="0" filename="$USER_HOME$/code/coach-backend/app/Customer.php" />
+      <jump line="47" column="0" filename="$USER_HOME$/code/coach-backend/app/Customer.php" />
+      <jump line="23" column="0" filename="$USER_HOME$/code/coach-backend/app/Customer.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
