@@ -26,19 +26,18 @@
       <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/Appointment.php" timestamp="1507793144808">
         <mark key="'" line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" timestamp="1507888472701">
-        <mark key="'" line="122" column="8" />
-        <mark key="[" line="88" column="36" />
-        <mark key="]" line="88" column="38" />
-        <mark key="." line="88" column="38" />
-        <mark key="^" line="88" column="38" />
+      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" timestamp="1507893736351">
+        <mark key="'" line="1" column="3" />
+        <mark key="[" line="87" column="16" />
+        <mark key="]" line="87" column="16" />
+        <mark key="." line="87" column="16" />
+        <mark key="^" line="87" column="18" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1507887858046">
-        <mark key="'" line="101" column="14" />
-        <mark key="[" line="109" column="14" />
-        <mark key="]" line="109" column="17" />
-        <mark key="." line="109" column="17" />
-        <mark key="^" line="109" column="17" />
+      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1507892869301">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Customer.php" timestamp="1507885928507">
         <mark key="'" line="51" column="12" />
@@ -100,8 +99,6 @@
       <jump line="69" column="22" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="103" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="73" column="17" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="81" column="36" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="76" column="27" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="75" column="15" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="92" column="8" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="55" column="2" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
@@ -130,13 +127,20 @@
       <jump line="51" column="12" filename="$USER_HOME$/code/coach-backend/app/Customer.php" />
       <jump line="90" column="36" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="94" column="14" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="74" column="15" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="76" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="77" column="10" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="81" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="88" column="6" filename="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" />
+      <jump line="69" column="4" filename="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" />
+      <jump line="1" column="3" filename="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
@@ -145,35 +149,35 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGEubmV4dEFwcG9pbnRtZW50LnN0YXJ0c19hdCA+IGIubmV4dEFwcG9pbnRtZW50LnN0YXJ0c19hdCkgcmV0dXJuIDEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVycm9yKHsgZX0pCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVycm9yKHsgZSB9KWRkCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIGVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>{
         
       }</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgIHJldHVybiAtMgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZGQK</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>: {
                 
               }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ3VzdG9tZXI6OnB1YmxpY0lkKCRpZCwgZmFsc2UpLT53aXRoKCdhcHBvaW50bWVudHMnKS0+Zmlyc3RPckZhaWwoKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGU6IGAke2RhdGUuZ2V0VVRDRGF0ZSgpfS0ke2RhdGUuZ2V0VVRDTW9udGgoKX0tJHtkYXRlLmdldFVUQ0Z1bGxZZWFyKCl9YAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
