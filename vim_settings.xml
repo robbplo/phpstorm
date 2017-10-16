@@ -37,13 +37,16 @@
         <mark key="^" line="43" column="71" />
         <mark key="." line="43" column="71" />
       </file>
+      <file name="$USER_HOME$/code/coach-frontend/store/mutations.js" timestamp="1508153086828">
+        <mark key="[" line="11" column="3" />
+        <mark key="]" line="13" column="36" />
+        <mark key="^" line="13" column="36" />
+        <mark key="." line="13" column="36" />
+      </file>
       <file name="$USER_HOME$/code/product-tool/resources/assets/js/components/ProductForm.vue" timestamp="1507795615844">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/Appointment.php" timestamp="1507793144808">
-        <mark key="'" line="19" column="35" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" timestamp="1507898291134">
         <mark key="[" line="88" column="78" />
@@ -51,12 +54,12 @@
         <mark key="." line="87" column="28" />
         <mark key="^" line="87" column="28" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1508147973702">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="30" column="20" />
-        <mark key="]" line="30" column="24" />
-        <mark key="^" line="30" column="24" />
-        <mark key="." line="30" column="24" />
+      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1508153300365">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="108" column="48" />
+        <mark key="]" line="108" column="42" />
+        <mark key="." line="108" column="42" />
+        <mark key="^" line="108" column="42" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Customer.php" timestamp="1507885928507">
         <mark key="'" line="51" column="12" />
@@ -65,7 +68,7 @@
         <mark key="." line="52" column="34" />
         <mark key="^" line="52" column="34" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/layouts/default.vue" timestamp="1507814093279">
+      <file name="$USER_HOME$/code/coach-frontend/layouts/default.vue" timestamp="1508152728813">
         <mark key="'" line="23" column="17" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/EstablishmentSeeder.php" timestamp="1508147549863">
@@ -104,11 +107,11 @@
         <mark key="^" line="31" column="19" />
         <mark key="." line="31" column="19" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/store/index.js" timestamp="1507883156371">
+      <file name="$USER_HOME$/code/coach-frontend/store/index.js" timestamp="1508152823224">
         <mark key="'" line="30" column="19" />
-        <mark key="[" line="26" column="9" />
+        <mark key="[" line="13" column="14" />
         <mark key="m" line="30" column="5" />
-        <mark key="]" line="26" column="9" />
+        <mark key="]" line="23" column="4" />
         <mark key="." line="26" column="9" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/ContractorSeeder.php" timestamp="1508147255413">
@@ -168,11 +171,9 @@
       <jump line="46" column="4" filename="$USER_HOME$/code/coach-backend/app/Customer.php" />
       <jump line="51" column="12" filename="$USER_HOME$/code/coach-backend/app/Customer.php" />
       <jump line="90" column="36" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="94" column="14" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="74" column="15" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="76" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="77" column="10" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="81" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="88" column="6" filename="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" />
       <jump line="69" column="4" filename="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" />
       <jump line="1" column="3" filename="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" />
@@ -193,61 +194,70 @@
       <jump line="30" column="16" filename="$USER_HOME$/code/coach-backend/database/seeds/AppointmentSeeder.php" />
       <jump line="38" column="0" filename="$USER_HOME$/code/coach-backend/database/seeds/AppointmentSeeder.php" />
       <jump line="22" column="0" filename="$USER_HOME$/code/coach-backend/database/seeds/AppointmentSeeder.php" />
+      <jump line="81" column="10" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="94" column="4" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="99" column="14" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="30" column="18" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="107" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>()&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmN1c3RvbWVyc1tpbmRleF0uZCkK</text>
       </register>
       <register name="-" type="4">
-        <text>()&quot;</text>
+        <text>public_i</text>
       </register>
       <register name="/" type="4">
-        <text>]</text>
+        <text>switc</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAqICAgICBAU1dHXFBhcmFtZXRlcigKICAgICAqICAgICAgICAgbmFtZT0iY29hY2hJZCIsCiAgICAgKiAgICAgICAgIGluPSJwYXRoIiwKICAgICAqICAgICAgICAgZGVzY3JpcHRpb249IlB1YmxpYyBJRCBvZiB0aGUgY29hY2ggdG8gZGlzcGxheSBvciAnbWUnIHRvIGRpc3BsYXkgdGhlIGN1cnJlbnRseSBsb2dnZWQgaW4gY29hY2giLAogICAgICogICAgICAgICByZXF1aXJlZD10cnVlLAogICAgICogICAgICAgICB0eXBlPSJzdHJpbmciLAogICAgICogICAgICksCg==</text>
+      <register name="0" type="4">
+        <text>{
+      name: 'Tjardo Druyven',
+      picture: 'https://randomuser.me/api/portraits/women/57.jpg',
+      gender: 'female',
+      meta: {
+        dateOfBirth: '1992-06-14',
+        weight: 80,
+        length: 176,
+        waist: 0
+      }
+    }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uY2xpY2s9IigpIgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmN1c3RvbWVyc1tpbmRleF0uZCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgR2VuZXJhdGUgMTAgQXBwb2ludG1lbnRzIGZvciBldmVyeSBFc3RhYmxpc2htZW50IHVzaW5nIG9uZSBvZiBpdCdzIENvYWNoZXMgYW5kIHVwIHRvIHRocmVlIG9mIGl0J3MgQ3VzdG9tZXJzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge3sgaW5kZXggfX0K</text>
       </register>
       <register name="3" type="4">
-        <text>(1,3)</text>
+        <text encoding="base64">LgogICAgICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxDdXN0b21lcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIG9uY2xpY2s9IigpIgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>@SWG\Parameter(
-     *         name=&quot;coachId&quot;,
-     *         in=&quot;path&quot;,
-     *         description=&quot;Public ID of the coach to display&quot;,
-     *         required=true,
-     *         type=&quot;string&quot;,
-     *     ),</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgR2VuZXJhdGUgMTAgQXBwb2ludG1lbnRzIGZvciBldmVyeSBFc3RhYmxpc2htZW50IHVzaW5nIG9uZSBvZiBpdCdzIENvYWNoZXMgYW5kIHVwIHRvIHRocmVlIG9mIGl0J3MgQ3VzdG9tZXJzCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICAK</text>
+      <register name="8" type="4">
+        <text>(1,3)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzZWxmKCkKICAgIHsKICAgIH0K</text>
+        <text encoding="base64">dXNlIEFwcFxDdXN0b21lcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>]</last-search>
+      <last-search>switc</last-search>
       <last-offset />
-      <last-pattern>]</last-pattern>
+      <last-pattern>switc</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -260,6 +270,10 @@
         <entry>self</entry>
         <entry encoding="base64">XDwsXD4=</entry>
         <entry>]</entry>
+        <entry>&quot;</entry>
+        <entry>methods</entry>
+        <entry>setC</entry>
+        <entry>switc</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
