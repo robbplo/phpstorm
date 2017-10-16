@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1508145761267">
@@ -48,18 +48,24 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/code/coach-frontend/components/TabOverview.vue" timestamp="1508154706949">
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="1" column="41" />
+        <mark key="." line="1" column="41" />
+        <mark key="^" line="1" column="33" />
+      </file>
       <file name="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" timestamp="1507898291134">
         <mark key="[" line="88" column="78" />
         <mark key="]" line="87" column="28" />
         <mark key="." line="87" column="28" />
         <mark key="^" line="87" column="28" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1508153300365">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="108" column="48" />
-        <mark key="]" line="108" column="42" />
-        <mark key="." line="108" column="42" />
-        <mark key="^" line="108" column="42" />
+      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1508155161817">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="114" column="50" />
+        <mark key="]" line="114" column="49" />
+        <mark key="." line="114" column="49" />
+        <mark key="^" line="114" column="49" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Customer.php" timestamp="1507885928507">
         <mark key="'" line="51" column="12" />
@@ -150,7 +156,6 @@
       <jump line="52" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="54" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="51" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="78" column="21" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="45" column="38" filename="$USER_HOME$/code/coach-backend/app/Customer.php" />
       <jump line="52" column="12" filename="$USER_HOME$/code/coach-backend/app/Customer.php" />
@@ -199,29 +204,22 @@
       <jump line="99" column="14" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="30" column="18" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="107" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="118" column="51" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="122" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmN1c3RvbWVyc1tpbmRleF0uZCkK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>public_i</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>switc</text>
+        <text>v-f</text>
       </register>
       <register name="0" type="4">
-        <text>{
-      name: 'Tjardo Druyven',
-      picture: 'https://randomuser.me/api/portraits/women/57.jpg',
-      gender: 'female',
-      meta: {
-        dateOfBirth: '1992-06-14',
-        weight: 80,
-        length: 176,
-        waist: 0
-      }
-    }</text>
+        <text>Math.floor(Math.random()*50)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmN1c3RvbWVyc1tpbmRleF0uZCkK</text>
@@ -255,9 +253,9 @@
       </register>
     </registers>
     <search>
-      <last-search>switc</last-search>
+      <last-search>v-f</last-search>
       <last-offset />
-      <last-pattern>switc</last-pattern>
+      <last-pattern>v-f</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -274,6 +272,7 @@
         <entry>methods</entry>
         <entry>setC</entry>
         <entry>switc</entry>
+        <entry>v-f</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
