@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/coach-backend/app/Http/Middleware/ExampleMiddleware.php" timestamp="1508242911725" />
@@ -49,11 +49,11 @@
         <mark key="]" line="48" column="23" />
         <mark key="." line="48" column="23" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1508243876024">
-        <mark key="[" line="99" column="39" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="121" column="8" />
+      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1508245954334">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="120" column="8" />
       </file>
       <file name="$USER_HOME$/code/product-tool/database/seeds/DatabaseSeeder.php" timestamp="1507796170021">
         <mark key="[" line="23" column="0" />
@@ -98,6 +98,9 @@
         <mark key="]" line="20" column="58" />
         <mark key="." line="20" column="58" />
         <mark key="^" line="22" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/studiok/Datastore.php" timestamp="1508245971998">
+        <mark key="[" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/CustomerSeeder.php" timestamp="1508147541188">
         <mark key="[" line="16" column="37" />
@@ -265,10 +268,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>'</text>
