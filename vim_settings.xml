@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/product-tool/resources/assets/js/components/ProductShow.vue" timestamp="1507801736329">
@@ -10,10 +10,11 @@
         <mark key="^" line="172" column="0" />
         <mark key="." line="172" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/api/index.js" timestamp="1508229676566">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/code/coach-frontend/api/index.js" timestamp="1508230838325">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="13" column="40" />
+        <mark key="." line="13" column="40" />
+        <mark key="^" line="13" column="40" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" timestamp="1507885964692">
         <mark key="[" line="66" column="0" />
@@ -42,12 +43,12 @@
         <mark key="]" line="48" column="23" />
         <mark key="." line="48" column="23" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1508224466009">
-        <mark key="'" line="109" column="28" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
-        <mark key="^" line="114" column="49" />
+      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1508230904367">
+        <mark key="'" line="77" column="33" />
+        <mark key="[" line="108" column="23" />
+        <mark key="]" line="108" column="23" />
+        <mark key="." line="108" column="23" />
+        <mark key="^" line="107" column="78" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/node_modules/lodash/lodash.js" timestamp="1508226875333" />
       <file name="$USER_HOME$/code/product-tool/database/seeds/DatabaseSeeder.php" timestamp="1507796170021">
@@ -201,7 +202,6 @@
       <jump line="90" column="36" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="74" column="15" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="76" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="77" column="10" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="88" column="6" filename="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" />
       <jump line="69" column="4" filename="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" />
       <jump line="1" column="3" filename="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" />
@@ -236,55 +236,63 @@
       <jump line="89" column="0" filename="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" />
       <jump line="8" column="50" filename="$USER_HOME$/code/coach-frontend/middleware/auth.js" />
       <jump line="10" column="2" filename="$USER_HOME$/code/coach-frontend/middleware/auth.js" />
+      <jump line="56" column="24" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="77" column="33" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB1dXV1Cg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>aw</text>
+        <text>then</text>
       </register>
       <register name="0" type="4">
         <text>Math.floor(Math.random()*50)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICB1dXV1Cg==</text>
+      <register name="1" type="4">
+        <text>axios.get(`/api/customers/${this.customers[index].public_id}`, {
+          params: { includes: 'upcomingAppointments.coach' }
+        })</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBpbXBvcnQgYXhpb3MgZnJvbSAnYXhpb3MnCg==</text>
+      <register name="2" type="4">
+        <text>axios.get('/api/coaches/me/customers', {
+          params: { includes: 'nextAppointment' }
+        })</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBpbXBvcnQgYXhpb3MgZnJvbSAnCg==</text>
+      <register name="3" type="4">
+        <text>axios.get('/api/coaches/me/customers', {
+          params: { includes: 'nextAppointment' }
+        })</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBvcnQgYXhpb3MgZnJvbSAnYXhzJwo=</text>
+        <text encoding="base64">ICB1dXV1Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHsgZGF0YSB9ID0gYXdhaXQgYXBwLiRheGlvcy4kZ2V0KCcvYXBpL2NvYWNoZXMvbWUnKQogICAgICBsZXQgdXNlciA9IHsKICAgICAgICBuYW1lOiBkYXRhLmRhdGEucHVibGljX2lkCiAgICAgIH0KICAgICAgc3RvcmUuY29tbWl0KCdTRVRfVVNFUicsIHVzZXIpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBkZGVycm9yKCkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICBpbXBvcnQgYXhpb3MgZnJvbSAnYXhpb3MnCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBpbXBvcnQgYXhpb3MgZnJvbSAnCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBpbXBvcnQgYXhpb3MgZnJvbSAnYXhzJwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBsZXQgeyBkYXRhIH0gPSBhd2FpdCBheGlvcy5nZXQoJ2h0dHA6Ly9jb2FjaC1iYWNrZW5kLmRldi92MS9jb2FjaGVzL21lJykKICBsZXQgdXNlciA9IHsKICAgIG5hbWU6IGRhdGEuZGF0YS5wdWJsaWNfaWQKICB9CiAgc3RvcmUuY29tbWl0KCdTRVRfVVNFUicsIHVzZXIpCg==</text>
+        <text encoding="base64">ICAgICAgbGV0IHsgZGF0YSB9ID0gYXdhaXQgYXBwLiRheGlvcy4kZ2V0KCcvYXBpL2NvYWNoZXMvbWUnKQogICAgICBsZXQgdXNlciA9IHsKICAgICAgICBuYW1lOiBkYXRhLmRhdGEucHVibGljX2lkCiAgICAgIH0KICAgICAgc3RvcmUuY29tbWl0KCdTRVRfVVNFUicsIHVzZXIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBkZGVycm9yKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>aw</last-search>
+      <last-search>then</last-search>
       <last-offset />
-      <last-pattern>aw</last-pattern>
+      <last-pattern>then</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -308,6 +316,8 @@
         <entry>axios</entry>
         <entry>},</entry>
         <entry>aw</entry>
+        <entry>import</entry>
+        <entry>then</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
