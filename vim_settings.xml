@@ -33,12 +33,13 @@
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" timestamp="1508232788041">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" timestamp="1508240844753">
+        <mark key="[" line="88" column="24" />
+        <mark key="]" line="88" column="21" />
+        <mark key="." line="88" column="21" />
+        <mark key="^" line="88" column="21" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/nuxt.config.js" timestamp="1508228406257">
+      <file name="$USER_HOME$/code/coach-frontend/nuxt.config.js" timestamp="1508240250598">
         <mark key="[" line="48" column="23" />
         <mark key="]" line="48" column="23" />
         <mark key="." line="48" column="23" />
@@ -66,7 +67,12 @@
         <mark key="]" line="14" column="36" />
         <mark key="." line="14" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508232752156">
+      <file name="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" timestamp="1508240924935">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1508240916966">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" timestamp="1508147099273">
@@ -240,7 +246,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -252,45 +258,31 @@
         <text>Math.floor(Math.random()*50)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIGZldGNoICh7IGFwcCwgc3RvcmUgfSkgewogICAgICBsZXQgeyBkYXRhIH0gPSBhd2FpdCBhcGkuZ2V0VXNlcigpCiAgICAgIGxldCB1c2VyID0gewogICAgICAgIG5hbWU6IGRhdGEuZGF0YS5wdWJsaWNfaWQKICAgICAgfQogICAgICBzdG9yZS5jb21taXQoJ1NFVF9VU0VSJywgdXNlcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZXQgeyBkYXRhIH0gPSBhd2FpdCBhcGkuZ2V0VXNlcigpCiAgc3RvcmUuY29tbWl0KCdTRVRfVVNFUicsIHsKICAgIG5hbWU6IAogIH0pCn0K</text>
+        <text encoding="base64">ICBpbXBvcnQgYXBpIGZyb20gJ34vYXBpJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIGFzeW5jIGZldGNoICh7IGFwcCwgc3RvcmUgfSkgewogICAgICBsZXQgeyBkYXRhIH0gPSBhd2FpdCBhcGkuZ2V0VXNlcigpCiAgICAgIGxldCB1c2VyID0gewogICAgICAgIG5hbWU6IGRhdGEuZGF0YS5wdWJsaWNfaWQKICAgICAgfQogICAgICBzdG9yZS5jb21taXQoJ1NFVF9VU0VSJywgdXNlcikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgY3VzdG9tZXIgPSAK</text>
+        <text encoding="base64">ICBsZXQgeyBkYXRhIH0gPSBhd2FpdCBhcGkuZ2V0VXNlcigpCiAgc3RvcmUuY29tbWl0KCdTRVRfVVNFUicsIHsKICAgIG5hbWU6IAogIH0pCn0K</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-          public_id: data.data.public_id,
-          name: data.data.public_id,
-          picture: `https://randomuser.me/api/portraits/women/${Math.floor(Math.random() * 50)}.jpg`,
-          gender: 'female',
-          meta: {
-            dateOfBirth: '1992-06-14',
-            weight: Math.floor(Math.random() * 200),
-            length: Math.floor(Math.random() * 200),
-            waist: Math.floor(Math.random() * 100)
-          },
-          appointments: data.data.upcomingAppointments
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgY3VzdG9tZXIgPSB7Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>axios.get(`/api/customers/${this.customers[index].public_id}`, {
-          params: { includes: 'upcomingAppointments.coach' }
-        })</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgY3VzdG9tZXIgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
