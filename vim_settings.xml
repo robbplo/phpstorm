@@ -10,11 +10,11 @@
         <mark key="^" line="172" column="0" />
         <mark key="." line="172" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/api/index.js" timestamp="1508230838325">
-        <mark key="[" line="13" column="39" />
-        <mark key="]" line="13" column="40" />
-        <mark key="." line="13" column="40" />
-        <mark key="^" line="13" column="40" />
+      <file name="$USER_HOME$/code/coach-frontend/api/index.js" timestamp="1508231155735">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="98" />
+        <mark key="." line="3" column="98" />
+        <mark key="^" line="3" column="98" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" timestamp="1507885964692">
         <mark key="[" line="66" column="0" />
@@ -33,24 +33,22 @@
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" timestamp="1508229641574">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
+      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" timestamp="1508232788041">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/nuxt.config.js" timestamp="1508228406257">
         <mark key="[" line="48" column="23" />
         <mark key="]" line="48" column="23" />
         <mark key="." line="48" column="23" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1508230904367">
-        <mark key="'" line="77" column="33" />
-        <mark key="[" line="108" column="23" />
-        <mark key="]" line="108" column="23" />
-        <mark key="." line="108" column="23" />
-        <mark key="^" line="107" column="78" />
+      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1508232473142">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+        <mark key="^" line="120" column="8" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/node_modules/lodash/lodash.js" timestamp="1508226875333" />
       <file name="$USER_HOME$/code/product-tool/database/seeds/DatabaseSeeder.php" timestamp="1507796170021">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -68,7 +66,7 @@
         <mark key="]" line="14" column="36" />
         <mark key="." line="14" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508228094728">
+      <file name="/Dummy.txt" timestamp="1508232752156">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" timestamp="1508147099273">
@@ -136,11 +134,11 @@
         <mark key="." line="187" column="17" />
         <mark key="^" line="187" column="17" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/middleware/auth.js" timestamp="1508228935565">
-        <mark key="'" line="9" column="2" />
-        <mark key="[" line="9" column="2" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/code/coach-frontend/middleware/auth.js" timestamp="1508232686948">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="3" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/AppointmentSeeder.php" timestamp="1508147519113">
         <mark key="'" line="22" column="0" />
@@ -235,70 +233,78 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
       <jump line="89" column="0" filename="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" />
       <jump line="8" column="50" filename="$USER_HOME$/code/coach-frontend/middleware/auth.js" />
-      <jump line="10" column="2" filename="$USER_HOME$/code/coach-frontend/middleware/auth.js" />
       <jump line="56" column="24" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="77" column="33" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="108" column="23" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="10" column="35" filename="$USER_HOME$/code/coach-frontend/middleware/auth.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>then</text>
+        <text>customer</text>
       </register>
       <register name="0" type="4">
         <text>Math.floor(Math.random()*50)</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGFzeW5jIGZldGNoICh7IGFwcCwgc3RvcmUgfSkgewogICAgICBsZXQgeyBkYXRhIH0gPSBhd2FpdCBhcGkuZ2V0VXNlcigpCiAgICAgIGxldCB1c2VyID0gewogICAgICAgIG5hbWU6IGRhdGEuZGF0YS5wdWJsaWNfaWQKICAgICAgfQogICAgICBzdG9yZS5jb21taXQoJ1NFVF9VU0VSJywgdXNlcikK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBsZXQgeyBkYXRhIH0gPSBhd2FpdCBhcGkuZ2V0VXNlcigpCiAgc3RvcmUuY29tbWl0KCdTRVRfVVNFUicsIHsKICAgIG5hbWU6IAogIH0pCn0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgY3VzdG9tZXIgPSAK</text>
+      </register>
+      <register name="7" type="4">
+        <text>{
+          public_id: data.data.public_id,
+          name: data.data.public_id,
+          picture: `https://randomuser.me/api/portraits/women/${Math.floor(Math.random() * 50)}.jpg`,
+          gender: 'female',
+          meta: {
+            dateOfBirth: '1992-06-14',
+            weight: Math.floor(Math.random() * 200),
+            length: Math.floor(Math.random() * 200),
+            waist: Math.floor(Math.random() * 100)
+          },
+          appointments: data.data.upcomingAppointments
+        }</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgY3VzdG9tZXIgPSB7Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>axios.get(`/api/customers/${this.customers[index].public_id}`, {
           params: { includes: 'upcomingAppointments.coach' }
         })</text>
-      </register>
-      <register name="2" type="4">
-        <text>axios.get('/api/coaches/me/customers', {
-          params: { includes: 'nextAppointment' }
-        })</text>
-      </register>
-      <register name="3" type="4">
-        <text>axios.get('/api/coaches/me/customers', {
-          params: { includes: 'nextAppointment' }
-        })</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB1dXV1Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBpbXBvcnQgYXhpb3MgZnJvbSAnYXhpb3MnCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBpbXBvcnQgYXhpb3MgZnJvbSAnCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBpbXBvcnQgYXhpb3MgZnJvbSAnYXhzJwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHsgZGF0YSB9ID0gYXdhaXQgYXBwLiRheGlvcy4kZ2V0KCcvYXBpL2NvYWNoZXMvbWUnKQogICAgICBsZXQgdXNlciA9IHsKICAgICAgICBuYW1lOiBkYXRhLmRhdGEucHVibGljX2lkCiAgICAgIH0KICAgICAgc3RvcmUuY29tbWl0KCdTRVRfVVNFUicsIHVzZXIpCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBkZGVycm9yKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>then</last-search>
+      <last-search>customer</last-search>
       <last-offset />
-      <last-pattern>then</last-pattern>
+      <last-pattern>customer</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>nuxt</entry>
         <entry>div</entry>
         <entry>with</entry>
         <entry>showCus</entry>
@@ -318,10 +324,12 @@
         <entry>aw</entry>
         <entry>import</entry>
         <entry>then</entry>
+        <entry>customer</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
         <entry>comment</entry>
+        <entry>autoindent</entry>
       </history-cmd>
       <history-expr />
       <history-input />
