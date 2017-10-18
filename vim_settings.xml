@@ -10,12 +10,12 @@
         <mark key="^" line="172" column="0" />
         <mark key="." line="172" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/api/index.js" timestamp="1508242480451">
+      <file name="$USER_HOME$/code/coach-frontend/api/index.js" timestamp="1508336366363">
         <mark key="'" line="8" column="26" />
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="8" column="36" />
-        <mark key="." line="8" column="36" />
-        <mark key="^" line="8" column="36" />
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+        <mark key="^" line="14" column="25" />
       </file>
       <file name="/a.dummy" timestamp="1508242913925">
         <mark key="[" line="0" column="0" />
@@ -94,7 +94,7 @@
         <mark key="." line="64" column="37" />
         <mark key="^" line="64" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508243661330">
+      <file name="/Dummy.txt" timestamp="1508336215754">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" timestamp="1508147099273">
@@ -137,6 +137,13 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/agenda/index.vue" timestamp="1508336318849">
+        <mark key="'" line="44" column="15" />
+        <mark key="[" line="52" column="26" />
+        <mark key="]" line="61" column="15" />
+        <mark key="^" line="44" column="15" />
+        <mark key="." line="61" column="15" />
+      </file>
       <file name="$USER_HOME$/code/coach-backend/app/Customer.php" timestamp="1507885928507">
         <mark key="'" line="51" column="12" />
         <mark key="[" line="52" column="34" />
@@ -164,6 +171,9 @@
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/coach-frontend/components/TabClientData.vue" timestamp="1508336208906">
+        <mark key="[" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/.nuxt/router.js" timestamp="1507896793508">
         <mark key="[" line="45" column="19" />
@@ -293,16 +303,18 @@
       <jump line="39" column="0" filename="$USER_HOME$/code/coach-frontend/components/TabOverview.vue" />
       <jump line="7" column="28" filename="$USER_HOME$/code/coach-frontend/.nuxt/dist/app.edec27580ab79e4d52f1.js" />
       <jump line="8" column="8" filename="$USER_HOME$/code/coach-frontend/components/PageFooter.vue" />
+      <jump line="51" column="19" filename="$USER_HOME$/code/coach-frontend/pages/_lang/agenda/index.vue" />
+      <jump line="44" column="15" filename="$USER_HOME$/code/coach-frontend/pages/_lang/agenda/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>en</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>en</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>Dash</text>
+        <text>_</text>
       </register>
       <register name="0" type="4">
         <text>Math.floor(Math.random()*50)</text>
@@ -339,9 +351,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Dash</last-search>
+      <last-search>_</last-search>
       <last-offset />
-      <last-pattern>Dash</last-pattern>
+      <last-pattern>_</last-pattern>
       <last-replace>`</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -349,7 +361,6 @@
     </search>
     <history>
       <history-search>
-        <entry>showCus</entry>
         <entry>self</entry>
         <entry encoding="base64">XDwsXD4=</entry>
         <entry>]</entry>
@@ -369,6 +380,7 @@
         <entry>'</entry>
         <entry>dash</entry>
         <entry>Dash</entry>
+        <entry>_</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
