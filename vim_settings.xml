@@ -1,9 +1,8 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/coach-backend/app/Http/Middleware/ExampleMiddleware.php" timestamp="1508242911725" />
       <file name="$USER_HOME$/code/product-tool/resources/assets/js/components/ProductShow.vue" timestamp="1507801736329">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="172" column="8" />
@@ -38,22 +37,27 @@
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" timestamp="1508240844753">
-        <mark key="[" line="88" column="24" />
-        <mark key="]" line="88" column="21" />
-        <mark key="." line="88" column="21" />
-        <mark key="^" line="88" column="21" />
+      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" timestamp="1508314959789">
+        <mark key="'" line="20" column="15" />
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/nuxt.config.js" timestamp="1508240250598">
-        <mark key="[" line="48" column="23" />
-        <mark key="]" line="48" column="23" />
-        <mark key="." line="48" column="23" />
+      <file name="$USER_HOME$/code/coach-frontend/nuxt.config.js" timestamp="1508315308910">
+        <mark key="[" line="54" column="4" />
+        <mark key="]" line="48" column="6" />
+        <mark key="." line="48" column="6" />
+        <mark key="^" line="48" column="6" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1508245954334">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
         <mark key="^" line="120" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/coach-frontend/.nuxt/dist/app.edec27580ab79e4d52f1.js" timestamp="1508315185422">
+        <mark key="'" line="7" column="28" />
       </file>
       <file name="$USER_HOME$/code/product-tool/database/seeds/DatabaseSeeder.php" timestamp="1507796170021">
         <mark key="[" line="23" column="0" />
@@ -72,8 +76,9 @@
         <mark key="]" line="14" column="36" />
         <mark key="." line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" timestamp="1508240924935">
-        <mark key="[" line="81" column="0" />
+      <file name="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" timestamp="1508313539043">
+        <mark key="'" line="194" column="16" />
+        <mark key="[" line="206" column="23" />
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
@@ -108,16 +113,23 @@
         <mark key="." line="16" column="38" />
         <mark key="^" line="16" column="38" />
       </file>
+      <file name="$USER_HOME$/code/coach-frontend/components/SideNavbar.vue" timestamp="1508314944074">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="8" column="61" />
+        <mark key="." line="8" column="61" />
+        <mark key="^" line="8" column="61" />
+      </file>
       <file name="$USER_HOME$/code/product-tool/resources/assets/js/components/ProductForm.vue" timestamp="1507795615844">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/TabOverview.vue" timestamp="1508154706949">
-        <mark key="[" line="1" column="41" />
-        <mark key="]" line="1" column="41" />
-        <mark key="." line="1" column="41" />
-        <mark key="^" line="1" column="33" />
+      <file name="$USER_HOME$/code/coach-frontend/components/TabOverview.vue" timestamp="1508314896726">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Customer.php" timestamp="1507885928507">
         <mark key="'" line="51" column="12" />
@@ -160,11 +172,10 @@
         <mark key="." line="187" column="17" />
         <mark key="^" line="187" column="17" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/middleware/auth.js" timestamp="1508243719519">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="13" column="29" />
-        <mark key="." line="13" column="29" />
-        <mark key="^" line="13" column="29" />
+      <file name="$USER_HOME$/code/coach-frontend/middleware/auth.js" timestamp="1508315014965">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/AppointmentSeeder.php" timestamp="1508147519113">
         <mark key="'" line="22" column="0" />
@@ -265,55 +276,62 @@
       <jump line="10" column="35" filename="$USER_HOME$/code/coach-frontend/middleware/auth.js" />
       <jump line="8" column="26" filename="$USER_HOME$/code/coach-frontend/api/index.js" />
       <jump line="11" column="61" filename="$USER_HOME$/code/coach-frontend/store/index.js" />
+      <jump line="20" column="15" filename="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" />
+      <jump line="89" column="31" filename="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" />
+      <jump line="194" column="16" filename="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" />
+      <jump line="25" column="47" filename="$USER_HOME$/code/coach-frontend/components/TabOverview.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/coach-frontend/components/TabOverview.vue" />
+      <jump line="39" column="0" filename="$USER_HOME$/code/coach-frontend/components/TabOverview.vue" />
+      <jump line="7" column="28" filename="$USER_HOME$/code/coach-frontend/.nuxt/dist/app.edec27580ab79e4d52f1.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>Dash</text>
       </register>
       <register name="0" type="4">
         <text>Math.floor(Math.random()*50)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFwcFxIdHRwXE1pZGRsZXdhcmVcRXhhbXBsZU1pZGRsZXdhcmU6OmNsYXNzCg==</text>
+        <text encoding="base64">aW1wb3J0IGFwaSBmcm9tICd+L2FwaScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgbGV0IHsgZGF0YSB9ID0gYXdhaXQgYXBpLmdldFVzZXIoKQogIHN0b3JlLmNvbW1pdCgnU0VUX1VTRVInLCB7CiAgICBwdWJsaWNfaWQ6IGRhdGEuZGF0YS5wdWJsaWNfaWQsCiAgICBuYW1lOiBkYXRhLmRhdGEucHVibGljX2lkLAogICAgcGljdHVyZTogJ2h0dHBzOi8vcmFuZG9tdXNlci5tZS9hcGkvcG9ydHJhaXRzL21lbi8zMS5qcGcnCiAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBvcnQgYXBpIGZyb20gJ34vYXBpJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgID48L251eHQtbGlua2MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIGZldGNoICh7IGFwcCwgc3RvcmUgfSkgewogICAgICBsZXQgeyBkYXRhIH0gPSBhd2FpdCBhcGkuZ2V0VXNlcigpCiAgICAgIGxldCB1c2VyID0gewogICAgICAgIG5hbWU6IGRhdGEuZGF0YS5wdWJsaWNfaWQKICAgICAgfQogICAgICBzdG9yZS5jb21taXQoJ1NFVF9VU0VSJywgdXNlcikK</text>
+        <text encoding="base64">ICAgICAgRGFzaGJvYXJkY2MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXQgeyBkYXRhIH0gPSBhd2FpdCBhcGkuZ2V0VXNlcigpCiAgc3RvcmUuY29tbWl0KCdTRVRfVVNFUicsIHsKICAgIG5hbWU6IAogIH0pCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgPHBhZ2UtaGVhZGVyPgogICAgICAgIDx0ZW1wbGF0ZSBzbG90PSJ0aXRsZSI+RGFzaGJvYXJkPC90ZW1wbGF0ZT4KICAgICAgPC9wYWdlLWhlYWRlcj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgRGFzaGJvYXJkCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/'/`</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>Dash</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>Dash</last-pattern>
       <last-replace>`</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -321,8 +339,6 @@
     </search>
     <history>
       <history-search>
-        <entry>div</entry>
-        <entry>with</entry>
         <entry>showCus</entry>
         <entry>self</entry>
         <entry encoding="base64">XDwsXD4=</entry>
@@ -341,12 +357,15 @@
         <entry>then</entry>
         <entry>customer</entry>
         <entry>'</entry>
+        <entry>dash</entry>
+        <entry>Dash</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
         <entry>comment</entry>
         <entry>autoindent</entry>
         <entry>s/'/`</entry>
+        <entry>man c</entry>
       </history-cmd>
       <history-expr />
       <history-input />
