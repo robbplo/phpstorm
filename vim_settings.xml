@@ -16,9 +16,6 @@
         <mark key="]" line="27" column="49" />
         <mark key="." line="27" column="49" />
       </file>
-      <file name="/a.dummy" timestamp="1508242913925">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/coach-backend/app/Jobs/CustomerUpdate.php" timestamp="1508487698287">
         <mark key="'" line="27" column="46" />
         <mark key="[" line="27" column="46" />
@@ -195,6 +192,10 @@
       <file name="$USER_HOME$/code/coach-frontend/.nuxt/dist/app.edec27580ab79e4d52f1.js" timestamp="1508315185422">
         <mark key="'" line="7" column="28" />
       </file>
+      <file name="$USER_HOME$/code/coach-backend/vendor/illuminate/http/Response.php" timestamp="1508491794166">
+        <mark key="'" line="47" column="60" />
+        <mark key="." line="56" column="388" />
+      </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/MeasurementController.php" timestamp="1508488733693">
         <mark key="'" line="173" column="9" />
         <mark key="[" line="189" column="9" />
@@ -214,17 +215,11 @@
         <mark key="." line="4" column="3" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508336215754">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/coach-backend/app/Http/Middleware/CorsMiddleware.php" timestamp="1508243457603">
         <mark key="[" line="20" column="58" />
         <mark key="]" line="20" column="58" />
         <mark key="." line="20" column="58" />
         <mark key="^" line="22" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/studiok/Datastore.php" timestamp="1508245971998">
-        <mark key="[" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/CustomerSeeder.php" timestamp="1508147541188">
         <mark key="[" line="16" column="37" />
@@ -252,9 +247,6 @@
         <mark key="." line="28" column="37" />
         <mark key="^" line="27" column="59" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/TabClientData.vue" timestamp="1508336208906">
-        <mark key="[" line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/code/coach-backend/app/Jobs/CustomerCreate.php" timestamp="1508487442051">
         <mark key="'" line="28" column="39" />
         <mark key="[" line="28" column="39" />
@@ -263,19 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="4" filename="$USER_HOME$/code/coach-backend/app/Customer.php" />
-      <jump line="51" column="12" filename="$USER_HOME$/code/coach-backend/app/Customer.php" />
-      <jump line="90" column="36" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="74" column="15" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="76" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="88" column="6" filename="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" />
-      <jump line="69" column="4" filename="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" />
-      <jump line="1" column="3" filename="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" />
-      <jump line="93" column="0" filename="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" />
-      <jump line="53" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
-      <jump line="106" column="8" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
-      <jump line="88" column="18" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
-      <jump line="91" column="27" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
       <jump line="11" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
       <jump line="74" column="3" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
       <jump line="39" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
@@ -363,6 +342,19 @@
       <jump line="32" column="18" filename="$USER_HOME$/code/coach-backend/app/Jobs/MeasurementUpdate.php" />
       <jump line="27" column="49" filename="$USER_HOME$/code/coach-backend/app/Jobs/MeasurementUpdate.php" />
       <jump line="129" column="9" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
+      <jump line="56" column="16" filename="$USER_HOME$/code/coach-backend/vendor/illuminate/http/Response.php" />
+      <jump line="55" column="16" filename="$USER_HOME$/code/coach-backend/vendor/illuminate/http/Response.php" />
+      <jump line="54" column="16" filename="$USER_HOME$/code/coach-backend/vendor/illuminate/http/Response.php" />
+      <jump line="52" column="37" filename="$USER_HOME$/code/coach-backend/vendor/illuminate/http/Response.php" />
+      <jump line="49" column="23" filename="$USER_HOME$/code/coach-backend/vendor/illuminate/http/Response.php" />
+      <jump line="41" column="28" filename="$USER_HOME$/code/coach-backend/vendor/illuminate/http/Response.php" />
+      <jump line="38" column="13" filename="$USER_HOME$/code/coach-backend/vendor/illuminate/http/Response.php" />
+      <jump line="37" column="17" filename="$USER_HOME$/code/coach-backend/vendor/illuminate/http/Response.php" />
+      <jump line="34" column="19" filename="$USER_HOME$/code/coach-backend/vendor/illuminate/http/Response.php" />
+      <jump line="31" column="13" filename="$USER_HOME$/code/coach-backend/vendor/illuminate/http/Response.php" />
+      <jump line="26" column="26" filename="$USER_HOME$/code/coach-backend/vendor/illuminate/http/Response.php" />
+      <jump line="62" column="36" filename="$USER_HOME$/code/coach-backend/vendor/illuminate/http/Response.php" />
+      <jump line="47" column="60" filename="$USER_HOME$/code/coach-backend/vendor/illuminate/http/Response.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -372,7 +364,7 @@
         <text>CoachDelete</text>
       </register>
       <register name="/" type="4">
-        <text>request</text>
+        <text encoding="base64">XDxKU09OXD4=</text>
       </register>
       <register name="0" type="4">
         <text>Math.floor(Math.random()*50)</text>
@@ -409,18 +401,16 @@
       </register>
     </registers>
     <search>
-      <last-search>request</last-search>
+      <last-search encoding="base64">XDxKU09OXD4=</last-search>
       <last-offset />
-      <last-pattern>request</last-pattern>
+      <last-pattern encoding="base64">XDxKU09OXD4=</last-pattern>
       <last-replace>measurementData</last-replace>
       <last-substitute>request</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Van</entry>
-        <entry>Vand</entry>
         <entry>date</entry>
         <entry>get</entry>
         <entry>api.</entry>
@@ -439,6 +429,8 @@
         <entry>t</entry>
         <entry>st</entry>
         <entry>request</entry>
+        <entry encoding="base64">XDxjb250ZW50XD4=</entry>
+        <entry encoding="base64">XDxKU09OXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -454,6 +446,7 @@
         <entry>%s/request/customerData/g</entry>
         <entry>%s/request/establishmentData/g</entry>
         <entry>%s/request/measurementData/g</entry>
+        <entry>!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
