@@ -69,6 +69,9 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="120" column="8" />
       </file>
+      <file name="$USER_HOME$/code/coach-backend/app/Jobs/CoachCreate.php" timestamp="1508486164078">
+        <mark key="'" line="27" column="8" />
+      </file>
       <file name="$USER_HOME$/code/coach-frontend/.nuxt/dist/app.edec27580ab79e4d52f1.js" timestamp="1508315185422">
         <mark key="'" line="7" column="28" />
       </file>
@@ -76,13 +79,6 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/coach-frontend/store/index.js" timestamp="1508243650895">
-        <mark key="'" line="11" column="61" />
-        <mark key="[" line="13" column="14" />
-        <mark key="m" line="30" column="5" />
-        <mark key="]" line="23" column="4" />
-        <mark key="." line="26" column="9" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/ContractorSeeder.php" timestamp="1508147255413">
         <mark key="[" line="14" column="35" />
@@ -113,9 +109,9 @@
       <file name="/Dummy.txt" timestamp="1508336215754">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" timestamp="1508147099273">
+      <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" timestamp="1508486140438">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="7" column="0" />
+        <mark key="[" line="126" column="41" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="107" column="5" />
@@ -191,12 +187,12 @@
       <file name="$USER_HOME$/code/coach-frontend/components/TabClientData.vue" timestamp="1508336208906">
         <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-backend/app/Jobs/AppointmentUpdate.php" timestamp="1508485283432">
+      <file name="$USER_HOME$/code/coach-backend/app/Jobs/AppointmentUpdate.php" timestamp="1508486052736">
         <mark key="'" line="19" column="41" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
         <mark key="^" line="29" column="56" />
-        <mark key="." line="32" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/.nuxt/router.js" timestamp="1507896793508">
         <mark key="[" line="45" column="19" />
@@ -228,8 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="18" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
-      <jump line="20" column="14" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
       <jump line="22" column="13" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
       <jump line="23" column="17" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
       <jump line="69" column="22" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
@@ -328,57 +322,59 @@
       <jump line="160" column="33" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/AppointmentController.php" />
       <jump line="8" column="26" filename="$USER_HOME$/code/coach-backend/app/Jobs/AppointmentUpdate.php" />
       <jump line="19" column="41" filename="$USER_HOME$/code/coach-backend/app/Jobs/AppointmentUpdate.php" />
+      <jump line="15" column="20" filename="$USER_HOME$/code/coach-backend/app/Jobs/CoachCreate.php" />
+      <jump line="27" column="8" filename="$USER_HOME$/code/coach-backend/app/Jobs/CoachCreate.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoKCgoKCgo=</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>$ap</text>
+        <text>request</text>
       </register>
       <register name="0" type="4">
         <text>Math.floor(Math.random()*50)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoKCgoKCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVxdWVzdCA9ICRyZXF1ZXN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiZGF0ZSIK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVxdWVzdCA9ICRyZXF1ZXN0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAiZGF0ZSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgNS0xMC0yMDE3Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPHAgdi1mb3I9IihhcHBvaW50bWVudHMsIGRhdGUpIGluIGdyb3VwZWRBcHBvaW50bWVudHMiPgogICAgICAgIHt7IGRhdGUgfX0KICAgICAgPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgNS0xMC0yMDE3Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFwaSBmcm9tICd+L2FwaScK</text>
+        <text encoding="base64">ICAgICAgPHAgdi1mb3I9IihhcHBvaW50bWVudHMsIGRhdGUpIGluIGdyb3VwZWRBcHBvaW50bWVudHMiPgogICAgICAgIHt7IGRhdGUgfX0KICAgICAgPC9wPgo=</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGFwaSBmcm9tICd+L2FwaScK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">KQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgbGV0IHsgZGF0YSB9ID0gYXdhaXQgYXBpLmdldFVzZXIoKQogIHN0b3JlLmNvbW1pdCgnU0VUX1VTRVInLCB7CiAgICBwdWJsaWNfaWQ6IGRhdGEuZGF0YS5wdWJsaWNfaWQsCiAgICBuYW1lOiBkYXRhLmRhdGEucHVibGljX2lkLAogICAgcGljdHVyZTogJ2h0dHBzOi8vcmFuZG9tdXNlci5tZS9hcGkvcG9ydHJhaXRzL21lbi8zMS5qcGcnCiAgfQ==</text>
-      </register>
       <register name=":" type="4">
-        <text>%s/data/appointmentData</text>
+        <text>%s/request/coachData</text>
       </register>
     </registers>
     <search>
-      <last-search>$ap</last-search>
+      <last-search>request</last-search>
       <last-offset />
-      <last-pattern>$ap</last-pattern>
-      <last-replace>appointmentData</last-replace>
-      <last-substitute>data</last-substitute>
+      <last-pattern>request</last-pattern>
+      <last-replace>coachData</last-replace>
+      <last-substitute>request</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -399,11 +395,11 @@
         <entry>5-</entry>
         <entry>s:request</entry>
         <entry>:s</entry>
-        <entry>request</entry>
         <entry>data</entry>
         <entry>ap</entry>
         <entry>update</entry>
         <entry>$ap</entry>
+        <entry>request</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -414,6 +410,7 @@
         <entry>s/request/data/g</entry>
         <entry>%s/request/data</entry>
         <entry>%s/data/appointmentData</entry>
+        <entry>%s/request/coachData</entry>
       </history-cmd>
       <history-expr />
       <history-input />
