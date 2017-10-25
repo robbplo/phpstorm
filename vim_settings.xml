@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/coach-backend/app/Jobs/ContractorCreate.php" timestamp="1508487316657">
@@ -125,6 +125,12 @@
         <mark key="]" line="84" column="30" />
         <mark key="^" line="84" column="30" />
         <mark key="." line="84" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/coach-backend/app/Exceptions/Handler.php" timestamp="1508932096694">
+        <mark key="[" line="66" column="45" />
+        <mark key="]" line="66" column="32" />
+        <mark key="." line="66" column="32" />
+        <mark key="^" line="66" column="32" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/vendor/illuminate/http/Response.php" timestamp="1508491794166">
         <mark key="'" line="47" column="60" />
@@ -384,11 +390,11 @@
       <jump line="9" column="17" filename="$USER_HOME$/code/coach-backend/app/Http/Middleware/ContentNegotiationMiddleware.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY29udGVudFR5cGVbMF0gPT09ICdhcHBsY2lhdGlvbi92bmQuYXBpK2pzb24nKTsK</text>
+      <register name="&quot;" type="4">
+        <text>new xxng($</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>new xxng($</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
@@ -396,32 +402,36 @@
       <register name="0" type="4">
         <text encoding="base64">Q29udGVudC1UeXBlJyA9PiAnYXBwbGljYXRpb24vdm5kLmFwaStqc29u</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY29udGVudFR5cGVbMF0gPT09ICdhcHBsY2lhdGlvbi92bmQuYXBpK2pzb24nKTsK</text>
+      <register name="1" type="4">
+        <text>'
+                '</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY29udGVudFR5cGVbMF0gPT09ICdhcHBsY2lhdGlvbi92bmQuYXBpK2pzb24nKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGV4cGxvZGUoJzsnLCAkcmVxdWVzdC0+aGVhZGVyKCdDb250ZW50LVR5cGUnKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGV4cGxvZGUoJzsnLCAkcmVxdWVzdC0+aGVhZGVyKCdDb250ZW50LVR5cGUnKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaGVhZGVycyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlKCdBbGwgcmVxdWVzdHMgbXVzdCAnKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaGVhZGVycyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/private/protected/g</text>
