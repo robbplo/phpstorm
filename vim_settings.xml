@@ -173,12 +173,12 @@
         <mark key="." line="4" column="3" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" timestamp="1509005063535">
-        <mark key="'" line="132" column="9" />
-        <mark key="[" line="144" column="13" />
-        <mark key="]" line="146" column="0" />
-        <mark key="^" line="146" column="0" />
-        <mark key="." line="146" column="0" />
+      <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" timestamp="1509006677733">
+        <mark key="'" line="56" column="11" />
+        <mark key="[" line="46" column="26" />
+        <mark key="]" line="46" column="26" />
+        <mark key="^" line="144" column="0" />
+        <mark key="." line="46" column="26" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Http/Middleware/CorsMiddleware.php" timestamp="1508243457603">
         <mark key="[" line="20" column="58" />
@@ -293,15 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/code/coach-backend/database/seeds/AppointmentSeeder.php" />
-      <jump line="22" column="0" filename="$USER_HOME$/code/coach-backend/database/seeds/AppointmentSeeder.php" />
-      <jump line="81" column="10" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="94" column="4" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="99" column="14" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="30" column="18" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="107" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="118" column="51" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="122" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="178" column="47" filename="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" />
       <jump line="109" column="28" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
@@ -393,47 +384,56 @@
       <jump line="56" column="30" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
       <jump line="9" column="17" filename="$USER_HOME$/code/coach-backend/app/Http/Middleware/ContentNegotiationMiddleware.php" />
       <jump line="51" column="83" filename="$USER_HOME$/code/coach-backend/app/Exceptions/Handler.php" />
+      <jump line="36" column="37" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
+      <jump line="48" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
+      <jump line="62" column="15" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
+      <jump line="158" column="28" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
+      <jump line="86" column="11" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
+      <jump line="121" column="11" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
+      <jump line="152" column="11" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
+      <jump line="34" column="11" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
+      <jump line="56" column="11" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>errorBag</text>
+        <text>Request $request</text>
       </register>
       <register name="-" type="4">
-        <text>errorBag</text>
+        <text>Request $request</text>
       </register>
       <register name="/" type="4">
-        <text>obj</text>
+        <text>tags</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Q29udGVudC1UeXBlJyA9PiAnYXBwbGljYXRpb24vdm5kLmFwaStqc29u</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGUtPmdldFJlc3BvbnNlKCkpO2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+bWV0aG9kKCkpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGUtPmdldFJlc3BvbnNlKCkpO2QK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoJHRoaXMtPmNvbnRlbnQsICR0aGlzLT5zdGF0dXNDb2RlKQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>'
                 '</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkY29udGVudFR5cGVbMF0gPT09ICdhcHBsY2lhdGlvbi92bmQuYXBpK2pzb24nKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGV4cGxvZGUoJzsnLCAkcmVxdWVzdC0+aGVhZGVyKCdDb250ZW50LVR5cGUnKSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGV4cGxvZGUoJzsnLCAkcmVxdWVzdC0+aGVhZGVyKCdDb250ZW50LVR5cGUnKSkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -443,9 +443,9 @@
       </register>
     </registers>
     <search>
-      <last-search>obj</last-search>
+      <last-search>tags</last-search>
       <last-offset />
-      <last-pattern>obj</last-pattern>
+      <last-pattern>tags</last-pattern>
       <last-replace>e</last-replace>
       <last-substitute>obj</last-substitute>
       <last-dir>1</last-dir>
@@ -453,10 +453,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
-        <entry>ap</entry>
-        <entry>$ap</entry>
-        <entry>])</entry>
         <entry>Delete</entry>
         <entry>update</entry>
         <entry>only</entry>
@@ -473,6 +469,10 @@
         <entry>&quot;</entry>
         <entry>'</entry>
         <entry>obj</entry>
+        <entry>dd</entry>
+        <entry>req</entry>
+        <entry>index</entry>
+        <entry>tags</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
