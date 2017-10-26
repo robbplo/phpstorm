@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/coach-backend/app/Jobs/ContractorCreate.php" timestamp="1508487316657">
@@ -126,11 +126,12 @@
         <mark key="^" line="84" column="30" />
         <mark key="." line="84" column="30" />
       </file>
-      <file name="$USER_HOME$/code/coach-backend/app/Exceptions/Handler.php" timestamp="1508934281481">
-        <mark key="[" line="69" column="45" />
-        <mark key="]" line="69" column="32" />
-        <mark key="." line="69" column="32" />
-        <mark key="^" line="69" column="32" />
+      <file name="$USER_HOME$/code/coach-backend/app/Exceptions/Handler.php" timestamp="1509003236088">
+        <mark key="'" line="51" column="83" />
+        <mark key="[" line="51" column="83" />
+        <mark key="]" line="51" column="83" />
+        <mark key="." line="51" column="83" />
+        <mark key="^" line="51" column="83" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/vendor/illuminate/http/Response.php" timestamp="1508491794166">
         <mark key="'" line="47" column="60" />
@@ -288,7 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="16" filename="$USER_HOME$/code/coach-backend/database/seeds/AppointmentSeeder.php" />
       <jump line="38" column="0" filename="$USER_HOME$/code/coach-backend/database/seeds/AppointmentSeeder.php" />
       <jump line="22" column="0" filename="$USER_HOME$/code/coach-backend/database/seeds/AppointmentSeeder.php" />
       <jump line="81" column="10" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
@@ -388,16 +388,17 @@
       <jump line="49" column="13" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
       <jump line="56" column="30" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
       <jump line="9" column="17" filename="$USER_HOME$/code/coach-backend/app/Http/Middleware/ContentNegotiationMiddleware.php" />
+      <jump line="51" column="83" filename="$USER_HOME$/code/coach-backend/app/Exceptions/Handler.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new xxng($</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>new xxng($</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>private</text>
+        <text>obj</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Q29udGVudC1UeXBlJyA9PiAnYXBwbGljYXRpb24vdm5kLmFwaStqc29u</text>
@@ -434,23 +435,20 @@
         <text encoding="base64">ICAgICAgICBkZCgkaGVhZGVycyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/private/protected/g</text>
+        <text>s/obj/e</text>
       </register>
     </registers>
     <search>
-      <last-search>private</last-search>
+      <last-search>obj</last-search>
       <last-offset />
-      <last-pattern>private</last-pattern>
-      <last-replace>protected</last-replace>
-      <last-substitute>private</last-substitute>
+      <last-pattern>obj</last-pattern>
+      <last-replace>e</last-replace>
+      <last-substitute>obj</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>5-</entry>
-        <entry>s:request</entry>
-        <entry>:s</entry>
         <entry>data</entry>
         <entry>ap</entry>
         <entry>$ap</entry>
@@ -468,6 +466,9 @@
         <entry>arr</entry>
         <entry encoding="base64">LT4=</entry>
         <entry>private</entry>
+        <entry>&quot;</entry>
+        <entry>'</entry>
+        <entry>obj</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -486,6 +487,9 @@
         <entry>!</entry>
         <entry>wq</entry>
         <entry>%s/private/protected/g</entry>
+        <entry>s/&quot;/'/g</entry>
+        <entry>s/'/&quot;/g</entry>
+        <entry>s/obj/e</entry>
       </history-cmd>
       <history-expr />
       <history-input />
