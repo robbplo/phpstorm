@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/product-tool/resources/assets/js/components/ProductShow.vue" timestamp="1507801736329">
@@ -41,10 +41,6 @@
         <mark key="]" line="31" column="56" />
         <mark key="^" line="31" column="46" />
         <mark key="." line="31" column="56" />
-      </file>
-      <file name="$USER_HOME$/code/coach-backend/vendor/laravel/lumen-framework/src/helpers.php" timestamp="1508501819769">
-        <mark key="[" line="270" column="22" />
-        <mark key="]" line="270" column="70" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/store/mutations.js" timestamp="1508153086828">
         <mark key="[" line="11" column="3" />
@@ -138,6 +134,7 @@
         <mark key="^" line="171" column="40" />
         <mark key="." line="171" column="40" />
       </file>
+      <file name="$USER_HOME$/code/coach-frontend/layouts/default.vue" timestamp="1509356416533" />
       <file name="$USER_HOME$/code/coach-backend/database/seeds/EstablishmentSeeder.php" timestamp="1508147549863">
         <mark key="[" line="16" column="43" />
         <mark key="]" line="16" column="7" />
@@ -163,10 +160,10 @@
         <mark key="^" line="29" column="56" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-backend/routes/api.php" timestamp="1509005026354">
-        <mark key="[" line="23" column="50" />
-        <mark key="]" line="23" column="50" />
-        <mark key="." line="23" column="50" />
+      <file name="$USER_HOME$/code/coach-backend/routes/api.php" timestamp="1509358040176">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/.nuxt/router.js" timestamp="1507896793508">
         <mark key="[" line="45" column="19" />
@@ -181,6 +178,12 @@
         <mark key="." line="187" column="17" />
         <mark key="^" line="187" column="17" />
       </file>
+      <file name="$USER_HOME$/code/coach-frontend/middleware/auth.js" timestamp="1509358981020">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+        <mark key="^" line="12" column="19" />
+      </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/AppointmentSeeder.php" timestamp="1508147519113">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="31" column="16" />
@@ -194,12 +197,12 @@
         <mark key="]" line="28" column="41" />
         <mark key="." line="28" column="41" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/api/index.js" timestamp="1508336366363">
-        <mark key="'" line="8" column="26" />
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="14" column="25" />
-        <mark key="." line="14" column="25" />
-        <mark key="^" line="14" column="25" />
+      <file name="$USER_HOME$/code/coach-frontend/api/index.js" timestamp="1509358656632">
+        <mark key="'" line="23" column="31" />
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="11" column="18" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="11" column="18" />
       </file>
       <file name="$USER_HOME$/code/nustar/api/Jetty/Http/Controllers/JettyController.php" timestamp="1508501236820">
         <mark key="[" line="15" column="43" />
@@ -231,10 +234,6 @@
         <mark key="^" line="84" column="30" />
         <mark key="." line="84" column="30" />
       </file>
-      <file name="$USER_HOME$/code/coach-backend/vendor/illuminate/http/Response.php" timestamp="1508491794166">
-        <mark key="'" line="47" column="60" />
-        <mark key="." line="56" column="388" />
-      </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/MeasurementController.php" timestamp="1508488733693">
         <mark key="'" line="173" column="9" />
         <mark key="[" line="189" column="9" />
@@ -260,11 +259,14 @@
         <mark key="." line="4" column="3" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/code/coach-backend/app/Http/Middleware/CorsMiddleware.php" timestamp="1508243457603">
-        <mark key="[" line="20" column="58" />
-        <mark key="]" line="20" column="58" />
-        <mark key="." line="20" column="58" />
-        <mark key="^" line="22" column="24" />
+      <file name="/Dummy.txt" timestamp="1509358987907">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/coach-backend/app/Http/Middleware/CorsMiddleware.php" timestamp="1509358422785">
+        <mark key="[" line="20" column="80" />
+        <mark key="]" line="20" column="78" />
+        <mark key="." line="20" column="78" />
+        <mark key="^" line="20" column="78" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/CustomerSeeder.php" timestamp="1508147541188">
         <mark key="[" line="16" column="37" />
@@ -309,9 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="28" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
-      <jump line="89" column="0" filename="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" />
       <jump line="8" column="50" filename="$USER_HOME$/code/coach-frontend/middleware/auth.js" />
       <jump line="56" column="24" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="77" column="33" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
@@ -409,78 +408,78 @@
       <jump line="56" column="11" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
       <jump line="13" column="6" filename="$USER_HOME$/code/coach-backend/api/v1/Resources/AppointmentCollection.php" />
       <jump line="152" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
+      <jump line="19" column="4" filename="$USER_HOME$/code/coach-frontend/api/index.js" />
+      <jump line="14" column="31" filename="$USER_HOME$/code/coach-frontend/api/index.js" />
+      <jump line="21" column="86" filename="$USER_HOME$/code/coach-backend/app/Http/Middleware/CorsMiddleware.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>Ap</text>
+        <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Q29udGVudC1UeXBlJyA9PiAnYXBwbGljYXRpb24vdm5kLmFwaStqc29u</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAvLyBsZXQgeyBkYXRhIH0gPSBhd2FpdCBhcGkuZ2V0VXNlcigpCiAgLy8gc3RvcmUuY29tbWl0KCdTRVRfVVNFUicsIHsKICAvLyAgIHB1YmxpY19pZDogZGF0YS5wdWJsaWNfaWQsCiAgLy8gICBuYW1lOiBkYXRhLnB1YmxpY19pZCwKICAvLyAgIHBpY3R1cmU6ICdodHRwczovL3JhbmRvbXVzZXIubWUvYXBpL3BvcnRyYWl0cy9tZW4vMzEuanBnJwogIC8vIH0pCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmNvbnRlbnQgaW5zdGFuY2VvZiApCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LCAKICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">J3V1aWQnID0+ICR0aGlzLT51dWlkLAogICAgICAgICAgICAnc3RhcnRzX2F0JyA9PiAkdGhpcy0+c3RhcnRzX2F0LT50b0RhdGVUaW1lU3RyaW5nKCksCiAgICAgICAgICAgICdub3RlcycgPT4gJHRoaXMtPm5vdGVzLAogICAgICAgICAgICAnY29hY2gnID0+IG5ldyBDb2FjaCgkdGhpcy0+d2hlbkxvYWRlZCgnY29hY2gnKSksCiAgICAgICAgICAgICdjdXN0b21lcnMnID0+IEN1c3RvbWVyOjpjb2xsZWN0aW9uKCR0aGlzLT53aGVuTG9hZGVkKCdjdXN0b21lcnMnKSksCiAgICAgICAgICAgICdlc3RhYmxpc2htZW50JyA9PiBuZXcgRXN0YWJsaXNobWVudCgkdGhpcy0+d2hlbkxvYWRlZCgnZXN0YWJsaXNobWVudCcpKSw=</text>
+        <text encoding="base64">aWYgKCRyZXF1ZXN0LT5nZXRNZXRob2QoKSA9PT0gIk9QVElPTlMiKSB7CiAgICAgICAgICAgIHJldHVybiByZXNwb25zZSgnJyk7CiAgICAgICAg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">akEK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+bWV0aG9kKCkpOwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGUtPmdldFJlc3BvbnNlKCkpO2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoJHRoaXMtPmNvbnRlbnQsICR0aGlzLT5zdGF0dXNDb2RlKQo=</text>
+        <text encoding="base64">ICAvLyBzdG9yZS5jb21taXQoJ1NFVF9VU0VSJywgewogIC8vICAgcHVibGljX2lkOiBkYXRhLnQucHVibGljX2lkLAo=</text>
       </register>
       <register name="8" type="4">
-        <text>'
-                '</text>
+        <text>this.instance.get('coaches/me', {
+      params: { includes }
+    })</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY29udGVudFR5cGVbMF0gPT09ICdhcHBsY2lhdGlvbi92bmQuYXBpK2pzb24nKTsK</text>
+      <register name="9" type="4">
+        <text>{
+      params: { includes }
+    }</text>
       </register>
       <register name=":" type="4">
-        <text>s/obj/e</text>
+        <text>s/&quot;/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Ap</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>Ap</last-pattern>
-      <last-replace>e</last-replace>
-      <last-substitute>obj</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>only</entry>
-        <entry>delete</entry>
-        <entry>store</entry>
-        <entry>t</entry>
-        <entry>st</entry>
         <entry>request</entry>
         <entry encoding="base64">XDxjb250ZW50XD4=</entry>
         <entry encoding="base64">XDxKU09OXD4=</entry>
         <entry>arr</entry>
         <entry encoding="base64">LT4=</entry>
         <entry>private</entry>
-        <entry>&quot;</entry>
         <entry>'</entry>
         <entry>obj</entry>
         <entry>dd</entry>
@@ -489,11 +488,14 @@
         <entry>tags</entry>
         <entry>app</entry>
         <entry>Ap</entry>
+        <entry>ax</entry>
+        <entry>/axios.get/this.instance.get/g</entry>
+        <entry>axios.get</entry>
+        <entry>${</entry>
+        <entry>`</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
-        <entry>comment</entry>
-        <entry>autoindent</entry>
         <entry>s/'/`</entry>
         <entry>man c</entry>
         <entry>s/request/data/g</entry>
@@ -507,9 +509,13 @@
         <entry>!</entry>
         <entry>wq</entry>
         <entry>%s/private/protected/g</entry>
-        <entry>s/&quot;/'/g</entry>
         <entry>s/'/&quot;/g</entry>
         <entry>s/obj/e</entry>
+        <entry>s%/axios.get/this.instance.get/g</entry>
+        <entry>%s/axios.get/this.instance.get/g</entry>
+        <entry>%s/`/'/g</entry>
+        <entry>s/`/'/g</entry>
+        <entry>s/&quot;/'/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
