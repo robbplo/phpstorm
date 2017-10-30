@@ -85,11 +85,11 @@
         <mark key="]" line="91" column="29" />
         <mark key="." line="91" column="29" />
       </file>
-      <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" timestamp="1509020430102">
-        <mark key="[" line="171" column="27" />
-        <mark key="]" line="171" column="11" />
-        <mark key="." line="171" column="11" />
-        <mark key="^" line="171" column="31" />
+      <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" timestamp="1509360545914">
+        <mark key="[" line="287" column="0" />
+        <mark key="]" line="287" column="0" />
+        <mark key="^" line="105" column="13" />
+        <mark key="." line="287" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/bootstrap/app.php" timestamp="1508743425950">
         <mark key="[" line="64" column="46" />
@@ -259,13 +259,13 @@
         <mark key="." line="4" column="3" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509358987907">
+      <file name="/Dummy.txt" timestamp="1509360330341">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-backend/app/Http/Middleware/CorsMiddleware.php" timestamp="1509358422785">
-        <mark key="[" line="20" column="80" />
-        <mark key="]" line="20" column="78" />
-        <mark key="." line="20" column="78" />
+      <file name="$USER_HOME$/code/coach-backend/app/Http/Middleware/CorsMiddleware.php" timestamp="1509360041869">
+        <mark key="[" line="21" column="81" />
+        <mark key="]" line="21" column="81" />
+        <mark key="." line="21" column="81" />
         <mark key="^" line="20" column="78" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/CustomerSeeder.php" timestamp="1508147541188">
@@ -413,11 +413,11 @@
       <jump line="21" column="86" filename="$USER_HOME$/code/coach-backend/app/Http/Middleware/CorsMiddleware.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Z2F0ZXdheVVybCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -425,39 +425,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAvLyBsZXQgeyBkYXRhIH0gPSBhd2FpdCBhcGkuZ2V0VXNlcigpCiAgLy8gc3RvcmUuY29tbWl0KCdTRVRfVVNFUicsIHsKICAvLyAgIHB1YmxpY19pZDogZGF0YS5wdWJsaWNfaWQsCiAgLy8gICBuYW1lOiBkYXRhLnB1YmxpY19pZCwKICAvLyAgIHBpY3R1cmU6ICdodHRwczovL3JhbmRvbXVzZXIubWUvYXBpL3BvcnRyYWl0cy9tZW4vMzEuanBnJwogIC8vIH0pCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LCAKICAgICAgICAgICAgICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Z2F0ZXdheVVybCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">LCAKICAgICAgICAgICAgICAgIA==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">aWYgKCRyZXF1ZXN0LT5nZXRNZXRob2QoKSA9PT0gIk9QVElPTlMiKSB7CiAgICAgICAgICAgIHJldHVybiByZXNwb25zZSgnJyk7CiAgICAgICAg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAvLyBzdG9yZS5jb21taXQoJ1NFVF9VU0VSJywgewogIC8vICAgcHVibGljX2lkOiBkYXRhLnQucHVibGljX2lkLAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>this.instance.get('coaches/me', {
       params: { includes }
     })</text>
-      </register>
-      <register name="9" type="4">
-        <text>{
-      params: { includes }
-    }</text>
       </register>
       <register name=":" type="4">
         <text>s/&quot;/'/g</text>
