@@ -1,21 +1,19 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/product-tool/resources/assets/js/components/ProductShow.vue" timestamp="1507801736329">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="172" column="8" />
-        <mark key="]" line="172" column="0" />
-        <mark key="^" line="172" column="0" />
-        <mark key="." line="172" column="0" />
+      <file name="$USER_HOME$/code/coach-backend/app/Jobs/MeasurementUpdate.php" timestamp="1508488690328">
+        <mark key="'" line="27" column="49" />
+        <mark key="[" line="27" column="49" />
+        <mark key="]" line="27" column="49" />
+        <mark key="." line="27" column="49" />
       </file>
-      <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" timestamp="1508487762425">
-        <mark key="'" line="145" column="9" />
-        <mark key="[" line="173" column="48" />
-        <mark key="]" line="172" column="7" />
-        <mark key="." line="172" column="7" />
-        <mark key="^" line="172" column="7" />
+      <file name="$USER_HOME$/code/coach-backend/app/Jobs/CustomerUpdate.php" timestamp="1508487698287">
+        <mark key="'" line="27" column="46" />
+        <mark key="[" line="27" column="46" />
+        <mark key="]" line="27" column="46" />
+        <mark key="." line="27" column="46" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Coach.php" timestamp="1509454555502">
         <mark key="[" line="51" column="71" />
@@ -23,31 +21,17 @@
         <mark key="^" line="43" column="71" />
         <mark key="." line="43" column="71" />
       </file>
-      <file name="$USER_HOME$/code/coach-backend/app/Jobs/AppointmentCreate.php" timestamp="1508485001503">
-        <mark key="'" line="31" column="20" />
-        <mark key="[" line="31" column="55" />
-        <mark key="]" line="31" column="56" />
-        <mark key="^" line="31" column="46" />
-        <mark key="." line="31" column="56" />
-      </file>
-      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" timestamp="1509460984110">
-        <mark key="[" line="101" column="10" />
-        <mark key="]" line="101" column="8" />
-        <mark key="." line="101" column="8" />
-        <mark key="^" line="101" column="8" />
+      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" timestamp="1509462620669">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/store/mutations.js" timestamp="1508153086828">
         <mark key="[" line="11" column="3" />
         <mark key="]" line="13" column="36" />
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="36" />
-      </file>
-      <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/ContractorController.php" timestamp="1508487367675">
-        <mark key="'" line="111" column="71" />
-        <mark key="[" line="119" column="36" />
-        <mark key="]" line="119" column="36" />
-        <mark key="^" line="119" column="51" />
-        <mark key="." line="119" column="36" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/nuxt.config.js" timestamp="1509438488891">
         <mark key="[" line="89" column="48" />
@@ -61,7 +45,13 @@
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1509460167719">
+      <file name="$USER_HOME$/code/coach-backend/app/Jobs/MeasurementCreate.php" timestamp="1508488567024">
+        <mark key="'" line="27" column="42" />
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="27" column="42" />
+        <mark key="." line="27" column="42" />
+      </file>
+      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1509461641841">
         <mark key="'" line="49" column="0" />
         <mark key="[" line="115" column="6" />
         <mark key="]" line="115" column="4" />
@@ -92,12 +82,12 @@
         <mark key="." line="64" column="3" />
         <mark key="^" line="64" column="3" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" timestamp="1509458280256">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="852" column="20" />
-        <mark key="]" line="852" column="20" />
-        <mark key="^" line="852" column="60" />
-        <mark key="." line="852" column="20" />
+      <file name="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" timestamp="1509463894736">
+        <mark key="'" line="781" column="30" />
+        <mark key="[" line="702" column="24" />
+        <mark key="]" line="702" column="29" />
+        <mark key="." line="702" column="29" />
+        <mark key="^" line="702" column="29" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/AppointmentController.php" timestamp="1509019793655">
         <mark key="[" line="62" column="73" />
@@ -109,32 +99,11 @@
         <mark key="^" line="120" column="6" />
         <mark key="." line="120" column="6" />
       </file>
-      <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/AppointmentCollection.php" timestamp="1509017079160">
-        <mark key="'" line="13" column="6" />
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="17" column="12" />
-        <mark key="^" line="17" column="12" />
-        <mark key="." line="17" column="12" />
-      </file>
       <file name="$USER_HOME$/code/coach-frontend/components/SideNavbar.vue" timestamp="1508314944074">
         <mark key="[" line="4" column="27" />
         <mark key="]" line="8" column="61" />
         <mark key="." line="8" column="61" />
         <mark key="^" line="8" column="61" />
-      </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/TabOverview.vue" timestamp="1508314896726">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/EstablishmentController.php" timestamp="1508488447816">
-        <mark key="'" line="175" column="0" />
-        <mark key="[" line="171" column="40" />
-        <mark key="]" line="171" column="40" />
-        <mark key="^" line="171" column="40" />
-        <mark key="." line="171" column="40" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/factories/ModelFactory.php" timestamp="1509441161371">
         <mark key="[" line="54" column="56" />
@@ -164,13 +133,6 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/code/coach-backend/app/Jobs/AppointmentUpdate.php" timestamp="1508486052736">
-        <mark key="'" line="19" column="41" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="29" column="56" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/code/coach-backend/routes/api.php" timestamp="1509358040176">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -182,28 +144,20 @@
         <mark key="^" line="45" column="19" />
         <mark key="." line="45" column="19" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" timestamp="1508162139439">
-        <mark key="'" line="193" column="47" />
-        <mark key="[" line="200" column="5" />
-        <mark key="]" line="187" column="17" />
-        <mark key="." line="187" column="17" />
-        <mark key="^" line="187" column="17" />
-      </file>
       <file name="$USER_HOME$/code/coach-frontend/middleware/auth.js" timestamp="1509372595797">
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/code/coach-backend/database/seeds/AppointmentSeeder.php" timestamp="1509376829669">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="32" column="48" />
-        <mark key="]" line="32" column="54" />
-        <mark key="^" line="32" column="54" />
-        <mark key="." line="32" column="54" />
+      <file name="$USER_HOME$/code/coach-backend/app/Jobs/ContractorCreate.php" timestamp="1508487316657">
+        <mark key="'" line="28" column="41" />
+        <mark key="[" line="28" column="41" />
+        <mark key="]" line="28" column="41" />
+        <mark key="." line="28" column="41" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/dist/_nuxt/app.530a2e80ec5eb62fd252.js" timestamp="1509367503615" />
-      <file name="$USER_HOME$/code/coach-frontend/api/index.js" timestamp="1509460131922">
+      <file name="$USER_HOME$/code/coach-frontend/api/index.js" timestamp="1509463435535">
         <mark key="'" line="397" column="4" />
         <mark key="[" line="27" column="6" />
         <mark key="]" line="27" column="5" />
@@ -221,12 +175,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/index.vue" timestamp="1508317063581">
-        <mark key="'" line="21" column="15" />
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="15" />
-        <mark key="." line="21" column="15" />
-        <mark key="^" line="21" column="15" />
+      <file name="$USER_HOME$/code/coach-backend/app/Jobs/EstablishmentUpdate.php" timestamp="1508488401759">
+        <mark key="'" line="27" column="51" />
+        <mark key="[" line="27" column="51" />
+        <mark key="]" line="27" column="51" />
+        <mark key="." line="27" column="51" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/vendor/illuminate/http/ResponseTrait.php" timestamp="1508742062105">
         <mark key="[" line="84" column="31" />
@@ -251,23 +204,24 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/MeasurementController.php" timestamp="1508488733693">
-        <mark key="'" line="173" column="9" />
-        <mark key="[" line="189" column="9" />
-        <mark key="]" line="189" column="53" />
-        <mark key="." line="189" column="53" />
-        <mark key="^" line="189" column="53" />
-      </file>
       <file name="$USER_HOME$/code/coach-backend/README.md" timestamp="1508504636298">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="15" column="2" />
         <mark key="^" line="15" column="2" />
         <mark key="." line="15" column="2" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/store/index.js" timestamp="1509459865248">
-        <mark key="[" line="12" column="6" />
+      <file name="$USER_HOME$/code/coach-backend/app/Jobs/EstablishmentCreate.php" timestamp="1508488260501">
+        <mark key="'" line="28" column="44" />
+        <mark key="[" line="28" column="44" />
+        <mark key="]" line="28" column="44" />
+        <mark key="." line="28" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509456870103">
+      <file name="$USER_HOME$/code/coach-frontend/store/index.js" timestamp="1509462656517">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1509462289954">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/CustomerSeeder.php" timestamp="1508147541188">
@@ -297,13 +251,6 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/plugins/moment.js" timestamp="1509438456310">
-        <mark key="'" line="2" column="15" />
-        <mark key="[" line="3" column="44" />
-        <mark key="]" line="3" column="43" />
-        <mark key="^" line="3" column="43" />
-        <mark key="." line="3" column="43" />
-      </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/Customer.php" timestamp="1509455394745">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="22" column="105" />
@@ -311,15 +258,14 @@
         <mark key="." line="22" column="104" />
         <mark key="^" line="22" column="104" />
       </file>
+      <file name="$USER_HOME$/code/coach-backend/app/Jobs/CustomerCreate.php" timestamp="1508487442051">
+        <mark key="'" line="28" column="39" />
+        <mark key="[" line="28" column="39" />
+        <mark key="]" line="28" column="39" />
+        <mark key="." line="28" column="39" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="41" filename="$USER_HOME$/code/coach-backend/app/Jobs/ContractorCreate.php" />
-      <jump line="90" column="9" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/ContractorController.php" />
-      <jump line="98" column="20" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/ContractorController.php" />
-      <jump line="99" column="35" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/ContractorController.php" />
-      <jump line="96" column="12" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/ContractorController.php" />
-      <jump line="118" column="21" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/ContractorController.php" />
-      <jump line="105" column="59" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/ContractorController.php" />
       <jump line="110" column="71" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/ContractorController.php" />
       <jump line="28" column="39" filename="$USER_HOME$/code/coach-backend/app/Jobs/CustomerCreate.php" />
       <jump line="101" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
@@ -413,58 +359,82 @@
       <jump line="50" column="11" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="31" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="48" column="0" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="93" column="0" filename="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" />
+      <jump line="852" column="46" filename="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" />
+      <jump line="348" column="33" filename="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" />
+      <jump line="583" column="9" filename="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" />
+      <jump line="606" column="5" filename="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" />
+      <jump line="622" column="1" filename="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" />
+      <jump line="781" column="30" filename="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gbGV0eHgK</text>
+      <register name="&quot;" type="4">
+        <text>lighten</text>
       </register>
       <register name="-" type="4">
-        <text>x customerData = api.getCustomerData()</text>
+        <text>lighten</text>
       </register>
       <register name="/" type="4">
-        <text>nux</text>
+        <text>ps-client</text>
       </register>
       <register name="0" type="4">
         <text>{{ customer.name }}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gbGV0eHgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiAkZ2xvYmFsLXNlY29uZGFyeS1iYWNrZ3JvdW5kYwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6ICRnbG9iYWwtc2Vjb25kYXJ5LWJhY2tncm91bmQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHggPSBmaW5kKGRhdGEuZGF0YSwgeydfaWQnOiBwYXJhbXMuaWR9KSAvLyBlc2xpbnQtZGlzYWJsZS1saW5lCg==</text>
+        <text encoding="base64">ICBpbXBvcnQgYXBpIGZyb20gJ34vYXBpJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChsZXQgaSA9IDA7IGkgPiBkYXRhLmRhdGEubGVuZ3RoIGRkKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text>async fetch ({ params, store }) {
+      // @todo sort by appointment date and time, earliest to latest
+      // @todo make table filterable and search directly hitting API for results
+      let { data } = await api.getCustomers('measurements')
+      store.commit('SET_CUSTOMER', {
+        _id: data._id,
+        name: data._id,
+        picture: `https://randomuser.me/api/portraits/women/${Math.floor(Math.random() * 50)}.jpg`,
+        gender: 'female',
+        meta: {
+          dateOfBirth: '',
+          weight: Math.floor(Math.random() * 200),
+          length: Math.floor(Math.random() * 200),
+          waist: Math.floor(Math.random() * 100)
+        },
+        appointments: data.upcomingAppointments
+      })
+    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmN1c3RvbWVycyA9IGN1c3RvbWVycwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmN1c3RvbWVycyA9IGN1c3RvbWVycwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGQK</text>
+        <text encoding="base64">ICAgICAgLy8gbGV0eHgK</text>
       </register>
       <register name=":" type="4">
         <text>%s/nextAppointment/upcomingAppointments[0]</text>
       </register>
     </registers>
     <search>
-      <last-search>nux</last-search>
+      <last-search>ps-client</last-search>
       <last-offset />
-      <last-pattern>nux</last-pattern>
+      <last-pattern>ps-client</last-pattern>
       <last-replace>upcomingAppointments[0]</last-replace>
       <last-substitute>nextAppointment</last-substitute>
       <last-dir>1</last-dir>
@@ -472,9 +442,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tags</entry>
-        <entry>app</entry>
-        <entry>Ap</entry>
         <entry>ax</entry>
         <entry>/axios.get/this.instance.get/g</entry>
         <entry>axios.get</entry>
@@ -492,6 +459,9 @@
         <entry>pic</entry>
         <entry>nextAppointment</entry>
         <entry>nux</entry>
+        <entry>api</entry>
+        <entry>ps-clie</entry>
+        <entry>ps-client</entry>
       </history-search>
       <history-cmd>
         <entry>%s/request/contractorData/g</entry>
