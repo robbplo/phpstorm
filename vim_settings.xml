@@ -43,11 +43,11 @@
         <mark key="^" line="119" column="51" />
         <mark key="." line="119" column="36" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/nuxt.config.js" timestamp="1508315308910">
-        <mark key="[" line="54" column="4" />
-        <mark key="]" line="48" column="6" />
-        <mark key="." line="48" column="6" />
-        <mark key="^" line="48" column="6" />
+      <file name="$USER_HOME$/code/coach-frontend/nuxt.config.js" timestamp="1509438488891">
+        <mark key="[" line="89" column="48" />
+        <mark key="]" line="89" column="43" />
+        <mark key="." line="89" column="43" />
+        <mark key="^" line="89" column="43" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/pages/clienten/index.vue" timestamp="1508315973971">
         <mark key="[" line="1" column="41" />
@@ -198,10 +198,10 @@
         <mark key="." line="84" column="30" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/locales/nl.json" timestamp="1509377165245">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="1" column="16" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="0" column="16" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/MeasurementController.php" timestamp="1508488733693">
         <mark key="'" line="173" column="9" />
@@ -217,13 +217,13 @@
         <mark key="." line="15" column="2" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/locales/en.json" timestamp="1509377138569">
-        <mark key="'" line="34" column="0" />
-        <mark key="j" line="1" column="16" />
-        <mark key="[" line="5" column="0" />
-        <mark key="m" line="1" column="16" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="1" column="16" />
+        <mark key="'" line="33" column="0" />
+        <mark key="j" line="0" column="16" />
+        <mark key="[" line="4" column="0" />
+        <mark key="m" line="0" column="16" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="0" column="16" />
       </file>
       <file name="/Dummy.txt" timestamp="1509374137237">
         <mark key="[" line="0" column="0" />
@@ -239,13 +239,13 @@
         <mark key="." line="16" column="38" />
         <mark key="^" line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/agenda/index.vue" timestamp="1509377375350">
+      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/agenda/index.vue" timestamp="1509437948108">
         <mark key="e" line="79" column="14" />
         <mark key="'" line="55" column="69" />
-        <mark key="[" line="78" column="35" />
-        <mark key="]" line="78" column="35" />
-        <mark key="^" line="75" column="36" />
-        <mark key="." line="78" column="35" />
+        <mark key="[" line="47" column="22" />
+        <mark key="]" line="47" column="22" />
+        <mark key="^" line="47" column="22" />
+        <mark key="." line="47" column="22" />
         <mark key="o" line="79" column="14" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/Appointment.php" timestamp="1509016208456">
@@ -266,8 +266,12 @@
         <mark key="." line="52" column="34" />
         <mark key="^" line="52" column="34" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/plugins/moment.js" timestamp="1509436332401">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/coach-frontend/plugins/moment.js" timestamp="1509438456310">
+        <mark key="'" line="2" column="15" />
+        <mark key="[" line="3" column="44" />
+        <mark key="]" line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+        <mark key="." line="3" column="43" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/Customer.php" timestamp="1507815079124">
         <mark key="[" line="28" column="37" />
@@ -277,7 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="16" filename="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" />
       <jump line="25" column="47" filename="$USER_HOME$/code/coach-frontend/components/TabOverview.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/code/coach-frontend/components/TabOverview.vue" />
       <jump line="39" column="0" filename="$USER_HOME$/code/coach-frontend/components/TabOverview.vue" />
@@ -377,13 +380,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/coach-frontend/locales/en.json" />
       <jump line="39" column="0" filename="$USER_HOME$/code/coach-frontend/locales/en.json" />
       <jump line="8" column="16" filename="$USER_HOME$/code/coach-frontend/locales/nl.json" />
+      <jump line="2" column="15" filename="$USER_HOME$/code/coach-frontend/plugins/moment.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this.$t('time.format')</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>this.$t('time.format')</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>https</text>
