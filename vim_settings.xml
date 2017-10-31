@@ -73,17 +73,12 @@
         <mark key="]" line="27" column="42" />
         <mark key="." line="27" column="42" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1509450765690">
-        <mark key="[" line="103" column="34" />
-        <mark key="]" line="102" column="25" />
-        <mark key="." line="102" column="25" />
-        <mark key="^" line="102" column="25" />
-      </file>
-      <file name="$USER_HOME$/code/coach-backend/app/Exceptions/Handler.php" timestamp="1509368474906">
-        <mark key="'" line="52" column="83" />
-        <mark key="[" line="91" column="39" />
-        <mark key="]" line="91" column="29" />
-        <mark key="." line="91" column="29" />
+      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1509452598822">
+        <mark key="'" line="29" column="47" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="83" column="30" />
+        <mark key="." line="83" column="30" />
+        <mark key="^" line="83" column="30" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" timestamp="1509360545914">
         <mark key="[" line="287" column="0" />
@@ -300,7 +295,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509445236614">
+      <file name="/Dummy.txt" timestamp="1509452861903">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/CustomerSeeder.php" timestamp="1508147541188">
@@ -345,11 +340,11 @@
         <mark key="^" line="3" column="43" />
         <mark key="." line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/Customer.php" timestamp="1507815079124">
-        <mark key="[" line="28" column="37" />
-        <mark key="]" line="28" column="37" />
-        <mark key="." line="28" column="37" />
-        <mark key="^" line="27" column="59" />
+      <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/Customer.php" timestamp="1509453022797">
+        <mark key="[" line="22" column="76" />
+        <mark key="]" line="22" column="75" />
+        <mark key="." line="22" column="75" />
+        <mark key="^" line="22" column="75" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Jobs/CustomerCreate.php" timestamp="1508487442051">
         <mark key="'" line="28" column="39" />
@@ -359,8 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="18" filename="$USER_HOME$/code/coach-frontend/pages/_lang/agenda/index.vue" />
-      <jump line="31" column="40" filename="$USER_HOME$/code/coach-frontend/pages/_lang/agenda/index.vue" />
       <jump line="53" column="69" filename="$USER_HOME$/code/coach-frontend/pages/_lang/agenda/index.vue" />
       <jump line="15" column="54" filename="$USER_HOME$/code/coach-backend/app/Jobs/AppointmentCreate.php" />
       <jump line="7" column="0" filename="$USER_HOME$/code/coach-backend/app/Jobs/AppointmentCreate.php" />
@@ -459,27 +452,32 @@
       <jump line="37" column="13" filename="$USER_HOME$/code/coach-frontend/api/index.js" />
       <jump line="403" column="8" filename="$USER_HOME$/code/coach-frontend/api/index.js" />
       <jump line="397" column="4" filename="$USER_HOME$/code/coach-frontend/api/index.js" />
+      <jump line="103" column="26" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="29" column="47" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlciAvLyBlc2xpbnQtZGlzYWJsZS1saW5lCg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>dob</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>pic</text>
       </register>
       <register name="0" type="4">
-        <text>null</text>
+        <text>{{ customer.name }}</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlciAvLyBlc2xpbnQtZGlzYWJsZS1saW5lCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>[
       {
         'gender': 'female',
@@ -853,35 +851,32 @@
       }
     ]</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">J2luZm8nOiB7CiAgICAgICAgJ3NlZWQnOiAnMjM2MDIwZTg3YWY3MGY3MicsCiAgICAgICAgJ3Jlc3VsdHMnOiAxMCwKICAgICAgICAncGFnZSc6IDEsCiAgICAgICAgJ3ZlcnNpb24nOiAnMS4xJwogICAgICA=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBpbXBvcnQgYXhpb3MgZnJvbSAnYXhpb3MnCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvLyBAdG9kbyBhZGQgdHJ1ZSBBUEkgZm9yIGZldGNoaW5nIGN1cnJlbnQgY3VzdG9tZXJzIGZvciBjb2FjaAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgUGFnZUhlYWRlciwKICAgICAgUGFnZUZvb3RlciwKICAgICAgVGFiT3ZlcnZpZXcsCiAgICAgIFRhYldlaWdodE1vbWVudHMsCiAgICAgIFRhYkNsaWVudERhdGEsCiAgICAgIE1vZGFsTmV3V2VpZ2h0aW5nLAogICAgICBNb2RhbFdlaWdodGluZ1Jlc3VsdCwKICAgICAgTW9kYWxBcHBvaW50bWVudAogICAg</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBpbXBvcnQgTW9kYWxBcHBvaW50bWVudCBmcm9tICd+L2NvbXBvbmVudHMvTW9kYWxBcHBvaW50bWVudCcK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBvcnQgUGFnZUhlYWRlciBmcm9tICd+L2NvbXBvbmVudHMvUGFnZUhlYWRlcicKICBpbXBvcnQgUGFnZUZvb3RlciBmcm9tICd+L2NvbXBvbmVudHMvUGFnZUZvb3RlcicKICBpbXBvcnQgVGFiT3ZlcnZpZXcgZnJvbSAnfi9jb21wb25lbnRzL1RhYk92ZXJ2aWV3JwogIGltcG9ydCBUYWJXZWlnaHRNb21lbnRzIGZyb20gJ34vY29tcG9uZW50cy9UYWJXZWlnaHRNb21lbnRzJwogIGltcG9ydCBUYWJDbGllbnREYXRhIGZyb20gJ34vY29tcG9uZW50cy9UYWJDbGllbnREYXRhJwogIGltcG9ydCBNb2RhbE5ld1dlaWdodGluZyBmcm9tICd+L2NvbXBvbmVudHMvTW9kYWxOZXdXZWlnaHRpbmcnCiAgaW1wb3J0IE1vZGFsV2VpZ2h0aW5nUmVzdWx0IGZyb20gJ34vY29tcG9uZW50cy9Nb2RhbFdlaWdodGluZ1Jlc3VsdCcK</text>
+        <text encoding="base64">ICBpbXBvcnQgTW9kYWxBcHBvaW50bWVudCBmcm9tICd+L2NvbXBvbmVudHMvTW9kYWxBcHBvaW50bWVudCcK</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>pic</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>pic</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -889,7 +884,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dd</entry>
         <entry>req</entry>
         <entry>index</entry>
         <entry>tags</entry>
@@ -909,6 +903,7 @@
         <entry>%s</entry>
         <entry>/&quot;/'/g</entry>
         <entry>&quot;</entry>
+        <entry>pic</entry>
       </history-search>
       <history-cmd>
         <entry>%s/request/coachData</entry>
