@@ -16,11 +16,17 @@
         <mark key="]" line="27" column="49" />
         <mark key="." line="27" column="49" />
       </file>
+      <file name="$USER_HOME$/code/kts/index.php" timestamp="1509527189249" />
       <file name="$USER_HOME$/code/coach-backend/app/Jobs/CustomerUpdate.php" timestamp="1508487698287">
         <mark key="'" line="27" column="46" />
         <mark key="[" line="27" column="46" />
         <mark key="]" line="27" column="46" />
         <mark key="." line="27" column="46" />
+      </file>
+      <file name="$USER_HOME$/code/kts/KTS_Agenda.php" timestamp="1509527271825">
+        <mark key="[" line="39" column="55" />
+        <mark key="]" line="39" column="55" />
+        <mark key="." line="39" column="55" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" timestamp="1508487762425">
         <mark key="'" line="145" column="9" />
@@ -166,10 +172,6 @@
         <mark key="." line="54" column="55" />
         <mark key="^" line="54" column="55" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/layouts/default.vue" timestamp="1509445318090">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="83" column="25" />
-      </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/EstablishmentSeeder.php" timestamp="1509439243486">
         <mark key="[" line="16" column="42" />
         <mark key="]" line="16" column="43" />
@@ -199,6 +201,11 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/kts/kts.php" timestamp="1509527213463">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/.nuxt/router.js" timestamp="1507896793508">
         <mark key="[" line="45" column="19" />
@@ -321,20 +328,16 @@
       <file name="/Dummy.txt" timestamp="1509462289954">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/coach-backend/app/Http/Middleware/CorsMiddleware.php" timestamp="1509368330081">
+        <mark key="[" line="27" column="58" />
+        <mark key="]" line="27" column="58" />
+        <mark key="." line="27" column="58" />
+      </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/CustomerSeeder.php" timestamp="1508147541188">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="16" column="38" />
         <mark key="." line="16" column="38" />
         <mark key="^" line="16" column="38" />
-      </file>
-      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/agenda/index.vue" timestamp="1509441875309">
-        <mark key="e" line="68" column="17" />
-        <mark key="'" line="68" column="17" />
-        <mark key="[" line="81" column="73" />
-        <mark key="]" line="81" column="62" />
-        <mark key="." line="81" column="62" />
-        <mark key="^" line="81" column="62" />
-        <mark key="o" line="68" column="17" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/Appointment.php" timestamp="1509016208456">
         <mark key="[" line="16" column="16" />
@@ -361,6 +364,9 @@
         <mark key="]" line="22" column="104" />
         <mark key="." line="22" column="104" />
         <mark key="^" line="22" column="104" />
+      </file>
+      <file name="$USER_HOME$/code/kts/agenda.css" timestamp="1509527631821">
+        <mark key="[" line="9" column="20" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Jobs/CustomerCreate.php" timestamp="1508487442051">
         <mark key="'" line="28" column="39" />
@@ -473,10 +479,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lighten</text>
+        <text>https://api-demo.kts-smart.com/api/Movie/GetMovies</text>
       </register>
       <register name="-" type="4">
-        <text>lighten</text>
+        <text>https://api-demo.kts-smart.com/api/Movie/GetMovies</text>
       </register>
       <register name="/" type="4">
         <text>ps-client</text>
@@ -491,45 +497,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiAkZ2xvYmFsLXNlY29uZGFyeS1iYWNrZ3JvdW5kYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6ICRnbG9iYWwtc2Vjb25kYXJ5LWJhY2tncm91bmQ7Cg==</text>
+        <text encoding="base64">aW5pX3NldCgnZGlzcGxheV9lcnJvcnMnLCAxKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBvcnQgYXBpIGZyb20gJ34vYXBpJwo=</text>
+        <text encoding="base64">ZXJyb3JfcmVwb3J0aW5nKEVfQUxMKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>async fetch ({ params, store }) {
-      // @todo sort by appointment date and time, earliest to latest
-      // @todo make table filterable and search directly hitting API for results
-      let { data } = await api.getCustomers('measurements')
-      store.commit('SET_CUSTOMER', {
-        _id: data._id,
-        name: data._id,
-        picture: `https://randomuser.me/api/portraits/women/${Math.floor(Math.random() * 50)}.jpg`,
-        gender: 'female',
-        meta: {
-          dateOfBirth: '',
-          weight: Math.floor(Math.random() * 200),
-          length: Math.floor(Math.random() * 200),
-          waist: Math.floor(Math.random() * 100)
-        },
-        appointments: data.upcomingAppointments
-      })
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiAkZ2xvYmFsLXNlY29uZGFyeS1iYWNrZ3JvdW5kYwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmN1c3RvbWVycyA9IGN1c3RvbWVycwo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6ICRnbG9iYWwtc2Vjb25kYXJ5LWJhY2tncm91bmQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmN1c3RvbWVycyA9IGN1c3RvbWVycwo=</text>
+        <text encoding="base64">ICBpbXBvcnQgYXBpIGZyb20gJ34vYXBpJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gbGV0eHgK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/nextAppointment/upcomingAppointments[0]</text>
