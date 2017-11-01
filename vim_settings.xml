@@ -258,6 +258,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/code/coach-backend/app/Measurement.php" timestamp="1509548745113">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/CoachSeeder.php" timestamp="1509439279317">
         <mark key="[" line="16" column="34" />
         <mark key="]" line="16" column="35" />
@@ -304,12 +309,13 @@
         <mark key="." line="21" column="60" />
         <mark key="^" line="21" column="60" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1509547250526">
+      <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1509549030337">
         <mark key="'" line="48" column="7" />
-        <mark key="[" line="4" column="46" />
-        <mark key="]" line="4" column="46" />
-        <mark key="^" line="49" column="27" />
-        <mark key="." line="4" column="46" />
+        <mark key="[" line="65" column="5" />
+        <mark key="l" line="65" column="3" />
+        <mark key="]" line="65" column="3" />
+        <mark key="^" line="65" column="3" />
+        <mark key="." line="65" column="3" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/CustomerSeeder.php" timestamp="1508147541188">
         <mark key="[" line="16" column="37" />
@@ -459,11 +465,11 @@
       <jump line="48" column="7" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>16 a</text>
@@ -471,32 +477,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCB3ZWlnaHQgPSB0aGlzLiRzdG9yZS5zdGF0ZS5jdXN0b21lci5tZXRhLndlaWdodAogICAgICAgIGNvbnN0IGxlbmd0aCA9IHRoaXMuJHN0b3JlLnN0YXRlLmN1c3RvbWVyLm1ldGEubGVuZ3RoIC8gMTAwCiAgICAgICAgcmV0dXJuICgod2VpZ2h0IC8gbGVuZ3RoKSAvIGxlbmd0aCkudG9GaXhlZCgyKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="8">
+        <text>'
+'
+'
+'
+'
+'</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAnd2VpZ2h0JywKICAgICAgICAnYm9keV9mYXQnLAogICAgICAgICdib2R5X3dhdGVyJywKICAgICAgICAnbXVzY2xlX21hc3MnLAogICAgICAgICd3YWlzdCcsCiAgICAgICAgJ25vdGVzJw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiAndWstbGFiZWwtZGFuZ2VyJwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiAndWstbGFiZWwtc3VjY2VzcycK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PHNwYW4gY2xhc3M9Ig==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiAndWstbGFiZWwtZGFuZ2VyJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0idWstbGFiZWwgdWstbGFiZWwtc3VjY2VzcyI+UmVjZW50IHdlZWdtb21lbnQ8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiAndWstbGFiZWwtc3VjY2VzcycK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">PHNwYW4gY2xhc3M9Ig==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0idWstbGFiZWwgdWstbGFiZWwtc3VjY2VzcyI+UmVjZW50IHdlZWdtb21lbnQ8L3NwYW4+Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
