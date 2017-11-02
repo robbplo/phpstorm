@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/product-tool/resources/assets/js/components/ProductShow.vue" timestamp="1509523481937">
@@ -203,11 +203,12 @@
         <mark key="^" line="15" column="42" />
         <mark key="." line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/PsmInput.vue" timestamp="1509627493437">
+      <file name="$USER_HOME$/code/coach-frontend/components/PsmInput.vue" timestamp="1509634600351">
         <mark key="p" line="0" column="0" />
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="14" column="2" />
+        <mark key="." line="14" column="2" />
+        <mark key="^" line="14" column="2" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" timestamp="1509616110581">
         <mark key="a" line="106" column="11" />
@@ -452,10 +453,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>\.t</text>
