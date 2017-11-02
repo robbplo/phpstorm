@@ -203,12 +203,12 @@
         <mark key="^" line="15" column="42" />
         <mark key="." line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/PsmInput.vue" timestamp="1509634600351">
+      <file name="$USER_HOME$/code/coach-frontend/components/PsmInput.vue" timestamp="1509638119629">
         <mark key="p" line="0" column="0" />
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="14" column="2" />
-        <mark key="." line="14" column="2" />
-        <mark key="^" line="14" column="2" />
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+        <mark key="^" line="22" column="24" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" timestamp="1509616110581">
         <mark key="a" line="106" column="11" />
@@ -315,6 +315,7 @@
         <mark key="." line="16" column="38" />
         <mark key="^" line="16" column="38" />
       </file>
+      <file name="$USER_HOME$/code/product-tool/resources/assets/js/components/ProductForm.vue" timestamp="1509636691128" />
       <file name="$USER_HOME$/code/coach-frontend/pages/_lang/agenda/index.vue" timestamp="1509539742458">
         <mark key="e" line="68" column="17" />
         <mark key="'" line="48" column="29" />
@@ -453,10 +454,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>\.t</text>
@@ -464,35 +465,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCB3ZWlnaHQgPSB0aGlzLiRzdG9yZS5zdGF0ZS5jdXN0b21lci5tZXRhLndlaWdodAogICAgICAgIGNvbnN0IGxlbmd0aCA9IHRoaXMuJHN0b3JlLnN0YXRlLmN1c3RvbWVyLm1ldGEubGVuZ3RoIC8gMTAwCiAgICAgICAgcmV0dXJuICgod2VpZ2h0IC8gbGVuZ3RoKSAvIGxlbmd0aCkudG9GaXhlZCgyKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG5sIGZyb20gJ3ZlZS12YWxpZGF0ZS9kaXN0L2xvY2FsZS9ubCcK</text>
+      <register name="1" type="4">
+        <text encoding="base64">Y2xhc3M9InVrLWlucHV0IgogICAgICAgICAg</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAnbW9kZQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IG5sIGZyb20gJ3ZlZS12YWxpZGF0ZS9kaXN0L2xvY2FsZS9ubCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICB9KS5jYXRjaCgoZSkgPT4gewogICAgICAgICAgICBlcnJvcihlKQogICAgICAgICAgfSlkCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcmVzID0gYXdhaXQgY3JlYXRlTWVhc3VyZW1lbnQodGhpcy5tZWFzdXJlbWVudCkK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICAgICAgICB9KS5jYXRjaCgoZSkgPT4gewogICAgICAgICAgICBlcnJvcihlKQogICAgICAgICAgfSlkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pLmNhdGNoKGUgPT4gewogICAgICAgICAgICB0aGlzLnJlamVjdChlKQogICAgICAgICAgfSkKICAgICAgICB9KS5jYXRjaChlID0+IHsKICAgICAgICAgIHRoaXMuJGVycm9yKGUpCiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcmVzID0gYXdhaXQgY3JlYXRlTWVhc3VyZW1lbnQodGhpcy5tZWFzdXJlbWVudCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/this.instance/instance</text>
