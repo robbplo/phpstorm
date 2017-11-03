@@ -296,13 +296,12 @@
       <file name="/Dummy.txt" timestamp="1509703735029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1509705471952">
-        <mark key="'" line="109" column="17" />
-        <mark key="[" line="118" column="16" />
+      <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1509706577391">
+        <mark key="[" line="114" column="65" />
         <mark key="l" line="71" column="3" />
-        <mark key="]" line="118" column="16" />
-        <mark key="^" line="118" column="16" />
-        <mark key="." line="118" column="16" />
+        <mark key="]" line="114" column="65" />
+        <mark key="." line="114" column="65" />
+        <mark key="^" line="114" column="68" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/CustomerSeeder.php" timestamp="1508147541188">
         <mark key="[" line="16" column="37" />
@@ -440,10 +439,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>close</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>close</text>
       </register>
       <register name="/" type="4">
         <text>muscle</text>
@@ -452,36 +451,36 @@
         <text encoding="base64">ICAgICAgICBjb25zdCB3ZWlnaHQgPSB0aGlzLiRzdG9yZS5zdGF0ZS5jdXN0b21lci5tZXRhLndlaWdodAogICAgICAgIGNvbnN0IGxlbmd0aCA9IHRoaXMuJHN0b3JlLnN0YXRlLmN1c3RvbWVyLm1ldGEubGVuZ3RoIC8gMTAwCiAgICAgICAgcmV0dXJuICgod2VpZ2h0IC8gbGVuZ3RoKSAvIGxlbmd0aCkudG9GaXhlZCgyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiByZXMK</text>
+        <text encoding="base64">ICAgICAgICAgIG4pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcykK</text>
+      <register name="2" type="4">
+        <text encoding="base64">b3RpZmljYXRpb24oewogICAgICAgICAgICBtZXNzYWdlOiAnV2VlZ21vbWVudCAnLAogICAgICAgICAgICBwb3M6ICd0b3AtcmlnaHQnCiAgICAgICAgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiByZXMK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcykK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>) {
           
         }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBpbXBvcnQgVUlLaXQgZnJvbSAndWlraXQnCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIGNyZWF0ZWQgKCkgewogICAgICBhd2FpdCB3aW5kb3cuc2V0VGltZW91dChudWxsLCAxNTApCiAgICAgIFVJS2l0Lm1vZGFsKGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNuZXctd2VpZ2h0LW1vbWVudCcpKS5zaG93KCkKICAgIH0sCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF0dHJvYml0ZQo=</text>
+        <text encoding="base64">ICBpbXBvcnQgVUlLaXQgZnJvbSAndWlraXQnCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/decimal,1/decimal:1/g</text>
