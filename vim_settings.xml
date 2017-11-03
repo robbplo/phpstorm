@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/product-tool/resources/assets/js/components/ProductShow.vue" timestamp="1509523481937">
@@ -200,13 +200,12 @@
       <file name="$USER_HOME$/code/coach-frontend/components/PsmInput.vue" timestamp="1509698898576">
         <mark key="p" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" timestamp="1509703476292">
+      <file name="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" timestamp="1509708384869">
         <mark key="a" line="106" column="11" />
-        <mark key="'" line="48" column="29" />
-        <mark key="[" line="49" column="38" />
-        <mark key="]" line="49" column="42" />
-        <mark key="." line="49" column="42" />
-        <mark key="^" line="49" column="42" />
+        <mark key="'" line="19" column="53" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/plugins/vee-validate.js" timestamp="1509704080838">
         <mark key="[" line="6" column="0" />
@@ -372,7 +371,6 @@
       <jump line="86" column="3" filename="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" />
       <jump line="91" column="6" filename="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" />
       <jump line="38" column="42" filename="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" />
-      <jump line="19" column="17" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
       <jump line="27" column="66" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
       <jump line="150" column="8" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
       <jump line="16" column="5" filename="$USER_HOME$/code/coach-frontend/api/index.js" />
@@ -436,60 +434,59 @@
       <jump line="48" column="29" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
       <jump line="38" column="33" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="109" column="17" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
+      <jump line="19" column="53" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>close</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRyZW5kID0gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>close</text>
+        <text>'fall'</text>
       </register>
       <register name="/" type="4">
-        <text>muscle</text>
+        <text encoding="base64">aWNvbjog</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCB3ZWlnaHQgPSB0aGlzLiRzdG9yZS5zdGF0ZS5jdXN0b21lci5tZXRhLndlaWdodAogICAgICAgIGNvbnN0IGxlbmd0aCA9IHRoaXMuJHN0b3JlLnN0YXRlLmN1c3RvbWVyLm1ldGEubGVuZ3RoIC8gMTAwCiAgICAgICAgcmV0dXJuICgod2VpZ2h0IC8gbGVuZ3RoKSAvIGxlbmd0aCkudG9GaXhlZCgyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRyZW5kID0gCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">b3RpZmljYXRpb24oewogICAgICAgICAgICBtZXNzYWdlOiAnV2VlZ21vbWVudCAnLAogICAgICAgICAgICBwb3M6ICd0b3AtcmlnaHQnCiAgICAgICAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRyZW5kID0gJ3Jpc2UnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdHJlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiByZXMK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbmV3ID0gdGhpcy5tZWFzdXJlbWVudHNbaW5kZXhdW3Byb3BlcnR5XQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlcykK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgb2xkID0gdGhpcy5tZWFzdXJlbWVudHNbaW5kZXhdW3Byb3BlcnR5XQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIG4pCg==</text>
       </register>
       <register name="8" type="4">
-        <text>) {
-          
-        }</text>
+        <text encoding="base64">b3RpZmljYXRpb24oewogICAgICAgICAgICBtZXNzYWdlOiAnV2VlZ21vbWVudCAnLAogICAgICAgICAgICBwb3M6ICd0b3AtcmlnaHQnCiAgICAgICAgICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBvcnQgVUlLaXQgZnJvbSAndWlraXQnCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/decimal,1/decimal:1/g</text>
       </register>
     </registers>
     <search>
-      <last-search>muscle</last-search>
+      <last-search encoding="base64">aWNvbjog</last-search>
       <last-offset />
-      <last-pattern>muscle</last-pattern>
+      <last-pattern encoding="base64">aWNvbjog</last-pattern>
       <last-replace>decimal:1</last-replace>
       <last-substitute>decimal,1</last-substitute>
       <last-dir>1</last-dir>
@@ -497,7 +494,6 @@
     </search>
     <history>
       <history-search>
-        <entry>async</entry>
         <entry>length</entry>
         <entry>this.instance</entry>
         <entry>api.</entry>
@@ -517,6 +513,7 @@
         <entry>decimal,1</entry>
         <entry>fat</entry>
         <entry>muscle</entry>
+        <entry encoding="base64">aWNvbjog</entry>
       </history-search>
       <history-cmd>
         <entry>s/'/&quot;/g</entry>
