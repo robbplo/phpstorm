@@ -55,18 +55,18 @@
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/nuxt.config.js" timestamp="1510047163849">
+      <file name="$USER_HOME$/code/coach-frontend/nuxt.config.js" timestamp="1510058094315">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="5" column="34" />
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1509545646097">
-        <mark key="'" line="41" column="16" />
-        <mark key="[" line="27" column="86" />
-        <mark key="]" line="56" column="39" />
-        <mark key="." line="56" column="39" />
-        <mark key="^" line="56" column="39" />
+      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1510057822989">
+        <mark key="'" line="27" column="48" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="27" column="48" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/ContractorSeeder.php" timestamp="1509439209048">
         <mark key="[" line="14" column="35" />
@@ -136,6 +136,12 @@
         <mark key="[" line="147" column="0" />
         <mark key="]" line="147" column="0" />
         <mark key="." line="147" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/coach-frontend/layouts/default.vue" timestamp="1510057507846">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="9" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/EstablishmentSeeder.php" timestamp="1509439243486">
         <mark key="[" line="16" column="42" />
@@ -209,17 +215,15 @@
         <mark key="^" line="15" column="42" />
         <mark key="." line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" timestamp="1509708384869">
-        <mark key="a" line="106" column="11" />
-        <mark key="'" line="19" column="53" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
-      </file>
       <file name="$USER_HOME$/code/coach-frontend/plugins/vee-validate.js" timestamp="1509704080838">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/coach-frontend/.eslintrc.js" timestamp="1510057269193">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/components/Test.vue" timestamp="1509699096885">
         <mark key="[" line="1" column="22" />
@@ -291,20 +295,14 @@
         <mark key="^" line="22" column="15" />
         <mark key="." line="22" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510051913181">
+      <file name="/Dummy.txt" timestamp="1510057483213">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1509706577391">
-        <mark key="[" line="114" column="65" />
-        <mark key="l" line="71" column="3" />
-        <mark key="]" line="114" column="65" />
-        <mark key="." line="114" column="65" />
-        <mark key="^" line="114" column="68" />
-      </file>
-      <file name="$USER_HOME$/code/coach-backend/app/Http/Middleware/CorsMiddleware.php" timestamp="1510046705244">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/code/coach-backend/app/Http/Middleware/CorsMiddleware.php" timestamp="1510058771127">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="22" column="8" />
+        <mark key="." line="22" column="8" />
+        <mark key="^" line="22" column="8" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/CustomerSeeder.php" timestamp="1508147541188">
         <mark key="[" line="16" column="37" />
@@ -344,8 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="46" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
-      <jump line="37" column="30" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="39" column="0" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="30" column="44" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="60" column="19" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
@@ -444,13 +440,15 @@
       <jump line="137" column="50" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/EstablishmentController.php" />
       <jump line="142" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/EstablishmentController.php" />
       <jump line="147" column="36" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/EstablishmentController.php" />
+      <jump line="14" column="42" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
+      <jump line="27" column="48" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>co</text>
@@ -459,34 +457,34 @@
         <text encoding="base64">ICAgICAgICAkcm91dGVyLT5nZXQoJy97aWR9JywgJ0NvbnRyYWN0b3JDb250cm9sbGVyQHNob3cnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcGljdHVyZTogJ2h0dHBzOi8vcmFuZG9tdXNlci5tZS9hcGkvcG9ydHJhaXRzL3dvbWVuLzU3LmpwZycsCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvOiBSZXBsYWNlIHdpdGggcmVsZWFzZSB1cmwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEFwcFxIdHRwXE1pZGRsZXdhcmVcQ29yc01pZGRsZXdhcmU6OmNsYXNzLAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSAkbmV4dCgkcmVxdWVzdCk7CgogICAgICAgIC8vIHRvZG86IFJlcGxhY2Ugd2l0aCByZWxlYXNlIHVybAogICAgICAgICRyZXNwb25zZS0+aGVhZGVyKCdBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW4nLCAnKicpOwoKICAgICAgICByZXR1cm4gJHJlc3BvbnNlOwo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJHJlcXVlc3QtPmlzTWUK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">dGhvZCgnb3B0aW9ucycpKSB7CiAgICAgICAgICAgIHJldHVybiByZXNwb25zZSgnJywgMjAwKQogICAgICAgICAgICAgICAgLT5oZWFkZXIoJ0FjY2Vzcy1Db250cm9sLUFsbG93LU1ldGhvZHMnLCAnUE9TVCwgR0VULCBPUFRJT05TLCBQVVQsIERFTEVURScpCiAgICAgICAgICAgICAgICAtPmhlYWRlcignQWNjZXNzLUNvbnRyb2wtQWxsb3ctSGVhZGVycycsICdhY2NlcHQsIGF1dGhvcml6YXRpb24sIGNvbnRlbnQtdHlwZSwgeC14c3JmLXRva2VuLCB4LWNzcmYtdG9rZW4sIHgtZ2F0ZXdheS11cmwnKQogICAgICAgICAgICAgICAgLT5oZWFkZXIoJ0FjY2Vzcy1Db250cm9sLUFsbG93LU9yaWdpbicsICcqJyk7CiAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgIDprZXk9ImluZGV4Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA0NGNmYTFkY2EzMmM4NDI4ZWI3NDBiOTYxZDMzMTQ1OGNjNGJhYzg2Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuY3VzdG9tZXJzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAtPnNldFF1ZXJ5KEVzdGFibGlzaG1lbnQ6OnB1YmxpY0lkKCRpZCwgZmFsc2UpLT5jdXN0b21lcnMoKSkK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIDxkaXYgaWQ9ImhvbWUtb2ZmY2FudmFzLW92ZXJsYXkiIHVrLW9mZmNhbnZhcz0ib3ZlcmxheTogdHJ1ZSI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay1vZmZjYW52YXMtYmFyIj4KICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJ1ay1vZmZjYW52YXMtY2xvc2UiIHR5cGU9ImJ1dHRvbiIgdWstY2xvc2U+PC9idXR0b24+CgogICAgICAgICAgICAgICAgICAgIDxoMz5Ib21lPC9oMz4KICAgICAgICAgICAgICAgICAgICA8cD5MYXRlciBkaXQgamFhciBiZXJzY2hpa2JhYXIuPC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAtPnNldFF1ZXJ5KEVzdGFibGlzaG1lbnQ6OnB1YmxpY0lkKCRpZCwgZmFsc2UpLT5jb2FjaGVzKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Establishment/Customer/g</text>
