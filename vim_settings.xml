@@ -36,7 +36,7 @@
         <mark key="^" line="31" column="46" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" timestamp="1509642153226">
+      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" timestamp="1510129442632">
         <mark key="'" line="65" column="34" />
         <mark key="[" line="79" column="10" />
         <mark key="]" line="79" column="10" />
@@ -56,17 +56,18 @@
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/nuxt.config.js" timestamp="1510058094315">
-        <mark key="[" line="5" column="36" />
-        <mark key="]" line="5" column="34" />
-        <mark key="." line="5" column="34" />
+      <file name="$USER_HOME$/code/coach-frontend/nuxt.config.js" timestamp="1510128963451">
+        <mark key="'" line="98" column="29" />
+        <mark key="[" line="97" column="30" />
+        <mark key="]" line="97" column="30" />
+        <mark key="." line="97" column="30" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1510065811249">
-        <mark key="[" line="106" column="33" />
-        <mark key="]" line="109" column="28" />
-        <mark key="^" line="109" column="28" />
-        <mark key="." line="109" column="28" />
+      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1510128061271">
+        <mark key="'" line="28" column="8" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Exceptions/Handler.php" timestamp="1510069786687">
         <mark key="[" line="51" column="5" />
@@ -92,18 +93,6 @@
         <mark key="]" line="715" column="43" />
         <mark key="." line="715" column="43" />
         <mark key="^" line="715" column="43" />
-      </file>
-      <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/AppointmentController.php" timestamp="1510042157963">
-        <mark key="'" line="141" column="35" />
-        <mark key="[" line="62" column="73" />
-      </file>
-      <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" timestamp="1510042801956">
-        <mark key="'" line="258" column="4" />
-        <mark key="[" line="209" column="39" />
-        <mark key="]" line="210" column="48" />
-        <mark key="." line="210" column="48" />
-        <mark key="^" line="210" column="48" />
-        <mark key="n" line="11" column="21" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/AppointmentCollection.php" timestamp="1509017079160">
         <mark key="'" line="13" column="6" />
@@ -148,8 +137,8 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/code/coach-backend/database/seeds/EstablishmentSeeder.php" timestamp="1509439243486">
-        <mark key="[" line="16" column="42" />
+      <file name="$USER_HOME$/code/coach-backend/database/seeds/EstablishmentSeeder.php" timestamp="1510127683675">
+        <mark key="[" line="16" column="43" />
         <mark key="]" line="16" column="43" />
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="7" />
@@ -216,6 +205,13 @@
         <mark key="^" line="15" column="42" />
         <mark key="." line="15" column="42" />
       </file>
+      <file name="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" timestamp="1510128163669">
+        <mark key="a" line="106" column="11" />
+        <mark key="'" line="150" column="8" />
+        <mark key="[" line="145" column="22" />
+        <mark key="]" line="145" column="22" />
+        <mark key="." line="145" column="22" />
+      </file>
       <file name="$USER_HOME$/code/coach-frontend/plugins/vee-validate.js" timestamp="1509704080838">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -270,6 +266,12 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
+      <file name="$USER_HOME$/code/coach-backend/database/seeds/CoachSeeder.php" timestamp="1510127622933">
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="16" column="34" />
+        <mark key="^" line="16" column="34" />
+        <mark key="." line="16" column="34" />
+      </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/MeasurementController.php" timestamp="1510042255017">
         <mark key="'" line="5" column="4" />
         <mark key="[" line="189" column="9" />
@@ -296,7 +298,7 @@
         <mark key="^" line="22" column="15" />
         <mark key="." line="22" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510066222074">
+      <file name="/Dummy.txt" timestamp="1510128028208">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Http/Middleware/CorsMiddleware.php" timestamp="1510066542601" />
@@ -338,10 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="19" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
-      <jump line="35" column="36" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
-      <jump line="41" column="34" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
-      <jump line="42" column="36" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
       <jump line="48" column="29" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
       <jump line="38" column="33" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="109" column="17" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
@@ -438,58 +436,64 @@
       <jump line="27" column="48" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="527" column="32" filename="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" />
       <jump line="95" column="13" filename="$USER_HOME$/code/coach-backend/app/Exceptions/Handler.php" />
+      <jump line="28" column="8" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="146" column="30" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
+      <jump line="150" column="8" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
+      <jump line="98" column="29" filename="$USER_HOME$/code/coach-frontend/nuxt.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>, ssr: false</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>, ssr: false</text>
       </register>
       <register name="/" type="4">
-        <text>co</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcm91dGVyLT5nZXQoJy97aWR9JywgJ0NvbnRyYWN0b3JDb250cm9sbGVyQHNob3cnKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2c6OmVycm9yKChuZXcgXFJlZmxlY3Rpb25DbGFzcygkZSkpLT5nZXRTaG9ydE5hbWUoKSAuICI6IHskZS0+Z2V0TWVzc2FnZSgpfSIpOwo=</text>
+      <register name="1" type="4">
+        <text>{
+        return this.$store.state.customer.measurements
+      }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZGV0YWlsID0gIkFuIHVua25vd24gZXJyb3IgaGFzIG9jY3VycmVkLiBFcnJvciBtZXNzYWdlOiAneyRlLT5nZXRNZXNzYWdlKCl9JyIK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjdXN0b21lcnMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRpdGxlID0gIlVuZXhwZWN0ZWQgRXJyb3I6ICIuIDsK</text>
+        <text encoding="base64">ICAgICAge3sgY3VzdG9tZXJzLmxlbmd0aCB9fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2c6OmVycm9yKChuZXcgXFJlZmxlY3Rpb25DbGFzcygkZSkpLT5nZXRTaG9ydE5hbWUoKSAuICI6IHskZS0+Z2V0TWVzc2FnZSgpfSIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZGV0YWlsID0gIkFuIHVua25vd24gZXJyb3IgaGFzIG9jY3VycmVkLiBFcnJvciBtZXNzYWdlOiAneyRlLT5nZXRNZXNzYWdlKCl9JyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRpdGxlID0gIlVuZXhwZWN0ZWQgRXJyb3I6ICIuIDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>s/Establishment/Customer/g</text>
       </register>
     </registers>
     <search>
-      <last-search>co</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>co</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>Customer</last-replace>
       <last-substitute>Establishment</last-substitute>
       <last-dir>1</last-dir>
@@ -497,7 +501,6 @@
     </search>
     <history>
       <history-search>
-        <entry>contractorId</entry>
         <entry>customerId</entry>
         <entry>establishmentId</entry>
         <entry>measurementId</entry>
@@ -517,6 +520,7 @@
         <entry>Coa</entry>
         <entry>Co</entry>
         <entry>co</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">cy8tPi8tPlxy</entry>
