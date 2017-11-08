@@ -15,7 +15,6 @@
         <mark key="]" line="39" column="55" />
         <mark key="." line="39" column="55" />
       </file>
-      <file name="$USER_HOME$/code/coach-backend/.env" timestamp="1510069137821" />
       <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" timestamp="1510044626967">
         <mark key="'" line="146" column="44" />
         <mark key="[" line="124" column="45" />
@@ -36,12 +35,12 @@
         <mark key="^" line="31" column="46" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" timestamp="1510134632122">
+      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" timestamp="1510146555542">
         <mark key="'" line="65" column="34" />
-        <mark key="[" line="79" column="10" />
-        <mark key="]" line="79" column="10" />
-        <mark key="." line="79" column="10" />
-        <mark key="^" line="65" column="22" />
+        <mark key="[" line="80" column="27" />
+        <mark key="]" line="80" column="26" />
+        <mark key="." line="80" column="26" />
+        <mark key="^" line="80" column="26" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/ContractorController.php" timestamp="1510044639691">
         <mark key="'" line="104" column="55" />
@@ -201,12 +200,9 @@
         <mark key="^" line="15" column="42" />
         <mark key="." line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" timestamp="1510145656723">
+      <file name="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" timestamp="1510146657732">
         <mark key="a" line="106" column="11" />
         <mark key="'" line="150" column="8" />
-        <mark key="[" line="5" column="50" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
         <mark key="^" line="3" column="3" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/plugins/vee-validate.js" timestamp="1509704080838">
@@ -307,7 +303,6 @@
       <file name="/Dummy.txt" timestamp="1510144734433">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-backend/app/Http/Middleware/CorsMiddleware.php" timestamp="1510066542601" />
       <file name="$USER_HOME$/code/coach-backend/database/seeds/CustomerSeeder.php" timestamp="1508147541188">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="16" column="38" />
@@ -449,7 +444,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgOmNsYXNzPSJ7J3VrLW9wZW4nOiBpbmRleCA9PT0gMH0iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dWstc2Nyb2xsc3B5PSJ0YXJnZXQ6ID4gbGk7IGNsczogdWstYW5pbWF0aW9uLXNsaWRlLWJvdHRvbS1zbWFsbDsgZGVsYXk6IDI1MDsi</text>
@@ -461,36 +456,34 @@
         <text encoding="base64">ICAgICAgICAkcm91dGVyLT5nZXQoJy97aWR9JywgJ0NvbnRyYWN0b3JDb250cm9sbGVyQHNob3cnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgOmNsYXNzPSJ7J3VrLW9wZW4nOiBpbmRleCA9PT0gMH0iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgOmNsYXNzPSJ7J3VrLW9wZW4nOiBpbmRleCA9PT0gMH0iCg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">dWstYWNjb3JkaW9uPSJtdWx0aXBsZTogdHJ1ZSIgdWstZ3JpZAogICAgICA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICB7eyBtZWFzdXJlbWVudC53ZWlnaHQgfX08c3VwPmtnPC9zdXA+Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgJ3Vpa2l0JywK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PHRlbXBsYXRlPgogIDxkaXYgaWQ9Im5ldy13ZWlnaHQtbW9tZW50IiB1ay1tb2RhbD4KICAgIDxkaXYgY2xhc3M9InVrLW1vZGFsLWRpYWxvZyB1ay1tb2RhbC1ib2R5Ij4KCiAgICAgIDxoMiBjbGFzcz0idWstdGV4dC1sZWFkIj57eyAkdCgnbWVhc3VyZW1lbnRzLm5ldycpIH19LCB7eyB0b2RheSB9fTwvaDI+CiAgICAgIDxwIGNsYXNzPSJ1ay10ZXh0LW1ldGEiPgogICAgICAgIDwhLS1UT0RPOiBSZXBsYWNlIG9yIHJlbW92ZSBwbGFjZWhvbGRlciB0ZXh0LS0+CiAgICAgICAgTG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdC4gRnVzY2UgYWxpcXVhbSBhdWN0b3IgbWFzc2EsIGluIHNhZ2l0dGlzIHR1cnBpcyBtYXR0aXMgYWMuCiAgICAgIDwvcD4KCiAgICAgIDxmb3JtIEBzdWJtaXQucHJldmVudD0iaGFuZGxlU3VibWl0Ij4KICAgICAgICA8ZmllbGRzZXQgY2xhc3M9InVrLWZpZWxkc2V0Ij4KCiAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay1tYXJnaW4iPgogICAgICAgICAgICA8aW5wdXQgY2xhc3M9InVrLWlucHV0IgogICAgICAgICAgICAgICAgICAgbmFtZT0id2VpZ2h0IgogICAgICAgICAgICAgICAgICAgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgICAgIDpwbGFjZWhvbGRlcj0iJHQoJ3VzZXIud2VpZ2h0JykgKyAnICglKSonIgogICAgICAgICAgICAgICAgICAgdi12YWxpZGF0ZT0iJ3JlcXVpcmVkfGRlY2ltYWw6MSciCiAgICAgICAgICAgICAgICAgICB2LW1vZGVsPSJtZWFzdXJlbWVudC53ZWlnaHQiPgogICAgICAgICAgICA8IS0tPHNtYWxsIGNsYXNzPSJ1ay10ZXh0LWRhbmdlciI+e3sgZXJyb3JzLmZpcnN0KCd3ZWlnaHQnKSB9fTwvc21hbGw+LS0+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay1tYXJnaW4iPgogICAgICAgICAgICA8aW5wdXQgY2xhc3M9InVrLWlucHV0IgogICAgICAgICAgICAgICAgICAgbmFtZT0iYm9keV93YXRlciIKICAgICAgICAgICAgICAgICAgIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgICAgICA6cGxhY2Vob2xkZXI9IiR0KCd1c2VyLmJvZHlfd2F0ZXInKSArICcgKCUpKiciCiAgICAgICAgICAgICAgICAgICB2LXZhbGlkYXRlPSIncmVxdWlyZWR8ZGVjaW1hbDoxJyIKICAgICAgICAgICAgICAgICAgIHYtbW9kZWw9Im1lYXN1cmVtZW50LmJvZHlfd2F0ZXIiPgogICAgICAgICAgICA8IS0tPHNtYWxsIGNsYXNzPSJ1ay10ZXh0LWRhbmdlciI+e3sgZXJyb3JzLmZpcnN0KCdib2R5X3dhdGVyJykgfX08L3NtYWxsPi0tPgogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgPGRpdiBjbGFzcz0idWstbWFyZ2luIj4KICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJ1ay1pbnB1dCIKICAgICAgICAgICAgICAgICAgIG5hbWU9ImJvZHlfZmF0IgogICAgICAgICAgICAgICAgICAgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgICAgIDpwbGFjZWhvbGRlcj0iJHQoJ3VzZXIuYm9keV9mYXQnKSArICcgKCUpKiciCiAgICAgICAgICAgICAgICAgICB2LXZhbGlkYXRlPSIncmVxdWlyZWR8ZGVjaW1hbDoxJyIKICAgICAgICAgICAgICAgICAgIHYtbW9kZWw9Im1lYXN1cmVtZW50LmJvZHlfZmF0Ij4KICAgICAgICAgICAgPCEtLTxzbWFsbCBjbGFzcz0idWstdGV4dC1kYW5nZXIiPnt7IGVycm9ycy5maXJzdCgnYm9keV9mYXQnKSB9fTwvc21hbGw+LS0+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay1tYXJnaW4iPgogICAgICAgICAgICA8aW5wdXQgY2xhc3M9InVrLWlucHV0IgogICAgICAgICAgICAgICAgICAgbmFtZT0ibXVzY2xlX21hc3MiCiAgICAgICAgICAgICAgICAgICB0eXBlPSJ0ZXh0IgogICAgICAgICAgICAgICAgICAgOnBsYWNlaG9sZGVyPSIkdCgndXNlci5tdXNjbGVfbWFzcycpICsgJyAoJSkqJyIKICAgICAgICAgICAgICAgICAgIHYtdmFsaWRhdGU9IidyZXF1aXJlZHxkZWNpbWFsOjEnIgogICAgICAgICAgICAgICAgICAgdi1tb2RlbD0ibWVhc3VyZW1lbnQubXVzY2xlX21hc3MiPgogICAgICAgICAgICA8IS0tPHNtYWxsIGNsYXNzPSJ1ay10ZXh0LWRhbmdlciI+e3sgZXJyb3JzLmZpcnN0KCdtdXNjbGVfbWFzcycpIH19PC9zbWFsbD4tLT4KICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIDxkaXYgY2xhc3M9InVrLW1hcmdpbiI+CiAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0idWstaW5wdXQiCiAgICAgICAgICAgICAgICAgICBuYW1lPSJ3YWlzdCIKICAgICAgICAgICAgICAgICAgIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgICAgICA6cGxhY2Vob2xkZXI9IiR0KCd1c2VyLndhaXN0JykgKyAnIChjbSkqJyIKICAgICAgICAgICAgICAgICAgIHYtdmFsaWRhdGU9IidyZXF1aXJlZHxkZWNpbWFsOjEnIgogICAgICAgICAgICAgICAgICAgdi1tb2RlbD0ibWVhc3VyZW1lbnQud2Fpc3QiPgogICAgICAgICAgICA8IS0tPHNtYWxsIGNsYXNzPSJ1ay10ZXh0LWRhbmdlciI+e3sgZXJyb3JzLmZpcnN0KCd3YWlzdCcpIH19PC9zbWFsbD4tLT4KICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIDxkaXYgY2xhc3M9InVrLW1hcmdpbiI+CiAgICAgICAgICAgIDx0ZXh0YXJlYSBjbGFzcz0idWstdGV4dGFyZWEiCiAgICAgICAgICAgICAgICAgICAgICBuYW1lPSJub3RlcyIKICAgICAgICAgICAgICAgICAgICAgIHJvd3M9IjUiCiAgICAgICAgICAgICAgICAgICAgICA6cGxhY2Vob2xkZXI9IiR0KCdtZWFzdXJlbWVudHMubm90ZXMnKSIKICAgICAgICAgICAgICAgICAgICAgIHYtbW9kZWw9Im1lYXN1cmVtZW50Lm5vdGVzIj48L3RleHRhcmVhPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9maWVsZHNldD4KICAgICAgICA8cCBjbGFzcz0idWstdGV4dC1yaWdodCI+CiAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJ1ay1idXR0b24gdWstYnV0dG9uLWRlZmF1bHQgdWstbW9kYWwtY2xvc2UiIHR5cGU9ImJ1dHRvbiI+e3sgJHQoJ2Zvcm0uY2FuY2VsJykgfX08L2J1dHRvbj4KICAgICAgICAgIDxpbnB1dCBjbGFzcz0idWstYnV0dG9uIHVrLWJ1dHRvbi1wcmltYXJ5IiB0eXBlPSJzdWJtaXQiIDp2YWx1ZT0iJHQoJ2Zvcm0uc3VibWl0JykiPgogICAgICAgIDwvcD4KICAgICAgPC9mb3JtPgogICAgPC9kaXY+CiAgPC9kaXY+CjwvdGVtcGxhdGU+Cgo8c2NyaXB0PgogIGltcG9ydCBtb21lbnQgZnJvbSAnbW9tZW50JwogIGltcG9ydCB7IGNyZWF0ZU1lYXN1cmVtZW50IH0gZnJvbSAnfi9hcGknCgogIGV4cG9ydCBkZWZhdWx0IHsKICAgIGRhdGEgKCkgewogICAgICByZXR1cm4gewogICAgICAgIG1lYXN1cmVtZW50OiB7CiAgICAgICAgICBjb2FjaF9pZDogdGhpcy4kc3RvcmUuc3RhdGUudXNlci5faWQsCiAgICAgICAgICBjdXN0b21lcl9pZDogdGhpcy4kc3RvcmUuc3RhdGUuY3VzdG9tZXIuX2lkLAogICAgICAgICAgd2VpZ2h0OiAnJywKICAgICAgICAgIGJvZHlfZmF0OiAnJywKICAgICAgICAgIGJvZHlfd2F0ZXI6ICcnLAogICAgICAgICAgbXVzY2xlX21hc3M6ICcnLAogICAgICAgICAgd2Fpc3Q6ICcnLAogICAgICAgICAgbm90ZXM6ICcnCiAgICAgICAgfQogICAgICB9CiAgICB9LAogICAgbWV0aG9kczogewogICAgICBhc3luYyBoYW5kbGVTdWJtaXQgKCkgewogICAgICAgIGxldCB2YWxpZCA9IGF3YWl0IHRoaXMuJHZhbGlkYXRvci52YWxpZGF0ZUFsbCgpCiAgICAgICAgaWYgKCF2YWxpZCkgewogICAgICAgICAgcmV0dXJuIGZhbHNlCiAgICAgICAgfQogICAgICAgIHRyeSB7CiAgICAgICAgICAvLyBtb2RhbChkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCcjbmV3LXdlaWdodC1tb21lbnQnKSkuaGlkZSgpCiAgICAgICAgICByZXR1cm4gY3JlYXRlTWVhc3VyZW1lbnQodGhpcy5tZWFzdXJlbWVudCkKICAgICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgICBjb25zb2xlLmxvZyhlKQogICAgICAgIH0KICAgICAgfQogICAgfSwKICAgIGNvbXB1dGVkOiB7CiAgICAgIHRvZGF5ICgpIHsKICAgICAgICByZXR1cm4gbW9tZW50KCkubG9jYWxlKHRoaXMuJHN0b3JlLnN0YXRlLmxvY2FsZSkuZm9ybWF0KCdMTCcpCiAgICAgIH0KICAgIH0KICB9Cjwvc2NyaXB0Pgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIGJvZHlfd2F0ZXI6ICcnLAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDpjbGFzcz0ieyAndWstZm9ybS1kYW5nZXInOiBlcnJvcnMuaGFzKCdtdXNjbGVfbWFzcycpIH0iCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBlcnJvcnM6IHtoYXMgKCkge319Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>{
-        return this.$store.state.customer.measurements
-      }</text>
       </register>
       <register name=":" type="4">
         <text>s/Establishment/Customer/g</text>
