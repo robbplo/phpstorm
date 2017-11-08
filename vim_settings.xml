@@ -220,12 +220,12 @@
         <mark key="^" line="84" column="30" />
         <mark key="." line="84" column="30" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/locales/nl.json" timestamp="1509703286678">
+      <file name="$USER_HOME$/code/coach-frontend/locales/nl.json" timestamp="1510150220121">
         <mark key="'" line="21" column="54" />
-        <mark key="[" line="45" column="5" />
-        <mark key="]" line="44" column="9" />
-        <mark key="." line="44" column="9" />
-        <mark key="^" line="44" column="9" />
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="22" />
+        <mark key="." line="28" column="22" />
+        <mark key="^" line="28" column="22" />
       </file>
       <file name="/JavaScript Console" timestamp="1510134090282">
         <mark key="[" line="0" column="0" />
@@ -281,12 +281,12 @@
       <file name="/Dummy.txt" timestamp="1510148452756">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1510149164084">
-        <mark key="'" line="15" column="60" />
-        <mark key="[" line="50" column="36" />
-        <mark key="]" line="49" column="21" />
-        <mark key="." line="49" column="21" />
-        <mark key="^" line="49" column="21" />
+      <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1510150794746">
+        <mark key="'" line="60" column="5" />
+        <mark key="[" line="4" column="61" />
+        <mark key="]" line="82" column="18" />
+        <mark key="." line="82" column="18" />
+        <mark key="^" line="82" column="18" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/CustomerSeeder.php" timestamp="1508147541188">
         <mark key="[" line="16" column="37" />
@@ -332,7 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="53" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
       <jump line="145" column="7" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
       <jump line="122" column="5" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
       <jump line="174" column="54" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
@@ -432,16 +431,17 @@
       <jump line="92" column="24" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="15" column="60" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
+      <jump line="60" column="5" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Notitie</text>
+        <text>16 augustus 2017</text>
       </register>
       <register name="-" type="4">
-        <text>Notitie</text>
+        <text>16 augustus 2017</text>
       </register>
       <register name="/" type="4">
-        <text>place</text>
+        <text>Ops</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcm91dGVyLT5nZXQoJy97aWR9JywgJ0NvbnRyYWN0b3JDb250cm9sbGVyQHNob3cnKTsK</text>
@@ -481,9 +481,9 @@
       </register>
     </registers>
     <search>
-      <last-search>place</last-search>
+      <last-search>Ops</last-search>
       <last-offset />
-      <last-pattern>place</last-pattern>
+      <last-pattern>Ops</last-pattern>
       <last-replace>Customer</last-replace>
       <last-substitute>Establishment</last-substitute>
       <last-dir>1</last-dir>
@@ -491,8 +491,6 @@
     </search>
     <history>
       <history-search>
-        <entry>establishmentId</entry>
-        <entry>measurementId</entry>
         <entry>show</entry>
         <entry>}</entry>
         <entry>showm</entry>
@@ -511,6 +509,8 @@
         <entry>co</entry>
         <entry>log</entry>
         <entry>place</entry>
+        <entry>ops</entry>
+        <entry>Ops</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">cy8tPi8tPlxy</entry>
