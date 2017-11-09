@@ -309,12 +309,12 @@
       <file name="/Dummy.txt" timestamp="1510148452756">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1510216083644">
+      <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1510218373997">
         <mark key="'" line="67" column="12" />
-        <mark key="[" line="28" column="57" />
-        <mark key="]" line="28" column="57" />
-        <mark key="." line="28" column="57" />
-        <mark key="^" line="28" column="56" />
+        <mark key="[" line="116" column="42" />
+        <mark key="]" line="116" column="40" />
+        <mark key="." line="116" column="40" />
+        <mark key="^" line="116" column="40" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/CustomerSeeder.php" timestamp="1508147541188">
         <mark key="[" line="16" column="37" />
@@ -462,20 +462,20 @@
       <jump line="67" column="12" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>rue</text>
       </register>
       <register name="/" type="4">
-        <text>weight</text>
+        <text>{decimals: 2, separator: ','}[2, $t('form.separator')]</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gY2xhc3M9J3VrLXRleHQtZGFuZ2VyJyB2LWlmPSJlcnJvcnMuaGFzKCd3ZWlnaHQnKSI+e3sgZXJyb3JzLmZpcnN0KCd3ZWlnaHQnKSB9fTwvc3Bhbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -484,42 +484,41 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBkZAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJ2hvaScK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJ2hvaScK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgIAoK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICA8ZGl2IGlkPSJob21lLW9mZmNhbnZhcy1vdmVybGF5IiB1ay1vZmZjYW52YXM9Im92ZXJsYXk6IHRydWUiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstb2ZmY2FudmFzLWJhciI+CiAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0idWstb2ZmY2FudmFzLWNsb3NlIiB0eXBlPSJidXR0b24iIHVrLWNsb3NlPjwvYnV0dG9uPgoKICAgICAgICAgICAgICAgICAgICA8aDM+SG9tZTwvaDM+CiAgICAgICAgICAgICAgICAgICAgPHA+TGF0ZXIgZGl0IGphYXIgYmVyc2NoaWtiYWFyLjwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIDxkaXYgaWQ9ImNsaWVudHMtb2ZmY2FudmFzLW92ZXJsYXkiIHVrLW9mZmNhbnZhcz0ib3ZlcmxheTogdHJ1ZSI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay1vZmZjYW52YXMtYmFyIj4KICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJ1ay1vZmZjYW52YXMtY2xvc2UiIHR5cGU9ImJ1dHRvbiIgdWstY2xvc2U+PC9idXR0b24+CgogICAgICAgICAgICAgICAgICAgIDxjdXN0b21lci1saXN0PjwvY3VzdG9tZXItbGlzdD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIDxkaXYgaWQ9ImFnZW5kYS1vZmZjYW52YXMtb3ZlcmxheSIgdWstb2ZmY2FudmFzPSJvdmVybGF5OiB0cnVlIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLW9mZmNhbnZhcy1iYXIiPgogICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9InVrLW9mZmNhbnZhcy1jbG9zZSIgdHlwZT0iYnV0dG9uIiB1ay1jbG9zZT48L2J1dHRvbj4KCiAgICAgICAgICAgICAgICAgICAgPGgzPkFnZW5kYTwvaDM+CiAgICAgICAgICAgICAgICAgICAgPHA+TGF0ZXIgZGl0IGphYXIgYmVyc2NoaWtiYWFyLjwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIDxkaXYgaWQ9InNob3Atb2ZmY2FudmFzLW92ZXJsYXkiIHVrLW9mZmNhbnZhcz0ib3ZlcmxheTogdHJ1ZSI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay1vZmZjYW52YXMtYmFyIj4KICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJ1ay1vZmZjYW52YXMtY2xvc2UiIHR5cGU9ImJ1dHRvbiIgdWstY2xvc2U+PC9idXR0b24+CgogICAgICAgICAgICAgICAgICAgIDxoMz5XZWJzaG9wPC9oMz4KICAgICAgICAgICAgICAgICAgICA8cD5MYXRlciBkaXQgamFhciBiZXJzY2hpa2JhYXIuPC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgPGRpdiBpZD0ic2V0dGluZ3Mtb2ZmY2FudmFzLW92ZXJsYXkiIHVrLW9mZmNhbnZhcz0ib3ZlcmxheTogdHJ1ZSI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay1vZmZjYW52YXMtYmFyIj4KICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJ1ay1vZmZjYW52YXMtY2xvc2UiIHR5cGU9ImJ1dHRvbiIgdWstY2xvc2U+PC9idXR0b24+CgogICAgICAgICAgICAgICAgICAgIDxoMz5JbnN0ZWxsaW5nZW48L2gzPgogICAgICAgICAgICAgICAgICAgIDxwPkxhdGVyIGRpdCBqYWFyIGJlcnNjaGlrYmFhci48L3A+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+</text>
-      </register>
       <register name=":" type="4">
-        <text>s/weight/waist/g</text>
+        <text>%s/{decimals: 2, separator: ','}[2, $t('form.separator')]</text>
       </register>
     </registers>
     <search>
-      <last-search>weight</last-search>
+      <last-search>{decimals: 2, separator: ','}[2, $t('form.separator')]</last-search>
       <last-offset />
-      <last-pattern>weight</last-pattern>
-      <last-replace>waist</last-replace>
-      <last-substitute>weight</last-substitute>
+      <last-pattern>{decimals: 2, separator: ','}[2, $t('form.separator')]</last-pattern>
+      <last-replace />
+      <last-substitute>{decimals: 2, separator: ','}[2, $t('form.separator')]</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Coa</entry>
         <entry>Co</entry>
         <entry>co</entry>
         <entry>log</entry>
@@ -539,9 +538,9 @@
         <entry>v-m</entry>
         <entry>mass</entry>
         <entry>weight</entry>
+        <entry>{decimals: 2, separator: ','}[2, $t('form.separator')]</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">cy8tPi8tPlxyL2c=</entry>
         <entry>s/Contractor/Establishment/g</entry>
         <entry>%s/appointmentId/_id/g</entry>
         <entry>s/coachId/_id/g</entry>
@@ -561,6 +560,7 @@
         <entry>s/weight/body_fat/g</entry>
         <entry>s/weight/muscle_mass</entry>
         <entry>s/weight/waist/g</entry>
+        <entry>%s/{decimals: 2, separator: ','}[2, $t('form.separator')]</entry>
       </history-cmd>
       <history-expr />
       <history-input />
