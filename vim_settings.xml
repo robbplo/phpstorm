@@ -54,11 +54,11 @@
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/nuxt.config.js" timestamp="1510153104067">
-        <mark key="[" line="99" column="37" />
-        <mark key="]" line="99" column="37" />
-        <mark key="^" line="5" column="34" />
-        <mark key="." line="99" column="37" />
+      <file name="$USER_HOME$/code/coach-frontend/nuxt.config.js" timestamp="1510236317375">
+        <mark key="[" line="91" column="7" />
+        <mark key="]" line="91" column="5" />
+        <mark key="^" line="91" column="5" />
+        <mark key="." line="91" column="5" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1510128061271">
         <mark key="'" line="28" column="8" />
@@ -309,15 +309,12 @@
         <mark key="]" line="49" column="12" />
         <mark key="." line="49" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510148452756">
+      <file name="/Dummy.txt" timestamp="1510235899067">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1510232141883">
-        <mark key="'" line="104" column="10" />
-        <mark key="[" line="114" column="46" />
-        <mark key="]" line="114" column="46" />
-        <mark key="." line="114" column="46" />
-        <mark key="^" line="114" column="44" />
+      <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1510234591633">
+        <mark key="'" line="103" column="10" />
+        <mark key="[" line="113" column="83" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/CustomerSeeder.php" timestamp="1508147541188">
         <mark key="[" line="16" column="37" />
@@ -465,11 +462,11 @@
       <jump line="234" column="38" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>store</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgJ3Vpa2l0Jwo=</text>
       </register>
       <register name="-" type="4">
-        <text>store</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>not</text>
@@ -478,34 +475,34 @@
         <text encoding="base64">ICAgICAqICAgICBwYXRoPSIvY3VzdG9tZXJzL3tfaWR9L21lYXN1cmVtZW50cyIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2N1c3RvbWVyX2lkJywK</text>
+        <text encoding="base64">ICAgICAgJ3Vpa2l0Jwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2N1c3RvbWVyX2lkJyA9PiBbJ3JlcXVpcmVkJywgbmV3IFV1aWQsICdleGlzdHM6Y3VzdG9tZXJzLHB1YmxpY19pZCddLAo=</text>
+        <text encoding="base64">ICAgICAgJ21vbWVudCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqICAgICBwYXRoPSIvbWVhc3VyZW1lbnRzIiwK</text>
+        <text encoding="base64">ICBpbXBvcnQgVUlraXQgZnJvbSAndWlraXQnCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBTV0dcUG9zdCgKICAgICAqICAgICBwYXRoPSIvbWVhc3VyZW1lbnRzIiwKICAgICAqICAgICBzdW1tYXJ5PSJDcmVhdGUgYSBtZWFzdXJlbWVudCIsCiAgICAgKiAgICAgb3BlcmF0aW9uSWQ9Im1lYXN1cmVtZW50c1N0b3JlIiwKICAgICAqICAgICB0YWdzPXsibWVhc3VyZW1lbnQifSwKICAgICAqCiAgICAgKiAgICAgQFNXR1xQYXJhbWV0ZXIoCiAgICAgKiAgICAgICAgIG5hbWU9ImJvZHkiLAogICAgICogICAgICAgICBpbj0iYm9keSIsCiAgICAgKiAgICAgICAgIGRlc2NyaXB0aW9uPSJEYXRhIHRvIGNyZWF0ZSBhIG1lYXN1cmVtZW50IHdpdGgiLAogICAgICogICAgICAgICByZXF1aXJlZD10cnVlLAogICAgICogICAgICAgICBAU1dHXFNjaGVtYShyZWY9IiMvZGVmaW5pdGlvbnMvTWVhc3VyZW1lbnQiKSwKICAgICAqICAgICApLAogICAgICoKICAgICAqICAgICBAU1dHXFJlc3BvbnNlKHJlc3BvbnNlPTIwMiwgZGVzY3JpcHRpb249IlRoZSBtZWFzdXJlbWVudCB3YXMgY3JlYXRlZCIpLAogICAgICogICAgIEBTV0dcUmVzcG9uc2UocmVzcG9uc2U9NDIyLCBkZXNjcmlwdGlvbj0iVmFsaWRhdGlvbiBlcnJvciIpLAogICAgICogICAgIEBTV0dcUmVzcG9uc2UocmVzcG9uc2U9NTAwLCBkZXNjcmlwdGlvbj0iSW50ZXJuYWwgc2VydmVyIGVycm9yIiksCiAgICAgKiApCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBzdG9yZU1lYXN1cmVtZW50KCRjdXN0b21lcklkLCBSZXF1ZXN0ICRyZXF1ZXN0KQogICAgewogICAgICAgICR0aGlzLT52YWxpZGF0ZSgkcmVxdWVzdCwgJHRoaXMtPmNyZWF0ZVJ1bGVzKTsKCiAgICAgICAgJHJlcXVlc3RbJ2N1c3RvbWVyX2lkJ10gPSBDdXN0b21lcjo6cHVibGljSWQoJHJlcXVlc3RbJ2N1c3RvbWVyX2lkJ10pLT5pZDsKCiAgICAgICAgZGlzcGF0Y2gobmV3IE1lYXN1cmVtZW50Q3JlYXRlKCRyZXF1ZXN0LT5vbmx5KFsKICAgICAgICAgICAgJ2N1c3RvbWVyX2lkJywKICAgICAgICAgICAgJ3dlaWdodCcsCiAgICAgICAgICAgICdib2R5X2ZhdCcsCiAgICAgICAgICAgICdib2R5X3dhdGVyJywKICAgICAgICAgICAgJ211c2NsZV9tYXNzJywKICAgICAgICAgICAgJ3dhaXN0JywKICAgICAgICAgICAgJ25vdGVzJywKICAgICAgICBdKSkpOwoKICAgICAgICByZXR1cm4gJHRoaXMtPnNldFN0YXR1c0NvZGUoMjAyKS0+cmVzcG9uZCgpOwogICAgfQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBpbXBvcnQgbW9tZW50IGZyb20gJ21vbWVudCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBpbXBvcnQgVUlraXQgZnJvbSAndWlraXQnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2N1c3RvbWVyX2lkJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2N1c3RvbWVyX2lkJyA9PiBbJ3JlcXVpcmVkJywgbmV3IFV1aWQsICdleGlzdHM6Y3VzdG9tZXJzLHB1YmxpY19pZCddLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqICAgICBwYXRoPSIvbWVhc3VyZW1lbnRzIiwK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBkZAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBTV0dcUG9zdCgKICAgICAqICAgICBwYXRoPSIvbWVhc3VyZW1lbnRzIiwKICAgICAqICAgICBzdW1tYXJ5PSJDcmVhdGUgYSBtZWFzdXJlbWVudCIsCiAgICAgKiAgICAgb3BlcmF0aW9uSWQ9Im1lYXN1cmVtZW50c1N0b3JlIiwKICAgICAqICAgICB0YWdzPXsibWVhc3VyZW1lbnQifSwKICAgICAqCiAgICAgKiAgICAgQFNXR1xQYXJhbWV0ZXIoCiAgICAgKiAgICAgICAgIG5hbWU9ImJvZHkiLAogICAgICogICAgICAgICBpbj0iYm9keSIsCiAgICAgKiAgICAgICAgIGRlc2NyaXB0aW9uPSJEYXRhIHRvIGNyZWF0ZSBhIG1lYXN1cmVtZW50IHdpdGgiLAogICAgICogICAgICAgICByZXF1aXJlZD10cnVlLAogICAgICogICAgICAgICBAU1dHXFNjaGVtYShyZWY9IiMvZGVmaW5pdGlvbnMvTWVhc3VyZW1lbnQiKSwKICAgICAqICAgICApLAogICAgICoKICAgICAqICAgICBAU1dHXFJlc3BvbnNlKHJlc3BvbnNlPTIwMiwgZGVzY3JpcHRpb249IlRoZSBtZWFzdXJlbWVudCB3YXMgY3JlYXRlZCIpLAogICAgICogICAgIEBTV0dcUmVzcG9uc2UocmVzcG9uc2U9NDIyLCBkZXNjcmlwdGlvbj0iVmFsaWRhdGlvbiBlcnJvciIpLAogICAgICogICAgIEBTV0dcUmVzcG9uc2UocmVzcG9uc2U9NTAwLCBkZXNjcmlwdGlvbj0iSW50ZXJuYWwgc2VydmVyIGVycm9yIiksCiAgICAgKiApCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBzdG9yZU1lYXN1cmVtZW50KCRjdXN0b21lcklkLCBSZXF1ZXN0ICRyZXF1ZXN0KQogICAgewogICAgICAgICR0aGlzLT52YWxpZGF0ZSgkcmVxdWVzdCwgJHRoaXMtPmNyZWF0ZVJ1bGVzKTsKCiAgICAgICAgJHJlcXVlc3RbJ2N1c3RvbWVyX2lkJ10gPSBDdXN0b21lcjo6cHVibGljSWQoJHJlcXVlc3RbJ2N1c3RvbWVyX2lkJ10pLT5pZDsKCiAgICAgICAgZGlzcGF0Y2gobmV3IE1lYXN1cmVtZW50Q3JlYXRlKCRyZXF1ZXN0LT5vbmx5KFsKICAgICAgICAgICAgJ2N1c3RvbWVyX2lkJywKICAgICAgICAgICAgJ3dlaWdodCcsCiAgICAgICAgICAgICdib2R5X2ZhdCcsCiAgICAgICAgICAgICdib2R5X3dhdGVyJywKICAgICAgICAgICAgJ211c2NsZV9tYXNzJywKICAgICAgICAgICAgJ3dhaXN0JywKICAgICAgICAgICAgJ25vdGVzJywKICAgICAgICBdKSkpOwoKICAgICAgICByZXR1cm4gJHRoaXMtPnNldFN0YXR1c0NvZGUoMjAyKS0+cmVzcG9uZCgpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/{decimals: 2, separator: ','}[2, $t('form.separator')]</text>
