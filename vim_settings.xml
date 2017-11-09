@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/product-tool/resources/assets/js/components/ProductShow.vue" timestamp="1509523481937">
@@ -309,12 +309,12 @@
       <file name="/Dummy.txt" timestamp="1510148452756">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1510218373997">
-        <mark key="'" line="67" column="12" />
-        <mark key="[" line="116" column="42" />
-        <mark key="]" line="116" column="40" />
-        <mark key="." line="116" column="40" />
-        <mark key="^" line="116" column="40" />
+      <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1510224782488">
+        <mark key="'" line="104" column="10" />
+        <mark key="[" line="115" column="10" />
+        <mark key="]" line="115" column="15" />
+        <mark key="." line="115" column="15" />
+        <mark key="^" line="115" column="15" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/CustomerSeeder.php" timestamp="1508147541188">
         <mark key="[" line="16" column="37" />
@@ -360,7 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="8" filename="$USER_HOME$/code/coach-backend/routes/api.php" />
       <jump line="62" column="43" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/AppointmentController.php" />
       <jump line="90" column="32" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/AppointmentController.php" />
       <jump line="123" column="19" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
@@ -420,7 +419,6 @@
       <jump line="146" column="30" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
       <jump line="150" column="8" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
       <jump line="98" column="29" filename="$USER_HOME$/code/coach-frontend/nuxt.config.js" />
-      <jump line="92" column="24" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="20" column="42" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="39" column="69" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
@@ -460,16 +458,18 @@
       <jump line="6" column="86" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="48" column="66" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="67" column="12" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
+      <jump line="92" column="11" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
+      <jump line="104" column="10" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">fSA=</text>
       </register>
       <register name="-" type="4">
-        <text>rue</text>
+        <text encoding="base64">fSA=</text>
       </register>
       <register name="/" type="4">
-        <text>{decimals: 2, separator: ','}[2, $t('form.separator')]</text>
+        <text>not</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gY2xhc3M9J3VrLXRleHQtZGFuZ2VyJyB2LWlmPSJlcnJvcnMuaGFzKCd3ZWlnaHQnKSI+e3sgZXJyb3JzLmZpcnN0KCd3ZWlnaHQnKSB9fTwvc3Bhbj4K</text>
@@ -509,9 +509,9 @@
       </register>
     </registers>
     <search>
-      <last-search>{decimals: 2, separator: ','}[2, $t('form.separator')]</last-search>
+      <last-search>not</last-search>
       <last-offset />
-      <last-pattern>{decimals: 2, separator: ','}[2, $t('form.separator')]</last-pattern>
+      <last-pattern>not</last-pattern>
       <last-replace />
       <last-substitute>{decimals: 2, separator: ','}[2, $t('form.separator')]</last-substitute>
       <last-dir>1</last-dir>
@@ -519,7 +519,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Co</entry>
         <entry>co</entry>
         <entry>log</entry>
         <entry>place</entry>
@@ -539,6 +538,7 @@
         <entry>mass</entry>
         <entry>weight</entry>
         <entry>{decimals: 2, separator: ','}[2, $t('form.separator')]</entry>
+        <entry>not</entry>
       </history-search>
       <history-cmd>
         <entry>s/Contractor/Establishment/g</entry>
