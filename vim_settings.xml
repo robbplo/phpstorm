@@ -54,11 +54,11 @@
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/nuxt.config.js" timestamp="1510236317375">
-        <mark key="[" line="91" column="7" />
-        <mark key="]" line="91" column="5" />
-        <mark key="^" line="91" column="5" />
-        <mark key="." line="91" column="5" />
+      <file name="$USER_HOME$/code/coach-frontend/nuxt.config.js" timestamp="1510241501350">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="91" column="6" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1510128061271">
         <mark key="'" line="28" column="8" />
@@ -312,9 +312,12 @@
       <file name="/Dummy.txt" timestamp="1510235899067">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1510234591633">
-        <mark key="'" line="103" column="10" />
-        <mark key="[" line="113" column="83" />
+      <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1510242957596">
+        <mark key="'" line="64" column="19" />
+        <mark key="[" line="115" column="10" />
+        <mark key="]" line="92" column="25" />
+        <mark key="." line="92" column="25" />
+        <mark key="^" line="92" column="25" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/CustomerSeeder.php" timestamp="1508147541188">
         <mark key="[" line="16" column="37" />
@@ -360,8 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="19" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
-      <jump line="141" column="35" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/AppointmentController.php" />
       <jump line="228" column="46" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
       <jump line="253" column="4" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
       <jump line="104" column="55" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/ContractorController.php" />
@@ -460,67 +461,67 @@
       <jump line="191" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
       <jump line="222" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
       <jump line="234" column="38" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
+      <jump line="65" column="42" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
+      <jump line="64" column="19" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJ3Vpa2l0Jwo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>not</text>
+        <text>idate=&quot;{</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqICAgICBwYXRoPSIvY3VzdG9tZXJzL3tfaWR9L21lYXN1cmVtZW50cyIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJ3Vpa2l0Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJ21vbWVudCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChwcm9jZXNzLmJyb3dzZXIpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBvcnQgVUlraXQgZnJvbSAndWlraXQnCg==</text>
+        <text encoding="base64">ICAgICAgY29uZmlnLm1vZHVsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBvcnQgbW9tZW50IGZyb20gJ21vbWVudCcK</text>
+        <text encoding="base64">ICAgICAgJ3Vpa2l0Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbXBvcnQgVUlraXQgZnJvbSAndWlraXQnCg==</text>
+        <text encoding="base64">ICAgICAgJ21vbWVudCcsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2N1c3RvbWVyX2lkJywK</text>
+        <text encoding="base64">ICBpbXBvcnQgVUlraXQgZnJvbSAndWlraXQnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2N1c3RvbWVyX2lkJyA9PiBbJ3JlcXVpcmVkJywgbmV3IFV1aWQsICdleGlzdHM6Y3VzdG9tZXJzLHB1YmxpY19pZCddLAo=</text>
+        <text encoding="base64">ICBpbXBvcnQgbW9tZW50IGZyb20gJ21vbWVudCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqICAgICBwYXRoPSIvbWVhc3VyZW1lbnRzIiwK</text>
+        <text encoding="base64">ICBpbXBvcnQgVUlraXQgZnJvbSAndWlraXQnCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBTV0dcUG9zdCgKICAgICAqICAgICBwYXRoPSIvbWVhc3VyZW1lbnRzIiwKICAgICAqICAgICBzdW1tYXJ5PSJDcmVhdGUgYSBtZWFzdXJlbWVudCIsCiAgICAgKiAgICAgb3BlcmF0aW9uSWQ9Im1lYXN1cmVtZW50c1N0b3JlIiwKICAgICAqICAgICB0YWdzPXsibWVhc3VyZW1lbnQifSwKICAgICAqCiAgICAgKiAgICAgQFNXR1xQYXJhbWV0ZXIoCiAgICAgKiAgICAgICAgIG5hbWU9ImJvZHkiLAogICAgICogICAgICAgICBpbj0iYm9keSIsCiAgICAgKiAgICAgICAgIGRlc2NyaXB0aW9uPSJEYXRhIHRvIGNyZWF0ZSBhIG1lYXN1cmVtZW50IHdpdGgiLAogICAgICogICAgICAgICByZXF1aXJlZD10cnVlLAogICAgICogICAgICAgICBAU1dHXFNjaGVtYShyZWY9IiMvZGVmaW5pdGlvbnMvTWVhc3VyZW1lbnQiKSwKICAgICAqICAgICApLAogICAgICoKICAgICAqICAgICBAU1dHXFJlc3BvbnNlKHJlc3BvbnNlPTIwMiwgZGVzY3JpcHRpb249IlRoZSBtZWFzdXJlbWVudCB3YXMgY3JlYXRlZCIpLAogICAgICogICAgIEBTV0dcUmVzcG9uc2UocmVzcG9uc2U9NDIyLCBkZXNjcmlwdGlvbj0iVmFsaWRhdGlvbiBlcnJvciIpLAogICAgICogICAgIEBTV0dcUmVzcG9uc2UocmVzcG9uc2U9NTAwLCBkZXNjcmlwdGlvbj0iSW50ZXJuYWwgc2VydmVyIGVycm9yIiksCiAgICAgKiApCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBzdG9yZU1lYXN1cmVtZW50KCRjdXN0b21lcklkLCBSZXF1ZXN0ICRyZXF1ZXN0KQogICAgewogICAgICAgICR0aGlzLT52YWxpZGF0ZSgkcmVxdWVzdCwgJHRoaXMtPmNyZWF0ZVJ1bGVzKTsKCiAgICAgICAgJHJlcXVlc3RbJ2N1c3RvbWVyX2lkJ10gPSBDdXN0b21lcjo6cHVibGljSWQoJHJlcXVlc3RbJ2N1c3RvbWVyX2lkJ10pLT5pZDsKCiAgICAgICAgZGlzcGF0Y2gobmV3IE1lYXN1cmVtZW50Q3JlYXRlKCRyZXF1ZXN0LT5vbmx5KFsKICAgICAgICAgICAgJ2N1c3RvbWVyX2lkJywKICAgICAgICAgICAgJ3dlaWdodCcsCiAgICAgICAgICAgICdib2R5X2ZhdCcsCiAgICAgICAgICAgICdib2R5X3dhdGVyJywKICAgICAgICAgICAgJ211c2NsZV9tYXNzJywKICAgICAgICAgICAgJ3dhaXN0JywKICAgICAgICAgICAgJ25vdGVzJywKICAgICAgICBdKSkpOwoKICAgICAgICByZXR1cm4gJHRoaXMtPnNldFN0YXR1c0NvZGUoMjAyKS0+cmVzcG9uZCgpOwogICAgfQo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2N1c3RvbWVyX2lkJywK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/{decimals: 2, separator: ','}[2, $t('form.separator')]</text>
+        <text encoding="base64">JXMvaWRhdGU9InsvaWRhdGU9Insg</text>
       </register>
     </registers>
     <search>
-      <last-search>not</last-search>
+      <last-search>idate=&quot;{</last-search>
       <last-offset />
-      <last-pattern>not</last-pattern>
-      <last-replace />
-      <last-substitute>{decimals: 2, separator: ','}[2, $t('form.separator')]</last-substitute>
+      <last-pattern>idate=&quot;{</last-pattern>
+      <last-replace encoding="base64">aWRhdGU9Insg</last-replace>
+      <last-substitute>idate=&quot;{</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>co</entry>
-        <entry>log</entry>
         <entry>place</entry>
         <entry>ops</entry>
         <entry>Ops</entry>
@@ -539,10 +540,10 @@
         <entry>weight</entry>
         <entry>{decimals: 2, separator: ','}[2, $t('form.separator')]</entry>
         <entry>not</entry>
+        <entry>]}&quot;</entry>
+        <entry>idate=&quot;{</entry>
       </history-search>
       <history-cmd>
-        <entry>s/Contractor/Establishment/g</entry>
-        <entry>%s/appointmentId/_id/g</entry>
         <entry>s/coachId/_id/g</entry>
         <entry>%s/coachId/_id/g</entry>
         <entry>%s/contractorId/_id/g</entry>
@@ -561,6 +562,8 @@
         <entry>s/weight/muscle_mass</entry>
         <entry>s/weight/waist/g</entry>
         <entry>%s/{decimals: 2, separator: ','}[2, $t('form.separator')]</entry>
+        <entry>%s/]}&quot;/] }&quot;</entry>
+        <entry encoding="base64">JXMvaWRhdGU9InsvaWRhdGU9Insg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
