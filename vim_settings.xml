@@ -62,11 +62,11 @@
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/nuxt.config.js" timestamp="1510241501350">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="91" column="6" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/code/coach-frontend/nuxt.config.js" timestamp="1510323734388">
+        <mark key="'" line="72" column="2" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="31" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Exceptions/Handler.php" timestamp="1510069786687">
         <mark key="[" line="51" column="5" />
@@ -327,12 +327,11 @@
       <file name="/Dummy.txt" timestamp="1510304548591">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1510322405632">
+      <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1510323850915">
         <mark key="'" line="64" column="19" />
-        <mark key="[" line="114" column="29" />
-        <mark key="]" line="17" column="46" />
-        <mark key="." line="17" column="46" />
-        <mark key="^" line="17" column="46" />
+        <mark key="[" line="115" column="74" />
+        <mark key="]" line="115" column="74" />
+        <mark key="." line="115" column="74" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/CustomerSeeder.php" timestamp="1508147541188">
         <mark key="[" line="16" column="37" />
@@ -384,10 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="24" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
-      <jump line="78" column="8" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
-      <jump line="90" column="22" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
-      <jump line="117" column="16" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
       <jump line="119" column="21" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
       <jump line="9" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
       <jump line="7" column="18" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
@@ -484,28 +479,32 @@
       <jump line="22" column="17" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
       <jump line="28" column="19" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
       <jump line="125" column="6" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
+      <jump line="74" column="9" filename="$USER_HOME$/code/coach-frontend/nuxt.config.js" />
+      <jump line="116" column="0" filename="$USER_HOME$/code/coach-frontend/nuxt.config.js" />
+      <jump line="0" column="31" filename="$USER_HOME$/code/coach-frontend/nuxt.config.js" />
+      <jump line="72" column="2" filename="$USER_HOME$/code/coach-frontend/nuxt.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text encoding="base64">IGU=</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IGU=</text>
       </register>
       <register name="/" type="4">
-        <text>calc</text>
+        <text>build</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqICAgICBwYXRoPSIvY3VzdG9tZXJzL3tfaWR9L21lYXN1cmVtZW50cyIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbXBvcnQgeyAgfSBmcm9tICd1aWtpdCcgLy9lc2xpbnQtZGlzYWJsZS1saW5lCg==</text>
+        <text encoding="base64">Ly8gY29uc3QgYXhpb3MgPSByZXF1aXJlKCdheGlvcycpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gaW5zdGFuY2UuZ2V0KGAvY3VzdG9tZXJzLyR7Y3VzdG9tZXJJZH0vYXBwb2ludG1lbnRzYCkK</text>
+        <text encoding="base64">ICBpbXBvcnQgeyAgfSBmcm9tICd1aWtpdCcgLy9lc2xpbnQtZGlzYWJsZS1saW5lCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICByZXR1cm4gaW5zdGFuY2UuZ2V0KGAvY3VzdG9tZXJzLyR7Y3VzdG9tZXJJZH0vYXBwb2ludG1lbnRzYCkK</text>
@@ -533,9 +532,9 @@
       </register>
     </registers>
     <search>
-      <last-search>calc</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern>calc</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-replace encoding="base64">aWRhdGU9Insg</last-replace>
       <last-substitute>idate=&quot;{</last-substitute>
       <last-dir>1</last-dir>
@@ -543,7 +542,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
         <entry>v-v</entry>
         <entry>export</entry>
         <entry>today</entry>
@@ -563,6 +561,7 @@
         <entry>setP</entry>
         <entry>comp</entry>
         <entry>calc</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry>s/coachId/_id/g</entry>
