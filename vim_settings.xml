@@ -35,12 +35,12 @@
         <mark key="^" line="31" column="46" />
         <mark key="." line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" timestamp="1510308356728">
-        <mark key="'" line="65" column="34" />
-        <mark key="[" line="86" column="6" />
-        <mark key="]" line="86" column="6" />
-        <mark key="." line="86" column="6" />
-        <mark key="^" line="65" column="39" />
+      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" timestamp="1510311400401">
+        <mark key="'" line="82" column="34" />
+        <mark key="[" line="102" column="17" />
+        <mark key="]" line="76" column="58" />
+        <mark key="." line="76" column="58" />
+        <mark key="^" line="76" column="58" />
       </file>
       <file name="$USER_HOME$/code/product-tool/package.json" timestamp="1510300733699" />
       <file name="$USER_HOME$/code/coach-frontend/store/mutations.js" timestamp="1510303683538">
@@ -372,13 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="5" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/EstablishmentController.php" />
-      <jump line="82" column="4" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
-      <jump line="83" column="32" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
-      <jump line="86" column="27" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
-      <jump line="81" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
-      <jump line="148" column="4" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
-      <jump line="132" column="3" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
       <jump line="133" column="3" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
       <jump line="109" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
       <jump line="128" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
@@ -472,6 +465,13 @@
       <jump line="97" column="28" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
       <jump line="521" column="17" filename="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" />
+      <jump line="76" column="58" filename="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" />
+      <jump line="77" column="31" filename="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" />
+      <jump line="78" column="33" filename="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" />
+      <jump line="79" column="29" filename="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" />
+      <jump line="80" column="37" filename="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" />
+      <jump line="81" column="40" filename="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" />
+      <jump line="82" column="34" filename="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -481,7 +481,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>setP</text>
+        <text>comp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqICAgICBwYXRoPSIvY3VzdG9tZXJzL3tfaWR9L21lYXN1cmVtZW50cyIsCg==</text>
@@ -521,9 +521,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setP</last-search>
+      <last-search>comp</last-search>
       <last-offset />
-      <last-pattern>setP</last-pattern>
+      <last-pattern>comp</last-pattern>
       <last-replace encoding="base64">aWRhdGU9Insg</last-replace>
       <last-substitute>idate=&quot;{</last-substitute>
       <last-dir>1</last-dir>
@@ -531,7 +531,6 @@
     </search>
     <history>
       <history-search>
-        <entry>in</entry>
         <entry>class</entry>
         <entry>data</entry>
         <entry>v-v</entry>
@@ -551,6 +550,7 @@
         <entry>temp</entry>
         <entry>setp</entry>
         <entry>setP</entry>
+        <entry>comp</entry>
       </history-search>
       <history-cmd>
         <entry>s/coachId/_id/g</entry>
