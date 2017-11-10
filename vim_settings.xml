@@ -217,12 +217,12 @@
         <mark key="^" line="15" column="42" />
         <mark key="." line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" timestamp="1510326086740">
-        <mark key="'" line="112" column="42" />
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="5" />
-        <mark key="^" line="2" column="5" />
-        <mark key="." line="2" column="5" />
+      <file name="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" timestamp="1510326964208">
+        <mark key="'" line="131" column="61" />
+        <mark key="[" line="18" column="70" />
+        <mark key="]" line="18" column="69" />
+        <mark key="^" line="18" column="69" />
+        <mark key="." line="18" column="69" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/plugins/vee-validate.js" timestamp="1509704080838">
         <mark key="[" line="6" column="0" />
@@ -384,14 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
-      <jump line="7" column="18" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
-      <jump line="124" column="68" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
-      <jump line="162" column="4" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
-      <jump line="152" column="8" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
-      <jump line="54" column="0" filename="$USER_HOME$/code/coach-backend/routes/api.php" />
-      <jump line="24" column="61" filename="$USER_HOME$/code/coach-backend/routes/api.php" />
-      <jump line="98" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
       <jump line="146" column="44" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
       <jump line="61" column="0" filename="$USER_HOME$/code/coach-backend/routes/api.php" />
       <jump line="55" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/EstablishmentController.php" />
@@ -464,7 +456,6 @@
       <jump line="95" column="17" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
       <jump line="1" column="6" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
       <jump line="169" column="21" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
-      <jump line="97" column="28" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
       <jump line="521" column="17" filename="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" />
       <jump line="76" column="58" filename="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" />
@@ -484,46 +475,55 @@
       <jump line="0" column="31" filename="$USER_HOME$/code/coach-frontend/nuxt.config.js" />
       <jump line="72" column="2" filename="$USER_HOME$/code/coach-frontend/nuxt.config.js" />
       <jump line="112" column="42" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
+      <jump line="142" column="61" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
+      <jump line="145" column="32" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
+      <jump line="172" column="6" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
+      <jump line="173" column="46" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
+      <jump line="8" column="74" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
+      <jump line="29" column="69" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
+      <jump line="97" column="51" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
+      <jump line="117" column="62" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
+      <jump line="132" column="61" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text>meta</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqICAgICBwYXRoPSIvY3VzdG9tZXJzL3tfaWR9L21lYXN1cmVtZW50cyIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbXBvcnQgVUlraXQgZnJvbSAndWlraXQnCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbWV0YSA9IHRoaXMuJHN0b3JlLnN0YXRlLm1lYXN1cmVtZW50cy5tZXRhCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbWV0YSA9IHRoaXMuJHN0b3JlLnN0YXRlLm1lYXN1cmVtZW50cy5tZXRhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBpbXBvcnQgVUlraXQgZnJvbSAndWlraXQnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vdW50ZWQgKCkgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gY29uc3QgYXhpb3MgPSByZXF1aXJlKCdheGlvcycpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbXBvcnQgeyAgfSBmcm9tICd1aWtpdCcgLy9lc2xpbnQtZGlzYWJsZS1saW5lCg==</text>
+        <text encoding="base64">ICAgIG1vdW50ZWQgKCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4gaW5zdGFuY2UuZ2V0KGAvY3VzdG9tZXJzLyR7Y3VzdG9tZXJJZH0vYXBwb2ludG1lbnRzYCkK</text>
+        <text encoding="base64">Ly8gY29uc3QgYXhpb3MgPSByZXF1aXJlKCdheGlvcycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gaW5zdGFuY2UuZ2V0KGAvY3VzdG9tZXJzLyR7Y3VzdG9tZXJJZH0vYXBwb2ludG1lbnRzYCkK</text>
+        <text encoding="base64">ICBpbXBvcnQgeyAgfSBmcm9tICd1aWtpdCcgLy9lc2xpbnQtZGlzYWJsZS1saW5lCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICByZXR1cm4gaW5zdGFuY2UuZ2V0KGAvY3VzdG9tZXJzLyR7Y3VzdG9tZXJJZH0vYXBwb2ludG1lbnRzYCkK</text>
@@ -533,9 +533,9 @@
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
+      <last-search>meta</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
+      <last-pattern>meta</last-pattern>
       <last-replace encoding="base64">aWRhdGU9Insg</last-replace>
       <last-substitute>idate=&quot;{</last-substitute>
       <last-dir>1</last-dir>
@@ -543,7 +543,6 @@
     </search>
     <history>
       <history-search>
-        <entry>v-v</entry>
         <entry>export</entry>
         <entry>today</entry>
         <entry>crea</entry>
@@ -563,6 +562,7 @@
         <entry>comp</entry>
         <entry>calc</entry>
         <entry>build</entry>
+        <entry>meta</entry>
       </history-search>
       <history-cmd>
         <entry>s/coachId/_id/g</entry>
