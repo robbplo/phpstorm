@@ -211,6 +211,13 @@
         <mark key="^" line="32" column="54" />
         <mark key="." line="32" column="54" />
       </file>
+      <file name="$USER_HOME$/code/udn-ubn-login/add/index.php" timestamp="1510566056363">
+        <mark key="'" line="24" column="14" />
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="40" column="72" />
+        <mark key="." line="40" column="72" />
+        <mark key="^" line="24" column="30" />
+      </file>
       <file name="$USER_HOME$/code/coach-frontend/components/PageFooter.vue" timestamp="1510317864963">
         <mark key="[" line="11" column="6" />
         <mark key="]" line="11" column="6" />
@@ -302,6 +309,12 @@
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/code/udn-ubn-login/add/style.css" timestamp="1510566018406">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="3" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/pages/clients/_id/index.vue" timestamp="1509445127893">
         <mark key="[" line="1" column="49" />
@@ -424,7 +437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="44" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
       <jump line="61" column="0" filename="$USER_HOME$/code/coach-backend/routes/api.php" />
       <jump line="55" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/EstablishmentController.php" />
       <jump line="101" column="7" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/EstablishmentController.php" />
@@ -524,74 +536,59 @@
       <jump line="97" column="51" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
       <jump line="117" column="62" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
       <jump line="132" column="61" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
+      <jump line="24" column="14" filename="$USER_HOME$/code/udn-ubn-login/add/index.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>const
-const
-const
-const
-const</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dWstY29udGFpbmVyIA==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text encoding="base64">dWstY29udGFpbmVyIA==</text>
       </register>
       <register name="/" type="4">
-        <text>idate=&quot;{</text>
+        <text>numm</text>
       </register>
       <register name="0" type="4">
         <text>udn-ubn-login</text>
       </register>
-      <register name="1" type="8">
-        <text>const
-const
-const
-const
-const</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">Y29uc3QgCmNvbnN0IApjb25zdCAKY29uc3QgCmNvbnN0IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>const P
-const P
-const P
-const P
-const P</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>c
-c
-c
-c
-co</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+UEFSQU1faG9zdAo=</text>
+        <text encoding="base64">ICBkaW5nZW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbnYgPSBuZXcgXERvdGVudlxEb3RlbnYoKQo=</text>
+        <text encoding="base64">ICBmb3JtCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIAo=</text>
+        <text encoding="base64">CgogICAgZWNobyAiPHA+SGVsbG8geyRfU0VSVkVSWydQSFBfQVVUSF9VU0VSJ119LjwvcD4iOwogICAgZWNobyAiPHA+WW91IGVudGVyZWQgeyRfU0VSVkVSWydQSFBfQVVUSF9QVyddfSBhcyB5b3VyIHBhc3N3b3JkLjwvcD4iOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">REJfQ09OTkVDVElPTj1teXNxbAo=</text>
+        <text encoding="base64">ICAKICAgIAogICAgZWNobyAiPHA+SGVsbG8geyRfU0VSVkVSWydQSFBfQVVUSF9VU0VSJ119LjwvcD4iOwogICAgZWNobyAiPHA+WW91IGVudGVyZWQgeyRfU0VSVkVSWydQSFBfQVVUSF9QVyddfSBhcyB5b3VyIHBhc3N3b3JkLjwvcD4iOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">REJfQ09OTkVDVElPTj1teXNxbAo=</text>
+        <text encoding="base64">aGVhZGVyKCdXV1ctQXV0aGVudGljYXRlOiBCYXNpYyByZWFsbT0nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>s</text>
       </register>
     </registers>
     <search>
-      <last-search>idate=&quot;{</last-search>
+      <last-search>numm</last-search>
       <last-offset />
-      <last-pattern>idate=&quot;{</last-pattern>
+      <last-pattern>numm</last-pattern>
       <last-replace encoding="base64">aWRhdGU9Insg</last-replace>
       <last-substitute>idate=&quot;{</last-substitute>
       <last-dir>1</last-dir>
@@ -599,7 +596,6 @@ co</text>
     </search>
     <history>
       <history-search>
-        <entry>export</entry>
         <entry>today</entry>
         <entry>crea</entry>
         <entry>text</entry>
@@ -619,6 +615,7 @@ co</text>
         <entry>build</entry>
         <entry>meta</entry>
         <entry>idate=&quot;{</entry>
+        <entry>numm</entry>
       </history-search>
       <history-cmd>
         <entry>%s/coachId/_id/g</entry>
