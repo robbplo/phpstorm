@@ -298,12 +298,12 @@
         <mark key="^" line="84" column="30" />
         <mark key="." line="84" column="30" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/locales/nl.json" timestamp="1510216200309">
+      <file name="$USER_HOME$/code/coach-frontend/locales/nl.json" timestamp="1510656024589">
         <mark key="'" line="21" column="54" />
-        <mark key="[" line="50" column="20" />
-        <mark key="]" line="50" column="20" />
-        <mark key="." line="50" column="20" />
-        <mark key="^" line="50" column="20" />
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="56" column="20" />
+        <mark key="." line="56" column="20" />
+        <mark key="^" line="56" column="20" />
       </file>
       <file name="$USER_HOME$/code/udn-ubn-login/importExcel/import.php" timestamp="1510571021469">
         <mark key="[" line="48" column="39" />
@@ -372,10 +372,10 @@
         <mark key="^" line="21" column="15" />
         <mark key="." line="25" column="20" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/locales/en.json" timestamp="1510216213618">
-        <mark key="[" line="49" column="11" />
-        <mark key="]" line="49" column="12" />
-        <mark key="." line="49" column="11" />
+      <file name="$USER_HOME$/code/coach-frontend/locales/en.json" timestamp="1510655958980">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="55" column="12" />
+        <mark key="." line="55" column="11" />
       </file>
       <file name="$USER_HOME$/code/udn-ubn-login/sendmail.php" timestamp="1510588744936">
         <mark key="]" line="52" column="33" />
@@ -385,11 +385,12 @@
       <file name="/Dummy.txt" timestamp="1510649597315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1510652109746">
-        <mark key="'" line="64" column="19" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
+      <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1510657012277">
+        <mark key="'" line="79" column="10" />
+        <mark key="[" line="38" column="54" />
+        <mark key="]" line="38" column="52" />
+        <mark key="." line="38" column="52" />
+        <mark key="^" line="38" column="52" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/CustomerSeeder.php" timestamp="1508147541188">
         <mark key="[" line="16" column="37" />
@@ -450,9 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/EstablishmentController.php" />
-      <jump line="147" column="36" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/EstablishmentController.php" />
-      <jump line="14" column="42" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
       <jump line="27" column="48" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="527" column="32" filename="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" />
       <jump line="95" column="13" filename="$USER_HOME$/code/coach-backend/app/Exceptions/Handler.php" />
@@ -476,7 +474,6 @@
       <jump line="40" column="47" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="51" column="50" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="62" column="44" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
-      <jump line="72" column="48" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="107" column="6" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="90" column="1" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="4" column="64" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
@@ -484,7 +481,6 @@
       <jump line="109" column="6" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="108" column="48" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="31" column="12" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
-      <jump line="95" column="10" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="30" column="12" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="43" column="12" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="55" column="12" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
@@ -493,7 +489,6 @@
       <jump line="14" column="25" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="15" column="42" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="17" column="40" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
-      <jump line="19" column="86" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="97" column="10" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="100" column="17" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
       <jump line="6" column="86" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
@@ -550,58 +545,64 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/udn-ubn-login/style.css" />
       <jump line="20" column="69" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
       <jump line="3" column="36" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
+      <jump line="116" column="21" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
+      <jump line="115" column="86" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
+      <jump line="19" column="86" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
+      <jump line="70" column="12" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
+      <jump line="95" column="6" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
+      <jump line="72" column="10" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE86IHJlcGxhY2Ugd2l0aCBwcm9wZXIgZXJyb3IgaGFuZGxpbmcK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>setTimeout(</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>this</text>
+        <text>window</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGhlYWRlcignSFRUUC8xLjAgNDAxIFVuYXV0aG9yaXplZCcpOwogICAgZWNobyAnVW5hdXRob3JpemVkJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE86IHJlcGxhY2Ugd2l0aCBwcm9wZXIgZXJyb3IgaGFuZGxpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgIG5vdGVzOiB7CiAgICAgICAgICAgIAogICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>setTimeout(</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIG5vdGVzOiB7CiAgICAgICAgICAgIAogICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNldFRpbWVvdXQodGhpcy4kc3RvcmUuY29tbWl0KCdTRVRfTUVBU1VSRU1FTlRTJywgKGF3YWl0IGdldE1lYXN1cmVtZW50cyh0aGlzLiRzdG9yZS5zdGF0ZS5jdXN0b21lci5faWQpKS5kYXRhKSwgMzAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF3YWl0IG5ldyBQcm9taXNlKHJlc29sdmUgPT4gcmVzb2x2ZSA9PiBzZXRUaW1lb3V0KHJlc29sdmUsIDMwMDApKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF3YWl0IHNldFRpbWVvdXQoOTAwMCkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICA8IS0tPGRpdiBjbGFzcz0idWstbWFyZ2luIj4tLT4KICAgICAgICAgICAgPCEtLTxpbnB1dCBjbGFzcz0idWstaW5wdXQiLS0+CiAgICAgICAgICAgICAgICAgICA8IS0tOmNsYXNzPSJ7ICd1ay1mb3JtLWRhbmdlcic6IGVycm9ycy5oYXMoJ2JvZHlfd2F0ZXInKSB9Ii0tPgogICAgICAgICAgICAgICAgICAgPCEtLXR5cGU9InRleHQiLS0+CiAgICAgICAgICAgICAgICAgICA8IS0tbmFtZT0iYm9keV93YXRlciItLT4KICAgICAgICAgICAgICAgICAgIDwhLS06cGxhY2Vob2xkZXI9IiR0KCd1c2VyLmJvZHlfd2F0ZXInKSArICcgKCUpJyItLT4KICAgICAgICAgICAgICAgICAgIDwhLS12LXZhbGlkYXRlPSJ7IHJlcXVpcmVkOiB0cnVlLCBkZWNpbWFsOiBbMiwgJHQoJ2Zvcm0uc2VwYXJhdG9yJyldIH0iLS0+CiAgICAgICAgICAgICAgICAgICA8IS0tdi1tb2RlbD0ibWVhc3VyZW1lbnQuYm9keV93YXRlciItLT4KICAgICAgICAgICAgPCEtLSZndDstLT4KICAgICAgICAgICAgPCEtLTxzcGFuIGNsYXNzPSd1ay10ZXh0LWRhbmdlcicgdi1pZj0iZXJyb3JzLmhhcygnYm9keV93YXRlcicpIj57eyBlcnJvcnMuZmlyc3QoJ2JvZHlfd2F0ZXInKSB9fTwvc3Bhbj4tLT4KICAgICAgICAgIDwhLS08L2Rpdj4tLT4KCiAgICAgICAgICA8IS0tPGRpdiBjbGFzcz0idWstbWFyZ2luIj4tLT4KICAgICAgICAgICAgPCEtLTxpbnB1dCBjbGFzcz0idWstaW5wdXQiLS0+CiAgICAgICAgICAgICAgICAgICA8IS0tOmNsYXNzPSJ7ICd1ay1mb3JtLWRhbmdlcic6IGVycm9ycy5oYXMoJ2JvZHlfZmF0JykgfSItLT4KICAgICAgICAgICAgICAgICAgIDwhLS10eXBlPSJ0ZXh0Ii0tPgogICAgICAgICAgICAgICAgICAgPCEtLW5hbWU9ImJvZHlfZmF0Ii0tPgogICAgICAgICAgICAgICAgICAgPCEtLTpwbGFjZWhvbGRlcj0iJHQoJ3VzZXIuYm9keV9mYXQnKSArICcgKCUpJyItLT4KICAgICAgICAgICAgICAgICAgIDwhLS12LXZhbGlkYXRlPSJ7IHJlcXVpcmVkOiB0cnVlLCBkZWNpbWFsOiBbMiwgJHQoJ2Zvcm0uc2VwYXJhdG9yJyldIH0iLS0+CiAgICAgICAgICAgICAgICAgICA8IS0tdi1tb2RlbD0ibWVhc3VyZW1lbnQuYm9keV9mYXQiLS0+CiAgICAgICAgICAgIDwhLS0mZ3Q7LS0+CiAgICAgICAgICAgIDwhLS08c3BhbiBjbGFzcz0ndWstdGV4dC1kYW5nZXInIHYtaWY9ImVycm9ycy5oYXMoJ2JvZHlfZmF0JykiPnt7IGVycm9ycy5maXJzdCgnYm9keV9mYXQnKSB9fTwvc3Bhbj4tLT4KICAgICAgICAgIDwhLS08L2Rpdj4tLT4KCiAgICAgICAgICA8IS0tPGRpdiBjbGFzcz0idWstbWFyZ2luIj4tLT4KICAgICAgICAgICAgPCEtLTxpbnB1dCBjbGFzcz0idWstaW5wdXQiLS0+CiAgICAgICAgICAgICAgICAgICA8IS0tOmNsYXNzPSJ7ICd1ay1mb3JtLWRhbmdlcic6IGVycm9ycy5oYXMoJ211c2NsZV9tYXNzJykgfSItLT4KICAgICAgICAgICAgICAgICAgIDwhLS10eXBlPSJ0ZXh0Ii0tPgogICAgICAgICAgICAgICAgICAgPCEtLW5hbWU9Im11c2NsZV9tYXNzIi0tPgogICAgICAgICAgICAgICAgICAgPCEtLTpwbGFjZWhvbGRlcj0iJHQoJ3VzZXIubXVzY2xlX21hc3MnKSArICcgKCUpJyItLT4KICAgICAgICAgICAgICAgICAgIDwhLS12LXZhbGlkYXRlPSJ7IHJlcXVpcmVkOiB0cnVlLCBkZWNpbWFsOiBbMiwgJHQoJ2Zvcm0uc2VwYXJhdG9yJyldIH0iLS0+CiAgICAgICAgICAgICAgICAgICA8IS0tdi1tb2RlbD0ibWVhc3VyZW1lbnQubXVzY2xlX21hc3MiLS0+CiAgICAgICAgICAgIDwhLS0mZ3Q7LS0+CiAgICAgICAgICAgIDwhLS08c3BhbiBjbGFzcz0ndWstdGV4dC1kYW5nZXInIHYtaWY9ImVycm9ycy5oYXMoJ211c2NsZV9tYXNzJykiPnt7IGVycm9ycy5maXJzdCgnbXVzY2xlX21hc3MnKSB9fTwvc3Bhbj4tLT4KICAgICAgICAgIDwhLS08L2Rpdj4tLT4KCiAgICAgICAgICA8IS0tPGRpdiBjbGFzcz0idWstbWFyZ2luIj4tLT4KICAgICAgICAgICAgPCEtLTxpbnB1dCBjbGFzcz0idWstaW5wdXQiLS0+CiAgICAgICAgICAgICAgICAgICA8IS0tOmNsYXNzPSJ7ICd1ay1mb3JtLWRhbmdlcic6IGVycm9ycy5oYXMoJ3dhaXN0JykgfSItLT4KICAgICAgICAgICAgICAgICAgIDwhLS10eXBlPSJ0ZXh0Ii0tPgogICAgICAgICAgICAgICAgICAgPCEtLW5hbWU9IndhaXN0Ii0tPgogICAgICAgICAgICAgICAgICAgPCEtLTpwbGFjZWhvbGRlcj0iJHQoJ3VzZXIud2Fpc3QnKSArICcgKGNtKSciLS0+CiAgICAgICAgICAgICAgICAgICA8IS0tdi12YWxpZGF0ZT0ieyByZXF1aXJlZDogdHJ1ZSwgZGVjaW1hbDogWzIsICR0KCdmb3JtLnNlcGFyYXRvcicpXSB9Ii0tPgogICAgICAgICAgICAgICAgICAgPCEtLXYtbW9kZWw9Im1lYXN1cmVtZW50LndhaXN0Ii0tPgogICAgICAgICAgICA8IS0tJmd0Oy0tPgogICAgICAgICAgICA8IS0tPHNwYW4gY2xhc3M9J3VrLXRleHQtZGFuZ2VyJyB2LWlmPSJlcnJvcnMuaGFzKCd3YWlzdCcpIj57eyBlcnJvcnMuZmlyc3QoJ3dhaXN0JykgfX08L3NwYW4+LS0+CiAgICAgICAgICA8IS0tPC9kaXY+LS0+CgogICAgICAgICAgPCEtLTxkaXYgY2xhc3M9InVrLW1hcmdpbiI+LS0+CiAgICAgICAgICAgIDwhLS08dGV4dGFyZWEgY2xhc3M9InVrLXRleHRhcmVhIi0tPgogICAgICAgICAgICAgICAgICAgICAgPCEtLTpjbGFzcz0ieyAndWstZm9ybS1kYW5nZXInOiBlcnJvcnMuaGFzKCdub3RlcycpIH0iLS0+CiAgICAgICAgICAgICAgICAgICAgICA8IS0tcm93cz0iNSItLT4KICAgICAgICAgICAgICAgICAgICAgIDwhLS1uYW1lPSJub3RlcyItLT4KICAgICAgICAgICAgICAgICAgICAgIDwhLS06cGxhY2Vob2xkZXI9IiR0KCdtZWFzdXJlbWVudHMubm90ZXMnKSItLT4KICAgICAgICAgICAgICAgICAgICAgIDwhLS12LW1vZGVsPSJtZWFzdXJlbWVudC5ub3RlcyI+PC90ZXh0YXJlYT4tLT4KICAgICAgICAgIDwhLS08L2Rpdj4tLT4=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHYtbW9kZWw9IidtZWFzdXJlbWVudCcgKyBpbnB1dCIK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJF9TRVJWRVIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuY2xlYXJGb3JtKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci5zdGF0dXMtbWVzc2FnZS5zdWNjZXNzIHsKICAgIGJhY2tncm91bmQ6ICMxOWNkOGU7Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/type/number/g</text>
       </register>
     </registers>
     <search>
-      <last-search>this</last-search>
+      <last-search>window</last-search>
       <last-offset />
-      <last-pattern>this</last-pattern>
+      <last-pattern>window</last-pattern>
       <last-replace>number</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -609,10 +610,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mass</entry>
-        <entry>weight</entry>
-        <entry>{decimals: 2, separator: ','}[2, $t('form.separator')]</entry>
-        <entry>not</entry>
         <entry>]}&quot;</entry>
         <entry>temp</entry>
         <entry>setp</entry>
@@ -629,6 +626,10 @@
         <entry>uk-acc</entry>
         <entry>&quot;</entry>
         <entry>this</entry>
+        <entry>let modal</entry>
+        <entry>uy</entry>
+        <entry>windwo</entry>
+        <entry>window</entry>
       </history-search>
       <history-cmd>
         <entry>%s/contractorId/_id/g</entry>
