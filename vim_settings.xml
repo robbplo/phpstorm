@@ -223,7 +223,7 @@
         <mark key="^" line="32" column="54" />
         <mark key="." line="32" column="54" />
       </file>
-      <file name="$USER_HOME$/code/udn-ubn-login/add/index.php" timestamp="1510589024143">
+      <file name="$USER_HOME$/code/udn-ubn-login/add/index.php" timestamp="1510649363478">
         <mark key="'" line="137" column="10" />
         <mark key="[" line="16" column="50" />
         <mark key="]" line="20" column="20" />
@@ -254,11 +254,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" timestamp="1510326964208">
-        <mark key="'" line="131" column="61" />
-        <mark key="[" line="18" column="70" />
+      <file name="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" timestamp="1510649640446">
+        <mark key="'" line="3" column="36" />
+        <mark key="[" line="3" column="52" />
         <mark key="]" line="18" column="69" />
-        <mark key="^" line="18" column="69" />
+        <mark key="^" line="18" column="67" />
         <mark key="." line="18" column="69" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/plugins/vee-validate.js" timestamp="1509704080838">
@@ -382,15 +382,14 @@
         <mark key="^" line="52" column="33" />
         <mark key="." line="52" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510583368655">
+      <file name="/Dummy.txt" timestamp="1510649597315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1510325528306">
+      <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1510650422595">
         <mark key="'" line="64" column="19" />
-        <mark key="[" line="114" column="102" />
-        <mark key="]" line="114" column="101" />
-        <mark key="." line="114" column="101" />
-        <mark key="^" line="114" column="101" />
+        <mark key="[" line="114" column="10" />
+        <mark key="]" line="114" column="10" />
+        <mark key="." line="114" column="10" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/CustomerSeeder.php" timestamp="1508147541188">
         <mark key="[" line="16" column="37" />
@@ -451,8 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/EstablishmentController.php" />
-      <jump line="137" column="50" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/EstablishmentController.php" />
       <jump line="142" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/EstablishmentController.php" />
       <jump line="147" column="36" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/EstablishmentController.php" />
       <jump line="14" column="42" filename="$USER_HOME$/code/coach-frontend/layouts/default.vue" />
@@ -551,58 +548,60 @@
       <jump line="273" column="24" filename="$USER_HOME$/code/udn-ubn-login/style.css" />
       <jump line="81" column="0" filename="$USER_HOME$/code/udn-ubn-login/style.css" />
       <jump line="0" column="0" filename="$USER_HOME$/code/udn-ubn-login/style.css" />
+      <jump line="20" column="69" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
+      <jump line="3" column="36" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>();</text>
+        <text>setTimeout(</text>
       </register>
       <register name="-" type="4">
-        <text>();</text>
+        <text>setTimeout(</text>
       </register>
       <register name="/" type="4">
-        <text>type</text>
+        <text>this</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGhlYWRlcignSFRUUC8xLjAgNDAxIFVuYXV0aG9yaXplZCcpOwogICAgZWNobyAnVW5hdXRob3JpemVkJzsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>setTimeout(</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgIHNldFRpbWVvdXQodGhpcy4kc3RvcmUuY29tbWl0KCdTRVRfTUVBU1VSRU1FTlRTJywgKGF3YWl0IGdldE1lYXN1cmVtZW50cyh0aGlzLiRzdG9yZS5zdGF0ZS5jdXN0b21lci5faWQpKS5kYXRhKSwgMzAwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJF9TRVJWRVIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGF3YWl0IG5ldyBQcm9taXNlKHJlc29sdmUgPT4gcmVzb2x2ZSA9PiBzZXRUaW1lb3V0KHJlc29sdmUsIDMwMDApKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ci5zdGF0dXMtbWVzc2FnZS5zdWNjZXNzIHsKICAgIGJhY2tncm91bmQ6ICMxOWNkOGU7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgIGF3YWl0IHNldFRpbWVvdXQoOTAwMCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJF9QT1NUKTsK</text>
+        <text encoding="base64">ZXhpdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmOwo=</text>
+        <text encoding="base64">dmFyX2R1bXAoJF9TRVJWRVIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmOwo=</text>
+        <text encoding="base64">Ci5zdGF0dXMtbWVzc2FnZS5zdWNjZXNzIHsKICAgIGJhY2tncm91bmQ6ICMxOWNkOGU7Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDEwcHg7CiAgICBib3JkZXItcmFkaXVzOiAycHg7CiAgICBtYXJnaW4tYm90dG9tOiAyMHB4Owo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/type/number/g</text>
       </register>
     </registers>
     <search>
-      <last-search>type</last-search>
+      <last-search>this</last-search>
       <last-offset />
-      <last-pattern>type</last-pattern>
+      <last-pattern>this</last-pattern>
       <last-replace>number</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -610,14 +609,11 @@
     </search>
     <history>
       <history-search>
-        <entry>wei</entry>
-        <entry>v-m</entry>
         <entry>mass</entry>
         <entry>weight</entry>
         <entry>{decimals: 2, separator: ','}[2, $t('form.separator')]</entry>
         <entry>not</entry>
         <entry>]}&quot;</entry>
-        <entry>&quot;</entry>
         <entry>temp</entry>
         <entry>setp</entry>
         <entry>setP</entry>
@@ -630,6 +626,9 @@
         <entry>Prob</entry>
         <entry>?</entry>
         <entry>type</entry>
+        <entry>uk-acc</entry>
+        <entry>&quot;</entry>
+        <entry>this</entry>
       </history-search>
       <history-cmd>
         <entry>%s/contractorId/_id/g</entry>
