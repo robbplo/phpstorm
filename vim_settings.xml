@@ -16,8 +16,17 @@
         <mark key="^" line="22" column="5" />
         <mark key="." line="22" column="5" />
       </file>
-      <file name="$USER_HOME$/code/udn-ubn-login/index.php" timestamp="1510569314872">
-        <mark key="[" line="310" column="23" />
+      <file name="$USER_HOME$/code/udn-ubn-login/index.php" timestamp="1510911246625">
+        <mark key="'" line="14" column="41" />
+        <mark key="[" line="250" column="0" />
+        <mark key="]" line="250" column="91" />
+        <mark key="." line="14" column="57" />
+      </file>
+      <file name="$USER_HOME$/code/logintest/index.html" timestamp="1510913819526">
+        <mark key="[" line="38" column="56" />
+        <mark key="]" line="38" column="56" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="38" column="56" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/components/ModalNewAppointment.vue" timestamp="1510906591667">
         <mark key="'" line="65" column="49" />
@@ -144,6 +153,7 @@
         <mark key="^" line="190" column="67" />
         <mark key="." line="190" column="67" />
       </file>
+      <file name="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" timestamp="1510914579262" />
       <file name="$USER_HOME$/code/coach-frontend/components/TabOverview.vue" timestamp="1509610958520">
         <mark key="'" line="2" column="72" />
         <mark key="[" line="24" column="41" />
@@ -157,6 +167,9 @@
         <mark key="]" line="123" column="40" />
         <mark key="." line="123" column="40" />
         <mark key="^" line="122" column="47" />
+      </file>
+      <file name="$USER_HOME$/code/udn-ubn-login/UDN-Login.js" timestamp="1510914345724">
+        <mark key="]" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/Contractor.php" timestamp="1510836768011">
         <mark key="[" line="17" column="28" />
@@ -204,11 +217,11 @@
         <mark key="." line="6" column="5" />
       </file>
       <file name="$USER_HOME$/code/udn-ubn-login/add/index.php" timestamp="1510649363478">
-        <mark key="'" line="137" column="10" />
+        <mark key="'" line="136" column="10" />
         <mark key="[" line="16" column="50" />
-        <mark key="]" line="20" column="20" />
-        <mark key="." line="20" column="20" />
-        <mark key="^" line="164" column="41" />
+        <mark key="]" line="19" column="20" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="163" column="41" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Traits/Uuids.php" timestamp="1510829084716">
         <mark key="'" line="17" column="20" />
@@ -391,21 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="23" filename="$USER_HOME$/code/coach-frontend/components/ModalNewAppointment.vue" />
-      <jump line="313" column="6" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
-      <jump line="294" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
-      <jump line="220" column="20" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
-      <jump line="101" column="34" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" />
-      <jump line="71" column="52" filename="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" />
-      <jump line="37" column="17" filename="$USER_HOME$/code/coach-frontend/api/index.js" />
-      <jump line="79" column="23" filename="$USER_HOME$/code/coach-frontend/components/ModalNewAppointment.vue" />
-      <jump line="97" column="0" filename="$USER_HOME$/code/coach-frontend/components/ModalNewAppointment.vue" />
-      <jump line="98" column="0" filename="$USER_HOME$/code/coach-frontend/components/ModalNewAppointment.vue" />
-      <jump line="88" column="18" filename="$USER_HOME$/code/coach-frontend/components/ModalNewAppointment.vue" />
-      <jump line="79" column="30" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
-      <jump line="43" column="0" filename="$USER_HOME$/code/coach-frontend/locales/en.json" />
-      <jump line="31" column="0" filename="$USER_HOME$/code/coach-frontend/locales/en.json" />
-      <jump line="73" column="0" filename="$USER_HOME$/code/coach-frontend/locales/nl.json" />
       <jump line="31" column="0" filename="$USER_HOME$/code/coach-frontend/locales/nl.json" />
       <jump line="36" column="3" filename="$USER_HOME$/code/coach-frontend/locales/nl.json" />
       <jump line="103" column="40" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
@@ -491,58 +489,140 @@
       <jump line="69" column="7" filename="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" />
       <jump line="8" column="11" filename="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" />
       <jump line="71" column="45" filename="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" />
+      <jump line="14" column="41" filename="$USER_HOME$/code/udn-ubn-login/index.php" />
+      <jump line="89" column="13" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
+      <jump line="113" column="21" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
+      <jump line="122" column="41" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
+      <jump line="183" column="36" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
+      <jump line="53" column="36" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
+      <jump line="59" column="33" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
+      <jump line="118" column="0" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
+      <jump line="138" column="13" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
+      <jump line="16" column="3" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
+      <jump line="205" column="0" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
+      <jump line="190" column="11" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
+      <jump line="188" column="4" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
+      <jump line="66" column="0" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
+      <jump line="220" column="6" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGlzU2xlZXAgKCkgewogICAgICB2YXIgc2NyaXB0cyA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoJ3NjcmlwdCcpOwogICAgICB2YXIgc3JjOwogICAgICBmb3IgKHZhciBpID0gMDsgaSA8IHNjcmlwdHMubGVuZ3RoOyBpKyspIHsKICAgICAgICBpZiAoc2NyaXB0c1tpXS5zcmMuaW5kZXhPZigndWRuLXVibi1sb2dpbi5qcycpICE9PSAtMSkgewogICAgICAgICAgc3JjID0gc2NyaXB0c1tpXS5zcmMKICAgICAgICB9CiAgICAgIH0KICAgICAgaWYgKHNyYy5pbmRleE9mKCc/JykgPT09IC0xKSB7CiAgICAgICAgcmV0dXJuIGZhbHNlCiAgICAgIH0KICAgICAgdmFyIHF1ZXJ5ID0gc3JjLnNwbGl0KCc/JylbMV07CiAgICAgIHZhciBwYXJhbXMgPSBxdWVyeS5zcGxpdCgnJicpOwogICAgICBmb3IgKGkgPSAwOyBpIDwgcGFyYW1zLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgaWYgKHBhcmFtc1tpXSA9PT0gJ3NsZWVwJykgewogICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQogICAgICB9CiAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCiAgICBpZiAoISBpc1NsZWVwKCkpIHsKICAgICAgaWYgKCFsb2dnZWRJbigpKSB7CiAgICAgICAgc2hvd0xvZ2luKCk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgdmFsaWRhdGUoKQogICAgICB9CiAgICB9IGVsc2UgewogICAgICB3aW5kb3cuc2hvd0xvZ2luID0gZnVuY3Rpb24gKCkgewogICAgICAgIGlmICghbG9nZ2VkSW4oKSkgewogICAgICAgICAgc2hvd0xvZ2luKCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHZhbGlkYXRlKCkKICAgICAgICB9CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>moda</text>
+        <text>show</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5vbkNvbmZpcm0pCg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGlzU2xlZXAgKCkgewogICAgICB2YXIgc2NyaXB0cyA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoJ3NjcmlwdCcpOwogICAgICB2YXIgc3JjOwogICAgICBmb3IgKHZhciBpID0gMDsgaSA8IHNjcmlwdHMubGVuZ3RoOyBpKyspIHsKICAgICAgICBpZiAoc2NyaXB0c1tpXS5zcmMuaW5kZXhPZigndWRuLXVibi1sb2dpbi5qcycpICE9PSAtMSkgewogICAgICAgICAgc3JjID0gc2NyaXB0c1tpXS5zcmMKICAgICAgICB9CiAgICAgIH0KICAgICAgaWYgKHNyYy5pbmRleE9mKCc/JykgPT09IC0xKSB7CiAgICAgICAgcmV0dXJuIGZhbHNlCiAgICAgIH0KICAgICAgdmFyIHF1ZXJ5ID0gc3JjLnNwbGl0KCc/JylbMV07CiAgICAgIHZhciBwYXJhbXMgPSBxdWVyeS5zcGxpdCgnJicpOwogICAgICBmb3IgKGkgPSAwOyBpIDwgcGFyYW1zLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgaWYgKHBhcmFtc1tpXSA9PT0gJ3NsZWVwJykgewogICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQogICAgICB9CiAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCiAgICBpZiAoISBpc1NsZWVwKCkpIHsKICAgICAgaWYgKCFsb2dnZWRJbigpKSB7CiAgICAgICAgc2hvd0xvZ2luKCk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgdmFsaWRhdGUoKQogICAgICB9CiAgICB9IGVsc2UgewogICAgICB3aW5kb3cuc2hvd0xvZ2luID0gZnVuY3Rpb24gKCkgewogICAgICAgIGlmICghbG9nZ2VkSW4oKSkgewogICAgICAgICAgc2hvd0xvZ2luKCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHZhbGlkYXRlKCkKICAgICAgICB9CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaWx0ZXIodGhpcy5hcHBvaW50bWVudHMsIChhcHBvaW50bWVudCkgPT4gewogICAgICAgICAgcmV0dXJuIGFwcG9pbnRtZW50Ll9pZCAhPT0gdGhpcy5hY3RpdmVBcHBvaW50bWVudElkCiAgICAgICAgfSkpCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="q" type="4">
-        <text />
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="33" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uZmlybU1vZGFsIChkM2QpIHsKICAgICAgICBhbGVydCgnY29uZmlybWVkJykKICAgICAgfQo=</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmICghbG9nZ2VkSW4oKSkgewogICAgICBzaG93TG9naW4oKTsKICAgIH0gZWxzZSB7CiAgICAgIHZhbGlkYXRlKCk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5vbkNvbmZpcm0pCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaG9pJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Rlc3QnKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY29uZmlybWVkJykK</text>
+        <text encoding="base64">CiAgICBpZiAoIWxvZ2dlZEluKCkpIHsKICAgICAgd2luZG93LmxvY2F0aW9uID0gJ2h0dHBzOi8vc3NvLmJvZWhyaW5nZXItaW5nZWxoZWltLm5sL3Vkbi5waHA/ZnJvbT0nICsgd2luZG93LmxvY2F0aW9uICsgZ2V0VGl0bGUoKTsKICAgIH0gZWxzZSB7CiAgICAgIHZhbGlkYXRlKCk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>moda</last-search>
+      <last-search>show</last-search>
       <last-offset />
-      <last-pattern>moda</last-pattern>
+      <last-pattern>show</last-pattern>
       <last-replace encoding="base64">MTkxKS0+YWZ0ZXIoJ2lkJyk=</last-replace>
       <last-substitute>191)</last-substitute>
       <last-dir>1</last-dir>
@@ -550,10 +630,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getAppointments</entry>
-        <entry>measu</entry>
-        <entry>time</entry>
-        <entry>webp</entry>
         <entry>1</entry>
         <entry>colu</entry>
         <entry>setF</entry>
@@ -570,6 +646,10 @@
         <entry>delete</entry>
         <entry>uk</entry>
         <entry>moda</entry>
+        <entry>jq</entry>
+        <entry>init</entry>
+        <entry>sso</entry>
+        <entry>show</entry>
       </history-search>
       <history-cmd>
         <entry>s/Establishment/Coach/g</entry>
@@ -599,6 +679,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
