@@ -188,13 +188,7 @@
         <mark key="^" line="29" column="56" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" timestamp="1510924544260">
-        <mark key="'" line="51" column="42" />
-        <mark key="[" line="74" column="63" />
-        <mark key="]" line="74" column="62" />
-        <mark key="^" line="74" column="62" />
-        <mark key="." line="74" column="62" />
-      </file>
+      <file name="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" timestamp="1510927902097" />
       <file name="$USER_HOME$/code/coach-frontend/middleware/auth.js" timestamp="1510736587028">
         <mark key="'" line="0" column="27" />
         <mark key="[" line="10" column="31" />
@@ -397,8 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="25" filename="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" />
-      <jump line="118" column="63" filename="$USER_HOME$/code/coach-frontend/components/ModalNewAppointment.vue" />
       <jump line="2" column="53" filename="$USER_HOME$/code/coach-frontend/components/ModalNewAppointment.vue" />
       <jump line="27" column="48" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="4" column="5" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
@@ -497,22 +489,24 @@
       <jump line="92" column="32" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
       <jump line="93" column="45" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
       <jump line="195" column="39" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
+      <jump line="36" column="14" filename="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" />
+      <jump line="35" column="44" filename="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9InVrLWJ1dHRvbiB1ay1idXR0b24tZGVmYXVsdCIKICAgICAgICAgICAgICAgICAgICAgICAgdWstdG9nZ2xlPSJ0YXJnZXQ6ICNjb25maXJtLWRlbGV0ZS1hcHBvaW50bWVudCIKICAgICAgICAgICAgICAgICAgICAgICAgQGNsaWNrPSJhY3RpdmVBcHBvaW50bWVudElkID0gYXBwb2ludG1lbnQuX2lkIgogICAgICAgICAgICAgICAgICAgICAgICB1ay1pY29uPSJpY29uOiB0cmFzaCI+CiAgICAgICAgICAgICAgICA8L2J1dHRvbj4K</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text encoding="base64">c3BhbiA=</text>
       </register>
       <register name="/" type="4">
-        <text>storeA</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZ1bmN0aW9uIGlzU2xlZXAgKCkgewogICAgICB2YXIgc2NyaXB0cyA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoJ3NjcmlwdCcpOwogICAgICB2YXIgc3JjOwogICAgICBmb3IgKHZhciBpID0gMDsgaSA8IHNjcmlwdHMubGVuZ3RoOyBpKyspIHsKICAgICAgICBpZiAoc2NyaXB0c1tpXS5zcmMuaW5kZXhPZigndWRuLXVibi1sb2dpbi5qcycpICE9PSAtMSkgewogICAgICAgICAgc3JjID0gc2NyaXB0c1tpXS5zcmMKICAgICAgICB9CiAgICAgIH0KICAgICAgaWYgKHNyYy5pbmRleE9mKCc/JykgPT09IC0xKSB7CiAgICAgICAgcmV0dXJuIGZhbHNlCiAgICAgIH0KICAgICAgdmFyIHF1ZXJ5ID0gc3JjLnNwbGl0KCc/JylbMV07CiAgICAgIHZhciBwYXJhbXMgPSBxdWVyeS5zcGxpdCgnJicpOwogICAgICBmb3IgKGkgPSAwOyBpIDwgcGFyYW1zLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgaWYgKHBhcmFtc1tpXSA9PT0gJ3NsZWVwJykgewogICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQogICAgICB9CiAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCiAgICBpZiAoISBpc1NsZWVwKCkpIHsKICAgICAgaWYgKCFsb2dnZWRJbigpKSB7CiAgICAgICAgc2hvd0xvZ2luKCk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgdmFsaWRhdGUoKQogICAgICB9CiAgICB9IGVsc2UgewogICAgICB3aW5kb3cuc2hvd0xvZ2luID0gZnVuY3Rpb24gKCkgewogICAgICAgIGlmICghbG9nZ2VkSW4oKSkgewogICAgICAgICAgc2hvd0xvZ2luKCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHZhbGlkYXRlKCkKICAgICAgICB9CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9InVrLWJ1dHRvbiB1ay1idXR0b24tZGVmYXVsdCIKICAgICAgICAgICAgICAgICAgICAgICAgdWstdG9nZ2xlPSJ0YXJnZXQ6ICNjb25maXJtLWRlbGV0ZS1hcHBvaW50bWVudCIKICAgICAgICAgICAgICAgICAgICAgICAgQGNsaWNrPSJhY3RpdmVBcHBvaW50bWVudElkID0gYXBwb2ludG1lbnQuX2lkIgogICAgICAgICAgICAgICAgICAgICAgICB1ay1pY29uPSJpY29uOiB0cmFzaCI+CiAgICAgICAgICAgICAgICA8L2J1dHRvbj4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -585,46 +579,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICBjYwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICghbG9nZ2VkSW4oKSkgewogICAgICBzaG93TG9naW4oKTsKICAgIH0gZWxzZSB7CiAgICAgIHZhbGlkYXRlKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmICghbG9nZ2VkSW4oKSkgewogICAgICBzaG93TG9naW4oKTsKICAgIH0gZWxzZSB7CiAgICAgIHZhbGlkYXRlKCk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>s/span/a/g</text>
       </register>
     </registers>
     <search>
-      <last-search>storeA</last-search>
+      <last-search encoding="base64">Pg==</last-search>
       <last-offset />
-      <last-pattern>storeA</last-pattern>
-      <last-replace encoding="base64">MTkxKS0+YWZ0ZXIoJ2lkJyk=</last-replace>
-      <last-substitute>191)</last-substitute>
+      <last-pattern encoding="base64">Pg==</last-pattern>
+      <last-replace>a</last-replace>
+      <last-substitute>span</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">JG1vZGVsLT51dWlk</entry>
-        <entry>public_id</entry>
         <entry>191)</entry>
         <entry>cance</entry>
         <entry>canc</entry>
@@ -643,9 +635,10 @@
         <entry>'</entry>
         <entry>app</entry>
         <entry>storeA</entry>
+        <entry>span</entry>
+        <entry encoding="base64">Pg==</entry>
       </history-search>
       <history-cmd>
-        <entry>s/Establishment/Coach/g</entry>
         <entry>s/Establishment/Customer/g</entry>
         <entry>s/weight/body_water/g</entry>
         <entry>s/weight/body_fat/g</entry>
@@ -665,6 +658,7 @@
         <entry>%s/public_id/_id/g</entry>
         <entry encoding="base64">JXMvMTkxKS8xOTEpLT5hZnRlcignaWQnKQ==</entry>
         <entry>wq</entry>
+        <entry>s/span/a/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
