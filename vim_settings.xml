@@ -140,7 +140,6 @@
         <mark key="^" line="190" column="67" />
         <mark key="." line="339" column="13" />
       </file>
-      <file name="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" timestamp="1510923192919" />
       <file name="$USER_HOME$/code/coach-frontend/store/actions.js" timestamp="1510930704805">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="2" column="0" />
@@ -163,6 +162,13 @@
       <file name="$USER_HOME$/code/udn-ubn-login/UDN-Login.js" timestamp="1510914345724">
         <mark key="]" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/code/soory/style.css" timestamp="1511124707713">
+        <mark key="'" line="11" column="9" />
+        <mark key="[" line="50" column="18" />
+        <mark key="]" line="50" column="18" />
+        <mark key="." line="50" column="18" />
+        <mark key="^" line="36" column="23" />
+      </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/Contractor.php" timestamp="1510836768011">
         <mark key="[" line="17" column="28" />
         <mark key="]" line="17" column="28" />
@@ -175,7 +181,6 @@
         <mark key="^" line="29" column="56" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" timestamp="1510927902097" />
       <file name="$USER_HOME$/code/coach-frontend/middleware/auth.js" timestamp="1510736587028">
         <mark key="'" line="0" column="27" />
         <mark key="[" line="10" column="31" />
@@ -311,6 +316,12 @@
         <mark key="^" line="83" column="16" />
         <mark key="." line="83" column="16" />
       </file>
+      <file name="$USER_HOME$/code/soory/.gitignore" timestamp="1511122964221">
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="0" column="2" />
+      </file>
       <file name="$USER_HOME$/code/coach-frontend/components/ModalConfirm.vue" timestamp="1510908904070">
         <mark key="'" line="20" column="18" />
         <mark key="[" line="5" column="84" />
@@ -320,6 +331,13 @@
       </file>
       <file name="$USER_HOME$/code/coach-frontend/package.json" timestamp="1510824266475">
         <mark key="[" line="7" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/soory/index.html" timestamp="1511124581588">
+        <mark key="'" line="17" column="14" />
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="14" column="18" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/pages/_lang/agenda/index.vue" timestamp="1510738168113">
         <mark key="'" line="7" column="36" />
@@ -365,14 +383,11 @@
       <file name="$USER_HOME$/code/udn-ubn-login/SSOPDO.php" timestamp="1510584983621">
         <mark key="[" line="9" column="27" />
       </file>
+      <file name="$USER_HOME$/code/soory/tooltip.css" timestamp="1511122567752">
+        <mark key="[" line="2" column="49" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="5" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="5" column="5" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="93" column="47" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="2" column="5" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="3" column="5" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="2" column="99" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
       <jump line="3" column="7" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
       <jump line="5" column="27" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
       <jump line="19" column="99" filename="$USER_HOME$/code/coach-frontend/components/TabMeasurements.vue" />
@@ -467,22 +482,28 @@
       <jump line="35" column="44" filename="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" />
       <jump line="30" column="8" filename="$USER_HOME$/code/coach-frontend/store/index.js" />
       <jump line="33" column="0" filename="$USER_HOME$/code/coach-frontend/store/index.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/soory/index.html" />
+      <jump line="61" column="0" filename="$USER_HOME$/code/soory/style.css" />
+      <jump line="11" column="9" filename="$USER_HOME$/code/soory/style.css" />
+      <jump line="14" column="16" filename="$USER_HOME$/code/soory/index.html" />
+      <jump line="20" column="17" filename="$USER_HOME$/code/soory/index.html" />
+      <jump line="26" column="14" filename="$USER_HOME$/code/soory/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBmZXRjaFVzZXIgKHsgY29tbWl0IH0pIHsKICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#ed4949</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3BhbiA=</text>
+        <text>#ed4949</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>CO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZ1bmN0aW9uIGlzU2xlZXAgKCkgewogICAgICB2YXIgc2NyaXB0cyA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoJ3NjcmlwdCcpOwogICAgICB2YXIgc3JjOwogICAgICBmb3IgKHZhciBpID0gMDsgaSA8IHNjcmlwdHMubGVuZ3RoOyBpKyspIHsKICAgICAgICBpZiAoc2NyaXB0c1tpXS5zcmMuaW5kZXhPZigndWRuLXVibi1sb2dpbi5qcycpICE9PSAtMSkgewogICAgICAgICAgc3JjID0gc2NyaXB0c1tpXS5zcmMKICAgICAgICB9CiAgICAgIH0KICAgICAgaWYgKHNyYy5pbmRleE9mKCc/JykgPT09IC0xKSB7CiAgICAgICAgcmV0dXJuIGZhbHNlCiAgICAgIH0KICAgICAgdmFyIHF1ZXJ5ID0gc3JjLnNwbGl0KCc/JylbMV07CiAgICAgIHZhciBwYXJhbXMgPSBxdWVyeS5zcGxpdCgnJicpOwogICAgICBmb3IgKGkgPSAwOyBpIDwgcGFyYW1zLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgaWYgKHBhcmFtc1tpXSA9PT0gJ3NsZWVwJykgewogICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQogICAgICB9CiAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCiAgICBpZiAoISBpc1NsZWVwKCkpIHsKICAgICAgaWYgKCFsb2dnZWRJbigpKSB7CiAgICAgICAgc2hvd0xvZ2luKCk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgdmFsaWRhdGUoKQogICAgICB9CiAgICB9IGVsc2UgewogICAgICB3aW5kb3cuc2hvd0xvZ2luID0gZnVuY3Rpb24gKCkgewogICAgICAgIGlmICghbG9nZ2VkSW4oKSkgewogICAgICAgICAgc2hvd0xvZ2luKCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHZhbGlkYXRlKCkKICAgICAgICB9CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmZXRjaFVzZXIgKHsgY29tbWl0IH0pIHsKICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjY2FhY2I2Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -555,37 +576,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICBkYXRhLXRvb2x0aXAtdGV4dD0ic29tZSB0ZXh0IgogICAgICAgICAgIGRhdGEtdG9vbHRpcC1pbnN0YW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICBkYXRhLXRvb2x0aXAtdGV4dD0ib3BlbiAucGRmIGluIG5ldyB0YWIiCiAgICAgICAgICAgZGF0YS10b29sdGlwLWluc3RhbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9InVrLWJ1dHRvbiB1ay1idXR0b24tZGVmYXVsdCIKICAgICAgICAgICAgICAgICAgICAgICAgdWstdG9nZ2xlPSJ0YXJnZXQ6ICNjb25maXJtLWRlbGV0ZS1hcHBvaW50bWVudCIKICAgICAgICAgICAgICAgICAgICAgICAgQGNsaWNrPSJhY3RpdmVBcHBvaW50bWVudElkID0gYXBwb2ludG1lbnQuX2lkIgogICAgICAgICAgICAgICAgICAgICAgICB1ay1pY29uPSJpY29uOiB0cmFzaCI+CiAgICAgICAgICAgICAgICA8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICBkYXRhLXRvb2x0aXAtdGV4dD0ic29tZSB0ZXh0IgogICAgICAgICAgIGRhdGEtdG9vbHRpcC1pbnN0YW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICBkYXRhLXRvb2x0aXAtdGV4dD0ic29vcnlub3RhdG9AaWNsb3VkLmNvbSIKICAgICAgICAgICBkYXRhLXRvb2x0aXAtaW5zdGFudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIiIK</text>
+        <text encoding="base64">CiAgICA8cD5Zb3UgY2FuIGZpbmQgbWUgd29ya2luZyB3aXRoIDxhIGNsYXNzPSJ1bmRlcmxpbmVkIj50d2l0Y2ggYnJvYWRjYXN0ZXJzPC9hPjwvcD4KICAgIDxwPm9yIGNvb2tpbmcgdXAgPGEgY2xhc3M9InVuZGVybGluZWQiPmNvbmNlcHRzPC9hPiBhbmQgPGEgY2xhc3M9InVuZGVybGluZWQiPm1vY2t1cHM8L2E+LjwvcD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjYwo=</text>
+        <text encoding="base64">ICAgID4K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhLXRvb2x0aXAtdGV4dD0iYXlvLCAiCiAgICAgICAgZGF0YS10b29sdGlwLWluc3RhbnQKICAgICAgICBkYXRhLXRvb2x0aXAtcG9zPSJ0b3AtcmlnaHQiCiAgICAgICAgZGF0YS10b29sdGlwLW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/span/a/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pg==</last-search>
+      <last-search>CO</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pg==</last-pattern>
+      <last-pattern>CO</last-pattern>
       <last-replace>a</last-replace>
       <last-substitute>span</last-substitute>
       <last-dir>1</last-dir>
@@ -593,14 +614,6 @@
     </search>
     <history>
       <history-search>
-        <entry>191)</entry>
-        <entry>cance</entry>
-        <entry>canc</entry>
-        <entry>{</entry>
-        <entry encoding="base64">PA==</entry>
-        <entry>comp</entry>
-        <entry>delete</entry>
-        <entry>uk</entry>
         <entry>moda</entry>
         <entry>jq</entry>
         <entry>init</entry>
@@ -613,6 +626,14 @@
         <entry>storeA</entry>
         <entry>span</entry>
         <entry encoding="base64">Pg==</entry>
+        <entry>]</entry>
+        <entry>ul</entry>
+        <entry>a</entry>
+        <entry>flex</entry>
+        <entry>port</entry>
+        <entry>PORT</entry>
+        <entry>SO</entry>
+        <entry>CO</entry>
       </history-search>
       <history-cmd>
         <entry>s/Establishment/Customer/g</entry>
