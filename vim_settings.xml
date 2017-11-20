@@ -66,7 +66,7 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1511173996000">
+      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1511175107512">
         <mark key="'" line="97" column="20" />
         <mark key="[" line="97" column="20" />
         <mark key="]" line="97" column="45" />
@@ -90,12 +90,12 @@
         <mark key="." line="249" column="4" />
         <mark key="^" line="249" column="4" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" timestamp="1510905721812">
-        <mark key="'" line="212" column="42" />
-        <mark key="[" line="40" column="12" />
-        <mark key="]" line="40" column="12" />
-        <mark key="^" line="40" column="14" />
-        <mark key="." line="40" column="12" />
+      <file name="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" timestamp="1511175426295">
+        <mark key="'" line="40" column="20" />
+        <mark key="[" line="646" column="0" />
+        <mark key="]" line="646" column="0" />
+        <mark key="^" line="644" column="27" />
+        <mark key="." line="646" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/migrations/2017_11_16_112733_rename_uuid_and_public_id_to__id.php" timestamp="1510829476986">
         <mark key="'" line="54" column="42" />
@@ -400,7 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="5" filename="$USER_HOME$/code/coach-frontend/locales/nl.json" />
       <jump line="14" column="0" filename="$USER_HOME$/code/coach-frontend/plugins/vee-validate.js" />
       <jump line="25" column="47" filename="$USER_HOME$/code/coach-frontend/plugins/vee-validate.js" />
       <jump line="27" column="39" filename="$USER_HOME$/code/coach-frontend/plugins/vee-validate.js" />
@@ -500,13 +499,14 @@
       <jump line="97" column="20" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="66" column="0" filename="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" />
       <jump line="69" column="28" filename="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" />
+      <jump line="40" column="20" filename="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiAjMmEyYzMzOwogICAgICAgIGJhY2tncm91bmQ6IGRhcmtlbigkZ2xvYmFsLXNlY29uZGFyeS1iYWNrZ3JvdW5kLCAyLjUlKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>rgba($black,.7)</text>
       </register>
       <register name="/" type="4">
         <text>locale</text>
@@ -515,7 +515,7 @@
         <text>moment(date).format('LT')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiAjMmEyYzMzOwogICAgICAgIGJhY2tncm91bmQ6IGRhcmtlbigkZ2xvYmFsLXNlY29uZGFyeS1iYWNrZ3JvdW5kLCAyLjUlKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -588,28 +588,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBvcnQgeyBnZXRDdXN0b21lckFwcG9pbnRtZW50cyB9IGZyb20gJ34vYXBpJwo=</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiAjMmEyYzMzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGFwcG9pbnRtZW50cyA9IGF3YWl0IGdldEN1c3RvbWVyQXBwb2ludG1lbnRzKHRoaXMuJHN0b3JlLnN0YXRlLmN1c3RvbWVyLl9pZCwgMSwgJ2VzdGFibGlzaG1lbnQnKQogICAgICAgICAgICB0aGlzLiRzdG9yZS5jb21taXQoJ1NFVF9BUFBPSU5UTUVOVFMnLCBhcHBvaW50bWVudHMuZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiAjMmEyYzMzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiBkYXJrZW4oJGdsb2JhbC1zZWNvbmRhcnktYmFja2dyb3VuZCwgMi41JSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy4kc3RvcmUuc3RhdGUuY3VzdG9tZXIubWVhc3VyZW1lbnRzKCkK</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6ICRnbG9iYWwtc2Vjb25kYXJ5LWJhY2tncm91bmQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbWVhc3VyZW1lbnRzICgpIHsK</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXItcmFkaXVzOiA0cHg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbXBvcnQgeyBjcmVhdGVNZWFzdXJlbWVudCB9IGZyb20gJ34vYXBpJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbXBvcnQgeyBkZWxldGVBcHBvaW50bWVudCB9IGZyb20gJ34vYXBpJwo=</text>
+        <text encoding="base64">ICBpbXBvcnQgeyBnZXRDdXN0b21lckFwcG9pbnRtZW50cyB9IGZyb20gJ34vYXBpJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGFwcG9pbnRtZW50cyA9IGF3YWl0IGdldEN1c3RvbWVyQXBwb2ludG1lbnRzKHRoaXMuJHN0b3JlLnN0YXRlLmN1c3RvbWVyLl9pZCwgMSwgJ2VzdGFibGlzaG1lbnQnKQogICAgICAgICAgICB0aGlzLiRzdG9yZS5jb21taXQoJ1NFVF9BUFBPSU5UTUVOVFMnLCBhcHBvaW50bWVudHMuZGF0YSkK</text>
       </register>
       <register name=":" type="4">
         <text>s/span/a/g</text>
