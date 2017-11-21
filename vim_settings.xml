@@ -72,11 +72,11 @@
         <mark key="]" line="79" column="51" />
         <mark key="." line="79" column="51" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1511261267035">
-        <mark key="[" line="76" column="6" />
-        <mark key="]" line="76" column="6" />
-        <mark key="." line="76" column="6" />
-        <mark key="^" line="89" column="51" />
+      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1511276793890">
+        <mark key="[" line="62" column="14" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/components/MainNavbar.vue" timestamp="1511255199448">
         <mark key="[" line="20" column="50" />
@@ -273,12 +273,12 @@
         <mark key="." line="23" column="31" />
         <mark key="^" line="23" column="30" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/locales/nl.json" timestamp="1511257646045">
+      <file name="$USER_HOME$/code/coach-frontend/locales/nl.json" timestamp="1511276631197">
         <mark key="'" line="31" column="5" />
-        <mark key="[" line="84" column="25" />
-        <mark key="]" line="84" column="25" />
-        <mark key="." line="84" column="25" />
-        <mark key="^" line="84" column="25" />
+        <mark key="[" line="85" column="22" />
+        <mark key="]" line="85" column="22" />
+        <mark key="." line="85" column="22" />
+        <mark key="^" line="85" column="53" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Measurement.php" timestamp="1510835991381">
         <mark key="[" line="71" column="0" />
@@ -318,12 +318,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/locales/en.json" timestamp="1511257664099">
+      <file name="$USER_HOME$/code/coach-frontend/locales/en.json" timestamp="1511276610992">
         <mark key="'" line="74" column="19" />
-        <mark key="[" line="84" column="24" />
-        <mark key="]" line="84" column="25" />
-        <mark key="^" line="84" column="24" />
-        <mark key="." line="84" column="25" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="43" />
+        <mark key="^" line="85" column="42" />
+        <mark key="." line="85" column="42" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/.env.js" timestamp="1511192174595">
         <mark key="[" line="1" column="25" />
@@ -331,7 +331,7 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="0" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511273245984">
+      <file name="/Dummy.txt" timestamp="1511275413788">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Exceptions/FilterInvalidOperatorException.php" timestamp="1510822337440">
@@ -530,20 +530,20 @@
       <jump line="408" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRpdGVtWydjb2x1bW4nXSk7ZGQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">d2VyZ2VuIA==</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text encoding="base64">d2VyZ2VuIA==</text>
       </register>
       <register name="/" type="4">
         <text>setFilter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0QXR0cmlidXRlcygpOwo=</text>
+        <text encoding="base64">ICAgICJub19yZXN1bHRzIjogIk5vIHJlc3VsdHMgd2VyZSBmb3VuZC4iLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRpdGVtWydjb2x1bW4nXSk7ZGQK</text>
+        <text encoding="base64">ICAgICAgZGVib3VuY2VkRmV0Y2hDdXN0b21lcnM6IGRlYm91bmNlKGFzeW5jIGZ1bmN0aW9uICgpIHsKICAgICAgICB0aGlzLmZldGNoQ3VzdG9tZXJzKCkKICAgICAgfSwgNTAwKSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -615,29 +615,31 @@
           <key char="65535" code="8" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>() {
+        this.fetchCustomers()
+      }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJvdW5jZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbW9kZWwpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0SW5jbHVkZXMoKQogICAgICAgICAgICAtPnNldFNvcnQoKQogICAgICAgICAgICAtPnNldEZpbHRlcigpCiAgICAgICAgICAgIC0+c2V0TGltaXQoKQogICAgICAgICAgICAtPnNldFBhZ2UoKQogICAgICAgICAgICAtPnNldEdhdGV3YXlVcmwoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHNldEF0dHIK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ3BhZ2UnKSkK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRpdGVtWydjb2x1bW4nXSk7ZGQK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHsKICAgICAgICAgICAgJHRoaXMtPnBhZ2UgPSAkcmVxdWVzdC0+cGFnZTsKICAgICAgICB9CgogICAgICAgIGlmICgkcmVxdWVzdC0+aGFzSGVhZGVyKCd4LWdhdGV3YXktdXJsJykpIHsKICAgICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkbW9kZWwpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0SW5jbHVkZXMoKQogICAgICAgICAgICAtPnNldFNvcnQoKQogICAgICAgICAgICAtPnNldEZpbHRlcigpCiAgICAgICAgICAgIC0+c2V0TGltaXQoKQogICAgICAgICAgICAtPnNldFBhZ2UoKQogICAgICAgICAgICAtPnNldEdhdGV3YXlVcmwoKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">cy8tPi9cci0+L2c=</text>
