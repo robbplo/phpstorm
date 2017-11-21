@@ -67,16 +67,16 @@
         <mark key="^" line="106" column="23" />
         <mark key="." line="21" column="13" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/nuxt.config.js" timestamp="1511258940498">
-        <mark key="[" line="79" column="51" />
-        <mark key="]" line="79" column="51" />
-        <mark key="." line="79" column="51" />
+      <file name="$USER_HOME$/code/coach-frontend/nuxt.config.js" timestamp="1511279289875">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1511276793890">
-        <mark key="[" line="62" column="14" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="0" />
+      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1511279128954">
+        <mark key="[" line="27" column="14" />
+        <mark key="]" line="27" column="16" />
+        <mark key="." line="27" column="16" />
+        <mark key="^" line="27" column="16" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/components/MainNavbar.vue" timestamp="1511255199448">
         <mark key="[" line="20" column="50" />
@@ -96,12 +96,12 @@
         <mark key="]" line="403" column="0" />
         <mark key="." line="403" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" timestamp="1511254190297">
-        <mark key="'" line="651" column="16" />
-        <mark key="[" line="700" column="1" />
-        <mark key="]" line="700" column="0" />
-        <mark key="." line="700" column="0" />
-        <mark key="^" line="624" column="36" />
+      <file name="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" timestamp="1511279712020">
+        <mark key="'" line="699" column="1" />
+        <mark key="[" line="665" column="30" />
+        <mark key="]" line="667" column="0" />
+        <mark key="." line="667" column="0" />
+        <mark key="^" line="674" column="16" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/migrations/2017_11_16_112733_rename_uuid_and_public_id_to__id.php" timestamp="1510829476986">
         <mark key="'" line="54" column="42" />
@@ -273,12 +273,12 @@
         <mark key="." line="23" column="31" />
         <mark key="^" line="23" column="30" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/locales/nl.json" timestamp="1511276631197">
+      <file name="$USER_HOME$/code/coach-frontend/locales/nl.json" timestamp="1511278833684">
         <mark key="'" line="31" column="5" />
-        <mark key="[" line="85" column="22" />
-        <mark key="]" line="85" column="22" />
-        <mark key="." line="85" column="22" />
-        <mark key="^" line="85" column="53" />
+        <mark key="[" line="85" column="27" />
+        <mark key="]" line="85" column="27" />
+        <mark key="." line="85" column="27" />
+        <mark key="^" line="85" column="27" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Measurement.php" timestamp="1510835991381">
         <mark key="[" line="71" column="0" />
@@ -318,12 +318,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/locales/en.json" timestamp="1511276610992">
+      <file name="$USER_HOME$/code/coach-frontend/locales/en.json" timestamp="1511278820072">
         <mark key="'" line="74" column="19" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="43" />
-        <mark key="^" line="85" column="42" />
-        <mark key="." line="85" column="42" />
+        <mark key="[" line="85" column="25" />
+        <mark key="]" line="85" column="25" />
+        <mark key="^" line="85" column="25" />
+        <mark key="." line="85" column="25" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/.env.js" timestamp="1511192174595">
         <mark key="[" line="1" column="25" />
@@ -428,7 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="45" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
       <jump line="195" column="39" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
       <jump line="36" column="14" filename="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" />
       <jump line="35" column="44" filename="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" />
@@ -528,13 +527,14 @@
       <jump line="321" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
       <jump line="42" column="1" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
       <jump line="408" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
+      <jump line="700" column="1" filename="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">d2VyZ2VuIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3aWR0aDogNTAlCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2VyZ2VuIA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>setFilter</text>
@@ -543,7 +543,7 @@
         <text encoding="base64">ICAgICJub19yZXN1bHRzIjogIk5vIHJlc3VsdHMgd2VyZSBmb3VuZC4iLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVib3VuY2VkRmV0Y2hDdXN0b21lcnM6IGRlYm91bmNlKGFzeW5jIGZ1bmN0aW9uICgpIHsKICAgICAgICB0aGlzLmZldGNoQ3VzdG9tZXJzKCkKICAgICAgfSwgNTAwKSwK</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogNTAlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -615,31 +615,31 @@
           <key char="65535" code="8" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBiYXNlVXJsOiAnaHR0cDovL2NvYWNoLWJhY2tlbmQuZGV2L3YxJywKICAgIHN0YXJ0VXJsOiBwcm9jZXNzLmVudi5TVEFSVF9VUkwgfHwgZmFsbGJhY2tTdGFydFVybAo9PT09PT09Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBAdG9kbyBzb3J0IGJ5IGFwcG9pbnRtZW50IGRhdGUgYW5kIHRpbWUsIGVhcmxpZXN0IHRvIGxhdGVzdAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZGVib3VuY2VkRmV0Y2hDdXN0b21lcnM6IGRlYm91bmNlKGFzeW5jIGZ1bmN0aW9uICgpIHsKICAgICAgICB0aGlzLmZldGNoQ3VzdG9tZXJzKCkKICAgICAgfSwgNTAwKSwK</text>
+      </register>
+      <register name="7" type="4">
         <text>() {
         this.fetchCustomers()
       }</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBkZWJvdW5jZSgpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRpdGVtWydjb2x1bW4nXSk7ZGQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbW9kZWwpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0SW5jbHVkZXMoKQogICAgICAgICAgICAtPnNldFNvcnQoKQogICAgICAgICAgICAtPnNldEZpbHRlcigpCiAgICAgICAgICAgIC0+c2V0TGltaXQoKQogICAgICAgICAgICAtPnNldFBhZ2UoKQogICAgICAgICAgICAtPnNldEdhdGV3YXlVcmwoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">cy8tPi9cci0+L2c=</text>
