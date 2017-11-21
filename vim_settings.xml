@@ -90,11 +90,12 @@
         <mark key="." line="17" column="28" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/middleware/i18n.js" timestamp="1511258438727" />
-      <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" timestamp="1511261933318">
-        <mark key="'" line="249" column="23" />
-        <mark key="[" line="126" column="5" />
-        <mark key="]" line="251" column="0" />
-        <mark key="." line="251" column="0" />
+      <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" timestamp="1511269584576">
+        <mark key="'" line="344" column="30" />
+        <mark key="[" line="356" column="0" />
+        <mark key="]" line="356" column="31" />
+        <mark key="." line="356" column="0" />
+        <mark key="^" line="344" column="30" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" timestamp="1511254190297">
         <mark key="'" line="651" column="16" />
@@ -127,12 +128,11 @@
         <mark key="^" line="17" column="12" />
         <mark key="." line="17" column="12" />
       </file>
-      <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" timestamp="1510924918345">
-        <mark key="'" line="195" column="39" />
-        <mark key="[" line="339" column="13" />
-        <mark key="]" line="339" column="13" />
-        <mark key="^" line="190" column="67" />
-        <mark key="." line="339" column="13" />
+      <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" timestamp="1511269177124">
+        <mark key="'" line="293" column="5" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/store/actions.js" timestamp="1511259132083">
         <mark key="[" line="13" column="0" />
@@ -429,29 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="11" filename="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" />
-      <jump line="71" column="45" filename="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" />
-      <jump line="14" column="41" filename="$USER_HOME$/code/udn-ubn-login/index.php" />
-      <jump line="89" column="13" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
-      <jump line="113" column="21" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
-      <jump line="122" column="41" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
-      <jump line="183" column="36" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
-      <jump line="53" column="36" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
-      <jump line="59" column="33" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
-      <jump line="118" column="0" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
-      <jump line="138" column="13" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
-      <jump line="16" column="3" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
-      <jump line="205" column="0" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
-      <jump line="190" column="11" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
-      <jump line="188" column="4" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
-      <jump line="66" column="0" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
-      <jump line="220" column="6" filename="$USER_HOME$/code/udn-ubn-login/udn-ubn-login.js" />
-      <jump line="74" column="27" filename="$USER_HOME$/code/coach-frontend/locales/nl.json" />
-      <jump line="36" column="3" filename="$USER_HOME$/code/coach-frontend/locales/en.json" />
-      <jump line="47" column="5" filename="$USER_HOME$/code/coach-frontend/locales/en.json" />
-      <jump line="31" column="5" filename="$USER_HOME$/code/coach-frontend/locales/en.json" />
-      <jump line="22" column="25" filename="$USER_HOME$/code/coach-frontend/locales/en.json" />
-      <jump line="45" column="51" filename="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" />
       <jump line="51" column="42" filename="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" />
       <jump line="79" column="25" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
       <jump line="92" column="32" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
@@ -529,22 +506,45 @@
       <jump line="28" column="47" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="5" column="58" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="6" column="2" filename="$USER_HOME$/code/coach-frontend/middleware/auth.js" />
+      <jump line="339" column="17" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
+      <jump line="288" column="2" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
+      <jump line="323" column="16" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
+      <jump line="127" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
+      <jump line="263" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
+      <jump line="293" column="5" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
+      <jump line="261" column="46" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
+      <jump line="218" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
+      <jump line="235" column="7" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
+      <jump line="262" column="7" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
+      <jump line="293" column="39" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
+      <jump line="132" column="47" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
+      <jump line="312" column="24" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
+      <jump line="356" column="19" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
+      <jump line="357" column="40" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
+      <jump line="85" column="20" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
+      <jump line="86" column="15" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
+      <jump line="121" column="15" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
+      <jump line="143" column="35" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
+      <jump line="144" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
+      <jump line="313" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
+      <jump line="131" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
+      <jump line="344" column="30" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZAoK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0QXR0cmlidXRlcygpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2VhcmNoIA==</text>
+        <text>Attributes</text>
       </register>
       <register name="/" type="4">
-        <text>oek</text>
+        <text>Att</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCB7IGRhdGEgfSA9IGF3YWl0IGdldFVzZXIoJ2VzdGFibGlzaG1lbnRzJykKICAgIGNvbnNvbGUubG9nKGRhdGEpCiAgICBjb21taXQoJ1NFVF9VU0VSJywgewogICAgICBfaWQ6IGRhdGEuX2lkLAogICAgICBuYW1lOiBkYXRhLl9pZCwKICAgICAgcGljdHVyZTogJ2h0dHBzOi8vcmFuZG9tdXNlci5tZS9hcGkvcG9ydHJhaXRzL21lbi8zMS5qcGcnLAogICAgICBlc3RhYmxpc2htZW50czogZGF0YS5lc3RhYmxpc2htZW50cwogICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0QXR0cmlidXRlcygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZAoK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0SW5jbHVkZXMoKQogICAgICAgICAgICAtPnNldFNvcnQoKQogICAgICAgICAgICAtPnNldEZpbHRlcigpCiAgICAgICAgICAgIC0+c2V0TGltaXQoKQogICAgICAgICAgICAtPnNldFBhZ2UoKQogICAgICAgICAgICAtPnNldEdhdGV3YXlVcmwoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -617,67 +617,66 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRpdGVtWzBdKTsK</text>
+        <text encoding="base64">ICAgIHNldEF0dHIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZmlsdGVycyA9IHRoaXMuZGRjb21iaW5lRmlsdGVycyhbCiAgICAgICAgICAKICAgICAgICBdKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlciAvLyBlc2xpbnQtZGlzYWJsZS1saW5lCg==</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKCRyZXF1ZXN0LT5oYXMoJ3BhZ2UnKSkK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgfQ==</text>
+        <text encoding="base64">IHsKICAgICAgICAgICAgJHRoaXMtPnBhZ2UgPSAkcmVxdWVzdC0+cGFnZTsKICAgICAgICB9CgogICAgICAgIGlmICgkcmVxdWVzdC0+aGFzSGVhZGVyKCd4LWdhdGV3YXktdXJsJykpIHsKICAgICAgICB9</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICBwYXJhbXM6IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAdG9kbyBtYWtlIHRhYmxlIGZpbHRlcmFibGUgYW5kIHNlYXJjaCBkaXJlY3RseSBoaXR0aW5nIEFQSSBmb3IgcmVzdWx0c2RkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+ZmlsdGVyKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>s/span/a/g</text>
+        <text encoding="base64">cy8tPi9cci0+L2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>oek</last-search>
+      <last-search>Att</last-search>
       <last-offset />
-      <last-pattern>oek</last-pattern>
-      <last-replace>a</last-replace>
-      <last-substitute>span</last-substitute>
+      <last-pattern>Att</last-pattern>
+      <last-replace encoding="base64">XHItPg==</last-replace>
+      <last-substitute encoding="base64">LT4=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getC</entry>
-        <entry>get</entry>
-        <entry>fetc</entry>
-        <entry>app</entry>
-        <entry>show</entry>
-        <entry>dele</entry>
-        <entry>filter</entry>
-        <entry>delete</entry>
-        <entry>dis</entry>
-        <entry>disp</entry>
-        <entry>`</entry>
-        <entry>loc</entry>
-        <entry>locale</entry>
-        <entry>!imp</entry>
-        <entry encoding="base64">PDw8PA==</entry>
         <entry>title</entry>
         <entry>user</entry>
         <entry>form</entry>
         <entry>zoek</entry>
         <entry>oek</entry>
+        <entry>showCus</entry>
+        <entry>dd</entry>
+        <entry>dd(</entry>
+        <entry>setmodel</entry>
+        <entry>setMod</entry>
+        <entry>in</entry>
+        <entry>inc</entry>
+        <entry>setL</entry>
+        <entry>;</entry>
+        <entry>-</entry>
+        <entry encoding="base64">LT4=</entry>
+        <entry>gatew</entry>
+        <entry>re</entry>
+        <entry>setA</entry>
+        <entry>Att</entry>
       </history-search>
       <history-cmd>
-        <entry>s/Establishment/Customer/g</entry>
         <entry>s/weight/body_water/g</entry>
         <entry>s/weight/body_fat/g</entry>
         <entry>s/weight/muscle_mass</entry>
@@ -697,6 +696,7 @@
         <entry encoding="base64">JXMvMTkxKS8xOTEpLT5hZnRlcignaWQnKQ==</entry>
         <entry>wq</entry>
         <entry>s/span/a/g</entry>
+        <entry encoding="base64">cy8tPi9cci0+L2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
