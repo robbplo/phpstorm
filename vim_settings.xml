@@ -489,12 +489,12 @@
         <mark key="^" line="3" column="43" />
         <mark key="." line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/code/nustar/routes/api.php" timestamp="1511358093601">
-        <mark key="'" line="11" column="56" />
-        <mark key="[" line="26" column="49" />
-        <mark key="]" line="11" column="56" />
-        <mark key="." line="11" column="56" />
-        <mark key="^" line="11" column="56" />
+      <file name="$USER_HOME$/code/nustar/routes/api.php" timestamp="1511362709637">
+        <mark key="'" line="43" column="39" />
+        <mark key="[" line="129" column="49" />
+        <mark key="]" line="129" column="56" />
+        <mark key="." line="129" column="56" />
+        <mark key="^" line="129" column="56" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/Customer.php" timestamp="1510836775954">
         <mark key="'" line="1" column="0" />
@@ -524,9 +524,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="14" filename="$USER_HOME$/code/soory/index.html" />
-      <jump line="90" column="0" filename="$USER_HOME$/code/soory/style.css" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/soory/style.css" />
       <jump line="92" column="46" filename="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" />
       <jump line="94" column="31" filename="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" />
       <jump line="71" column="25" filename="$USER_HOME$/code/coach-frontend/pages/_lang/clients/_id/index.vue" />
@@ -624,6 +621,9 @@
       <jump line="95" column="60" filename="$USER_HOME$/code/nustar/routes/api.php" />
       <jump line="152" column="18" filename="$USER_HOME$/code/nustar/routes/api.php" />
       <jump line="11" column="56" filename="$USER_HOME$/code/nustar/routes/api.php" />
+      <jump line="41" column="57" filename="$USER_HOME$/code/nustar/routes/api.php" />
+      <jump line="42" column="39" filename="$USER_HOME$/code/nustar/routes/api.php" />
+      <jump line="43" column="39" filename="$USER_HOME$/code/nustar/routes/api.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -633,7 +633,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>role</text>
+        <text>admin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxlbC1tZW51LWl0ZW0gaW5kZXg9IiIgY2xhc3M9Int7IFJvdXRlOjpjdXJyZW50Um91dGVOYW1lKCkgPT0gJ2FkbWluLmpldHRpZXMnID8gJ2FjdGl2ZScgOiAnJyB9fSI+CiAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL2pldHRpZXMiPgogICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iaWNvbi1hbmNob3IgaWNvbnMiPjwvaT4KICAgICAgICAgICAgICAgICAgICAgICAgSmV0dGllcwogICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgIDwvZWwtbWVudS1pdGVtPgogICAgICAgICAgICAgICAgPGVsLW1lbnUtaXRlbSBpbmRleD0iIiBjbGFzcz0ie3sgUm91dGU6OmN1cnJlbnRSb3V0ZU5hbWUoKSA9PSAnYWRtaW4uc2hpcHMnID8gJ2FjdGl2ZScgOiAnJyB9fSI+CiAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL3NoaXBzIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9Imljb24tY3Vyc29yIGljb25zIj48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgIFNoaXBzCiAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgPC9lbC1tZW51LWl0ZW0+Cg==</text>
@@ -673,9 +673,9 @@
       </register>
     </registers>
     <search>
-      <last-search>role</last-search>
+      <last-search>admin</last-search>
       <last-offset />
-      <last-pattern>role</last-pattern>
+      <last-pattern>admin</last-pattern>
       <last-replace>Planner</last-replace>
       <last-substitute>Operator</last-substitute>
       <last-dir>1</last-dir>
@@ -683,8 +683,6 @@
     </search>
     <history>
       <history-search>
-        <entry>in</entry>
-        <entry>inc</entry>
         <entry>setL</entry>
         <entry>;</entry>
         <entry>-</entry>
@@ -703,6 +701,8 @@
         <entry>}</entry>
         <entry>users</entry>
         <entry>role</entry>
+        <entry>boats</entry>
+        <entry>admin</entry>
       </history-search>
       <history-cmd>
         <entry>s/weight/body_fat/g</entry>
