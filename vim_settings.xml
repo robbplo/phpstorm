@@ -77,6 +77,11 @@
         <mark key="]" line="7" column="1" />
         <mark key="." line="7" column="1" />
       </file>
+      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Users/userManager.vue" timestamp="1511354934652">
+        <mark key="[" line="30" column="60" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1511279128954">
         <mark key="[" line="27" column="14" />
         <mark key="]" line="27" column="16" />
@@ -599,7 +604,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxlbC1tZW51LWl0ZW0gaW5kZXg9IiIgY2xhc3M9Int7IFJvdXRlOjpjdXJyZW50Um91dGVOYW1lKCkgPT0gJ2FkbWluLnVzZXJzJyA/ICdhY3RpdmUnIDogJycgfX0iPgogICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii91c2VycyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJpY29uLXBlb3BsZSBpY29ucyI+PC9pPgogICAgICAgICAgICAgICAgICAgICAgICBVc2VycwogICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgIDwvZWwtbWVudS1pdGVtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>all</text>
@@ -611,34 +616,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxlbC1tZW51LWl0ZW0gaW5kZXg9IiIgY2xhc3M9Int7IFJvdXRlOjpjdXJyZW50Um91dGVOYW1lKCkgPT0gJ2FkbWluLnVzZXJzJyA/ICdhY3RpdmUnIDogJycgfX0iPgogICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii91c2VycyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJpY29uLXBlb3BsZSBpY29ucyI+PC9pPgogICAgICAgICAgICAgICAgICAgICAgICBVc2VycwogICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgIDwvZWwtbWVudS1pdGVtPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFJvdXRlOjpncm91cChbJ21pZGRsZXdhcmUnID0+ICdyb2xlOkFkbWlufFBsYW5uZXInXSwgZnVuY3Rpb24gKCkgewogICAgICAgIFJvdXRlOjpnZXQoJy91c2VycycsICdBZG1pbkNvbnRyb2xsZXJAdXNlcnMnKS0+bmFtZSgnYWRtaW4udXNlcnMnKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>wdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJvdXRlOjpncm91cChbJ21pZGRsZXdhcmUnID0+ICdyb2xlOkFkbWlufFBsYW5uZXInXSwgZnVuY3Rpb24gKCkgewogICAgICAgIFJvdXRlOjpnZXQoJy91c2VycycsICdBZG1pbkNvbnRyb2xsZXJAdXNlcnMnKS0+bmFtZSgnYWRtaW4udXNlcnMnKTsKICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB1c2VycygpCiAgICB7CiAgICAgICAgcmV0dXJuIHZpZXcoJ3BhZ2VzLmFkbWluLnVzZXJzJyk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGQoZGQpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB1c2VycygpCiAgICB7CiAgICAgICAgcmV0dXJuIHZpZXcoJ3BhZ2VzLmFkbWluLnVzZXJzJyk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQoZGQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcm9sZXMgPSAkcm9sZXMK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0OwoK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkcm9sZXMgPSAkcm9sZXMK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0OwoK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBwbGFubmluZygpCiAgICB7CiAgICAgICAgcmV0dXJuIHZpZXcoJ3BhZ2VzLm9wZXJhdG9yLnBsYW5uaW5nJyk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Operator/Planner</text>
