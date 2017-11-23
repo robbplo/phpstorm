@@ -355,11 +355,11 @@
         <mark key="^" line="64" column="49" />
         <mark key="." line="57" column="27" />
       </file>
-      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/bargeReporter.vue" timestamp="1511450790136">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="31" />
-        <mark key="^" line="18" column="56" />
-        <mark key="." line="18" column="31" />
+      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/bargeReporter.vue" timestamp="1511452411952">
+        <mark key="'" line="56" column="25" />
+        <mark key="[" line="73" column="77" />
+        <mark key="]" line="73" column="77" />
+        <mark key="." line="73" column="77" />
       </file>
       <file name="$USER_HOME$/code/nustar/resources/views/pages/admin/users.blade.php" timestamp="1511356555455">
         <mark key="[" line="11" column="51" />
@@ -605,8 +605,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/code/coach-frontend/components/ModalNewAppointment.vue" />
-      <jump line="97" column="20" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="66" column="0" filename="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" />
       <jump line="69" column="28" filename="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" />
       <jump line="40" column="20" filename="$USER_HOME$/code/coach-frontend/assets/scss/global.scss" />
@@ -705,22 +703,24 @@
       <jump line="15" column="13" filename="$USER_HOME$/code/nustar/routes/web.php" />
       <jump line="31" column="35" filename="$USER_HOME$/code/nustar/routes/web.php" />
       <jump line="24" column="61" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Reports/masterReporter.vue" />
+      <jump line="22" column="50" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/bargeReporter.vue" />
+      <jump line="56" column="25" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/bargeReporter.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d.number</text>
+        <text encoding="base64">IG1heSBub3QgYmUgbG9uZ2VyIHRoYW4gMTAgY2hhcmFjdGVycw==</text>
       </register>
       <register name="-" type="4">
-        <text>d.number</text>
+        <text encoding="base64">IG1heSBub3QgYmUgbG9uZ2VyIHRoYW4gMTAgY2hhcmFjdGVycw==</text>
       </register>
       <register name="/" type="4">
-        <text>rela</text>
+        <text>max</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZWwtb3B0aW9uIHYtZm9yPSJ1c2VyIGluIGdldFVzZXJzKCkiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6a2V5PSJ1c2VyLnV1aWQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bGFiZWw9InVzZXIuZW1haWwiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6dmFsdWU9InVzZXIudXVpZCIKICAgICAgICAgICAgICAgICAgICA+PC9lbC1vcHRpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge21pbjogMCwgbWF4OiAxMDAwMDAwLCAgdHJpZ2dlcjogJ2JsdXInfQo=</text>
       </register>
       <register name="q" type="4">
         <text>wdd</text>
@@ -728,35 +728,35 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGVsLW9wdGlvbiB2LWZvcj0idXNlciBpbiByZWxhdGVkVXNlcnMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmtleT0idXNlci51dWlkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpsYWJlbD0idXNlci5lbWFpbCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6dmFsdWU9InVzZXIudXVpZCIKICAgICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgICA8L2VsLW9wdGlvbj4KICAgICAgICAgICAgICAgICAgICA8L2VsLW9wdGlvbi1ncm91cD4=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZWwtb3B0aW9uLWdyb3VwIGxhYmVsPSJSZWxhdGVkIgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGEK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6c2VsZWN0ZWQ9InVzZXIudXVpZCA9PT0gcmVsYXRlZFVzZXJzWzBdIgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6a2V5PSJib2F0LnV1aWQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmxhYmVsPSJib2F0Lm5hbWUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnZhbHVlPSJib2F0LnV1aWQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>rela</last-search>
+      <last-search>max</last-search>
       <last-offset />
-      <last-pattern>rela</last-pattern>
+      <last-pattern>max</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -764,7 +764,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Operator</entry>
         <entry>op</entry>
         <entry>users</entry>
         <entry>role</entry>
@@ -784,6 +783,7 @@
         <entry>O</entry>
         <entry>pl</entry>
         <entry>rela</entry>
+        <entry>max</entry>
       </history-search>
       <history-cmd>
         <entry>s/weight/body_fat/g</entry>
