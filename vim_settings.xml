@@ -101,6 +101,11 @@
         <mark key="." line="24" column="39" />
         <mark key="^" line="24" column="39" />
       </file>
+      <file name="$USER_HOME$/code/nustar/resources/views/pages/admin/ships.blade.php" timestamp="1511425343137">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+      </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/Measurement.php" timestamp="1510836786939">
         <mark key="[" line="17" column="28" />
         <mark key="]" line="17" column="28" />
@@ -368,10 +373,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/nustar/resources/views/layouts/app.blade.php" timestamp="1511366059034">
-        <mark key="'" line="116" column="13" />
+      <file name="$USER_HOME$/code/nustar/resources/views/layouts/app.blade.php" timestamp="1511425557100">
+        <mark key="'" line="118" column="22" />
         <mark key="[" line="149" column="0" />
-        <mark key="]" line="154" column="31" />
+        <mark key="]" line="149" column="0" />
         <mark key="^" line="52" column="48" />
         <mark key="." line="149" column="0" />
       </file>
@@ -549,8 +554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/code/coach-frontend/store/actions.js" />
-      <jump line="0" column="98" filename="$USER_HOME$/code/coach-frontend/store/actions.js" />
       <jump line="29" column="4" filename="$USER_HOME$/code/coach-frontend/store/actions.js" />
       <jump line="1" column="29" filename="$USER_HOME$/code/coach-frontend/store/actions.js" />
       <jump line="68" column="6" filename="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" />
@@ -649,58 +652,60 @@
       <jump line="56" column="13" filename="$USER_HOME$/code/nustar/resources/views/layouts/app.blade.php" />
       <jump line="109" column="30" filename="$USER_HOME$/code/nustar/resources/views/layouts/app.blade.php" />
       <jump line="116" column="13" filename="$USER_HOME$/code/nustar/resources/views/layouts/app.blade.php" />
+      <jump line="54" column="23" filename="$USER_HOME$/code/nustar/resources/views/layouts/app.blade.php" />
+      <jump line="118" column="22" filename="$USER_HOME$/code/nustar/resources/views/layouts/app.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>planning</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxlbC1tZW51LWl0ZW0gaW5kZXg9IiIgY2xhc3M9Int7IFJvdXRlOjpjdXJyZW50Um91dGVOYW1lKCkgPT0gJ2Rvd25sb2FkcycgPyAnYWN0aXZlJyA6ICcnIH19Ij4KICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIvZG93bmxvYWRzIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9Imljb24tZG9jcyBpY29ucyI+PC9pPgogICAgICAgICAgICAgICAgICAgICAgICBEb3dubG9hZHMKICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICA8L2VsLW1lbnUtaXRlbT4K</text>
       </register>
       <register name="-" type="4">
         <text>planning</text>
       </register>
       <register name="/" type="4">
-        <text>endh</text>
+        <text>end</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxlbC1tZW51LWl0ZW0gaW5kZXg9IiIgY2xhc3M9Int7IFJvdXRlOjpjdXJyZW50Um91dGVOYW1lKCkgPT0gJ2Rvd25sb2FkcycgPyAnYWN0aXZlJyA6ICcnIH19Ij4KICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIvZG93bmxvYWRzIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9Imljb24tZG9jcyBpY29ucyI+PC9pPgogICAgICAgICAgICAgICAgICAgICAgICBEb3dubG9hZHMKICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICA8L2VsLW1lbnUtaXRlbT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxlbC1tZW51LWl0ZW0gaW5kZXg9IiIgY2xhc3M9Int7IFJvdXRlOjpjdXJyZW50Um91dGVOYW1lKCkgPT0gJ2Rvd25sb2FkcycgPyAnYWN0aXZlJyA6ICcnIH19Ij4KICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIvZG93bmxvYWRzIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9Imljb24tZG9jcyBpY29ucyI+PC9pPgogICAgICAgICAgICAgICAgICAgICAgICBEb3dubG9hZHMKICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICA8L2VsLW1lbnUtaXRlbT4K</text>
       </register>
       <register name="q" type="4">
         <text>wdd</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IDppbml0aWFsLWJvYXRzPSJ7eyAkYm9hdHMgfX0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDppbml0aWFsLXVzZXJzPSJ7eyAkdXNlcnMgfX0iCiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB1c2VycygK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">KQogICAgewogICAgICAgICRhbGxvd2VkUm9sZXMgPSBbJ09wZXJhdG9yJywgJ0JhcmdlJywgJ1BsYW5uZXInXTsKICAgICAgICAkdXNlcnMgPSBVc2VyOjp3aGVyZUhhcygncm9sZScsIGZ1bmN0aW9uICgkcXVlcnkpIHVzZSAoJGFsbG93ZWRSb2xlcykgewogICAgICAgICAgICAkcXVlcnktPndoZXJlSW4oJ25hbWUnLCAkYWxsb3dlZFJvbGVzKTsKICAgICAgICB9KS0+d2l0aChbJ2JvYXRzJywgJ3JvbGVzJywgJ3JlcG9ydHMuc2NoZWR1bGUnLCAncmVwb3J0cy5ib2F0J10pLT5nZXQoKTsKICAgICAgICAkYm9hdHMgPSBCb2F0OjphbGwoKTsKICAgICAgICAkcm9sZXMgPSBSb2xlOjp3aGVyZUluKCduYW1lJywgJGFsbG93ZWRSb2xlcyk7CgogICAgICAgIHJldHVybiB2aWV3KCdwYWdlcy5hZG1pbi51c2VycycsIGNvbXBhY3QoWyd1c2VycycsICdib2F0cycsICdyb2xlcyddKSk7CiAgICB9</text>
-      </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB1c2VycygK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">KQogICAgewogICAgICAgICRhbGxvd2VkUm9sZXMgPSBbJ09wZXJhdG9yJywgJ0JhcmdlJywgJ1BsYW5uZXInXTsKICAgICAgICAkdXNlcnMgPSBVc2VyOjp3aGVyZUhhcygncm9sZScsIGZ1bmN0aW9uICgkcXVlcnkpIHVzZSAoJGFsbG93ZWRSb2xlcykgewogICAgICAgICAgICAkcXVlcnktPndoZXJlSW4oJ25hbWUnLCAkYWxsb3dlZFJvbGVzKTsKICAgICAgICB9KS0+d2l0aChbJ2JvYXRzJywgJ3JvbGVzJywgJ3JlcG9ydHMuc2NoZWR1bGUnLCAncmVwb3J0cy5ib2F0J10pLT5nZXQoKTsKICAgICAgICAkYm9hdHMgPSBCb2F0OjphbGwoKTsKICAgICAgICAkcm9sZXMgPSBSb2xlOjp3aGVyZUluKCduYW1lJywgJGFsbG93ZWRSb2xlcyk7CgogICAgICAgIHJldHVybiB2aWV3KCdwYWdlcy5hZG1pbi51c2VycycsIGNvbXBhY3QoWyd1c2VycycsICdib2F0cycsICdyb2xlcyddKSk7CiAgICB9</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>s/Operator/Planner</text>
       </register>
     </registers>
     <search>
-      <last-search>endh</last-search>
+      <last-search>end</last-search>
       <last-offset />
-      <last-pattern>endh</last-pattern>
+      <last-pattern>end</last-pattern>
       <last-replace>Planner</last-replace>
       <last-substitute>Operator</last-substitute>
       <last-dir>1</last-dir>
@@ -708,9 +713,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">LT4=</entry>
-        <entry>gatew</entry>
-        <entry>re</entry>
         <entry>setA</entry>
         <entry>Att</entry>
         <entry>dd(</entry>
@@ -728,6 +730,9 @@
         <entry>down</entry>
         <entry>doc</entry>
         <entry>endh</entry>
+        <entry encoding="base64">Pg==</entry>
+        <entry>Admin</entry>
+        <entry>end</entry>
       </history-search>
       <history-cmd>
         <entry>s/weight/body_fat/g</entry>
