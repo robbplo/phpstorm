@@ -62,12 +62,12 @@
         <mark key="^" line="94" column="118" />
         <mark key="." line="94" column="118" />
       </file>
-      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/vesselReporter.vue" timestamp="1511515147821">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="93" column="21" />
-        <mark key="^" line="95" column="92" />
-        <mark key="." line="97" column="22" />
+      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/vesselReporter.vue" timestamp="1511518068227">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="94" column="92" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/code/nustar/database/seeds/BoatsSeeder.php" timestamp="1511344753351">
         <mark key="[" line="19" column="39" />
@@ -187,12 +187,10 @@
       <file name="$USER_HOME$/code/coach-frontend/plugins/lazyload.js" timestamp="1510135724855">
         <mark key="[" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Reports/masterReporter.vue" timestamp="1511515152265">
-        <mark key="'" line="120" column="20" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="129" column="22" />
-        <mark key="^" line="100" column="101" />
-        <mark key="." line="124" column="0" />
+      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Reports/masterReporter.vue" timestamp="1511518810871">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/locales/nl.json" timestamp="1511278833684">
         <mark key="'" line="31" column="5" />
@@ -402,12 +400,8 @@
         <mark key="^" line="64" column="49" />
         <mark key="." line="57" column="27" />
       </file>
-      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/bargeReporter.vue" timestamp="1511512764599">
-        <mark key="'" line="56" column="25" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="74" column="110" />
-        <mark key="." line="74" column="110" />
-        <mark key="^" line="74" column="110" />
+      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/bargeReporter.vue" timestamp="1511518663210">
+        <mark key="'" line="52" column="25" />
       </file>
       <file name="$USER_HOME$/code/nustar/resources/views/pages/admin/users.blade.php" timestamp="1511356555455">
         <mark key="[" line="11" column="51" />
@@ -595,7 +589,7 @@
         <mark key="^" line="85" column="25" />
         <mark key="." line="85" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511516918298">
+      <file name="/Dummy.txt" timestamp="1511518127047">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1511174086157">
@@ -659,6 +653,9 @@
         <mark key="]" line="62" column="22" />
         <mark key="^" line="27" column="102" />
         <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/nustar/config/app.php" timestamp="1511432872873">
+        <mark key="'" line="25" column="5" />
       </file>
       <file name="$USER_HOME$/code/nustar/app/Notifications/BoatUnscheduled.php" timestamp="1511439164929">
         <mark key="[" line="52" column="66" />
@@ -770,11 +767,11 @@
       <jump line="23" column="13" filename="$USER_HOME$/code/nustar/resources/views/layouts/app.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>app</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>app</text>
@@ -783,45 +780,35 @@
         <text encoding="base64">L3B1YmxpYy9qcy9hcHAuanMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QHNlY3Rpb24oJ3NjcmlwdHMtcHJlLWFwcGpzJykKICAgIDxzY3JpcHQgc3JjPSIvanMvcHVzaGVyLmpzIj48L3NjcmlwdD4KQGVuZHNlY3Rpb24KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="q" type="4">
         <text>wdd</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHt7LS08bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3R3aXR0ZXItYm9vdHN0cmFwLzMuMy43L2Nzcy9ib290c3RyYXAubWluLmNzcyI+LS19fQogICAge3stLTxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvZWxlbWVudC11aS8xLjIuNy90aGVtZS1kZWZhdWx0L2luZGV4LmNzcyI+LS19fQo=</text>
+      <register name="2" type="4">
+        <text>{
+                    this</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9ImFwcCIgdi1jbG9haz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3JlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAnUGxlYXNlIGlucHV0IGEgcmVmZXJlbmNlIG51bWJlcicsIHRyaWdnZXI6ICdibHVyJ30sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBFY2hvIGZyb20gJy4uLy4uLy4uL3B1c2hlcicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3JlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAnUGxlYXNlIGlucHV0IGEgcmVmZXJlbmNlIG51bWJlcicsIHRyaWdnZXI6ICdibHVyJ30sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3JlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAnUGxlYXNlIGlucHV0IGEgcmVmZXJlbmNlIG51bWJlcicsIHRyaWdnZXI6ICdibHVyJ30sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgRWNobwo=</text>
+        <text encoding="base64">QHNlY3Rpb24oJ3NjcmlwdHMtcHJlLWFwcGpzJykKICAgIDxzY3JpcHQgc3JjPSIvanMvcHVzaGVyLmpzIj48L3NjcmlwdD4KQGVuZHNlY3Rpb24KCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>import Echo from &quot;laravel-echo&quot;
-import Pusher from &quot;pusher-js&quot;
-
-window.Echo = new Echo({
-    broadcaster: 'pusher',
-    key: '428c89689cf04fdfba45',
-    cluster: 'eu',
-    encrypted: true,
-    namespace: 'Nustar.Events'
-});
-
-export default Echo</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHt7LS08bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3R3aXR0ZXItYm9vdHN0cmFwLzMuMy43L2Nzcy9ib290c3RyYXAubWluLmNzcyI+LS19fQogICAge3stLTxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvZWxlbWVudC11aS8xLjIuNy90aGVtZS1kZWZhdWx0L2luZGV4LmNzcyI+LS19fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgaWQ9ImFwcCIgdi1jbG9haz4K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">aW1wb3J0IEVjaG8gZnJvbSAibGFyYXZlbC1lY2hvIgppbXBvcnQgUHVzaGVyIGZyb20gInB1c2hlci1qcyIKCndpbmRvdy5FY2hvID0gbmV3IEVjaG8oewogICAgYnJvYWRjYXN0ZXI6ICdwdXNoZXInLAogICAga2V5OiAnNDI4Yzg5Njg5Y2YwNGZkZmJhNDUnLAogICAgY2x1c3RlcjogJ2V1JywKICAgIGVuY3J5cHRlZDogdHJ1ZSwKICAgIG5hbWVzcGFjZTogJ051c3Rhci5FdmVudHMnCn0pOwoK</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBFY2hvIGZyb20gJy4uLy4uLy4uL3B1c2hlcicK</text>
       </register>
       <register name=":" type="4">
         <text>s/name/description</text>
