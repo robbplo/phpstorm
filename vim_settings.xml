@@ -19,12 +19,6 @@
       <file name="/a.dummy" timestamp="1511529840108">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/nustar/app/Notifications/AccountCreated.php" timestamp="1511431634298">
-        <mark key="'" line="14" column="23" />
-        <mark key="[" line="49" column="52" />
-        <mark key="]" line="59" column="20" />
-        <mark key="." line="59" column="20" />
-      </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" timestamp="1510751770688">
         <mark key="'" line="101" column="34" />
         <mark key="[" line="233" column="54" />
@@ -39,16 +33,10 @@
         <mark key="^" line="22" column="6" />
         <mark key="." line="22" column="6" />
       </file>
-      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Documents/DocumentInformation.vue" timestamp="1511514213868">
-        <mark key="'" line="43" column="24" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="49" column="20" />
-        <mark key="." line="49" column="21" />
-      </file>
-      <file name="$USER_HOME$/code/nustar/api/Report/Http/Requests/VesselReportRequest.php" timestamp="1511528967860">
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="11" />
-        <mark key="." line="7" column="11" />
+      <file name="$USER_HOME$/code/nustar/api/Report/Http/Requests/VesselReportRequest.php" timestamp="1511532893772">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
         <mark key="^" line="7" column="11" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/.gitignore" timestamp="1511192040438">
@@ -71,12 +59,12 @@
         <mark key="^" line="94" column="118" />
         <mark key="." line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/vesselReporter.vue" timestamp="1511528759738">
+      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/vesselReporter.vue" timestamp="1511532859603">
         <mark key="'" line="82" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="45" column="27" />
-        <mark key="^" line="93" column="92" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="106" column="48" />
+        <mark key="]" line="106" column="54" />
+        <mark key="^" line="106" column="54" />
+        <mark key="." line="106" column="54" />
       </file>
       <file name="$USER_HOME$/code/nustar/database/seeds/BoatsSeeder.php" timestamp="1511525369621">
         <mark key="[" line="23" column="64" />
@@ -173,6 +161,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/code/nustar/resources/assets/sass/base.scss" timestamp="1511533960634">
+        <mark key="[" line="37" column="17" />
+      </file>
       <file name="$USER_HOME$/code/nustar/database/seeds/DatabaseSeeder.php" timestamp="1511526348343">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -186,15 +177,16 @@
         <mark key="." line="27" column="12" />
         <mark key="^" line="27" column="12" />
       </file>
+      <file name="$USER_HOME$/code/nustar/_ide_helper.php" timestamp="1511531501953" />
       <file name="$USER_HOME$/code/coach-frontend/plugins/lazyload.js" timestamp="1510135724855">
         <mark key="[" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Reports/reportInfoCard.vue" timestamp="1511519695010">
-        <mark key="'" line="76" column="13" />
-        <mark key="[" line="76" column="114" />
-        <mark key="]" line="76" column="113" />
-        <mark key="^" line="76" column="113" />
-        <mark key="." line="76" column="113" />
+      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Reports/reportInfoCard.vue" timestamp="1511535171871">
+        <mark key="'" line="135" column="13" />
+        <mark key="[" line="58" column="14" />
+        <mark key="]" line="59" column="42" />
+        <mark key="^" line="59" column="42" />
+        <mark key="." line="59" column="42" />
       </file>
       <file name="$USER_HOME$/code/nustar/database/seeds/DevSeeder.php" timestamp="1511526320735">
         <mark key="[" line="7" column="0" />
@@ -242,6 +234,13 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Reports/Report.vue" timestamp="1511534406690">
+        <mark key="'" line="38" column="44" />
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="33" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="33" />
+      </file>
       <file name="$USER_HOME$/code/coach-frontend/.env.js" timestamp="1511192174595">
         <mark key="[" line="1" column="25" />
         <mark key="]" line="1" column="25" />
@@ -284,6 +283,17 @@
         <mark key="^" line="59" column="55" />
         <mark key="." line="51" column="68" />
       </file>
+      <file name="$USER_HOME$/code/nustar/database/migrations/2017_02_17_140220_create_reports_table.php" timestamp="1511533024237">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="39" />
+      </file>
+      <file name="$USER_HOME$/code/nustar/api/User/Http/Transformers/UserTransformer.php" timestamp="1511533539417">
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="30" />
+        <mark key="^" line="27" column="7" />
+        <mark key="." line="22" column="30" />
+      </file>
       <file name="$USER_HOME$/code/coach-frontend/plugins/moment.js" timestamp="1509438456310">
         <mark key="'" line="2" column="15" />
         <mark key="[" line="3" column="44" />
@@ -291,12 +301,12 @@
         <mark key="^" line="3" column="43" />
         <mark key="." line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/code/nustar/routes/api.php" timestamp="1511527913961">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="129" column="49" />
-        <mark key="]" line="129" column="56" />
-        <mark key="." line="129" column="56" />
-        <mark key="^" line="129" column="56" />
+      <file name="$USER_HOME$/code/nustar/routes/api.php" timestamp="1511532484544">
+        <mark key="'" line="132" column="38" />
+        <mark key="[" line="54" column="39" />
+        <mark key="]" line="54" column="39" />
+        <mark key="." line="54" column="39" />
+        <mark key="^" line="54" column="39" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/Customer.php" timestamp="1510836775954">
         <mark key="'" line="1" column="0" />
@@ -411,11 +421,11 @@
         <mark key="." line="57" column="27" />
       </file>
       <file name="$USER_HOME$/code/nustar/app/Observers/ReportObserver.php" timestamp="1511520806085" />
-      <file name="$USER_HOME$/code/nustar/app/Notifications/VesselReported.php" timestamp="1511530469989">
-        <mark key="[" line="55" column="20" />
-        <mark key="]" line="55" column="19" />
-        <mark key="." line="55" column="19" />
-        <mark key="^" line="55" column="19" />
+      <file name="$USER_HOME$/code/nustar/app/Notifications/VesselReported.php" timestamp="1511533280212">
+        <mark key="[" line="48" column="31" />
+        <mark key="]" line="48" column="31" />
+        <mark key="." line="48" column="31" />
+        <mark key="^" line="48" column="31" />
       </file>
       <file name="$USER_HOME$/code/nustar/resources/views/pages/admin/users.blade.php" timestamp="1511356555455">
         <mark key="[" line="11" column="51" />
@@ -515,7 +525,7 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="163" column="41" />
       </file>
-      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Planning.vue" timestamp="1511517000632">
+      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Planning.vue" timestamp="1511533798527">
         <mark key="[" line="56" column="66" />
         <mark key="]" line="56" column="33" />
         <mark key="." line="56" column="33" />
@@ -567,11 +577,12 @@
         <mark key="]" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/code/nustar/api/Report/Http/Controllers/ReportController.php" timestamp="1511529363952">
-        <mark key="'" line="117" column="8" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/code/nustar/api/Report/Http/Controllers/ReportController.php" timestamp="1511532418326">
+        <mark key="'" line="119" column="30" />
+        <mark key="[" line="120" column="23" />
+        <mark key="]" line="120" column="22" />
+        <mark key="." line="120" column="22" />
+        <mark key="^" line="120" column="22" />
       </file>
       <file name="$USER_HOME$/code/nustar/app/Notifications/ReportDenied.php" timestamp="1511431652634">
         <mark key="[" line="56" column="56" />
@@ -585,12 +596,6 @@
         <mark key="]" line="23" column="31" />
         <mark key="." line="23" column="31" />
         <mark key="^" line="23" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Boats/boatInformation.vue" timestamp="1511519474361">
-        <mark key="'" line="84" column="102" />
-        <mark key="[" line="30" column="45" />
-        <mark key="]" line="30" column="45" />
-        <mark key="." line="30" column="45" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Measurement.php" timestamp="1510835991381">
         <mark key="[" line="71" column="0" />
@@ -624,8 +629,15 @@
         <mark key="^" line="85" column="25" />
         <mark key="." line="85" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511528737748">
+      <file name="/Dummy.txt" timestamp="1511534971218">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/nustar/database/migrations/2017_11_24_151601_make_user_id_on_reports_nullable.php" timestamp="1511533189295">
+        <mark key="'" line="19" column="13" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="35" column="11" />
+        <mark key="^" line="20" column="10" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1511174086157">
         <mark key="'" line="77" column="58" />
@@ -702,16 +714,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="262" column="7" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
-      <jump line="293" column="39" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
-      <jump line="132" column="47" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
-      <jump line="312" column="24" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
-      <jump line="356" column="19" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
-      <jump line="357" column="40" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
-      <jump line="85" column="20" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
-      <jump line="86" column="15" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
-      <jump line="121" column="15" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
-      <jump line="143" column="35" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
       <jump line="144" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
       <jump line="313" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
       <jump line="131" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
@@ -802,58 +804,68 @@
       <jump line="22" column="0" filename="$USER_HOME$/code/nustar/routes/api.php" />
       <jump line="108" column="8" filename="$USER_HOME$/code/nustar/api/Report/Http/Controllers/ReportController.php" />
       <jump line="40" column="34" filename="$USER_HOME$/code/nustar/app/Notifications/VesselReportedPlanners.php" />
+      <jump line="113" column="23" filename="$USER_HOME$/code/nustar/api/Report/Http/Controllers/ReportController.php" />
+      <jump line="114" column="24" filename="$USER_HOME$/code/nustar/api/Report/Http/Controllers/ReportController.php" />
+      <jump line="119" column="30" filename="$USER_HOME$/code/nustar/api/Report/Http/Controllers/ReportController.php" />
+      <jump line="130" column="38" filename="$USER_HOME$/code/nustar/routes/api.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/nustar/database/migrations/2017_02_17_140220_create_reports_table.php" />
+      <jump line="15" column="54" filename="$USER_HOME$/code/nustar/database/migrations/2017_11_24_151601_make_user_id_on_reports_nullable.php" />
+      <jump line="16" column="13" filename="$USER_HOME$/code/nustar/database/migrations/2017_11_24_151601_make_user_id_on_reports_nullable.php" />
+      <jump line="18" column="54" filename="$USER_HOME$/code/nustar/database/migrations/2017_11_24_151601_make_user_id_on_reports_nullable.php" />
+      <jump line="19" column="13" filename="$USER_HOME$/code/nustar/database/migrations/2017_11_24_151601_make_user_id_on_reports_nullable.php" />
+      <jump line="26" column="44" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Reports/Report.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>We have received your report and it is being processed.</text>
+        <text encoding="base64">IDxkaXYgY2xhc3M9InJlcG9ydEluZm9DYXJkIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVwb3J0X19wcm9wZXJ0eSI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZXNjIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZXNjX19pY29uIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9InNpbXBsZS1saW5lLWljb24gaWNvbi1jdXJzb3ItbW92ZSI+PC9pPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxwPkxlbmd0aCwgQmVhbSBhbmQgRHJhZnQ6IDwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idmFsdWUiPgogICAgICAgICAgICAgICAgICAgIDxwPnt7IGJvYXREaW1lbnNpb25zIH19PC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJyZXBvcnRfX3Byb3BlcnR5Ij4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRlc2MiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRlc2NfX2ljb24iPgogICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iaWNvbi1kcm9wIHNpbXBsZS1saW5lLWljb24iPjwvaT4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8cD5Qcm9kdWN0OiA8L3A+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InZhbHVlIj4KICAgICAgICAgICAgICAgICAgICA8cD57eyBmdWxsUHJvZHVjdCB9fTwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVwb3J0X19wcm9wZXJ0eSI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZXNjIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZXNjX19pY29uIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9Imljb24tY2xvY2sgc2ltcGxlLWxpbmUtaWNvbiI+PC9pPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxwPlJlcG9ydGVkOiA8L3A+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InZhbHVlIj4KICAgICAgICAgICAgICAgICAgICA8cCA6dGl0bGU9InJlcG9ydC5yZXBvcnRlZF9hdCI+e3sgcmVwb3J0ZWRBZ28ocmVwb3J0LnJlcG9ydGVkX2F0KSB9fTwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVwb3J0X19wcm9wZXJ0eSIgdi1pZj0iamV0dHkgIT09IHVuZGVmaW5lZCI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZXNjIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZXNjX19pY29uIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9Imljb24tYW5jaG9yIHNpbXBsZS1saW5lLWljb24iPjwvaT4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8cD5KZXR0eTogPC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ2YWx1ZSI+CiAgICAgICAgICAgICAgICAgICAgPHA+e3sgamV0dHkubmFtZSB9fTwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVwb3J0X19wcm9wZXJ0eSI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZXNjIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZXNjX19pY29uIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9InNpbXBsZS1saW5lLWljb24gaWNvbi11c2VyIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPHA+T3duZXI6IDwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idmFsdWUiPgogICAgICAgICAgICAgICAgICAgIDxwPnt7IHJlcG9ydC51c2VyLmVtYWlsIH19PC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>We have received your report and it is being processed.</text>
+        <text>barge</text>
       </register>
       <register name="/" type="4">
-        <text>}</text>
+        <text>report</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkcmVwb3J0Owo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IDxkaXYgY2xhc3M9InJlcG9ydEluZm9DYXJkIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVwb3J0X19wcm9wZXJ0eSI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZXNjIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZXNjX19pY29uIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9InNpbXBsZS1saW5lLWljb24gaWNvbi1jdXJzb3ItbW92ZSI+PC9pPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxwPkxlbmd0aCwgQmVhbSBhbmQgRHJhZnQ6IDwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idmFsdWUiPgogICAgICAgICAgICAgICAgICAgIDxwPnt7IGJvYXREaW1lbnNpb25zIH19PC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJyZXBvcnRfX3Byb3BlcnR5Ij4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRlc2MiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRlc2NfX2ljb24iPgogICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iaWNvbi1kcm9wIHNpbXBsZS1saW5lLWljb24iPjwvaT4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8cD5Qcm9kdWN0OiA8L3A+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InZhbHVlIj4KICAgICAgICAgICAgICAgICAgICA8cD57eyBmdWxsUHJvZHVjdCB9fTwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVwb3J0X19wcm9wZXJ0eSI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZXNjIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZXNjX19pY29uIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9Imljb24tY2xvY2sgc2ltcGxlLWxpbmUtaWNvbiI+PC9pPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxwPlJlcG9ydGVkOiA8L3A+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InZhbHVlIj4KICAgICAgICAgICAgICAgICAgICA8cCA6dGl0bGU9InJlcG9ydC5yZXBvcnRlZF9hdCI+e3sgcmVwb3J0ZWRBZ28ocmVwb3J0LnJlcG9ydGVkX2F0KSB9fTwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVwb3J0X19wcm9wZXJ0eSIgdi1pZj0iamV0dHkgIT09IHVuZGVmaW5lZCI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZXNjIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZXNjX19pY29uIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9Imljb24tYW5jaG9yIHNpbXBsZS1saW5lLWljb24iPjwvaT4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8cD5KZXR0eTogPC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ2YWx1ZSI+CiAgICAgICAgICAgICAgICAgICAgPHA+e3sgamV0dHkubmFtZSB9fTwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVwb3J0X19wcm9wZXJ0eSI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZXNjIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZXNjX19pY29uIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9InNpbXBsZS1saW5lLWljb24gaWNvbi11c2VyIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPHA+T3duZXI6IDwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idmFsdWUiPgogICAgICAgICAgICAgICAgICAgIDxwPnt7IHJlcG9ydC51c2VyLmVtYWlsIH19PC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IHBsYWluICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>wdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGVsLXRvb2x0aXAgY29udGVudD0iUmVwb3J0IGluZm9ybWF0aW9uIj4KICAgICAgICAgICAgICAgIDxlbC1idXR0b24gaWNvbj0iaW5mb3JtYXRpb24iIHR5cGU9InBsYWluIiBzaXplPSJzbWFsbCIgPjwvZWwtYnV0dG9uPgogICAgICAgICAgICA8L2VsLXRvb2x0aXA+Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0b01haWwoJG5vdGlmaWFibGUpCiAgICB7CiAgICAgICAgcmV0dXJuIChuZXcgTWFpbE1lc3NhZ2UpCiAgICAgICAgICAgICAgICAgICAgLT5saW5lKCdUaGUgaW50cm9kdWN0aW9uIHRvIHRoZSBub3RpZmljYXRpb24uJykKICAgICAgICAgICAgICAgICAgICAtPmFjdGlvbignTm90aWZpY2F0aW9uIEFjdGlvbicsIHVybCgnLycpKQogICAgICAgICAgICAgICAgICAgIC0+bGluZSgnVGhhbmsgeW91IGZvciB1c2luZyBvdXIgYXBwbGljYXRpb24hJyk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9IFVzZXI6OmZpbmRPckZhaWwoJHJlcXVlc3QtPnVzZXJfdXVpZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YVsndXNlcl9pZCddID0gJHVzZXItPmlkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGVsLXRvb2x0aXAgY29udGVudD0iUmVwb3J0IGluZm9ybWF0aW9uIj4KICAgICAgICAgICAgICAgIDxlbC1idXR0b24gaWNvbj0iaW5mb3JtYXRpb24iIHR5cGU9InBsYWluIiBzaXplPSJzbWFsbCIgPjwvZWwtYnV0dG9uPgogICAgICAgICAgICA8L2VsLXRvb2x0aXA+Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdyZXBvcnRzJywgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgJHRhYmxlLT5kcm9wQ29sdW1uKCd1c2VyX2lkJyk7CiAgICAgICAgICAgICR0YWJsZS0+aW50ZWdlcigndXNlcl9pZCcpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdyZXBvcnRzJywgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgJHRhYmxlLT5kcm9wQ29sdW1uKCd1c2VyX2lkJyk7CiAgICAgICAgICAgICR0YWJsZS0+aW50ZWdlcigndXNlcl9pZCcpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/M/ m/g</text>
       </register>
     </registers>
     <search>
-      <last-search>}</last-search>
+      <last-search>report</last-search>
       <last-offset />
-      <last-pattern>}</last-pattern>
+      <last-pattern>report</last-pattern>
       <last-replace encoding="base64">IG0=</last-replace>
       <last-substitute>M</last-substitute>
       <last-dir>1</last-dir>
@@ -861,10 +873,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rules</entry>
-        <entry>loadin</entry>
-        <entry>length</entry>
-        <entry>may not be longer than 191 characters</entry>
         <entry>email</entry>
         <entry>rules:</entry>
         <entry>com</entry>
@@ -879,8 +887,12 @@
         <entry>app</entry>
         <entry>M</entry>
         <entry>Tag</entry>
-        <entry>report</entry>
         <entry>}</entry>
+        <entry>wac</entry>
+        <entry>user</entry>
+        <entry>down</entry>
+        <entry>table</entry>
+        <entry>report</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvMTkxKS8xOTEpLT5hZnRlcignaWQnKQ==</entry>
