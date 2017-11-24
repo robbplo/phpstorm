@@ -55,12 +55,12 @@
         <mark key="^" line="106" column="23" />
         <mark key="." line="21" column="13" />
       </file>
-      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/newBoatUser.vue" timestamp="1511513299681">
+      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/newBoatUser.vue" timestamp="1511519516668">
         <mark key="'" line="90" column="112" />
-        <mark key="[" line="94" column="119" />
-        <mark key="]" line="94" column="118" />
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="41" />
         <mark key="^" line="94" column="118" />
-        <mark key="." line="94" column="118" />
+        <mark key="." line="10" column="41" />
       </file>
       <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/vesselReporter.vue" timestamp="1511518068227">
         <mark key="'" line="83" column="0" />
@@ -124,10 +124,10 @@
         <mark key="^" line="21" column="63" />
         <mark key="." line="17" column="28" />
       </file>
-      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Boats/boatManager.vue" timestamp="1511514488594">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="111" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Boats/boatManager.vue" timestamp="1511519491088">
+        <mark key="[" line="39" column="68" />
+        <mark key="]" line="39" column="68" />
+        <mark key="." line="39" column="68" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/EstablishmentSeeder.php" timestamp="1511259306463">
         <mark key="[" line="16" column="42" />
@@ -191,6 +191,13 @@
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Reports/reportInfoCard.vue" timestamp="1511519695010">
+        <mark key="'" line="76" column="13" />
+        <mark key="[" line="76" column="114" />
+        <mark key="]" line="76" column="113" />
+        <mark key="^" line="76" column="113" />
+        <mark key="." line="76" column="113" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/locales/nl.json" timestamp="1511278833684">
         <mark key="'" line="31" column="5" />
@@ -551,11 +558,11 @@
         <mark key="." line="23" column="31" />
         <mark key="^" line="23" column="30" />
       </file>
-      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Boats/boatInformation.vue" timestamp="1511514036884">
+      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Boats/boatInformation.vue" timestamp="1511519474361">
         <mark key="'" line="84" column="102" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="81" column="21" />
-        <mark key="." line="84" column="0" />
+        <mark key="[" line="30" column="45" />
+        <mark key="]" line="30" column="45" />
+        <mark key="." line="30" column="45" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Measurement.php" timestamp="1510835991381">
         <mark key="[" line="71" column="0" />
@@ -589,7 +596,7 @@
         <mark key="^" line="85" column="25" />
         <mark key="." line="85" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511518127047">
+      <file name="/Dummy.txt" timestamp="1511519582068">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1511174086157">
@@ -665,9 +672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="16" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
-      <jump line="127" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
-      <jump line="263" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
       <jump line="293" column="5" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
       <jump line="261" column="46" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
       <jump line="218" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
@@ -765,16 +769,19 @@
       <jump line="120" column="20" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Reports/masterReporter.vue" />
       <jump line="13" column="21" filename="$USER_HOME$/code/nustar/resources/views/layouts/app.blade.php" />
       <jump line="23" column="13" filename="$USER_HOME$/code/nustar/resources/views/layouts/app.blade.php" />
+      <jump line="7" column="19" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Reports/reportInfoCard.vue" />
+      <jump line="73" column="76" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Reports/reportInfoCard.vue" />
+      <jump line="76" column="13" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Reports/reportInfoCard.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">UmVnaXN0cmF0aW9uIA==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">UmVnaXN0cmF0aW9uIA==</text>
       </register>
       <register name="/" type="4">
-        <text>app</text>
+        <text>M</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">L3B1YmxpYy9qcy9hcHAuanMK</text>
@@ -811,21 +818,20 @@
         <text encoding="base64">ICAgIGltcG9ydCBFY2hvIGZyb20gJy4uLy4uLy4uL3B1c2hlcicK</text>
       </register>
       <register name=":" type="4">
-        <text>s/name/description</text>
+        <text>s/M/ m/g</text>
       </register>
     </registers>
     <search>
-      <last-search>app</last-search>
+      <last-search>M</last-search>
       <last-offset />
-      <last-pattern>app</last-pattern>
-      <last-replace>description</last-replace>
-      <last-substitute>name</last-substitute>
+      <last-pattern>M</last-pattern>
+      <last-replace encoding="base64">IG0=</last-replace>
+      <last-substitute>M</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>O</entry>
         <entry>pl</entry>
         <entry>rela</entry>
         <entry>max</entry>
@@ -845,10 +851,9 @@
         <entry>compa</entry>
         <entry>qua</entry>
         <entry>app</entry>
+        <entry>M</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvJG1vZGVsLT51dWlkLyRtb2RlbC0+X2lkL2c=</entry>
-        <entry>%s/public_id/_id/g</entry>
         <entry encoding="base64">JXMvMTkxKS8xOTEpLT5hZnRlcignaWQnKQ==</entry>
         <entry>wq</entry>
         <entry>s/span/a/g</entry>
@@ -867,6 +872,8 @@
         <entry>s/phone number/company</entry>
         <entry>s/phone/registration</entry>
         <entry>s/name/description</entry>
+        <entry>s/M/m/g</entry>
+        <entry>s/M/ m/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
