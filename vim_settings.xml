@@ -69,11 +69,11 @@
         <mark key="^" line="94" column="92" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/code/nustar/database/seeds/BoatsSeeder.php" timestamp="1511344753351">
-        <mark key="[" line="19" column="39" />
-        <mark key="]" line="24" column="39" />
-        <mark key="." line="24" column="39" />
-        <mark key="^" line="24" column="39" />
+      <file name="$USER_HOME$/code/nustar/database/seeds/BoatsSeeder.php" timestamp="1511525369621">
+        <mark key="[" line="23" column="64" />
+        <mark key="]" line="23" column="53" />
+        <mark key="." line="23" column="53" />
+        <mark key="^" line="23" column="53" />
       </file>
       <file name="$USER_HOME$/code/nustar/resources/views/pages/admin/ships.blade.php" timestamp="1511425343137">
         <mark key="[" line="9" column="29" />
@@ -425,6 +425,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/code/nustar/database/seeds/JettySeeder.php" timestamp="1511525328515">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="28" column="51" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/code/coach-frontend/components/TabOverview.vue" timestamp="1511172201810">
         <mark key="'" line="2" column="72" />
         <mark key="[" line="44" column="8" />
@@ -450,12 +456,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/code/nustar/database/factories/ModelFactory.php" timestamp="1511344882900">
-        <mark key="'" line="47" column="1" />
-        <mark key="[" line="56" column="48" />
-        <mark key="]" line="56" column="48" />
-        <mark key="^" line="56" column="48" />
-        <mark key="." line="56" column="48" />
+      <file name="$USER_HOME$/code/nustar/database/factories/ModelFactory.php" timestamp="1511525522662">
+        <mark key="'" line="74" column="29" />
+        <mark key="[" line="79" column="21" />
+        <mark key="]" line="79" column="41" />
+        <mark key="^" line="79" column="41" />
+        <mark key="." line="79" column="41" />
       </file>
       <file name="$USER_HOME$/code/nustar/api/Schedule/Http/Controllers/ScheduleController.php" timestamp="1511439331092">
         <mark key="[" line="110" column="0" />
@@ -600,7 +606,7 @@
         <mark key="^" line="85" column="25" />
         <mark key="." line="85" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511520468519">
+      <file name="/Dummy.txt" timestamp="1511525026552">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1511174086157">
@@ -676,7 +682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="293" column="5" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" />
       <jump line="261" column="46" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
       <jump line="218" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
       <jump line="235" column="7" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
@@ -776,59 +781,60 @@
       <jump line="7" column="19" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Reports/reportInfoCard.vue" />
       <jump line="73" column="76" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Reports/reportInfoCard.vue" />
       <jump line="76" column="13" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Reports/reportInfoCard.vue" />
+      <jump line="74" column="29" filename="$USER_HOME$/code/nustar/database/factories/ModelFactory.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">UmVnaXN0cmF0aW9uIA==</text>
+        <text encoding="base64">ZmFjdG9yeShOdXN0YXJcSmV0dHk6OmNsYXNzKS0+Y3JlYXRlKCktPmlk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmVnaXN0cmF0aW9uIA==</text>
+        <text encoding="base64">ZmFjdG9yeShOdXN0YXJcSmV0dHk6OmNsYXNzKS0+Y3JlYXRlKCktPmlk</text>
       </register>
       <register name="/" type="4">
-        <text>M</text>
+        <text>Tag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">L3B1YmxpYy9qcy9hcHAuanMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICdqZXR0eV9pZCcgPT4gZmFjdG9yeShOdXN0YXJcSmV0dHk6OmNsYXNzKS0+Y3JlYXRlKCktPmlkLAo=</text>
       </register>
       <register name="q" type="4">
         <text>wdd</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmFjdG9yeShOdXN0YXJcSmV0dHk6OmNsYXNzKS0+Y3JlYXRlKFsnbmFtZScgPT4gJG5hbWVdKTsK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">TnVzdGFyXFNjaGVkdWxlKFsKICAgICAgICAgICAgICAgICdyZXBvcnRfaWQnID0+ICRwcm9kdWN0cy0+cmFuZG9tKCktPmlkLAogICAgICAgICAgICAgICAgJ2Fycml2YWwnID0+ICRhcnJpdmFsRGF0ZSwKICAgICAgICAgICAgICAgICdiZXJ0aCcgPT4gJGJlcnRoRGF0ZSwKICAgICAgICAgICAgICAgICdkZXBhcnR1cmUnID0+ICRkZXBhcnR1cmVEYXRlLAogICAgICAgICAgICAgICAgJ2Fycml2YWxfZGVsYXknID0+IHJhbmQoMCw2KSwKICAgICAgICAgICAgICAgICdiZXJ0aF9kZWxheScgPT4gcmFuZCgwLDYpLAogICAgICAgICAgICAgICAgJ2RlcGFydHVyZV9kZWxheScgPT4gcmFuZCgwLDYpCiAgICAgICAgICAgIF0pOw==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXBvcnRfaWQnID0+ICRwcm9kdWN0cy0+cmFuZG9tKCktPmlkLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+      </register>
+      <register name="6" type="4">
         <text>{
                     this</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3JlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAnUGxlYXNlIGlucHV0IGEgcmVmZXJlbmNlIG51bWJlcicsIHRyaWdnZXI6ICdibHVyJ30sCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3JlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAnUGxlYXNlIGlucHV0IGEgcmVmZXJlbmNlIG51bWJlcicsIHRyaWdnZXI6ICdibHVyJ30sCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3JlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAnUGxlYXNlIGlucHV0IGEgcmVmZXJlbmNlIG51bWJlcicsIHRyaWdnZXI6ICdibHVyJ30sCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">QHNlY3Rpb24oJ3NjcmlwdHMtcHJlLWFwcGpzJykKICAgIDxzY3JpcHQgc3JjPSIvanMvcHVzaGVyLmpzIj48L3NjcmlwdD4KQGVuZHNlY3Rpb24KCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHt7LS08bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL3R3aXR0ZXItYm9vdHN0cmFwLzMuMy43L2Nzcy9ib290c3RyYXAubWluLmNzcyI+LS19fQogICAge3stLTxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvZWxlbWVudC11aS8xLjIuNy90aGVtZS1kZWZhdWx0L2luZGV4LmNzcyI+LS19fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3JlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAnUGxlYXNlIGlucHV0IGEgcmVmZXJlbmNlIG51bWJlcicsIHRyaWdnZXI6ICdibHVyJ30sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9ImFwcCIgdi1jbG9haz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3JlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAnUGxlYXNlIGlucHV0IGEgcmVmZXJlbmNlIG51bWJlcicsIHRyaWdnZXI6ICdibHVyJ30sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBFY2hvIGZyb20gJy4uLy4uLy4uL3B1c2hlcicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3JlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAnUGxlYXNlIGlucHV0IGEgcmVmZXJlbmNlIG51bWJlcicsIHRyaWdnZXI6ICdibHVyJ30sCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/M/ m/g</text>
       </register>
     </registers>
     <search>
-      <last-search>M</last-search>
+      <last-search>Tag</last-search>
       <last-offset />
-      <last-pattern>M</last-pattern>
+      <last-pattern>Tag</last-pattern>
       <last-replace encoding="base64">IG0=</last-replace>
       <last-substitute>M</last-substitute>
       <last-dir>1</last-dir>
@@ -836,7 +842,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pl</entry>
         <entry>rela</entry>
         <entry>max</entry>
         <entry>rules</entry>
@@ -856,6 +861,7 @@
         <entry>qua</entry>
         <entry>app</entry>
         <entry>M</entry>
+        <entry>Tag</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvMTkxKS8xOTEpLT5hZnRlcignaWQnKQ==</entry>
