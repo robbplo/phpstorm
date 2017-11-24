@@ -124,10 +124,11 @@
         <mark key="^" line="21" column="63" />
         <mark key="." line="17" column="28" />
       </file>
-      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Boats/boatManager.vue" timestamp="1511519491088">
-        <mark key="[" line="39" column="68" />
-        <mark key="]" line="39" column="68" />
-        <mark key="." line="39" column="68" />
+      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Boats/boatManager.vue" timestamp="1511527144549">
+        <mark key="[" line="105" column="104" />
+        <mark key="]" line="105" column="104" />
+        <mark key="." line="105" column="104" />
+        <mark key="^" line="105" column="104" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/database/seeds/EstablishmentSeeder.php" timestamp="1511259306463">
         <mark key="[" line="16" column="42" />
@@ -171,11 +172,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/nustar/database/seeds/DatabaseSeeder.php" timestamp="1511344702534">
-        <mark key="[" line="34" column="49" />
-        <mark key="]" line="35" column="41" />
-        <mark key="." line="35" column="41" />
-        <mark key="^" line="35" column="41" />
+      <file name="$USER_HOME$/code/nustar/database/seeds/DatabaseSeeder.php" timestamp="1511526348343">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="15" column="41" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/plugins/vee-validate.js" timestamp="1510758213720">
         <mark key="'" line="27" column="39" />
@@ -198,6 +199,12 @@
         <mark key="]" line="76" column="113" />
         <mark key="^" line="76" column="113" />
         <mark key="." line="76" column="113" />
+      </file>
+      <file name="$USER_HOME$/code/nustar/database/seeds/DevSeeder.php" timestamp="1511526320735">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="5" column="8" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/locales/nl.json" timestamp="1511278833684">
         <mark key="'" line="31" column="5" />
@@ -288,8 +295,8 @@
         <mark key="^" line="3" column="43" />
         <mark key="." line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/code/nustar/routes/api.php" timestamp="1511362709637">
-        <mark key="'" line="43" column="39" />
+      <file name="$USER_HOME$/code/nustar/routes/api.php" timestamp="1511527913961">
+        <mark key="'" line="22" column="0" />
         <mark key="[" line="129" column="49" />
         <mark key="]" line="129" column="56" />
         <mark key="." line="129" column="56" />
@@ -606,7 +613,7 @@
         <mark key="^" line="85" column="25" />
         <mark key="." line="85" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511525026552">
+      <file name="/Dummy.txt" timestamp="1511527404339">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/components/ModalNewMeasurement.vue" timestamp="1511174086157">
@@ -682,7 +689,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="261" column="46" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
       <jump line="218" column="0" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
       <jump line="235" column="7" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
       <jump line="262" column="7" filename="$USER_HOME$/code/coach-backend/api/v1/Controllers/Controller.php" />
@@ -782,59 +788,76 @@
       <jump line="73" column="76" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Reports/reportInfoCard.vue" />
       <jump line="76" column="13" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Reports/reportInfoCard.vue" />
       <jump line="74" column="29" filename="$USER_HOME$/code/nustar/database/factories/ModelFactory.php" />
+      <jump line="22" column="0" filename="$USER_HOME$/code/nustar/routes/api.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZmFjdG9yeShOdXN0YXJcSmV0dHk6OmNsYXNzKS0+Y3JlYXRlKCktPmlk</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChCb2F0c1NlZWRlcjo6Y2xhc3MpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmFjdG9yeShOdXN0YXJcSmV0dHk6OmNsYXNzKS0+Y3JlYXRlKCktPmlk</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>Tag</text>
+        <text>report</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">L3B1YmxpYy9qcy9hcHAuanMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICdqZXR0eV9pZCcgPT4gZmFjdG9yeShOdXN0YXJcSmV0dHk6OmNsYXNzKS0+Y3JlYXRlKCktPmlkLAo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChCb2F0c1NlZWRlcjo6Y2xhc3MpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>wdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFjdG9yeShOdXN0YXJcSmV0dHk6OmNsYXNzKS0+Y3JlYXRlKFsnbmFtZScgPT4gJG5hbWVdKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChCb2F0c1NlZWRlcjo6Y2xhc3MpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">TnVzdGFyXFNjaGVkdWxlKFsKICAgICAgICAgICAgICAgICdyZXBvcnRfaWQnID0+ICRwcm9kdWN0cy0+cmFuZG9tKCktPmlkLAogICAgICAgICAgICAgICAgJ2Fycml2YWwnID0+ICRhcnJpdmFsRGF0ZSwKICAgICAgICAgICAgICAgICdiZXJ0aCcgPT4gJGJlcnRoRGF0ZSwKICAgICAgICAgICAgICAgICdkZXBhcnR1cmUnID0+ICRkZXBhcnR1cmVEYXRlLAogICAgICAgICAgICAgICAgJ2Fycml2YWxfZGVsYXknID0+IHJhbmQoMCw2KSwKICAgICAgICAgICAgICAgICdiZXJ0aF9kZWxheScgPT4gcmFuZCgwLDYpLAogICAgICAgICAgICAgICAgJ2RlcGFydHVyZV9kZWxheScgPT4gcmFuZCgwLDYpCiAgICAgICAgICAgIF0pOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChVc2VyU2VlZGVyOjpjbGFzcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXBvcnRfaWQnID0+ICRwcm9kdWN0cy0+cmFuZG9tKCktPmlkLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkdG9UcnVuY2F0ZSA9IFsKICAgICAgICAndXNlcnMnLAogICAgICAgICdyb2xlX2hhc19wZXJtaXNzaW9ucycsCiAgICAgICAgJ3JvbGVzJywKICAgICAgICAndXNlcl9oYXNfcGVybWlzc2lvbnMnLAogICAgICAgICd1c2VyX2hhc19yb2xlcycsCiAgICAgICAgJ2JvYXRzJywKICAgICAgICAnamV0dGllcycsCiAgICAgICAgJ2JvYXRfdXNlcicsCiAgICAgICAgJ3Byb2R1Y3RzJywKICAgICAgICAncmVwb3J0cycsCiAgICAgICAgJ3NjaGVkdWxlcycsCiAgICAgICAgJ3RhZ3MnLAogICAgICAgICdjZXJ0aWZpY2F0aW9ucycsCiAgICAgICAgJ2RpbWVuc2lvbnMnLAogICAgICAgICdjYWNoZScsCiAgICAgICAgJ2RvY3VtZW50cycKICAgIF07</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-                    this</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkdG9Ucgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3JlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAnUGxlYXNlIGlucHV0IGEgcmVmZXJlbmNlIG51bWJlcicsIHRyaWdnZXI6ICdibHVyJ30sCg==</text>
+      <register name="7" type="4">
+        <text>uncate = [
+        'users',
+        'role_has_permissions',
+        'roles',
+        'user_has_permissions',
+        'user_has_roles',
+        'boats',
+        'jetties',
+        'boat_user',
+        'products',
+        'reports',
+        'schedules',
+        'tags',
+        'certifications',
+        'dimensions',
+        'cache',
+        'documents'
+    ];</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3JlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAnUGxlYXNlIGlucHV0IGEgcmVmZXJlbmNlIG51bWJlcicsIHRyaWdnZXI6ICdibHVyJ30sCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3JlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAnUGxlYXNlIGlucHV0IGEgcmVmZXJlbmNlIG51bWJlcicsIHRyaWdnZXI6ICdibHVyJ30sCg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGNsZWFuRGF0YWJhc2UoKQogICAgewogICAgICAgIEVsb3F1ZW50Ojp1bmd1YXJkKCk7CgogICAgICAgIC8vRGlzYWJsZSBmb3JlaWduIGtleSBjaGVjawogICAgICAgIGlmIChlbnYoJ0FQUF9FTlYnKSA9PSAnbG9jYWwnKSBEQjo6c3RhdGVtZW50KCdTRVQgRk9SRUlHTl9LRVlfQ0hFQ0tTPTA7Jyk7CgogICAgICAgIGZvcmVhY2ggKCR0aGlzLT50b1RydW5jYXRlIGFzICR0YWJsZSkKICAgICAgICB7CiAgICAgICAgICAgIERCOjp0YWJsZSgkdGFibGUpLT50cnVuY2F0ZSgpOwogICAgICAgIH0KCiAgICAgICAgLy9SZS1FbmFibGUgZm9yZWlnbiBrZXkgY2hlY2sKICAgICAgICBpZiAoZW52KCdBUFBfRU5WJykgPT0gJ2xvY2FsJykgREI6OnN0YXRlbWVudCgnU0VUIEZPUkVJR05fS0VZX0NIRUNLUz0xOycpOwoKICAgICAgICBDYWNoZTo6Zmx1c2goKTsKCiAgICAgICAgU3RvcmFnZTo6ZGVsZXRlKFN0b3JhZ2U6OmFsbEZpbGVzKCkpOwoKICAgICAgICByZXR1cm4gJHRoaXM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/M/ m/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Tag</last-search>
+      <last-search>report</last-search>
       <last-offset />
-      <last-pattern>Tag</last-pattern>
+      <last-pattern>report</last-pattern>
       <last-replace encoding="base64">IG0=</last-replace>
       <last-substitute>M</last-substitute>
       <last-dir>1</last-dir>
@@ -842,7 +865,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rela</entry>
         <entry>max</entry>
         <entry>rules</entry>
         <entry>loadin</entry>
@@ -862,6 +884,7 @@
         <entry>app</entry>
         <entry>M</entry>
         <entry>Tag</entry>
+        <entry>report</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvMTkxKS8xOTEpLT5hZnRlcignaWQnKQ==</entry>
