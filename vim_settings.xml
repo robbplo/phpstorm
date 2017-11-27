@@ -180,6 +180,11 @@
         <mark key="." line="48" column="33" />
         <mark key="^" line="17" column="20" />
       </file>
+      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Documents/DocumentManager.vue" timestamp="1511514238527">
+        <mark key="[" line="75" column="51" />
+        <mark key="]" line="75" column="52" />
+        <mark key="." line="75" column="52" />
+      </file>
       <file name="$USER_HOME$/code/coach-frontend/.env.example.js" timestamp="1511191825650">
         <mark key="[" line="0" column="40" />
         <mark key="]" line="0" column="55" />
@@ -209,6 +214,13 @@
       </file>
       <file name="$USER_HOME$/code/coach-frontend/plugins/lazyload.js" timestamp="1510135724855">
         <mark key="[" line="5" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Reports/masterReporter.vue" timestamp="1511771893928">
+        <mark key="'" line="100" column="24" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="26" column="124" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Reports/reportInfoCard.vue" timestamp="1511770510156">
         <mark key="'" line="11" column="34" />
@@ -741,11 +753,10 @@
         <mark key="^" line="30" column="16" />
         <mark key="." line="30" column="18" />
       </file>
-      <file name="$USER_HOME$/code/nustar/api/Report/Http/Requests/MasterReportRequest.php" timestamp="1511713742769">
-        <mark key="[" line="32" column="39" />
-        <mark key="]" line="29" column="29" />
-        <mark key="." line="29" column="29" />
-        <mark key="^" line="29" column="29" />
+      <file name="$USER_HOME$/code/nustar/api/Report/Http/Requests/MasterReportRequest.php" timestamp="1511771930145">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/code/nustar/resources/views/pages/downloads.blade.php" timestamp="1511366319210">
         <mark key="[" line="4" column="19" />
@@ -776,11 +787,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="85" filename="$USER_HOME$/code/nustar/resources/views/layouts/app.blade.php" />
-      <jump line="125" column="30" filename="$USER_HOME$/code/nustar/resources/views/layouts/app.blade.php" />
-      <jump line="50" column="0" filename="$USER_HOME$/code/nustar/resources/views/layouts/app.blade.php" />
-      <jump line="56" column="13" filename="$USER_HOME$/code/nustar/resources/views/layouts/app.blade.php" />
-      <jump line="109" column="30" filename="$USER_HOME$/code/nustar/resources/views/layouts/app.blade.php" />
       <jump line="116" column="13" filename="$USER_HOME$/code/nustar/resources/views/layouts/app.blade.php" />
       <jump line="54" column="23" filename="$USER_HOME$/code/nustar/resources/views/layouts/app.blade.php" />
       <jump line="118" column="22" filename="$USER_HOME$/code/nustar/resources/views/layouts/app.blade.php" />
@@ -876,69 +882,70 @@
       <jump line="25" column="5" filename="$USER_HOME$/code/nustar/database/migrations/2017_11_26_173052_make_reference_number_on_report_nullable.php" />
       <jump line="26" column="14" filename="$USER_HOME$/code/nustar/database/migrations/2017_11_26_173052_make_reference_number_on_report_nullable.php" />
       <jump line="27" column="3" filename="$USER_HOME$/code/nustar/database/migrations/2017_11_26_173052_make_reference_number_on_report_nullable.php" />
+      <jump line="185" column="12" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Reports/masterReporter.vue" />
+      <jump line="8" column="35" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Reports/masterReporter.vue" />
+      <jump line="26" column="124" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Reports/masterReporter.vue" />
+      <jump line="77" column="64" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Reports/masterReporter.vue" />
+      <jump line="100" column="24" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Reports/masterReporter.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJfdXVpZCcgPT4gJ3JlcXVpcmVkfGV4aXN0czp1c2Vycyx1dWlkJywK</text>
       </register>
       <register name="-" type="4">
-        <text>30</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>\/\/</text>
+        <text>30</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVwb3J0X19wcm9wZXJ0eSI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZXNjIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZXNjX19pY29uIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9Imljb24tZHJvcCBzaW1wbGUtbGluZS1pY29uIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPHA+UHJvZHVjdDogPC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ2YWx1ZSI+CiAgICAgICAgICAgICAgICAgICAgPHA+e3sgZnVsbFByb2R1Y3QgfX08L3A+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJfdXVpZCcgPT4gJ3JlcXVpcmVkfGV4aXN0czp1c2Vycyx1dWlkJywK</text>
       </register>
       <register name="q" type="4">
         <text>wdd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJfdXVpZCcgPT4gJ3JlcXVpcmVkfGV4aXN0czp1c2Vycyx1dWlkJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2JvYXRfdXVpZCcgPT4gJ3JlcXVpcmVkfGV4aXN0czpib2F0cyx1dWlkJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge21heDogMTkxLCBtZXNzYWdlOiAnVGhlIHJlZmVyZW5jZSBudW1iZXIgbWF5IG5vdCBiZSBsb25nZXIgdGhhbiAzMCBjaGFyYWN0ZXJzLicsIHRyaWdnZXI6ICdibHVyJ30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3JlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAnUGxlYXNlIGlucHV0IGEgcmVmZXJlbmNlIG51bWJlcicsIHRyaWdnZXI6ICdibHVyJ30sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cyAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBib2F0ID0gXy5maWx0ZXIodGhpcy5ib2F0cywgeyd1dWlkJzogdGhpcy5mb3JtLmJvYXRfdXVpZH0pWzBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVwb3J0X19wcm9wZXJ0eSI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZXNjIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZXNjX19pY29uIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9InNpbXBsZS1saW5lLWljb24gaWNvbi1jdXJzb3ItbW92ZSI+PC9pPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxwPkxlbmd0aCwgQmVhbSBhbmQgRHJhZnQ6IDwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idmFsdWUiPgogICAgICAgICAgICAgICAgICAgIDxwPnt7IGJvYXREaW1lbnNpb25zIH19PC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9lbC10b29sdGlwPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/^/#</text>
+        <text>s/30/191</text>
       </register>
     </registers>
     <search>
-      <last-search>\/\/</last-search>
+      <last-search>30</last-search>
       <last-offset />
-      <last-pattern>\/\/</last-pattern>
-      <last-replace>#</last-replace>
-      <last-substitute>^</last-substitute>
+      <last-pattern>30</last-pattern>
+      <last-replace>191</last-replace>
+      <last-substitute>30</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>qua</entry>
-        <entry>app</entry>
-        <entry>M</entry>
-        <entry>Tag</entry>
         <entry>}</entry>
         <entry>wac</entry>
         <entry>user</entry>
@@ -955,9 +962,12 @@
         <entry>comp</entry>
         <entry encoding="base64">IA==</entry>
         <entry>\/\/</entry>
+        <entry>fillU</entry>
+        <entry>handle</entry>
+        <entry>submit</entry>
+        <entry>30</entry>
       </history-search>
       <history-cmd>
-        <entry>s/span/a/g</entry>
         <entry encoding="base64">cy8tPi9cci0+L2c=</entry>
         <entry>s/Operator/Planner</entry>
         <entry>s/'/&quot;/g</entry>
@@ -977,6 +987,7 @@
         <entry>s/M/ m/g</entry>
         <entry encoding="base64">JzwsJz4=</entry>
         <entry>s/^/#</entry>
+        <entry>s/30/191</entry>
       </history-cmd>
       <history-expr />
       <history-input />
