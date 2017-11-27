@@ -540,8 +540,12 @@
         <mark key="^" line="74" column="37" />
         <mark key="." line="74" column="38" />
       </file>
-      <file name="$USER_HOME$/code/nustar/app/Notifications/VesselReported.php" timestamp="1511787286253">
-        <mark key="^" line="10" column="63" />
+      <file name="$USER_HOME$/code/nustar/app/Notifications/VesselReported.php" timestamp="1511788628003">
+        <mark key="'" line="47" column="40" />
+        <mark key="[" line="48" column="49" />
+        <mark key="]" line="48" column="46" />
+        <mark key="^" line="48" column="46" />
+        <mark key="." line="48" column="46" />
       </file>
       <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/bargeReporter.vue" timestamp="1511786922322">
         <mark key="'" line="57" column="25" />
@@ -771,7 +775,7 @@
         <mark key="^" line="85" column="25" />
         <mark key="." line="85" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511787414632">
+      <file name="/Dummy.txt" timestamp="1511788242532">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/nustar/database/migrations/2017_11_24_151601_make_user_id_on_reports_nullable.php" timestamp="1511533189295">
@@ -869,7 +873,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="65" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/newBoatUser.vue" />
       <jump line="92" column="25" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/newBoatUser.vue" />
       <jump line="93" column="66" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/newBoatUser.vue" />
       <jump line="94" column="49" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/newBoatUser.vue" />
@@ -969,6 +972,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/nustar/resources/views/pages/admin/report.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/nustar/resources/views/pages/planner/report.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/nustar/routes/api.php" />
+      <jump line="47" column="40" filename="$USER_HOME$/code/nustar/app/Notifications/VesselReported.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -978,7 +982,7 @@
         <text encoding="base64">JHRoaXMtPnJlcG9ydGVkQXQtPmRpZmZGb3JIdW1hbnM=</text>
       </register>
       <register name="/" type="4">
-        <text>master</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QGV4dGVuZHMoJ2xheW91dHMuYXBwJykKCkBzZWN0aW9uKCdjb250ZW50JykKICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CiAgICAgICAgPGRpdiBjbGFzcz0icGFuZWwgcGFuZWwtZGVmYXVsdCI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9InBhbmVsLWhlYWRpbmciPgogICAgICAgICAgICAgICAgQ3VzdG9tIHJlcG9ydAogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0icGFuZWwtYm9keSI+CiAgICAgICAgICAgICAgICA8bWFzdGVyLXJlcG9ydGVyIDpwcm9kdWN0cz0ie3sgJHByb2R1Y3RzIH19IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6Ym9hdHM9Int7ICRib2F0cyB9fSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnVzZXJzPSJ7eyAkdXNlcnMgfX0iCiAgICAgICAgICAgICAgICA+PC9tYXN0ZXItcmVwb3J0ZXI+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgPC9kaXY+CkBlbmRzZWN0aW9uCg==</text>
@@ -1014,21 +1018,20 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3JlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAncGxlYXNlIGlucHV0IGEgcGhvbmRkZSBudW1iZXInLCB0cmlnZ2VyOiAnYmx1cid9LAo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/30/191/g</text>
+        <text>s/&quot;/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>master</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>master</last-pattern>
-      <last-replace>191</last-replace>
-      <last-substitute>30</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\/\/</entry>
         <entry>fillU</entry>
         <entry>handle</entry>
         <entry>submit</entry>
@@ -1048,9 +1051,9 @@
         <entry>the</entry>
         <entry>repor</entry>
         <entry>master</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>s/email/phone number</entry>
         <entry>s/email/length</entry>
         <entry>s/length/beam</entry>
         <entry>s/length/draft</entry>
@@ -1070,6 +1073,7 @@
         <entry>%s/30/191</entry>
         <entry>%s/the/The</entry>
         <entry>s/30/191/g</entry>
+        <entry>s/&quot;/'/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
