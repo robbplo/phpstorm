@@ -22,6 +22,11 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="103" column="56" />
       </file>
+      <file name="/a.dummy" timestamp="1511780410326">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+      </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/CustomerController.php" timestamp="1510751770688">
         <mark key="'" line="101" column="34" />
         <mark key="[" line="233" column="54" />
@@ -209,6 +214,9 @@
         <mark key="." line="27" column="12" />
         <mark key="^" line="27" column="12" />
       </file>
+      <file name="$USER_HOME$/code/nustar/_ide_helper.php" timestamp="1511857859613">
+        <mark key="[" line="5554" column="21" />
+      </file>
       <file name="$USER_HOME$/code/coach-frontend/plugins/lazyload.js" timestamp="1510135724855">
         <mark key="[" line="5" column="12" />
       </file>
@@ -271,6 +279,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/nustar/composer.json" timestamp="1511859623067">
+        <mark key="'" line="11" column="32" />
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="18" column="39" />
+        <mark key="." line="18" column="39" />
       </file>
       <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Reports/Report.vue" timestamp="1511775187964">
         <mark key="'" line="15" column="0" />
@@ -420,9 +434,6 @@
         <mark key="]" line="403" column="0" />
         <mark key="." line="403" column="0" />
       </file>
-      <file name="$USER_HOME$/code/nustar/api/Tag/Http/Requests/UpdateTagRequest.php" timestamp="1511780763299">
-        <mark key="'" line="38" column="52" />
-      </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/CoachController.php" timestamp="1511269177124">
         <mark key="'" line="293" column="5" />
         <mark key="[" line="22" column="0" />
@@ -436,12 +447,12 @@
         <mark key="^" line="74" column="37" />
         <mark key="." line="74" column="38" />
       </file>
-      <file name="$USER_HOME$/code/nustar/app/Notifications/VesselReported.php" timestamp="1511797526320">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="50" column="68" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/code/nustar/app/Notifications/VesselReported.php" timestamp="1511860027982">
+        <mark key="'" line="54" column="14" />
+        <mark key="[" line="52" column="96" />
+        <mark key="]" line="51" column="94" />
+        <mark key="^" line="54" column="94" />
+        <mark key="." line="51" column="94" />
       </file>
       <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/bargeReporter.vue" timestamp="1511786922322">
         <mark key="'" line="57" column="25" />
@@ -565,18 +576,19 @@
         <mark key="^" line="57" column="44" />
         <mark key="." line="54" column="78" />
       </file>
+      <file name="$USER_HOME$/code/nustar/app/Exceptions/Handler.php" timestamp="1511857035814">
+        <mark key="[" line="46" column="5" />
+      </file>
       <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Jetty/Jetty.vue" timestamp="1511361745851">
         <mark key="[" line="38" column="63" />
         <mark key="]" line="38" column="63" />
         <mark key="^" line="29" column="69" />
         <mark key="." line="38" column="63" />
       </file>
-      <file name="$USER_HOME$/code/nustar/api/Report/Http/Controllers/ReportController.php" timestamp="1511795717464">
-        <mark key="'" line="120" column="30" />
-        <mark key="[" line="112" column="22" />
-        <mark key="]" line="112" column="20" />
-        <mark key="." line="112" column="20" />
-        <mark key="^" line="112" column="20" />
+      <file name="$USER_HOME$/code/nustar/api/Report/Http/Controllers/ReportController.php" timestamp="1511859823668">
+        <mark key="[" line="112" column="20" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/code/nustar/app/Notifications/ReportDenied.php" timestamp="1511791348313">
         <mark key="'" line="61" column="0" />
@@ -592,6 +604,11 @@
         <mark key="." line="23" column="31" />
         <mark key="^" line="23" column="30" />
       </file>
+      <file name="$USER_HOME$/code/nustar/database/migrations/2017_11_26_173052_make_remark_on_report_nullable.php" timestamp="1511780536566">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+      </file>
       <file name="$USER_HOME$/code/nustar/resources/views/pages/planner/report.blade.php" timestamp="1511787075545">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="16" column="11" />
@@ -602,9 +619,6 @@
         <mark key="]" line="14" column="25" />
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
-      </file>
-      <file name="$USER_HOME$/code/nustar/api/Tag/Http/Requests/TagRequest.php" timestamp="1511780753710">
-        <mark key="'" line="40" column="48" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/components/PageHeader.vue" timestamp="1510752678053">
         <mark key="'" line="8" column="8" />
@@ -627,7 +641,7 @@
         <mark key="^" line="85" column="25" />
         <mark key="." line="85" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511791637861">
+      <file name="/Dummy.txt" timestamp="1511858806093">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/nustar/database/migrations/2017_11_24_151601_make_user_id_on_reports_nullable.php" timestamp="1511533189295">
@@ -653,9 +667,6 @@
       </file>
       <file name="$USER_HOME$/code/coach-frontend/package.json" timestamp="1510824266475">
         <mark key="[" line="7" column="16" />
-      </file>
-      <file name="$USER_HOME$/code/nustar/api/Boat/Http/Requests/StoreBoatRequest.php" timestamp="1511780786084">
-        <mark key="'" line="31" column="40" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Customer.php" timestamp="1510843769738">
         <mark key="'" line="46" column="41" />
@@ -685,9 +696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="48" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/newBoatUser.vue" />
-      <jump line="85" column="113" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/newBoatUser.vue" />
-      <jump line="89" column="85" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/newBoatUser.vue" />
       <jump line="90" column="112" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/newBoatUser.vue" />
       <jump line="84" column="102" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Boats/boatInformation.vue" />
       <jump line="78" column="26" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Boats/boatManager.vue" />
@@ -783,60 +791,63 @@
       <jump line="47" column="40" filename="$USER_HOME$/code/nustar/app/Notifications/VesselReported.php" />
       <jump line="50" column="48" filename="$USER_HOME$/code/nustar/app/Notifications/VesselReported.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/nustar/app/Notifications/ReportDenied.php" />
-      <jump line="54" column="0" filename="$USER_HOME$/code/nustar/app/Notifications/VesselReported.php" />
       <jump line="61" column="0" filename="$USER_HOME$/code/nustar/app/Notifications/ReportDenied.php" />
+      <jump line="116" column="19" filename="$USER_HOME$/code/nustar/api/Report/Http/Controllers/ReportController.php" />
+      <jump line="54" column="14" filename="$USER_HOME$/code/nustar/app/Notifications/VesselReported.php" />
+      <jump line="7" column="22" filename="$USER_HOME$/code/nustar/composer.json" />
+      <jump line="11" column="32" filename="$USER_HOME$/code/nustar/composer.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNYWlsOjp0bygnJykK</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>reported_at</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>clear</text>
+        <text>unit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGV4dGVuZHMoJ2xheW91dHMuYXBwJykKCkBzZWN0aW9uKCdjb250ZW50JykKICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CiAgICAgICAgPGRpdiBjbGFzcz0icGFuZWwgcGFuZWwtZGVmYXVsdCI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9InBhbmVsLWhlYWRpbmciPgogICAgICAgICAgICAgICAgQ3VzdG9tIHJlcG9ydAogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0icGFuZWwtYm9keSI+CiAgICAgICAgICAgICAgICA8bWFzdGVyLXJlcG9ydGVyIDpwcm9kdWN0cz0ie3sgJHByb2R1Y3RzIH19IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6Ym9hdHM9Int7ICRib2F0cyB9fSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnVzZXJzPSJ7eyAkdXNlcnMgfX0iCiAgICAgICAgICAgICAgICA+PC9tYXN0ZXItcmVwb3J0ZXI+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgPC9kaXY+CkBlbmRzZWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb246OnJvdXRlKCdtYWlsJywgJ3dhY2h0QG51c3RhcmVuZXJneS5jb20nKS0+bm90aWZ5KG5ldyBWZXNzZWxSZXBvcnRlZCgkcmVwb3J0KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNYWlsOjp0bygnJykK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcTm90aWZpY2F0aW9uc1xOb3RpZmljYXRpb247Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAic3BhdGllL2xhcmF2ZWwtdGlua2VyLXRvb2xzIjogIl4xLjAuMSIsCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEdldCB0aGUgYXJyYXkgcmVwcmVzZW50YXRpb24gb2YgdGhlIG5vdGlmaWNhdGlvbi4KICAgICAqCiAgICAgKiBAcGFyYW0gIG1peGVkICAkbm90aWZpYWJsZQogICAgICogQHJldHVybiBhcnJheQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdG9BcnJheSgkbm90aWZpYWJsZSkKICAgIHsKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAvLwogICAgICAgIF07CiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcTm90aWZpY2F0aW9uc1xOb3RpZmljYXRpb247Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXE1haWw7CnVzZSBJbGx1bWluYXRlXFN1cHBvcnRcRmFjYWRlc1xOb3RpZmljYXRpb247Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUmVwb3J0IFZlc3NlbAo=</text>
+        <text encoding="base64">ICAgICAgICAobmV3IFVzZXIpLT5mb3JjZWZpbGwoWwogICAgICAgICAgICAnbmFtZScgPT4gJ1BsYW5uZXJzJywKICAgICAgICAgICAgJ2VtYWlsJyA9PiAnJywKICAgICAgICBdKS0+bm90aWZ5KG5ldyBWZXNzZWxSZXBvcnRlZCgkcmVwb3J0KSk7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIENhcmJvblxDYXJib247Cg==</text>
+        <text encoding="base64">ICAgICAgICAobmV3IFVzZXIpLT5mb3JjZWZpbGwoWwogICAgICAgICAgICAnbmFtZScgPT4gJ1dhY2h0JywKICAgICAgICAgICAgJ2VtYWlsJyA9PiAnd2FjaHRAbnVzdGFyZW5lcmd5LmNvbScsCiAgICAgICAgXSktPm5vdGlmeSgpOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGV4dGVuZHMoJ2xheW91dHMuYXBwJykKCkBzZWN0aW9uKCdjb250ZW50JykKICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CiAgICAgICAgPGRpdiBjbGFzcz0icGFuZWwgcGFuZWwtZGVmYXVsdCI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9InBhbmVsLWhlYWRpbmciPgogICAgICAgICAgICAgICAgUmVwb3J0IHZlc3NlbAogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0icGFuZWwtYm9keSI+CiAgICAgICAgICAgICAgICA8dmVzc2VsLXJlcG9ydGVyIDpwcm9kdWN0cz0ie3sgJHByb2R1Y3RzIH19IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6dmVzc2Vscz0ie3sgJHZlc3NlbHMgfX0iCiAgICAgICAgICAgICAgICA+PC92ZXNzZWwtcmVwb3J0ZXI+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgPC9kaXY+CkBlbmRzZWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBNYWlsOjp0bygnJyktPnF1ZXVlKG5ldyBWZXNzZWxSZXBvcnRlZCgkcmVwb3J0KSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGV4dGVuZHMoJ2xheW91dHMuYXBwJykKQGV4dGVuZHMoJ2xheW91dHMuYXBwJykK</text>
+        <text encoding="base64">ICAgICAgICBNYWlsOjp0bygnJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3JlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAnUGxlYXNlIGlucHV0IGEgcmVtYXJrJywgdHJpZ2dlcjogJ2JsdXInfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/'/&quot;/g</text>
+        <text>s/'/&quot;</text>
       </register>
     </registers>
     <search>
-      <last-search>clear</last-search>
+      <last-search>unit</last-search>
       <last-offset />
-      <last-pattern>clear</last-pattern>
+      <last-pattern>unit</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -844,10 +855,6 @@
     </search>
     <history>
       <history-search>
-        <entry>handle</entry>
-        <entry>submit</entry>
-        <entry>default</entry>
-        <entry>req</entry>
         <entry>comp</entry>
         <entry>barge</entry>
         <entry>sele</entry>
@@ -862,11 +869,14 @@
         <entry>repor</entry>
         <entry>master</entry>
         <entry>&quot;</entry>
-        <entry>'</entry>
         <entry>clear</entry>
+        <entry>);</entry>
+        <entry>'</entry>
+        <entry>$</entry>
+        <entry>lara</entry>
+        <entry>unit</entry>
       </history-search>
       <history-cmd>
-        <entry>s/length/beam</entry>
         <entry>s/length/draft</entry>
         <entry>s/may not be longer than 191 characters/must be under 1 million</entry>
         <entry>s/email/password</entry>
@@ -886,6 +896,7 @@
         <entry>s/30/191/g</entry>
         <entry>s/&quot;/'/g</entry>
         <entry>s/'/&quot;/g</entry>
+        <entry>s/'/&quot;</entry>
       </history-cmd>
       <history-expr />
       <history-input />
