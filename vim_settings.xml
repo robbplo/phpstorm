@@ -89,10 +89,10 @@
         <mark key="." line="36" column="56" />
         <mark key="^" line="32" column="45" />
       </file>
-      <file name="$USER_HOME$/code/ah-product/.env" timestamp="1511964533621">
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/code/ah-product/.env" timestamp="1512039423402">
+        <mark key="[" line="28" column="10" />
+        <mark key="]" line="28" column="10" />
+        <mark key="." line="28" column="10" />
         <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/vesselReporter.vue" timestamp="1511786622880">
@@ -157,6 +157,13 @@
         <mark key="]" line="17" column="12" />
         <mark key="^" line="17" column="12" />
         <mark key="." line="17" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/ah-product/config/mail.php" timestamp="1512039373675">
+        <mark key="'" line="13" column="42" />
+        <mark key="[" line="59" column="41" />
+        <mark key="]" line="59" column="41" />
+        <mark key="." line="59" column="41" />
+        <mark key="^" line="59" column="40" />
       </file>
       <file name="$USER_HOME$/code/ah-product/app/Console/Kernel.php" timestamp="1511965413179">
         <mark key="[" line="27" column="34" />
@@ -875,7 +882,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512038170504">
+      <file name="/Dummy.txt" timestamp="1512039463339">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/nustar/database/migrations/2017_11_24_151601_make_user_id_on_reports_nullable.php" timestamp="1511533189295">
@@ -997,11 +1004,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="52" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/vesselReporter.vue" />
-      <jump line="108" column="34" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Reports/masterReporter.vue" />
-      <jump line="117" column="20" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Reports/masterReporter.vue" />
-      <jump line="27" column="60" filename="$USER_HOME$/code/nustar/api/User/Http/Requests/StoreWithBargeRequest.php" />
-      <jump line="31" column="59" filename="$USER_HOME$/code/nustar/api/User/Http/Requests/StoreWithBargeRequest.php" />
       <jump line="32" column="45" filename="$USER_HOME$/code/nustar/api/User/Http/Requests/StoreWithBargeRequest.php" />
       <jump line="40" column="48" filename="$USER_HOME$/code/nustar/api/Tag/Http/Requests/TagRequest.php" />
       <jump line="38" column="52" filename="$USER_HOME$/code/nustar/api/Tag/Http/Requests/UpdateTagRequest.php" />
@@ -1097,16 +1099,21 @@
       <jump line="143" column="94" filename="$USER_HOME$/code/ah-product/resources/assets/js/components/ProductForm.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/code/ah-product/resources/assets/js/components/ProductForm.vue" />
       <jump line="122" column="0" filename="$USER_HOME$/code/ah-product/resources/assets/sass/product-form.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/ah-product/config/mail.php" />
+      <jump line="27" column="14" filename="$USER_HOME$/code/ah-product/config/mail.php" />
+      <jump line="31" column="41" filename="$USER_HOME$/code/ah-product/config/mail.php" />
+      <jump line="40" column="35" filename="$USER_HOME$/code/ah-product/config/mail.php" />
+      <jump line="13" column="42" filename="$USER_HOME$/code/ah-product/config/mail.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ci8vICAgICAgICAgIHRoaXMuJG1lc3NhZ2UoewovLyAgICAgICAgICAgIG1lc3NhZ2U6ICdFciBpcyBpZXRzIGZvdXQgZ2VnYWFuLicsCi8vICAgICAgICAgICAgdHlwZTogJ3dhcm5pbmcnCi8vICAgICAgICAgIH0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>2525</text>
       </register>
       <register name="-" type="4">
-        <text>$emit('blur')</text>
+        <text>2525</text>
       </register>
       <register name="/" type="4">
-        <text>slug</text>
+        <text>gun</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmYWN0b3J5KFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgJ2VtYWlsJyA9PiAndmV0bWVkaWNhLm5sQGJvZWhyaW5nZXItaW5nZWxoZWltLmNvbScsCiAgICAgICAgICAgICdwYXNzd29yZCcgPT4gJ0tFRC00SFUtVzJBJwogICAgICAgIF0pOwo=</text>
@@ -1149,9 +1156,9 @@
       </register>
     </registers>
     <search>
-      <last-search>slug</last-search>
+      <last-search>gun</last-search>
       <last-offset />
-      <last-pattern>slug</last-pattern>
+      <last-pattern>gun</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1159,7 +1166,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ordered</entry>
         <entry>loading</entry>
         <entry>text</entry>
         <entry>firstname</entry>
@@ -1179,6 +1185,7 @@
         <entry>data</entry>
         <entry>e</entry>
         <entry>slug</entry>
+        <entry>gun</entry>
       </history-search>
       <history-cmd>
         <entry>%s/50/191/g</entry>
