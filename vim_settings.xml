@@ -15,10 +15,12 @@
         <mark key="." line="13" column="7" />
         <mark key="^" line="13" column="7" />
       </file>
-      <file name="$USER_HOME$/code/ah-product/resources/assets/js/components/ProductForm.vue" timestamp="1511960740149">
-        <mark key="[" line="73" column="35" />
-        <mark key="]" line="73" column="80" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/code/ah-product/resources/assets/js/components/ProductForm.vue" timestamp="1512037300351">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="21" column="33" />
+        <mark key="." line="21" column="33" />
+        <mark key="^" line="21" column="62" />
       </file>
       <file name="$USER_HOME$/code/logintest/index.html" timestamp="1510913819526">
         <mark key="[" line="38" column="56" />
@@ -138,6 +140,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="13" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/ah-product/resources/assets/js/components/ProductList.vue" timestamp="1512038184150">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/code/nustar/api/Document/Http/Requests/StoreDocumentRequest.php" timestamp="1511780645824">
         <mark key="[" line="26" column="36" />
@@ -371,6 +378,12 @@
         <mark key="]" line="1" column="25" />
         <mark key="." line="1" column="25" />
         <mark key="^" line="0" column="50" />
+      </file>
+      <file name="$USER_HOME$/code/ah-product/resources/assets/js/components/ClickInput.vue" timestamp="1512037863314">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+        <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/code/ah-product/app/Mail/ExportMail.php" timestamp="1511964659743">
         <mark key="[" line="33" column="22" />
@@ -862,7 +875,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511965359999">
+      <file name="/Dummy.txt" timestamp="1512038170504">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/nustar/database/migrations/2017_11_24_151601_make_user_id_on_reports_nullable.php" timestamp="1511533189295">
@@ -921,11 +934,9 @@
         <mark key="]" line="17" column="28" />
         <mark key="." line="17" column="28" />
       </file>
-      <file name="$USER_HOME$/code/ah-product/resources/assets/sass/product-form.scss" timestamp="1511961247365">
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-        <mark key="^" line="116" column="16" />
+      <file name="$USER_HOME$/code/ah-product/resources/assets/sass/product-form.scss" timestamp="1512037285685">
+        <mark key="'" line="122" column="0" />
+        <mark key="[" line="19" column="20" />
       </file>
       <file name="$USER_HOME$/code/soory/project/index.html" timestamp="1511126049511">
         <mark key="[" line="22" column="0" />
@@ -986,15 +997,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="11" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Reports/masterReporter.vue" />
-      <jump line="94" column="39" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Reports/masterReporter.vue" />
-      <jump line="67" column="65" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Reports/masterReporter.vue" />
-      <jump line="13" column="8" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/reportCard.vue" />
-      <jump line="21" column="30" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/reportCard.vue" />
-      <jump line="15" column="0" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Reports/Report.vue" />
-      <jump line="52" column="0" filename="$USER_HOME$/code/nustar/resources/assets/js/app.js" />
-      <jump line="199" column="46" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Reports/masterReporter.vue" />
-      <jump line="122" column="43" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/vesselReporter.vue" />
       <jump line="7" column="52" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/vesselReporter.vue" />
       <jump line="108" column="34" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Reports/masterReporter.vue" />
       <jump line="117" column="20" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Reports/masterReporter.vue" />
@@ -1084,61 +1086,72 @@
       <jump line="58" column="0" filename="$USER_HOME$/code/ah-product/resources/assets/js/components/ProductShow.vue" />
       <jump line="73" column="11" filename="$USER_HOME$/code/ah-product/resources/assets/js/components/ProductShow.vue" />
       <jump line="74" column="0" filename="$USER_HOME$/code/ah-product/resources/assets/js/components/ProductShow.vue" />
-      <jump line="73" column="76" filename="$USER_HOME$/code/ah-product/resources/assets/js/components/ProductForm.vue" />
       <jump line="54" column="16" filename="$USER_HOME$/code/ah-product/app/Console/Commands/ExportOrders.php" />
+      <jump line="73" column="44" filename="$USER_HOME$/code/ah-product/resources/assets/js/components/ProductForm.vue" />
+      <jump line="96" column="4" filename="$USER_HOME$/code/ah-product/resources/assets/js/components/ProductForm.vue" />
+      <jump line="141" column="17" filename="$USER_HOME$/code/ah-product/resources/assets/js/components/ProductForm.vue" />
+      <jump line="142" column="24" filename="$USER_HOME$/code/ah-product/resources/assets/js/components/ProductForm.vue" />
+      <jump line="43" column="33" filename="$USER_HOME$/code/ah-product/resources/assets/js/components/ProductForm.vue" />
+      <jump line="101" column="8" filename="$USER_HOME$/code/ah-product/resources/assets/js/components/ProductForm.vue" />
+      <jump line="132" column="24" filename="$USER_HOME$/code/ah-product/resources/assets/js/components/ProductForm.vue" />
+      <jump line="143" column="94" filename="$USER_HOME$/code/ah-product/resources/assets/js/components/ProductForm.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/ah-product/resources/assets/js/components/ProductForm.vue" />
+      <jump line="122" column="0" filename="$USER_HOME$/code/ah-product/resources/assets/sass/product-form.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3J5KFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgJ2VtYWlsJyA9PiAndmV0bWVkaWNhLm5sQGJvZWhyaW5nZXItaW5nZWxoZWltLmNvbScsCiAgICAgICAgICAgICdwYXNzd29yZCcgPT4gJ0tFRC00SFUtVzJBJwogICAgICAgIF0pOwo=</text>
+        <text encoding="base64">Ci8vICAgICAgICAgIHRoaXMuJG1lc3NhZ2UoewovLyAgICAgICAgICAgIG1lc3NhZ2U6ICdFciBpcyBpZXRzIGZvdXQgZ2VnYWFuLicsCi8vICAgICAgICAgICAgdHlwZTogJ3dhcm5pbmcnCi8vICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>robbin</text>
+        <text>$emit('blur')</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>slug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmYWN0b3J5KFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgJ2VtYWlsJyA9PiAndmV0bWVkaWNhLm5sQGJvZWhyaW5nZXItaW5nZWxoZWltLmNvbScsCiAgICAgICAgICAgICdwYXNzd29yZCcgPT4gJ0tFRC00SFUtVzJBJwogICAgICAgIF0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3J5KFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgJ2VtYWlsJyA9PiAnYWRtaW5AcGlldGVyc21pdC5ubCcsCiAgICAgICAgICAgICdwYXNzd29yZCcgPT4gYmNyeXB0KCduZScpCiAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">Ci8vICAgICAgICAgIHRoaXMuJG1lc3NhZ2UoewovLyAgICAgICAgICAgIG1lc3NhZ2U6ICdFciBpcyBpZXRzIGZvdXQgZ2VnYWFuLicsCi8vICAgICAgICAgICAgdHlwZTogJ3dhcm5pbmcnCi8vICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>ac
-')</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ci8vICAgICAgICAgIHRoaXMuJG1lc3NhZ2UoewovLyAgICAgICAgICAgIG1lc3NhZ2U6ICdQcm9kdWN0IGFhbmdlbWFha3QhJywKLy8gICAgICAgICAgICB0eXBlOiAnc3VjY2VzcycKLy8gICAgICAgICAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgdGhpcy4kbWVzc2FnZSh7Ci8vICAgICAgICAgICAgbWVzc2FnZTogJ1Byb2R1Y3QgYWFuZ2VtYWFrdCEnLAovLyAgICAgICAgICAgIHR5cGU6ICdzdWNjZXNzJwovLyAgICAgICAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnL3Rlc3QnLCBmdW5jdGlvbiAoKSB7CiAgICBcSWxsdW1pbmF0ZVxTdXBwb3J0XEZhY2FkZXNcTWFpbDo6dG8oQXBwXFVzZXI6OmZpcnN0KCkpLT5zZW5kKG5ldyBcQXBwXE1haWxcRXhwb3J0TWFpbCgpKTsKfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRlbWl0KCdibHVyJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VGhhbmtzLDxicj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">WW91ciBvcmRlciBoYXMgYmVlbiBzaGlwcGVkIQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="4">
+        <text>return this.$message({
+//              message: 'De slug is al in gebruik',
+//              type: 'warning'
+//            })</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>slug</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>slug</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1146,9 +1159,6 @@
     </search>
     <history>
       <history-search>
-        <entry>doctor</entry>
-        <entry>dit</entry>
-        <entry>Query</entry>
         <entry>ordered</entry>
         <entry>loading</entry>
         <entry>text</entry>
@@ -1166,6 +1176,9 @@
         <entry>Woonplaats</entry>
         <entry>Con</entry>
         <entry>'</entry>
+        <entry>data</entry>
+        <entry>e</entry>
+        <entry>slug</entry>
       </history-search>
       <history-cmd>
         <entry>%s/50/191/g</entry>
