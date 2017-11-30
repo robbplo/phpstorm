@@ -35,7 +35,7 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="103" column="56" />
       </file>
-      <file name="$USER_HOME$/code/ah-product/database/seeds/UserSeeder.php" timestamp="1512035649211">
+      <file name="$USER_HOME$/code/ah-product/database/seeds/UserSeeder.php" timestamp="1512045741757">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="46" />
         <mark key="." line="16" column="46" />
@@ -89,11 +89,11 @@
         <mark key="." line="36" column="56" />
         <mark key="^" line="32" column="45" />
       </file>
-      <file name="$USER_HOME$/code/ah-product/.env" timestamp="1512039423402">
-        <mark key="[" line="28" column="10" />
-        <mark key="]" line="28" column="10" />
-        <mark key="." line="28" column="10" />
-        <mark key="^" line="15" column="0" />
+      <file name="$USER_HOME$/code/ah-product/.env" timestamp="1512045706499">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="32" column="50" />
+        <mark key="^" line="32" column="50" />
+        <mark key="." line="32" column="50" />
       </file>
       <file name="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/vesselReporter.vue" timestamp="1511786622880">
         <mark key="'" line="74" column="25" />
@@ -392,11 +392,11 @@
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/code/ah-product/app/Mail/ExportMail.php" timestamp="1511964659743">
-        <mark key="[" line="33" column="22" />
-        <mark key="]" line="33" column="39" />
-        <mark key="." line="33" column="39" />
-        <mark key="^" line="33" column="39" />
+      <file name="$USER_HOME$/code/ah-product/app/Mail/ExportMail.php" timestamp="1512044695269">
+        <mark key="[" line="33" column="14" />
+        <mark key="]" line="33" column="15" />
+        <mark key="." line="33" column="15" />
+        <mark key="^" line="33" column="15" />
       </file>
       <file name="$USER_HOME$/code/nustar/config/services.php" timestamp="1512043452892" />
       <file name="$USER_HOME$/code/coach-backend/app/Exceptions/FilterInvalidOperatorException.php" timestamp="1510822337440">
@@ -720,12 +720,9 @@
         <mark key="^" line="63" column="37" />
         <mark key="." line="56" column="27" />
       </file>
-      <file name="$USER_HOME$/code/ah-product/app/Console/Commands/ExportOrders.php" timestamp="1511964180846">
-        <mark key="'" line="54" column="16" />
-        <mark key="[" line="54" column="53" />
-        <mark key="]" line="54" column="46" />
-        <mark key="." line="54" column="46" />
-        <mark key="^" line="54" column="46" />
+      <file name="$USER_HOME$/code/ah-product/app/Console/Commands/ExportOrders.php" timestamp="1512045940606">
+        <mark key="'" line="56" column="16" />
+        <mark key="^" line="68" column="18" />
       </file>
       <file name="$USER_HOME$/code/nustar/app/Observers/BoatObserver.php" timestamp="1511520808888">
         <mark key="[" line="15" column="49" />
@@ -883,7 +880,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512039463339">
+      <file name="/Dummy.txt" timestamp="1512046300104">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/nustar/database/migrations/2017_11_24_151601_make_user_id_on_reports_nullable.php" timestamp="1511533189295">
@@ -1107,50 +1104,51 @@
       <jump line="13" column="42" filename="$USER_HOME$/code/ah-product/config/mail.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2525</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gbWl4ZWQK</text>
       </register>
       <register name="-" type="4">
-        <text>2525</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>gun</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmYWN0b3J5KFVzZXI6OmNsYXNzKS0+Y3JlYXRlKFsKICAgICAgICAgICAgJ2VtYWlsJyA9PiAndmV0bWVkaWNhLm5sQGJvZWhyaW5nZXItaW5nZWxoZWltLmNvbScsCiAgICAgICAgICAgICdwYXNzd29yZCcgPT4gJ0tFRC00SFUtVzJBJwogICAgICAgIF0pOwo=</text>
+        <text encoding="base64">TUFJTF9EUklWRVI9bWFpbGd1bgpNQUlMX0hPU1Q9c210cC5tYWlsZ3VuLm9yZwpNQUlMX1VTRVJOQU1FPXBvc3RtYXN0ZXJAbWcucGlldGVyc21pdC5ubApNQUlMX1BBU1NXT1JEPTMyMjgyZDFlYzViZTg4Njg4ZjZlMDY4MmRlNGIxNzg0Ck1BSUxfRU5DUllQVElPTj1udWxsCk1BSUxHVU5fRE9NQUlOPW1nLnBpZXRlcnNtaXQubmwKTUFJTEdVTl9TRUNSRVQ9a2V5LTIxZmExMDZjZjIzZGYxNzY0OGQ5NGM5MWJhZTBkNjdjCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci8vICAgICAgICAgIHRoaXMuJG1lc3NhZ2UoewovLyAgICAgICAgICAgIG1lc3NhZ2U6ICdFciBpcyBpZXRzIGZvdXQgZ2VnYWFuLicsCi8vICAgICAgICAgICAgdHlwZTogJ3dhcm5pbmcnCi8vICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gbWl4ZWQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ci8vICAgICAgICAgIHRoaXMuJG1lc3NhZ2UoewovLyAgICAgICAgICAgIG1lc3NhZ2U6ICdQcm9kdWN0IGFhbmdlbWFha3QhJywKLy8gICAgICAgICAgICB0eXBlOiAnc3VjY2VzcycKLy8gICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgdGhpcy4kbWVzc2FnZSh7Ci8vICAgICAgICAgICAgbWVzc2FnZTogJ1Byb2R1Y3QgYWFuZ2VtYWFrdCEnLAovLyAgICAgICAgICAgIHR5cGU6ICdzdWNjZXNzJwovLyAgICAgICAgICB9KQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRlbWl0KCdibHVyJyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>MAIL_DRIVER=mailgun
+MAIL_HOST=smtp.mailgun.org
+MAIL_USERNAME=postmaster@sandbox3d3f004a6d4840fb92de472673bb8936.mailgun.org
+MAIL_PASSWORD=70130412cc3b37a9b654ab0ad093db6d
+MAIL_ENCRYPTION=null</text>
       </register>
-      <register name="9" type="4">
-        <text>return this.$message({
-//              message: 'De slug is al in gebruik',
-//              type: 'warning'
-//            })</text>
+      <register name="5" type="2">
+        <text encoding="base64">I01BSUxfUE9SVD0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGRkCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ci8vICAgICAgICAgIHRoaXMuJG1lc3NhZ2UoewovLyAgICAgICAgICAgIG1lc3NhZ2U6ICdFciBpcyBpZXRzIGZvdXQgZ2VnYWFuLicsCi8vICAgICAgICAgICAgdHlwZTogJ3dhcm5pbmcnCi8vICAgICAgICAgIH0pCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ci8vICAgICAgICAgIHRoaXMuJG1lc3NhZ2UoewovLyAgICAgICAgICAgIG1lc3NhZ2U6ICdQcm9kdWN0IGFhbmdlbWFha3QhJywKLy8gICAgICAgICAgICB0eXBlOiAnc3VjY2VzcycKLy8gICAgICAgICAgfSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgdGhpcy4kbWVzc2FnZSh7Ci8vICAgICAgICAgICAgbWVzc2FnZTogJ1Byb2R1Y3QgYWFuZ2VtYWFrdCEnLAovLyAgICAgICAgICAgIHR5cGU6ICdzdWNjZXNzJwovLyAgICAgICAgICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
