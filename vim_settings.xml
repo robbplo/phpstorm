@@ -562,12 +562,12 @@
         <mark key="." line="23" column="28" />
         <mark key="^" line="21" column="34" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1512118205196">
-        <mark key="'" line="87" column="5" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="94" column="7" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1512120960859">
+        <mark key="'" line="10" column="47" />
+        <mark key="[" line="42" column="37" />
+        <mark key="]" line="42" column="35" />
+        <mark key="^" line="42" column="35" />
+        <mark key="." line="42" column="35" />
       </file>
       <file name="$USER_HOME$/code/nustar/api/Report/Http/Requests/UpdateReportRequest.php" timestamp="1511713677357">
         <mark key="[" line="31" column="39" />
@@ -878,7 +878,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512119891711">
+      <file name="/Dummy.txt" timestamp="1512121228717">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/nustar/database/migrations/2017_11_24_151601_make_user_id_on_reports_nullable.php" timestamp="1511533189295">
@@ -997,9 +997,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="45" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Documents/DocumentManager.vue" />
-      <jump line="30" column="42" filename="$USER_HOME$/code/nustar/api/Report/Http/Requests/VesselReportRequest.php" />
-      <jump line="33" column="26" filename="$USER_HOME$/code/nustar/app/Http/Controllers/HomeController.php" />
       <jump line="51" column="20" filename="$USER_HOME$/code/nustar/app/Http/Controllers/HomeController.php" />
       <jump line="1" column="0" filename="$USER_HOME$/code/nustar/resources/views/pages/admin/report.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/nustar/resources/views/pages/admin/report.blade.php" />
@@ -1097,6 +1094,9 @@
       <jump line="51" column="34" filename="$USER_HOME$/code/coach-frontend/store/actions.js" />
       <jump line="22" column="41" filename="$USER_HOME$/code/coach-frontend/store/actions.js" />
       <jump line="90" column="5" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="8" column="58" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="9" column="39" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="10" column="47" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1106,7 +1106,7 @@
         <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>disp</text>
+        <text>for</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpbXBvcnQgbW9tZW50IGZyb20gJ21vbWVudCcK</text>
@@ -1146,9 +1146,9 @@
       </register>
     </registers>
     <search>
-      <last-search>disp</last-search>
+      <last-search>for</last-search>
       <last-offset />
-      <last-pattern>disp</last-pattern>
+      <last-pattern>for</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1156,7 +1156,6 @@
     </search>
     <history>
       <history-search>
-        <entry>city</entry>
         <entry>from</entry>
         <entry>}</entry>
         <entry>Bo</entry>
@@ -1176,6 +1175,7 @@
         <entry>filters</entry>
         <entry>cust</entry>
         <entry>disp</entry>
+        <entry>for</entry>
       </history-search>
       <history-cmd>
         <entry>%s/50/191/g</entry>
