@@ -562,11 +562,12 @@
         <mark key="." line="23" column="28" />
         <mark key="^" line="21" column="34" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1512116910624">
-        <mark key="[" line="70" column="11" />
-        <mark key="]" line="70" column="11" />
-        <mark key="^" line="27" column="16" />
-        <mark key="." line="70" column="11" />
+      <file name="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" timestamp="1512118205196">
+        <mark key="'" line="87" column="5" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="94" column="7" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/code/nustar/api/Report/Http/Requests/UpdateReportRequest.php" timestamp="1511713677357">
         <mark key="[" line="31" column="39" />
@@ -604,10 +605,12 @@
         <mark key="]" line="32" column="51" />
         <mark key="." line="32" column="51" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/store/actions.js" timestamp="1511259132083">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="20" column="5" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/code/coach-frontend/store/actions.js" timestamp="1512117953211">
+        <mark key="'" line="25" column="41" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="68" column="36" />
       </file>
       <file name="$USER_HOME$/code/nustar/app/Http/Controllers/HomeController.php" timestamp="1511944054695">
         <mark key="'" line="51" column="20" />
@@ -875,7 +878,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512116840844">
+      <file name="/Dummy.txt" timestamp="1512118021310">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/nustar/database/migrations/2017_11_24_151601_make_user_id_on_reports_nullable.php" timestamp="1511533189295">
@@ -924,20 +927,16 @@
         <mark key="]" line="27" column="27" />
         <mark key="." line="27" column="27" />
       </file>
-      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/clients/index.vue" timestamp="1512117026615">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/code/coach-frontend/pages/_lang/clients/index.vue" timestamp="1512118668583">
+        <mark key="[" line="24" column="6" />
+        <mark key="]" line="24" column="6" />
+        <mark key="." line="24" column="6" />
         <mark key="^" line="23" column="6" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/Coach.php" timestamp="1510836763666">
         <mark key="[" line="17" column="28" />
         <mark key="]" line="17" column="28" />
         <mark key="." line="17" column="28" />
-      </file>
-      <file name="$USER_HOME$/code/ah-product/resources/assets/sass/product-form.scss" timestamp="1512037285685">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="19" column="20" />
       </file>
       <file name="$USER_HOME$/code/soory/project/index.html" timestamp="1511126049511">
         <mark key="[" line="22" column="0" />
@@ -998,10 +997,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/code/nustar/api/Boat/Http/Requests/UpdateBoatRequest.php" />
-      <jump line="44" column="25" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Documents/DocumentInformation.vue" />
-      <jump line="56" column="25" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/bargeReporter.vue" />
-      <jump line="73" column="25" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Dashboard/vesselReporter.vue" />
       <jump line="72" column="45" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Management/Documents/DocumentManager.vue" />
       <jump line="30" column="42" filename="$USER_HOME$/code/nustar/api/Report/Http/Requests/VesselReportRequest.php" />
       <jump line="33" column="26" filename="$USER_HOME$/code/nustar/app/Http/Controllers/HomeController.php" />
@@ -1098,62 +1093,62 @@
       <jump line="56" column="5" filename="$USER_HOME$/code/coach-frontend/pages/_lang/clients/index.vue" />
       <jump line="32" column="26" filename="$USER_HOME$/code/coach-frontend/pages/_lang/clients/index.vue" />
       <jump line="27" column="83" filename="$USER_HOME$/code/coach-frontend/pages/_lang/clients/index.vue" />
+      <jump line="44" column="27" filename="$USER_HOME$/code/coach-frontend/store/actions.js" />
+      <jump line="51" column="34" filename="$USER_HOME$/code/coach-frontend/store/actions.js" />
+      <jump line="22" column="41" filename="$USER_HOME$/code/coach-frontend/store/actions.js" />
+      <jump line="90" column="5" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG1vdW50ZWQgKCkgewogICAgICByZXR1cm4gdGhpcy5mZXRjaEN1c3RvbWVycygpCiAgICB9LAo=</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>filters</text>
+        <text>disp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpbXBvcnQgbW9tZW50IGZyb20gJ21vbWVudCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG1vdW50ZWQgKCkgewogICAgICByZXR1cm4gdGhpcy5mZXRjaEN1c3RvbWVycygpCiAgICB9LAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXN0b21lcnM6IFtdLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBvcnQgeyBnZXRDdXN0b21lcnMsIGdldEN1c3RvbWVyRGF0YSB9IGZyb20gJ34vYXBpJwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgeyBkYXRhIH0gPSBhd2FpdCBnZXRDdXN0b21lcnMoJ3VwY29taW5nQXBwb2ludG1lbnRzLGVzdGFibGlzaG1lbnQnLCB0aGlzLmZpbHRlcnMpCiAgICAgICAgbGV0IGN1c3RvbWVycyA9IG9yZGVyQnkoZGF0YS5kYXRhLCAndXBjb21pbmdBcHBvaW50bWVudHNbMF0uc3RhcnRzX2F0JykKICAgICAgICBsZXQgY3VzdG9tZXJEYXRhID0gZ2V0Q3VzdG9tZXJEYXRhKCkKCiAgICAgICAgY3VzdG9tZXJzID0gY3VzdG9tZXJzLm1hcCgoY3VzdG9tZXIsIGluZGV4KSA9PiB7CiAgICAgICAgICBsZXQgYXBwb2ludG1lbnQgPSB7CiAgICAgICAgICAgIGRhdGU6IG51bGwsCiAgICAgICAgICAgIHRpbWU6IG51bGwKICAgICAgICAgIH0KICAgICAgICAgIGxldCBlc3RhYmxpc2htZW50ID0gY3VzdG9tZXIuZXN0YWJsaXNobWVudAoKICAgICAgICAgIGlmIChjdXN0b21lci51cGNvbWluZ0FwcG9pbnRtZW50c1swXSAhPT0gdW5kZWZpbmVkKSB7CiAgICAgICAgICAgIGxldCBkYXRlID0gbmV3IERhdGUoY3VzdG9tZXIudXBjb21pbmdBcHBvaW50bWVudHNbMF0uc3RhcnRzX2F0KQogICAgICAgICAgICBhcHBvaW50bWVudCA9IHsKICAgICAgICAgICAgICBkYXRlOiBtb21lbnQoZGF0ZSkuZm9ybWF0KCdMJyksCiAgICAgICAgICAgICAgdGltZTogbW9tZW50KGRhdGUpLmZvcm1hdCgnTFQnKQogICAgICAgICAgICB9CiAgICAgICAgICB9CgogICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgX2lkOiBjdXN0b21lci5faWQsCiAgICAgICAgICAgIG5hbWU6IGN1c3RvbWVyLl9pZCwKICAgICAgICAgICAgYXBwb2ludG1lbnQsCiAgICAgICAgICAgIGVzdGFibGlzaG1lbnQsCiAgICAgICAgICAgIC4uLmN1c3RvbWVyRGF0YVtpbmRleCAlIDEwXQogICAgICAgICAgfQogICAgICAgIH0pCiAgICAgICAgdGhpcy5jdXN0b21lcnMgPSBjdXN0b21lcnMK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgLy8gYXdhaXQgc3RvcmUuZGlzcGF0Y2goJ2dldEN1cnJlbnRVc2VyJykK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBpbXBvcnQgeyBnZXRDdXN0b21lcnMsIGdldEN1c3RvbWVyRGF0YSB9IGZyb20gJ34vYXBpJwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRoaXMuY3VzdG9tZXJzID0gY3VzdG9tZXJzCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gbWl4ZWQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>MAIL_DRIVER=mailgun
-MAIL_HOST=smtp.mailgun.org
-MAIL_USERNAME=postmaster@sandbox3d3f004a6d4840fb92de472673bb8936.mailgun.org
-MAIL_PASSWORD=70130412cc3b37a9b654ab0ad093db6d
-MAIL_ENCRYPTION=null</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgeyBkYXRhIH0gPSBhd2FpdCBnZXRDdXN0b21lcnMoJ3VwY29taW5nQXBwb2ludG1lbnRzLGVzdGFibGlzaG1lbnQnLCB0aGlzLmZpbHRlcnMpCiAgICAgICAgbGV0IGN1c3RvbWVycyA9IG9yZGVyQnkoZGF0YS5kYXRhLCAndXBjb21pbmdBcHBvaW50bWVudHNbMF0uc3RhcnRzX2F0JykKICAgICAgICBsZXQgY3VzdG9tZXJEYXRhID0gZ2V0Q3VzdG9tZXJEYXRhKCkKCiAgICAgICAgY3VzdG9tZXJzID0gY3VzdG9tZXJzLm1hcCgoY3VzdG9tZXIsIGluZGV4KSA9PiB7CiAgICAgICAgICBsZXQgYXBwb2ludG1lbnQgPSB7CiAgICAgICAgICAgIGRhdGU6IG51bGwsCiAgICAgICAgICAgIHRpbWU6IG51bGwKICAgICAgICAgIH0KICAgICAgICAgIGxldCBlc3RhYmxpc2htZW50ID0gY3VzdG9tZXIuZXN0YWJsaXNobWVudAoKICAgICAgICAgIGlmIChjdXN0b21lci51cGNvbWluZ0FwcG9pbnRtZW50c1swXSAhPT0gdW5kZWZpbmVkKSB7CiAgICAgICAgICAgIGxldCBkYXRlID0gbmV3IERhdGUoY3VzdG9tZXIudXBjb21pbmdBcHBvaW50bWVudHNbMF0uc3RhcnRzX2F0KQogICAgICAgICAgICBhcHBvaW50bWVudCA9IHsKICAgICAgICAgICAgICBkYXRlOiBtb21lbnQoZGF0ZSkuZm9ybWF0KCdMJyksCiAgICAgICAgICAgICAgdGltZTogbW9tZW50KGRhdGUpLmZvcm1hdCgnTFQnKQogICAgICAgICAgICB9CiAgICAgICAgICB9CgogICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgX2lkOiBjdXN0b21lci5faWQsCiAgICAgICAgICAgIG5hbWU6IGN1c3RvbWVyLl9pZCwKICAgICAgICAgICAgYXBwb2ludG1lbnQsCiAgICAgICAgICAgIGVzdGFibGlzaG1lbnQsCiAgICAgICAgICAgIC4uLmN1c3RvbWVyRGF0YVtpbmRleCAlIDEwXQogICAgICAgICAgfQogICAgICAgIH0pCiAgICAgICAgdGhpcy5jdXN0b21lcnMgPSBjdXN0b21lcnMK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>filters</last-search>
+      <last-search>disp</last-search>
       <last-offset />
-      <last-pattern>filters</last-pattern>
+      <last-pattern>disp</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1161,8 +1156,6 @@ MAIL_ENCRYPTION=null</text>
     </search>
     <history>
       <history-search>
-        <entry>lastname</entry>
-        <entry>address</entry>
         <entry>city</entry>
         <entry>from</entry>
         <entry>}</entry>
@@ -1181,6 +1174,8 @@ MAIL_ENCRYPTION=null</text>
         <entry>ord</entry>
         <entry>data</entry>
         <entry>filters</entry>
+        <entry>cust</entry>
+        <entry>disp</entry>
       </history-search>
       <history-cmd>
         <entry>%s/50/191/g</entry>
