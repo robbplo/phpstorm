@@ -116,11 +116,11 @@
         <mark key="]" line="9" column="29" />
         <mark key="." line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/code/s3test/app/Http/Controllers/FileController.php" timestamp="1512475522503">
-        <mark key="[" line="15" column="45" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="0" />
+      <file name="$USER_HOME$/code/s3test/app/Http/Controllers/FileController.php" timestamp="1512477402999">
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="36" />
+        <mark key="." line="18" column="36" />
+        <mark key="^" line="18" column="41" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Resources/Measurement.php" timestamp="1510836786939">
         <mark key="[" line="17" column="28" />
@@ -305,7 +305,7 @@
         <mark key="." line="27" column="12" />
         <mark key="^" line="27" column="12" />
       </file>
-      <file name="$USER_HOME$/code/s3test/config/filesystems.php" timestamp="1512411071513">
+      <file name="$USER_HOME$/code/s3test/config/filesystems.php" timestamp="1512477332848">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="62" column="41" />
       </file>
@@ -529,7 +529,7 @@
         <mark key="^" line="19" column="32" />
         <mark key="." line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/code/s3test/.env" timestamp="1512475764404">
+      <file name="$USER_HOME$/code/s3test/.env" timestamp="1512477350036">
         <mark key="[" line="22" column="21" />
         <mark key="]" line="21" column="37" />
         <mark key="^" line="21" column="37" />
@@ -835,6 +835,12 @@
         <mark key="]" line="54" column="78" />
         <mark key="^" line="57" column="44" />
         <mark key="." line="54" column="78" />
+      </file>
+      <file name="$USER_HOME$/code/s3test/app/File.php" timestamp="1512477188016">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+        <mark key="^" line="8" column="34" />
       </file>
       <file name="$USER_HOME$/code/nustar/app/Exceptions/Handler.php" timestamp="1511857035814">
         <mark key="[" line="46" column="5" />
@@ -1142,11 +1148,11 @@
       <jump line="10" column="47" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0ie3sgIH19Ij4K</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>FILE</text>
@@ -1155,34 +1161,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2tleScgPT4gZW52KCdBV1NfQUNDRVNTX0tFWV9JRCcpLAogICAgICAgICAgICAnc2VjcmV0JyA9PiBlbnYoJ0FXU19TRUNSRVRfQUNDRVNTX0tFWScpLAogICAgICAgICAgICAncmVnaW9uJyA9PiBlbnYoJ0FXU19ERUZBVUxUX1JFR0lPTicpLAogICAgICAgICAgICAnYnVja2V0JyA9PiBlbnYoJ0FXU19CVUNLRVQnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0ie3sgIH19Ij4K</text>
+        <text encoding="base64">ICAgICAgICBTdG9yYWdlOjpzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gQm9vdHN0cmFwZGQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gRm9udHMKQGltcG9ydCB1cmwoImh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1SYWxld2F5OjMwMCw0MDAsNjAwIik7CgovLyBWYXJpYWJsZXMKQGltcG9ydCAidmFyaWFibGVzIjsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0ie3sgIH19Ij4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ci8vIEZvbnRzCkBpbXBvcnQgdXJsKCJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9UmFsZXdheTozMDAsNDAwLDYwMCIpOwo8aDEgY2xhc3M9InVrLWhlYWRpbmctZGl2aWRlciI+PC9oMT4KCg==</text>
+        <text encoding="base64">Ly8gQm9vdHN0cmFwZGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGltcG9ydCAidmFyaWFibGVzIjsK</text>
+        <text encoding="base64">Ly8gRm9udHMKQGltcG9ydCB1cmwoImh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1SYWxld2F5OjMwMCw0MDAsNjAwIik7CgovLyBWYXJpYWJsZXMKQGltcG9ydCAidmFyaWFibGVzIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gVmFyaWFibGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gQm9vdHN0cmFwCkBpbXBvcnQgIn5ib290c3RyYXAtc2Fzcy9hc3NldHMvc3R5bGVzaGVldHMvYm9vdHN0cmFwIjsK</text>
+        <text encoding="base64">Ci8vIEZvbnRzCkBpbXBvcnQgdXJsKCJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9UmFsZXdheTozMDAsNDAwLDYwMCIpOwo8aDEgY2xhc3M9InVrLWhlYWRpbmctZGl2aWRlciI+PC9oMT4KCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
