@@ -242,6 +242,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="8" column="10" />
       </file>
+      <file name="$USER_HOME$/code/vesca/routes/api.php" timestamp="1513353910220" />
       <file name="$USER_HOME$/code/coach-frontend/components/TabAppointments.vue" timestamp="1511190645791">
         <mark key="'" line="66" column="28" />
         <mark key="[" line="66" column="39" />
@@ -633,6 +634,12 @@
         <mark key="]" line="5" column="26" />
         <mark key="^" line="1" column="16" />
         <mark key="." line="5" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/vesca/api/V1/Postalcode/Http/Controllers/PostalcodeLookupController.php" timestamp="1513353793107">
+        <mark key="'" line="81" column="21" />
+        <mark key="]" line="85" column="60" />
+        <mark key="^" line="85" column="60" />
+        <mark key="." line="85" column="60" />
       </file>
       <file name="$USER_HOME$/code/s3test/routes/web.php" timestamp="1512475921489">
         <mark key="[" line="13" column="14" />
@@ -1055,7 +1062,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="20" filename="$USER_HOME$/code/nustar/app/Http/Controllers/HomeController.php" />
       <jump line="1" column="0" filename="$USER_HOME$/code/nustar/resources/views/pages/admin/report.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/nustar/resources/views/pages/admin/report.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/nustar/resources/views/pages/planner/report.blade.php" />
@@ -1155,58 +1161,59 @@
       <jump line="8" column="58" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="9" column="39" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
       <jump line="10" column="47" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
+      <jump line="82" column="21" filename="$USER_HOME$/code/vesca/api/V1/Postalcode/Http/Controllers/PostalcodeLookupController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>KED-4HU-W2A</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>KED-4HU-W2A</text>
+        <text>sxxxxxx['_embedded']]</text>
       </register>
       <register name="/" type="4">
-        <text>FILE</text>
+        <text>add</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2tleScgPT4gZW52KCdBV1NfQUNDRVNTX0tFWV9JRCcpLAogICAgICAgICAgICAnc2VjcmV0JyA9PiBlbnYoJ0FXU19TRUNSRVRfQUNDRVNTX0tFWScpLAogICAgICAgICAgICAncmVnaW9uJyA9PiBlbnYoJ0FXU19ERUZBVUxUX1JFR0lPTicpLAogICAgICAgICAgICAnYnVja2V0JyA9PiBlbnYoJ0FXU19CVUNLRVQnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdG9yYWdlOjpzCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoMjAwKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0ie3sgIH19Ij4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlKDIwMCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gQm9vdHN0cmFwZGQK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoMjAwKTtkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gRm9udHMKQGltcG9ydCB1cmwoImh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1SYWxld2F5OjMwMCw0MDAsNjAwIik7CgovLyBWYXJpYWJsZXMKQGltcG9ydCAidmFyaWFibGVzIjsK</text>
+        <text encoding="base64">ICAgICAgICBTdG9yYWdlOjpzCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci8vIEZvbnRzCkBpbXBvcnQgdXJsKCJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2Nzcz9mYW1pbHk9UmFsZXdheTozMDAsNDAwLDYwMCIpOwo8aDEgY2xhc3M9InVrLWhlYWRpbmctZGl2aWRlciI+PC9oMT4KCg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>FILE</last-search>
+      <last-search>add</last-search>
       <last-offset />
-      <last-pattern>FILE</last-pattern>
+      <last-pattern>add</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1214,7 +1221,6 @@
     </search>
     <history>
       <history-search>
-        <entry>}</entry>
         <entry>Bo</entry>
         <entry>Voo</entry>
         <entry>Achternaam</entry>
@@ -1234,6 +1240,7 @@
         <entry>disp</entry>
         <entry>for</entry>
         <entry>FILE</entry>
+        <entry>add</entry>
       </history-search>
       <history-cmd>
         <entry>%s/50/191/g</entry>
