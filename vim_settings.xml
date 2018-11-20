@@ -210,6 +210,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/tests/Unit/ExampleTest.php" timestamp="1542724217850">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/code/coach-frontend/.env.js" timestamp="1511192174595">
         <mark key="[" line="1" column="25" />
         <mark key="]" line="1" column="25" />
@@ -371,21 +376,16 @@
         <mark key="]" line="13" column="14" />
         <mark key="." line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/Flashings.php" timestamp="1542723226046">
-        <mark key="'" line="18" column="11" />
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="19" column="37" />
-        <mark key="^" line="19" column="29" />
+      <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/Flashings.php" timestamp="1542727083178">
+        <mark key="[" line="41" column="25" />
+        <mark key="]" line="42" column="11" />
+        <mark key="." line="42" column="11" />
+        <mark key="^" line="42" column="11" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/AppointmentController.php" timestamp="1510924896340">
         <mark key="[" line="32" column="51" />
         <mark key="]" line="32" column="51" />
         <mark key="." line="32" column="51" />
-      </file>
-      <file name="$USER_HOME$/code/s3test/resources/views/welcome.blade.php" timestamp="1512475824004">
-        <mark key="]" line="10" column="8" />
-        <mark key="." line="10" column="8" />
       </file>
       <file name="$USER_HOME$/code/vesca/.env" timestamp="1513324839258">
         <mark key="[" line="39" column="13" />
@@ -533,10 +533,11 @@
         <mark key="]" line="49" column="48" />
         <mark key="." line="49" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Building.php" timestamp="1542721991887">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Building.php" timestamp="1542726936010">
+        <mark key="[" line="54" column="35" />
+        <mark key="]" line="54" column="35" />
+        <mark key="." line="54" column="35" />
+        <mark key="^" line="54" column="40" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Measurement.php" timestamp="1510835991381">
         <mark key="[" line="71" column="0" />
@@ -554,7 +555,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512121228717">
+      <file name="/Dummy.txt" timestamp="1542724231148">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/ah-product/resources/assets/js/bootstrap.js" timestamp="1511946975147">
@@ -638,7 +639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/nustar/resources/views/pages/planner/report.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/nustar/routes/api.php" />
       <jump line="47" column="40" filename="$USER_HOME$/code/nustar/app/Notifications/VesselReported.php" />
       <jump line="50" column="48" filename="$USER_HOME$/code/nustar/app/Notifications/VesselReported.php" />
@@ -738,70 +738,66 @@
       <jump line="82" column="21" filename="$USER_HOME$/code/vesca/api/V1/Postalcode/Http/Controllers/PostalcodeLookupController.php" />
       <jump line="19" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/Flashings.php" />
       <jump line="18" column="11" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/Flashings.php" />
+      <jump line="38" column="4" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/Flashings.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>In</text>
+        <text>//</text>
       </register>
       <register name="/" type="4">
-        <text>In</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmdldFJpZGdlSW5zaWRlKCksCiAgICAgICAgICAgICR0aGlzLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmdldE9WSERMZWZ0KCksCiAgICAgICAgICAgICR0aGlzLT5nZXRPVkhEUmlnaHQoKSwKICAgICAgICAgICAgJHRoaXMtPmdldE9WSERMZWFrU2VhbCgpLAogICAgICAgICAgICAkdGhpcy0+Z2V0T1ZIRFRvcCgpLAogICAgICAgICAgICAkdGhpcy0+Z2V0Rmx1bWUoKSwKICAgICAgICAgICAgJHRoaXMtPmdldE91dGVyQ29ybmVyKCksCiAgICAgICAgICAgICR0aGlzLT5nZXRXaW5kU3ByaW5nKCksCiAgICAgICAgICAgICR0aGlzLT5nZXRSaWRnZUluc2lkZSgpLAogICAgICAgICAgICAkdGhpcy0+Z2V0UmlkZ2VPdXRzaWRlKCksCiAgICAgICAgICAgICR0aGlzLT5nZXREb29yc3RlcCgpLAogICAgICAgICAgICAkdGhpcy0+Z2V0RG9vclZlcnRpY2FsKCksCiAgICAgICAgICAgICR0aGlzLT5nZXREb29yTGVha1NlYWwoKSwKICAgICAgICAgICAgJHRoaXMtPmdldERvb3JDZWlsaW5nKCksCiAgICAgICAgICAgICR0aGlzLT5nZXRQYW5lbEF0dGFjaG1lbnQoKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPgo=</text>
+        <text encoding="base64">ICAgICAgICAnT1ZIRCByZWNodHMnCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>//OVHD bovenzijde
-//Gootstuk
-//Buitenhoek
-//Windveer</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgNzcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9PVkhEIGxla2RvcnBlbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9PVkhEIHJlY2h0cwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRDCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIERvbWFpblxTZWN0aW9uc1xSb29mOwp1c2UgRG9tYWluXFNlY3Rpb25zXFdhbGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIERvbWFpblxFbGVtZW50c1xSb29mRWxlbWVudDsKdXNlIERvbWFpblxFbGVtZW50c1xXYWxsRWxlbWVudDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIERvbWFpblxQcm9kdWN0c1xQcm9kdWN0Owo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEZsYXNoaW5nKAogICAgICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxFbnVtc1xQcm9kdWN0VW5pdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmdldEZsYXNoaW5nSWQoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/'/&quot;/g</text>
+        <text encoding="base64">JzwsJz5zLywve30=</text>
       </register>
     </registers>
     <search>
-      <last-search>In</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>In</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-pattern>,</last-pattern>
+      <last-replace>{}</last-replace>
+      <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Achternaam</entry>
-        <entry>Email</entry>
         <entry>Adres</entry>
         <entry>Woonplaats</entry>
         <entry>Con</entry>
@@ -820,11 +816,10 @@
         <entry>add</entry>
         <entry>in</entry>
         <entry>In</entry>
+        <entry encoding="base64">XCR0aGlzLT4=</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/50/191/g</entry>
-        <entry>%s/30/191</entry>
-        <entry>%s/the/The</entry>
         <entry>s/30/191/g</entry>
         <entry>s/&quot;/'/g</entry>
         <entry>s/'/&quot;</entry>
@@ -842,6 +837,9 @@
         <entry encoding="base64">JzwsJz5zL0FkcmVzL1dvb25wbGFhdHM=</entry>
         <entry encoding="base64">JzwsJz5zL1dvb25wbGFhdHMvUG9zdGNvZGU=</entry>
         <entry>s/'/&quot;/g</entry>
+        <entry encoding="base64">JzwsJz5zL1wkdGhpcy0+L3B1YmxpYyBmdW5jdGlvbg==</entry>
+        <entry encoding="base64">JzwsJz5zL1wkdGhpcy0+L3B1YmxpYyBmdW5jdGlvbiA=</entry>
+        <entry encoding="base64">JzwsJz5zLywve30=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -855,6 +853,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
