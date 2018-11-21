@@ -21,12 +21,12 @@
         <mark key="." line="16" column="34" />
         <mark key="^" line="16" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" timestamp="1542790547160">
-        <mark key="'" line="31" column="24" />
-        <mark key="[" line="33" column="54" />
-        <mark key="]" line="31" column="68" />
-        <mark key="." line="31" column="68" />
-        <mark key="^" line="31" column="68" />
+      <file name="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" timestamp="1542793510462">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="57" />
+        <mark key="." line="13" column="57" />
+        <mark key="^" line="13" column="57" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/app/Jobs/AppointmentCreate.php" timestamp="1510652607133">
         <mark key="'" line="31" column="20" />
@@ -1230,8 +1230,6 @@
       <jump line="137" column="35" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/Flashings.php" />
       <jump line="161" column="12" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/Flashings.php" />
       <jump line="34" column="0" filename="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" />
-      <jump line="31" column="24" filename="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" />
       <jump line="21" column="31" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
       <jump line="721" column="14" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
@@ -1244,6 +1242,8 @@
       <jump line="56" column="51" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
       <jump line="91" column="30" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
+      <jump line="31" column="68" filename="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1253,7 +1253,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>table</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3VuaXQnID0+ICR0aGlzLT5kaXNwbGF5VW5pdCgpLAo=</text>
@@ -1293,9 +1293,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>table</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>table</last-pattern>
       <last-replace>{}</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1303,7 +1303,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cust</entry>
         <entry>for</entry>
         <entry>FILE</entry>
         <entry>add</entry>
@@ -1323,6 +1322,7 @@
         <entry>pri</entry>
         <entry>getu</entry>
         <entry>get</entry>
+        <entry>table</entry>
       </history-search>
       <history-cmd>
         <entry>s/30/191/g</entry>
