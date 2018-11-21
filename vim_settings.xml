@@ -314,11 +314,16 @@
         <mark key="^" line="19" column="32" />
         <mark key="." line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Enums/ProductUnit.php" timestamp="1542791069912">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="26" />
-        <mark key="^" line="9" column="25" />
-        <mark key="." line="8" column="26" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Enums/ProductUnit.php" timestamp="1542792525015">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="21" />
+        <mark key="^" line="16" column="28" />
+        <mark key="." line="15" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/app/Providers/AppServiceProvider.php" timestamp="1542791746853">
+        <mark key="[" line="16" column="41" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/code/nustar/app/Http/Controllers/OperatorController.php" timestamp="1511346552380">
         <mark key="[" line="4" column="0" />
@@ -507,11 +512,11 @@
         <mark key="." line="8" column="90" />
         <mark key="^" line="8" column="90" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/domain/Products/Flashing.php" timestamp="1542791220727">
-        <mark key="'" line="13" column="20" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/Projects/finish-building/domain/Products/Flashing.php" timestamp="1542792549770">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-backend/api/v1/Controllers/MeasurementController.php" timestamp="1510924878735">
         <mark key="'" line="5" column="4" />
@@ -563,12 +568,12 @@
         <mark key="]" line="27" column="27" />
         <mark key="." line="27" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" timestamp="1542791286818">
-        <mark key="'" line="52" column="22" />
-        <mark key="[" line="62" column="7" />
-        <mark key="]" line="62" column="6" />
-        <mark key="." line="62" column="6" />
-        <mark key="^" line="62" column="6" />
+      <file name="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" timestamp="1542792542488">
+        <mark key="'" line="91" column="30" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="43" />
+        <mark key="." line="92" column="41" />
+        <mark key="^" line="92" column="41" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/pages/_lang/clients/index.vue" timestamp="1512118668583">
         <mark key="[" line="24" column="6" />
@@ -1023,7 +1028,6 @@
         <mark key="^" line="29" column="56" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/domain/Traits/HasProducts.php" timestamp="1542722313523" />
       <file name="$USER_HOME$/code/udn-ubn-login/add/index.php" timestamp="1510649363478">
         <mark key="'" line="136" column="10" />
         <mark key="[" line="16" column="50" />
@@ -1140,10 +1144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="29" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Jetty/Schedule.vue" />
-      <jump line="177" column="27" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Jetty/Schedule.vue" />
-      <jump line="178" column="31" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Jetty/Schedule.vue" />
-      <jump line="232" column="19" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Jetty/Schedule.vue" />
       <jump line="248" column="51" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Jetty/Schedule.vue" />
       <jump line="4" column="6" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Jetty/Schedule.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/code/nustar/resources/assets/js/components/pages/Planning/Reports/Report.vue" />
@@ -1233,65 +1233,69 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" />
       <jump line="31" column="24" filename="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" />
       <jump line="21" column="31" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
       <jump line="721" column="14" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
       <jump line="16" column="34" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/Steelframe.php" />
       <jump line="34" column="14" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/Flashings.php" />
       <jump line="11" column="20" filename="$USER_HOME$/Projects/finish-building/domain/Products/Flashing.php" />
       <jump line="51" column="22" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
+      <jump line="62" column="37" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
+      <jump line="62" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/Flashing.php" />
+      <jump line="56" column="51" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
+      <jump line="91" column="30" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3VuaXQnID0+ICR0aGlzLT5nZXRVbml0KCksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>getDisplayUnit</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>disp</text>
+        <text>get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7ICRwcm9kdWN0WyduYW1lJ10gfX08L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3VuaXQnID0+ICR0aGlzLT5kaXNwbGF5VW5pdCgpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3VuaXQnID0+ICR0aGlzLT5nZXRVbml0KCksCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIGZ1bmN0aW9uIGdldERpc3BsYXlQcmljZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgka2V5KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXREaXNwbGF5UHJpY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAka2V5ID0gc3RhdGljOjpzZWFyY2goJHZhbHVlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3stLTx0ZD5pdGVtPC90ZD4tLX19Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiAn4oKsICcgLiAkcHJpY2U7CgogICAgICAgIC8vcmV0dXJuIG1vbmV5X2Zvcm1hdCgnJSgjMW4nLCAkcHJpY2UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRkKCRwcm9kdWN0cy0+Z3JvdXBCeSgnY2F0ZWdvcnknKS0+Zmlyc3QoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3ByaWNlJyA9PiAkdGhpcy0+Z2V0UHJpY2UoKSwKICAgICAgICAgICAgJ3RvdGFsX3ByaWNlJyA9PiAkdGhpcy0+Z2V0VG90YWxQcmljZSgpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBmb3JlYWNoKCRncm91cGVkUHJvZHVjdHMgYXMgJGNhdGVnb3J5ID0+ICRwcm9kdWN0cykKCiAgICBAZW5kZm9yZWFjaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDx0YWJsZT4KICAgICAgICAKICAgIDwvdGFibGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdCAkbnVtYmVyIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmdldAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywve30=</text>
       </register>
     </registers>
     <search>
-      <last-search>disp</last-search>
+      <last-search>get</last-search>
       <last-offset />
-      <last-pattern>disp</last-pattern>
+      <last-pattern>get</last-pattern>
       <last-replace>{}</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1299,10 +1303,6 @@
     </search>
     <history>
       <history-search>
-        <entry>de</entry>
-        <entry>ord</entry>
-        <entry>data</entry>
-        <entry>filters</entry>
         <entry>cust</entry>
         <entry>for</entry>
         <entry>FILE</entry>
@@ -1319,6 +1319,10 @@
         <entry>smi</entry>
         <entry>toar</entry>
         <entry>disp</entry>
+        <entry>str</entry>
+        <entry>pri</entry>
+        <entry>getu</entry>
+        <entry>get</entry>
       </history-search>
       <history-cmd>
         <entry>s/30/191/g</entry>
