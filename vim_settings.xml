@@ -244,7 +244,11 @@
       <file name="$USER_HOME$/Projects/finish-building/tests/Unit/ElementTest.php" timestamp="1542795285165">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Nova/Product.php" timestamp="1542810221261" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Nova/Product.php" timestamp="1542814166946">
+        <mark key="[" line="57" column="54" />
+        <mark key="]" line="57" column="54" />
+        <mark key="." line="57" column="54" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Offer.php" timestamp="1542811256300">
         <mark key="'" line="14" column="4" />
         <mark key="[" line="24" column="0" />
@@ -616,7 +620,12 @@
         <mark key="^" line="20" column="32" />
         <mark key="." line="20" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Product.php" timestamp="1542810245470" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Product.php" timestamp="1542814215082">
+        <mark key="[" line="33" column="9" />
+        <mark key="]" line="33" column="8" />
+        <mark key="^" line="33" column="8" />
+        <mark key="." line="33" column="8" />
+      </file>
       <file name="$USER_HOME$/code/coach-frontend/locales/nl.json" timestamp="1511278833684">
         <mark key="'" line="31" column="5" />
         <mark key="[" line="85" column="27" />
@@ -1010,11 +1019,11 @@
       <jump line="150" column="15" filename="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnByaWNlcwo=</text>
+      <register name="&quot;" type="4">
+        <text>/ 100</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50IA==</text>
+        <text>/ 100</text>
       </register>
       <register name="/" type="4">
         <text>bui</text>
