@@ -259,6 +259,13 @@
         <mark key="." line="33" column="15" />
         <mark key="^" line="33" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/app/Nova/Product.php" timestamp="1542880233569">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="60" column="38" />
+        <mark key="]" line="60" column="35" />
+        <mark key="." line="60" column="35" />
+        <mark key="^" line="60" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Offer.php" timestamp="1542811256300">
         <mark key="'" line="14" column="4" />
         <mark key="[" line="24" column="0" />
@@ -341,8 +348,8 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Providers/NovaServiceProvider.php" timestamp="1542878071519">
-        <mark key="'" line="33" column="0" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Providers/NovaServiceProvider.php" timestamp="1542879950023">
+        <mark key="'" line="58" column="4" />
         <mark key="[" line="68" column="11" />
         <mark key="]" line="68" column="11" />
         <mark key="." line="68" column="11" />
@@ -673,6 +680,11 @@
       <file name="$USER_HOME$/code/nustar/resources/assets/sass/base.scss" timestamp="1511876777026">
         <mark key="[" line="140" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/IndexField.vue" timestamp="1542880106496">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/database/migrations/2018_11_07_181247_create_offers_table.php" timestamp="1542803946162">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="21" column="46" />
@@ -781,6 +793,12 @@
         <mark key="." line="32" column="68" />
         <mark key="^" line="31" column="93" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" timestamp="1542880286095">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+      </file>
       <file name="$USER_HOME$/code/s3test/.env" timestamp="1512477350036">
         <mark key="[" line="22" column="21" />
         <mark key="]" line="21" column="37" />
@@ -863,6 +881,11 @@
         <mark key="]" line="2" column="16" />
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/BuildingCoating.php" timestamp="1542805120106">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/code/coach-frontend/components/TabOverview.vue" timestamp="1511172201810">
         <mark key="'" line="2" column="72" />
@@ -989,9 +1012,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="26" filename="$USER_HOME$/code/coach-frontend/pages/_lang/clients/index.vue" />
-      <jump line="27" column="83" filename="$USER_HOME$/code/coach-frontend/pages/_lang/clients/index.vue" />
-      <jump line="44" column="27" filename="$USER_HOME$/code/coach-frontend/store/actions.js" />
       <jump line="51" column="34" filename="$USER_HOME$/code/coach-frontend/store/actions.js" />
       <jump line="22" column="41" filename="$USER_HOME$/code/coach-frontend/store/actions.js" />
       <jump line="90" column="5" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
@@ -1089,43 +1109,46 @@
       <jump line="31" column="56" filename="$USER_HOME$/Projects/vetclass/app/Http/Middleware/SetupAccount.php" />
       <jump line="35" column="56" filename="$USER_HOME$/Projects/vetclass/app/Http/Middleware/SetupAccount.php" />
       <jump line="33" column="0" filename="$USER_HOME$/Projects/finish-building/app/Providers/NovaServiceProvider.php" />
+      <jump line="58" column="4" filename="$USER_HOME$/Projects/finish-building/app/Providers/NovaServiceProvider.php" />
+      <jump line="57" column="53" filename="$USER_HOME$/Projects/finish-building/app/Nova/Product.php" />
+      <jump line="105" column="0" filename="$USER_HOME$/Projects/finish-building/app/Nova/Product.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIC0+cmVzb2x2ZVVzaW5nKGZ1bmN0aW9uICgkcHJpY2UpIHsKICAgICAgICAgICAgICAgIC8vICAgICByZXR1cm4gJHByaWNlIC8gMTAwOwogICAgICAgICAgICAgICAgLy8gfSkK</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>{{ field.value }}</text>
       </register>
       <register name="/" type="4">
-        <text>tool</text>
+        <text>field</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEJ1aWxkaW5nKAogICAgICAgICAgICAkdGhpcy0+d2lkdGgsCiAgICAgICAgICAgICR0aGlzLT5sZW5ndGgsCiAgICAgICAgICAgICR0aGlzLT5ndXR0ZXJfaGVpZ2h0LAogICAgICAgICAgICAkdGhpcy0+cm9vZl9hbmdsZSwKICAgICAgICAgICAgJHRoaXMtPndhbGxfcGxhdGluZywKICAgICAgICAgICAgJHRoaXMtPnJvb2ZfcGxhdGluZywKICAgICAgICAgICAgJHRoaXMtPmNvYXRpbmcKICAgICAgICApOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KS0+Y2FuU2VlKGZ1bmN0aW9uICgkcmVxdWVzdCkgewogICAgICAgICAgICAgICAgcmV0dXJuICRyZQogICAgICAgICAgICB9KSw=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIC0+cmVzb2x2ZVVzaW5nKGZ1bmN0aW9uICgkcHJpY2UpIHsKICAgICAgICAgICAgICAgIC8vICAgICByZXR1cm4gJHByaWNlIC8gMTAwOwogICAgICAgICAgICAgICAgLy8gfSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+      <register name="2" type="4">
+        <text encoding="base64">KS0+Y2FuU2VlKGZ1bmN0aW9uICgkcmVxdWVzdCkgewogICAgICAgICAgICAgICAgcmV0dXJuICRyZQogICAgICAgICAgICB9KSw=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHZhbGlkYXRvci0+ZmFpbHMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcXVlc3QtPmFsbCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHZhbGlkYXRvci0+ZmFpbHMoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcXVlc3QtPmFsbCgpKTsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IAogICAgICAgICAgICA=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIEB0b2RvIGZpbmQgc29sdXRpb24gZm9yIGFjY2Vzc29ycyBhbmQgbXV0YXRvcnMgbm90IHdvcmtpbmcgcHJvcGVseSBpbiBOb3ZhCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1144,19 +1167,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5hdHRyaWJ1dGVzWydwcmljZSddIC8gMTAwOwo=</text>
+        <text encoding="base64">ICAgIC8vIEB0b2RvIGZpbmQgc29sdXRpb24gZm9yIGFjY2Vzc29ycyBhbmQgbXV0YXRvcnMgbm90IHdvcmtpbmcgcHJvcGVseSBpbiBOb3ZhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5hdHRyaWJ1dGVzWydwcmljZSddIC8gMTAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywvJ10s</text>
       </register>
     </registers>
     <search>
-      <last-search>tool</last-search>
+      <last-search>field</last-search>
       <last-offset />
-      <last-pattern>tool</last-pattern>
+      <last-pattern>field</last-pattern>
       <last-replace>'],</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1164,8 +1187,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Le</entry>
-        <entry>Dak</entry>
         <entry>snal</entry>
         <entry>cl</entry>
         <entry>wid</entry>
@@ -1184,6 +1205,8 @@
         <entry>step</entry>
         <entry>7</entry>
         <entry>tool</entry>
+        <entry>fields</entry>
+        <entry>field</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RleHQvbm8=</entry>
