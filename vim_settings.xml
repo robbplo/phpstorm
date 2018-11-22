@@ -793,11 +793,12 @@
         <mark key="." line="32" column="68" />
         <mark key="^" line="31" column="93" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" timestamp="1542880286095">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="23" />
-        <mark key="^" line="3" column="23" />
-        <mark key="." line="3" column="23" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" timestamp="1542884176545">
+        <mark key="'" line="109" column="39" />
+        <mark key="[" line="100" column="45" />
+        <mark key="]" line="100" column="44" />
+        <mark key="." line="100" column="44" />
+        <mark key="^" line="100" column="44" />
       </file>
       <file name="$USER_HOME$/code/s3test/.env" timestamp="1512477350036">
         <mark key="[" line="22" column="21" />
@@ -1012,16 +1013,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="34" filename="$USER_HOME$/code/coach-frontend/store/actions.js" />
-      <jump line="22" column="41" filename="$USER_HOME$/code/coach-frontend/store/actions.js" />
-      <jump line="90" column="5" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="8" column="58" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="9" column="39" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="10" column="47" filename="$USER_HOME$/code/coach-frontend/components/CustomerList.vue" />
-      <jump line="82" column="21" filename="$USER_HOME$/code/vesca/api/V1/Postalcode/Http/Controllers/PostalcodeLookupController.php" />
-      <jump line="19" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/Flashings.php" />
-      <jump line="18" column="11" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/Flashings.php" />
-      <jump line="38" column="4" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/Flashings.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/storage/logs/laravel-2018-11-21.log" />
       <jump line="60" column="16" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/Flashings.php" />
       <jump line="70" column="16" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/Flashings.php" />
@@ -1112,43 +1103,61 @@
       <jump line="58" column="4" filename="$USER_HOME$/Projects/finish-building/app/Providers/NovaServiceProvider.php" />
       <jump line="57" column="53" filename="$USER_HOME$/Projects/finish-building/app/Nova/Product.php" />
       <jump line="105" column="0" filename="$USER_HOME$/Projects/finish-building/app/Nova/Product.php" />
+      <jump line="7" column="15" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
+      <jump line="25" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
+      <jump line="16" column="41" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
+      <jump line="14" column="27" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
+      <jump line="8" column="41" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
+      <jump line="6" column="27" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
+      <jump line="4" column="37" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
+      <jump line="23" column="40" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
+      <jump line="26" column="75" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
+      <jump line="96" column="39" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIC0+cmVzb2x2ZVVzaW5nKGZ1bmN0aW9uICgkcHJpY2UpIHsKICAgICAgICAgICAgICAgIC8vICAgICByZXR1cm4gJHByaWNlIC8gMTAwOwogICAgICAgICAgICAgICAgLy8gfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocHJldmlvdXMuY291bnQgPD0gc2NhbGUuY291bnQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgY291bnRFcnJvciA9ICdIZXQgYWFudGFsIG1vZXQgZ3JvdGVyIHppam4gZGFuIGRlIHZvb3JnYWFuZGUgc3RhZmZlbCcKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{{ field.value }}</text>
+        <text>'kut</text>
       </register>
       <register name="/" type="4">
-        <text>field</text>
+        <text>scales</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEJ1aWxkaW5nKAogICAgICAgICAgICAkdGhpcy0+d2lkdGgsCiAgICAgICAgICAgICR0aGlzLT5sZW5ndGgsCiAgICAgICAgICAgICR0aGlzLT5ndXR0ZXJfaGVpZ2h0LAogICAgICAgICAgICAkdGhpcy0+cm9vZl9hbmdsZSwKICAgICAgICAgICAgJHRoaXMtPndhbGxfcGxhdGluZywKICAgICAgICAgICAgJHRoaXMtPnJvb2ZfcGxhdGluZywKICAgICAgICAgICAgJHRoaXMtPmNvYXRpbmcKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JzOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb3VudDogbnVsbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaWNlOiBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIC0+cmVzb2x2ZVVzaW5nKGZ1bmN0aW9uICgkcHJpY2UpIHsKICAgICAgICAgICAgICAgIC8vICAgICByZXR1cm4gJHByaWNlIC8gMTAwOwogICAgICAgICAgICAgICAgLy8gfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocHJldmlvdXMuY291bnQgPD0gc2NhbGUuY291bnQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgY291bnRFcnJvciA9ICdIZXQgYWFudGFsIG1vZXQgZ3JvdGVyIHppam4gZGFuIGRlIHZvb3JnYWFuZGUgc3RhZmZlbCcKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">KS0+Y2FuU2VlKGZ1bmN0aW9uICgkcmVxdWVzdCkgewogICAgICAgICAgICAgICAgcmV0dXJuICRyZQogICAgICAgICAgICB9KSw=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhzY2FsZSk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+      <register name="3" type="4">
+        <text>,
+                    {
+                        count: 50,
+                        price: 1,
+                        errors: {
+                            count: null,
+                            price: null,
+                        },
+                    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHZhbGlkYXRvci0+ZmFpbHMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JzOiBudWxsLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcXVlc3QtPmFsbCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnV0dG8K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IAogICAgICAgICAgICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1167,19 +1176,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIEB0b2RvIGZpbmQgc29sdXRpb24gZm9yIGFjY2Vzc29ycyBhbmQgbXV0YXRvcnMgbm90IHdvcmtpbmcgcHJvcGVseSBpbiBOb3ZhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5hdHRyaWJ1dGVzWydwcmljZSddIC8gMTAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgdi12YWxpZGF0ZT0iJ3JlcXVpcmVkJyIK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywvJ10s</text>
       </register>
     </registers>
     <search>
-      <last-search>field</last-search>
+      <last-search>scales</last-search>
       <last-offset />
-      <last-pattern>field</last-pattern>
+      <last-pattern>scales</last-pattern>
       <last-replace>'],</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1187,12 +1196,9 @@
     </search>
     <history>
       <history-search>
-        <entry>snal</entry>
-        <entry>cl</entry>
         <entry>wid</entry>
         <entry>gutt</entry>
         <entry>120</entry>
-        <entry>for</entry>
         <entry>p</entry>
         <entry encoding="base64">LT4uKiw=</entry>
         <entry encoding="base64">LT4=</entry>
@@ -1207,6 +1213,9 @@
         <entry>tool</entry>
         <entry>fields</entry>
         <entry>field</entry>
+        <entry>for</entry>
+        <entry>splice</entry>
+        <entry>scales</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RleHQvbm8=</entry>
