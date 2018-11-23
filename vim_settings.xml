@@ -92,6 +92,13 @@
         <mark key="^" line="30" column="13" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" timestamp="1542983250883">
+        <mark key="'" line="607" column="0" />
+        <mark key="[" line="544" column="43" />
+        <mark key="]" line="544" column="43" />
+        <mark key="." line="544" column="43" />
+        <mark key="^" line="481" column="106" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Building.php" timestamp="1542962543834">
         <mark key="[" line="29" column="4" />
         <mark key="]" line="29" column="4" />
@@ -181,8 +188,10 @@
         <mark key="." line="18" column="20" />
         <mark key="^" line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/amsterdambeautiful/data/2784675.xml" timestamp="1542981327319">
+      <file name="$USER_HOME$/Projects/amsterdambeautiful/data/2784675.xml" timestamp="1542982376465">
         <mark key="'" line="825" column="0" />
+        <mark key="[" line="788" column="28" />
+        <mark key="]" line="788" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" timestamp="1542892880402">
         <mark key="'" line="44" column="30" />
@@ -219,24 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="37" filename="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" />
-      <jump line="7" column="0" filename="$USER_HOME$/Projects/finish-building/app/Offer.php" />
-      <jump line="13" column="20" filename="$USER_HOME$/Projects/finish-building/domain/Products/Flashing.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/Flashing.php" />
-      <jump line="0" column="1" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/Fasteners.php" />
-      <jump line="66" column="49" filename="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" />
-      <jump line="122" column="7" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Building.php" />
-      <jump line="55" column="20" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Building.php" />
-      <jump line="79" column="4" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
-      <jump line="147" column="22" filename="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" />
-      <jump line="15" column="4" filename="$USER_HOME$/Projects/finish-building/app/Offer.php" />
-      <jump line="16" column="24" filename="$USER_HOME$/Projects/finish-building/app/Offer.php" />
-      <jump line="22" column="24" filename="$USER_HOME$/Projects/finish-building/app/Offer.php" />
-      <jump line="0" column="4" filename="$USER_HOME$/Projects/finish-building/app/Offer.php" />
-      <jump line="2" column="12" filename="$USER_HOME$/Projects/finish-building/app/Offer.php" />
-      <jump line="9" column="4" filename="$USER_HOME$/Projects/finish-building/app/Offer.php" />
-      <jump line="21" column="24" filename="$USER_HOME$/Projects/finish-building/app/Offer.php" />
-      <jump line="14" column="4" filename="$USER_HOME$/Projects/finish-building/app/Offer.php" />
       <jump line="148" column="20" filename="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" />
       <jump line="154" column="31" filename="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" />
       <jump line="163" column="13" filename="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" />
@@ -319,43 +310,61 @@
       <jump line="25" column="109" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2784675.xml" />
       <jump line="34" column="109" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2784675.xml" />
       <jump line="825" column="0" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2784675.xml" />
+      <jump line="55" column="62" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
+      <jump line="428" column="41" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
+      <jump line="602" column="0" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
+      <jump line="18" column="31" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
+      <jump line="547" column="7" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
+      <jump line="603" column="0" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
+      <jump line="546" column="8" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
+      <jump line="476" column="119" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
+      <jump line="544" column="49" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
+      <jump line="542" column="33" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
+      <jump line="52" column="56" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
+      <jump line="426" column="36" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
+      <jump line="427" column="85" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
+      <jump line="425" column="0" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
+      <jump line="481" column="106" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
+      <jump line="607" column="0" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkc21hbGxCdWlsZGluZyA9IG5ldyBCdWlsZGluZyg0MDAwLCA2MDAwLCAzMDAwLCAyMCwgNDAsIDQwLCBCdWlsZGluZ0NvYXRpbmc6OlBPTFlFU1RFUik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>avai</text>
+        <text>strto</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3dpZHRoJyA9PiAxMDAwMCwKICAgICAgICAgICAgJ2xlbmd0aCcgPT4gMTgwMDAsCiAgICAgICAgICAgICdndXR0ZXJfaGVpZ2h0JyA9PiA1MDAwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RhdGVfZnJvbScgPT4gKHN0cmluZykgZGF0ZSgnWS1tLWQnLCBzdHJ0b3RpbWUoKHN0cmluZykgJHJlc291cmNlLT5PZmZlci0+QWNjZXB0YW5jZURhdGUpKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkc21hbGxCdWlsZGluZyA9IG5ldyBCdWlsZGluZyg0MDAwLCA2MDAwLCAzMDAwLCAyMCwgNDAsIDQwLCBCdWlsZGluZ0NvYXRpbmc6OlBPTFlFU1RFUik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RhdGVfZnJvbScgPT4gKHN0cmluZykgZGF0ZSgnWS1tLWQnLCBzdHJ0b3RpbWUoKHN0cmluZykgJHJlc291cmNlLT5PZmZlci0+QWNjZXB0YW5jZURhdGUpKSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBkYXRlKCdZLW0tZCcsIHN0cnRvdGltZSgoc3RyaW5nKSRyZXNvdXJjZS0+T2ZmZXItPkF2YWlsYWJsZUZyb21EYXRlKSkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkYmlnQnVpbGRpbmcgPSBuZXcgQnVpbGRpbmcoMTAwMDAsIDE4MDAwLCA1MDAwLCAyMCwgNDAsIDQwLCBCdWlsZGluZ0NvYXRpbmc6OlBPTFlFU1RFUik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZGF0ZSA9IG5ldyBEYXRlVGltZSgnMjAxOC0xMi0zMVQyMzowMDowMCcsIG5ldyBEYXRlVGltZVpvbmUoJ1VUQycpKTsKICAgICAgICAkZGF0ZS0+c2V0VGltZXpvbmUobmV3IERhdGVUaW1lWm9uZSgnRXVyb3BlL0Ftc3RlcmRhbScpKTsKICAgICAgICBkaWUoJGRhdGUtPmZvcm1hdCgncicpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkc21hbGxCdWlsZGluZyA9ICR0aGlzLT5nZXRTbWFsbEJ1aWxkaW5nKCktPnNldFJvb2ZBbmdsZSgyMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRlX2RlZmF1bHRfdGltZXpvbmVfc2V0KCdFdXJvcGUvRHVibGluJyk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LT51cGRhdGUoWwogICAgICAgICAgICAKICAgICAgICBdKS0+Z2V0QnVpbGRpbmcoKTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRlX2RlZmF1bHRfdGltZXpvbmVfc2V0KCdFdXJvcGUvQW1zdGVyZGFtJyk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIC8vIHB1YmxpYyBmdW5jdGlvbiB0ZXN0X3Byb2R1Y3RfZ2V0c19wcmljZV9mcm9tX2RhdGFiYXNlKCkKICAgIC8vIHsKICAgIC8vICAgICAkcHJvZHVjdCA9IFByb2R1Y3Q6OmZpbmRPckZhaWwoMSk7CiAgICAvLyAgICAgJGRvbWFpblByb2R1Y3QgPSAgbmV3IERvbWFpblByb2R1Y3QoJHByb2R1Y3QtPmlkKTsKICAgIC8vCiAgICAvLyAgICAgJHRoaXMtPmFzc2VydEVxdWFscygkcHJvZHVjdC0+cHJpY2UsICRkb21haW5Qcm9kdWN0LT5nZXRQcmljZSgpKTsKICAgIC8vIH0KICAgIC8vCiAgICAvLyBwdWJsaWMgZnVuY3Rpb24gdGVzdF9wcm9kdWN0X2NhbGN1bGF0ZXNfdG90YWxfcHJpY2UoKQogICAgLy8gewogICAgLy8gICAgICRwcm9kdWN0ID0gZmFjdG9yeShQcm9kdWN0OjpjbGFzcyktPmNyZWF0ZSgpOwogICAgLy8gICAgICRkb21haW5Qcm9kdWN0ID0gIG5ldyBEb21haW5Qcm9kdWN0KCRwcm9kdWN0LT5pZCwgMTUpOwogICAgLy8gICAgICR0b3RhbFByaWNlID0gJHByb2R1Y3QtPnByaWNlICogMTU7CiAgICAvLwogICAgLy8gICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoJHRvdGFsUHJpY2UsICRkb21haW5Qcm9kdWN0LT5nZXRUb3RhbFByaWNlKCkpOwogICAgLy8gfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRlX2RlZmF1bHRfdGltZXpvbmVfc2V0KCdFdXJvcGUvQW1zdGVyZGFtJyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -385,32 +394,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gT2ZmZXI6OmNyZWF0ZShbCiAgICAgICAgICAgICd3aWR0aCcgPT4gMTAwMDAsCiAgICAgICAgICAgICdsZW5ndGgnID0+IDE4MDAwLAogICAgICAgICAgICAnZ3V0dGVyX2hlaWdodCcgPT4gNTAwMCwKICAgICAgICAgICAgJ3Jvb2ZfYW5nbGUnID0+IDI1LAogICAgICAgICAgICAnd2FsbF9wbGF0aW5nJyA9PiA0MCwKICAgICAgICAgICAgJ3Jvb2ZfcGxhdGluZycgPT4gNDAsCiAgICAgICAgICAgICdjb2F0aW5nJyA9PiBCdWlsZGluZ0NvYXRpbmc6OlBPTFlFU1RFUiwKICAgICAgICBdKS0+Z2V0QnVpbGRpbmcoKTsK</text>
+        <text encoding="base64">ICAgICAgICBkYXRlX2RlZmF1bHRfdGltZXpvbmVfc2V0KCdFdXJvcGUvQW1zdGVyZGFtJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3NtYWxsL2JpZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>avai</last-search>
+      <last-search>strto</last-search>
       <last-offset />
-      <last-pattern>avai</last-pattern>
+      <last-pattern>strto</last-pattern>
       <last-replace>big</last-replace>
       <last-substitute>small</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>field</entry>
-        <entry>for</entry>
-        <entry>splice</entry>
-        <entry>scales</entry>
-        <entry>getFlashing</entry>
-        <entry>getp</entry>
         <entry>getPr</entry>
         <entry>new</entry>
         <entry>new P</entry>
@@ -425,6 +428,12 @@
         <entry>1</entry>
         <entry>jan</entry>
         <entry>avai</entry>
+        <entry>dte</entry>
+        <entry>format</entry>
+        <entry>date)</entry>
+        <entry>date</entry>
+        <entry>date(</entry>
+        <entry>strto</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NpdHkvcG9zdGNvZGU=</entry>
