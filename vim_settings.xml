@@ -207,16 +207,15 @@
         <mark key="." line="32" column="10" />
         <mark key="^" line="32" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" timestamp="1542977946996">
-        <mark key="[" line="15" column="26" />
-        <mark key="]" line="15" column="44" />
-        <mark key="^" line="15" column="44" />
-        <mark key="." line="15" column="44" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" timestamp="1542989527960">
+        <mark key="'" line="20" column="33" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="43" />
+        <mark key="^" line="15" column="41" />
+        <mark key="." line="26" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="6" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
-      <jump line="683" column="0" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
       <jump line="508" column="20" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
       <jump line="598" column="36" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
       <jump line="172" column="44" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
@@ -315,43 +314,45 @@
       <jump line="831" column="13" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2770445.xml" />
       <jump line="163" column="30" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
       <jump line="653" column="71" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2794241.xml" />
+      <jump line="13" column="66" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
+      <jump line="19" column="33" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Furnishing in concert</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgQGJsdXI9InZhbGlkYXRlIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>Furnishing in concert</text>
+        <text>price</text>
       </register>
       <register name="/" type="4">
-        <text>Inte</text>
+        <text>price</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnRlVSTklUVVJFX09QVElPTkFMJyA9PiAnTWV1YmlsZXJpbmcgaW4gb3ZlcmxlZycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgQGJsdXI9InZhbGlkYXRlIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnRlVSTklUVVJFX09QVElPTkFMJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgOmNsYXNzPSJlcnJvckNsYXNzZXMiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnRlVSTklUVVJFX09QVElPTkFMJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">ago=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RhdGVfZnJvbScgPT4gKHN0cmluZykgZGF0ZSgnWS1tLWQnLCBzdHJ0b3RpbWUoKHN0cmluZykgJHJlc291cmNlLT5PZmZlci0+QWNjZXB0YW5jZURhdGUpKSwK</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkYXRlKCdZLW0tZCcsIHN0cnRvdGltZSgoc3RyaW5nKSRyZXNvdXJjZS0+T2ZmZXItPkF2YWlsYWJsZUZyb21EYXRlKSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RhdGVfZnJvbScgPT4gKHN0cmluZykgZGF0ZSgnWS1tLWQnLCBzdHJ0b3RpbWUoKHN0cmluZykgJHJlc291cmNlLT5PZmZlci0+QWNjZXB0YW5jZURhdGUpKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBkYXRlKCdZLW0tZCcsIHN0cnRvdGltZSgoc3RyaW5nKSRyZXNvdXJjZS0+T2ZmZXItPkF2YWlsYWJsZUZyb21EYXRlKSkKCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -381,19 +382,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0ZSA9IG5ldyBEYXRlVGltZSgnMjAxOC0xMi0zMVQyMzowMDowMCcsIG5ldyBEYXRlVGltZVpvbmUoJ1VUQycpKTsKICAgICAgICAkZGF0ZS0+c2V0VGltZXpvbmUobmV3IERhdGVUaW1lWm9uZSgnRXVyb3BlL0Ftc3RlcmRhbScpKTsKICAgICAgICBkaWUoJGRhdGUtPmZvcm1hdCgncicpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRlX2RlZmF1bHRfdGltZXpvbmVfc2V0KCdFdXJvcGUvRHVibGluJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZGF0ZSA9IG5ldyBEYXRlVGltZSgnMjAxOC0xMi0zMVQyMzowMDowMCcsIG5ldyBEYXRlVGltZVpvbmUoJ1VUQycpKTsKICAgICAgICAkZGF0ZS0+c2V0VGltZXpvbmUobmV3IERhdGVUaW1lWm9uZSgnRXVyb3BlL0Ftc3RlcmRhbScpKTsKICAgICAgICBkaWUoJGRhdGUtPmZvcm1hdCgncicpKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3NtYWxsL2JpZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>Inte</last-search>
+      <last-search>price</last-search>
       <last-offset />
-      <last-pattern>Inte</last-pattern>
+      <last-pattern>price</last-pattern>
       <last-replace>big</last-replace>
       <last-substitute>small</last-substitute>
       <last-dir>1</last-dir>
@@ -401,7 +402,6 @@
     </search>
     <history>
       <history-search>
-        <entry>;</entry>
         <entry>setRoof</entry>
         <entry>small</entry>
         <entry>park</entry>
@@ -421,6 +421,7 @@
         <entry>furn</entry>
         <entry>Furn</entry>
         <entry>Inte</entry>
+        <entry>price</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NpdHkvcG9zdGNvZGU=</entry>
