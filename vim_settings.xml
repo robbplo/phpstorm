@@ -92,7 +92,6 @@
         <mark key="^" line="30" column="13" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/amsterdambeautiful/data/2794241.xml" timestamp="1542971574330" />
       <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Building.php" timestamp="1542962543834">
         <mark key="[" line="29" column="4" />
         <mark key="]" line="29" column="4" />
@@ -182,7 +181,9 @@
         <mark key="." line="18" column="20" />
         <mark key="^" line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/amsterdambeautiful/data/2784675.xml" timestamp="1542965985635" />
+      <file name="$USER_HOME$/Projects/amsterdambeautiful/data/2784675.xml" timestamp="1542981327319">
+        <mark key="'" line="825" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" timestamp="1542892880402">
         <mark key="'" line="44" column="30" />
         <mark key="[" line="44" column="0" />
@@ -218,20 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="8" filename="$USER_HOME$/Projects/finish-building/app/Enums/BuildingCoating.php" />
-      <jump line="20" column="73" filename="$USER_HOME$/Projects/finish-building/routes/api.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/tests/Unit/SectionTest.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/tests/Unit/ElementTest.php" />
-      <jump line="22" column="45" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/BuildingCoating.php" />
-      <jump line="102" column="19" filename="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/config/app.php" />
-      <jump line="11" column="16" filename="$USER_HOME$/Projects/finish-building/config/app.php" />
-      <jump line="54" column="36" filename="$USER_HOME$/Projects/finish-building/config/app.php" />
-      <jump line="74" column="52" filename="$USER_HOME$/Projects/finish-building/config/app.php" />
-      <jump line="76" column="20" filename="$USER_HOME$/Projects/finish-building/config/app.php" />
-      <jump line="47" column="30" filename="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" />
-      <jump line="83" column="37" filename="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" />
-      <jump line="49" column="8" filename="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" />
       <jump line="50" column="37" filename="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/finish-building/app/Offer.php" />
       <jump line="13" column="20" filename="$USER_HOME$/Projects/finish-building/domain/Products/Flashing.php" />
@@ -318,6 +305,20 @@
       <jump line="3" column="12" filename="$USER_HOME$/Projects/finish-building/database/factories/OfferFactory.php" />
       <jump line="37" column="36" filename="$USER_HOME$/Projects/finish-building/tests/Unit/SectionTest.php" />
       <jump line="39" column="8" filename="$USER_HOME$/Projects/finish-building/tests/Unit/SectionTest.php" />
+      <jump line="710" column="90" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2784675.xml" />
+      <jump line="711" column="29" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2784675.xml" />
+      <jump line="715" column="31" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2784675.xml" />
+      <jump line="716" column="31" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2784675.xml" />
+      <jump line="732" column="80" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2784675.xml" />
+      <jump line="733" column="70" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2784675.xml" />
+      <jump line="734" column="78" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2784675.xml" />
+      <jump line="736" column="44" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2784675.xml" />
+      <jump line="743" column="27" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2784675.xml" />
+      <jump line="18" column="109" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2784675.xml" />
+      <jump line="21" column="109" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2784675.xml" />
+      <jump line="25" column="109" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2784675.xml" />
+      <jump line="34" column="109" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2784675.xml" />
+      <jump line="825" column="0" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2784675.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -327,7 +328,7 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>errorcl</text>
+        <text>avai</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3dpZHRoJyA9PiAxMDAwMCwKICAgICAgICAgICAgJ2xlbmd0aCcgPT4gMTgwMDAsCiAgICAgICAgICAgICdndXR0ZXJfaGVpZ2h0JyA9PiA1MDAwLAo=</text>
@@ -394,9 +395,9 @@
       </register>
     </registers>
     <search>
-      <last-search>errorcl</last-search>
+      <last-search>avai</last-search>
       <last-offset />
-      <last-pattern>errorcl</last-pattern>
+      <last-pattern>avai</last-pattern>
       <last-replace>big</last-replace>
       <last-substitute>small</last-substitute>
       <last-dir>1</last-dir>
@@ -404,9 +405,6 @@
     </search>
     <history>
       <history-search>
-        <entry>7</entry>
-        <entry>tool</entry>
-        <entry>fields</entry>
         <entry>field</entry>
         <entry>for</entry>
         <entry>splice</entry>
@@ -424,6 +422,9 @@
         <entry>Park</entry>
         <entry>accep</entry>
         <entry>errorcl</entry>
+        <entry>1</entry>
+        <entry>jan</entry>
+        <entry>avai</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NpdHkvcG9zdGNvZGU=</entry>
