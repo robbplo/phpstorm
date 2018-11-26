@@ -185,7 +185,12 @@
         <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/accreditation/app/Console/Commands/SendErrorsReport.php" timestamp="1543220332190" />
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/routes/api.php" timestamp="1543227423787" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/routes/api.php" timestamp="1543237626860">
+        <mark key="[" line="17" column="6" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="16" column="17" />
+        <mark key="^" line="16" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Nova/Product.php" timestamp="1542991804442">
         <mark key="'" line="109" column="0" />
         <mark key="[" line="60" column="37" />
@@ -219,12 +224,12 @@
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" timestamp="1543236293338">
-        <mark key="'" line="64" column="43" />
-        <mark key="[" line="20" column="22" />
-        <mark key="]" line="20" column="21" />
-        <mark key="." line="20" column="21" />
-        <mark key="^" line="20" column="21" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" timestamp="1543238684750">
+        <mark key="'" line="138" column="28" />
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
+        <mark key="^" line="138" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/amsterdambeautiful/locales/en.php" timestamp="1542986063585">
         <mark key="[" line="22" column="33" />
@@ -248,8 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="12" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/WallPlating.php" />
-      <jump line="11" column="6" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/RoofPlating.php" />
       <jump line="6" column="6" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/FinishGutter.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/FinishGutter.php" />
       <jump line="85" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/FinishGutter.php" />
@@ -348,43 +351,45 @@
       <jump line="44" column="27" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="61" column="43" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="66" column="33" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
+      <jump line="134" column="30" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="138" column="28" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c21hbGw+PC9zbWFsbD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygneWUnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>callback</text>
+        <text>return debounce(</text>
       </register>
       <register name="/" type="4">
-        <text>v</text>
+        <text>ye</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ3LTEvNCBweS02IHB4LTgiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iYmxvY2sgdXBwZXJjYXNlIHRyYWNraW5nLXdpZGUgdGV4dC1ncmV5LWRhcmtlciB0ZXh0LXhzIGZvbnQtYm9sZCBtYi0yIgogICAgICAgICAgICAgICAgICAgICAgICAgICBmb3I9InJvb2ZfYW5nbGUiPgogICAgICAgICAgICAgICAgICAgICAgICBEYWtoZWxsaW5nCiAgICAgICAgICAgICAgICAgICAgPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8aW5wdXQgaWQ9InJvb2ZfYW5nbGUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHYtbW9kZWw9ImZvcm0ucm9vZl9hbmdsZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZT0ibnVtYmVyIgogICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iMjXCuiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9InctZnVsbCBmb3JtLWNvbnRyb2wgZm9ybS1pbnB1dCBmb3JtLWlucHV0LWJvcmRlcmVkIgogICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c21hbGw+PC9zbWFsbD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygneWUnKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aWR0aAo=</text>
+        <text encoding="base64">ZAogICAgaQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBtb3VudGVkICgpIHsKICAgICAgICAgICAgCiAgICAgICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGlvbnM6IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgID0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAidnVlbGlkYXRlIjogIjAuNy40Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJvdW5jZSh0aGlzLmdldFByaWNlKCksIDEwMDApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucHJpY2VMb2FkaW5nID0gdHJ1ZTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -414,19 +419,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJkZXBlbmRlbmNpZXMiOiB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAidnVlbGlkYXRlIjogIjAuNy40Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbGlkYXRpb25zOiB7CiAgICAgICAgICAgICAgICAgICAgZm9ybTogewogICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLy4vIA==</text>
       </register>
     </registers>
     <search>
-      <last-search>v</last-search>
+      <last-search>ye</last-search>
       <last-offset />
-      <last-pattern>v</last-pattern>
+      <last-pattern>ye</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>.</last-substitute>
       <last-dir>1</last-dir>
@@ -434,8 +439,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pre</entry>
-        <entry>Name</entry>
         <entry>at</entry>
         <entry>pref</entry>
         <entry>HCP</entry>
@@ -454,6 +457,8 @@
         <entry>hei</entry>
         <entry>type</entry>
         <entry>v</entry>
+        <entry>data</entry>
+        <entry>ye</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1dvb25wbGFhdHMvUG9zdGNvZGU=</entry>
