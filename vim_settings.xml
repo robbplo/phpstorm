@@ -84,11 +84,12 @@
         <mark key="^" line="34" column="29" />
         <mark key="." line="34" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Product.php" timestamp="1542873757478">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="30" column="13" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Product.php" timestamp="1542992436602">
+        <mark key="'" line="11" column="14" />
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+        <mark key="." line="11" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/amsterdambeautiful/data/2794241.xml" timestamp="1542986162658">
         <mark key="'" line="653" column="71" />
@@ -149,6 +150,9 @@
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/database/seeds/products.json" timestamp="1542992515516">
+        <mark key="'" line="845" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Providers/NovaServiceProvider.php" timestamp="1542879950023">
         <mark key="'" line="58" column="4" />
         <mark key="[" line="68" column="11" />
@@ -167,9 +171,9 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Nova/Product.php" timestamp="1542880233569">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="60" column="38" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Nova/Product.php" timestamp="1542991804442">
+        <mark key="'" line="109" column="0" />
+        <mark key="[" line="60" column="37" />
         <mark key="]" line="60" column="35" />
         <mark key="." line="60" column="35" />
         <mark key="^" line="60" column="35" />
@@ -185,6 +189,13 @@
         <mark key="[" line="788" column="28" />
         <mark key="]" line="788" column="46" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/database/seeds/ProductSeeder.php" timestamp="1542992582549">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="17" />
+        <mark key="." line="22" column="17" />
+        <mark key="^" line="22" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Offer.php" timestamp="1542894369881">
         <mark key="'" line="38" column="25" />
         <mark key="[" line="17" column="5" />
@@ -198,6 +209,13 @@
         <mark key="." line="22" column="33" />
         <mark key="^" line="22" column="53" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/database/migrations/2018_11_06_112543_create_products_table.php" timestamp="1542992093900">
+        <mark key="'" line="18" column="23" />
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+        <mark key="^" line="18" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/tests/Unit/SectionTest.php" timestamp="1542961199261">
         <mark key="'" line="43" column="8" />
         <mark key="[" line="32" column="11" />
@@ -206,27 +224,15 @@
         <mark key="." line="32" column="10" />
         <mark key="^" line="32" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" timestamp="1542990139224">
-        <mark key="'" line="20" column="33" />
-        <mark key="[" line="92" column="34" />
-        <mark key="]" line="92" column="33" />
-        <mark key="^" line="92" column="33" />
-        <mark key="." line="92" column="33" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" timestamp="1542992295763">
+        <mark key="'" line="127" column="0" />
+        <mark key="[" line="91" column="51" />
+        <mark key="]" line="91" column="49" />
+        <mark key="^" line="91" column="49" />
+        <mark key="." line="91" column="49" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="508" column="20" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
-      <jump line="598" column="36" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
-      <jump line="172" column="44" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
-      <jump line="177" column="54" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
-      <jump line="328" column="17" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
-      <jump line="335" column="17" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
-      <jump line="348" column="54" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
-      <jump line="473" column="45" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
-      <jump line="475" column="20" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/vetclass/app/Http/Middleware/SetupAccount.php" />
-      <jump line="38" column="25" filename="$USER_HOME$/Projects/vetclass/app/Http/Middleware/SetupAccount.php" />
-      <jump line="45" column="60" filename="$USER_HOME$/Projects/vetclass/app/Http/Middleware/SetupAccount.php" />
       <jump line="50" column="56" filename="$USER_HOME$/Projects/vetclass/app/Http/Middleware/SetupAccount.php" />
       <jump line="65" column="56" filename="$USER_HOME$/Projects/vetclass/app/Http/Middleware/SetupAccount.php" />
       <jump line="69" column="56" filename="$USER_HOME$/Projects/vetclass/app/Http/Middleware/SetupAccount.php" />
@@ -315,13 +321,25 @@
       <jump line="653" column="71" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2794241.xml" />
       <jump line="13" column="66" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
       <jump line="19" column="33" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
+      <jump line="88" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
+      <jump line="128" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
+      <jump line="18" column="23" filename="$USER_HOME$/Projects/finish-building/database/migrations/2018_11_06_112543_create_products_table.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/finish-building/app/Product.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/database/seeds/ProductSeeder.php" />
+      <jump line="63" column="0" filename="$USER_HOME$/Projects/finish-building/database/seeds/ProductSeeder.php" />
+      <jump line="35" column="31" filename="$USER_HOME$/Projects/finish-building/app/Product.php" />
+      <jump line="51" column="0" filename="$USER_HOME$/Projects/finish-building/app/Product.php" />
+      <jump line="11" column="14" filename="$USER_HOME$/Projects/finish-building/app/Product.php" />
+      <jump line="841" column="6" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
+      <jump line="845" column="0" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>new</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text encoding="base64">aXRlbS0+cHJpY2VzLA==</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
@@ -330,28 +348,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgQGJsdXI9InZhbGlkYXRlIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NjYWxlcycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgOmNsYXNzPSJlcnJvckNsYXNzZXMiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjb3VudCcgPT4gMCwKICAgICAgICAgICAgICAgICdwcmljZScgPT4gJGl0ZW0tPnByaWNlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnRlVSTklUVVJFX09QVElPTkFMJwo=</text>
+        <text encoding="base64">ICAgICAgICAkcHJpY2VzID0gJHRpdGVtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ago=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3NjYWxlcycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RhdGVfZnJvbScgPT4gKHN0cmluZykgZGF0ZSgnWS1tLWQnLCBzdHJ0b3RpbWUoKHN0cmluZykgJHJlc291cmNlLT5PZmZlci0+QWNjZXB0YW5jZURhdGUpKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgOmNsYXNzPSJlcnJvckNsYXNzZXMiCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -381,21 +399,21 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkYXRlKCdZLW0tZCcsIHN0cnRvdGltZSgoc3RyaW5nKSRyZXNvdXJjZS0+T2ZmZXItPkF2YWlsYWJsZUZyb21EYXRlKSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAnRlVSTklUVVJFX09QVElPTkFMJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3NtYWxsL2JpZw==</text>
+        <text encoding="base64">JzwsJz5zL3ByaWNlL3ByaWNlcw==</text>
       </register>
     </registers>
     <search>
       <last-search>price</last-search>
       <last-offset />
       <last-pattern>price</last-pattern>
-      <last-replace>big</last-replace>
-      <last-substitute>small</last-substitute>
+      <last-replace>prices</last-replace>
+      <last-substitute>price</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -423,7 +441,6 @@
         <entry>price</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2NpdHkvcG9zdGNvZGU=</entry>
         <entry encoding="base64">JzwsJz5zL2Zyb20vZm9ybQ==</entry>
         <entry encoding="base64">JzwsJz5zL0FjaHRlcm5hYW0vRW1haWw=</entry>
         <entry encoding="base64">JzwsJz5zL0VtYWlsL0FkcmVz</entry>
@@ -443,6 +460,7 @@
         <entry encoding="base64">JzwsJz5zL25ldyBQcm9kdWN0LyR0aGlzLT5tYWtlUHJvZHVjdA==</entry>
         <entry encoding="base64">JzwsJz5zLzsvLA==</entry>
         <entry encoding="base64">JzwsJz5zL3NtYWxsL2JpZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3ByaWNlL3ByaWNlcw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
