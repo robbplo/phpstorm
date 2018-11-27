@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingCoating.php" timestamp="1542795093501">
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="22" column="26" />
-        <mark key="^" line="22" column="26" />
-        <mark key="." line="22" column="26" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Enums/ProductUnit.php" timestamp="1543313682427" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingCoating.php" timestamp="1543313737135">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="15" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" timestamp="1542793510462">
         <mark key="'" line="0" column="0" />
@@ -29,11 +30,17 @@
         <mark key="." line="22" column="34" />
         <mark key="^" line="22" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/tests/TestCase.php" timestamp="1542896848392">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="27" column="36" />
-        <mark key="^" line="25" column="11" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Projects/finish-building/tests/TestCase.php" timestamp="1543315144454">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="19" column="36" />
+        <mark key="." line="19" column="31" />
+        <mark key="^" line="19" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" timestamp="1542985711863">
+        <mark key="'" line="163" column="30" />
+        <mark key="[" line="379" column="24" />
+        <mark key="]" line="378" column="0" />
+        <mark key="." line="378" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/accreditation/resources/views/partials/accreditations_index.blade.php" timestamp="1543219400884">
         <mark key="'" line="9" column="32" />
@@ -91,24 +98,26 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/ProductList.php" timestamp="1543226329102">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/accreditation/app/Console/Commands/SendErrorsReport.php" timestamp="1543220332190" />
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/routes/api.php" timestamp="1543237626860">
-        <mark key="[" line="17" column="6" />
-        <mark key="]" line="16" column="17" />
-        <mark key="." line="16" column="17" />
-        <mark key="^" line="16" column="17" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/routes/api.php" timestamp="1543314496395">
+        <mark key="'" line="37" column="21" />
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="8" />
+        <mark key="." line="26" column="8" />
+        <mark key="^" line="26" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" timestamp="1543307406388">
-        <mark key="'" line="7" column="15" />
-        <mark key="[" line="36" column="22" />
-        <mark key="]" line="36" column="22" />
-        <mark key="." line="36" column="22" />
-        <mark key="^" line="36" column="22" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/NumberInput.vue" timestamp="1543311218812">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" timestamp="1543314931545">
+        <mark key="'" line="144" column="43" />
+        <mark key="[" line="156" column="40" />
+        <mark key="]" line="156" column="40" />
+        <mark key="." line="156" column="40" />
+        <mark key="^" line="151" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/views/navigation.blade.php" timestamp="1543229527223">
         <mark key="[" line="7" column="13" />
@@ -129,9 +138,9 @@
         <mark key="." line="102" column="0" />
         <mark key="^" line="35" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Observers/OfferObserver.php" timestamp="1543225514888">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Observers/OfferObserver.php" timestamp="1543313902542">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="18" column="44" />
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
@@ -155,7 +164,7 @@
         <mark key="^" line="11" column="14" />
         <mark key="." line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Building.php" timestamp="1542962543834">
+      <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Building.php" timestamp="1543314022755">
         <mark key="[" line="29" column="4" />
         <mark key="]" line="29" column="4" />
         <mark key="." line="29" column="4" />
@@ -186,6 +195,12 @@
         <mark key="]" line="14" column="27" />
         <mark key="^" line="14" column="27" />
         <mark key="." line="14" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/database/seeds/products.json" timestamp="1543315040940">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="481" column="6" />
+        <mark key="]" line="482" column="0" />
+        <mark key="." line="482" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/accreditation/resources/views/emails/accreditation_error_report.blade.php" timestamp="1543220873666">
         <mark key="'" line="19" column="75" />
@@ -220,12 +235,21 @@
         <mark key="." line="22" column="17" />
         <mark key="^" line="22" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/infrastructure/ProductCache.php" timestamp="1543313817956">
+        <mark key="'" line="25" column="46" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Offer.php" timestamp="1542894369881">
         <mark key="'" line="38" column="25" />
         <mark key="[" line="17" column="5" />
         <mark key="]" line="18" column="3" />
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingPlating.php" timestamp="1543314607676">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="19" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/amsterdambeautiful/locales/en.php" timestamp="1542986063585">
         <mark key="[" line="22" column="33" />
@@ -240,6 +264,14 @@
         <mark key="." line="18" column="31" />
         <mark key="^" line="18" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/tests/Unit/SectionTest.php" timestamp="1543315146940">
+        <mark key="'" line="46" column="8" />
+        <mark key="[" line="31" column="0" />
+        <mark key="m" line="52" column="0" />
+        <mark key="]" line="33" column="36" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="35" column="10" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" timestamp="1543229348305">
         <mark key="'" line="66" column="33" />
         <mark key="[" line="67" column="37" />
@@ -247,52 +279,14 @@
         <mark key="." line="67" column="38" />
         <mark key="^" line="99" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferField.vue" timestamp="1543307426030">
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="29" column="7" />
-        <mark key="." line="29" column="7" />
-        <mark key="^" line="29" column="7" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferField.vue" timestamp="1543309694306">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="42" column="8" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="31" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
-      <jump line="547" column="7" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
-      <jump line="16" column="0" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
-      <jump line="603" column="0" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
-      <jump line="546" column="8" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
-      <jump line="476" column="119" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
-      <jump line="544" column="49" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
-      <jump line="542" column="33" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
-      <jump line="52" column="56" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
-      <jump line="426" column="36" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
-      <jump line="427" column="85" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
-      <jump line="425" column="0" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
-      <jump line="481" column="106" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
-      <jump line="607" column="0" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/amsterdambeautiful/locales/nl.php" />
-      <jump line="831" column="13" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2770445.xml" />
-      <jump line="163" column="30" filename="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" />
-      <jump line="653" column="71" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2794241.xml" />
-      <jump line="13" column="66" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
-      <jump line="19" column="33" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
-      <jump line="88" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
-      <jump line="128" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
-      <jump line="18" column="23" filename="$USER_HOME$/Projects/finish-building/database/migrations/2018_11_06_112543_create_products_table.php" />
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/finish-building/app/Product.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/database/seeds/ProductSeeder.php" />
-      <jump line="63" column="0" filename="$USER_HOME$/Projects/finish-building/database/seeds/ProductSeeder.php" />
-      <jump line="35" column="31" filename="$USER_HOME$/Projects/finish-building/app/Product.php" />
-      <jump line="51" column="0" filename="$USER_HOME$/Projects/finish-building/app/Product.php" />
-      <jump line="11" column="14" filename="$USER_HOME$/Projects/finish-building/app/Product.php" />
-      <jump line="841" column="6" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
-      <jump line="845" column="0" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/accreditation/database/seeds/LocalAccreditationSeeder.php" />
-      <jump line="79" column="0" filename="$USER_HOME$/Projects/accreditation/database/seeds/LocalAccreditationSeeder.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/accreditation/database/seeds/LocalAccreditationSeeder.php" />
-      <jump line="75" column="21" filename="$USER_HOME$/Projects/accreditation/database/seeds/LocalAccreditationSeeder.php" />
-      <jump line="52" column="8" filename="$USER_HOME$/Projects/accreditation/resources/views/emails/accreditation_error_report.blade.php" />
       <jump line="36" column="46" filename="$USER_HOME$/Projects/accreditation/resources/views/partials/accreditations_index.blade.php" />
       <jump line="9" column="32" filename="$USER_HOME$/Projects/accreditation/resources/views/partials/accreditations_index.blade.php" />
       <jump line="28" column="24" filename="$USER_HOME$/Projects/accreditation/resources/views/pages/accreditations/index-open.blade.php" />
@@ -302,41 +296,30 @@
       <jump line="124" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
       <jump line="6" column="6" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/Flashings.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/finish-building/app/Providers/NovaServiceProvider.php" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="81" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
-      <jump line="9" column="25" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
-      <jump line="16" column="34" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
-      <jump line="28" column="33" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
-      <jump line="36" column="26" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
-      <jump line="49" column="19" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="13" column="38" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
-      <jump line="20" column="81" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="32" column="81" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="37" column="38" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="15" column="36" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="60" column="30" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="43" column="47" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
-      <jump line="44" column="27" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="66" column="33" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
       <jump line="134" column="30" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="138" column="28" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="149" column="7" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/tool.js" />
-      <jump line="158" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="145" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="18" column="36" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="35" column="36" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="48" column="36" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
-      <jump line="54" column="41" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="64" column="36" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="67" column="41" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="77" column="36" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="79" column="41" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="111" column="16" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="125" column="33" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
-      <jump line="22" column="39" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="38" column="55" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="21" column="66" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="17" column="46" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
@@ -352,46 +335,95 @@
       <jump line="165" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="104" column="42" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="24" column="46" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
-      <jump line="102" column="16" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
-      <jump line="25" column="27" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="7" column="15" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="36" column="21" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="40" column="22" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="131" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="37" column="21" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/NumberInput.vue" />
+      <jump line="38" column="16" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/NumberInput.vue" />
+      <jump line="40" column="16" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/NumberInput.vue" />
+      <jump line="41" column="23" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/NumberInput.vue" />
+      <jump line="1" column="17" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/NumberInput.vue" />
+      <jump line="19" column="30" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/NumberInput.vue" />
+      <jump line="32" column="28" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/NumberInput.vue" />
+      <jump line="43" column="19" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/NumberInput.vue" />
+      <jump line="50" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/NumberInput.vue" />
+      <jump line="39" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/NumberInput.vue" />
+      <jump line="28" column="15" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="20" column="26" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="16" column="27" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="27" column="33" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="115" column="7" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="112" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="90" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="54" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="49" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="46" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="44" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="25" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="52" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="51" column="21" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="73" column="21" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="75" column="21" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="95" column="21" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="11" column="27" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="22" column="65" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="33" column="27" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="55" column="27" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="102" column="46" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="182" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="158" column="15" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="5" column="19" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="113" column="21" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="133" column="21" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="168" column="21" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="163" column="24" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="25" column="46" filename="$USER_HOME$/Projects/finish-building/infrastructure/ProductCache.php" />
+      <jump line="13" column="27" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/routes/api.php" />
+      <jump line="33" column="15" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/routes/api.php" />
+      <jump line="2" column="8" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/routes/api.php" />
+      <jump line="36" column="21" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/routes/api.php" />
+      <jump line="144" column="43" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3dpZHRoJyA9PiA0MDAwLAogICAgICAgICAgICAnbGVuZ3RoJyA9PiA2MDAwLAogICAgICAgICAgICAnZ3V0dGVyX2hlaWdodCcgPT4gMzAwMCwK</text>
       </register>
       <register name="-" type="4">
-        <text>|step:1000</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>OfferField</text>
+        <text>zet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wcmljZUxvYWRpbmcgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3dpZHRoJyA9PiA0MDAwLAogICAgICAgICAgICAnbGVuZ3RoJyA9PiA2MDAwLAogICAgICAgICAgICAnZ3V0dGVyX2hlaWdodCcgPT4gMzAwMCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgdi1mb3I9ImZpZWxkIGluIGZvcm0iIDpjbGFzcz0iZmllbGQuY29udGFpbmVyIj4KICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImJsb2NrIHVwcGVyY2FzZSB0cmFja2luZy13aWRlIHRleHQtZ3JleS1kYXJrZXIgdGV4dC14cyBmb250LWJvbGQgbWItMiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgOmZvcj0iZmllbGQubmFtZSI+CiAgICAgICAgICAgICAgICAgICAgICAgIHt7IGZpZWxkLmRpc3BsYXlOYW1lIH19CiAgICAgICAgICAgICAgICAgICAgPC9sYWJlbD4KCiAgICAgICAgICAgICAgICAgICAgPGlucHV0IDppZD0iZmllbGQubmFtZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgOm5hbWU9ImZpZWxkLm5hbWUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgIDpkYXRhLXZ2LWFzPSJmaWVsZC5kaXNwbGF5TmFtZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgdi1tb2RlbD0ibW9kZWxbZmllbGQubmFtZV0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgIDp0eXBlPSJmaWVsZC50eXBlIgogICAgICAgICAgICAgICAgICAgICAgICAgICA6cGxhY2Vob2xkZXI9ImZpZWxkLnBsYWNlaG9sZGVyIgogICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0idy1mdWxsIGZvcm0tY29udHJvbCBmb3JtLWlucHV0IGZvcm0taW5wdXQtYm9yZGVyZWQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgIDpjbGFzcz0idnZFcnJvcnMuaGFzKGZpZWxkLm5hbWUpID8gJ2JvcmRlci1kYW5nZXInIDogJyciCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHYtdmFsaWRhdGU9ImZpZWxkLnJ1bGVzIgogICAgICAgICAgICAgICAgICAgID4KCiAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9InRleHQtZGFuZ2VyIG15LTEiPgogICAgICAgICAgICAgICAgICAgICAgICB7eyB2dkVycm9ycy5maXJzdChmaWVsZC5uYW1lKSB9fQogICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgInVuaXQiOiAxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgInByaWNlIjogMSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLiR2YWxpZGF0b3IudmFsaWRhdGVBbGwoKS50aGVuKHJlc3VsdCA9PiB7CiAgICAgICAgICAgICAgICAgICAgaWYgKCFyZXN1bHQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wcmljZSA9IG51bGw7CiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMucHJpY2VMb2FkaW5nID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgIm5hbWUiOiAiT3B6ZXRzdHVrIHNhbmR3aWNocGFuZWVsIC0gMSBtbSBTViIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnByaWNlTG9hZGluZyA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgImlkIjogMTAyLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgImlkIjogNzksCiAgICAgICJuYW1lIjogIk9WSEQgbGlua3MgLSBQb2x5ZXN0ZXIgY29hdGluZyIsCiAgICAgICJwcmljZSI6IDEsCiAgICAgICJ1bml0IjogMQogICAgfSwKICAgIHsKICAgICAgImlkIjogODAsCiAgICAgICJuYW1lIjogIk9WSEQgbGlua3MgLSBIUFMyMDAgVWx0cmEgY29hdGluZyIsCiAgICAgICJwcmljZSI6IDEsCiAgICAgICJ1bml0IjogMQogICAgfSwKICAgIHsKICAgICAgImlkIjogODEsCiAgICAgICJuYW1lIjogIk9WSEQgcmVjaHRzIC0gUG9seWVzdGVyIGNvYXRpbmciLAogICAgICAicHJpY2UiOiAxLAogICAgICAidW5pdCI6IDEKICAgIH0sCiAgICB7CiAgICAgICJpZCI6IDgyLAogICAgICAibmFtZSI6ICJPVkhEIHJlY2h0cyAtIEhQUzIwMCBVbHRyYSBjb2F0aW5nIiwKICAgICAgInByaWNlIjogMSwKICAgICAgInVuaXQiOiAxCiAgICB9LAogICAgewogICAgICAiaWQiOiA4MywKICAgICAgIm5hbWUiOiAiT1ZIRCBsZWtkb3JwZWwgLSBQb2x5ZXN0ZXIgY29hdGluZyIsCiAgICAgICJwcmljZSI6IDEsCiAgICAgICJ1bml0IjogMQogICAgfSwKICAgIHsKICAgICAgImlkIjogODQsCiAgICAgICJuYW1lIjogIk9WSEQgbGVrZG9ycGVsIC0gSFBTMjAwIFVsdHJhIGNvYXRpbmciLAogICAgICAicHJpY2UiOiAxLAogICAgICAidW5pdCI6IDEKICAgIH0sCiAgICB7CiAgICAgICJpZCI6IDg1LAogICAgICAibmFtZSI6ICJPVkhEIGJvdmVuemlqZGUgLSBQb2x5ZXN0ZXIgY29hdGluZyIsCiAgICAgICJwcmljZSI6IDEsCiAgICAgICJ1bml0IjogMQogICAgfSwKICAgIHsKICAgICAgImlkIjogODYsCiAgICAgICJuYW1lIjogIk9WSEQgYm92ZW56aWpkZSAtIEhQUzIwMCBVbHRyYSBjb2F0aW5nIiwKICAgICAgInByaWNlIjogMSwKICAgICAgInVuaXQiOiAxCiAgICB9LAogICAgewogICAgICAiaWQiOiA4NywKICAgICAgIm5hbWUiOiAiR29vdHN0dWsgLSBQb2x5ZXN0ZXIgY29hdGluZyIsCiAgICAgICJwcmljZSI6IDEsCiAgICAgICJ1bml0IjogMQogICAgfSwKICAgIHsKICAgICAgImlkIjogODgsCiAgICAgICJuYW1lIjogIkdvb3RzdHVrIC0gSFBTMjAwIFVsdHJhIGNvYXRpbmciLAogICAgICAicHJpY2UiOiAxLAogICAgICAidW5pdCI6IDEKICAgIH0sCiAgICB7CiAgICAgICJpZCI6IDg5LAogICAgICAibmFtZSI6ICJCdWl0ZW5ob2VrIC0gUG9seWVzdGVyIGNvYXRpbmciLAogICAgICAicHJpY2UiOiAxLAogICAgICAidW5pdCI6IDEKICAgIH0sCiAgICB7CiAgICAgICJpZCI6IDkwLAogICAgICAibmFtZSI6ICJCdWl0ZW5ob2VrIC0gSFBTMjAwIFVsdHJhIGNvYXRpbmciLAogICAgICAicHJpY2UiOiAxLAogICAgICAidW5pdCI6IDEKICAgIH0sCiAgICB7CiAgICAgICJpZCI6IDkxLAogICAgICAibmFtZSI6ICJXaW5kdmVlciAtIFBvbHllc3RlciBjb2F0aW5nIiwKICAgICAgInByaWNlIjogMSwKICAgICAgInVuaXQiOiAxCiAgICB9LAogICAgewogICAgICAiaWQiOiA5MiwKICAgICAgIm5hbWUiOiAiV2luZHZlZXIgLSBIUFMyMDAgVWx0cmEgY29hdGluZyIsCiAgICAgICJwcmljZSI6IDEsCiAgICAgICJ1bml0IjogMQogICAgfSwKICAgIHsKICAgICAgImlkIjogOTMsCiAgICAgICJuYW1lIjogIk5va3N0dWsgYmlubmVuIC0gUG9seWVzdGVyIGNvYXRpbmciLAogICAgICAicHJpY2UiOiAxLAogICAgICAidW5pdCI6IDEKICAgIH0sCiAgICB7CiAgICAgICJpZCI6IDk0LAogICAgICAibmFtZSI6ICJOb2tzdHVrIGJpbm5lbiAtIEhQUzIwMCBVbHRyYSBjb2F0aW5nIiwKICAgICAgInByaWNlIjogMSwKICAgICAgInVuaXQiOiAxCiAgICB9LAogICAgewogICAgICAiaWQiOiA5NSwKICAgICAgIm5hbWUiOiAiTm9rc3R1ayBidWl0ZW4gLSBQb2x5ZXN0ZXIgY29hdGluZyIsCiAgICAgICJwcmljZSI6IDEsCiAgICAgICJ1bml0IjogMQogICAgfSwKICAgIHsKICAgICAgImlkIjogOTYsCiAgICAgICJuYW1lIjogIk5va3N0dWsgYnVpdGVuIC0gSFBTMjAwIFVsdHJhIGNvYXRpbmciLAogICAgICAicHJpY2UiOiAxLAogICAgICAidW5pdCI6IDEKICAgIH0sCiAgICB7CiAgICAgICJpZCI6IDk3LAogICAgICAibmFtZSI6ICJOb2tzdHVrIGJ1aXRlbiAtIEhQUzIwMCBVbHRyYSBjb2F0aW5nIiwKICAgICAgInByaWNlIjogMSwKICAgICAgInVuaXQiOiAxCiAgICB9LAogICAgewogICAgICAiaWQiOiA5OCwKICAgICAgIm5hbWUiOiAiRHJlbXBlbCBsb29wZGV1ciAtIDEsNTAgbW0gU1YiLAogICAgICAicHJpY2UiOiAxLAogICAgICAidW5pdCI6IDEKICAgIH0sCiAgICB7CiAgICAgICJpZCI6IDk5LAogICAgICAibmFtZSI6ICJEcmVtcGVsIGxvb3BkZXVyIC0gMSw1MCBtbSBTViIsCiAgICAgICJwcmljZSI6IDEsCiAgICAgICJ1bml0IjogMQogICAgfSwKICAgIHsKICAgICAgImlkIjogMTAwLAogICAgICAibmFtZSI6ICJMb29wZGV1ciB6ZXR3ZXJrIC0gUG9seWVzdGVyIGNvYXRpbmciLAogICAgICAicHJpY2UiOiAxLAogICAgICAidW5pdCI6IDEKICAgIH0sCiAgICB7CiAgICAgICJpZCI6IDEwMSwKICAgICAgIm5hbWUiOiAiTG9vcGRldXIgemV0d2VyayAtIFBvbHllc3RlciBjb2F0aW5nIiwKICAgICAgInByaWNlIjogMSwKICAgICAgInVuaXQiOiAxCiAgICB9LAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -421,61 +453,48 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmRlYm91bmNlZEdldFByaWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQmVjb2F0aW5nCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">YXhpb3MuZ2V0KCcvbm92YS12ZW5kb3Ivb2ZmZXItbWFuYWdlci9wcmljZScsIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhcmFtczogdGhpcy5tb2RlbAogICAgICAgICAgICAgICAgICAgICAgICB9KS50aGVuKHJlc3BvbnNlID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMucHJpY2UgPSByZXNwb25zZS5kYXRhOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wcmljZUxvYWRpbmcgPSBmYWxzZTsKICAgICAgICAgICAgICAgICAgICAgICAgfSk7</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8vIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZGlzcGxheSgkdmFsdWUpCiAgICAvLyB7CiAgICAvLyAgICAgc3dpdGNoICgkdmFsdWUpIHsKICAgIC8vICAgICAgICAgY2FzZSAxOgogICAgLy8gICAgICAgICAgICAgcmV0dXJuICdQb2x5ZXN0ZXInOwogICAgLy8gICAgICAgICBjYXNlIDI6CiAgICAvLyAgICAgICAgICAgICByZXR1cm4gJ1BsYXN0aXNvbCc7CiAgICAvLyAgICAgICAgIGNhc2UgMzoKICAgIC8vICAgICAgICAgICAgIHJldHVybiAnSFBTMjAwIHVsdHJhJzsKICAgIC8vICAgICAgICAgZGVmYXVsdDoKICAgIC8vICAgICAgICAgICAgIHJldHVybiAnTi9BJzsKICAgIC8vICAgICB9CiAgICAvLyB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/OfferField/offer-field/g</text>
+        <text encoding="base64">JzwsJz5zL0JlcGxhdGluZy9Db2F0aW5n</text>
       </register>
     </registers>
     <search>
-      <last-search>OfferField</last-search>
+      <last-search>zet</last-search>
       <last-offset />
-      <last-pattern>OfferField</last-pattern>
-      <last-replace>offer-field</last-replace>
-      <last-substitute>OfferField</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern>zet</last-pattern>
+      <last-replace>Coating</last-replace>
+      <last-substitute>Beplating</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>3</entry>
-        <entry>gut</entry>
-        <entry>.</entry>
-        <entry encoding="base64">IA==</entry>
-        <entry>text</entry>
-        <entry>hei</entry>
-        <entry>type</entry>
-        <entry>v</entry>
-        <entry>data</entry>
-        <entry>ye</entry>
-        <entry>$v</entry>
-        <entry>ar</entry>
-        <entry>model</entry>
-        <entry>form</entry>
-        <entry>form:</entry>
-        <entry>25</entry>
-        <entry>py</entry>
-        <entry>model-</entry>
+        <entry>field</entry>
         <entry>vv</entry>
-        <entry>OfferField</entry>
+        <entry>dis</entry>
+        <entry>name</entry>
+        <entry>40</entry>
+        <entry>width</entry>
+        <entry>Breedte</entry>
+        <entry>for</entry>
+        <entry>:for</entry>
+        <entry>div</entry>
+        <entry>roof_angle</entry>
+        <entry>Dakhelling</entry>
+        <entry>plating</entry>
+        <entry>Beplating</entry>
+        <entry>1</entry>
+        <entry>Pro</entry>
+        <entry>gut</entry>
+        <entry>1000</entry>
+        <entry>boc</entry>
+        <entry>zet</entry>
       </history-search>
       <history-cmd>
-        <entry>s/name/coating/g</entry>
-        <entry encoding="base64">JzwsJz5zLy0+LiosL1snLionXQ==</entry>
-        <entry encoding="base64">JzwsJz5zLy0+LiosL1snJ10=</entry>
-        <entry encoding="base64">JzwsJz5zLy0+L1sn</entry>
-        <entry encoding="base64">JzwsJz5zLywvJ10s</entry>
-        <entry encoding="base64">JzwsJz5zL2dldEZsYXNoaW5nL21ha2VGbGFzaGluZw==</entry>
-        <entry>s/new P/asdf</entry>
-        <entry encoding="base64">JzwsJz5zL25ldyBQcm9kdWN0LyR0aGlzLT5tYWtlUHJvZHVjdA==</entry>
-        <entry encoding="base64">JzwsJz5zLzsvLA==</entry>
-        <entry encoding="base64">JzwsJz5zL3NtYWxsL2JpZw==</entry>
-        <entry encoding="base64">JzwsJz5zL3ByaWNlL3ByaWNlcw==</entry>
-        <entry encoding="base64">JzwsJz5zLzMvNA==</entry>
-        <entry encoding="base64">JzwsJz5zLyAvXHI=</entry>
         <entry encoding="base64">JzwsJz5zLyAvXHIvZw==</entry>
         <entry encoding="base64">JzwsJz5zLy4vIA==</entry>
         <entry>s/ar/nl/g</entry>
@@ -483,6 +502,19 @@
         <entry encoding="base64">JzwsJz5zL2Zvcm0vbW9kZWw=</entry>
         <entry encoding="base64">JzwsJz5zL3B5L215</entry>
         <entry>s/OfferField/offer-field/g</entry>
+        <entry encoding="base64">JzwsJz5zL3dpZHRoL2xlbmd0aC9n</entry>
+        <entry encoding="base64">JzwsJz5zL0JyZWVkdGUvTGVuZ3Rl</entry>
+        <entry encoding="base64">JzwsJz5zL3dpZHRoL2d1dHRlcl9oZWlnaHQ=</entry>
+        <entry encoding="base64">JzwsJz5zL0JyZWVkdGUvR29vdGhvb2d0ZQ==</entry>
+        <entry encoding="base64">JzwsJz5zL3dpZHRoL3Jvb2ZfYW5nbGU=</entry>
+        <entry encoding="base64">JzwsJz5zL0JyZWVkdGUvRGFraGVsbGluZw==</entry>
+        <entry>s/div/p/g</entry>
+        <entry encoding="base64">JzwsJz5zL3Jvb2ZfYW5nbGUvaXNvbGF0ZWQvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0Rha2hlbGxpbmcvR2Vpc29sZWVyZA==</entry>
+        <entry encoding="base64">JzwsJz5zL3Jvb2ZfYW5nbGUvcGxhdGluZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0Rha2hlbGxpbmcvQmVwbGF0aW5n</entry>
+        <entry encoding="base64">JzwsJz5zL3BsYXRpbmcvY29hdGluZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0JlcGxhdGluZy9Db2F0aW5n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
