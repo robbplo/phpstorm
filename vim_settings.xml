@@ -15,10 +15,10 @@
         <mark key="." line="9" column="52" />
         <mark key="^" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/tests/TestCase.php" timestamp="1543315144454">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="19" column="36" />
-        <mark key="." line="19" column="31" />
+      <file name="$USER_HOME$/Projects/finish-building/tests/TestCase.php" timestamp="1543394597257">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
         <mark key="^" line="19" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" timestamp="1542985711863">
@@ -39,12 +39,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/tool.js" timestamp="1543392959422">
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/tool.js" timestamp="1543394555736">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="10" />
-        <mark key="]" line="29" column="9" />
-        <mark key="." line="29" column="9" />
-        <mark key="^" line="29" column="9" />
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+        <mark key="^" line="14" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/routes/api.php" timestamp="1543391718041">
         <mark key="'" line="27" column="21" />
@@ -90,11 +90,19 @@
         <mark key="." line="102" column="0" />
         <mark key="^" line="35" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Observers/OfferObserver.php" timestamp="1543329575551">
-        <mark key="[" line="11" column="44" />
-        <mark key="]" line="11" column="44" />
-        <mark key="." line="11" column="44" />
-        <mark key="^" line="11" column="44" />
+      <file name="$USER_HOME$/Projects/finish-building/storage/logs/laravel-2018-11-28.log" timestamp="1543395451855">
+        <mark key="'" line="475" column="130" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/app/Observers/OfferObserver.php" timestamp="1543395663224">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/routes/api.php" timestamp="1543395679775">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1543392261460">
         <mark key="'" line="63" column="79" />
@@ -141,11 +149,10 @@
         <mark key="." line="60" column="35" />
         <mark key="^" line="60" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/database/factories/OfferFactory.php" timestamp="1543225152936">
-        <mark key="[" line="21" column="59" />
-        <mark key="]" line="21" column="58" />
-        <mark key="." line="21" column="58" />
-        <mark key="^" line="21" column="58" />
+      <file name="$USER_HOME$/Projects/finish-building/database/factories/OfferFactory.php" timestamp="1543395710611">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" timestamp="1543226268853">
         <mark key="[" line="23" column="30" />
@@ -155,6 +162,13 @@
       </file>
       <file name="$USER_HOME$/Projects/finish-building/infrastructure/ProductCache.php" timestamp="1543313817956">
         <mark key="'" line="25" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/app/Offer.php" timestamp="1543394947337">
+        <mark key="'" line="38" column="25" />
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="43" column="26" />
+        <mark key="." line="43" column="26" />
+        <mark key="^" line="18" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/infrastructure/PriceList.php" timestamp="1543391849918">
         <mark key="[" line="12" column="13" />
@@ -195,10 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="38" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
-      <jump line="15" column="36" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
-      <jump line="60" column="30" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
-      <jump line="43" column="47" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="66" column="33" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
       <jump line="134" column="30" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="138" column="28" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
@@ -295,43 +305,47 @@
       <jump line="63" column="79" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="91" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
       <jump line="94" column="33" filename="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" />
+      <jump line="35" column="25" filename="$USER_HOME$/Projects/finish-building/routes/api.php" />
+      <jump line="3" column="13" filename="$USER_HOME$/Projects/finish-building/routes/api.php" />
+      <jump line="36" column="8" filename="$USER_HOME$/Projects/finish-building/routes/api.php" />
+      <jump line="475" column="130" filename="$USER_HOME$/Projects/finish-building/storage/logs/laravel-2018-11-28.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzcGFuIGNsYXNzPSJzaWRlYmFyLWxhYmVsIj4KICAgICAgICBhZHNmYXNkCiAgICA8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAnYWRkcmVzcycgPT4gJGZha2VyLT5uYW1lLAogICAgICAgICdwcm9qZWN0X2FkZHJlc3MnID0+ICRmYWtlci0+bmFtZSwK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>pricelist</text>
       </register>
       <register name="/" type="4">
-        <text>25</text>
+        <text>cre</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5tb2RlbC5ndXR0ZXJfaGVpZ2h0ID09PSBudWxsIHx8Cg==</text>
+        <text encoding="base64">ICAgICAgICAkb2ZmZXIgPSBmYWN0b3J5KE9mZmVyOjpjbGFzcyktPmNyZWF0ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzcGFuIGNsYXNzPSJzaWRlYmFyLWxhYmVsIj4KICAgICAgICBhZHNmYXNkCiAgICA8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAnYWRkcmVzcycgPT4gJGZha2VyLT5uYW1lLAogICAgICAgICdwcm9qZWN0X2FkZHJlc3MnID0+ICRmYWtlci0+bmFtZSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBPZmZlciBNYW5hZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkb2ZmZXItPnByaWNlcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCB7IGRlZXBDbG9uZSB9IGZyb20gJ2xvZGFzaCcK</text>
+        <text encoding="base64">ICAgICAgICAvLyAkb2ZmZXIgPSBmYWN0b3J5KE9mZmVyOjpjbGFzcyktPm1ha2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc2NhbGVzLnB1c2goKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAvLyByZXR1cm4gJ+KCrDEyMzQsNTYnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJpY2VMaXN0Cg==</text>
+        <text encoding="base64">ICAgIGRkKCRmYWtlci0+YWRkcmVzcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRwcmljZUxpc3QgPSAKICAgICRkYXRhID0gJHJlcXVlc3QtPmFsbCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -361,19 +375,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJpY2VzID0gUHJvZHVjdDo6YWxsKCktPm1hcFdpdGhLZXlzKGZ1bmN0aW9uICgkcHJvZHVjdCkgewogICAgICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAgICAgJHByb2R1Y3QtPmlkID0+ICRwcm9kdWN0LT5wcmljZXMsCiAgICAgICAgICAgIF07CiAgICAgICAgfSktPnRvQXJyYXkoKTsKCiAgICAgICAgcmV0dXJuIGpzb25fZGVjb2RlKGpzb25fZW5jb2RlKCRwcmljZXMpLCB0cnVlKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGRkKCRmYWtlci0+YWRkcmVzcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ2FjaGU6OnJlbWVtYmVyKAo=</text>
+        <text encoding="base64">ZGQoXEluZnJhc3RydWN0dXJlXFByaWNlTGlzdDo6Z2V0KCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0JlcGxhdGluZy9Db2F0aW5n</text>
       </register>
     </registers>
     <search>
-      <last-search>25</last-search>
+      <last-search>cre</last-search>
       <last-offset />
-      <last-pattern>25</last-pattern>
+      <last-pattern>cre</last-pattern>
       <last-replace>Coating</last-replace>
       <last-substitute>Beplating</last-substitute>
       <last-dir>1</last-dir>
@@ -381,7 +395,6 @@
     </search>
     <history>
       <history-search>
-        <entry>40</entry>
         <entry>width</entry>
         <entry>Breedte</entry>
         <entry>for</entry>
@@ -401,6 +414,7 @@
         <entry>bet</entry>
         <entry>be</entry>
         <entry>25</entry>
+        <entry>cre</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyAvXHIvZw==</entry>
