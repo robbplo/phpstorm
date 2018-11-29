@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/finish-building/app/Providers/AppServiceProvider.php" timestamp="1543415805617">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Providers/AppServiceProvider.php" timestamp="1543481236920">
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="26" column="40" />
+        <mark key="." line="26" column="40" />
+        <mark key="^" line="26" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/tests/TestCase.php" timestamp="1543394597257">
         <mark key="[" line="21" column="0" />
@@ -25,9 +26,6 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova/src/Fields/Field.php" timestamp="1543409874160">
-        <mark key="'" line="339" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/tool.js" timestamp="1543396928956">
         <mark key="'" line="0" column="0" />
@@ -76,12 +74,12 @@
         <mark key="^" line="17" column="43" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" timestamp="1543392342775">
-        <mark key="'" line="152" column="15" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="46" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="35" column="14" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" timestamp="1543481293575">
+        <mark key="'" line="93" column="24" />
+        <mark key="[" line="199" column="16" />
+        <mark key="]" line="103" column="46" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="36" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/storage/logs/laravel-2018-11-28.log" timestamp="1543410202476">
         <mark key="[" line="0" column="0" />
@@ -167,16 +165,17 @@
       <file name="$USER_HOME$/Projects/finish-building/infrastructure/ProductCache.php" timestamp="1543313817956">
         <mark key="'" line="25" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Offer.php" timestamp="1543414570697">
-        <mark key="'" line="38" column="25" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Offer.php" timestamp="1543481285382">
+        <mark key="'" line="26" column="0" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/infrastructure/PriceList.php" timestamp="1543416049178">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Projects/finish-building/infrastructure/PriceList.php" timestamp="1543480966343">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="30" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/components/FormField.vue" timestamp="1543411052875">
         <mark key="'" line="23" column="40" />
@@ -187,8 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="26" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
-      <jump line="16" column="27" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="27" column="33" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="115" column="7" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
       <jump line="112" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" />
@@ -287,19 +284,21 @@
       <jump line="25" column="25" filename="$USER_HOME$/Projects/finish-building/routes/api.php" />
       <jump line="20" column="20" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Building.php" />
       <jump line="143" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Building.php" />
+      <jump line="26" column="0" filename="$USER_HOME$/Projects/finish-building/app/Offer.php" />
+      <jump line="92" column="24" filename="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>pri</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBmb3JtYXRQcmljZSgkcHJpY2UpCiAgICB7CiAgICAgICAgcmV0dXJuICfigqwgJyAuIG1vbmV5X2Zvcm1hdCgnJSFuJywgJHByaWNlKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGljOjpDQUNIRV9LRVksCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -308,22 +307,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJycsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CiAgICAgICAgLy8gZGQoanNvbl9lbmNvZGUoJHgpKTsKICAgICAgICByZXR1cm4gJHg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgZnVuY3Rpb24gZm9ybWF0UHJpY2UoJHByaWNlKQogICAgewo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ2FjaGU6OnJlbWVtYmVyKAogICAgICAgICAgICAncHJvZHVjdF9wcmljZWxpc3QnLAogICAgICAgICAgICA2MCwKICAgICAgICAgICAgZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -353,10 +352,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ2FjaGU6OnJlbWVtYmVyKAogICAgICAgICAgICAncHJvZHVjdF9wcmljZWxpc3QnLAogICAgICAgICAgICA2MCwKICAgICAgICAgICAgZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgZnVuY3Rpb24gZm9ybWF0UHJpY2UoJHByaWNlKQogICAgewo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ByaWNlL3ByaWNlTGlzdA==</text>
