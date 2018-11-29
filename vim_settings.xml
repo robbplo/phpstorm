@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/nustar-meldpunt/config/app.php" timestamp="1543500395289">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="14" column="14" />
+        <mark key="^" line="14" column="14" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Providers/AppServiceProvider.php" timestamp="1543481236920">
         <mark key="[" line="26" column="40" />
         <mark key="]" line="26" column="40" />
@@ -82,12 +88,6 @@
         <mark key="." line="28" column="38" />
         <mark key="^" line="28" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/Tool.vue" timestamp="1543494311095">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/finish-building/nova/src/Resource.php" timestamp="1543410077190">
         <mark key="'" line="335" column="0" />
       </file>
@@ -162,6 +162,12 @@
         <mark key="]" line="118" column="56" />
         <mark key="." line="118" column="56" />
         <mark key="^" line="118" column="56" />
+      </file>
+      <file name="$USER_HOME$/Projects/nustar-meldpunt/app/Notifications/AccountCreated.php" timestamp="1543500908257">
+        <mark key="[" line="48" column="34" />
+        <mark key="]" line="48" column="41" />
+        <mark key="." line="48" column="41" />
+        <mark key="^" line="48" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/sass/base.scss" timestamp="1543497642394">
         <mark key="[" line="5" column="60" />
@@ -264,6 +270,7 @@
         <mark key="^" line="62" column="33" />
         <mark key="." line="62" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/nustar-meldpunt/.env" timestamp="1543500998144" />
       <file name="$USER_HOME$/Projects/finish-building/infrastructure/PriceList.php" timestamp="1543480966343">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -407,10 +414,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>20px</text>
+        <text>'Nustar Meldpunt</text>
       </register>
       <register name="-" type="4">
-        <text>20px</text>
+        <text>'Nustar Meldpunt</text>
       </register>
       <register name="/" type="4">
         <text>png</text>
