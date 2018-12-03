@@ -47,7 +47,7 @@
         <mark key="." line="19308" column="3" />
         <mark key="^" line="19308" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/ResourceTableRow/resources/js/tool.js" timestamp="1543584631068">
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/ResourceTableRow/resources/js/tool.js" timestamp="1543824205949">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="3" />
         <mark key="." line="1" column="3" />
@@ -127,7 +127,7 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/ResourceTableRow/resources/js/components/Tool.vue" timestamp="1543582922546">
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/ResourceTableRow/resources/js/components/Tool.vue" timestamp="1543824223352">
         <mark key="'" line="92" column="36" />
         <mark key="[" line="75" column="28" />
         <mark key="]" line="75" column="28" />
@@ -146,11 +146,10 @@
         <mark key="." line="882" column="22" />
         <mark key="^" line="882" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/views/navigation.blade.php" timestamp="1543569163124">
-        <mark key="[" line="13" column="47" />
-        <mark key="]" line="13" column="46" />
-        <mark key="." line="13" column="46" />
-        <mark key="^" line="13" column="46" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/views/navigation.blade.php" timestamp="1543824013408">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Elements/FacadeElement.php" timestamp="1542874833263">
         <mark key="[" line="47" column="84" />
@@ -176,12 +175,6 @@
         <mark key="]" line="11" column="21" />
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/finish-building/routes/api.php" timestamp="1543570122028">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1543583555501">
         <mark key="'" line="129" column="30" />
@@ -431,8 +424,8 @@
       <jump line="91" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/ResourceTableRow/resources/js/components/CreateResourceButton.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxsaSBjbGFzcz0ibGVhZGluZy10aWdodCBtYi00IG1sLTggdGV4dC1zbSI+CiAgICAgICAgPHJvdXRlci1saW5rIGNsYXNzPSJ0ZXh0LXdoaXRlIHRleHQtanVzdGlmeSBuby11bmRlcmxpbmUgZGltIgogICAgICAgICAgICAgICAgICAgICA6dG89IntuYW1lOiAnb2ZmZXItZWRpdCcsIHBhcmFtczogeyBvZmZlcklkOiAxIH19IgogICAgICAgID4KICAgICAgICAgICAgRWRpdCBvZmZlcgogICAgICAgIDwvcm91dGVyLWxpbms+CiAgICA8L2xpPgo=</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -444,30 +437,30 @@
         <text encoding="base64">ICAgICAgICA8IS0tIENyZWF0ZSBSZWxhdGVkIE1vZGVscyAtLT4KICAgICAgICA8cm91dGVyLWxpbmsKICAgICAgICAgICAgdi1lbHNlLWlmPSJzaG91bGRTaG93Q3JlYXRlQnV0dG9uIgogICAgICAgICAgICB0YWc9ImJ1dHRvbiIKICAgICAgICAgICAgZHVzaz0iY3JlYXRlLWJ1dHRvbiIKICAgICAgICAgICAgOmNsYXNzPSJjbGFzc2VzIgogICAgICAgICAgICA6dG89InsKICAgICAgICAgICAgICAgIG5hbWU6ICdjcmVhdGUnLAogICAgICAgICAgICAgICAgcGFyYW1zOiB7CiAgICAgICAgICAgICAgICAgICAgcmVzb3VyY2VOYW1lOiByZXNvdXJjZU5hbWUKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBxdWVyeTogewogICAgICAgICAgICAgICAgICAgIHZpYVJlc291cmNlOiB2aWFSZXNvdXJjZSwKICAgICAgICAgICAgICAgICAgICB2aWFSZXNvdXJjZUlkOiB2aWFSZXNvdXJjZUlkLAogICAgICAgICAgICAgICAgICAgIHZpYVJlbGF0aW9uc2hpcDogdmlhUmVsYXRpb25zaGlwCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0iCiAgICAgICAgPgogICAgICAgICAgICB7eyBfXygnQ3JlYXRlJykgfX0ge3sgc2luZ3VsYXJOYW1lIH19CiAgICAgICAgPC9yb3V0ZXItbGluaz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIDxsaSBjbGFzcz0ibGVhZGluZy10aWdodCBtYi00IG1sLTggdGV4dC1zbSI+CiAgICAgICAgPHJvdXRlci1saW5rIGNsYXNzPSJ0ZXh0LXdoaXRlIHRleHQtanVzdGlmeSBuby11bmRlcmxpbmUgZGltIgogICAgICAgICAgICAgICAgICAgICA6dG89IntuYW1lOiAnb2ZmZXItZWRpdCcsIHBhcmFtczogeyBvZmZlcklkOiAxIH19IgogICAgICAgID4KICAgICAgICAgICAgRWRpdCBvZmZlcgogICAgICAgIDwvcm91dGVyLWxpbms+CiAgICA8L2xpPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>{
-            return</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgT2ZmZXJ0ZSBiZXdlcmtlbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgT2ZmZXJ0ZSBhYW5tYWtlbgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>{
             return</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc2RmZGQK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmFtczogewogICAgICAgICAgICAgICAgICAgIHJlc291cmNlTmFtZTogcmVzb3VyY2VOYW1lCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgcXVlcnk6IHsKICAgICAgICAgICAgICAgICAgICB2aWFSZXNvdXJjZTogdmlhUmVzb3VyY2UsCiAgICAgICAgICAgICAgICAgICAgdmlhUmVzb3VyY2VJZDogdmlhUmVzb3VyY2VJZCwKICAgICAgICAgICAgICAgICAgICB2aWFSZWxhdGlvbnNoaXA6IHZpYVJlbGF0aW9uc2hpcAogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text>{
+            return</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -497,10 +490,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc2RmZGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmFtczogewogICAgICAgICAgICAgICAgICAgIHJlc291cmNlTmFtZTogcmVzb3VyY2VOYW1lCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgcXVlcnk6IHsKICAgICAgICAgICAgICAgICAgICB2aWFSZXNvdXJjZTogdmlhUmVzb3VyY2UsCiAgICAgICAgICAgICAgICAgICAgdmlhUmVzb3VyY2VJZDogdmlhUmVzb3VyY2VJZCwKICAgICAgICAgICAgICAgICAgICB2aWFSZWxhdGlvbnNoaXA6IHZpYVJlbGF0aW9uc2hpcAogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLmVkaXQvY3JlYXRl</text>
