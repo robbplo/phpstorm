@@ -282,11 +282,11 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Nova/Product.php" timestamp="1544005915432">
-        <mark key="[" line="42" column="17" />
-        <mark key="]" line="42" column="19" />
-        <mark key="." line="42" column="19" />
-        <mark key="^" line="42" column="19" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Nova/Product.php" timestamp="1544006702635">
+        <mark key="[" line="40" column="36" />
+        <mark key="]" line="40" column="37" />
+        <mark key="." line="40" column="37" />
+        <mark key="^" line="40" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" timestamp="1544001735128">
         <mark key="'" line="0" column="0" />
@@ -455,10 +455,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>desc</text>
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>desc</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>wicket</text>
@@ -467,28 +467,28 @@
         <text>{{ formatPrice(scale.price) }}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnkpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogRGVmYXVsdCBvcmRlcmluZyBmb3IgaW5kZXggcXVlcnkuCiAgICAgKgogICAgICogQHZhciBhcnJheQogICAgICovCiAgICBwdWJsaWMgc3RhdGljICRpbmRleERlZmF1bHRPcmRlciA9IFsKICAgICAgICAnaWQnID0+ICdhc2MnCiAgICBdOwoKICAgIC8qKgogICAgICogQnVpbGQgYW4gImluZGV4IiBxdWVyeSBmb3IgdGhlIGdpdmVuIHJlc291cmNlLgogICAgICoKICAgICAqIEBwYXJhbSAgXExhcmF2ZWxcTm92YVxIdHRwXFJlcXVlc3RzXE5vdmFSZXF1ZXN0ICAkcmVxdWVzdAogICAgICogQHBhcmFtICBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyICAkcXVlcnkKICAgICAqIEByZXR1cm4gXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcgogICAgICovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgJGluZGV4RGVmYXVsdE9yZGVyID0gWwogICAgICAgICdpZCcgPT4gJ2FzYycKICAgIF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgc2NhbGVzLmxlbmd0aCB9fQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgJGluZGV4RGVmYXVsdE9yZGVyID0gWwogICAgICAgICdpZCcgPT4gJ2FzYycKICAgIF07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge3sgc2NhbGVzLmxlbmd0aCB9fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7IEZ9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -518,10 +518,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7IEZ9fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHYtaWY9InNjYSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL292ZXJoZWFkX2Rvb3IvZ3V0dGVyX3R5cGUvZw==</text>
