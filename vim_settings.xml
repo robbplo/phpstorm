@@ -39,6 +39,13 @@
         <mark key="." line="28" column="50" />
         <mark key="^" line="28" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" timestamp="1544091520937">
+        <mark key="'" line="35" column="35" />
+        <mark key="[" line="58" column="23" />
+        <mark key="]" line="34" column="58" />
+        <mark key="." line="34" column="49" />
+        <mark key="^" line="34" column="49" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/BuildingProducts.php" timestamp="1543937931346">
         <mark key="[" line="20" column="57" />
         <mark key="]" line="20" column="55" />
@@ -230,11 +237,12 @@
         <mark key="^" line="14" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/CreateResourceButton.vue" timestamp="1544014227404" />
-      <file name="$USER_HOME$/Projects/finish-building/routes/web.php" timestamp="1543999846564">
-        <mark key="[" line="17" column="47" />
-        <mark key="]" line="23" column="3" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="16" column="0" />
+      <file name="$USER_HOME$/Projects/finish-building/routes/web.php" timestamp="1544091262046">
+        <mark key="'" line="35" column="66" />
+        <mark key="[" line="25" column="74" />
+        <mark key="]" line="25" column="77" />
+        <mark key="^" line="25" column="77" />
+        <mark key="." line="25" column="77" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/resources/views/auth/login.blade.php" timestamp="1543565797016">
         <mark key="[" line="120" column="109" />
@@ -323,10 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="19" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/FinishGutter.php" />
-      <jump line="82" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/TrayGutter.php" />
-      <jump line="88" column="41" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Building.php" />
-      <jump line="93" column="15" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/Offer.js" />
       <jump line="69" column="44" filename="$USER_HOME$/Projects/finish-building/app/Offer.php" />
       <jump line="91" column="0" filename="$USER_HOME$/Projects/finish-building/app/Offer.php" />
       <jump line="41" column="18" filename="$USER_HOME$/Projects/finish-building/domain/Products/CustomProduct.php" />
@@ -423,43 +427,47 @@
       <jump line="417" column="24" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="396" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="121" column="11" filename="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" />
+      <jump line="35" column="35" filename="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" />
+      <jump line="40" column="47" filename="$USER_HOME$/Projects/finish-building/routes/web.php" />
+      <jump line="44" column="45" filename="$USER_HOME$/Projects/finish-building/routes/web.php" />
+      <jump line="35" column="66" filename="$USER_HOME$/Projects/finish-building/routes/web.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRGF0ZTo6bWFrZSgnQ3JlYXRlZCBhdCcsICdjcmVhdGVkX2F0JyktPmZvcm1hdCgnZGRkZCwgREQgTU1NTSBZWVlZLCBISDptbScpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgcm91bmQoJGl0ZW1bJ3NpemUnXSwgMikgfX08L3RkPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5mb3JtYXQoJ2g6bSBERC1NTS1ZWVlZJyks</text>
+        <text>getElementCount</text>
       </register>
       <register name="/" type="4">
-        <text>HH</text>
+        <text>tru</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGF0ZTo6bWFrZSgnQ3JlYXRlZCBhdCcsICdjcmVhdGVkX2F0JyktPmZvcm1hdCgnaDptbSBERC1NTS1ZWVlZJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgcm91bmQoJGl0ZW1bJ3NpemUnXSwgMikgfX08L3RkPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRGF0ZTo6bWFrZSgnQ3JlYXRlZCBhdCcsICdjcmVhdGVkX2F0JyktPmZvcm1hdCgnZGRkZCwgREQgTU1NTSBZWVlZLCBISDptbScpLAo=</text>
+        <text encoding="base64">CiAgICAgICAgRGFrIGVsZW1lbnQgem9uZGVyIGRpYWdvbmFhbAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmN0aW8K</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGF0ZTo6bWFrZSgnQ3JlYXRlZCBhdCcsICdjcmVhdGVkX2F0JyktPmZvcm1hdCgnaDptbScpLAo=</text>
+        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAgICduYW1lJyA9PiAnV2FuZCBlbGVtZW50IHpvbmRlciBkaWFnb25hYWwnLAogICAgICAgICAgICAnY291bnQnID0+ICRidWlsZGluZy0+Z2V0V2FsbCgpLT5nZXRFbGVtZW50Q291bnQoKSwKICAgICAgICAgICAgJ3NpemUnID0+ICRidWlsZGluZy0+Z2V0V2FsbEVsZW1lbnQoKS0+Y2FsY3VsYXRlRnJhbWUoKSwKICAgICAgICBdLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gJ2FzZGYnOwo=</text>
+        <text encoding="base64">ICAgICAgICBXYW5kIGVsZW1lbnQgbWV0IGRpYWdvbmFhbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAndmFsdWUnID0+ICR0aGlzLT51c2VyX2lkID8/IGF1dGgoKS0+dXNlcigpLT5uYW1lLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gInskdGhpcy0+Zmlyc3RfbmFtZX0geyR0aGlzLT5sYXN0X25hbWV9IjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRoPjwvdGg+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAZW5kZm9yZWFjaAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -489,27 +497,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAZm9yZWFjaCgkZ3JvdXBlZFByb2R1Y3RzIGFzICRjYXRlZ29yeSA9PiAkcHJvZHVjdHMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGhlIHNpbmdsZSB2YWx1ZSB0aGF0IHNob3VsZCBiZSB1c2VkIHRvIHJlcHJlc2VudCB0aGUgcmVzb3VyY2Ugd2hlbiBiZWluZyBkaXNwbGF5ZWQuCiAgICAgKgogICAgICogQHZhciBzdHJpbmcKICAgICAqLwogICAgcHVibGljIHN0YXRpYyAkdGl0bGUgPSAncHJvamVjdF9udW1iZXInOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3Byb2R1Y3Qvb2ZmZXI=</text>
+        <text encoding="base64">JzwsJz5zL3Byb2R1Y3QvaXRlbS9n</text>
       </register>
     </registers>
     <search>
-      <last-search>HH</last-search>
+      <last-search>tru</last-search>
       <last-offset />
-      <last-pattern>HH</last-pattern>
-      <last-replace>offer</last-replace>
+      <last-pattern>tru</last-pattern>
+      <last-replace>item</last-replace>
       <last-substitute>product</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>wicket</entry>
         <entry>revi</entry>
         <entry>at</entry>
         <entry>hide</entry>
@@ -521,7 +528,6 @@
         <entry>country</entry>
         <entry>4</entry>
         <entry>assembly</entry>
-        <entry>product</entry>
         <entry>overh</entry>
         <entry>gutter</entry>
         <entry>as</entry>
@@ -529,9 +535,10 @@
         <entry>comments</entry>
         <entry>hh</entry>
         <entry>HH</entry>
+        <entry>product</entry>
+        <entry>tru</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3Jvb2ZfcGxhdGluZy9wcm92aW5jZS9n</entry>
         <entry encoding="base64">JzwsJz5lbWFpbC9zdHJlZXRfbmFtZQ==</entry>
         <entry encoding="base64">JzwsJz5zL2VtYWlsL3N0cmVldF9uYW1lL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3N0cmVldF9uYW1lL3N0cmVldF9udW1iZXIvZw==</entry>
@@ -551,6 +558,7 @@
         <entry encoding="base64">JzwsJz5zL2Fzc2VtYmx5L3Blcm1pdF9zdGF0dXMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2Fzc2VtYmx5L2ZvdW5kYXRpb24vZw==</entry>
         <entry encoding="base64">JzwsJz5zL3Byb2R1Y3Qvb2ZmZXI=</entry>
+        <entry encoding="base64">JzwsJz5zL3Byb2R1Y3QvaXRlbS9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
