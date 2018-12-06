@@ -64,6 +64,12 @@
         <mark key="." line="19308" column="3" />
         <mark key="^" line="19308" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/.env" timestamp="1544086249170">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="29" />
+        <mark key="." line="5" column="29" />
+        <mark key="^" line="5" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/package.json" timestamp="1543234749509">
         <mark key="[" line="23" column="25" />
         <mark key="]" line="24" column="0" />
@@ -218,12 +224,11 @@
         <mark key="." line="33" column="46" />
         <mark key="^" line="33" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" timestamp="1544083956530">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="122" column="64" />
-        <mark key="]" line="122" column="63" />
-        <mark key="." line="122" column="63" />
-        <mark key="^" line="122" column="63" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" timestamp="1544087214424">
+        <mark key="[" line="114" column="42" />
+        <mark key="]" line="114" column="41" />
+        <mark key="." line="114" column="41" />
+        <mark key="^" line="114" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Observers/OfferObserver.php" timestamp="1543395663224">
         <mark key="[" line="11" column="16" />
@@ -381,7 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="342" column="27" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="4" column="19" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/FinishGutter.php" />
       <jump line="82" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/TrayGutter.php" />
       <jump line="88" column="41" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Building.php" />
@@ -481,43 +485,44 @@
       <jump line="391" column="43" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="417" column="24" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="396" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="121" column="11" filename="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>MM</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRGF0ZTo6bWFrZSgnQ3JlYXRlZCBhdCcsICdjcmVhdGVkX2F0JyktPmZvcm1hdCgnZGRkZCwgREQgTU1NTSBZWVlZLCBISDptbScpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>MM</text>
+        <text encoding="base64">LT5mb3JtYXQoJ2g6bSBERC1NTS1ZWVlZJyks</text>
       </register>
       <register name="/" type="4">
-        <text>comments</text>
+        <text>HH</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXZpc2lvbiA9ICR0aGlzWydyZXZpc2lvbiddID09PSAwID8gJycgOiAnLScgLiAkdGhpc1sncmV2aXNpb24nXTsKICAgICAgICAgICAgICAgIHJldHVybiAkdGhpc1sncHJvamVjdF9udW1iZXInXSAuICRyZXZpc2lvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGF0ZTo6bWFrZSgnQ3JlYXRlZCBhdCcsICdjcmVhdGVkX2F0JyktPmZvcm1hdCgnaDptbSBERC1NTS1ZWVlZJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gInskdGhpcy0+Zmlyc3RfbmFtZX0geyR0aGlzLT5sYXN0X25hbWV9IjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRGF0ZTo6bWFrZSgnQ3JlYXRlZCBhdCcsICdjcmVhdGVkX2F0JyktPmZvcm1hdCgnZGRkZCwgREQgTU1NTSBZWVlZLCBISDptbScpLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmN0aW8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGF0ZTo6bWFrZSgnQ3JlYXRlZCBhdCcsICdjcmVhdGVkX2F0JyktPmZvcm1hdCgnaDptbScpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGhlIHNpbmdsZSB2YWx1ZSB0aGF0IHNob3VsZCBiZSB1c2VkIHRvIHJlcHJlc2VudCB0aGUgcmVzb3VyY2Ugd2hlbiBiZWluZyBkaXNwbGF5ZWQuCiAgICAgKgogICAgICogQHZhciBzdHJpbmcKICAgICAqLwogICAgcHVibGljIHN0YXRpYyAkdGl0bGUgPSAncHJvamVjdF9udW1iZXInOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gJ2FzZGYnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAndmFsdWUnID0+ICR0aGlzLT51c2VyX2lkID8/IGF1dGgoKS0+dXNlcigpLT5uYW1lLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50Ojp0aXRsZSgpOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1Ygo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gInskdGhpcy0+Zmlyc3RfbmFtZX0geyR0aGlzLT5sYXN0X25hbWV9IjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tcm9kd3M9IjEwIj57eyBvZmZlci5jb21tZW50cyB9fTwvdGV4dGFyZWE+LS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -547,19 +552,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJvd3M9IjEwIj57eyBvZmZlci5jb21tZW50cyB9fTwvdGV4dGFyZWE+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVGhlIHNpbmdsZSB2YWx1ZSB0aGF0IHNob3VsZCBiZSB1c2VkIHRvIHJlcHJlc2VudCB0aGUgcmVzb3VyY2Ugd2hlbiBiZWluZyBkaXNwbGF5ZWQuCiAgICAgKgogICAgICogQHZhciBzdHJpbmcKICAgICAqLwogICAgcHVibGljIHN0YXRpYyAkdGl0bGUgPSAncHJvamVjdF9udW1iZXInOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Byb2R1Y3Qvb2ZmZXI=</text>
       </register>
     </registers>
     <search>
-      <last-search>comments</last-search>
+      <last-search>HH</last-search>
       <last-offset />
-      <last-pattern>comments</last-pattern>
+      <last-pattern>HH</last-pattern>
       <last-replace>offer</last-replace>
       <last-substitute>product</last-substitute>
       <last-dir>1</last-dir>
@@ -567,8 +572,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Prij</entry>
-        <entry>valida</entry>
         <entry>wicket</entry>
         <entry>revi</entry>
         <entry>at</entry>
@@ -587,6 +590,8 @@
         <entry>as</entry>
         <entry>pe</entry>
         <entry>comments</entry>
+        <entry>hh</entry>
+        <entry>HH</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Jvb2ZfcGxhdGluZy9wcm92aW5jZS9n</entry>
