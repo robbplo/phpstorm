@@ -55,12 +55,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" timestamp="1544179965683">
-        <mark key="'" line="62" column="46" />
-        <mark key="[" line="75" column="88" />
-        <mark key="]" line="75" column="87" />
-        <mark key="." line="75" column="87" />
-        <mark key="^" line="75" column="87" />
+      <file name="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" timestamp="1544181202253">
+        <mark key="'" line="19" column="16" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="44" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Elements/WallElement.php" timestamp="1543953193457">
         <mark key="[" line="16" column="3" />
@@ -448,8 +448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="479" column="34" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="480" column="40" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="482" column="43" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="484" column="50" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="492" column="43" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
@@ -548,43 +546,45 @@
       <jump line="90" column="0" filename="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" />
       <jump line="35" column="30" filename="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" />
       <jump line="62" column="46" filename="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" />
+      <jump line="75" column="52" filename="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" />
+      <jump line="20" column="16" filename="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>P</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHRoPjwvdGg+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>P</text>
+        <text>Naam</text>
       </register>
       <register name="/" type="4">
-        <text>total</text>
+        <text>Na</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Z2V0UHJvZHVjdHMoKS0+YWxsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRoIHN0eWxlPSJ3aWR0aDogNDAwcHg7Ij5OYWFtPC90aD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRoPjwvdGg+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHB1YmxpYyBmdW5jdGlvbiBnZXRQcmljZSgpOiBmbG9hdAogICAgLy8gewogICAgLy8gICAgICRwcm9kdWN0cyA9IGNvbGxlY3QoJHRoaXMtPmdldFByb2R1Y3RzKCktPmFsbCgpKTsKICAgIC8vCiAgICAvLyAgICAgJHByaWNlID0gJHByb2R1Y3RzCiAgICAvLyAgICAgICAgIC0+ZmlsdGVyKGZ1bmN0aW9uICgkcHJvZHVjdCkgewogICAgLy8gICAgICAgICAgICAgcmV0dXJuICRwcm9kdWN0LT5nZXRVbml0KCkgIT09IFByb2R1Y3RVbml0OjpQRVJDRU5UOwogICAgLy8gICAgICAgICB9KQogICAgLy8gICAgICAgICAtPm1hcChmdW5jdGlvbiAoJHByb2R1Y3QpIHsKICAgIC8vICAgICAgICAgICAgIHJldHVybiAkcHJvZHVjdC0+Z2V0VG90YWxQcmljZSgpOwogICAgLy8gICAgICAgICB9KQogICAgLy8gICAgICAgICAtPnN1bSgpOwogICAgLy8KICAgIC8vICAgICAkZmFjdG9yID0gJHByb2R1Y3RzCiAgICAvLyAgICAgICAgICAgICAtPmZpbHRlcihmdW5jdGlvbiAoJHByb2R1Y3QpIHsKICAgIC8vICAgICAgICAgICAgICAgICByZXR1cm4gJHByb2R1Y3QtPmdldFVuaXQoKSA9PT0gUHJvZHVjdFVuaXQ6OlBFUkNFTlQ7CiAgICAvLyAgICAgICAgICAgICB9KQogICAgLy8gICAgICAgICAgICAgLT5tYXAoZnVuY3Rpb24gKCRwcm9kdWN0KSB7CiAgICAvLyAgICAgICAgICAgICAgICAgcmV0dXJuICgkcHJvZHVjdC0+Z2V0VG90YWxQcmljZSgpIC8gMTAwKTsKICAgIC8vICAgICAgICAgICAgIH0pCiAgICAvLyAgICAgICAgICAgICAtPnN1bSgpICsgMTsKICAgIC8vCiAgICAvLyAgICAgcmV0dXJuICRwcmljZSAqICRmYWN0b3I7CiAgICAvLyB9CiAgICAvLyAzOTcwLjcwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Z2V0UHJvZHVjdHMoKS0+dG9BcnJheSgpKTsKICAgICAgICBkZCgkdGhpcy0+Z2V0UHJvZHVjdHMoKS0+YWxsKCkpOwo=</text>
+        <text encoding="base64">ICAgIC8vIHB1YmxpYyBmdW5jdGlvbiBnZXRQcmljZSgpOiBmbG9hdAogICAgLy8gewogICAgLy8gICAgICRwcm9kdWN0cyA9IGNvbGxlY3QoJHRoaXMtPmdldFByb2R1Y3RzKCktPmFsbCgpKTsKICAgIC8vCiAgICAvLyAgICAgJHByaWNlID0gJHByb2R1Y3RzCiAgICAvLyAgICAgICAgIC0+ZmlsdGVyKGZ1bmN0aW9uICgkcHJvZHVjdCkgewogICAgLy8gICAgICAgICAgICAgcmV0dXJuICRwcm9kdWN0LT5nZXRVbml0KCkgIT09IFByb2R1Y3RVbml0OjpQRVJDRU5UOwogICAgLy8gICAgICAgICB9KQogICAgLy8gICAgICAgICAtPm1hcChmdW5jdGlvbiAoJHByb2R1Y3QpIHsKICAgIC8vICAgICAgICAgICAgIHJldHVybiAkcHJvZHVjdC0+Z2V0VG90YWxQcmljZSgpOwogICAgLy8gICAgICAgICB9KQogICAgLy8gICAgICAgICAtPnN1bSgpOwogICAgLy8KICAgIC8vICAgICAkZmFjdG9yID0gJHByb2R1Y3RzCiAgICAvLyAgICAgICAgICAgICAtPmZpbHRlcihmdW5jdGlvbiAoJHByb2R1Y3QpIHsKICAgIC8vICAgICAgICAgICAgICAgICByZXR1cm4gJHByb2R1Y3QtPmdldFVuaXQoKSA9PT0gUHJvZHVjdFVuaXQ6OlBFUkNFTlQ7CiAgICAvLyAgICAgICAgICAgICB9KQogICAgLy8gICAgICAgICAgICAgLT5tYXAoZnVuY3Rpb24gKCRwcm9kdWN0KSB7CiAgICAvLyAgICAgICAgICAgICAgICAgcmV0dXJuICgkcHJvZHVjdC0+Z2V0VG90YWxQcmljZSgpIC8gMTAwKTsKICAgIC8vICAgICAgICAgICAgIH0pCiAgICAvLyAgICAgICAgICAgICAtPnN1bSgpICsgMTsKICAgIC8vCiAgICAvLyAgICAgcmV0dXJuICRwcmljZSAqICRmYWN0b3I7CiAgICAvLyB9CiAgICAvLyAzOTcwLjcwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvZHVjdHMtPnRvQXJyYXkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Z2V0UHJvZHVjdHMoKS0+dG9BcnJheSgpKTsKICAgICAgICBkZCgkdGhpcy0+Z2V0UHJvZHVjdHMoKS0+YWxsKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcHJvZHVjdHMtPnRvQXJyYXkoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gLT5maWx0ZXIoZnVuY3Rpb24gKCRwcm9kdWN0KSB7CiAgICAgICAgICAgIC8vICAgICByZXR1cm4gJHByb2R1Y3QtPmdldFVuaXQoKSA9PT0gUHJvZHVjdFVuaXQ6OlBFUkNFTlQ7CiAgICAgICAgICAgIC8vIH0pCiAgICAgICAgICAgIC8vIC0+bWFwKGZ1bmN0aW9uICgkcHJvZHVjdCkgewogICAgICAgICAgICAvLyAgICAgcmV0dXJuICgkcHJvZHVjdC0+Z2V0VG90YWxQcmljZSgpIC8gMTAwKTsKICAgICAgICAgICAgLy8gfSkKICAgICAgICAgICAgLy8gLT5zdW0oKSArIDE7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gLT5maWx0ZXIoZnVuY3Rpb24gKCRwcm9kdWN0KSB7CiAgICAgICAgICAgIC8vICAgICByZXR1cm4gJHByb2R1Y3QtPmdldFVuaXQoKSA9PT0gUHJvZHVjdFVuaXQ6OlBFUkNFTlQ7CiAgICAgICAgICAgIC8vIH0pCiAgICAgICAgICAgIC8vIC0+bWFwKGZ1bmN0aW9uICgkcHJvZHVjdCkgewogICAgICAgICAgICAvLyAgICAgcmV0dXJuICgkcHJvZHVjdC0+Z2V0VG90YWxQcmljZSgpIC8gMTAwKTsKICAgICAgICAgICAgLy8gfSkKICAgICAgICAgICAgLy8gLT5zdW0oKSArIDE7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -614,19 +614,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gLT5maWx0ZXIoZnVuY3Rpb24gKCRwcm9kdWN0KSB7CiAgICAgICAgICAgIC8vICAgICByZXR1cm4gJHByb2R1Y3QtPmdldFVuaXQoKSAhPT0gUHJvZHVjdFVuaXQ6OlBFUkNFTlQ7CiAgICAgICAgICAgIC8vIH0pCiAgICAgICAgICAgIC8vIC0+bWFwKGZ1bmN0aW9uICgkcHJvZHVjdCkgewogICAgICAgICAgICAvLyAgICAgcmV0dXJuICRwcm9kdWN0LT5nZXRUb3RhbFByaWNlKCk7CiAgICAgICAgICAgIC8vIH0pCiAgICAgICAgICAgIC8vIC0+c3VtKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgnJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gLT5maWx0ZXIoZnVuY3Rpb24gKCRwcm9kdWN0KSB7CiAgICAgICAgICAgIC8vICAgICByZXR1cm4gJHByb2R1Y3QtPmdldFVuaXQoKSAhPT0gUHJvZHVjdFVuaXQ6OlBFUkNFTlQ7CiAgICAgICAgICAgIC8vIH0pCiAgICAgICAgICAgIC8vIC0+bWFwKGZ1bmN0aW9uICgkcHJvZHVjdCkgewogICAgICAgICAgICAvLyAgICAgcmV0dXJuICRwcm9kdWN0LT5nZXRUb3RhbFByaWNlKCk7CiAgICAgICAgICAgIC8vIH0pCiAgICAgICAgICAgIC8vIC0+c3VtKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3NjYWxlL3NjYWxlcy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>total</last-search>
+      <last-search>Na</last-search>
       <last-offset />
-      <last-pattern>total</last-pattern>
+      <last-pattern>Na</last-pattern>
       <last-replace>scales</last-replace>
       <last-substitute>scale</last-substitute>
       <last-dir>1</last-dir>
@@ -634,7 +634,6 @@
     </search>
     <history>
       <history-search>
-        <entry>assembly</entry>
         <entry>overh</entry>
         <entry>gutter</entry>
         <entry>as</entry>
@@ -654,6 +653,7 @@
         <entry>scale</entry>
         <entry>temp</entry>
         <entry>total</entry>
+        <entry>Na</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NvYXRpbmcvb3ZlcmhlYWRfZG9vcg==</entry>
