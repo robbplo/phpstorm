@@ -70,6 +70,12 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/domain/Products/BaseProduct.php" timestamp="1544171108503">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/package.json" timestamp="1543234749509">
         <mark key="[" line="23" column="25" />
         <mark key="]" line="24" column="0" />
@@ -133,11 +139,12 @@
         <mark key="^" line="24" column="59" />
         <mark key="." line="24" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/domain/Products/CustomProduct.php" timestamp="1544099282368">
+      <file name="$USER_HOME$/Projects/finish-building/domain/Products/CustomProduct.php" timestamp="1544170398177">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+        <mark key="[" line="91" column="30" />
+        <mark key="]" line="91" column="32" />
+        <mark key="." line="91" column="32" />
+        <mark key="^" line="91" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/nova/resources/js/components/Calendar.js" timestamp="1543574222700">
         <mark key="[" line="36" column="16" />
@@ -445,11 +452,11 @@
       <jump line="61" column="25" filename="$USER_HOME$/Projects/finish-building/routes/web.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>displayUnit</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFxBcHBcRW51bXNcUHJvZHVjdFVuaXQ6OlBFUkNFTlQ=</text>
+        <text>displayUnit</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -458,28 +465,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD57eyAkcHJvZHVjdFsnbmFtZSddIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7ICRwcm9kdWN0Wydjb3VudCddIH19IHt7ICRwcm9kdWN0Wyd1bml0J10gfX08L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgJHByb2R1Y3RbJ3ByaWNlJ10gfX08L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgJHByb2R1Y3RbJ3RvdGFsX3ByaWNlJ10gfX08L3RkPgogICAgICAgICAgICAgICAgICAgIDwvdHI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7ICRwcm9kdWN0Wydjb3VudCddIH19IHt7ICRwcm9kdWN0Wyd1bml0J10gfX08L3RkPgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICRwcm9kdWN0cyA9ICRwcm9kdWN0cy0+bWFwKGZ1bmN0aW9uICgkaXRlbSkgewogICAgICAgICRpdGVtWyd0b3RhbF9wcmljZSddID0gJGl0ZW1bJ3ByaWNlJ10gKiAkaXRlbVsnY291bnQnXTsKICAgIH0pOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7ICRwcm9kdWN0Wydjb3VudCddIH19IHt7ICRwcm9kdWN0Wyd1bml0J10gfX08L3RkPgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICRwcm9kdWN0cyA9ICRwcm9kdWN0cy0+bWFwKGZ1bmN0aW9uICgkaXRlbSkgewogICAgICAgICRpdGVtWyd0b3RhbF9wcmljZSddID0gJGl0ZW1bJ3ByaWNlJ10gKiAkaXRlbVsnY291bnQnXTsKICAgIH0pOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRkKCRwcm9kdWN0cy0+cGx1Y2soJ3RvdGFsX3ByaWNlJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -509,10 +516,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3ByaWNlJyA9PiAkdGhpcy0+Zm9ybWF0UHJpY2UoJHRoaXMtPmdldFByaWNlKCkpLAogICAgICAgICAgICAndG90YWxfcHJpY2UnID0+ICR0aGlzLT5mb3JtYXRQcmljZSgkdGhpcy0+Z2V0VG90YWxQcmljZSgpKSwK</text>
+        <text encoding="base64">ICAgIGRkKCRwcm9kdWN0cy0+cGx1Y2soJ3RvdGFsX3ByaWNlJykpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgRGFrIGVsZW1lbnQgem9uZGVyIGRpYWdvbmFhbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3ByaWNlJyA9PiAkdGhpcy0+Zm9ybWF0UHJpY2UoJHRoaXMtPmdldFByaWNlKCkpLAogICAgICAgICAgICAndG90YWxfcHJpY2UnID0+ICR0aGlzLT5mb3JtYXRQcmljZSgkdGhpcy0+Z2V0VG90YWxQcmljZSgpKSwK</text>
       </register>
       <register name=":" type="4">
         <text>s/products/framge/g</text>
