@@ -9,6 +9,11 @@
         <mark key="." line="30" column="31" />
         <mark key="^" line="30" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/app/Enums/ProductUnit.php" timestamp="1544002159860">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/config/app.php" timestamp="1544088020395">
         <mark key="[" line="14" column="57" />
         <mark key="]" line="14" column="29" />
@@ -70,11 +75,10 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/domain/Products/BaseProduct.php" timestamp="1544171108503">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Projects/finish-building/domain/Products/BaseProduct.php" timestamp="1544172757683">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/package.json" timestamp="1543234749509">
         <mark key="[" line="23" column="25" />
@@ -286,12 +290,11 @@
         <mark key="^" line="23" column="22" />
         <mark key="." line="23" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" timestamp="1544098122314">
+      <file name="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" timestamp="1544172773980">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="114" column="52" />
-        <mark key="." line="113" column="22" />
-        <mark key="^" line="113" column="22" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Offer.php" timestamp="1544019105437">
         <mark key="'" line="83" column="0" />
@@ -350,12 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="13" filename="$USER_HOME$/Projects/finish-building/domain/Products/CustomProduct.php" />
-      <jump line="22" column="18" filename="$USER_HOME$/Projects/finish-building/domain/Products/CustomProduct.php" />
-      <jump line="7" column="19" filename="$USER_HOME$/Projects/finish-building/domain/Products/CustomProduct.php" />
-      <jump line="29" column="4" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
-      <jump line="740" column="50" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="698" column="50" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="742" column="67" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="22" column="15" filename="$USER_HOME$/Projects/finish-building/app/Http/Controllers/OfferController.php" />
@@ -450,10 +447,16 @@
       <jump line="54" column="20" filename="$USER_HOME$/Projects/finish-building/routes/web.php" />
       <jump line="60" column="31" filename="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" />
       <jump line="61" column="25" filename="$USER_HOME$/Projects/finish-building/routes/web.php" />
+      <jump line="93" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
+      <jump line="82" column="7" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
+      <jump line="91" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>displayUnit</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFic3RyYWN0IGZ1bmN0aW9uIGdlCg==</text>
       </register>
       <register name="-" type="4">
         <text>displayUnit</text>
@@ -465,28 +468,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD57eyAkcHJvZHVjdFsnbmFtZSddIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7ICRwcm9kdWN0Wydjb3VudCddIH19IHt7ICRwcm9kdWN0Wyd1bml0J10gfX08L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgJHByb2R1Y3RbJ3ByaWNlJ10gfX08L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgJHByb2R1Y3RbJ3RvdGFsX3ByaWNlJ10gfX08L3RkPgogICAgICAgICAgICAgICAgICAgIDwvdHI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
+        <text encoding="base64">ICAgIGFic3RyYWN0IGZ1bmN0aW9uIGdlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7ICRwcm9kdWN0Wydjb3VudCddIH19IHt7ICRwcm9kdWN0Wyd1bml0J10gfX08L3RkPgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRUb3RhbFByaWNlKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmdldFByaWNlKCkgKiAkdGhpcy0+Z2V0Q291bnQoKTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRwcm9kdWN0cyA9ICRwcm9kdWN0cy0+bWFwKGZ1bmN0aW9uICgkaXRlbSkgewogICAgICAgICRpdGVtWyd0b3RhbF9wcmljZSddID0gJGl0ZW1bJ3ByaWNlJ10gKiAkaXRlbVsnY291bnQnXTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0b0FycmF5KCkKICAgIHsKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAnbmFtZScgPT4gJHRoaXMtPmdldE5hbWUoKSwKICAgICAgICAgICAgJ2NvdW50JyA9PiAkdGhpcy0+Z2V0Q291bnQoKSwKICAgICAgICAgICAgJ3VuaXQnID0+ICR0aGlzLT5kaXNwbGF5VW5pdCgpLAogICAgICAgICAgICAnY2F0ZWdvcnknID0+ICR0aGlzLT5nZXRDYXRlZ29yeSgpLAogICAgICAgICAgICAncHJpY2UnID0+ICR0aGlzLT5nZXRQcmljZSgpLAogICAgICAgICAgICAndG90YWxfcHJpY2UnID0+ICR0aGlzLT5nZXRUb3RhbFByaWNlKCksCiAgICAgICAgXTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -516,10 +519,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRkKCRwcm9kdWN0cy0+cGx1Y2soJ3RvdGFsX3ByaWNlJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7ICRwcm9kdWN0Wydjb3VudCddIH19IHt7ICRwcm9kdWN0Wyd1bml0J10gfX08L3RkPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3ByaWNlJyA9PiAkdGhpcy0+Zm9ybWF0UHJpY2UoJHRoaXMtPmdldFByaWNlKCkpLAogICAgICAgICAgICAndG90YWxfcHJpY2UnID0+ICR0aGlzLT5mb3JtYXRQcmljZSgkdGhpcy0+Z2V0VG90YWxQcmljZSgpKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/products/framge/g</text>
