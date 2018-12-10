@@ -220,6 +220,12 @@
         <mark key="." line="47" column="16" />
         <mark key="^" line="48" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/vetclass/resources/lang/nl/menus.php" timestamp="1544445108957">
+        <mark key="[" line="70" column="38" />
+        <mark key="]" line="70" column="38" />
+        <mark key="^" line="70" column="38" />
+        <mark key="." line="70" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handler.js" timestamp="1543482741838">
         <mark key="[" line="882" column="8" />
         <mark key="]" line="882" column="22" />
@@ -378,6 +384,9 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="30" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/vetclass/app/Http/Middleware/SetupAccount.php" timestamp="1544444879523">
+        <mark key="'" line="76" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/amsterdambeautiful/locales/en.php" timestamp="1542986063585">
         <mark key="[" line="22" column="33" />
         <mark key="]" line="22" column="33" />
@@ -404,8 +413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="7" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
-      <jump line="91" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
       <jump line="10" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
       <jump line="47" column="4" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
@@ -504,6 +511,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/app/Providers/NovaServiceProvider.php" />
       <jump line="18" column="46" filename="$USER_HOME$/Projects/finish-building/app/Nova/Metrics/TotalOfferValue.php" />
       <jump line="24" column="13" filename="$USER_HOME$/Projects/finish-building/app/Nova/Metrics/TotalOfferValue.php" />
+      <jump line="64" column="24" filename="$USER_HOME$/Projects/vetclass/app/Http/Middleware/SetupAccount.php" />
+      <jump line="76" column="23" filename="$USER_HOME$/Projects/vetclass/app/Http/Middleware/SetupAccount.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -513,7 +522,7 @@
         <text encoding="base64">LT5wcmV2aW91cygkcHJldmlvdXNQcmljZXMp</text>
       </register>
       <register name="/" type="4">
-        <text>cur</text>
+        <text>status</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkY3VycmVudFByaWNlcyA9IE9mZmVyOjp3aGVyZUJldHdlZW4oJ2NyZWF0ZWRfYXQnLCAkdGhpcy0+Y3VycmVudFJhbmdlKCRyZXF1ZXN0LT5yYW5nZSkpCiAgICAgICAgICAgIC0+Z2V0KCkKICAgICAgICAgICAgLT5tYXAoZnVuY3Rpb24gKCRvZmZlcikgewogICAgICAgICAgICAgICAgcmV0dXJuICRvZmZlci0+Z2V0QnVpbGRpbmcoKS0+Z2V0UHJpY2UoKTsKICAgICAgICAgICAgfSkKICAgICAgICAgICAgLT5zdW0oKTsKCiAgICAgICAgJHByZXZpb3VzUHJpY2VzID0gT2ZmZXI6OndoZXJlQmV0d2VlbignY3JlYXRlZF9hdCcsICR0aGlzLT5wcmV2aW91c1JhbmdlKCRyZXF1ZXN0LT5yYW5nZSkpCiAgICAgICAgICAgIC0+Z2V0KCkKICAgICAgICAgICAgLT5tYXAoZnVuY3Rpb24gKCRvZmZlcikgewogICAgICAgICAgICAgICAgcmV0dXJuICRvZmZlci0+Z2V0QnVpbGRpbmcoKS0+Z2V0UHJpY2UoKTsKICAgICAgICAgICAgfSkKICAgICAgICAgICAgLT5zdW0oKTsKCiAgICAgICAgcmV0dXJuICR0aGlzLT5yZXN1bHQoJGN1cnJlbnRQcmljZXMpLT5wcmV2aW91cygkcHJldmlvdXNQcmljZXMpLT5jdXJyZW5jeSgn4oKsJyk7Cg==</text>
@@ -580,9 +589,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cur</last-search>
+      <last-search>status</last-search>
       <last-offset />
-      <last-pattern>cur</last-pattern>
+      <last-pattern>status</last-pattern>
       <last-replace encoding="base64">dGhpcy0+YnVpbGRpbmc=</last-replace>
       <last-substitute>building</last-substitute>
       <last-dir>1</last-dir>
@@ -590,7 +599,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Na</entry>
         <entry>val</entry>
         <entry>value</entry>
         <entry>pri</entry>
@@ -610,6 +618,7 @@
         <entry>color</entry>
         <entry>co</entry>
         <entry>cur</entry>
+        <entry>status</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3B5L3B0</entry>
