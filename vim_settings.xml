@@ -55,6 +55,9 @@
         <mark key="." line="28" column="50" />
         <mark key="^" line="28" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Api/V1/Access/UserController.php" timestamp="1544445605207">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" timestamp="1544432487024">
         <mark key="'" line="69" column="30" />
         <mark key="[" line="13" column="17" />
@@ -207,7 +210,6 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/config/filesystems.php" timestamp="1544428101737" />
       <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/CustomProducts.php" timestamp="1544001242166">
         <mark key="[" line="15" column="32" />
         <mark key="]" line="15" column="31" />
@@ -318,6 +320,7 @@
         <mark key="." line="49" column="5" />
         <mark key="^" line="49" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/vetclass/app/Repositories/Backend/User/UserContract.php" timestamp="1544445625695" />
       <file name="$USER_HOME$/Projects/finish-building/routes/web.php" timestamp="1544430699532">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="17" column="30" />
@@ -331,7 +334,6 @@
         <mark key="." line="120" column="108" />
         <mark key="^" line="120" column="108" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/storage/app/.gitignore" timestamp="1544430371237" />
       <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingAssembly.php" timestamp="1544189993349">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -413,7 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
       <jump line="47" column="4" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
       <jump line="64" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
@@ -513,6 +514,7 @@
       <jump line="24" column="13" filename="$USER_HOME$/Projects/finish-building/app/Nova/Metrics/TotalOfferValue.php" />
       <jump line="64" column="24" filename="$USER_HOME$/Projects/vetclass/app/Http/Middleware/SetupAccount.php" />
       <jump line="76" column="23" filename="$USER_HOME$/Projects/vetclass/app/Http/Middleware/SetupAccount.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Api/V1/Access/UserController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -522,7 +524,7 @@
         <text encoding="base64">LT5wcmV2aW91cygkcHJldmlvdXNQcmljZXMp</text>
       </register>
       <register name="/" type="4">
-        <text>status</text>
+        <text>acti</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkY3VycmVudFByaWNlcyA9IE9mZmVyOjp3aGVyZUJldHdlZW4oJ2NyZWF0ZWRfYXQnLCAkdGhpcy0+Y3VycmVudFJhbmdlKCRyZXF1ZXN0LT5yYW5nZSkpCiAgICAgICAgICAgIC0+Z2V0KCkKICAgICAgICAgICAgLT5tYXAoZnVuY3Rpb24gKCRvZmZlcikgewogICAgICAgICAgICAgICAgcmV0dXJuICRvZmZlci0+Z2V0QnVpbGRpbmcoKS0+Z2V0UHJpY2UoKTsKICAgICAgICAgICAgfSkKICAgICAgICAgICAgLT5zdW0oKTsKCiAgICAgICAgJHByZXZpb3VzUHJpY2VzID0gT2ZmZXI6OndoZXJlQmV0d2VlbignY3JlYXRlZF9hdCcsICR0aGlzLT5wcmV2aW91c1JhbmdlKCRyZXF1ZXN0LT5yYW5nZSkpCiAgICAgICAgICAgIC0+Z2V0KCkKICAgICAgICAgICAgLT5tYXAoZnVuY3Rpb24gKCRvZmZlcikgewogICAgICAgICAgICAgICAgcmV0dXJuICRvZmZlci0+Z2V0QnVpbGRpbmcoKS0+Z2V0UHJpY2UoKTsKICAgICAgICAgICAgfSkKICAgICAgICAgICAgLT5zdW0oKTsKCiAgICAgICAgcmV0dXJuICR0aGlzLT5yZXN1bHQoJGN1cnJlbnRQcmljZXMpLT5wcmV2aW91cygkcHJldmlvdXNQcmljZXMpLT5jdXJyZW5jeSgn4oKsJyk7Cg==</text>
@@ -589,9 +591,9 @@
       </register>
     </registers>
     <search>
-      <last-search>status</last-search>
+      <last-search>acti</last-search>
       <last-offset />
-      <last-pattern>status</last-pattern>
+      <last-pattern>acti</last-pattern>
       <last-replace encoding="base64">dGhpcy0+YnVpbGRpbmc=</last-replace>
       <last-substitute>building</last-substitute>
       <last-dir>1</last-dir>
@@ -599,7 +601,6 @@
     </search>
     <history>
       <history-search>
-        <entry>val</entry>
         <entry>value</entry>
         <entry>pri</entry>
         <entry>data</entry>
@@ -619,6 +620,7 @@
         <entry>co</entry>
         <entry>cur</entry>
         <entry>status</entry>
+        <entry>acti</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3B5L3B0</entry>
