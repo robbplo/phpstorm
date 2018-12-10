@@ -38,6 +38,9 @@
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/nova/src/Metrics/Value.php" timestamp="1544438740700">
+        <mark key="'" line="7" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoor.php" timestamp="1543926080856">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="8" column="3" />
@@ -147,11 +150,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Providers/NovaServiceProvider.php" timestamp="1544019307750">
-        <mark key="[" line="32" column="31" />
-        <mark key="]" line="32" column="31" />
-        <mark key="." line="32" column="31" />
-        <mark key="^" line="32" column="31" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Providers/NovaServiceProvider.php" timestamp="1544438704084">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="76" column="12" />
+        <mark key="]" line="76" column="12" />
+        <mark key="." line="76" column="12" />
+        <mark key="^" line="76" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/tool.js" timestamp="1544014208258">
         <mark key="'" line="10" column="3" />
@@ -240,6 +244,13 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="57" column="46" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/app/Nova/Metrics/NewOffers.php" timestamp="1544438930171">
+        <mark key="'" line="48" column="5" />
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="17" />
+        <mark key="." line="20" column="17" />
+        <mark key="^" line="20" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Observers/OfferObserver.php" timestamp="1543395663224">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="11" column="21" />
@@ -299,10 +310,6 @@
         <mark key="." line="120" column="108" />
         <mark key="^" line="120" column="108" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova/resources/js/components/PanelItem.vue" timestamp="1544004564971">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="16" column="10" />
-      </file>
       <file name="$USER_HOME$/Projects/finish-building/storage/app/.gitignore" timestamp="1544430371237" />
       <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingAssembly.php" timestamp="1544189993349">
         <mark key="[" line="8" column="0" />
@@ -350,10 +357,6 @@
         <mark key="." line="13" column="52" />
         <mark key="^" line="13" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingRoofPlating.php" timestamp="1544190012631">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="36" />
-      </file>
       <file name="$USER_HOME$/Projects/finish-building/infrastructure/PriceList.php" timestamp="1543954078320">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -386,11 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="66" filename="$USER_HOME$/Projects/finish-building/routes/web.php" />
-      <jump line="73" column="42" filename="$USER_HOME$/Projects/finish-building/domain/Products/CustomProduct.php" />
-      <jump line="54" column="20" filename="$USER_HOME$/Projects/finish-building/routes/web.php" />
-      <jump line="60" column="31" filename="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" />
-      <jump line="61" column="25" filename="$USER_HOME$/Projects/finish-building/routes/web.php" />
       <jump line="93" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
       <jump line="82" column="7" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
@@ -486,13 +484,18 @@
       <jump line="35" column="0" filename="$USER_HOME$/Projects/finish-building/infrastructure/PartsList.php" />
       <jump line="32" column="8" filename="$USER_HOME$/Projects/finish-building/app/Http/Controllers/OfferController.php" />
       <jump line="813" column="11" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="29" column="60" filename="$USER_HOME$/Projects/finish-building/app/Providers/NovaServiceProvider.php" />
+      <jump line="46" column="5" filename="$USER_HOME$/Projects/finish-building/app/Nova/Metrics/NewOffers.php" />
+      <jump line="7" column="33" filename="$USER_HOME$/Projects/finish-building/nova/src/Metrics/Value.php" />
+      <jump line="76" column="26" filename="$USER_HOME$/Projects/finish-building/app/Providers/NovaServiceProvider.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/app/Providers/NovaServiceProvider.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHctMTY=</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>color</text>
@@ -501,28 +504,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gKG5ldyBQYXJ0c0xpc3QoJG9mZmVyKSktPmdldFBkZigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPZmZlcjoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3Bhbgo=</text>
+        <text encoding="base64">ICAgICAgICAkb2ZmZXItPnF1ZXJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdFsndXNlcl9pZCddID0gJHJlcXVlc3QtPnVzZXIoKS0+aWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+      <register name="4" type="4">
+        <text>public function __construct(?string $component = null)
+{
+    parent::__construct($component);
+}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gKG5ldyBQYXJ0c0xpc3QoJG9mZmVyKSktPmdldFZpZXcoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3b2ZmZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkZCgkcHJvZHVjdHMtPndoZXJlKCd1bml0JywgUHJvZHVjdFVuaXQ6OlBFUkNFTlQpKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJvZHVjdHMgPSA7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3Bhbgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -552,10 +558,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdFsndXNlcl9pZCddID0gJHJlcXVlc3QtPnVzZXIoKS0+aWQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKG5ldyBQZXJjZW50YWdlcygkdGhpcy0+YnVpbGRpbmcpKS0+YWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2J1aWxkaW5nL3RoaXMtPmJ1aWxkaW5n</text>
