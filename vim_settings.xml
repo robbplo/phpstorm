@@ -147,6 +147,9 @@
         <mark key="." line="15" column="36" />
         <mark key="^" line="15" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/WallPlating.php" timestamp="1544519759171">
+        <mark key="[" line="10" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingFoundation.php" timestamp="1544189997636">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="23" />
@@ -178,9 +181,16 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/RoofPlating.php" timestamp="1544187053396">
+      <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/ConstructionPlates.php" timestamp="1544519617686">
+        <mark key="'" line="47" column="16" />
+        <mark key="[" line="55" column="37" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/RoofPlating.php" timestamp="1544519785949">
         <mark key="[" line="10" column="16" />
-        <mark key="]" line="10" column="16" />
+        <mark key="]" line="10" column="20" />
         <mark key="." line="10" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Nova/Actions/EditOffer.php" timestamp="1543578534145">
@@ -337,6 +347,13 @@
         <mark key="." line="17" column="60" />
         <mark key="^" line="17" column="60" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/database/seeds/products.json" timestamp="1544519777738">
+        <mark key="'" line="737" column="23" />
+        <mark key="[" line="379" column="18" />
+        <mark key="]" line="379" column="21" />
+        <mark key="^" line="120" column="64" />
+        <mark key="." line="120" column="64" />
+      </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/resources/views/auth/login.blade.php" timestamp="1543565797016">
         <mark key="[" line="120" column="109" />
         <mark key="]" line="120" column="108" />
@@ -432,20 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="39" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
-      <jump line="56" column="22" filename="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" />
-      <jump line="9" column="39" filename="$USER_HOME$/Projects/finish-building/domain/Products/BaseProduct.php" />
-      <jump line="67" column="74" filename="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" />
-      <jump line="84" column="4" filename="$USER_HOME$/Projects/finish-building/domain/Products/CustomProduct.php" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/CustomProduct.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/CustomProduct.php" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/CustomProduct.php" />
-      <jump line="10" column="13" filename="$USER_HOME$/Projects/finish-building/domain/Products/CustomProduct.php" />
-      <jump line="16" column="9" filename="$USER_HOME$/Projects/finish-building/domain/Products/CustomProduct.php" />
-      <jump line="21" column="25" filename="$USER_HOME$/Projects/finish-building/domain/Products/CustomProduct.php" />
-      <jump line="45" column="36" filename="$USER_HOME$/Projects/finish-building/domain/Products/CustomProduct.php" />
-      <jump line="6" column="29" filename="$USER_HOME$/Projects/finish-building/domain/Products/Flashing.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/Flashing.php" />
       <jump line="61" column="51" filename="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/app/Product.php" />
@@ -532,43 +535,57 @@
       <jump line="60" column="16" filename="$USER_HOME$/Projects/bols/app/Console/Commands/WordpressImport.php" />
       <jump line="62" column="12" filename="$USER_HOME$/Projects/bols/app/Console/Commands/WordpressImport.php" />
       <jump line="59" column="12" filename="$USER_HOME$/Projects/bols/app/Console/Commands/WordpressImport.php" />
+      <jump line="225" column="18" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
+      <jump line="592" column="34" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
+      <jump line="556" column="8" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
+      <jump line="571" column="8" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
+      <jump line="584" column="8" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
+      <jump line="630" column="8" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
+      <jump line="811" column="9" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
+      <jump line="682" column="9" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
+      <jump line="737" column="23" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
+      <jump line="77" column="7" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/ConstructionPlates.php" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/ConstructionPlates.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/ConstructionPlates.php" />
+      <jump line="76" column="8" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/ConstructionPlates.php" />
+      <jump line="47" column="16" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/ConstructionPlates.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>62</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>62</text>
       </register>
       <register name="/" type="4">
-        <text>\r\s</text>
+        <text>4</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkZXZlbnRzID0gRXZlbnQ6OndpdGgoWydjbGllbnQnLCAnZ29sZmNsdWInXSkKICAgICAgICAgICAgLT53aGVyZUhhcygnY2xpZW50JywgZnVuY3Rpb24gKCRxdWVyeSkgewogICAgICAgICAgICAgICAgJHF1ZXJ5LT53aGVyZSgnc2hvd19vbl93ZWJzaXRlJywgdHJ1ZSk7CiAgICAgICAgICAgIH0pCiAgICAgICAgICAgIC0+d2hlcmVOdWxsKCdzeW5jX2F0JykKICAgICAgICAgICAgLT5nZXQoKTsK</text>
+      <register name="0" type="4">
+        <text>5001</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPm1hcEhvd2ljaygyMSwgMjIpLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoaW5fYXJyYXkoJHJlc3BvbnNlLT5nZXRTdGF0dXNDb2RlKCksIFsyMDAsIDIwMSwgMjA0XSkpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIC0+Z2V0KCk7CiAgICAgICAgICAgICRldmVudHMgPSBFdmVudDo6d2hlcmVOdWxsKCdzeW5jX2F0Jyk=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPm1hcEhvd2ljaygxOCwgMTkgICAgICAgICAgICAkdGhpcy0+c2VsZWN0QnlXaWR0aCgxMDA0LCAxMDA1LCAxMDA2KSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0cyA9IFVzZXI6OndoZXJlU3RhdHVzKDApLT5nZXQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgJHByZXZpb3VzUHJpY2VzID0gT2ZmZXI6OndoZXJlQmV0d2VlbignY3JlYXRlZF9hdCcsICR0aGlzLT5wcmV2aW91c1JhbmdlKCRyZXF1ZXN0LT5yYW5nZSkpCiAgICAgICAgICAgIC0+Z2V0KCkKICAgICAgICAgICAgLT5tYXAoZnVuY3Rpb24gKCRvZmZlcikgewogICAgICAgICAgICAgICAgcmV0dXJuICRvZmZlci0+Z2V0QnVpbGRpbmcoKS0+Z2V0UHJpY2UoKTsKICAgICAgICAgICAgfSkKICAgICAgICAgICAgLT5zdW0oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPm1hcEhvd2ljaygxNSwgMTYpLAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">d2hlcmVCZXR3ZWVuKCdjcmVhdGVkX2F0JywgJHRoaXMtPmN1cnJlbnRSYW5nZSgkcmVxdWVzdC0+cmFuZ2UpKQogICAgICAgICAgICAtPmdldCgp</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPm1hcEhvd2ljaygxMiwgMTMpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5tYXAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGlkLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -597,33 +614,27 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gKCRvZmZlcikgewogICAgICAgICAgICAgICAgcmV0dXJuICRvZmZlci0+Z2V0QnVpbGRpbmcoKS0+Z2V0UHJpY2UoKTsKICAgICAgICAgICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gJHRoaXMtPmNvdW50KCRyZXF1ZXN0LCBPZmZlcjo6Y2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkaWQgPSAxMDAxOwogICAgICAgIGlmICgkdGhpcy0+Z2V0V2lkdGgoKSA+IDYwMDApIHsKICAgICAgICAgICAgJGlkID0gMTAwMjsKICAgICAgICB9CiAgICAgICAgaWYgKCR0aGlzLT5nZXRXaWR0aCgpID4gODAwMCkgewogICAgICAgICAgICAkaWQgPSAxMDAzOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1xyXHMvL2c=</text>
+        <text encoding="base64">JzwsJz5zL3ByaWNlIjogMS9wcmljZSI6IDUwMA==</text>
       </register>
     </registers>
     <search>
-      <last-search>\r\s</last-search>
+      <last-search>4</last-search>
       <last-offset />
-      <last-pattern>\r\s</last-pattern>
-      <last-replace />
-      <last-substitute>\r\s</last-substitute>
+      <last-pattern>4</last-pattern>
+      <last-replace>price&quot;: 500</last-replace>
+      <last-substitute>price&quot;: 1</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>N</entry>
-        <entry>'</entry>
-        <entry>project</entry>
-        <entry>of</entry>
-        <entry>fu</entry>
-        <entry>)</entry>
         <entry>Sto</entry>
         <entry>app</entry>
         <entry>offer</entry>
@@ -638,11 +649,14 @@
         <entry>\w</entry>
         <entry>\s</entry>
         <entry>\r\s</entry>
+        <entry>Pan</entry>
+        <entry>10</entry>
+        <entry>12</entry>
+        <entry>w</entry>
+        <entry>price&quot;: 1</entry>
+        <entry>4</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL292ZXJoZWFkX2Rvb3IvZ3V0dGVyX3R5cGUvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL3VuaXQvYXNzZW1ibHkvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL2Fzc2VtYmx5L3Blcm1pdF9zdGF0dXMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2Fzc2VtYmx5L2ZvdW5kYXRpb24vZw==</entry>
         <entry encoding="base64">JzwsJz5zL3Byb2R1Y3Qvb2ZmZXI=</entry>
         <entry encoding="base64">JzwsJz5zL3Byb2R1Y3QvaXRlbS9n</entry>
@@ -660,6 +674,9 @@
         <entry encoding="base64">JzwsJz5zL1xzLy8=</entry>
         <entry encoding="base64">JzwsJz5zL1xzLy9n</entry>
         <entry encoding="base64">JzwsJz5zL1xyXHMvL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzEyLzE1L2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzEyLzIwL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3ByaWNlIjogMS9wcmljZSI6IDUwMA==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
