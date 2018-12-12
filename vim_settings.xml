@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/finish-building/app/Http/Controllers/OfferController.php" timestamp="1544603363138">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/TrayGutter.php" timestamp="1544525735833">
         <mark key="[" line="16" column="12" />
         <mark key="]" line="16" column="15" />
@@ -107,6 +112,11 @@
         <mark key="." line="38" column="12" />
         <mark key="^" line="38" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/routes/api.php" timestamp="1544628126264">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/.env.example" timestamp="1544443457454">
         <mark key="[" line="7" column="10" />
         <mark key="]" line="7" column="10" />
@@ -175,14 +185,19 @@
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1544624032541">
-        <mark key="'" line="349" column="57" />
-        <mark key="[" line="334" column="0" />
-        <mark key="m" line="743" column="42" />
-        <mark key="]" line="334" column="0" />
-        <mark key="n" line="825" column="28" />
-        <mark key="." line="334" column="0" />
-        <mark key="^" line="342" column="46" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1544628467385">
+        <mark key="'" line="806" column="64" />
+        <mark key="[" line="746" column="45" />
+        <mark key="m" line="744" column="42" />
+        <mark key="]" line="746" column="44" />
+        <mark key="n" line="826" column="28" />
+        <mark key="." line="746" column="44" />
+        <mark key="^" line="746" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/tests/Unit/ExampleTest.php" timestamp="1544533521755">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Nova/Metrics/TotalOfferValue.php" timestamp="1544443642431">
         <mark key="'" line="24" column="13" />
@@ -191,12 +206,12 @@
         <mark key="." line="24" column="36" />
         <mark key="^" line="24" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/Offer.js" timestamp="1544623981854">
-        <mark key="'" line="101" column="16" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="50" />
-        <mark key="^" line="16" column="20" />
-        <mark key="." line="101" column="0" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/Offer.js" timestamp="1544627994799">
+        <mark key="'" line="102" column="16" />
+        <mark key="[" line="89" column="47" />
+        <mark key="]" line="89" column="47" />
+        <mark key="^" line="89" column="47" />
+        <mark key="." line="89" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingWallPlating.php" timestamp="1544603686797">
         <mark key="'" line="30" column="0" />
@@ -236,12 +251,11 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="67" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Offer.php" timestamp="1544624875301">
-        <mark key="'" line="23" column="30" />
-        <mark key="[" line="78" column="81" />
-        <mark key="]" line="78" column="79" />
-        <mark key="." line="78" column="79" />
-        <mark key="^" line="78" column="79" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Offer.php" timestamp="1544628194121">
+        <mark key="[" line="65" column="12" />
+        <mark key="]" line="65" column="62" />
+        <mark key="." line="65" column="62" />
+        <mark key="^" line="65" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/libs/helpers.js" timestamp="1543482909832">
         <mark key="[" line="62" column="36" />
@@ -285,8 +299,23 @@
         <mark key="." line="30" column="31" />
         <mark key="^" line="30" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/domain/Sections/BackFacade.php" timestamp="1544533729860">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/nustar-meldpunt/app/Http/Middleware/EncryptCookies.php" timestamp="1544608290114">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Api/V1/Access/UserController.php" timestamp="1544445605207">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/BuildingProducts.php" timestamp="1544606505263">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/config/services.php" timestamp="1544612145728">
         <mark key="[" line="16" column="51" />
@@ -310,12 +339,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="23" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/Doors.php" timestamp="1544624553456">
+      <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/Doors.php" timestamp="1544626676728">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="41" column="13" />
-        <mark key="]" line="41" column="13" />
-        <mark key="^" line="41" column="13" />
-        <mark key="." line="41" column="13" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/Flashings.php" timestamp="1544534741961">
         <mark key="[" line="171" column="20" />
@@ -338,6 +366,11 @@
       </file>
       <file name="$USER_HOME$/Projects/vetclass/storage/logs/laravel.log" timestamp="1544617054670">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/FinishGutter.php" timestamp="1544525680304">
+        <mark key="[" line="79" column="15" />
+        <mark key="]" line="79" column="16" />
+        <mark key="." line="79" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/src/PriceScale.php" timestamp="1544174656474">
         <mark key="[" line="19" column="0" />
@@ -441,6 +474,11 @@
         <mark key="." line="49" column="5" />
         <mark key="^" line="49" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/nustar-meldpunt/config/cache.php" timestamp="1544611837636">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1544621915790">
         <mark key="[" line="0" column="0" />
       </file>
@@ -464,12 +502,12 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/database/factories/OfferFactory.php" timestamp="1544621910719">
+      <file name="$USER_HOME$/Projects/finish-building/database/factories/OfferFactory.php" timestamp="1544625946295">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="40" />
-        <mark key="]" line="20" column="39" />
-        <mark key="^" line="20" column="39" />
-        <mark key="." line="20" column="39" />
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="20" column="37" />
+        <mark key="^" line="20" column="37" />
+        <mark key="." line="20" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Products/Product.php" timestamp="1544173569569">
         <mark key="'" line="56" column="22" />
@@ -519,24 +557,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/PlatingOptions.php" />
-      <jump line="60" column="5" filename="$USER_HOME$/Projects/finish-building/domain/Products/PlatingOptions.php" />
-      <jump line="105" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/PlatingOptions.php" />
-      <jump line="51" column="49" filename="$USER_HOME$/Projects/finish-building/domain/Products/PlatingOptions.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/PlatingOptions.php" />
-      <jump line="106" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/PlatingOptions.php" />
-      <jump line="121" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/PlatingOptions.php" />
-      <jump line="12" column="3" filename="$USER_HOME$/Projects/finish-building/domain/Products/PlatingOptions.php" />
-      <jump line="37" column="32" filename="$USER_HOME$/Projects/finish-building/app/Enums/BuildingWallPlating.php" />
-      <jump line="38" column="24" filename="$USER_HOME$/Projects/finish-building/app/Enums/BuildingWallPlating.php" />
-      <jump line="66" column="0" filename="$USER_HOME$/Projects/finish-building/app/Enums/BuildingWallPlating.php" />
-      <jump line="68" column="43" filename="$USER_HOME$/Projects/finish-building/app/Enums/BuildingWallPlating.php" />
-      <jump line="71" column="13" filename="$USER_HOME$/Projects/finish-building/app/Enums/BuildingWallPlating.php" />
-      <jump line="30" column="0" filename="$USER_HOME$/Projects/finish-building/app/Enums/BuildingWallPlating.php" />
-      <jump line="851" column="57" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="221" column="27" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="218" column="69" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/config/mail.php" />
       <jump line="18" column="5" filename="$USER_HOME$/Projects/finish-building/config/mail.php" />
       <jump line="95" column="32" filename="$USER_HOME$/Projects/finish-building/config/mail.php" />
       <jump line="9" column="62" filename="$USER_HOME$/Projects/finish-building/config/mail.php" />
@@ -549,7 +569,6 @@
       <jump line="729" column="44" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="732" column="57" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="736" column="51" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="806" column="86" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="807" column="28" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="854" column="52" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="814" column="16" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
@@ -619,43 +638,62 @@
       <jump line="23" column="30" filename="$USER_HOME$/Projects/finish-building/app/Offer.php" />
       <jump line="24" column="5" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/WallPlating.php" />
       <jump line="39" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/Doors.php" />
+      <jump line="67" column="8" filename="$USER_HOME$/Projects/finish-building/app/Offer.php" />
+      <jump line="357" column="37" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="862" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="334" column="47" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="532" column="32" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="536" column="32" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="537" column="34" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="538" column="40" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="540" column="43" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="542" column="50" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="545" column="55" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="551" column="43" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="571" column="47" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="585" column="47" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="770" column="38" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="775" column="30" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="781" column="81" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="800" column="30" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="806" column="64" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sort(</text>
+        <text>text</text>
       </register>
       <register name="-" type="4">
-        <text>sort(</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
-        <text>products</text>
+        <text>text</text>
       </register>
       <register name="0" type="4">
-        <text>getOverheadDoorOptions</text>
+        <text encoding="base64">Z2V0QnVpbGRpbmcoKS0+ZGlzcGxheVByaWNlKCk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5nZXRDCg==</text>
+        <text encoding="base64">CiAgICAvLyByZXR1cm4gQXBwXE9mZmVyOjptYWtlKCRkYXRhKS0+Z2V0QnVpbGRpbmcoKS0+ZGlzcGxheVByaWNlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgIF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5nZXRXYWxsUGxhdGluZygpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmdldFdpY2tldERvb3JzKCksCiAgICAgICAgICAgICR0aGlzLT5nZXRPdmVyaGVhZERvb3IoKSwK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIGRkKCRkYXRhKTsKICAgIGRkKCRvZmZlcik7</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7IG9mZmVyLm92ZXJoZWFkX2Rvb3Jfb3B0aW9ucyB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7IG9mZmVyLn19Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IAogICAgcmV0dXJu</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -685,19 +723,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBpZiAoJHRoaXMtPmF0dHJpYnV0ZXNbJ292ZXJoZWFkX2Rvb3Jfb3B0aW9ucyddID8/IG51bGwgPT09IG51bGwpIHsKICAgICAgICAgICAgICAgIGRkKCR0aGlzLT5hdHRyaWJ1dGVzWydvdmVyaGVhZF9kb29yX29wdGlvbnMnXSA/PyBudWxsID09PSBudWxsKTsKICAgICAgICAgICAgICAgIC8vIGRkKCR0aGlzLT5hdHRyaWJ1dGVzWydvdmVyaGVhZF9kb29yX29wdGlvbnMnXSA/PyBudWxsKTsKICAgICAgICAgICAgICAgIHJldHVybiBbXTsKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2ggKFxFeGNlcHRpb24gJGV4Y2VwdGlvbikgewogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgJHRoaXMtPmF0dHJpYnV0ZXNbJ292ZXJoZWFkX2Rvb3Jfb3B0aW9ucyddID0gaW1wbG9kZSgnLCcsICRvcHRpb25zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR0aGlzLT5hdHRyaWJ1dGVzWydvdmVyaGVhZF9kb29yX29wdGlvbnMnXSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Byb2R1Y3RzL29wdGlvbnM=</text>
       </register>
     </registers>
     <search>
-      <last-search>products</last-search>
+      <last-search>text</last-search>
       <last-offset />
-      <last-pattern>products</last-pattern>
+      <last-pattern>text</last-pattern>
       <last-replace>options</last-replace>
       <last-substitute>products</last-substitute>
       <last-dir>1</last-dir>
@@ -705,10 +743,6 @@
     </search>
     <history>
       <history-search>
-        <entry>web</entry>
-        <entry>50</entry>
-        <entry>wall</entry>
-        <entry>wand</entry>
         <entry>Wall</entry>
         <entry>pro</entry>
         <entry>Action</entry>
@@ -725,6 +759,10 @@
         <entry>Door</entry>
         <entry>build</entry>
         <entry>products</entry>
+        <entry>??</entry>
+        <entry>overh</entry>
+        <entry>count</entry>
+        <entry>text</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ZhbHVlL2V4cHJlc3Npb24=</entry>
