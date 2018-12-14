@@ -438,6 +438,10 @@
         <mark key="^" line="45" column="4" />
         <mark key="." line="45" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/nustar-meldpunt/api/User/Http/Controllers/UserController.php" timestamp="1544780558920">
+        <mark key="'" line="33" column="19" />
+        <mark key="[" line="129" column="43" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Building.php" timestamp="1544624136449">
         <mark key="'" line="66" column="8" />
         <mark key="[" line="119" column="5" />
@@ -542,7 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="390" column="31" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
       <jump line="391" column="22" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
       <jump line="397" column="18" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
       <jump line="403" column="18" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
@@ -642,6 +645,7 @@
       <jump line="170" column="12" filename="$USER_HOME$/Projects/finish-building/Envoy.blade.php" />
       <jump line="46" column="30" filename="$USER_HOME$/Projects/finish-building/tests/Feature/OfferTest.php" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/finish-building/.gitignore" />
+      <jump line="33" column="19" filename="$USER_HOME$/Projects/nustar-meldpunt/api/User/Http/Controllers/UserController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -651,7 +655,7 @@
         <text>nova-</text>
       </register>
       <register name="/" type="4">
-        <text>compo</text>
+        <text>send</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Zm9yIGQgaW4gLi9ub3ZhLWNvbXBvbmVudHMvKjsgZG8KICAgIChjZCAiJGQiICYmIGNvbXBvc2VyIGluc3RhbGwgJiYgeWFybiBpbnN0YWxsICYmIHlhcm4gcnVuIHByb2QgLS1wcm9ncmVzcyBmYWxzZSk7CmRvbmUK</text>
@@ -718,9 +722,9 @@
       </register>
     </registers>
     <search>
-      <last-search>compo</last-search>
+      <last-search>send</last-search>
       <last-offset />
-      <last-pattern>compo</last-pattern>
+      <last-pattern>send</last-pattern>
       <last-replace>options</last-replace>
       <last-substitute>products</last-substitute>
       <last-dir>1</last-dir>
@@ -728,7 +732,6 @@
     </search>
     <history>
       <history-search>
-        <entry>insu</entry>
         <entry>placeh</entry>
         <entry>wa300</entry>
         <entry>-0</entry>
@@ -748,6 +751,7 @@
         <entry>'</entry>
         <entry>unit&quot;: 0</entry>
         <entry>compo</entry>
+        <entry>send</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3ZhbHVlL2V4cHJlc3Npb24=</entry>
