@@ -140,10 +140,6 @@
         <mark key="." line="882" column="22" />
         <mark key="^" line="882" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/nustar-meldpunt/tests/ApiTestCase.php" timestamp="1544693075140">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="73" />
-      </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Elements/FacadeElement.php" timestamp="1542874833263">
         <mark key="[" line="47" column="84" />
         <mark key="]" line="48" column="11" />
@@ -216,11 +212,11 @@
         <mark key="." line="23" column="11" />
         <mark key="^" line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Offer.php" timestamp="1544628194121">
-        <mark key="[" line="65" column="12" />
-        <mark key="]" line="65" column="62" />
-        <mark key="." line="65" column="62" />
-        <mark key="^" line="65" column="62" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Offer.php" timestamp="1544781742638">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="80" column="5" />
+        <mark key="^" line="60" column="62" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/libs/helpers.js" timestamp="1543482909832">
         <mark key="[" line="62" column="36" />
@@ -285,10 +281,6 @@
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/bols/app/Http/Controllers/ExportController.php" timestamp="1544451401432">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="18" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/app/Http/Middleware/EncryptCookies.php" timestamp="1544608290114">
         <mark key="[" line="8" column="0" />
@@ -385,10 +377,6 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
         <mark key="^" line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/nustar-meldpunt/phpunit.xml" timestamp="1544693407487">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="31" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Nova/Actions/EditOffer.php" timestamp="1543578534145">
         <mark key="[" line="24" column="43" />
@@ -648,8 +636,8 @@
       <jump line="33" column="19" filename="$USER_HOME$/Projects/nustar-meldpunt/api/User/Http/Controllers/UserController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>nova-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0Q3VzdG9tUHJvZHVjdHNBdHRyaWJ1dGUoYXJyYXkgJGN1c3RvbVByb2R1Y3RzKQogICAgewogICAgICAgICR0aGlzLT5hdHRyaWJ1dGVzWydjdXN0b21fcHJvZHVjdHMnXSA9IGpzb25fZW5jb2RlKCRjdXN0b21Qcm9kdWN0cyk7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>nova-</text>
@@ -660,29 +648,29 @@
       <register name="0" type="2">
         <text encoding="base64">Zm9yIGQgaW4gLi9ub3ZhLWNvbXBvbmVudHMvKjsgZG8KICAgIChjZCAiJGQiICYmIGNvbXBvc2VyIGluc3RhbGwgJiYgeWFybiBpbnN0YWxsICYmIHlhcm4gcnVuIHByb2QgLS1wcm9ncmVzcyBmYWxzZSk7CmRvbmUK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgJHJlc3BvbnNlID0gJHRoaXMtPmdldCgiL2J1aWxkaW5nL3skb2ZmZXItPmlkfSIpOwoKIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0Q3VzdG9tUHJvZHVjdHNBdHRyaWJ1dGUoYXJyYXkgJGN1c3RvbVByb2R1Y3RzKQogICAgewogICAgICAgICR0aGlzLT5hdHRyaWJ1dGVzWydjdXN0b21fcHJvZHVjdHMnXSA9IGpzb25fZW5jb2RlKCRjdXN0b21Qcm9kdWN0cyk7CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgJHJlc3BvbnNlID0gJHRoaXMtPmdldCgiL2J1aWxkaW5nL3skb2ZmZXItPmlkfSIpOwo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRDdXN0b21Qcm9kdWN0c0F0dHJpYnV0ZShhcnJheSAkY3VzdG9tUHJvZHVjdHMpCiAgICB7CiAgICAgICAgJHRoaXMtPmF0dHJpYnV0ZXNbJ2N1c3RvbV9wcm9kdWN0cyddID0ganNvbl9lbmNvZGUoJGN1c3RvbVByb2R1Y3RzKTsKICAgIH0K</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgJHJlc3BvbnNlID0gJHRoaXMtPmdldCgiL2J1aWxkaW5nL3skb2ZmZXItPmlkfSIpOwoKIA==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgJHJlc3BvbnNlID0gJHRoaXMtPmdldCgiL2J1aWxkaW5nL3skb2ZmZXItPmlkfSIpOwo=</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">CgogICAgICAgICRyZXNwb25zZSA9ICR0aGlzLT5nZXQoIi9idWlsZGluZy97JG9mZmVyLT5pZH0iKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">VmZvciBkIGluIC4vbm92YS1jb21wb25lbnRzLyo7IGRvCiAgICAoY2QgIiRkIiAmJiB5YXJuIHJ1biB3YXRjaCkgJgpkb25lCmVjaG8gJ1dhdGNoaW5nIGFsbCBOb3ZhIGNvbXBvbmVudHMnOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXNkCg==</text>
+        <text encoding="base64">VmZvciBkIGluIC4vbm92YS1jb21wb25lbnRzLyo7IGRvCiAgICAoY2QgIiRkIiAmJiB5YXJuIHJ1biB3YXRjaCkgJgpkb25lCmVjaG8gJ1dhdGNoaW5nIGFsbCBOb3ZhIGNvbXBvbmVudHMnOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -712,10 +700,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2RhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UtPmV4Y2VwdGlvbik7Cg==</text>
+        <text encoding="base64">YXNkCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Byb2R1Y3RzL29wdGlvbnM=</text>
