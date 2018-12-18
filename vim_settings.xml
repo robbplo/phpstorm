@@ -39,8 +39,8 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/sso/storage/logs/laravel-2018-12-18.log" timestamp="1545128112363">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/sso/storage/logs/laravel-2018-12-18.log" timestamp="1545130985932">
+        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/infrastructure/PartsList.php" timestamp="1544695841141">
         <mark key="'" line="47" column="0" />
@@ -521,7 +521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="727" column="8" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="409" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="789" column="56" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="393" column="31" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
@@ -620,7 +619,8 @@
       <jump line="17" column="8" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/Content/HomeController.php" />
       <jump line="50" column="58" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/Content/HomeController.php" />
       <jump line="80" column="74" filename="$USER_HOME$/Projects/finish-building/app/Offer.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/sso/storage/logs/laravel-2018-12-18.log" />
+      <jump line="0" column="106" filename="$USER_HOME$/Projects/sso/storage/logs/laravel-2018-12-18.log" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/sso/storage/logs/laravel-2018-12-18.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -630,7 +630,7 @@
         <text encoding="base64">JHRoaXMtPnVzZXItPmhhc1JvbGUo</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJzVkNTU2MTgyMmYnID0+ICR0aGlzLT51c2VyLT5hY2NvdW50X21ldGhvZCA9PT0gJ2RpZXJlbmFydHMnICYmICR0aGlzLT51c2VyLT5oYXNSb2xlKCdDYXRlZ29yeTogU3dpbmUnKSwKICAgICAgICAgICAgJ2QyY2YwMTFjOTQnID0+ICR0aGlzLT51c2VyLT5hY2NvdW50X21ldGhvZCA9PT0gJ2RpZXJlbmFydHMnICYmICR0aGlzLT51c2VyLT5oYXNSb2xlKCdDYXRlZ29yeTogQ2F0dGxlJyksCiAgICAgICAgICAgICc1NzI3ZGU4NzhmJyA9PiAkdGhpcy0+dXNlci0+YWNjb3VudF9tZXRob2QgPT09ICdkaWVyZW5hcnRzJyAmJiAkdGhpcy0+dXNlci0+aGFzUm9sZSgnQ2F0ZWdvcnk6IEVxdWluZScpLAogICAgICAgICAgICAnMjdhYmU1MWZlZCcgPT4gJHRoaXMtPnVzZXItPmFjY291bnRfbWV0aG9kID09PSAnZGllcmVuYXJ0cycgJiYgJHRoaXMtPnVzZXItPmhhc1JvbGUoJ0NhdGVnb3J5OiBQZXRzJyksCiAgICAgICAgICAgICc3YjYzZTNhZGUxJyA9PiAkdGhpcy0+dXNlci0+YWNjb3VudF9tZXRob2QgPT09ICdkaWVyZW5hcnRzJyAmJiAkdGhpcy0+dXNlci0+aGFzUm9sZSgnQ2F0ZWdvcnk6IERvY3RvcnMnKSwK</text>
@@ -697,17 +697,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IA==</last-search>
+      <last-search>[</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IA==</last-pattern>
+      <last-pattern>[</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>`</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>config</entry>
         <entry>dd</entry>
         <entry>false</entry>
         <entry>Sw</entry>
@@ -727,6 +726,7 @@
         <entry>'</entry>
         <entry>`</entry>
         <entry encoding="base64">IA==</entry>
+        <entry>[</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0J1aWxkaW5nV2FsbFBsYXRpbmcvQnVpbGRpbmdSb29mUGxhdGluZy9n</entry>
