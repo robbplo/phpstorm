@@ -248,6 +248,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/nustar-meldpunt/api/Report/Http/Requests/ReportRequest.php" timestamp="1545142424286">
+        <mark key="'" line="22" column="27" />
+        <mark key="[" line="46" column="13" />
+        <mark key="]" line="46" column="13" />
+        <mark key="^" line="19" column="7" />
+        <mark key="." line="46" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/app/Exceptions/Handler.php" timestamp="1544607970182">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -541,9 +548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="56" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
-      <jump line="571" column="18" filename="$USER_HOME$/Projects/finish-building/database/seeds/products.json" />
-      <jump line="61" column="32" filename="$USER_HOME$/Projects/finish-building/resources/views/product_table.blade.php" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/finish-building/app/Http/Controllers/OfferController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/nustar-meldpunt/config/css-inliner.php" />
       <jump line="41" column="4" filename="$USER_HOME$/Projects/nustar-meldpunt/app/Providers/AppServiceProvider.php" />
@@ -641,40 +645,43 @@
       <jump line="64" column="70" filename="$USER_HOME$/Projects/vetclass/domain/MailchimpSync.php" />
       <jump line="126" column="97" filename="$USER_HOME$/Projects/vetclass/resources/views/frontend/user/profile/edit.blade.php" />
       <jump line="116" column="100" filename="$USER_HOME$/Projects/vetclass/domain/MailchimpSync.php" />
+      <jump line="18" column="4" filename="$USER_HOME$/Projects/nustar-meldpunt/api/Report/Http/Requests/ReportRequest.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/nustar-meldpunt/api/Report/Http/Requests/ReportRequest.php" />
+      <jump line="21" column="27" filename="$USER_HOME$/Projects/nustar-meldpunt/api/Report/Http/Requests/ReportRequest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGhpcy0+Ym9hdA==</text>
       </register>
       <register name="-" type="4">
-        <text>Names</text>
+        <text encoding="base64">dGhpcy0+Ym9hdA==</text>
       </register>
       <register name="/" type="4">
         <text>Names</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIEBpbmNsdWRlKCAnaW5jbHVkZXMucGFydGlhbHMubWVzc2FnZXMnICkK</text>
+        <text encoding="base64">ICAgICAgICAkYm9hdCA9IEJvYXQ6OmZpbmRPckZhaWwoJHRoaXMtPmJvYXRfdXVpZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGJvYXQ7CgogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KGFycmF5ICRxdWVyeSA9IFtdLCBhcnJheSAkcmVxdWVzdCA9IFtdLCBhcnJheSAkYXR0cmlidXRlcyA9IFtdLCBhcnJheSAkY29va2llcyA9IFtdLCBhcnJheSAkZmlsZXMgPSBbXSwgYXJyYXkgJHNlcnZlciA9IFtdLCAkY29udGVudCA9IG51bGwpCiAgICB7CgogICAgICAgIHBhcmVudDo6X19jb25zdHJ1Y3QoJHF1ZXJ5LCAkcmVxdWVzdCwgJGF0dHJpYnV0ZXMsICRjb29raWVzLCAkZmlsZXMsICRzZXJ2ZXIsICRjb250ZW50KTsKICAgIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB2ZXJpZnkgdGhhdCB0aGUgcHJldmlvdXMgY2F0ZWdvcmllcyBleGlzdAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">PQogICAgICAgICR0aGlzLT5ib2F0</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaW50ZXJlc3RzKTsKCiAgICAgICAgZGQoJHgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Ym9hdCA9IEJvYXQ6OmZpbmRPckZhaWwoJHRoaXMtPmJvYXRfdXVpZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkeCA9ICcnOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Ym9hdCA9IEJvYXQ6OmZpbmRPckZhaWwoJHRoaXMtPmJvYXRfdXVpZCk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAkdXNlckludGVyZXN0cyA9IGNvbGxlY3QoJGludGVyZXN0c1skY2F0ZWdvcnldKS0+bWFwV2l0aEtleXMoZnVuY3Rpb24gKCRpbnRlcmVzdCkgdXNlICgkaW50ZXJlc3ROYW1lcykgewogICAgICAgICAgICByZXR1cm4gWyRpbnRlcmVzdFsnaWQnXSA9PiBhY2Nlc3MoKS0+dXNlcigpLT5oYXNSb2xlKCRpbnRlcmVzdE5hbWVzWyRpbnRlcmVzdFsnbmFtZSddXSldOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGJvYXQ7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -707,10 +714,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgLy8gcmV0dXJuIFsKICAgICAgICAvLyAgICAgJzVkNTU2MTgyMmYnID0+ICR0aGlzLT51c2VyLT5hY2NvdW50X21ldGhvZCA9PT0gJ2RpZXJlbmFydHMnICYmICR0aGlzLT51c2VyLT5oYXNSb2xlKCdDYXRlZ29yeTogU3dpbmUnKSwKICAgICAgICAvLyAgICAgJ2QyY2YwMTFjOTQnID0+ICR0aGlzLT51c2VyLT5hY2NvdW50X21ldGhvZCA9PT0gJ2RpZXJlbmFydHMnICYmICR0aGlzLT51c2VyLT5oYXNSb2xlKCdDYXRlZ29yeTogQ2F0dGxlJyksCiAgICAgICAgLy8gICAgICc1NzI3ZGU4NzhmJyA9PiAkdGhpcy0+dXNlci0+YWNjb3VudF9tZXRob2QgPT09ICdkaWVyZW5hcnRzJyAmJiAkdGhpcy0+dXNlci0+aGFzUm9sZSgnQ2F0ZWdvcnk6IEVxdWluZScpLAogICAgICAgIC8vICAgICAnMjdhYmU1MWZlZCcgPT4gJHRoaXMtPnVzZXItPmFjY291bnRfbWV0aG9kID09PSAnZGllcmVuYXJ0cycgJiYgJHRoaXMtPnVzZXItPmhhc1JvbGUoJ0NhdGVnb3J5OiBQZXRzJyksCiAgICAgICAgLy8gICAgICc3YjYzZTNhZGUxJyA9PiAkdGhpcy0+dXNlci0+YWNjb3VudF9tZXRob2QgPT09ICdkaWVyZW5hcnRzJyAmJiAkdGhpcy0+dXNlci0+aGFzUm9sZSgnQ2F0ZWdvcnk6IERvY3RvcnMnKSwKICAgICAgICAvLyAgICAgIjhmNGFmODA1NTkiID0+ICR0aGlzLT51c2VyLT5hY2NvdW50X21ldGhvZCA9PT0gJ3BhcmF2ZXRlcmluYWlyJyAmJiAkdGhpcy0+dXNlci0+aGFzUm9sZSgnQ2F0ZWdvcnk6IFN3aW5lJyksCiAgICAgICAgLy8gICAgICJhOTc1YTZjOTk3IiA9PiAkdGhpcy0+dXNlci0+YWNjb3VudF9tZXRob2QgPT09ICdwYXJhdmV0ZXJpbmFpcicgJiYgJHRoaXMtPnVzZXItPmhhc1JvbGUoJ0NhdGVnb3J5OiBDYXR0bGUnKSwKICAgICAgICAvLyAgICAgIjQ1NjkzNDRlOTYiID0+ICR0aGlzLT51c2VyLT5hY2NvdW50X21ldGhvZCA9PT0gJ3BhcmF2ZXRlcmluYWlyJyAmJiAkdGhpcy0+dXNlci0+aGFzUm9sZSgnQ2F0ZWdvcnk6IEVxdWluZScpLAogICAgICAgIC8vICAgICAiNDJhN2I0NWM3MiIgPT4gJHRoaXMtPnVzZXItPmFjY291bnRfbWV0aG9kID09PSAncGFyYXZldGVyaW5haXInICYmICR0aGlzLT51c2VyLT5oYXNSb2xlKCdDYXRlZ29yeTogUGV0cycpLAogICAgICAgIC8vICAgICAiMTg1MGQ4NzBiNyIgPT4gJHRoaXMtPnVzZXItPmFjY291bnRfbWV0aG9kID09PSAncGFyYXZldGVyaW5haXInICYmICR0aGlzLT51c2VyLT5oYXNSb2xlKCdDYXRlZ29yeTogRG9jdG9ycycpLAogICAgICAgIC8vICAgICAiOTNkYjM3MmZmYyIgPT4gJHRoaXMtPnVzZXItPmFjY291bnRfbWV0aG9kID09PSAnc3R1ZGVudCcgJiYgJHRoaXMtPnVzZXItPmhhc1JvbGUoJ0NhdGVnb3J5OiBTd2luZScpLAogICAgICAgIC8vICAgICAiMWY2ZWY4OTM4NiIgPT4gJHRoaXMtPnVzZXItPmFjY291bnRfbWV0aG9kID09PSAnc3R1ZGVudCcgJiYgJHRoaXMtPnVzZXItPmhhc1JvbGUoJ0NhdGVnb3J5OiBDYXR0bGUnKSwKICAgICAgICAvLyAgICAgImNjMzNmNTcyNzUiID0+ICR0aGlzLT51c2VyLT5hY2NvdW50X21ldGhvZCA9PT0gJ3N0dWRlbnQnICYmICR0aGlzLT51c2VyLT5oYXNSb2xlKCdDYXRlZ29yeTogRXF1aW5lJyksCiAgICAgICAgLy8gICAgICJmMTM1MzUyMDViIiA9PiAkdGhpcy0+dXNlci0+YWNjb3VudF9tZXRob2QgPT09ICdzdHVkZW50JyAmJiAkdGhpcy0+dXNlci0+aGFzUm9sZSgnQ2F0ZWdvcnk6IFBldHMnKSwKICAgICAgICAvLyAgICAgImM0OWZiNGMzNTUiID0+ICR0aGlzLT51c2VyLT5hY2NvdW50X21ldGhvZCA9PT0gJ3N0dWRlbnQnICYmICR0aGlzLT51c2VyLT5oYXNSb2xlKCdDYXRlZ29yeTogRG9jdG9ycycpLAogICAgICAgIC8vICAgICAiNTc4YTY5MjZmMiIgPT4gJHRoaXMtPnVzZXItPmFjY291bnRfbWV0aG9kID09PSAnb3RoZXInICYmICR0aGlzLT51c2VyLT5oYXNSb2xlKCdDYXRlZ29yeTogU3dpbmUnKSwKICAgICAgICAvLyAgICAgImI1NzQ1NmU0ODUiID0+ICR0aGlzLT51c2VyLT5hY2NvdW50X21ldGhvZCA9PT0gJ290aGVyJyAmJiAkdGhpcy0+dXNlci0+aGFzUm9sZSgnQ2F0ZWdvcnk6IENhdHRsZScpLAogICAgICAgIC8vICAgICAiZDQ0ZTQzNzYyYSIgPT4gJHRoaXMtPnVzZXItPmFjY291bnRfbWV0aG9kID09PSAnb3RoZXInICYmICR0aGlzLT51c2VyLT5oYXNSb2xlKCdDYXRlZ29yeTogRXF1aW5lJyksCiAgICAgICAgLy8gICAgICJkZmM3Y2FjMjE4IiA9PiAkdGhpcy0+dXNlci0+YWNjb3VudF9tZXRob2QgPT09ICdvdGhlcicgJiYgJHRoaXMtPnVzZXItPmhhc1JvbGUoJ0NhdGVnb3J5OiBQZXRzJyksCiAgICAgICAgLy8gICAgICI1NzllZDIxYmE3IiA9PiAkdGhpcy0+dXNlci0+YWNjb3VudF9tZXRob2QgPT09ICdvdGhlcicgJiYgJHRoaXMtPnVzZXItPmhhc1JvbGUoJ0NhdGVnb3J5OiBEb2N0b3JzJyksCiAgICAgICAgLy8gXQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB2ZXJpZnkgdGhhdCB0aGUgcHJldmlvdXMgY2F0ZWdvcmllcyBleGlzdAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/Names/Roles/g</text>
