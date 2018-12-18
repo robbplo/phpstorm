@@ -95,10 +95,10 @@
       <file name="$USER_HOME$/Projects/bij.boehringer/app/Console/Kernel.php" timestamp="1545060110303">
         <mark key="'" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/vetclass/domain/MailchimpSync.php" timestamp="1545038169018">
+      <file name="$USER_HOME$/Projects/vetclass/domain/MailchimpSync.php" timestamp="1545122436476">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="47" column="118" />
         <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/Envoy.blade.php" timestamp="1545059133572">
@@ -390,10 +390,11 @@
         <mark key="]" line="28" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/finish2/Envoy.blade.php" timestamp="1545121229427" />
-      <file name="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/Content/HomeController.php" timestamp="1545120879941">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/Content/HomeController.php" timestamp="1545122655344">
+        <mark key="[" line="54" column="40" />
+        <mark key="]" line="54" column="41" />
+        <mark key="." line="54" column="41" />
+        <mark key="^" line="54" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/bij.boehringer/app/Console/Commands/ExportOrders.php" timestamp="1545060117281">
         <mark key="'" line="0" column="0" />
@@ -535,7 +536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="42" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/Offer.js" />
       <jump line="359" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="727" column="8" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="409" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
@@ -635,43 +635,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/bij.boehringer/app/Order.php" />
       <jump line="35" column="27" filename="$USER_HOME$/Projects/vetclass/.env" />
       <jump line="17" column="8" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/Content/HomeController.php" />
+      <jump line="50" column="58" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/Content/HomeController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXE5ld3NsZXR0ZXI6OmdldEFwaSgpLT5nZXQoJ2xpc3RzLycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>['categories']</text>
+        <text encoding="base64">JHRoaXMtPnVzZXItPmhhc1JvbGUo</text>
       </register>
       <register name="/" type="4">
-        <text>`</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkeCA9IFxOZXdzbGV0dGVyOjpnZXRBcGkoKS0+Z2V0KCdsaXN0cy9kMGY1MzA5NzY3L2ludGVyZXN0LWNhdGVnb3JpZXMnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJzVkNTU2MTgyMmYnID0+ICR0aGlzLT51c2VyLT5hY2NvdW50X21ldGhvZCA9PT0gJ2RpZXJlbmFydHMnICYmICR0aGlzLT51c2VyLT5oYXNSb2xlKCdDYXRlZ29yeTogU3dpbmUnKSwKICAgICAgICAgICAgJ2QyY2YwMTFjOTQnID0+ICR0aGlzLT51c2VyLT5hY2NvdW50X21ldGhvZCA9PT0gJ2RpZXJlbmFydHMnICYmICR0aGlzLT51c2VyLT5oYXNSb2xlKCdDYXRlZ29yeTogQ2F0dGxlJyksCiAgICAgICAgICAgICc1NzI3ZGU4NzhmJyA9PiAkdGhpcy0+dXNlci0+YWNjb3VudF9tZXRob2QgPT09ICdkaWVyZW5hcnRzJyAmJiAkdGhpcy0+dXNlci0+aGFzUm9sZSgnQ2F0ZWdvcnk6IEVxdWluZScpLAogICAgICAgICAgICAnMjdhYmU1MWZlZCcgPT4gJHRoaXMtPnVzZXItPmFjY291bnRfbWV0aG9kID09PSAnZGllcmVuYXJ0cycgJiYgJHRoaXMtPnVzZXItPmhhc1JvbGUoJ0NhdGVnb3J5OiBQZXRzJyksCiAgICAgICAgICAgICc3YjYzZTNhZGUxJyA9PiAkdGhpcy0+dXNlci0+YWNjb3VudF9tZXRob2QgPT09ICdkaWVyZW5hcnRzJyAmJiAkdGhpcy0+dXNlci0+aGFzUm9sZSgnQ2F0ZWdvcnk6IERvY3RvcnMnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXE5ld3NsZXR0ZXI6OmdldEFwaSgpLT5nZXQoJ2xpc3RzLycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkeCA9IFxOZXdzbGV0dGVyOjpnZXRBcGkoKS0+Z2V0KCJsaXN0cy9kMGY1MzA5NzY3L2ludGVyZXN0LWNhdGVnb3JpZXMveyRjYXRlZ29yeVsiaWQiXX0vaW50ZXJlc3RzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAnQ2F0ZWdvcnk6IENhdHRsZScKICAgICAgICAvLyAnQ2F0ZWdvcnk6IEVxdWluZScKICAgICAgICAvLyAnQ2F0ZWdvcnk6IFBldHMnCiAgICAgICAgLy8gJ0NhdGVnb3J5OiBEb2N0b3JzJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkeCA9IFxOZXdzbGV0dGVyOjpnZXRBcGkoKS0+Z2V0KCdsaXN0cy9kMGY1MzA5NzY3Jyk7CiAgICAgICAgLy8gZGQoJGNhdGVnb3J5SWRzKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyAkdGhpcy0+dXNlci0+aGFzUm9sZSgnJyksCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY2F0ZWdvcmllcyk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICdkaWVyZW5hcnRzJw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkY2F0ZWdvcnlJZHMgPSAkY2F0ZWdvcmllcy0+bWFwV2l0aEtleXMoZnVuY3Rpb24gKCRjYSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY2F0ZWdvcnkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkY2F0ZWdvcnlJZHMgPSBhcnJheV9tYXAoZnVuY3Rpb24gKCRjYXRlZ29yeSkgewogICAgICAgICAgICByZXR1cm4gWyRjYXRlZ29yeVsnaWQnXSA9PiAkY2F0ZWdvcnlbJ3RpdGxlJ11dOwogICAgICAgIH0sICRjYXRlZ29yaWVzWydjYXRlZ29yaWVzJ10pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY2F0ZWdvcmllcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNhdGVnb3J5KTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -701,27 +702,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNhdGVnb3JpZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFNwYXRpZVxOZXdzbGV0dGVyXE5ld3NsZXR0ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/`/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>`</last-search>
+      <last-search encoding="base64">IA==</last-search>
       <last-offset />
-      <last-pattern>`</last-pattern>
+      <last-pattern encoding="base64">IA==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>`</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mailC</entry>
         <entry>config</entry>
         <entry>dd</entry>
         <entry>false</entry>
@@ -741,6 +741,7 @@
         <entry>symlinks</entry>
         <entry>'</entry>
         <entry>`</entry>
+        <entry encoding="base64">IA==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0J1aWxkaW5nV2FsbFBsYXRpbmcvQnVpbGRpbmdSb29mUGxhdGluZy9n</entry>
@@ -782,6 +783,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
