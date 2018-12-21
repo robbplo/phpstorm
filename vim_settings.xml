@@ -119,12 +119,12 @@
         <mark key="." line="133" column="123" />
         <mark key="^" line="133" column="123" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" timestamp="1545389565340">
-        <mark key="'" line="31" column="21" />
-        <mark key="[" line="23" column="14" />
-        <mark key="]" line="23" column="10" />
-        <mark key="." line="23" column="10" />
-        <mark key="^" line="23" column="10" />
+      <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" timestamp="1545398816856">
+        <mark key="'" line="21" column="12" />
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="19" column="45" />
+        <mark key="." line="19" column="45" />
+        <mark key="^" line="19" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" timestamp="1545060021893">
         <mark key="[" line="72" column="37" />
@@ -453,7 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="52" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
       <jump line="468" column="23" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
       <jump line="475" column="16" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
       <jump line="1040" column="0" filename="$USER_HOME$/Projects/vetclass/storage/logs/laravel.log" />
@@ -553,16 +552,17 @@
       <jump line="48" column="32" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
       <jump line="57" column="9" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
       <jump line="28" column="21" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
+      <jump line="20" column="12" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">WydoZWFkZXJzJyA9PiBb</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">WydoZWFkZXJzJyA9PiBb</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>client</text>
+        <text>3</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZCgoc3RyaW5nKSRyZXMtPmdldEJvZHkoKSk7Cg==</text>
@@ -629,9 +629,9 @@
       </register>
     </registers>
     <search>
-      <last-search>client</last-search>
+      <last-search>3</last-search>
       <last-offset />
-      <last-pattern>client</last-pattern>
+      <last-pattern>3</last-pattern>
       <last-replace>action</last-replace>
       <last-substitute>method</last-substitute>
       <last-dir>1</last-dir>
@@ -639,7 +639,6 @@
     </search>
     <history>
       <history-search>
-        <entry>LIFE</entry>
         <entry>d</entry>
         <entry>Names</entry>
         <entry>pell</entry>
@@ -659,6 +658,7 @@
         <entry>'</entry>
         <entry>method</entry>
         <entry>client</entry>
+        <entry>3</entry>
       </history-search>
       <history-cmd>
         <entry>s/roof/wall/g</entry>
