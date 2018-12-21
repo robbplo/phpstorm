@@ -47,11 +47,11 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/routes/api.php" timestamp="1545317643050">
-        <mark key="[" line="20" column="7" />
-        <mark key="]" line="20" column="10" />
-        <mark key="." line="20" column="10" />
-        <mark key="^" line="20" column="10" />
+      <file name="$USER_HOME$/Projects/materialen/routes/api.php" timestamp="1545388820616">
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+        <mark key="^" line="22" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud/ArticleController.php" timestamp="1545317017367">
         <mark key="j" line="12" column="31" />
@@ -119,6 +119,13 @@
         <mark key="." line="133" column="123" />
         <mark key="^" line="133" column="123" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" timestamp="1545389565340">
+        <mark key="'" line="31" column="21" />
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="23" column="10" />
+        <mark key="." line="23" column="10" />
+        <mark key="^" line="23" column="10" />
+      </file>
       <file name="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" timestamp="1545060021893">
         <mark key="[" line="72" column="37" />
         <mark key="]" line="72" column="37" />
@@ -149,7 +156,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/ApiAssistant.php" timestamp="1545319887390">
+      <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/ApiAssistant.php" timestamp="1545384954502">
         <mark key="'" line="18" column="19" />
         <mark key="[" line="13" column="5" />
         <mark key="]" line="14" column="57" />
@@ -379,6 +386,9 @@
         <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/bols/app/Event.php" timestamp="1545309934496" />
+      <file name="/Dummy.txt" timestamp="1545384756654">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingAssembly.php" timestamp="1544793615466">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -443,11 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="457" column="25" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
-      <jump line="431" column="23" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
-      <jump line="433" column="103" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
-      <jump line="435" column="125" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
-      <jump line="444" column="118" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
       <jump line="299" column="52" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
       <jump line="468" column="23" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
       <jump line="475" column="16" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
@@ -543,43 +548,48 @@
       <jump line="32" column="0" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/ApiAssistant.php" />
       <jump line="14" column="15" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/ApiAssistant.php" />
       <jump line="18" column="19" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/ApiAssistant.php" />
+      <jump line="22" column="31" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
+      <jump line="18" column="0" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
+      <jump line="48" column="32" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
+      <jump line="57" column="9" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
+      <jump line="28" column="21" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>('Nicoud', 'Article', 'index');</text>
+        <text encoding="base64">WydoZWFkZXJzJyA9PiBb</text>
       </register>
       <register name="-" type="4">
-        <text>('Nicoud', 'Article', 'index');</text>
+        <text encoding="base64">WydoZWFkZXJzJyA9PiBb</text>
       </register>
       <register name="/" type="4">
-        <text>method</text>
+        <text>client</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IUFwaUFzc2lzdGFudDo6cm91dGVFeGlzdHMoJHJlcXVlc3QtPmdldE1ldGhvZCgpLCAkcm91dGUp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgoc3RyaW5nKSRyZXMtPmdldEJvZHkoKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYWN0aW9uKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">WydoZWFkZXJzJyA9PiBbCiAgICAgICAgICAgICAgICAnQXV0aG9yaXphdGlvbicgPT4gIkJlYXJlciB7JHRoaXMtPmFjY2Vzc1Rva2VuKCl9IiwKICAgICAgICAgICAgXV0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYWN0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2hlYWRlcnMnID0+IFsKICAgICAgICAgICAgICAgICdBdXRob3JpemF0aW9uJyA9PiAiQmVhcmVyIHskdGhpcy0+YWNjZXNzVG9rZW4oKX0iLAogICAgICAgICAgICBdLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgoc3RyaW5nKSRyZXMtPmdldEJvZHkoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YWNjZXNzVG9rZW4oKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKG5ldyAkY29udHJvbGxlck5hbWUoKSktPjsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY29uZmlnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBEZXRlcm1pbmUgYXBpIGFkYXB0ZXIgdG8gdXNlIGJ5IHVzZXItPnRlbmFudC0+YXBpX2FkYXB0ZXIK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBEZXRlcm1pbmUgcmVxdWVzdCBtZXRob2QKICAgICAgICAvLyBEZXRlcm1pbmUgaWYgcm91dGUgZXhpc3RzIGZvciBtZXRob2QKICAgICAgICAgIC8vIG90aGVyd2lzZSA0MDQK</text>
+        <text encoding="base64">ICAgICAgICBkZAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -609,22 +619,22 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZChBcGlBc3Npc3RhbnQ6OnJvdXRlRXhpc3RzKCRyZXF1ZXN0LT5nZXRNZXRob2QoKSwgJHJvdXRlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc2VsZikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL21ldGhvZC9hY3Rpb24=</text>
       </register>
     </registers>
     <search>
-      <last-search>method</last-search>
+      <last-search>client</last-search>
       <last-offset />
-      <last-pattern>method</last-pattern>
+      <last-pattern>client</last-pattern>
       <last-replace>action</last-replace>
       <last-substitute>method</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -639,7 +649,6 @@
         <entry>mount</entry>
         <entry>met</entry>
         <entry>Pell</entry>
-        <entry>client</entry>
         <entry>[</entry>
         <entry>welcome</entry>
         <entry>add</entry>
@@ -649,6 +658,7 @@
         <entry>view</entry>
         <entry>'</entry>
         <entry>method</entry>
+        <entry>client</entry>
       </history-search>
       <history-cmd>
         <entry>s/roof/wall/g</entry>
