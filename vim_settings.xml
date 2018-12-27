@@ -198,12 +198,11 @@
         <mark key="." line="6" column="46" />
         <mark key="^" line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" timestamp="1545910079012">
-        <mark key="'" line="74" column="59" />
-        <mark key="[" line="62" column="74" />
-        <mark key="]" line="62" column="73" />
-        <mark key="." line="62" column="73" />
-        <mark key="^" line="62" column="73" />
+      <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" timestamp="1545914986827">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud/ArticleAdapter.php" timestamp="1545316621950">
         <mark key="[" line="4" column="20" />
@@ -334,8 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/nustar-meldpunt/api/Report/Http/Controllers/ReportController.php" />
-      <jump line="27" column="20" filename="$USER_HOME$/Projects/nustar-meldpunt/api/Report/Http/Controllers/ReportController.php" />
       <jump line="33" column="1" filename="$USER_HOME$/Projects/nustar-meldpunt/Envoy.blade.php" />
       <jump line="54" column="7" filename="$USER_HOME$/Projects/nustar-meldpunt/Envoy.blade.php" />
       <jump line="58" column="75" filename="$USER_HOME$/Projects/nustar-meldpunt/Envoy.blade.php" />
@@ -434,43 +431,45 @@
       <jump line="7" column="4" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/NicoudAdapter.php" />
       <jump line="65" column="12" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
       <jump line="74" column="59" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
+      <jump line="80" column="0" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\App\Tenant::first()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgJG9wdGlvbnM7CgogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkKICAgIHsKICAgICAgICAkdGhpcy0+b3B0aW9ucyA9ICRvcHRpb25zOwogICAgfQoK</text>
       </register>
       <register name="-" type="4">
-        <text>\App\Tenant::first()</text>
+        <text>$options = []</text>
       </register>
       <register name="/" type="4">
-        <text>oath</text>
+        <text>options</text>
       </register>
       <register name="0" type="4">
         <text>oauth2_auth_header</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEluZnJhc3RydWN0dXJlXEFwaVxOaWNvdWQ7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJG9wdGlvbnM7CgogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkKICAgIHsKICAgICAgICAkdGhpcy0+b3B0aW9ucyA9ICRvcHRpb25zOwogICAgfQoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dXNlIEluZnJhc3RydWN0dXJlXEFwaVxOaWNvdWQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICR0ZW5hbnQgPSBcQXBwXFRlbmFudDo6Zmlyc3QoKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGVuYW50LT5tZXRhKTsK</text>
+        <text encoding="base64">ICAgICR0ZW5hbnQgPSBcQXBwXFRlbmFudDo6Zmlyc3QoKTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGVuYW50LT5tZXRhKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJHRlbmFudDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRkKCRhcnRpY2xlKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJHRlbmFudDsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -500,19 +499,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0QXJ0aWNsZSgpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgIGRkKCRhcnRpY2xlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0QXJ0aWNsZSgpIG1ldGhvZC4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL29hdGgvb2F1dGgyL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>oath</last-search>
+      <last-search>options</last-search>
       <last-offset />
-      <last-pattern>oath</last-pattern>
+      <last-pattern>options</last-pattern>
       <last-replace>oauth2</last-replace>
       <last-substitute>oath</last-substitute>
       <last-dir>1</last-dir>
@@ -520,7 +519,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pers</entry>
         <entry>mount</entry>
         <entry>met</entry>
         <entry>Pell</entry>
@@ -540,6 +538,7 @@
         <entry>nicoud</entry>
         <entry>u</entry>
         <entry>oath</entry>
+        <entry>options</entry>
       </history-search>
       <history-cmd>
         <entry>s/Door/DoorOptions/g</entry>
