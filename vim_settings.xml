@@ -46,7 +46,7 @@
         <mark key="." line="17" column="38" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="/a.dummy" timestamp="1545318266726">
+      <file name="/a.dummy" timestamp="1545907335615">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/config/database.php" timestamp="1544611869694">
@@ -80,11 +80,11 @@
         <mark key="." line="36" column="14" />
         <mark key="^" line="36" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/FullfilmentInterface.php" timestamp="1545898436432">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="35" />
-        <mark key="." line="7" column="35" />
-        <mark key="^" line="7" column="33" />
+      <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/FullfilmentInterface.php" timestamp="1545907333167">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+        <mark key="^" line="5" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/storage/logs/laravel-2018-12-04.log" timestamp="1544187699887">
         <mark key="[" line="0" column="0" />
@@ -110,6 +110,11 @@
         <mark key="]" line="15" column="31" />
         <mark key="^" line="15" column="31" />
         <mark key="." line="15" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/FulfilmentInterface.php" timestamp="1545907344434">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/database/seeds/DatabaseSeeder.php" timestamp="1545313461033">
         <mark key="[" line="13" column="20" />
@@ -144,6 +149,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Tenant.php" timestamp="1545907174350">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/Adapters/OrderAdapter.php" timestamp="1545316279268">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -156,11 +167,11 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/database/migrations/2018_12_20_133929_create_tenants_table.php" timestamp="1545313416746">
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="18" column="38" />
-        <mark key="^" line="18" column="38" />
-        <mark key="." line="18" column="38" />
+      <file name="$USER_HOME$/Projects/materialen/database/migrations/2018_12_20_133929_create_tenants_table.php" timestamp="1545907137887">
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+        <mark key="^" line="19" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/vetclass/domain/MailchimpSync.php" timestamp="1545439485347">
         <mark key="'" line="111" column="100" />
@@ -174,11 +185,11 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/database/seeds/TenantSeeder.php" timestamp="1545313404726">
-        <mark key="[" line="17" column="50" />
-        <mark key="]" line="17" column="50" />
-        <mark key="^" line="16" column="47" />
-        <mark key="." line="17" column="50" />
+      <file name="$USER_HOME$/Projects/materialen/database/seeds/TenantSeeder.php" timestamp="1545907272230">
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="17" column="38" />
+        <mark key="." line="17" column="38" />
+        <mark key="^" line="17" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/Adapters/AuthAdapter.php" timestamp="1545316218810">
         <mark key="[" line="6" column="47" />
@@ -186,11 +197,11 @@
         <mark key="." line="6" column="46" />
         <mark key="^" line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" timestamp="1545902241801">
-        <mark key="'" line="21" column="12" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" timestamp="1545907353755">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud/ArticleAdapter.php" timestamp="1545316621950">
         <mark key="[" line="4" column="20" />
@@ -314,9 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/vetclass/domain/MailchimpSync.php" />
-      <jump line="58" column="7" filename="$USER_HOME$/Projects/finish-building/database/migrations/2018_12_13_082352_update_offers_table.php" />
-      <jump line="61" column="0" filename="$USER_HOME$/Projects/finish-building/database/migrations/2018_12_13_082352_update_offers_table.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/nustar-meldpunt/storage/logs/laravel-2018-12-14.log" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/nustar-meldpunt/storage/logs/laravel.log" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/nustar-meldpunt/routes/api.php" />
@@ -405,54 +413,55 @@
       <jump line="14" column="15" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/ApiAssistant.php" />
       <jump line="18" column="19" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/ApiAssistant.php" />
       <jump line="22" column="31" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
-      <jump line="18" column="0" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
-      <jump line="48" column="32" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
-      <jump line="57" column="9" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
       <jump line="28" column="21" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
       <jump line="20" column="12" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
       <jump line="64" column="19" filename="$USER_HOME$/Projects/vetclass/resources/views/auth/login.blade.php" />
       <jump line="49" column="32" filename="$USER_HOME$/Projects/vetclass/resources/views/auth/login.blade.php" />
       <jump line="70" column="11" filename="$USER_HOME$/Projects/vetclass/resources/views/auth/login.blade.php" />
       <jump line="43" column="32" filename="$USER_HOME$/Projects/vetclass/resources/views/auth/login.blade.php" />
+      <jump line="18" column="0" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
+      <jump line="57" column="8" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
+      <jump line="24" column="8" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
+      <jump line="48" column="23" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
+      <jump line="68" column="27" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
+      <jump line="115" column="0" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZChwaHBpbmZvKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dj5BbGwoKQ==</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>div</text>
+        <text>dd</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzID0gJHRoaXMtPmNsaWVudCgpLT5nZXQoJy9hcnRpY2xlcycsIFsKICAgICAgICAgICAgJ2Zvcm1fcGFyYW1zJyA9PiBbCiAgICAgICAgICAgICAgICAnaWQnID0+ICRpZCwKICAgICAgICAgICAgXSwKICAgICAgICBdKTsK</text>
+      <register name="0" type="4">
+        <text>Bearer NGJhMTdlZGIyNzYxYWUwZDY2OWEzMjJlMzc1ZTZkMjg5NmVkZGVmNWFjNjY1ZTU1ZjkyZGFkZGQyY2I5ZDU3ZA</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZChwaHBpbmZvKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzID0gJHRoaXMtPmNsaWVudCgpLT5nZXQoJy9hcnRpY2xlcz9pZD03NWUxNzEwYi1mZDNiLTExZTgtODJkMi01MjU0MDAyZjkyYzAnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ29hdXRoMl91c2VybmFtZScgPT4gJ1RFU1RfQklfU01JVCcsCiAgICAgICAgICAgICdvYXV0aDJfcGFzc3dvcmQnID0+ICcycDdUVjI0azVTUDlBOTVIJywK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkZCgkdGhpcy0+Y2xpZW50KCk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ29hdXRoMl91c2VybmFtZScpOwogICAgICAgICAgICAkdGFibGUtPnN0cmluZygnb2F1dGgyX3Bhc3N3b3JkJyk7</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">KTsKCiAgICAgICAgJGN1cmwgPSBjdXJsX2luaXQoKTsKCiAgICAgICAgY3VybF9zZXRvcHRfYXJyYXkoJGN1cmwsIGFycmF5KAogICAgICAgICAgICBDVVJMT1BUX1VSTCA9PiAiaHR0cHM6Ly93d3cudGVzdC1uaWNvdWQubmwvd3MvNC9hcnRpY2xlcz9pZD03NWUxNzEwYi1mZDNiLTExZTgtODJkMi01MjU0MDAyZjkyYzAiLAogICAgICAgICAgICBDVVJMT1BUX1JFVFVSTlRSQU5TRkVSID0+IHRydWUsCiAgICAgICAgICAgIENVUkxPUFRfRU5DT0RJTkcgPT4gIiIsCiAgICAgICAgICAgIENVUkxPUFRfTUFYUkVESVJTID0+IDEwLAogICAgICAgICAgICBDVVJMT1BUX1RJTUVPVVQgPT4gMzAsCiAgICAgICAgICAgIENVUkxPUFRfSFRUUF9WRVJTSU9OID0+IENVUkxfSFRUUF9WRVJTSU9OXzFfMSwKICAgICAgICAgICAgQ1VSTE9QVF9DVVNUT01SRVFVRVNUID0+ICJHRVQiLAogICAgICAgICAgICBDVVJMT1BUX0hUVFBIRUFERVIgPT4gYXJyYXkoCiAgICAgICAgICAgICAgICAiQXV0aG9yaXphdGlvbjogQmVhcmVyIE16Y3lZVEEyaE9HWTVaVGhrTVRSbU1EUXhOekZpWVdVME1qTTRPVGMxWlRFMlpHSTJPR1JoTXpnM05qazNZMkl6TWprM09EZzJZV00xT1RrNVl3IiwKICAgICAgICAgICAgICAgICJDYWNoZS1Db250cm9sOiBuby1jYWNoZSIsCiAgICAgICAgICAgICAgICAiUG9zdG1hbi1Ub2tlbjogZjIyMzljYmQtZGExNy00NzQwLTgzYTYtYmMzNDlmMTc1YzJkIgogICAgICAgICAgICApLAogICAgICAgICkpOwoKICAgICAgICAkcmVzcG9uc2UgPSBjdXJsX2V4ZWMoJGN1cmwpOwogICAgICAgICRlcnIgPSBjdXJsX2Vycm9yKCRjdXJsKTsKCiAgICAgICAgY3VybF9jbG9zZSgkY3VybCk7CgogICAgICAgIGlmICgkZXJyKSB7CiAgICAgICAgICAgIGVjaG8gImNVUkwgRXJyb3IgIzoiIC4gJGVycjsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBlY2hvICRyZXNwb25zZTsKICAgICAgICB9CiAgICAgICAgZGQoJHJlc3BvbnNlKQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkZCgkdGhpcy0+Y2xpZW50KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY2xpZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgoc3RyaW5nKSAkcmVzLT5nZXRCb2R5KCkpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>[
-
-        ]</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdXJpKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -481,20 +490,20 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Zvcm1fcGFyYW1zJyA9PiBbCiAgICAgICAgICAgICAgICAnaWQnID0+ICRpZCwKICAgICAgICAgICAgXSw=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyAkY2xpZW50ID0gbmV3IENsaWVudChbXSk7CiAgICAgICAgLy8KICAgICAgICAvLyAkcmVzID0gJGNsaWVudC0+Z2V0KCdodHRwczovL3d3dy50ZXN0LW5pY291ZC5ubC93cy80L2FydGljbGVzP2lkPTc1ZTE3MTBiLWZkM2ItMTFlOC04MmQyLTUyNTQwMDJmOTJjMCcsIFsKICAgICAgICAvLyAgICAgJ2hlYWRlcnMnID0+IFsKICAgICAgICAvLyAgICAgICAgICdBdXRob3JpemF0aW9uJyA9PiAiQmVhcmVyIHskdGhpcy0+YWNjZXNzVG9rZW4oKX0iLAogICAgICAgIC8vICAgICAgICAgJ0FjY2VwdCcgPT4gJ2FwcGxpY2F0aW9uL2pzb24nLAogICAgICAgIC8vICAgICBdLAogICAgICAgIC8vIF0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2Rpdi9hcnRpY2xlL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>div</last-search>
+      <last-search>dd</last-search>
       <last-offset />
-      <last-pattern>div</last-pattern>
+      <last-pattern>dd</last-pattern>
       <last-replace>article</last-replace>
       <last-substitute>div</last-substitute>
       <last-dir>1</last-dir>
@@ -502,7 +511,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Names</entry>
         <entry>pell</entry>
         <entry>vue</entry>
         <entry>vue@</entry>
@@ -522,6 +530,7 @@
         <entry>client</entry>
         <entry>3</entry>
         <entry>div</entry>
+        <entry>dd</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1dhbGwvUm9vZi9n</entry>
