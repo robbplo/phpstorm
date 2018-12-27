@@ -199,12 +199,12 @@
         <mark key="." line="6" column="46" />
         <mark key="^" line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" timestamp="1545921911658">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-        <mark key="^" line="14" column="31" />
+      <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" timestamp="1545922957835">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="69" column="5" />
+        <mark key="]" line="69" column="5" />
+        <mark key="^" line="70" column="3" />
+        <mark key="." line="69" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud/ArticleAdapter.php" timestamp="1545316621950">
         <mark key="[" line="4" column="20" />
@@ -232,12 +232,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/NicoudAdapter.php" timestamp="1545917504913">
+      <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/NicoudAdapter.php" timestamp="1545923019682">
         <mark key="'" line="16" column="8" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="41" column="36" />
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="38" />
+        <mark key="." line="11" column="38" />
+        <mark key="^" line="11" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/vetclass/routes/web.php" timestamp="1545061740611">
         <mark key="[" line="19" column="0" />
@@ -437,11 +437,11 @@
       <jump line="108" column="0" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGVuYW50ID0gVGVuYW50OjpmaXJzdCgpOyAvLyBAdG9kbyByZXRyaWV2ZSB0ZW5hbnQgZHluYW1pY2FsbHkKCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Cgog</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>tenant</text>
@@ -449,29 +449,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcmVzID0gJHRoaXMtPmNsaWVudCgpLT5nZXQoJ2FydGljbGVzJyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGVuYW50ID0gVGVuYW50OjpmaXJzdCgpOyAvLyBAdG9kbyByZXRyaWV2ZSB0ZW5hbnQgZHluYW1pY2FsbHkKCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Cgog</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkcmVzID0gJHRoaXMtPmNsaWVudCgpLT5nZXQoJ3N0b2NrP3dlYnNob3BfaWQ9NTA1MycpOwo=</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAkdGVuYW50ID0gVGVuYW50OjpmaXJzdCgpOyAvLyBAdG9kbyByZXRyaWV2ZSB0ZW5hbnQgZHluYW1pY2FsbHkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAkcmVzID0gJHRoaXMtPmNsaWVudCgpLT5nZXQoJ3N0b2NrP3dlYnNob3BfaWQ9NTA1MycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc3RvcmVPcmRlcigpIGdldE9yZGVyc21ldGhvZC4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2hvd09yZGVyKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAoY291bnQoJGRhdGEpID09PSAwKSB7CiAgICAgICAgLy8gICAgIHJldHVybiBudWxsOwogICAgICAgIC8vIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc3RvcmVPcmRlcigpIGdldE9yZGVyc21ldGhvZC4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -501,10 +501,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0T3JkZXJzKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2hvd09yZGVyKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2hvd1N0b2NrKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAoY291bnQoJGRhdGEpID09PSAwKSB7CiAgICAgICAgLy8gICAgIHJldHVybiBudWxsOwogICAgICAgIC8vIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3RlbmFudC90aGlzLT50ZW5hbnQvZw==</text>
