@@ -175,11 +175,11 @@
         <mark key="^" line="19" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/vetclass/domain/MailchimpSync.php" timestamp="1545439485347">
-        <mark key="'" line="111" column="100" />
-        <mark key="[" line="72" column="5" />
-        <mark key="]" line="73" column="3" />
-        <mark key="." line="73" column="3" />
-        <mark key="^" line="73" column="3" />
+        <mark key="'" line="110" column="100" />
+        <mark key="[" line="71" column="5" />
+        <mark key="]" line="72" column="3" />
+        <mark key="." line="72" column="3" />
+        <mark key="^" line="72" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/bootstrap/cache/config.php" timestamp="1544794438707">
         <mark key="[" line="38" column="0" />
@@ -270,6 +270,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/vetclass/resources/views/frontend/user/dashboard.blade.php" timestamp="1545987474180">
+        <mark key="[" line="118" column="62" />
+        <mark key="]" line="118" column="77" />
+        <mark key="^" line="118" column="77" />
+        <mark key="." line="118" column="77" />
+      </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/config/cache.php" timestamp="1544611837636">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="91" column="0" />
@@ -326,6 +332,10 @@
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/vetclass/resources/views/frontend/user/profile/edit.blade.php" timestamp="1545987424609" />
+      <file name="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" timestamp="1545987402544">
+        <mark key="'" line="108" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/app/Exceptions/Handler.php" timestamp="1544607970182">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -333,7 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="1" filename="$USER_HOME$/Projects/nustar-meldpunt/Envoy.blade.php" />
       <jump line="119" column="5" filename="$USER_HOME$/Projects/nustar-meldpunt/Envoy.blade.php" />
       <jump line="192" column="0" filename="$USER_HOME$/Projects/nustar-meldpunt/Envoy.blade.php" />
       <jump line="120" column="0" filename="$USER_HOME$/Projects/nustar-meldpunt/Envoy.blade.php" />
@@ -433,6 +442,7 @@
       <jump line="128" column="0" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
       <jump line="108" column="0" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
       <jump line="409" column="12" filename="$USER_HOME$/Projects/accreditation/app/Jobs/RequestRegisterNumber.php" />
+      <jump line="108" column="0" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -442,7 +452,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>tenant</text>
+        <text>delete</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcmVzID0gJHRoaXMtPmNsaWVudCgpLT5nZXQoJ2FydGljbGVzJyk7Cg==</text>
@@ -509,9 +519,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tenant</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern>tenant</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-replace encoding="base64">dGhpcy0+dGVuYW50</last-replace>
       <last-substitute>tenant</last-substitute>
       <last-dir>1</last-dir>
@@ -519,7 +529,6 @@
     </search>
     <history>
       <history-search>
-        <entry>welcome</entry>
         <entry>add</entry>
         <entry>isI</entry>
         <entry>second</entry>
@@ -539,6 +548,7 @@
         <entry>'</entry>
         <entry>get</entry>
         <entry>tenant</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzIvNQ==</entry>
