@@ -88,11 +88,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/FulfilmentInterface.php" timestamp="1545923727767">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="8" column="38" />
+      <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/FulfilmentInterface.php" timestamp="1546252822477">
+        <mark key="[" line="16" column="42" />
+        <mark key="]" line="16" column="33" />
+        <mark key="." line="16" column="33" />
+        <mark key="^" line="16" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/database/seeds/DatabaseSeeder.php" timestamp="1545313461033">
         <mark key="[" line="13" column="20" />
@@ -127,11 +127,10 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Tenant.php" timestamp="1545909430148">
-        <mark key="[" line="15" column="33" />
-        <mark key="]" line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="15" column="34" />
+      <file name="$USER_HOME$/Projects/materialen/app/Tenant.php" timestamp="1546253783060">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/Adapters/OrderAdapter.php" timestamp="1545316279268">
         <mark key="[" line="9" column="0" />
@@ -163,9 +162,16 @@
         <mark key="." line="18" column="28" />
         <mark key="^" line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Jobs/UpdateArticleStock.php" timestamp="1546004186824">
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="14" column="29" />
+      <file name="$USER_HOME$/Projects/materialen/app/Jobs/GetOrder.php" timestamp="1546254180869">
+        <mark key="'" line="30" column="44" />
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="7" />
+        <mark key="." line="37" column="7" />
+        <mark key="^" line="37" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Jobs/UpdateArticleStock.php" timestamp="1546253673226">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="66" />
         <mark key="." line="14" column="29" />
         <mark key="^" line="14" column="29" />
       </file>
@@ -211,11 +217,10 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Jobs/ImportArticle.php" timestamp="1546002951212">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="41" column="0" />
+      <file name="$USER_HOME$/Projects/materialen/app/Jobs/ImportArticle.php" timestamp="1546253053661">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" timestamp="1545060021893">
         <mark key="[" line="72" column="37" />
@@ -372,7 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="58" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/Content/HomeController.php" />
       <jump line="80" column="74" filename="$USER_HOME$/Projects/finish-building/app/Offer.php" />
       <jump line="0" column="106" filename="$USER_HOME$/Projects/sso/storage/logs/laravel-2018-12-18.log" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/sso/storage/logs/laravel-2018-12-18.log" />
@@ -472,43 +476,44 @@
       <jump line="277" column="0" filename="$USER_HOME$/Projects/materialen/storage/logs/laravel-2018-12-28.log" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/materialen/storage/logs/laravel-2018-12-28.log" />
       <jump line="9" column="4" filename="$USER_HOME$/Projects/project-euler/1. multiples of 3 and 5/js/index.js" />
+      <jump line="30" column="44" filename="$USER_HOME$/Projects/materialen/app/Jobs/GetOrder.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bGV0IHN1bSA9IAoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>sum</text>
+        <text>$fulfilmentApi</text>
       </register>
       <register name="/" type="4">
-        <text>counter</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnL2FydGljbGVzJywgJ0FydGljbGVDb250cm9sbGVyQGluZGV4Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZnVsZmlsbWVudEFwaSA9IG5ldyAkdGhpcy0+dGVuYW50LT5mdWxmaWxtZW50X2FkYXB0ZXIoJHRoaXMtPnRlbmFudCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGV0IHN1bSA9IAoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Cgo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdGZvdW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvdW50ZXIgKysK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBjb3VudGVyICsrCg==</text>
+        <text encoding="base64">ICAgICAgICAkZnVsZmlsbWVudEFwaSA9ICR0aGlzLT50ZW5hbnQtPmZ1bGZpbG1lbnRBcGkoKTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGV0IGNvdW50ZXIgPSAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">d2hpbGUgKGNvdW50ZXIgPCAxMDAwKSB7Cg==</text>
+        <text encoding="base64">Ywo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZnVsZmlsbWVudEFwaS0+Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -538,21 +543,21 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnL2FydGljbGVzL3thcnRpY2xlfScsICdBcnRpY2xlQ29udHJvbGxlckBzaG93Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dGVuYW50LT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQXJ0aWNsZTo6d2hlcmUoJycpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2NvdW50ZXIvaS9n</text>
+        <text>s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>counter</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>counter</last-pattern>
-      <last-replace>i</last-replace>
-      <last-substitute>counter</last-substitute>
+      <last-pattern>'</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -571,13 +576,13 @@
         <entry>options</entry>
         <entry>ge</entry>
         <entry>s</entry>
-        <entry>'</entry>
         <entry>get</entry>
         <entry>tenant</entry>
         <entry>delete</entry>
         <entry>info</entry>
         <entry>json_de</entry>
         <entry>counter</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEyLzIwL2c=</entry>
@@ -590,7 +595,6 @@
         <entry>s/'/`/g</entry>
         <entry>s/`/&quot;/g</entry>
         <entry>s/Names/Roles/g</entry>
-        <entry>s/'/&quot;/g</entry>
         <entry encoding="base64">JzwsJz5zL21ldGhvZC9hY3Rpb24=</entry>
         <entry encoding="base64">JzwsJz5zL2Rpdi9hcnRpY2xlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL25pY291ZC9hcGkvZw==</entry>
@@ -600,6 +604,7 @@
         <entry encoding="base64">JzwsJz5zL2luZm8vZXJyb3IvZw==</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL2NvdW50ZXIvaS9n</entry>
+        <entry>s/'/&quot;/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
