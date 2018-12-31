@@ -232,9 +232,6 @@
         <mark key="]" line="175" column="0" />
         <mark key="." line="175" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/accreditation/app/Jobs/RequestRegisterNumber.php" timestamp="1545985548799">
-        <mark key="'" line="409" column="12" />
-      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Jobs/UpdateStock.php" timestamp="1546000871882">
         <mark key="[" line="12" column="33" />
         <mark key="]" line="24" column="7" />
@@ -324,6 +321,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/project-euler/1. multiples of 3 and 5/js/index.js" timestamp="1546251878675">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/database/seeds/ProductSeeder.php" timestamp="1544688540623">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -350,9 +353,6 @@
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" timestamp="1545987402544">
-        <mark key="'" line="108" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/app/Exceptions/Handler.php" timestamp="1544607970182">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -372,7 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="8" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/Content/HomeController.php" />
       <jump line="50" column="58" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/Content/HomeController.php" />
       <jump line="80" column="74" filename="$USER_HOME$/Projects/finish-building/app/Offer.php" />
       <jump line="0" column="106" filename="$USER_HOME$/Projects/sso/storage/logs/laravel-2018-12-18.log" />
@@ -472,43 +471,44 @@
       <jump line="120" column="15" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
       <jump line="277" column="0" filename="$USER_HOME$/Projects/materialen/storage/logs/laravel-2018-12-28.log" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/materialen/storage/logs/laravel-2018-12-28.log" />
+      <jump line="9" column="4" filename="$USER_HOME$/Projects/project-euler/1. multiples of 3 and 5/js/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IHN1bSA9IAoK</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>sum</text>
       </register>
       <register name="/" type="4">
-        <text>json_de</text>
+        <text>counter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Um91dGU6OmdldCgnL2FydGljbGVzJywgJ0FydGljbGVDb250cm9sbGVyQGluZGV4Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IHN1bSA9IAoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnL2FydGljbGVzL3thcnRpY2xlfScsICdBcnRpY2xlQ29udHJvbGxlckBzaG93Jyk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQXJ0aWNsZTo6d2hlcmUoJycpCg==</text>
-      </register>
-      <register name="4" type="2">
+      <register name="2" type="4">
         <text encoding="base64">Cgo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvdW50ZXIgKysK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBjb3VudGVyICsrCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ClJvdXRlOjpnZXQoJy97cm91dGV9JywgZnVuY3Rpb24gKCkgewogICAgJHRlbmFudCA9IFxBcHBcVGVuYW50OjpmaXJzdCgpOwoKICAgICRmdWxmaWxtZW50QXBpID0gbmV3ICR0ZW5hbnQtPmZ1bGZpbG1lbnRfYWRhcHRlcigkdGVuYW50KTsKCiAgICAkaWQgPSAnNzVlMTcxMGItZmQzYi0xMWU4LTgyZDItNTI1NDAwMmY5MmMwJzsKICAgICRvcmRlciA9ICc4MDFmZWY2OC1mZjlhLTExZTgtODJkMi01MjU0MDAyZjkyYzAnOwoKCiAgICAkZGF0YSA9ICRmdWxmaWxtZW50QXBpLT5zaG93U3RvY2soJGlkKTsKCiAgICAvLyAkZGF0YSA9ICRmdWxmaWxtZW50QXBpLT5nZXRBcnRpY2xlcygpOwogICAgLy8gJGRhdGEgPSAkZnVsZmlsbWVudEFwaS0+c2hvd0FydGljbGUoJGlkKTsKCiAgICAvLyAkZGF0YSA9ICRmdWxmaWxtZW50QXBpLT5nZXRPcmRlcnMoKTsKICAgIC8vICRkYXRhID0gJGZ1bGZpbG1lbnRBcGktPnNob3dPcmRlcigkb3JkZXIpOwogICAgLy8gJGRhdGEgPSAkZnVsZmlsbWVudEFwaS0+c3RvcmVPcmRlcigpOwoKICAgIHJldHVybiAkZGF0YTsKfSk7Cg==</text>
+        <text encoding="base64">bGV0IGNvdW50ZXIgPSAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
+        <text encoding="base64">d2hpbGUgKGNvdW50ZXIgPCAxMDAwKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzLT5nZXRIZWFkZXJzKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -538,27 +538,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Um91dGU6OmdldCgnL2FydGljbGVzL3thcnRpY2xlfScsICdBcnRpY2xlQ29udHJvbGxlckBzaG93Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKCRhcnRpY2xlLT53YXNSZWNlbnRseUNyZWF0ZWQpIHsKICAgICAgICAgICAgJGFydGljbGUtPnVwZGF0ZShbCiAgICAgICAgICAgIF0pOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQXJ0aWNsZTo6d2hlcmUoJycpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text encoding="base64">JzwsJz5zL2NvdW50ZXIvaS9n</text>
       </register>
     </registers>
     <search>
-      <last-search>json_de</last-search>
+      <last-search>counter</last-search>
       <last-offset />
-      <last-pattern>json_de</last-pattern>
-      <last-replace>error</last-replace>
-      <last-substitute>info</last-substitute>
+      <last-pattern>counter</last-pattern>
+      <last-replace>i</last-replace>
+      <last-substitute>counter</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>second</entry>
         <entry>eve</entry>
         <entry>view</entry>
         <entry>method</entry>
@@ -578,9 +577,9 @@
         <entry>delete</entry>
         <entry>info</entry>
         <entry>json_de</entry>
+        <entry>counter</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzIvNS9n</entry>
         <entry encoding="base64">JzwsJz5zLzEyLzIwL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3Byb2R1Y3QvZnJhbWUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2NvdW50L25hbWU=</entry>
@@ -600,6 +599,7 @@
         <entry encoding="base64">JzwsJz5zL3RlbmFudC90aGlzLT50ZW5hbnQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2luZm8vZXJyb3IvZw==</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zL2NvdW50ZXIvaS9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
