@@ -127,9 +127,9 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Tenant.php" timestamp="1546253783060">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
+      <file name="$USER_HOME$/Projects/materialen/app/Tenant.php" timestamp="1546260361594">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="17" column="5" />
         <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/Adapters/OrderAdapter.php" timestamp="1545316279268">
@@ -144,17 +144,18 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Article.php" timestamp="1546259717798">
-        <mark key="[" line="16" column="6" />
-        <mark key="]" line="14" column="13" />
-        <mark key="." line="14" column="13" />
-        <mark key="^" line="14" column="13" />
+      <file name="$USER_HOME$/Projects/materialen/app/Article.php" timestamp="1546262304850">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Http/Controllers/ArticleController.php" timestamp="1546005946038">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="14" column="17" />
-        <mark key="." line="14" column="17" />
-        <mark key="^" line="14" column="17" />
+      <file name="$USER_HOME$/Projects/materialen/app/Http/Controllers/ArticleController.php" timestamp="1546261386280">
+        <mark key="[" line="17" column="53" />
+        <mark key="]" line="17" column="53" />
+        <mark key="." line="17" column="53" />
+        <mark key="^" line="17" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/database/migrations/2018_12_20_133929_create_tenants_table.php" timestamp="1545907781460">
         <mark key="[" line="18" column="28" />
@@ -162,12 +163,11 @@
         <mark key="." line="18" column="28" />
         <mark key="^" line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Jobs/GetOrder.php" timestamp="1546259592460">
-        <mark key="'" line="30" column="44" />
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="7" />
-        <mark key="." line="37" column="7" />
-        <mark key="^" line="37" column="7" />
+      <file name="$USER_HOME$/Projects/materialen/app/Jobs/GetOrder.php" timestamp="1546262910005">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Jobs/UpdateArticleStock.php" timestamp="1546253673226">
         <mark key="[" line="32" column="0" />
@@ -185,6 +185,13 @@
         <mark key="]" line="22" column="17" />
         <mark key="." line="22" column="17" />
         <mark key="^" line="22" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Http/Resources/Article.php" timestamp="1546261320221">
+        <mark key="'" line="25" column="12" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="24" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/database/migrations/2018_12_28_094506_create_articles_table.php" timestamp="1546010597231">
         <mark key="[" line="23" column="56" />
@@ -217,10 +224,10 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Jobs/ImportArticle.php" timestamp="1546253053661">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Projects/materialen/app/Jobs/ImportArticle.php" timestamp="1546260552082">
+        <mark key="[" line="49" column="13" />
+        <mark key="]" line="49" column="13" />
+        <mark key="." line="49" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" timestamp="1545060021893">
         <mark key="[" line="72" column="37" />
@@ -377,12 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="74" filename="$USER_HOME$/Projects/finish-building/app/Offer.php" />
-      <jump line="0" column="106" filename="$USER_HOME$/Projects/sso/storage/logs/laravel-2018-12-18.log" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/sso/storage/logs/laravel-2018-12-18.log" />
-      <jump line="42" column="9" filename="$USER_HOME$/Projects/sso/storage/logs/laravel-2018-12-18.log" />
-      <jump line="9597" column="0" filename="$USER_HOME$/Projects/vetclass/storage/logs/laravel.log" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/vetclass/storage/logs/laravel.log" />
       <jump line="306" column="42" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
       <jump line="652" column="38" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
       <jump line="500" column="17" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" />
@@ -477,43 +478,49 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/materialen/storage/logs/laravel-2018-12-28.log" />
       <jump line="9" column="4" filename="$USER_HOME$/Projects/project-euler/1. multiples of 3 and 5/js/index.js" />
       <jump line="30" column="44" filename="$USER_HOME$/Projects/materialen/app/Jobs/GetOrder.php" />
+      <jump line="27" column="4" filename="$USER_HOME$/Projects/materialen/app/Article.php" />
+      <jump line="24" column="12" filename="$USER_HOME$/Projects/materialen/app/Http/Resources/Article.php" />
+      <jump line="25" column="12" filename="$USER_HOME$/Projects/materialen/app/Http/Resources/Article.php" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/materialen/app/Article.php" />
+      <jump line="36" column="0" filename="$USER_HOME$/Projects/materialen/app/Article.php" />
+      <jump line="35" column="0" filename="$USER_HOME$/Projects/materialen/app/Article.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJG9yZGVyKQo=</text>
+      <register name="&quot;" type="4">
+        <text>$importId</text>
       </register>
       <register name="-" type="4">
-        <text>$fulfilmentApi</text>
+        <text>$importId</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>imported</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkZnVsZmlsbWVudEFwaSA9IG5ldyAkdGhpcy0+dGVuYW50LT5mdWxmaWxtZW50X2FkYXB0ZXIoJHRoaXMtPnRlbmFudCk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkaW1wb3J0SWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJG9yZGVyKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gYXJ0aWNsZV9ncm91cCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5iZWxvbmdzVG8oQXJ0aWNsZUdyb3VwOjpjbGFzcyk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdGZvdW5kCg==</text>
+        <text encoding="base64">ICAgICAgICBcQXBwXEh0dHBcUmVzb3VyY2VzXEFydGljbGU6Ogo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZnVsZmlsbWVudEFwaSA9ICR0aGlzLT50ZW5hbnQtPmZ1bGZpbG1lbnRBcGkoKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJ25hbWUnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJG9yZGVyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ywo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -543,29 +550,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZnVsZmlsbWVudEFwaS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdGZvdW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dGVuYW50LT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/'/&quot;/g</text>
+        <text>s/imported/updated/g</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>imported</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-pattern>imported</last-pattern>
+      <last-replace>updated</last-replace>
+      <last-substitute>imported</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>eve</entry>
-        <entry>view</entry>
-        <entry>method</entry>
         <entry>client</entry>
         <entry>3</entry>
         <entry>div</entry>
@@ -583,12 +587,11 @@
         <entry>json_de</entry>
         <entry>counter</entry>
         <entry>'</entry>
+        <entry>meta</entry>
+        <entry>Meta</entry>
+        <entry>imported</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzEyLzIwL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL3Byb2R1Y3QvZnJhbWUvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL2NvdW50L25hbWU=</entry>
-        <entry encoding="base64">JzwsJz5zL25hbWUvdHlwZS9n</entry>
         <entry encoding="base64">JzwsJz5zL2ZhbHNlL3RydWU=</entry>
         <entry encoding="base64">JzwsJz5zL2F1dGgvYWNjZXNz</entry>
         <entry encoding="base64">JzwsJz5zL2F1dGgvYWNjZXNzL2c=</entry>
@@ -605,6 +608,10 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL2NvdW50ZXIvaS9n</entry>
         <entry>s/'/&quot;/g</entry>
+        <entry encoding="base64">JzwsJz5zL21ldGEvbmFtZS9n</entry>
+        <entry encoding="base64">JzwsJz5zL01ldGEvTmFtZS9n</entry>
+        <entry>s/imported/created/g</entry>
+        <entry>s/imported/updated/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
