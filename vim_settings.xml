@@ -163,11 +163,11 @@
         <mark key="." line="18" column="28" />
         <mark key="^" line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Jobs/GetOrder.php" timestamp="1546262910005">
-        <mark key="[" line="39" column="8" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/materialen/app/Jobs/GetOrder.php" timestamp="1546266443420">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="41" column="11" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Jobs/UpdateArticleStock.php" timestamp="1546253673226">
         <mark key="[" line="32" column="0" />
@@ -486,8 +486,8 @@
       <jump line="35" column="0" filename="$USER_HOME$/Projects/materialen/app/Article.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$importId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>$importId</text>
@@ -499,28 +499,28 @@
         <text encoding="base64">ICAgICAqIEBwYXJhbSAkaW1wb3J0SWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gYXJ0aWNsZV9ncm91cCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5iZWxvbmdzVG8oQXJ0aWNsZUdyb3VwOjpjbGFzcyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBcQXBwXEh0dHBcUmVzb3VyY2VzXEFydGljbGU6Ogo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gYXJ0aWNsZV9ncm91cCgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5iZWxvbmdzVG8oQXJ0aWNsZUdyb3VwOjpjbGFzcyk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBcQXBwXEh0dHBcUmVzb3VyY2VzXEFydGljbGU6Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJ25hbWUnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJG9yZGVyKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJ25hbWUnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJG9yZGVyKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -550,10 +550,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdGZvdW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdGZvdW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/imported/updated/g</text>
