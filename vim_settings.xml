@@ -143,6 +143,13 @@
         <mark key="." line="21" column="58" />
         <mark key="^" line="21" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" timestamp="1546589238848">
+        <mark key="'" line="95" column="109" />
+        <mark key="[" line="95" column="120" />
+        <mark key="]" line="95" column="120" />
+        <mark key="." line="95" column="120" />
+        <mark key="^" line="95" column="120" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/database/seeds/TenantSeeder.php" timestamp="1546430842986">
         <mark key="[" line="22" column="18" />
         <mark key="]" line="22" column="17" />
@@ -294,7 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="12" filename="$USER_HOME$/Projects/materialen/app/Http/Resources/Article.php" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/materialen/app/Article.php" />
       <jump line="36" column="0" filename="$USER_HOME$/Projects/materialen/app/Article.php" />
       <jump line="35" column="0" filename="$USER_HOME$/Projects/materialen/app/Article.php" />
@@ -394,13 +400,14 @@
       <jump line="95" column="12" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
       <jump line="94" column="16" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
       <jump line="97" column="40" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
+      <jump line="95" column="109" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">aGVhbHRoY2FyZSBwcm9mZXNzaW9uYWwg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">aGVhbHRoY2FyZSBwcm9mZXNzaW9uYWwg</text>
       </register>
       <register name="/" type="4">
         <text>type</text>
@@ -466,7 +473,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICd0eXBlJyA9PiAkb3JkZXJbJ3R5cGUnXSwK</text>
       </register>
       <register name=":" type="4">
-        <text>s/type/ordered_at/g</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -502,7 +509,6 @@
         <entry>type</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL29yZGVyL2RhdGEvZw==</entry>
         <entry encoding="base64">cy8gPT4gLiov</entry>
         <entry encoding="base64">JzwsJz5zLyA9PiAuKi8s</entry>
         <entry>s/w/g</entry>
@@ -522,6 +528,7 @@
         <entry>s/type/details/g</entry>
         <entry>s/type/shipments/g</entry>
         <entry>s/type/ordered_at/g</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
