@@ -239,6 +239,7 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/vsm/index.php" timestamp="1546615547532" />
       <file name="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/Auth/Register/AccountController.php" timestamp="1546611113213">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="92" column="0" />
@@ -308,6 +309,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/vetclass/app/Models/Tracker/TrackerHandler.php" timestamp="1546596634139" />
       <file name="$USER_HOME$/Projects/vetclass/composer.json" timestamp="1546598486900">
         <mark key="'" line="5" column="9" />
       </file>
@@ -403,6 +405,9 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="14" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/vsm/packshots.json" timestamp="1546614338976">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Jobs/UpdateArticleStock.php" timestamp="1546253673226">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="66" />
@@ -481,6 +486,9 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/vsm/cloudinary.json" timestamp="1546613930222">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Providers/EventServiceProvider.php" timestamp="1546432688790">
         <mark key="[" line="23" column="12" />
         <mark key="]" line="23" column="47" />
@@ -551,9 +559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/materialen/app/Jobs/GetOrder.php" />
-      <jump line="13" column="20" filename="$USER_HOME$/Projects/materialen/app/Events/OrderImported.php" />
-      <jump line="13" column="57" filename="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" />
       <jump line="36" column="12" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
       <jump line="37" column="41" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
       <jump line="38" column="42" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
@@ -651,13 +656,16 @@
       <jump line="87" column="7" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/Auth/Register/AccountController.php" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Frontend/Auth/Register/AccountController.php" />
       <jump line="26" column="82" filename="$USER_HOME$/Projects/vetclass/storage/logs/laravel.log" />
+      <jump line="12" column="22" filename="$USER_HOME$/Projects/vsm/index.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/vsm/cloudinary.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/vsm/packshots.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JGV2ZW50LT51c2VyLT5hY2NvdW50X21ldGhvZCA9PT0gJ3N0dWRlbnQnICYm</text>
+        <text>cloudinary</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGV2ZW50LT51c2VyLT5hY2NvdW50X21ldGhvZCA9PT0gJ3N0dWRlbnQnICYm</text>
+        <text>cloudinary</text>
       </register>
       <register name="/" type="4">
         <text>ddd</text>
@@ -666,28 +674,28 @@
         <text encoding="base64">ICAgICAgICAkdXNlciA9IFVzZXI6OmNyZWF0ZShbCiAgICAgICAgICAgICdlbWFpbCcgPT4gJGRhdGFbJ2VtYWlsJ10sCiAgICAgICAgICAgICdwYXNzd29yZCcgPT4gJGRhdGFbJ3Bhc3N3b3JkJ10sCiAgICAgICAgICAgICdhY2NvdW50X21ldGhvZCcgPT4gJGRhdGFbJ2FjY291bnRfbWV0aG9kJ10sCiAgICAgICAgICAgICdzdGF0dXMnID0+ICRzdGF0dXMsCiAgICAgICAgXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gcmV0dXJuICR1cmxzOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFJlZ2lzdGVyIGFueSBvdGhlciBldmVudHMgZm9yIHlvdXIgYXBwbGljYXRpb24uCiAgICAgKgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBib290KCkKICAgIHsKICAgICAgICAvLwogICAgfQo=</text>
+        <text encoding="base64">Ly8gIEluaXRpYXRlIGN1cmwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnYXNkZicpOwo=</text>
+        <text encoding="base64">Ly8gJHVybHMgPSBhcnJheV9tYXAoZnVuY3Rpb24gKCRpdGVtKSB7Ci8vICAgICByZXR1cm4gJGl0ZW1bJ3NlY3VyZV91cmwnXTsKLy8gfSwganNvbl9kZWNvZGUoJHJlc3VsdCwgdHJ1ZSlbJ3Jlc291cmNlcyddKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gdmFyX2R1bXAoJHJlc3VsdCk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gc3RhdHVzIG5hIGFhbm1ha2VuIGFjY291bnQ6IDEKCiAgICAgICAgICAgIC8vIDEuIHN0dWRlbnQgYWNjb3VudCBtZXRob2RlIEpBPwogICAgICAgICAgICAvLyAyLiBlaW5kaWd0IGV4dGVuc2llIG1haWwgYWNjb3VudCBvcCBAc3R1ZGVudHMudXUubmwgfHwgQHV1Lm5sIEpBPwogICAgICAgICAgICAvLyAyLjEuIGRlIGdlYnJ1aWtlciBtYWcgZG9vciB3YW50IGF1dG9tYXRpc2NoIGdlY29udHJvbGVlcmQgb3AgbWFpbGFkcmVzIChlbWFpbCBiZXZlc3RpZ2luZyB6b3UgZGFuIGVpZ2VubGlqayBhYW4gbW9ldGVuIHN0YWFuKQogICAgICAgICAgICAvLyAzLiBpcyBkZSBzdGF0dXMgYWwgb3AgMT8gZGFuIGhvZWZ0IGVyIG5pZXRzIHRlIGdlYmV1cmVuLgogICAgICAgICAgICAvLyA0LiBhbmRlcnMgbWFnIGRlIHN0YXR1cyBvcCAyCiAgICAgICAgICAgIC8vIDQuMS4gbWFpbHRqZSBuYWFyIG1hcmNlbGxhCiAgICAgICAgICAgIC8vIDQuMi4gZ2VicnVpa2VyIG1hZyBkYW4gZG9vcgoKCgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGluX2FycmF5KCR1c2VyLT5hY2NvdW50X21ldGhvZCwgWydzdHVkZW50J10pKSB7CiAgICAgICAgICAgICAgICBpZiAoZW5kc193aXRoKCR1c2VyLT5lbWFpbCwgWydAc3R1ZGVudHMudXUubmwnLCAnQHV1Lm5sJ10pKSB7CiAgICAgICAgICAgICAgICAgICAgLy8gJHVzZXItPnVwZGF0ZShbJ3N0YXR1cycgPT4gMV0pOwogICAgICAgICAgICAgICAgfSBlbHNlIGlmICgkdXNlci0+c3RhdHVzID4gMSkgewogICAgICAgICAgICAgICAgICAgIC8vICR1c2VyLT51cGRhdGUoWydzdGF0dXMnID0+IDJdKTsKCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICR1cmxzW3N0cl9yZXBsYWNlKCdfJywgJycsICRrZXkpXSA9ICRrZXk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnc3RvcCcpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">Ci8vIHZhcl9kdW1wKCRyZXN1bHQpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -720,7 +728,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgJHVzZXIgPSBVc2VyOjptYWtlKFsKICAgICAgICAgICAgJ2VtYWlsJyA9PiAkZGF0YVsnZW1haWwnXSwKICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAkZGF0YVsncGFzc3dvcmQnXSwKICAgICAgICAgICAgJ2FjY291bnRfbWV0aG9kJyA9PiAkZGF0YVsnYWNjb3VudF9tZXRob2QnXSwKICAgICAgICAgICAgJ3N0YXR1cycgPT4gJHN0YXR1cywKICAgICAgICBdKTsK</text>
+        <text encoding="base64">Ly8gIEluaXRpYXRlIGN1cmwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
