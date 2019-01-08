@@ -81,12 +81,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Users/userBoats.vue" timestamp="1546942426387">
+      <file name="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Users/userBoats.vue" timestamp="1546944246356">
         <mark key="'" line="96" column="46" />
-        <mark key="[" line="74" column="18" />
-        <mark key="]" line="75" column="15" />
-        <mark key="." line="75" column="15" />
-        <mark key="^" line="75" column="15" />
+        <mark key="[" line="91" column="34" />
+        <mark key="]" line="71" column="22" />
+        <mark key="." line="71" column="22" />
+        <mark key="^" line="71" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Article.php" timestamp="1546262304850">
         <mark key="'" line="35" column="0" />
@@ -375,6 +375,12 @@
         <mark key="]" line="18" column="35" />
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Boats/boatManager.vue" timestamp="1546944443007">
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="0" />
+        <mark key="." line="214" column="0" />
+        <mark key="^" line="213" column="78" />
       </file>
       <file name="$USER_HOME$/Projects/vetclass/storage/logs/laravel.log" timestamp="1546609421773">
         <mark key="'" line="26" column="82" />
@@ -681,45 +687,44 @@
       <jump line="89" column="46" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Users/userBoats.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;
-                }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>ddd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5tYXRjaEJvYXQoYm9hdCwgdGhpcy5zZWFyY2gpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYm9hdC5uYW1lLnRvTG93ZXJDYXNlKCkuaW5kZXhPZihuZWVkbGUpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>;
-                }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoICE9PSAtMSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC51c2VyX19ib2F0cyB7CiAgICAgICAgLmVsLWlucHV0IHsKICAgICAgICAgICAgbWFyZ2luOiAuNWVtOwogICAgICAgIH0KICAgIH0K</text>
+      </register>
+      <register name="4" type="4">
+        <text>;
+                }</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgIC8vIHJldHVybiBib2F0Lm5hbWUudG9Mb3dlckNhc2UoKS5pbmRleE9mKHRoaXMuc2VhcmNoLnRyaW0oKS50b0xvd2VyQ2FzZSgpKSAhPT0gLTE7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIA==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>{
                     // return boat.name.toLowerCase().indexOf(this.search.trim().toLowerCase()) !== -1;
                     return</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gcmV0dXJuICR1cmxzOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gIEluaXRpYXRlIGN1cmwK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gJHVybHMgPSBhcnJheV9tYXAoZnVuY3Rpb24gKCRpdGVtKSB7Ci8vICAgICByZXR1cm4gJGl0ZW1bJ3NlY3VyZV91cmwnXTsKLy8gfSwganNvbl9kZWNvZGUoJHJlc3VsdCwgdHJ1ZSlbJ3Jlc291cmNlcyddKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -749,10 +754,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gdmFyX2R1bXAoJHJlc3VsdCk7Cgo=</text>
+        <text encoding="base64">Ly8gcmV0dXJuICR1cmxzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gIEluaXRpYXRlIGN1cmwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
