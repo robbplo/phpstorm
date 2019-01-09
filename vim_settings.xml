@@ -359,7 +359,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Planning/Planning.vue" timestamp="1547028636332">
+      <file name="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Planning/Planning.vue" timestamp="1547033130699">
+        <mark key="'" line="18" column="44" />
         <mark key="[" line="18" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/accreditation/.env" timestamp="1545985455732">
@@ -479,6 +480,13 @@
       <file name="$USER_HOME$/Projects/accreditation/app/Jobs/RequestRegisterNumber.php" timestamp="1545985548799">
         <mark key="'" line="409" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/sass/base.scss" timestamp="1547033080397">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="143" column="1" />
+        <mark key="]" line="147" column="0" />
+        <mark key="^" line="147" column="0" />
+        <mark key="." line="147" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/vetclass/composer.lock" timestamp="1544798024373">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -586,8 +594,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="52" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
-      <jump line="43" column="36" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
       <jump line="44" column="33" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
       <jump line="56" column="12" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
       <jump line="60" column="0" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
@@ -686,6 +692,8 @@
       <jump line="83" column="44" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Boats/boatUsers.vue" />
       <jump line="66" column="23" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Boats/boatUsers.vue" />
       <jump line="57" column="48" filename="$USER_HOME$/Projects/nustar-meldpunt/app/Notifications/BoatScheduled.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/sass/base.scss" />
+      <jump line="18" column="44" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Planning/Planning.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -695,7 +703,7 @@
         <text>wrench</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>input</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVwb3J0X19wcm9wZXJ0eSI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZXNjIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZXNjX19pY29uIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9Imljb24td3JlbmNoIHNpbXBsZS1saW5lLWljb24iPjwvaT4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8cD5PcGVyYXRpb246IDwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idmFsdWUiPgogICAgICAgICAgICAgICAgICAgIDxwPnt7IG9wZXJhdGlvbiB9fTwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4K</text>
@@ -762,18 +770,16 @@
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>input</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>input</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>options</entry>
-        <entry>delivery</entry>
         <entry>sta</entry>
         <entry>type</entry>
         <entry>query</entry>
@@ -792,6 +798,8 @@
         <entry>ddd</entry>
         <entry>match</entry>
         <entry>'</entry>
+        <entry>inpt</entry>
+        <entry>input</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyA9PiAuKi8s</entry>
