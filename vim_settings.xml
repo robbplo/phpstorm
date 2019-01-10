@@ -168,11 +168,17 @@
         <mark key="." line="18" column="37" />
         <mark key="^" line="23" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen-pwa/store/index.js" timestamp="1547132794700">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="22" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Projects/materialen-pwa/store/index.js" timestamp="1547132918750">
+        <mark key="'" line="7" column="22" />
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" timestamp="1547134712988">
+        <mark key="[" line="146" column="24" />
+        <mark key="]" line="146" column="24" />
+        <mark key="." line="146" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Boats/boatUsers.vue" timestamp="1547027992536">
         <mark key="'" line="66" column="23" />
@@ -489,12 +495,12 @@
         <mark key="." line="45" column="20" />
         <mark key="^" line="45" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen-pwa/store/modules/categories.js" timestamp="1547128739600">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="27" column="20" />
-        <mark key="]" line="27" column="19" />
-        <mark key="." line="27" column="19" />
-        <mark key="^" line="27" column="19" />
+      <file name="$USER_HOME$/Projects/materialen-pwa/store/modules/categories.js" timestamp="1547134585096">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="37" column="34" />
+        <mark key="]" line="37" column="34" />
+        <mark key="." line="37" column="34" />
+        <mark key="^" line="35" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/vetclass/composer.lock" timestamp="1544798024373">
         <mark key="[" line="7" column="0" />
@@ -600,7 +606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="64" filename="$USER_HOME$/Projects/materialen/vendor/guzzlehttp/guzzle/src/Client.php" />
       <jump line="94" column="43" filename="$USER_HOME$/Projects/materialen/vendor/guzzlehttp/guzzle/src/Client.php" />
       <jump line="97" column="67" filename="$USER_HOME$/Projects/materialen/vendor/guzzlehttp/guzzle/src/Client.php" />
       <jump line="98" column="13" filename="$USER_HOME$/Projects/materialen/vendor/guzzlehttp/guzzle/src/Client.php" />
@@ -700,13 +705,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/materialen-pwa/store/index.js" />
       <jump line="42" column="0" filename="$USER_HOME$/Projects/materialen-pwa/store/index.js" />
       <jump line="38" column="0" filename="$USER_HOME$/Projects/materialen-pwa/store/index.js" />
+      <jump line="7" column="22" filename="$USER_HOME$/Projects/materialen-pwa/store/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZWQoKSB7CiAgICAgIHRoaXMuJHN0b3JlLmRpc3BhdGNoKCdicm93c2VySW5pdCcpOwogICAgfSwK</text>
+      <register name="&quot;" type="4">
+        <text>post</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>post</text>
       </register>
       <register name="/" type="4">
         <text>color</text>
@@ -715,28 +721,29 @@
         <text encoding="base64">ICAgICRldmVudHMtPmVhY2goZnVuY3Rpb24gKCRldmVudCkgewogICAgICAgICRldmVudC0+Y2xpZW50KCktPnVwZGF0ZShbCiAgICAgICAgICAgICdwX2NlcnRpZmljYXRlJyA9PiAxLAogICAgICAgIF0pOwogICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZWQoKSB7CiAgICAgIHRoaXMuJHN0b3JlLmRpc3BhdGNoKCdicm93c2VySW5pdCcpOwogICAgfSwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFwcCkKICAgIC8vIGNvbnNvbGUubG9nKHRoaXMuJGF4aW9zKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUK</text>
+      <register name="2" type="4">
+        <text>{
+  const store =</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vdW50ZWQoKSB7CiAgICAgIHN0b3JlLmRpc3BhdGNoKCdicm93c2VySW5pdCcpOwogICAgfSwK</text>
+        <text encoding="base64">ICByZXR1cm4gc3RvcmU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdG9yZS5kaXNwYXRjaCgnYnJvd3NlckluaXQnKTsK</text>
+        <text encoding="base64">ICAgICAgYnJvd3NlckluaXQoe2Rpc3BhdGNoLCBhcHB9KSB7CiAgICAgICAgY29uc29sZS5sb2codGhpcy4kYXhpb3MpOwogICAgICAgIC8vIGRlYnVnZ2VyCiAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjdHgpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -766,10 +773,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJwoKYXhpb3MuZGVmYXVsdHMuYmFzZVVSTCA9IHByb2Nlc3MuZW52LmFwaVVybDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvbWlzZS5hbGwoWwogICAgICAgICAgZGlzcGF0Y2goJ2NhdGVnb3JpZXMvZmV0Y2gnKSwKICAgICAgICBdKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBheGlvcyA9IGF4aW9zCg==</text>
+        <text encoding="base64">ICAgIGNyZWF0ZWQoKSB7CiAgICAgIHRoaXMuJHN0b3JlLmRpc3BhdGNoKCdicm93c2VySW5pdCcpOwogICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
