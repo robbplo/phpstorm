@@ -150,12 +150,12 @@
         <mark key="." line="18" column="37" />
         <mark key="^" line="23" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen-pwa/store/index.js" timestamp="1547113285960">
-        <mark key="'" line="27" column="2" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="33" column="1" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Projects/materialen-pwa/store/index.js" timestamp="1547114486172">
+        <mark key="'" line="28" column="2" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Boats/boatUsers.vue" timestamp="1547027992536">
         <mark key="'" line="66" column="23" />
@@ -460,11 +460,11 @@
         <mark key="." line="45" column="20" />
         <mark key="^" line="45" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen-pwa/store/modules/categories.js" timestamp="1547113539708">
-        <mark key="[" line="27" column="20" />
-        <mark key="]" line="27" column="20" />
-        <mark key="." line="27" column="20" />
-        <mark key="^" line="27" column="26" />
+      <file name="$USER_HOME$/Projects/materialen-pwa/store/modules/categories.js" timestamp="1547114620992">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/vetclass/composer.lock" timestamp="1544798024373">
         <mark key="[" line="7" column="0" />
@@ -549,8 +549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="80" filename="$USER_HOME$/Projects/materialen/vendor/guzzlehttp/guzzle/src/Client.php" />
-      <jump line="22" column="81" filename="$USER_HOME$/Projects/materialen/vendor/guzzlehttp/guzzle/src/Client.php" />
       <jump line="26" column="35" filename="$USER_HOME$/Projects/materialen/vendor/guzzlehttp/guzzle/src/Client.php" />
       <jump line="33" column="23" filename="$USER_HOME$/Projects/materialen/vendor/guzzlehttp/guzzle/src/Client.php" />
       <jump line="42" column="59" filename="$USER_HOME$/Projects/materialen/vendor/guzzlehttp/guzzle/src/Client.php" />
@@ -649,13 +647,15 @@
       <jump line="132" column="33" filename="$USER_HOME$/Projects/materialen-pwa/layouts/default.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/materialen-pwa/layouts/default.vue" />
       <jump line="44" column="31" filename="$USER_HOME$/Projects/materialen-pwa/layouts/default.vue" />
+      <jump line="0" column="33" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/categories.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/categories.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLiRzdG9yZSkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">KCkgPT4=</text>
       </register>
       <register name="/" type="4">
         <text>getSe</text>
@@ -664,28 +664,28 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuJGF4aW9zKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLiRzdG9yZSkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gWwoKICAgICAgICBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN0eCkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjdHgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmZXRjaChjdHgpIHsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLiRzdG9yZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWwoKICAgICAgICBdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBzdG9yZS5kaXNwYXRjaCgnYnJvd3NlckluaXQnKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGN0eCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIGZldGNoICh7c3RvcmV9KSB7CiAgICAgIC8vIGF3YWl0IHN0b3JlLmRpc3BhdGNoKCdjYXRlZ29yaWVzL2ZldGNoJykKICAgIH0sCg==</text>
+        <text encoding="base64">ICBmZXRjaChjdHgpIHsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -714,11 +714,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHsKICAgICAgdHlwZTogJ2NhdGVnb3JpZXMnLAogICAgICBsYWJlbDogJ0FBQScsCiAgICAgIHNsdWc6ICdhYWEnLAogICAgICBpbWFnZTogbnVsbCwKICAgIH0s</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAvLyBzdG9yZS5kaXNwYXRjaCgnYnJvd3NlckluaXQnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
