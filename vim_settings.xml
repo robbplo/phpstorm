@@ -82,6 +82,12 @@
         <mark key="]" line="19" column="18" />
         <mark key="." line="19" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/apotheker/resources/js/components/ProductAmount.vue" timestamp="1547470669386">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+        <mark key="^" line="12" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Http/Controllers/ApiController.php" timestamp="1546431900949">
         <mark key="[" line="11" column="24" />
         <mark key="]" line="11" column="28" />
@@ -183,6 +189,7 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/apotheker/routes/web.php" timestamp="1547469172288" />
       <file name="$USER_HOME$/Projects/materialen/app/Http/Resources/Article.php" timestamp="1547107225014">
         <mark key="'" line="25" column="12" />
         <mark key="[" line="25" column="20" />
@@ -203,11 +210,7 @@
         <mark key="." line="33" column="18" />
         <mark key="^" line="23" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/package.json" timestamp="1547468340617">
-        <mark key="[" line="9" column="176" />
-        <mark key="]" line="9" column="176" />
-        <mark key="." line="9" column="176" />
-      </file>
+      <file name="$USER_HOME$/Projects/apotheker/package.json" timestamp="1547468960071" />
       <file name="$USER_HOME$/Projects/materialen-pwa/store/index.js" timestamp="1547208425240">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="4" column="0" />
@@ -374,6 +377,12 @@
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/apotheker/resources/views/declaration/edit.blade.php" timestamp="1547470674805">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="56" column="57" />
+        <mark key="." line="56" column="57" />
+        <mark key="^" line="56" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/sso/app/Services/Auth/JwtAuth.php" timestamp="1545128642265">
         <mark key="[" line="155" column="0" />
@@ -615,6 +624,10 @@
         <mark key="." line="18" column="34" />
         <mark key="^" line="18" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/apotheker/resources/views/layouts/app.blade.php" timestamp="1547470706626">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/vetclass/composer.lock" timestamp="1544798024373">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -712,10 +725,6 @@
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen-pwa/plugins/axios.js" timestamp="1547210907667">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="24" />
-      </file>
       <file name="$USER_HOME$/Projects/materialen-pwa/pages/categories/_slug.vue" timestamp="1547458102952">
         <mark key="'" line="108" column="13" />
         <mark key="[" line="153" column="0" />
@@ -731,8 +740,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/Projects/bi-sso/style.css" />
-      <jump line="10" column="6" filename="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Auth/RegisterController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/vetclass/app/Jobs/RegisterUser.php" />
       <jump line="29" column="39" filename="$USER_HOME$/Projects/vetclass/app/Listeners/SendAccessRequestForStudent.php" />
       <jump line="32" column="0" filename="$USER_HOME$/Projects/vetclass/app/Listeners/SendAccessRequestForStudent.php" />
@@ -831,43 +838,47 @@
       <jump line="38" column="15" filename="$USER_HOME$/Projects/apotheker/app/Policies/CreditNotaPolicy.php" />
       <jump line="134" column="74" filename="$USER_HOME$/Projects/apotheker/app/Nova/Company.php" />
       <jump line="83" column="29" filename="$USER_HOME$/Projects/apotheker/app/Nova/Company.php" />
+      <jump line="17" column="46" filename="$USER_HOME$/Projects/apotheker/resources/views/layouts/app.blade.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/apotheker/resources/views/layouts/app.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>methods</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>methods</text>
       </register>
       <register name="/" type="4">
         <text>Cust</text>
       </register>
-      <register name="0" type="4">
-        <text>this.meta.last_page</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhbHVlPSJ7eyBvbGQoc3ByaW50ZigncHJvZHVjdHMuJXMuYW1vdW50JywgJHByb2R1Y3QtPmlkKSwgMCkgfX0iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiYnVpbGQtZmlsZS1saXN0ZXItcHJvZCI6ICJjZCBub3ZhLWNvbXBvbmVudHMvRmlsZUxpc3RlciAmJiBucG0gcnVuIHByb2QiCg==</text>
+        <text encoding="base64">ICAgICAgdmFsaWRhdGUoKSB7CiAgICAgICAgCiAgICAgIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiYnVpbGQtbm92YS1maWVsZC1maWxlbGlzdGluZyI6ICJjZCBub3ZhLWNvbXBvbmVudHMvTm92YUZpZWxkRmlsZWxpc3RpbmcgJiYgbnBtIHJ1biBkZXYiLAogICAgICAgICJidWlsZC1ub3ZhLWZpZWxkLWZpbGVsaXN0aW5nLXByb2QiOiAiY2Qgbm92YS1jb21wb25lbnRzL05vdmFGaWVsZEZpbGVsaXN0aW5nICYmIG5wbSBydW4gcHJvZCIsCiAgICAgICAgImJ1aWxkLWZpbGUtbGlzdGVyIjogImNkIG5vdmEtY29tcG9uZW50cy9GaWxlTGlzdGVyICYmIG5wbSBydW4gZGV2IiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>{
+      '{'
+    }</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0b0Rpc3BsYXkpOwogICAgICAgIC8vIHJldHVybiB0aGlzLnBhZ2VzUmFuZ2UuZmlsdGVyKHBhZ2UgPT4gewogICAgICAgIC8vICAgcmV0dXJuIHBhZ2UgPCB0aGlzLmN1cnJlbnRQYWdlICsgMyB8fCBwYWdlID4gdGhpcy5jdXJyZW50UGFnZSAtIDM7CiAgICAgICAgLy8gfSk=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZT0ibnVtYmVyIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0iZm9ybS1jb250cm9sIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lPSJ7eyBzcHJpbnRmKCdwcm9kdWN0c1slc11bYW1vdW50XScsICRwcm9kdWN0LT5pZCkgfX0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPSJ7eyBvbGQoc3ByaW50ZigncHJvZHVjdHMuJXMuYW1vdW50JywgJHByb2R1Y3QtPmlkKSwgMCkgfX0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhNYXRoLmFicyh0aGlzLmN1cnJlbnRQYWdlIC0gMykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7ZGQoKX19Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -897,10 +908,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyAkcHJvZHVjdC0+YW1vdW50IH19Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYW5nZSgxLCBwYWdlcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiZ2xvYmFsIjogIjQuMy4yIiwK</text>
       </register>
       <register name=":" type="4">
         <text>s/meta/loading/g</text>
