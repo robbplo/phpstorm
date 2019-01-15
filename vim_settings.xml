@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/finish-building/app/Http/Controllers/OfferController.php" timestamp="1547559606103" />
       <file name="$USER_HOME$/Projects/materialen/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1546436606416">
         <mark key="'" line="110" column="9" />
       </file>
@@ -247,12 +248,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/Document.js" timestamp="1547558195963">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/Document.js" timestamp="1547559180186">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/resources/views/pdfs/agreement.blade.php" timestamp="1547543463706">
         <mark key="'" line="0" column="0" />
@@ -378,8 +377,8 @@
       <jump line="19" column="20" filename="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/components/Tool.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAKICBocmVmKGRvY3VtZW50SWQpIHsKICAgIHJldHVybiBgL25vdmEtdmVuZG9yL2RvY3VtZW50LXZpZXdlci9kb2N1bWVudHMvJHtkb2N1bWVudElkfS8ke3RoaXMuZnVsbFBhdGh9YAogIH0K</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -391,28 +390,28 @@
         <text encoding="base64">ICAgIC8vIGlmICghU3RvcmFnZTo6ZXhpc3RzKCRwYXRoKSkgewogICAgLy8gICAgIGFib3J0KDQwNCk7CiAgICAvLyB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAKICBocmVmKGRvY3VtZW50SWQpIHsKICAgIHJldHVybiBgL25vdmEtdmVuZG9yL2RvY3VtZW50LXZpZXdlci9kb2N1bWVudHMvJHtkb2N1bWVudElkfS8ke3RoaXMuZnVsbFBhdGh9YAogIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGZpbmQgdXBsb2FkcwogICAgLy8gZ3JvdXAgYnkgbmFtZSB3aXRob3V0IHRpbWVzdGFtcAogICAgLy8gcmV0dXJuIGFzIGFzc29jaWF0aXZlIGFycmF5Cg==</text>
+        <text encoding="base64">ICAKICBzdGF0aWMgYXN5bmMgZmV0Y2goKSB7CgogIH0KICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3Nzc3Nzc3Nzc3MK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGZpbmQgdXBsb2FkcwogICAgLy8gZ3JvdXAgYnkgbmFtZSB3aXRob3V0IHRpbWVzdGFtcAogICAgLy8gcmV0dXJuIGFzIGFzc29jaWF0aXZlIGFycmF5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICRwYXRoID0gIGdldENvbnRyYWN0VXBsb2FkUGF0aCgkY29udHJhY3QtPmlkKSAuICcvJyAuICRmaWxlOwo=</text>
+        <text encoding="base64">c3Nzc3Nzc3Nzc3MK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGlmICghU3RvcmFnZTo6ZXhpc3RzKCRwYXRoKSkgewogICAgLy8gICAgIGFib3J0KDQwNCk7CiAgICAvLyB9Cgo=</text>
+        <text encoding="base64">ICAgIC8vICRwYXRoID0gIGdldENvbnRyYWN0VXBsb2FkUGF0aCgkY29udHJhY3QtPmlkKSAuICcvJyAuICRmaWxlOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -442,10 +441,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZSgpLT5maWxlKCRwYXRoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZSgpLT5maWxlKCRwYXRoKTsK</text>
+        <text encoding="base64">ICAgIC8vIGlmICghU3RvcmFnZTo6ZXhpc3RzKCRwYXRoKSkgewogICAgLy8gICAgIGFib3J0KDQwNCk7CiAgICAvLyB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/'/`/g</text>
