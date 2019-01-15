@@ -103,10 +103,10 @@
         <mark key="." line="52" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/nova/node_modules/laravel-nova/src/mixins/FormField.js" timestamp="1547473927657" />
-      <file name="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/components/Tool.vue" timestamp="1547552020359">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/components/Tool.vue" timestamp="1547553969107">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/database/seeds/UsersTableSeeder.php" timestamp="1547538968707">
         <mark key="[" line="126" column="0" />
@@ -221,12 +221,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/Document.js" timestamp="1547552471829">
-        <mark key="'" line="5" column="4" />
-        <mark key="[" line="7" column="2" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="2" column="28" />
+      <file name="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/Document.js" timestamp="1547554454870">
+        <mark key="'" line="30" column="2" />
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="25" column="22" />
+        <mark key="." line="25" column="22" />
+        <mark key="^" line="25" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/resources/views/pdfs/agreement.blade.php" timestamp="1547543463706">
         <mark key="'" line="0" column="0" />
@@ -244,10 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="5" filename="$USER_HOME$/Projects/bols/nova-components/EventSteps/routes/api.php" />
-      <jump line="9" column="13" filename="$USER_HOME$/Projects/materialen-pwa/store/index.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/materialen-pwa/store/index.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/Projects/materialen-pwa/store/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/materialen-pwa/store/index.js" />
       <jump line="42" column="0" filename="$USER_HOME$/Projects/materialen-pwa/store/index.js" />
       <jump line="38" column="0" filename="$USER_HOME$/Projects/materialen-pwa/store/index.js" />
@@ -344,43 +340,47 @@
       <jump line="3" column="4" filename="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/Document.js" />
       <jump line="4" column="4" filename="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/Document.js" />
       <jump line="5" column="4" filename="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/Document.js" />
+      <jump line="9" column="7" filename="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/Document.js" />
+      <jump line="14" column="6" filename="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/Document.js" />
+      <jump line="15" column="22" filename="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/Document.js" />
+      <jump line="21" column="2" filename="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/Document.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyAnZnVsbFBhdGgnID0+ICRmaWxlLAogIC8vICdmaWxlTmFtZScgPT4gJGZpbGVOYW1lLAogIC8vICdkb2N1bWVudFR5cGUnID0+ICRuYW1lUGFydHNbMF0sCiAgLy8gJ3RpbWVzdGFtcCcgPT4gZXhwbG9kZSgnLicsICRuYW1lUGFydHNbMV0pWzBdLAo=</text>
+      <register name="&quot;" type="4">
+        <text>static</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5ncm91cEJ5KCdkb2N1bWVudFR5cGUnKTs=</text>
+        <text>static</text>
       </register>
       <register name="/" type="4">
-        <text>asd</text>
+        <text>then</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYXNkID0gYXNkOwo=</text>
+        <text encoding="base64">ICAgICAgICBheGlvcy5nZXQoJy9ub3ZhLXZlbmRvci9kb2N1bWVudC12aWV3ZXIvZG9jdW1lbnRzLzY0JykudGhlbihkYXRhID0+IHsKICAgICAgICAgIHRoaXMuZG9jdW1lbnRzID0gZGF0YS5kYXRhCiAgICAgICAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyAnZnVsbFBhdGgnID0+ICRmaWxlLAogIC8vICdmaWxlTmFtZScgPT4gJGZpbGVOYW1lLAogIC8vICdkb2N1bWVudFR5cGUnID0+ICRuYW1lUGFydHNbMF0sCiAgLy8gJ3RpbWVzdGFtcCcgPT4gZXhwbG9kZSgnLicsICRuYW1lUGFydHNbMV0pWzBdLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IHRoaXMoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZnVsbFBhdGggPSBmdWxsUGF0aDsKICAgIHRoaXMuZnVsbFBhdGggPSBmdWxsUGF0aDsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHsKICAgICAgICAKICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBmdWxsUGF0aDsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRvY3VtZW50cyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIERvY3VtZW50IFZpZGRld2VyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRvY3VtZW50Lgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDx1bD4KICAgICAgPGxpPmFkPC9saT4KICAgIDwvdWw+Cg==</text>
+        <text encoding="base64">ICAgIG1ldGhvZHM6IHsKICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZmV0Y2hEb2N1bWVudHMoKSB7CiAgICAgICAgYXhpb3MuZ2V0KCcvbm92YS12ZW5kb3IvZG9jdW1lbnQtdmlld2VyL2RvY3VtZW50cy82NCcpLnRoZW4oZGF0YSA9PiB7CiAgICAgICAgICB0aGlzLmRvY3VtZW50cyA9IGRhdGEuZGF0YQogICAgICAgIH0pCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -409,20 +409,20 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRkKCRmaWxlcyk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">LnRoZW4oZGF0YSA9PiB7CiAgICAgICAgCiAgICAgIH0p</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRvY3VtZW50cyA9IGRhdGEuZGF0YQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/asd/timestamp/g</text>
       </register>
     </registers>
     <search>
-      <last-search>asd</last-search>
+      <last-search>then</last-search>
       <last-offset />
-      <last-pattern>asd</last-pattern>
+      <last-pattern>then</last-pattern>
       <last-replace>timestamp</last-replace>
       <last-substitute>asd</last-substitute>
       <last-dir>1</last-dir>
@@ -430,8 +430,6 @@
     </search>
     <history>
       <history-search>
-        <entry>last</entry>
-        <entry>base</entry>
         <entry>products</entry>
         <entry>meta</entry>
         <entry>pages</entry>
@@ -450,6 +448,8 @@
         <entry>axio</entry>
         <entry>fullPath</entry>
         <entry>asd</entry>
+        <entry>64</entry>
+        <entry>then</entry>
       </history-search>
       <history-cmd>
         <entry>s/type/address_delivery/g</entry>
