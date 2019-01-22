@@ -526,12 +526,12 @@
         <mark key="." line="153" column="0" />
         <mark key="^" line="109" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Imports/ContractsImport.php" timestamp="1548167202358">
-        <mark key="'" line="8" column="68" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="23" column="18" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Imports/ContractsImport.php" timestamp="1548171930190">
+        <mark key="'" line="50" column="9" />
+        <mark key="[" line="24" column="37" />
+        <mark key="]" line="24" column="35" />
+        <mark key="." line="24" column="35" />
+        <mark key="^" line="24" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/database/migrations/2018_12_28_094514_create_article_groups_table.php" timestamp="1547045366600">
         <mark key="[" line="6" column="12" />
@@ -1001,7 +1001,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="74" filename="$USER_HOME$/Projects/apotheker/app/Nova/Company.php" />
       <jump line="83" column="29" filename="$USER_HOME$/Projects/apotheker/app/Nova/Company.php" />
       <jump line="17" column="46" filename="$USER_HOME$/Projects/apotheker/resources/views/layouts/app.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/apotheker/resources/views/layouts/app.blade.php" />
@@ -1101,46 +1100,48 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/apotheker/storage/logs/laravel-2019-01-22.log" />
       <jump line="62" column="0" filename="$USER_HOME$/Projects/apotheker/storage/logs/laravel-2019-01-22.log" />
       <jump line="11" column="68" filename="$USER_HOME$/Projects/apotheker/app/Imports/ContractsImport.php" />
+      <jump line="39" column="9" filename="$USER_HOME$/Projects/apotheker/app/Imports/ContractsImport.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIE1hYXR3ZWJzaXRlXEV4Y2VsXENvbmNlcm5zXFdpdGhNYXBwZWRDZWxsczsKdXNlIE1hYXR3ZWJzaXRlXEV4Y2VsXENvbmNlcm5zXFdpdGhTdGFydFJvdzsK</text>
+      <register name="&quot;" type="4">
+        <text>firstOrCreate([
+                
+            ], [</text>
       </register>
       <register name="-" type="4">
-        <text>row</text>
+        <text>// firstorcreate client</text>
       </register>
       <register name="/" type="4">
-        <text>MAIL</text>
+        <text>rules</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcm93KTsK</text>
+        <text encoding="base64">ICAgICAgICBkZChhcnJheV9zZWFyY2godHJ1ZSwgJGZhaWxpbmdDb25kaXRpb25zKSA9PT0gZmFsc2UpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNlIE1hYXR3ZWJzaXRlXEV4Y2VsXENvbmNlcm5zXFdpdGhNYXBwZWRDZWxsczsKdXNlIE1hYXR3ZWJzaXRlXEV4Y2VsXENvbmNlcm5zXFdpdGhTdGFydFJvdzsK</text>
+      <register name="1" type="4">
+        <text>firstOrCreate([
+                
+            ], [</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxDb2xsZWN0aW9uOwp1c2UgTWFhdHdlYnNpdGVcRXhjZWxcQ29uY2VybnNcVG9Db2xsZWN0aW9uOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzdGFydAo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>Row(): int
-    {
-        return 2;
-    }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBDdXN0b21lcjo6Zmlyc3RPckNyZWF0ZShbCgogICAgICAgIF0sIFsKCiAgICAgICAgXSk7CgoKICAgICAgICAkY29tcGFueSA9IENvbXBhbnk6OmZpcnN0T3JDcmVhdGUoWwogICAgICAgICAgICAnaW50ZXJuYWxfY29kZScgPT4gJHJvd1syXQogICAgICAgIF0sIFsKICAgICAgICAgICAgJ25hbWUnID0+ICRyb3dbMF0sCiAgICAgICAgXSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBkZCgkZmFpbGluZ0NvbmRpdGlvbnMpOwogICAgICAgIC8vIGRkKGFycmF5X3NlYXJjaCh0cnVlLCAkZmFpbGluZ0NvbmRpdGlvbnMpID09PSBmYWxzZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcm93KTsK</text>
+        <text encoding="base64">ICAgICAgICBkZChhcnJheV9zZWFyY2godHJ1ZSwgJGZhaWxpbmdDb25kaXRpb25zKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcm93KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1173,16 +1174,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBtYXBwaW5nKCk6IGFycmF5CiAgICB7CiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgJ25hbWUnICA9PiAnQTEnLAogICAgICAgICAgICAnZW1haWwnID0+ICdCMScsCiAgICAgICAgICAgICdwcm9kdWN0JyA9PiAnQzEnLAogICAgICAgICAgICAnc2t1JyA9PiAnRDEnLAogICAgICAgICAgICAnZGlzY291bnQnID0+ICdFMScsCiAgICAgICAgICAgICdhbW91bnQnID0+ICdUMScKICAgICAgICBdOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcm93KTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>MAIL</last-search>
+      <last-search>rules</last-search>
       <last-offset />
-      <last-pattern>MAIL</last-pattern>
+      <last-pattern>rules</last-pattern>
       <last-replace>recipients</last-replace>
       <last-substitute>users</last-substitute>
       <last-dir>1</last-dir>
@@ -1190,7 +1191,6 @@
     </search>
     <history>
       <history-search>
-        <entry>product</entry>
         <entry>dd</entry>
         <entry>head</entry>
         <entry>axio</entry>
@@ -1210,6 +1210,7 @@
         <entry>model</entry>
         <entry>App</entry>
         <entry>MAIL</entry>
+        <entry>rules</entry>
       </history-search>
       <history-cmd>
         <entry>s/delivery/invoice/g</entry>
