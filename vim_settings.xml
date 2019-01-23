@@ -326,12 +326,12 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Nova/Contract.php" timestamp="1547645253879">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="70" column="30" />
-        <mark key="]" line="125" column="33" />
-        <mark key="." line="125" column="33" />
-        <mark key="^" line="125" column="33" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Nova/Contract.php" timestamp="1548236576161">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="54" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/composer.json" timestamp="1545315688692">
         <mark key="[" line="36" column="13" />
@@ -420,6 +420,13 @@
         <mark key="]" line="6" column="46" />
         <mark key="." line="6" column="46" />
         <mark key="^" line="6" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/apotheker/app/Nova/Company.php" timestamp="1548236397721">
+        <mark key="'" line="83" column="29" />
+        <mark key="[" line="34" column="9" />
+        <mark key="]" line="34" column="9" />
+        <mark key="^" line="134" column="74" />
+        <mark key="." line="34" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Jobs/ImportArticle.php" timestamp="1547201297590">
         <mark key="[" line="8" column="7" />
@@ -1001,7 +1008,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/apotheker/.env.example" />
       <jump line="4" column="4" filename="$USER_HOME$/Projects/apotheker/resources/js/components/ProductAmount.vue" />
       <jump line="86" column="0" filename="$USER_HOME$/Projects/apotheker/app/Nova/Contract.php" />
       <jump line="114" column="27" filename="$USER_HOME$/Projects/apotheker/app/Nova/Contract.php" />
@@ -1101,43 +1107,44 @@
       <jump line="16" column="0" filename="$USER_HOME$/Projects/apotheker/app/Imports/ContractsImport.php" />
       <jump line="51" column="8" filename="$USER_HOME$/Projects/apotheker/app/Imports/ContractsImport.php" />
       <jump line="66" column="0" filename="$USER_HOME$/Projects/apotheker/app/Imports/ContractsImport.php" />
+      <jump line="55" column="0" filename="$USER_HOME$/Projects/apotheker/app/Nova/Contract.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>collection</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQmVsb25nc1RvOjptYWtlKCJVc2VyIiwgInVzZXIiLCBVc2VyOjpjbGFzcyktPnNlYXJjaGFibGUoKS0+aGlkZUZyb21JbmRleCgpLAogICAgICAgICAgICAvLyBUZXh0OjptYWtlKCJVc2VyIiwgInVzZXJfaWQiLCBmdW5jdGlvbiAoKXsKICAgICAgICAgICAgLy8gICAgIHJldHVybiAiPGEgaHJlZj0nL25vdmEvcmVzb3VyY2VzLyIgLiAkdGhpcy0+dXNlci0+Z2V0VGFibGUoKSAuICIvIiAuICR0aGlzLT51c2VyLT5nZXRSb3V0ZUtleSgpIC4gIicgY2xhc3M9J25vLXVuZGVybGluZSBkaW0gdGV4dC1wcmltYXJ5IGZvbnQtYm9sZCc+IiAuICR0aGlzLT51c2VyLT5uYW1lIC4gJzwvYT4nOwogICAgICAgICAgICAvLyB9KS0+YXNIdG1sKCktPnNvcnRhYmxlKCktPm9ubHlPbkluZGV4KCkKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>collection</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
-        <text>rules</text>
+        <text>ref</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZChhcnJheV9zZWFyY2godHJ1ZSwgJGZhaWxpbmdDb25kaXRpb25zKSA9PT0gZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQmVsb25nc1RvOjptYWtlKCJVc2VyIiwgInVzZXIiLCBVc2VyOjpjbGFzcyktPnNlYXJjaGFibGUoKS0+aGlkZUZyb21JbmRleCgpLAogICAgICAgICAgICAvLyBUZXh0OjptYWtlKCJVc2VyIiwgInVzZXJfaWQiLCBmdW5jdGlvbiAoKXsKICAgICAgICAgICAgLy8gICAgIHJldHVybiAiPGEgaHJlZj0nL25vdmEvcmVzb3VyY2VzLyIgLiAkdGhpcy0+dXNlci0+Z2V0VGFibGUoKSAuICIvIiAuICR0aGlzLT51c2VyLT5nZXRSb3V0ZUtleSgpIC4gIicgY2xhc3M9J25vLXVuZGVybGluZSBkaW0gdGV4dC1wcmltYXJ5IGZvbnQtYm9sZCc+IiAuICR0aGlzLT51c2VyLT5uYW1lIC4gJzwvYT4nOwogICAgICAgICAgICAvLyB9KS0+YXNIdG1sKCktPnNvcnRhYmxlKCktPm9ubHlPbkluZGV4KCkKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vCiAgICAvLyAgICAgaWYgKCEkdGhpcy0+dmFsaWRhdGVSb3coJHJvdykpIHsKICAgIC8vICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAvLyAgICAgfQogICAgLy8KICAgIC8vICAgICBkZCgkcm93KTsKICAgIC8vCiAgICAvLwogICAgLy8gICAgIGlmIChDb21wYW55Ojp3aGVyZUludGVybmFsQ29kZSgkcm93WzJdKS0+Y291bnQoKSA9PT0gMCkgewogICAgLy8gICAgICAgICAkY29tcGFueSA9IENvbXBhbnk6OmZpcnN0T3JDcmVhdGUoWwogICAgLy8gICAgICAgICAgICAgJ2ludGVybmFsX2NvZGUnID0+ICRyb3dbMl0KICAgIC8vICAgICAgICAgXSwgWwogICAgLy8gICAgICAgICAgICAgJ25hbWUnID0+ICRyb3dbMF0sCiAgICAvLyAgICAgICAgIF0pOwogICAgLy8KICAgIC8vICAgICAgICAgJGN1c3RvbWVyID0gQ3VzdG9tZXI6OmZpcnN0T3JDcmVhdGUoWwogICAgLy8gICAgICAgICAgICAgJ2ZvcmVuYW1lJyA9PiAkcm93WzRdLAogICAgLy8gICAgICAgICAgICAgJ2xhc3RuYW1lJyA9PiAkcm93WzVdLAogICAgLy8gICAgICAgICBdLCBbCiAgICAvLyAgICAgICAgICAgICAnam9idGl0bGUnID0+ICRyb3dbNl0sCiAgICAvLyAgICAgICAgICAgICAnZW1haWwnID0+ICRyb3dbMTBdLAogICAgLy8gICAgICAgICAgICAgLy8gJ3Bob25lJyA9PiAkcm93WzEwMF0sCiAgICAvLyAgICAgICAgIF0pOwogICAgLy8KICAgIC8vICAgICAgICAgZGQoJGNvbXBhbnkpOwogICAgLy8gICAgIH0KICAgIC8vCiAgICAvLwogICAgLy8KICAgIC8vCiAgICAvLwogICAgLy8gICAgICRjb250cmFjdCA9IENvbnRyYWN0OjpjcmVhdGUoWwogICAgLy8KICAgIC8vICAgICBdKTsKICAgIC8vCiAgICAvLyAgICAgLy8gYXR0YWNoIHByb2R1Y3RzCiAgICAvLwogICAgLy8gICAgIHJldHVybiAkY29udHJhY3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2VhcmNoYWJsZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHB1YmxpYyBmdW5jdGlvbiBjb2xsZWN0aW9uKGFycmF5ICRyb3cpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29sbGVjdGlvbigpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjb2xsZWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGUK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1167,19 +1174,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbGwK</text>
+        <text encoding="base64">ICAgIC8vIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIE1hYXR3ZWJzaXRlXEV4Y2VsXENvbmNlcm5zXFRvTW9kZWw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>rules</last-search>
+      <last-search>ref</last-search>
       <last-offset />
-      <last-pattern>rules</last-pattern>
+      <last-pattern>ref</last-pattern>
       <last-replace>recipients</last-replace>
       <last-substitute>users</last-substitute>
       <last-dir>1</last-dir>
@@ -1187,7 +1194,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dd</entry>
         <entry>head</entry>
         <entry>axio</entry>
         <entry>fullPath</entry>
@@ -1207,6 +1213,7 @@
         <entry>App</entry>
         <entry>MAIL</entry>
         <entry>rules</entry>
+        <entry>ref</entry>
       </history-search>
       <history-cmd>
         <entry>s/delivery/invoice/g</entry>
