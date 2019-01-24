@@ -271,10 +271,11 @@
         <mark key="^" line="30" column="43" />
         <mark key="." line="30" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/routes/api.php" timestamp="1548324524879">
-        <mark key="]" line="41" column="21" />
-        <mark key="." line="41" column="21" />
-        <mark key="^" line="41" column="21" />
+      <file name="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/routes/api.php" timestamp="1548326291185">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="39" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Nova/Actions/ResendCreditClaim.php" timestamp="1548246946098">
         <mark key="[" line="5" column="0" />
@@ -701,7 +702,7 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/components/Tool.vue" timestamp="1548324446869">
+      <file name="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/components/Tool.vue" timestamp="1548326337585">
         <mark key="'" line="6" column="27" />
         <mark key="[" line="44" column="71" />
         <mark key="]" line="44" column="71" />
@@ -1134,8 +1135,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/apotheker/storage/app/documents/1/credit-claims/13/2018/4/3/gjvnjx7KDvowoWMVaMRuake47e233E6gD53kGhMS.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>documents/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2RvY3VtZW50VHlwZScgPT4gJG5hbWVQYXJ0c1swXSwKICAgICAgICAgICAgJ3RpbWVzdGFtcCcgPT4gZXhwbG9kZSgnLicsICRuYW1lUGFydHNbMV0pWzBdLAo=</text>
       </register>
       <register name="-" type="4">
         <text>documents/</text>
@@ -1147,32 +1148,32 @@
         <text encoding="base64">ICAgICRwYXRoID0gc3RvcmFnZV9wYXRoKCdhcHAvJyAuIGdldENvbnRyYWN0VXBsb2FkUGF0aCgkY29udHJhY3QtPmlkKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RvY3VtZW50VHlwZScgPT4gJG5hbWVQYXJ0c1swXSwKICAgICAgICAgICAgJ3RpbWVzdGFtcCcgPT4gZXhwbG9kZSgnLicsICRuYW1lUGFydHNbMV0pWzBdLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vICRwYXRoID0gc3RvcmFnZV9wYXRoKCdhcHAvJyAuIGdldENvbnRyYWN0VXBsb2FkUGF0aCgkY29udHJhY3QtPmlkKSk7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICRwYXRoID0gc3RvcmFnZV9wYXRoKCdhcHAvJyAuIGdldENvbnRyYWN0VXBsb2FkUGF0aCgkY29udHJhY3QtPmlkKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRwYXRoID0gc3RvcmFnZV9wYXRoKCdhcHAvJyAuIGdldENvbnRyYWN0VXBsb2FkUGF0aCgkY29udHJhY3QtPmlkKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICRwYXRoID0gc3RvcmFnZV9wYXRoKCdhcHAvJyAuIGdldENvbnRyYWN0VXBsb2FkUGF0aCgkY29udHJhY3QtPmlkKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAiU21pdC9UZXN0IjogIioiCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>,
         {
             &quot;type&quot;: &quot;path&quot;,
             &quot;url&quot;: &quot;./nova-components/Test&quot;
         }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1201,11 +1202,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJ0eXBlIjogInBhdGgiLAogICAgICAgICAgICAidXJsIjogIi4vbm92YSIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgInR5cGUiOiAicGF0aCIsCiAgICAgICAgICAgICJ1cmwiOiAiLi9ub3ZhLWNvbXBvbmVudHMvRG9jdW1lbnRWaWV3ZXIvc3JjIgogICAgICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgInR5cGUiOiAicGF0aCIsCiAgICAgICAgICAgICJ1cmwiOiAiLi9ub3ZhLWNvbXBvbmVudHMvRG9jdW1lbnRWaWV3ZXIiCiAgICAgICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJ0eXBlIjogInBhdGgiLAogICAgICAgICAgICAidXJsIjogIi4vbm92YSIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgInR5cGUiOiAicGF0aCIsCiAgICAgICAgICAgICJ1cmwiOiAiLi9ub3ZhLWNvbXBvbmVudHMvRG9jdW1lbnRWaWV3ZXIvc3JjIgogICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2N1c3RvbWVyL2NvbnRyYWN0L2c=</text>
