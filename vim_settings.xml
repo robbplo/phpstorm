@@ -449,11 +449,11 @@
         <mark key="^" line="24" column="9" />
         <mark key="." line="24" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Nova/Company.php" timestamp="1548336899933">
+      <file name="$USER_HOME$/Projects/apotheker/app/Nova/Company.php" timestamp="1548338074910">
         <mark key="'" line="83" column="29" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+        <mark key="[" line="83" column="12" />
+        <mark key="]" line="83" column="12" />
+        <mark key="." line="83" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Jobs/ImportArticle.php" timestamp="1547201297590">
         <mark key="[" line="8" column="7" />
@@ -1186,11 +1186,11 @@
       <jump line="41" column="46" filename="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/components/Tool.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkZCggaW1wbG9kZSgnLCcsIENvbXBhbnlQYXltZW50VGVybXM6OmdldFZhbHVlcygpKSk7CiAgICAgICAgLy8gZGQoc3ByaW50ZignaW46JXMnLCBpbXBsb2RlKCcsJywgQ29tcGFueVBheW1lbnRUZXJtczo6Z2V0VmFsdWVzKCkpKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>BelongsTo</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>BelongsTo</text>
       </register>
       <register name="/" type="4">
         <text>customer</text>
