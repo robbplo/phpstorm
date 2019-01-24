@@ -16,11 +16,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="206" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Console/Kernel.php" timestamp="1548164013592">
-        <mark key="[" line="16" column="30" />
-        <mark key="]" line="16" column="29" />
-        <mark key="^" line="16" column="29" />
-        <mark key="." line="16" column="29" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Console/Kernel.php" timestamp="1548321193242">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/config/database.php" timestamp="1544611869694">
         <mark key="[" line="40" column="0" />
@@ -210,6 +210,12 @@
         <mark key="]" line="801" column="0" />
         <mark key="." line="801" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/apotheker/app/Console/Commands/CreditClaimReminders.php" timestamp="1548321290765">
+        <mark key="[" line="41" column="36" />
+        <mark key="]" line="41" column="33" />
+        <mark key="." line="41" column="33" />
+        <mark key="^" line="41" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Jobs/ImportArticles.php" timestamp="1545993868635">
         <mark key="[" line="9" column="1" />
         <mark key="]" line="19" column="7" />
@@ -387,12 +393,12 @@
         <mark key="]" line="79" column="16" />
         <mark key="." line="79" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/domain/CustomerDeclarationSession.php" timestamp="1548318929435">
+      <file name="$USER_HOME$/Projects/apotheker/domain/CustomerDeclarationSession.php" timestamp="1548320550488">
         <mark key="'" line="13" column="21" />
-        <mark key="[" line="33" column="24" />
-        <mark key="]" line="33" column="23" />
-        <mark key="." line="33" column="23" />
-        <mark key="^" line="33" column="23" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="34" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/vetclass/app/Events/RegisterUser.php" timestamp="1546607914733">
         <mark key="[" line="26" column="27" />
@@ -469,12 +475,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/resources/views/layouts/app.blade.php" timestamp="1548316840613">
+      <file name="$USER_HOME$/Projects/apotheker/resources/views/layouts/app.blade.php" timestamp="1548321065224">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="40" column="3" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="39" column="3" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/src/DocumentViewer.php" timestamp="1547546466059">
         <mark key="'" line="0" column="0" />
@@ -785,12 +791,6 @@
         <mark key="]" line="9" column="74" />
         <mark key="^" line="9" column="74" />
         <mark key="." line="9" column="74" />
-      </file>
-      <file name="$USER_HOME$/Projects/apotheker/resources/views/declaration/expired.blade.php" timestamp="1548253326962">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="6" column="46" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/PriceScale/resources/js/Scale.js" timestamp="1544701595547">
         <mark key="[" line="10" column="0" />
@@ -1154,41 +1154,41 @@
       <jump line="13" column="21" filename="$USER_HOME$/Projects/apotheker/domain/CustomerDeclarationSession.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>setSessionExpiration</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>customer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPnNlc3Npb24oJGNvbnRyYWN0KS0+ZXhwaXJlZCgpKSB7CiAgICAgICAgICAgIHJldHVybiB2aWV3KCdkZWNsYXJhdGlvbi5leHBpcmVkJyk7CiAgICAgICAgfQogICAgICAgICR0aGlzLT5zZXNzaW9uKCRjb250cmFjdCktPnN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZXhwaXJlcyA9IG5vdygpLT5hZGRNaW51dGVzKGNvbmZpZygncHJlZmVyZW5jZXMuY3JlZGl0X2NsYWltcy5zZXNzaW9uX2xpZmV0aW1lJykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmdldFNlc3Npb25FeHBpcmVkKCRjcmVkaXRDbGFpbS0+Y29udHJhY3QpKSB7CiAgICAgICAgICAgIHJldHVybiB2aWV3KCdkZWNsYXJhdGlvbi5leHBpcmVkJyk7CiAgICAgICAgfQogICAgICAgICR0aGlzLT5zZXRTZXNzaW9uRXhwaXJhdGlvbigkY3JlZGl0Q2xhaW0tPmNvbnRyYWN0KTsK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2Vzc2lvbigpKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgIDxtYWluIHJvbGU9ImNvbnRlbnQiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIiPgogICAgICAgICAgICBAaWYoY291bnQoJGVycm9ycykpCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1kYW5nZXIiPgogICAgICAgICAgICAgICAgICAgIFRoZXJlIGFyZSBzb21lIGlzc3VlcyB3aXRoIHlvdXIgaW5wdXQsIHBsZWFzZSBjb3JyZWN0IHRoZW0gdG8gY29udGludWUuCiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgIEBlbmRpZgogICAgICAgICAgICA8L2Rpdj4KPj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">CiAgICAvLwogICAgLy8gcHJpdmF0ZSBmdW5jdGlvbiBnZXRTZXNzaW9uRXhwaXJlZCgpCiAgICAvLyB7CiAgICAvLyAgICAgaWYgKHNlc3Npb24oKS0+aGFzKCR0aGlzLT5nZXRTZXNzaW9uS2V5KCkpKSB7CiAgICAvLyAgICAgICAgIGlmIChub3coKSA+IHNlc3Npb24oJHRoaXMtPmdldFNlc3Npb25LZXkoKSkpIHsKICAgIC8vICAgICAgICAgICAgIGV2ZW50KG5ldyBEZWNsYXJhdGlvblNlc3Npb25FeHBpcmVkKCR0aGlzLT5jb250cmFjdC0+Y29tcGFueS0+cHJpbWFyeUN1c3RvbWVyKSk7CiAgICAvLyAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIC8vICAgICAgICAgfQogICAgLy8gICAgIH0KICAgIC8vCiAgICAvLyAgICAgcmV0dXJuIGZhbHNlOwogICAgLy8gfQoK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgLy8gcHJpdmF0ZSBmdW5jdGlvbiBzZXRTZXNzaW9uRXhwaXJhdGlvbigpCiAgICAvLyB7CiAgICAvLyAgICAgJGV4cGlyZXMgPSBub3coKS0+YWRkTWludXRlcyhjb25maWcoJ3ByZWZlcmVuY2VzLmNyZWRpdF9jbGFpbXMuc2Vzc2lvbl9saWZldGltZScpKTsKICAgIC8vICAgICBzZXNzaW9uKCktPnB1dCgkdGhpcy0+Z2V0U2Vzc2lvbktleSgpLCAkZXhwaXJlcyk7CiAgICAvLyB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAkZXhwaXJlcyA9IG5vdygpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1218,10 +1218,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZChzZXNzaW9uKCR0aGlzLT5nZXRFeHBpcmVzQXRLZXkoKSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAkZXhwaXJlcyA9IG5vdygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2N1c3RvbWVyL2NvbnRyYWN0L2c=</text>
