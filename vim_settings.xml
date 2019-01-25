@@ -43,11 +43,11 @@
         <mark key="^" line="10" column="63" />
         <mark key="." line="10" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Notifications/CreditClaimReceived.php" timestamp="1547722503672">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="24" column="5" />
-        <mark key="^" line="10" column="68" />
-        <mark key="." line="10" column="47" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Notifications/CreditClaimReceived.php" timestamp="1548412881610">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="49" column="15" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Providers/AppServiceProvider.php" timestamp="1548160459485">
         <mark key="[" line="23" column="54" />
@@ -233,10 +233,10 @@
         <mark key="." line="18" column="39" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Console/Commands/RemindCreditClaims.php" timestamp="1548410423161">
-        <mark key="[" line="24" column="30" />
-        <mark key="]" line="24" column="30" />
-        <mark key="." line="24" column="30" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Console/Commands/RemindCreditClaims.php" timestamp="1548412062691">
+        <mark key="[" line="50" column="24" />
+        <mark key="]" line="50" column="24" />
+        <mark key="." line="50" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Listeners/CreditClaimReminderThreeListener.php" timestamp="1548409394953">
         <mark key="[" line="28" column="72" />
@@ -353,11 +353,11 @@
         <mark key="^" line="10" column="47" />
         <mark key="." line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Notifications/CreditClaimProcessed.php" timestamp="1547722553971">
-        <mark key="[" line="21" column="43" />
-        <mark key="]" line="21" column="42" />
-        <mark key="^" line="21" column="42" />
-        <mark key="." line="21" column="42" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Notifications/CreditClaimProcessed.php" timestamp="1548413047214">
+        <mark key="[" line="49" column="101" />
+        <mark key="]" line="49" column="97" />
+        <mark key="^" line="49" column="97" />
+        <mark key="." line="49" column="97" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/CreditClaim.php" timestamp="1548406688901">
         <mark key="'" line="19" column="6" />
@@ -468,11 +468,11 @@
         <mark key="^" line="18" column="35" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Notifications/CreditClaimReminderOne.php" timestamp="1548409419322">
-        <mark key="[" line="10" column="49" />
-        <mark key="]" line="10" column="71" />
-        <mark key="^" line="10" column="71" />
-        <mark key="." line="10" column="71" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Notifications/CreditClaimReminderOne.php" timestamp="1548413793740">
+        <mark key="[" line="58" column="93" />
+        <mark key="]" line="58" column="96" />
+        <mark key="^" line="58" column="96" />
+        <mark key="." line="58" column="96" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Jobs/UpdateProductStock.php" timestamp="1547201699250">
         <mark key="[" line="32" column="0" />
@@ -928,40 +928,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Notify</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Notify</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>One</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJGNyZWRpdENsYWltLT5jdXN0b21lcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5saW5lKCdMZXQgb3A6IHUga3VudCB0b3QgbWF4aW1hYWwgMyBtYWFuZGVuIG5hIGFmbG9vcCB2YW4gZGUgYmV0cmVmZmVuZGUgZGVjbGFyYXRpZXBlcmlvZGUgdXcgZGVjbGFyYXRpZSBpbmRpZW5lbjsnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBleGVjdXRlIHRoaXMgZGFpbHksIGFzIGxvbmcgYXMgY3JlZGl0IGNsYWltcyBhcmUgZ2VuZXJhdGVkIG9uY2UgYSBtb250aCB0aGUgZW1haWxzIHdpbGwgYmUgc2VudCBhdCB0aGUgc2FtZSB0aW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga2sK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGllcm5hIHNsdWl0IGhldCBwb3J0YWwgdm9vciBkZXplIHBlcmlvZGUgZW4gaXMgaGV0IG5pZXQgbWVlciBtb2dlbGlqayBvbSB0ZSBkZWNsYXJlcmVuLiAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5saW5lKCdUaGUgaW50cm9kdWN0aW9uIHRvIHRoZSBub3RpZmljYXRpb24uJykKICAgICAgICAgICAgLT5hY3Rpb24oJ05vdGlmaWNhdGlvbiBBY3Rpb24nLCB1cmwoJy8nKSkKICAgICAgICAgICAgLT5saW5lKCdUaGFuayB5b3UgZm9yIHVzaW5nIG91ciBhcHBsaWNhdGlvbiEnKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RhcnQgPSB0aW1lKCk7Cgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJycpCiAgICAgICAgICAgICAgICBkZCgnJyk=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPmxpbmUoJ1RoZSBpbnRyb2R1Y3Rpb24gdG8gdGhlIG5vdGlmaWNhdGlvbi4nKQogICAgICAgICAgICAgICAgICAgIC0+YWN0aW9uKCdOb3RpZmljYXRpb24gQWN0aW9uJywgdXJsKCcvJykpCiAgICAgICAgICAgICAgICAgICAgLT5saW5lKCdUaGFuayB5b3UgZm9yIHVzaW5nIG91ciBhcHBsaWNhdGlvbiEnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPmFjdGlvbignTm90aWZpY2F0aW9uIEFjdGlvbicsIHVybCgnLycpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkZW5kID0gdGltZSgpOwoKICAgICAgICBkZCgkc3RhcnQgLSAkZW5kKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBleGVjdXRlIHRoaXMgZGFpbHksIGFzIGxvbmcgYXMgY3JlZGl0IGNsYWltcyBhcmUgZ2VuZXJhdGVkIG9uY2UgYSBtb250aCB0aGUgZW1haWxzIHdpbGwgYmUgc2VudCBhdCB0aGUgc2FtZSB0aW1lCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -991,7 +991,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAvLyBpbiBldmVudCBsaXN0ZW5lcnM6IHNlbmQgY29ycmVzcG9uZGluZyBub3RpZmljYXRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
