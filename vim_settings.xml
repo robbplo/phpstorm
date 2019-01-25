@@ -185,12 +185,12 @@
         <mark key="^" line="17" column="21" />
         <mark key="." line="17" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/.env" timestamp="1548418969203">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="27" column="15" />
-        <mark key="^" line="27" column="15" />
-        <mark key="." line="27" column="15" />
+      <file name="$USER_HOME$/Projects/apotheker/.env" timestamp="1548429063696">
+        <mark key="'" line="31" column="28" />
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="11" column="9" />
+        <mark key="^" line="11" column="9" />
+        <mark key="." line="11" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/sass/app.scss" timestamp="1546939455726">
         <mark key="[" line="4" column="43" />
@@ -357,7 +357,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="20" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Notifications/CreditClaimsResent.php" timestamp="1548245694706">
+      <file name="$USER_HOME$/Projects/apotheker/app/Notifications/CreditClaimsResent.php" timestamp="1548428506199">
         <mark key="[" line="9" column="45" />
         <mark key="]" line="9" column="67" />
         <mark key="^" line="9" column="67" />
@@ -416,6 +416,7 @@
         <mark key="^" line="18" column="35" />
         <mark key="." line="18" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/apotheker/app/Notifications/ContractAlmostExpired.php" timestamp="1548428563358" />
       <file name="$USER_HOME$/Projects/apotheker/app/Notifications/CreditClaimReminderOne.php" timestamp="1548425242069">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="46" column="14" />
@@ -694,7 +695,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.php" />
       <jump line="14" column="8" filename="$USER_HOME$/Projects/finish-building/domain/Sections/BackFacade.php" />
       <jump line="32" column="8" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/WindowFrames.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/WindowFrames.php" />
@@ -794,13 +794,14 @@
       <jump line="15569" column="0" filename="$USER_HOME$/Projects/apotheker/storage/logs/laravel-2019-01-25.log" />
       <jump line="45" column="0" filename="$USER_HOME$/Projects/apotheker/app/Notifications/CreditClaimReminderOne.php" />
       <jump line="42" column="21" filename="$USER_HOME$/Projects/apotheker/resources/views/vendor/notifications/email.blade.php" />
+      <jump line="31" column="28" filename="$USER_HOME$/Projects/apotheker/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>op (datum eerste reminder)</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>One</text>
