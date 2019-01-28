@@ -30,10 +30,11 @@
       <file name="/a.dummy" timestamp="1548410398943">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Console/Commands/GenerateCreditClaims.php" timestamp="1548667948255">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Console/Commands/GenerateCreditClaims.php" timestamp="1548669417034">
+        <mark key="[" line="53" column="11" />
+        <mark key="]" line="53" column="10" />
+        <mark key="^" line="53" column="10" />
+        <mark key="." line="53" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Notifications/NewCreditNota.php" timestamp="1548160428476">
         <mark key="[" line="10" column="64" />
@@ -306,12 +307,12 @@
         <mark key="^" line="49" column="100" />
         <mark key="." line="49" column="100" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/CreditClaim.php" timestamp="1548406688901">
-        <mark key="'" line="19" column="6" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="18" column="20" />
+      <file name="$USER_HOME$/Projects/apotheker/app/CreditClaim.php" timestamp="1548668654537">
+        <mark key="'" line="26" column="6" />
+        <mark key="[" line="22" column="9" />
+        <mark key="]" line="22" column="9" />
+        <mark key="." line="22" column="9" />
+        <mark key="^" line="21" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/config/session.php" timestamp="1548258780807">
         <mark key="[" line="33" column="56" />
@@ -775,40 +776,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZGQoJGNyZWRpdENsYWltcyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'1 month'</text>
+        <text>reminded</text>
       </register>
       <register name="/" type="4">
         <text>One</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRlbmQgICAgICA9IChuZXcgRGF0ZVRpbWUoJGNvbnRyYWN0LT5wZXJpb2RfdGhydS0+Zm9ybWF0KCdZLW0tZCcpKSktPm1vZGlmeSgnZmlyc3QgZGF5IG9mIHRoaXMgbW9udGgnKTsK</text>
+        <text encoding="base64">ICAgICAgICAncmVtaW5kZWRfYXQnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZGQoJGNyZWRpdENsYWltcyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZGQoJGNyZWRpdENsYWltcyk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNyZWRpdENsYWltcyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKCRmcmVxdWVuY2llcyBhcyAkeWVhciA9PiAkbW9udGhzKSB7CiAgICAgICAgICAgICAgICAgICAgZm9yZWFjaCAoJG1vbnRocyBhcyAkbW9udGgpIHs=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKCRmcmVxdWVuY2llcyBhcyAkeWVhciA9PiAkbW9udGhzKSB7CiAgICAgICAgICAgICAgICAgICAgZm9yZWFjaCAoJG1vbnRocyBhcyAkbW9udGgpIHs=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJCkgCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKCRmcmVxdWVuY2llcyBhcyAkeWVhciA9PiAkbW9udGhzKSB7CiAgICAgICAgICAgICAgICAgICAgZm9yZWFjaCAoJG1vbnRocyBhcyAkbW9udGgpIHs=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -837,11 +838,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY29udHJhY3RzKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKCRmcmVxdWVuY2llcyBhcyAkeWVhciA9PiAkbW9udGhzKSB7CiAgICAgICAgICAgICAgICAgICAgZm9yZWFjaCAoJG1vbnRocyBhcyAkbW9udGgpIHs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09uZS9UaHJlZQ==</text>
