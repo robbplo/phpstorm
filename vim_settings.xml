@@ -28,10 +28,12 @@
       <file name="/a.dummy" timestamp="1548410398943">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Console/Commands/GenerateCreditClaims.php" timestamp="1548687890917">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Console/Commands/GenerateCreditClaims.php" timestamp="1548689199684">
+        <mark key="'" line="53" column="26" />
+        <mark key="[" line="54" column="93" />
+        <mark key="]" line="54" column="91" />
+        <mark key="." line="54" column="91" />
+        <mark key="^" line="54" column="91" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Notifications/NewCreditNota.php" timestamp="1548160428476">
         <mark key="[" line="10" column="64" />
@@ -505,9 +507,9 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/database/seeds/CompaniesTableSeeder.php" timestamp="1548680528576">
-        <mark key="[" line="59" column="42" />
-        <mark key="]" line="40" column="91" />
+      <file name="$USER_HOME$/Projects/apotheker/database/seeds/CompaniesTableSeeder.php" timestamp="1548688588827">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="43" column="68" />
         <mark key="." line="40" column="91" />
         <mark key="^" line="40" column="91" />
       </file>
@@ -678,8 +680,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/WindowFrames.php" />
-      <jump line="126" column="37" filename="$USER_HOME$/Projects/bols/config/app.php" />
       <jump line="83" column="97" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
       <jump line="255" column="0" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/apotheker/.env" />
@@ -778,43 +778,45 @@
       <jump line="31" column="28" filename="$USER_HOME$/Projects/apotheker/.env" />
       <jump line="54" column="41" filename="$USER_HOME$/Projects/apotheker/app/Console/Commands/GenerateCreditClaims.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/apotheker/database/migrations/2018_11_12_151808_create_credit_claims_table.php" />
+      <jump line="72" column="53" filename="$USER_HOME$/Projects/apotheker/app/Console/Commands/GenerateCreditClaims.php" />
+      <jump line="53" column="26" filename="$USER_HOME$/Projects/apotheker/app/Console/Commands/GenerateCreditClaims.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICdjb250cmFjdF9pZCcsCiAgICAgICAgICAgICd5ZWFyJywKICAgICAgICAgICAgJ2ZyZXF1ZW5jeV9pZCcsCiAgICAgICAgICAgICdmcmVxdWVuY3lfdmFsdWUnLAo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>create</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>uni</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdjb250cmFjdF9pZCcsCiAgICAgICAgICAgICAgICAneWVhcicsCiAgICAgICAgICAgICAgICAnZnJlcXVlbmN5X2lkJywKICAgICAgICAgICAgICAgICdmcmVxdWVuY3lfdmFsdWUnLAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGludGVydmFscyA9IFsKICAgICAgICBDb250cmFjdENsYWltRnJlcXVlbmN5OjpQRVJfTU9OVEggPT4gMSwKICAgICAgICBDb250cmFjdENsYWltRnJlcXVlbmN5OjpQRVJfUVVBUlRFUiA9PiA0LAogICAgXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICdjb250cmFjdF9pZCcsCiAgICAgICAgICAgICd5ZWFyJywKICAgICAgICAgICAgJ2ZyZXF1ZW5jeV9pZCcsCiAgICAgICAgICAgICdmcmVxdWVuY3lfdmFsdWUnLAo=</text>
+        <text encoding="base64">dXNlIERhdGVJbnRlcnZhbDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ZyZXF1ZW5jeV9pZCcgPT4gJGNvbnRyYWN0LT5mcmVxdWVuY3lfaWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGRhdGVzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ZyZXF1ZW5jeV92YWx1ZScgPT4gJGZyZXF1ZW5jeVZhbHVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRhdGVzID0gbmV3IERhdGVJbnRlcnZhbCgkY29udHJhY3QtPmRhdGVfZnJvbSwgJGNvbnRyYWN0LT5kYXRlX3RocnUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ZyZXF1ZW5jeV9pZCcgPT4gJGNvbnRyYWN0LT5mcmVxdWVuY3lfaWQsCiAgICAgICAgICAgICdmcmVxdWVuY3lfdmFsdWUnID0+ICRmcmVxdWVuY3lWYWx1ZSwK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3llYXInID0+IG5vdygpLT55ZWFyLAo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICdjb250cmFjdF9pZCcsCiAgICAgICAgICAgICd5ZWFyJywKICAgICAgICAgICAgJ2ZyZXF1ZW5jeV9pZCcsCiAgICAgICAgICAgICdmcmVxdWVuY3lfdmFsdWUnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NvbnRyYWN0X2lkJyA9PiAkY29udHJhY3QtPmlkLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2ZyZXF1ZW5jeV9pZCcgPT4gJGNvbnRyYWN0LT5mcmVxdWVuY3lfaWQsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -844,10 +846,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZXhhbXBsZUNsYWltID0gJGNvbnRyYWN0LT5jcmVkaXRDbGFpbXMtPnNvcnRCeURlc2MoJ2F2YWlsYWJsZV9hdCcpLT5maXJzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2ZyZXF1ZW5jeV92YWx1ZScgPT4gJGZyZXF1ZW5jeVZhbHVlLAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09uZS9UaHJlZQ==</text>
