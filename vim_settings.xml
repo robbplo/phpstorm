@@ -30,11 +30,11 @@
       <file name="/a.dummy" timestamp="1548410398943">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Console/Commands/GenerateCreditClaims.php" timestamp="1548669417034">
-        <mark key="[" line="53" column="11" />
-        <mark key="]" line="53" column="10" />
-        <mark key="^" line="53" column="10" />
-        <mark key="." line="53" column="10" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Console/Commands/GenerateCreditClaims.php" timestamp="1548670659604">
+        <mark key="[" line="57" column="28" />
+        <mark key="]" line="59" column="15" />
+        <mark key="." line="59" column="15" />
+        <mark key="^" line="59" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Notifications/NewCreditNota.php" timestamp="1548160428476">
         <mark key="[" line="10" column="64" />
@@ -508,7 +508,7 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/database/seeds/CompaniesTableSeeder.php" timestamp="1548667448710">
+      <file name="$USER_HOME$/Projects/apotheker/database/seeds/CompaniesTableSeeder.php" timestamp="1548671164531">
         <mark key="[" line="41" column="63" />
         <mark key="]" line="41" column="72" />
         <mark key="." line="41" column="72" />
@@ -776,7 +776,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZGQoJGNyZWRpdENsYWltcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>reminded</text>
@@ -788,7 +788,7 @@
         <text encoding="base64">ICAgICAgICAncmVtaW5kZWRfYXQnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZGQoJGNyZWRpdENsYWltcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -797,19 +797,19 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8gZGQoJGNyZWRpdENsYWltcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNyZWRpdENsYWltcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZGQoJGNyZWRpdENsYWltcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNyZWRpdENsYWltcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKCRmcmVxdWVuY2llcyBhcyAkeWVhciA9PiAkbW9udGhzKSB7CiAgICAgICAgICAgICAgICAgICAgZm9yZWFjaCAoJG1vbnRocyBhcyAkbW9udGgpIHs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -841,8 +841,8 @@
       <register name="8" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKCRmcmVxdWVuY2llcyBhcyAkeWVhciA9PiAkbW9udGhzKSB7CiAgICAgICAgICAgICAgICAgICAgZm9yZWFjaCAoJG1vbnRocyBhcyAkbW9udGgpIHs=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKCRmcmVxdWVuY2llcyBhcyAkeWVhciA9PiAkbW9udGhzKSB7CiAgICAgICAgICAgICAgICAgICAgZm9yZWFjaCAoJG1vbnRocyBhcyAkbW9udGgpIHs=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09uZS9UaHJlZQ==</text>
