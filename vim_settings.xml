@@ -9,11 +9,9 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Console/Kernel.php" timestamp="1548410368621">
-        <mark key="[" line="28" column="28" />
-        <mark key="]" line="28" column="37" />
-        <mark key="^" line="28" column="37" />
-        <mark key="." line="28" column="37" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Console/Kernel.php" timestamp="1548679115917">
+        <mark key="[" line="28" column="52" />
+        <mark key="^" line="28" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/bols/resources/views/letters/en/welcome.blade.php" timestamp="1547125940384">
         <mark key="[" line="60" column="34" />
@@ -30,11 +28,11 @@
       <file name="/a.dummy" timestamp="1548410398943">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Console/Commands/GenerateCreditClaims.php" timestamp="1548670659604">
-        <mark key="[" line="57" column="28" />
-        <mark key="]" line="59" column="15" />
-        <mark key="." line="59" column="15" />
-        <mark key="^" line="59" column="15" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Console/Commands/GenerateCreditClaims.php" timestamp="1548684987931">
+        <mark key="[" line="71" column="79" />
+        <mark key="]" line="71" column="79" />
+        <mark key="." line="71" column="79" />
+        <mark key="^" line="71" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Notifications/NewCreditNota.php" timestamp="1548160428476">
         <mark key="[" line="10" column="64" />
@@ -508,11 +506,11 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/database/seeds/CompaniesTableSeeder.php" timestamp="1548671164531">
-        <mark key="[" line="41" column="63" />
-        <mark key="]" line="41" column="72" />
-        <mark key="." line="41" column="72" />
-        <mark key="^" line="41" column="72" />
+      <file name="$USER_HOME$/Projects/apotheker/database/seeds/CompaniesTableSeeder.php" timestamp="1548680528576">
+        <mark key="[" line="59" column="42" />
+        <mark key="]" line="40" column="91" />
+        <mark key="." line="40" column="91" />
+        <mark key="^" line="40" column="91" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Jobs/UpdateArticleStock.php" timestamp="1547201627539">
         <mark key="[" line="7" column="8" />
@@ -611,6 +609,9 @@
         <mark key="." line="98" column="15" />
         <mark key="^" line="98" column="15" />
       </file>
+      <file name="/Dummy.txt" timestamp="1548681733298">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Providers/EventServiceProvider.php" timestamp="1546432688790">
         <mark key="[" line="23" column="12" />
         <mark key="]" line="23" column="47" />
@@ -673,7 +674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="8" filename="$USER_HOME$/Projects/finish-building/domain/Sections/BackFacade.php" />
       <jump line="32" column="8" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/WindowFrames.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/WindowFrames.php" />
       <jump line="126" column="37" filename="$USER_HOME$/Projects/bols/config/app.php" />
@@ -773,43 +773,44 @@
       <jump line="45" column="0" filename="$USER_HOME$/Projects/apotheker/app/Notifications/CreditClaimReminderOne.php" />
       <jump line="42" column="21" filename="$USER_HOME$/Projects/apotheker/resources/views/vendor/notifications/email.blade.php" />
       <jump line="31" column="28" filename="$USER_HOME$/Projects/apotheker/.env" />
+      <jump line="54" column="41" filename="$USER_HOME$/Projects/apotheker/app/Console/Commands/GenerateCreditClaims.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>reminded</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>One</text>
+        <text>mo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAncmVtaW5kZWRfYXQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2F2YWlsYWJsZV9hdCcgPT4gbm93KCktPmZvcm1hdCgnWS1tLWQnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZGQoJGNyZWRpdENsYWltcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZGQoJGNyZWRpdENsYWltcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNyZWRpdENsYWltcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICBpZiAoJGNvbnRyYWN0LT5mcmVxdWVuY3lfaWQgPT0gQ29udHJhY3RDbGFpbUZyZXF1ZW5jeTo6UEVSX01PTlRIKSB7CiAgICAgICAgICAgICAgICAkdGhpcy0+Y3JlYXRlQ3JlZGl0Q2xhaW0oJGNvbnRyYWN0KTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -838,28 +839,27 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKCRmcmVxdWVuY2llcyBhcyAkeWVhciA9PiAkbW9udGhzKSB7CiAgICAgICAgICAgICAgICAgICAgZm9yZWFjaCAoJG1vbnRocyBhcyAkbW9udGgpIHs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3dpdGNoKCRjb250cmFjdC0+ZnJlcXVlbmN5X2lkKSB7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKCRmcmVxdWVuY2llcyBhcyAkeWVhciA9PiAkbW9udGhzKSB7CiAgICAgICAgICAgICAgICAgICAgZm9yZWFjaCAoJG1vbnRocyBhcyAkbW9udGgpIHs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgQ29udHJhY3RDbGFpbUZyZXF1ZW5jeTo6UEVSX1FVQVJURVI6CiAgICAgICAgICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09uZS9UaHJlZQ==</text>
       </register>
     </registers>
     <search>
-      <last-search>One</last-search>
+      <last-search>mo</last-search>
       <last-offset />
-      <last-pattern>One</last-pattern>
+      <last-pattern>mo</last-pattern>
       <last-replace>Three</last-replace>
       <last-substitute>One</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>users</entry>
         <entry>_re,</entry>
         <entry>_rem</entry>
         <entry>getA</entry>
@@ -879,6 +879,7 @@
         <entry>customer</entry>
         <entry>sometimes</entry>
         <entry>One</entry>
+        <entry>mo</entry>
       </history-search>
       <history-cmd>
         <entry>s/type/ordered_at/g</entry>
