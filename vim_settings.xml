@@ -28,12 +28,11 @@
       <file name="/a.dummy" timestamp="1548410398943">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Console/Commands/GenerateCreditClaims.php" timestamp="1548689199684">
-        <mark key="'" line="53" column="26" />
-        <mark key="[" line="54" column="93" />
-        <mark key="]" line="54" column="91" />
-        <mark key="." line="54" column="91" />
-        <mark key="^" line="54" column="91" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Console/Commands/GenerateCreditClaims.php" timestamp="1548691437337">
+        <mark key="[" line="54" column="52" />
+        <mark key="]" line="55" column="41" />
+        <mark key="." line="55" column="41" />
+        <mark key="^" line="55" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Notifications/NewCreditNota.php" timestamp="1548160428476">
         <mark key="[" line="10" column="64" />
@@ -161,6 +160,7 @@
         <mark key="." line="18" column="37" />
         <mark key="^" line="23" column="55" />
       </file>
+      <file name="$USER_HOME$/Projects/apotheker/vendor/nesbot/carbon/src/Carbon/CarbonPeriod.php" timestamp="1548690334934" />
       <file name="$USER_HOME$/Projects/apotheker/package.json" timestamp="1548323379190">
         <mark key="[" line="9" column="177" />
         <mark key="]" line="9" column="175" />
@@ -783,40 +783,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>uni</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGludGVydmFscyA9IFsKICAgICAgICBDb250cmFjdENsYWltRnJlcXVlbmN5OjpQRVJfTU9OVEggPT4gMSwKICAgICAgICBDb250cmFjdENsYWltRnJlcXVlbmN5OjpQRVJfUVVBUlRFUiA9PiA0LAogICAgXTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">LT5mb3JtYXQoJ1ktbS1EJyk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIERhdGVJbnRlcnZhbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGRoZGhkaGRoZGhkaGQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGRhdGVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gJHBlcmlvZCA9IG5ldyBcRGF0ZVBlcmlvZCgkY29udHJhY3QtPmRhdGVfZnJvbSwgJGludGVydmFsLCAkY29udHJhY3QtPmRhdGVfdGhydSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gJHBlcmlvZCA9IG5ldyBDYXJib25QZXJpb2QoJGNvbnRyYWN0LT5kYXRlX2Zyb20sICczIG1vbnRocycsICRjb250cmFjdC0+ZGF0ZV90aHJ1KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRhdGVzID0gbmV3IERhdGVJbnRlcnZhbCgkY29udHJhY3QtPmRhdGVfZnJvbSwgJGNvbnRyYWN0LT5kYXRlX3RocnUpOwo=</text>
+        <text encoding="base64">dXNlIERhdGVJbnRlcnZhbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGRhdGVzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICdjb250cmFjdF9pZCcsCiAgICAgICAgICAgICd5ZWFyJywKICAgICAgICAgICAgJ2ZyZXF1ZW5jeV9pZCcsCiAgICAgICAgICAgICdmcmVxdWVuY3lfdmFsdWUnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ZyZXF1ZW5jeV9pZCcgPT4gJGNvbnRyYWN0LT5mcmVxdWVuY3lfaWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRhdGVzID0gbmV3IERhdGVJbnRlcnZhbCgkY29udHJhY3QtPmRhdGVfZnJvbSwgJGNvbnRyYWN0LT5kYXRlX3RocnUpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -846,10 +846,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ZyZXF1ZW5jeV92YWx1ZScgPT4gJGZyZXF1ZW5jeVZhbHVlLAo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICdjb250cmFjdF9pZCcsCiAgICAgICAgICAgICd5ZWFyJywKICAgICAgICAgICAgJ2ZyZXF1ZW5jeV9pZCcsCiAgICAgICAgICAgICdmcmVxdWVuY3lfdmFsdWUnLAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09uZS9UaHJlZQ==</text>
