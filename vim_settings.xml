@@ -28,11 +28,10 @@
       <file name="/a.dummy" timestamp="1548410398943">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Console/Commands/GenerateCreditClaims.php" timestamp="1548686384251">
-        <mark key="[" line="71" column="79" />
-        <mark key="]" line="71" column="79" />
-        <mark key="." line="87" column="33" />
-        <mark key="^" line="71" column="79" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Console/Commands/GenerateCreditClaims.php" timestamp="1548687890917">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Notifications/NewCreditNota.php" timestamp="1548160428476">
         <mark key="[" line="10" column="64" />
@@ -648,6 +647,11 @@
         <mark key="." line="42" column="30" />
         <mark key="^" line="42" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/apotheker/database/migrations/2018_11_12_151808_create_credit_claims_table.php" timestamp="1548687880873">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="62" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/apotheker/resources/views/pdfs/agreement.blade.php" timestamp="1547543463706">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="43" column="0" />
@@ -674,7 +678,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="8" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/WindowFrames.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/WindowFrames.php" />
       <jump line="126" column="37" filename="$USER_HOME$/Projects/bols/config/app.php" />
       <jump line="83" column="97" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
@@ -774,43 +777,44 @@
       <jump line="42" column="21" filename="$USER_HOME$/Projects/apotheker/resources/views/vendor/notifications/email.blade.php" />
       <jump line="31" column="28" filename="$USER_HOME$/Projects/apotheker/.env" />
       <jump line="54" column="41" filename="$USER_HOME$/Projects/apotheker/app/Console/Commands/GenerateCreditClaims.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/apotheker/database/migrations/2018_11_12_151808_create_credit_claims_table.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICdjb250cmFjdF9pZCcsCiAgICAgICAgICAgICd5ZWFyJywKICAgICAgICAgICAgJ2ZyZXF1ZW5jeV9pZCcsCiAgICAgICAgICAgICdmcmVxdWVuY3lfdmFsdWUnLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>create</text>
       </register>
       <register name="/" type="4">
-        <text>mo</text>
+        <text>uni</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2F2YWlsYWJsZV9hdCcgPT4gbm93KCktPmZvcm1hdCgnWS1tLWQnKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjb250cmFjdF9pZCcsCiAgICAgICAgICAgICAgICAneWVhcicsCiAgICAgICAgICAgICAgICAnZnJlcXVlbmN5X2lkJywKICAgICAgICAgICAgICAgICdmcmVxdWVuY3lfdmFsdWUnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICdjb250cmFjdF9pZCcsCiAgICAgICAgICAgICd5ZWFyJywKICAgICAgICAgICAgJ2ZyZXF1ZW5jeV9pZCcsCiAgICAgICAgICAgICdmcmVxdWVuY3lfdmFsdWUnLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2ZyZXF1ZW5jeV9pZCcgPT4gJGNvbnRyYWN0LT5mcmVxdWVuY3lfaWQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2ZyZXF1ZW5jeV92YWx1ZScgPT4gJGZyZXF1ZW5jeVZhbHVlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2ZyZXF1ZW5jeV9pZCcgPT4gJGNvbnRyYWN0LT5mcmVxdWVuY3lfaWQsCiAgICAgICAgICAgICdmcmVxdWVuY3lfdmFsdWUnID0+ICRmcmVxdWVuY3lWYWx1ZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICBpZiAoJGNvbnRyYWN0LT5mcmVxdWVuY3lfaWQgPT0gQ29udHJhY3RDbGFpbUZyZXF1ZW5jeTo6UEVSX01PTlRIKSB7CiAgICAgICAgICAgICAgICAkdGhpcy0+Y3JlYXRlQ3JlZGl0Q2xhaW0oJGNvbnRyYWN0KTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3llYXInID0+IG5vdygpLT55ZWFyLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NvbnRyYWN0X2lkJyA9PiAkY29udHJhY3QtPmlkLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -840,19 +844,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3dpdGNoKCRjb250cmFjdC0+ZnJlcXVlbmN5X2lkKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgQ29udHJhY3RDbGFpbUZyZXF1ZW5jeTo6UEVSX1FVQVJURVI6CiAgICAgICAgICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICAkZXhhbXBsZUNsYWltID0gJGNvbnRyYWN0LT5jcmVkaXRDbGFpbXMtPnNvcnRCeURlc2MoJ2F2YWlsYWJsZV9hdCcpLT5maXJzdCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09uZS9UaHJlZQ==</text>
       </register>
     </registers>
     <search>
-      <last-search>mo</last-search>
+      <last-search>uni</last-search>
       <last-offset />
-      <last-pattern>mo</last-pattern>
+      <last-pattern>uni</last-pattern>
       <last-replace>Three</last-replace>
       <last-substitute>One</last-substitute>
       <last-dir>1</last-dir>
@@ -860,7 +864,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_re,</entry>
         <entry>_rem</entry>
         <entry>getA</entry>
         <entry>model</entry>
@@ -880,6 +883,7 @@
         <entry>sometimes</entry>
         <entry>One</entry>
         <entry>mo</entry>
+        <entry>uni</entry>
       </history-search>
       <history-cmd>
         <entry>s/type/ordered_at/g</entry>
