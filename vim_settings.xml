@@ -541,11 +541,11 @@
         <mark key="^" line="27" column="49" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Jobs/GenerateCreditClaimsForContract.php" timestamp="1548757493558">
-        <mark key="[" line="63" column="46" />
-        <mark key="]" line="63" column="21" />
-        <mark key="^" line="63" column="21" />
-        <mark key="." line="63" column="21" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Jobs/GenerateCreditClaimsForContract.php" timestamp="1548761418547">
+        <mark key="[" line="55" column="19" />
+        <mark key="]" line="55" column="17" />
+        <mark key="." line="55" column="17" />
+        <mark key="^" line="55" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Nova/Company.php" timestamp="1548342630901">
         <mark key="'" line="174" column="32" />
@@ -780,7 +780,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIGV2ZW50Owo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmICgkY3JlZGl0Q2xhaW0gPT09IGZhbHNlKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>$creditClaim =</text>
@@ -792,28 +792,28 @@
         <text encoding="base64">ICAgICAgICBpZiAoIWlzX2ludCgkZnJlcXVlbmN5VmFsdWUpIHx8IGVtcHR5KCRjdXN0b21lcikpIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIGV2ZW50Owo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmICgkY3JlZGl0Q2xhaW0gPT09IGZhbHNlKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuICRjcmVkaXRDbGFpbTsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIGV2ZW50Owo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuICRjcmVkaXRDbGFpbTsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAvLyBAdG9kbyBldmVudCBkaXNwYXRjaGVuCgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkbm90aWZ5KTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -843,10 +843,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09uZS9UaHJlZQ==</text>
