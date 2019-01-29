@@ -143,18 +143,6 @@
         <mark key="." line="21" column="58" />
         <mark key="^" line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/routes/web.php" timestamp="1548423526024">
-        <mark key="'" line="87" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Nova/Actions/GenerateContract.php" timestamp="1547642429858">
-        <mark key="'" line="66" column="51" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="53" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/materialen/database/migrations/2018_12_28_094506_create_articles_table.php" timestamp="1547044967578">
         <mark key="[" line="18" column="37" />
         <mark key="]" line="18" column="37" />
@@ -167,6 +155,12 @@
         <mark key="]" line="9" column="175" />
         <mark key="." line="9" column="175" />
         <mark key="^" line="9" column="175" />
+      </file>
+      <file name="$USER_HOME$/Projects/apotheker/app/Listeners/NotifyCustomerOfGeneratedCreditClaims.php" timestamp="1548763045872">
+        <mark key="[" line="28" column="28" />
+        <mark key="]" line="28" column="26" />
+        <mark key="^" line="28" column="26" />
+        <mark key="." line="28" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/resources/views/vendor/notifications/email.blade.php" timestamp="1548424110215">
         <mark key="'" line="36" column="21" />
@@ -273,12 +267,6 @@
         <mark key="^" line="51" column="12" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.php" timestamp="1548057170689">
-        <mark key="'" line="174" column="0" />
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="0" />
-        <mark key="." line="174" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Nova/Product.php" timestamp="1548074271213">
         <mark key="[" line="35" column="18" />
         <mark key="]" line="35" column="16" />
@@ -340,12 +328,6 @@
         <mark key="." line="46" column="20" />
         <mark key="^" line="46" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen-pwa/components/ecommerce/navigation/pagination/index.vue" timestamp="1547459162581">
-        <mark key="'" line="29" column="14" />
-        <mark key="[" line="44" column="74" />
-        <mark key="]" line="44" column="75" />
-        <mark key="." line="44" column="75" />
-      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Http/Resources/Category.php" timestamp="1547197753251">
         <mark key="[" line="20" column="28" />
         <mark key="]" line="20" column="35" />
@@ -357,12 +339,6 @@
         <mark key="]" line="25" column="44" />
         <mark key="." line="25" column="44" />
         <mark key="^" line="25" column="44" />
-      </file>
-      <file name="$USER_HOME$/Projects/apotheker/resources/views/declaration/edit.blade.php" timestamp="1548259107802">
-        <mark key="'" line="20" column="21" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen-pwa/nuxt.config.js" timestamp="1547209662749">
         <mark key="[" line="57" column="22" />
@@ -408,11 +384,8 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Nova/Contract.php" timestamp="1548336323808">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Notifications/CreditClaimsGenerated.php" timestamp="1548763405032">
+        <mark key="[" line="9" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/composer.json" timestamp="1545315688692">
         <mark key="[" line="36" column="13" />
@@ -498,11 +471,17 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/database/seeds/CompaniesTableSeeder.php" timestamp="1548755879217">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="39" column="72" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Events/CreditClaimsGenerated.php" timestamp="1548763399445">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="26" />
+        <mark key="^" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/apotheker/database/seeds/CompaniesTableSeeder.php" timestamp="1548762679020">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="37" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Jobs/UpdateArticleStock.php" timestamp="1547201627539">
         <mark key="[" line="7" column="8" />
@@ -534,24 +513,19 @@
         <mark key="." line="6" column="46" />
         <mark key="^" line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Providers/EventServiceProvider.php" timestamp="1548408948445">
-        <mark key="'" line="34" column="9" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="34" column="10" />
-        <mark key="^" line="27" column="49" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Providers/EventServiceProvider.php" timestamp="1548762278543">
+        <mark key="'" line="39" column="9" />
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="39" column="10" />
+        <mark key="^" line="32" column="49" />
+        <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Jobs/GenerateCreditClaimsForContract.php" timestamp="1548761418547">
-        <mark key="[" line="55" column="19" />
-        <mark key="]" line="55" column="17" />
-        <mark key="." line="55" column="17" />
-        <mark key="^" line="55" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Nova/Company.php" timestamp="1548342630901">
-        <mark key="'" line="174" column="32" />
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="0" />
-        <mark key="." line="180" column="0" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Jobs/GenerateCreditClaimsForContract.php" timestamp="1548762411469">
+        <mark key="'" line="49" column="12" />
+        <mark key="[" line="57" column="44" />
+        <mark key="]" line="57" column="58" />
+        <mark key="." line="57" column="58" />
+        <mark key="^" line="57" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud/ArticleAdapter.php" timestamp="1545316621950">
         <mark key="[" line="4" column="20" />
@@ -616,12 +590,6 @@
         <mark key="." line="23" column="47" />
         <mark key="^" line="23" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/storage/logs/laravel-2019-01-15.log" timestamp="1547542856628">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/apotheker/database/migrations/2019_01_17_102657_add_amount_type_column_to_credit_claim_product_table.php" timestamp="1547721202201">
         <mark key="[" line="16" column="55" />
         <mark key="]" line="16" column="68" />
@@ -651,12 +619,6 @@
         <mark key="[" line="59" column="0" />
         <mark key="]" line="62" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/resources/views/pdfs/agreement.blade.php" timestamp="1547543463706">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Console/Commands/ImportContracts.php" timestamp="1548164250951">
         <mark key="[" line="41" column="61" />
         <mark key="]" line="41" column="7" />
@@ -677,7 +639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="9" filename="$USER_HOME$/Projects/apotheker/app/Imports/ContractsImport.php" />
       <jump line="11" column="29" filename="$USER_HOME$/Projects/apotheker/app/Imports/ContractsImport.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/apotheker/app/Imports/ContractsImport.php" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/apotheker/app/Imports/ContractsImport.php" />
@@ -777,43 +738,44 @@
       <jump line="55" column="57" filename="$USER_HOME$/Projects/apotheker/app/Console/Commands/GenerateCreditClaims.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/apotheker/app/Console/Commands/GenerateCreditClaims.php" />
       <jump line="42" column="33" filename="$USER_HOME$/Projects/apotheker/app/Jobs/GenerateCreditClaimsForContract.php" />
+      <jump line="49" column="12" filename="$USER_HOME$/Projects/apotheker/app/Jobs/GenerateCreditClaimsForContract.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmICgkY3JlZGl0Q2xhaW0gPT09IGZhbHNlKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">dXNlIEFwcFxFbnVtc1xDb250cmFjdENsYWltRnJlcXVlbmN5Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>$creditClaim =</text>
+        <text encoding="base64">JGV2ZW50LT5jb250cmFjdA==</text>
       </register>
       <register name="/" type="4">
-        <text>uni</text>
+        <text>cre</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoIWlzX2ludCgkZnJlcXVlbmN5VmFsdWUpIHx8IGVtcHR5KCRjdXN0b21lcikpIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmICgkY3JlZGl0Q2xhaW0gPT09IGZhbHNlKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">dXNlIEFwcFxFbnVtc1xDb250cmFjdENsYWltRnJlcXVlbmN5Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIGV2ZW50Owo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcTW9kZWw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuICRjcmVkaXRDbGFpbTsK</text>
+        <text encoding="base64">ICAgICAgICAkY3JlZGl0Q2xhaW1zID0gCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAdG9kbyBldmVudCBkaXNwYXRjaGVuCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQHRvZG8gZXZlbnQgZGlzcGF0Y2hlbgoK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkbm90aWZ5KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbm90aWZ5KTsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmICgkY3JlZGl0Q2xhaW0gPT09IGZhbHNlKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIGV2ZW50Owo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -843,19 +805,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuICRjcmVkaXRDbGFpbTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBAdG9kbyBldmVudCBkaXNwYXRjaGVuCgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09uZS9UaHJlZQ==</text>
       </register>
     </registers>
     <search>
-      <last-search>uni</last-search>
+      <last-search>cre</last-search>
       <last-offset />
-      <last-pattern>uni</last-pattern>
+      <last-pattern>cre</last-pattern>
       <last-replace>Three</last-replace>
       <last-substitute>One</last-substitute>
       <last-dir>1</last-dir>
@@ -870,7 +832,6 @@
         <entry>MAIL</entry>
         <entry>rules</entry>
         <entry>ref</entry>
-        <entry>cre</entry>
         <entry>for</entry>
         <entry>id</entry>
         <entry>url</entry>
@@ -883,6 +844,7 @@
         <entry>One</entry>
         <entry>mo</entry>
         <entry>uni</entry>
+        <entry>cre</entry>
       </history-search>
       <history-cmd>
         <entry>s/type/ordered_at/g</entry>
