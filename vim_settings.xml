@@ -124,10 +124,11 @@
         <mark key="." line="18" column="28" />
         <mark key="^" line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Company.php" timestamp="1548316874953">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="55" column="5" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Company.php" timestamp="1549008184801">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="16" column="17" />
+        <mark key="^" line="16" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Providers/NovaServiceProvider.php" timestamp="1547479554531">
         <mark key="[" line="20" column="0" />
@@ -294,11 +295,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Customer.php" timestamp="1548764191729">
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="12" column="20" />
-        <mark key="^" line="12" column="33" />
-        <mark key="." line="12" column="20" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Customer.php" timestamp="1549008381617">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/database/migrations/2017_02_22_083132_create_schedules_table.php" timestamp="1548774770323">
         <mark key="[" line="22" column="0" />
@@ -899,8 +899,8 @@
       <jump line="171" column="30" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Planning/Jetty/Schedule.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdjb21wYW55X29wdGluJywgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgCiAgICAgICAgfSk7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIEFwcFxDb21wYW55Owo=</text>
       </register>
       <register name="-" type="4">
         <text>foreign_key_constraints</text>
@@ -911,29 +911,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8dGQgY2xhc3M9InNoaXBuYW1lIj57eyBzY2hlZHVsZS5yZXBvcnQuYm9hdC5uYW1lIH19PC90ZD4K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdjb21wYW55X29wdGluJywgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgCiAgICAgICAgfSk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIEFwcFxDb21wYW55Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2JlcnRoJyAgICAgICA9PiBDYXJib246Om5vdygpCiAgICAgICAgICAgICAgICAtPnRvRGF0ZVRpbWVTdHJpbmcoKSwK</text>
+        <text encoding="base64">dXNlIEFwcFxDb21wYW55Owo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kYXRlVGltZSgnYmVydGgnKTsKICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdiZXJ0aF9kZWxheScpLT5kZWZhdWx0KDApOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdjb21wYW55X29wdGluJywgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgCiAgICAgICAgfSk7</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICdiZXJ0aF9kZWxheScgPT4gcmFuZCgwLDYpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2JlcnRoX2RlbGF5JyA9PiAncmVxdWlyZWR8aW50ZWdlcicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2JlcnRoJyAgICAgICA9PiBDYXJib246Om5vdygpCiAgICAgICAgICAgICAgICAtPnRvRGF0ZVRpbWVTdHJpbmcoKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2JlcnRoJyA9PiAnZGF0ZScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kYXRlVGltZSgnYmVydGgnKTsKICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdiZXJ0aF9kZWxheScpLT5kZWZhdWx0KDApOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -963,10 +963,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2JlcnRoJyA9PiAncmVxdWlyZWR8ZGF0ZScsCg==</text>
+        <text encoding="base64">ICAgICAgICdiZXJ0aF9kZWxheScgPT4gcmFuZCgwLDYpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aCBjbGFzcz0iYmVydGgiPkFycml2YWwgLyBCZXJ0aDwvdGg+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2JlcnRoX2RlbGF5JyA9PiAncmVxdWlyZWR8aW50ZWdlcicsCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09uZS9UaHJlZQ==</text>
