@@ -642,6 +642,12 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/apotheker/database/seeds/ProductsTableSeeder.php" timestamp="1549271304744">
+        <mark key="[" line="39" column="28" />
+        <mark key="]" line="39" column="26" />
+        <mark key="^" line="39" column="26" />
+        <mark key="." line="39" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Customer.php" timestamp="1549008381617">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -1009,10 +1015,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1vZGVsLT4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8gMTAw</text>
+        <text>product</text>
       </register>
       <register name="/" type="4">
         <text>comp</text>
@@ -1021,28 +1027,28 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ2NvbXBhbnlfaWQnKS0+aW5kZXgoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1vZGVsLT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YXR0cmlidXRlc1sndmFsdWUnXSk7Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IE1DRyA9IDM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FpcCcgPT4gJGFpcCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+ZGlzcGxheVVzaW5nKGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgfSksCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YXR0cmlidXRlc1sndmFsdWUnXSk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbW9uZXlfZm9ybWF0KCclLjJuJywgJHRoaXMtPmFpcCAvIDEwMCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IE1DRyA9IDM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+ZGlzcGxheVVzaW5nKGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBtb25leV9mb3JtYXQoJyUuMm4nLCAkdGhpcy0+YWlwIC8gMTAwKTsKICAgICAgICAgICAgICAgIH0pLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+ZGlzcGxheVVzaW5nKGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgfSksCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1072,10 +1078,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFwcFxPcHRpbjsKdXNlIEFwcFxDb250cmFjdDsKdXNlIEFwcFxDdXN0b21lcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxDb250cmFjdDsKdXNlIEFwcFxDcmVkaXRDbGFpbTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbW9uZXlfZm9ybWF0KCclLjJuJywgJHRoaXMtPmFpcCAvIDEwMCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL09uZS9UaHJlZQ==</text>
