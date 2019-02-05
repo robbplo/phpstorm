@@ -43,10 +43,11 @@
         <mark key="^" line="43" column="11" />
         <mark key="." line="43" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/nustar-meldpunt/app/Notifications/BoatScheduled.php" timestamp="1548838965847">
-        <mark key="[" line="54" column="20" />
-        <mark key="]" line="54" column="20" />
-        <mark key="." line="54" column="20" />
+      <file name="$USER_HOME$/Projects/nustar-meldpunt/app/Notifications/BoatScheduled.php" timestamp="1549372924651">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="56" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/nova-components/DiscountScale/resources/js/components/FormField.vue" timestamp="1549293855564">
         <mark key="'" line="80" column="36" />
@@ -105,6 +106,7 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/nustar-meldpunt/routes/web.php" timestamp="1549373763745" />
       <file name="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Planning/Reports/Report.vue" timestamp="1548773865705">
         <mark key="'" line="59" column="0" />
         <mark key="[" line="30" column="36" />
@@ -321,7 +323,7 @@
         <mark key="." line="30" column="48" />
         <mark key="^" line="30" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/nustar-meldpunt/api/Schedule/Http/Controllers/ScheduleController.php" timestamp="1548771237950">
+      <file name="$USER_HOME$/Projects/nustar-meldpunt/api/Schedule/Http/Controllers/ScheduleController.php" timestamp="1549374358350">
         <mark key="[" line="56" column="32" />
         <mark key="]" line="56" column="32" />
         <mark key="." line="56" column="32" />
@@ -364,7 +366,7 @@
         <mark key="." line="39" column="45" />
         <mark key="^" line="74" column="36" />
       </file>
-      <file name="/PHP Console" timestamp="1549367439439">
+      <file name="/PHP Console" timestamp="1549374367872">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Planning/Reports/Reports.vue" timestamp="1548772224918">
@@ -399,7 +401,8 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548756415946">
+      <file name="$USER_HOME$/Projects/nustar-meldpunt/api/Report/Http/Controllers/ReportController.php" timestamp="1549374334919" />
+      <file name="/Dummy.txt" timestamp="1549373760717">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/database/factories/ModelFactory.php" timestamp="1548771294609">
@@ -611,40 +614,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$scales</text>
+        <text>departure</text>
       </register>
       <register name="/" type="4">
         <text>min</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBdLAo=</text>
+      <register name="0" type="4">
+        <text>$message = $message</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5saW5lKCJEZXBhcnR1cmU6IHskdGhpcy0+c2NoZWR1bGUtPmRlcGFydHVyZS0+dG9EYXRlVGltZVN0cmluZygpfSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NhbGVzID0gOwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -674,10 +677,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgJHNjYWxlID0gJHNjYWxlcwogICAgICAgICAgICAtPndoZXJlKCdtaW4nLCAnPD0nLCAkYW1vdW50KQogICAgICAgICAgICAtPndoZXJlKCdtYXgnLCAnPicsICRhbW91bnQpCiAgICAgICAgICAgIC0+Zmlyc3QoKVsnZGlzY291bnQnXSA/PyAkdGhpcy0+YmFzZV9kaXNjb3VudDsK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgLT5maXJzdCgpLT5kaXNjb3VudCA/PyAkdGhpcy0+YmFzZV9kaXNjb3VudDsK</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>s/min/max/g</text>
