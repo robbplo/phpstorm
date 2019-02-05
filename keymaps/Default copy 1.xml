@@ -7,8 +7,10 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="Console.TableResult.CompareCells" />
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="EditorIndentLineOrSelection">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
@@ -25,6 +27,9 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="ParameterInfo" />
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="PhpNewClass">
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
@@ -32,4 +37,5 @@
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="ReplaceInPath" />
+  <action id="Uml.ShowDiff" />
 </keymap>
