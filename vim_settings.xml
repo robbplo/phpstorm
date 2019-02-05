@@ -158,11 +158,12 @@
         <mark key="." line="34" column="33" />
         <mark key="^" line="33" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/nova-components/DiscountScale/src/DiscountScale.php" timestamp="1549288363483">
-        <mark key="[" line="35" column="9" />
-        <mark key="]" line="35" column="14" />
+      <file name="$USER_HOME$/Projects/apotheker/nova-components/DiscountScale/src/DiscountScale.php" timestamp="1549354147068">
+        <mark key="'" line="38" column="16" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="39" />
         <mark key="^" line="35" column="14" />
-        <mark key="." line="35" column="14" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/composer.json" timestamp="1548324231381">
         <mark key="'" line="0" column="0" />
@@ -183,6 +184,12 @@
         <mark key="]" line="10" column="63" />
         <mark key="^" line="10" column="63" />
         <mark key="." line="10" column="63" />
+      </file>
+      <file name="$USER_HOME$/Projects/apotheker/app/ContractProduct.php" timestamp="1549354978715">
+        <mark key="[" line="10" column="70" />
+        <mark key="]" line="10" column="70" />
+        <mark key="^" line="10" column="70" />
+        <mark key="." line="10" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Nova/Product.php" timestamp="1549276429593">
         <mark key="'" line="158" column="6" />
@@ -250,10 +257,10 @@
         <mark key="." line="57" column="58" />
         <mark key="^" line="57" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Product.php" timestamp="1549286865093">
-        <mark key="'" line="43" column="0" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Product.php" timestamp="1549354858824">
+        <mark key="'" line="44" column="0" />
         <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
+        <mark key="]" line="19" column="43" />
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/.env" timestamp="1548764229200">
@@ -335,12 +342,12 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="40" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Contract.php" timestamp="1549286861950">
-        <mark key="'" line="49" column="32" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Contract.php" timestamp="1549354346720">
+        <mark key="'" line="50" column="32" />
         <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="86" />
-        <mark key="^" line="25" column="55" />
-        <mark key="." line="25" column="55" />
+        <mark key="]" line="25" column="43" />
+        <mark key="^" line="25" column="41" />
+        <mark key="." line="25" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Nova/Actions/ExtendContract.php" timestamp="1547645986120">
         <mark key="'" line="5" column="33" />
@@ -370,11 +377,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/database/migrations/2019_02_04_104439_modify_discount_column_on_contract_product_table.php" timestamp="1549294537556">
+      <file name="$USER_HOME$/Projects/apotheker/database/migrations/2019_02_04_104439_modify_discount_column_on_contract_product_table.php" timestamp="1549353890604">
         <mark key="[" line="20" column="27" />
-        <mark key="]" line="20" column="26" />
-        <mark key="." line="20" column="26" />
-        <mark key="^" line="20" column="26" />
+        <mark key="]" line="20" column="27" />
+        <mark key="." line="20" column="27" />
+        <mark key="^" line="20" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/database/migrations/2017_02_22_083132_create_schedules_table.php" timestamp="1548774770323">
         <mark key="[" line="22" column="0" />
@@ -486,8 +493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="25" filename="$USER_HOME$/Projects/apotheker/resources/views/declaration/expired.blade.php" />
-      <jump line="42" column="33" filename="$USER_HOME$/Projects/apotheker/resources/views/declaration/expired.blade.php" />
       <jump line="45" column="59" filename="$USER_HOME$/Projects/apotheker/resources/views/declaration/expired.blade.php" />
       <jump line="55" column="43" filename="$USER_HOME$/Projects/apotheker/resources/views/declaration/expired.blade.php" />
       <jump line="11" column="18" filename="$USER_HOME$/Projects/apotheker/resources/views/declaration/expired.blade.php" />
@@ -586,43 +591,45 @@
       <jump line="15" column="0" filename="$USER_HOME$/Projects/apotheker/nova-components/DiscountScale/resources/js/components/FormField.vue" />
       <jump line="27" column="8" filename="$USER_HOME$/Projects/apotheker/nova-components/DiscountScale/resources/js/components/FormField.vue" />
       <jump line="80" column="36" filename="$USER_HOME$/Projects/apotheker/nova-components/DiscountScale/resources/js/components/FormField.vue" />
+      <jump line="37" column="16" filename="$USER_HOME$/Projects/apotheker/nova-components/DiscountScale/src/DiscountScale.php" />
+      <jump line="38" column="16" filename="$USER_HOME$/Projects/apotheker/nova-components/DiscountScale/src/DiscountScale.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkc2NhbGVzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
-        <text>count</text>
+        <text>min</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNjYWxlLm1pbiA+IHNjYWxlLm1heCkgewogICAgICAgICAgICAgIG1pbkVycm9yID0gJ01heCBtdXN0IGJlIGdyZWF0ZXIgdGhhbiB0aGUgcHJldmlvdXMgbWluLicKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT51c2luZyhDb250cmFjdFByb2R1Y3Q6OmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gbGV0IG1heEVycm9yID0gbnVsbDsKICAgICAgICAgICAgbGV0IGRpc2NvdW50RXJyb3IgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc2NhbGVzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjb3VudCcgPT4gJHNjYWxlWydjb3VudCddLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIGlmICh0eXBlb2YgcHJldmlvdXMgIT09ICd1bmRlZmluZWQnKSB7CiAgICAgICAgICAgIC8vICAgaWYgKHByZXZpb3VzLmNvdW50ID49IHNjYWxlLmNvdW50KSB7CiAgICAgICAgICAgIC8vICAgICBjb3VudEVycm9yID0gJ1RoZSBjb3VudCBtdXN0IGJlIGhpZ2hlciB0aGFuIHRoZSBwcmV2aW91cyBzY2FsZSc7CiAgICAgICAgICAgIC8vICAgfSBlbHNlIHsKICAgICAgICAgICAgLy8gICAgIGNvdW50RXJyb3IgPSBudWxsCiAgICAgICAgICAgIC8vICAgfQogICAgICAgICAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gbGV0IG1heEVycm9yID0gbnVsbDsKICAgICAgICAgICAgbGV0IGRpc2NvdW50RXJyb3IgPSBudWxsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNjYWxlLm1pbiA+IHNjYWxlLm1heCkgewogICAgICAgICAgICAgIG1pbkVycm9yID0gJ01heCBtdXN0IGJlIGdyZWF0ZXIgdGhhbiB0aGUgcHJldmlvdXMgbWluLicKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIGlmICh0eXBlb2YgcHJldmlvdXMgIT09ICd1bmRlZmluZWQnKSB7CiAgICAgICAgICAgIC8vICAgaWYgKHByZXZpb3VzLmNvdW50ID49IHNjYWxlLmNvdW50KSB7CiAgICAgICAgICAgIC8vICAgICBjb3VudEVycm9yID0gJ1RoZSBjb3VudCBtdXN0IGJlIGhpZ2hlciB0aGFuIHRoZSBwcmV2aW91cyBzY2FsZSc7CiAgICAgICAgICAgIC8vICAgfSBlbHNlIHsKICAgICAgICAgICAgLy8gICAgIGNvdW50RXJyb3IgPSBudWxsCiAgICAgICAgICAgIC8vICAgfQogICAgICAgICAgICAvLyB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgeyBtaW4sIG1heCwgZGlzY291bnQgfSA9IHRoaXMuc2NhbGVzW3RoaXMuc2NhbGVzLmxlbmd0aCAtIDFdOwogICAgICAgIGxldCBkaWZmZXJlbmNlID0gbWF4IC0gbWluOwogICAgICAgIHRoaXMuc2NhbGVzLnB1c2gobmV3IFNjYWxlKG1heCArIDEsIG1heCArIGRpZmZlcmVuY2UsIGRpc2NvdW50KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNjYWxlLm1pbiA+IHNjYWxlLm1heCkgewogICAgICAgICAgICAgIG1pbkVycm9yID0gJ01heCBtdXN0IGJlIGdyZWF0ZXIgdGhhbiB0aGUgcHJldmlvdXMgbWluLicKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -652,27 +659,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMuZmllbGQudmFsdWUubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgeyBtaW4sIG1heCwgZGlzY291bnQgfSA9IHRoaXMuc2NhbGVzW3RoaXMuc2NhbGVzLmxlbmd0aCAtIDFdOwogICAgICAgIGxldCBkaWZmZXJlbmNlID0gbWF4IC0gbWluOwogICAgICAgIHRoaXMuc2NhbGVzLnB1c2gobmV3IFNjYWxlKG1heCArIDEsIG1heCArIGRpZmZlcmVuY2UsIGRpc2NvdW50KSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2NvdW50L21heC9n</text>
+        <text>s/min/max/g</text>
       </register>
     </registers>
     <search>
-      <last-search>count</last-search>
+      <last-search>min</last-search>
       <last-offset />
-      <last-pattern>count</last-pattern>
+      <last-pattern>min</last-pattern>
       <last-replace>max</last-replace>
-      <last-substitute>count</last-substitute>
+      <last-substitute>min</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>model</entry>
         <entry>App</entry>
         <entry>MAIL</entry>
         <entry>rules</entry>
@@ -692,9 +698,9 @@
         <entry>cre</entry>
         <entry>comp</entry>
         <entry>count</entry>
+        <entry>min</entry>
       </history-search>
       <history-cmd>
-        <entry>s/meta/loading/g</entry>
         <entry encoding="base64">JzwsJz5zL3dhcm5pbmcvZGFuZ2Vy</entry>
         <entry encoding="base64">JzwsJz5zL2NvbnRyYWN0L3RoaXMtPmNvbnRyYWN0L2c=</entry>
         <entry>s/fullPath/asd</entry>
@@ -710,10 +716,11 @@
         <entry encoding="base64">JzwsJz5zL3NvbWV0aW1lcy9udWxsYWJsZS9n</entry>
         <entry encoding="base64">JzwsJz5zL09uZS9Ud28vZw==</entry>
         <entry encoding="base64">JzwsJz5zL09uZS9UaHJlZQ==</entry>
-        <entry>s/count/min/g</entry>
         <entry>s/count/max/g</entry>
         <entry encoding="base64">JzwsJz5zL2NvdW50L21pbi9n</entry>
         <entry encoding="base64">JzwsJz5zL2NvdW50L21heC9n</entry>
+        <entry>s/count/min/g</entry>
+        <entry>s/min/max/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
