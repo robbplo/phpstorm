@@ -43,6 +43,15 @@
         <mark key="." line="86" column="15" />
         <mark key="^" line="86" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/app/AttributeOption.php" timestamp="1549467644640">
+        <mark key="[" line="11" column="49" />
+        <mark key="]" line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/storage/logs/laravel-2019-02-06.log" timestamp="1549468806446">
+        <mark key="'" line="17" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Events/CreditClaimReminderOne.php" timestamp="1548409514589">
         <mark key="[" line="24" column="43" />
         <mark key="]" line="26" column="41" />
@@ -54,6 +63,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/vendor/rinvex/laravel-attributes/src/Models/Type/Varchar.php" timestamp="1549466216753" />
       <file name="$USER_HOME$/Projects/apotheker/app/Listeners/CreditClaimReminderOneListener.php" timestamp="1548409370487">
         <mark key="[" line="28" column="94" />
         <mark key="]" line="28" column="94" />
@@ -137,12 +147,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/Product.php" timestamp="1549465189181">
-        <mark key="k" line="120" column="29" />
-        <mark key="[" line="118" column="67" />
-        <mark key="]" line="119" column="11" />
-        <mark key="." line="119" column="11" />
-        <mark key="^" line="119" column="11" />
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/Product.php" timestamp="1549468887526">
+        <mark key="[" line="64" column="21" />
+        <mark key="]" line="65" column="19" />
+        <mark key="." line="65" column="19" />
+        <mark key="^" line="65" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Notifications/CreditClaimsResent.php" timestamp="1548428506199">
         <mark key="[" line="9" column="45" />
@@ -213,11 +222,11 @@
         <mark key="^" line="10" column="48" />
         <mark key="." line="10" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Providers/AppServiceProvider.php" timestamp="1549449548364">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="19" column="38" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Projects/materialen/app/Providers/AppServiceProvider.php" timestamp="1549466447487">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="39" />
+        <mark key="." line="18" column="51" />
+        <mark key="^" line="18" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/routes/console.php" timestamp="1549461308066" />
       <file name="$USER_HOME$/Projects/apotheker/app/Events/CreditClaimsGenerated.php" timestamp="1548763399445">
@@ -238,16 +247,22 @@
         <mark key="." line="34" column="33" />
         <mark key="^" line="33" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_02_06_153224_create_attribute_options_table.php" timestamp="1549467868804">
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="28" />
+        <mark key="." line="18" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Notifications/NewCreditClaim.php" timestamp="1548663445396">
         <mark key="[" line="10" column="41" />
         <mark key="]" line="10" column="63" />
         <mark key="^" line="10" column="63" />
         <mark key="." line="10" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/Attribute.php" timestamp="1549459167122">
-        <mark key="[" line="54" column="24" />
-        <mark key="]" line="54" column="25" />
-        <mark key="." line="54" column="25" />
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/Attribute.php" timestamp="1549468309627">
+        <mark key="[" line="44" column="5" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="56" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Nova/Company.php" timestamp="1549464908056">
         <mark key="'" line="245" column="0" />
@@ -303,6 +318,12 @@
         <mark key="." line="18" column="36" />
         <mark key="^" line="18" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/AttributeOption.php" timestamp="1549467857113">
+        <mark key="[" line="46" column="24" />
+        <mark key="]" line="46" column="24" />
+        <mark key="^" line="47" column="28" />
+        <mark key="." line="46" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Nova/Category.php" timestamp="1549459498968">
         <mark key="[" line="46" column="42" />
         <mark key="]" line="46" column="41" />
@@ -318,7 +339,6 @@
       <file name="$USER_HOME$/.composer/vendor/laravel/valet/server.php" timestamp="1549362569774" />
     </filemarks>
     <jumps>
-      <jump line="55" column="43" filename="$USER_HOME$/Projects/apotheker/resources/views/declaration/expired.blade.php" />
       <jump line="11" column="18" filename="$USER_HOME$/Projects/apotheker/resources/views/declaration/expired.blade.php" />
       <jump line="45" column="32" filename="$USER_HOME$/Projects/apotheker/app/Http/Controllers/CustomerDeclarationController.php" />
       <jump line="158" column="0" filename="$USER_HOME$/Projects/apotheker/app/Http/Controllers/CustomerDeclarationController.php" />
@@ -418,43 +438,44 @@
       <jump line="37" column="16" filename="$USER_HOME$/Projects/apotheker/nova-components/DiscountScale/src/DiscountScale.php" />
       <jump line="38" column="16" filename="$USER_HOME$/Projects/apotheker/nova-components/DiscountScale/src/DiscountScale.php" />
       <jump line="245" column="0" filename="$USER_HOME$/Projects/apotheker/app/Nova/Company.php" />
+      <jump line="17" column="35" filename="$USER_HOME$/Projects/materialen/storage/logs/laravel-2019-02-06.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZGlmZmVyZW50IE5vdmEgZmllbGRzIGZvciBkaWZmZXJlbnQg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGlmZmVyZW50IE5vdmEgZmllbGRzIGZvciBkaWZmZXJlbnQg</text>
+        <text>$options</text>
       </register>
       <register name="/" type="4">
         <text>min</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnL3Rlc3QnLCBmdW5jdGlvbiAoKSB7CiAgICBkaXNwYXRjaChuZXcgQXBwXEpvYnNcR2V0T3JkZXIoJzhmMzNjNzFhLTBlNmQtMTFlOS04MmQyLTUyNTQwMDJmOTJjMCcsIEFwcFxUZW5hbnQ6OmZpcnN0KCkpKTsKfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGV4dDo6bWFrZSgnS2V5JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxIdHRwXFJlcXVlc3RzXE5vdmFSZXF1ZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxIdHRwXFJlcXVlc3RzXE5vdmFSZXF1ZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxGaWVsZHNcRGF0ZVRpbWU7CnVzZSBMYXJhdmVsXE5vdmFcRmllbGRzXEhhc01hbnk7CnVzZSBMYXJhdmVsXE5vdmFcRmllbGRzXElEOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGV4dDo6bWFrZSgnTmFtZScsICduYW1lX25sJyksCgogICAgICAgICAgICBCZWxvbmdzVG86Om1ha2UoJ0NhdGVnb3J5JyksCgogICAgICAgICAgICBUZXh0OjptYWtlKCdDb2RlJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5jb2RlOwogICAgICAgICAgICB9KSwKCiAgICAgICAgICAgIE51bWJlcjo6bWFrZSgnU3RvY2snLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJHRoaXMtPnN0b2NrOwogICAgICAgICAgICB9KSwKCiAgICAgICAgICAgIEJvb2xlYW46Om1ha2UoJ1Nob3cgb24gd2Vic2hvcCcpLAoKICAgICAgICAgICAgVGV4dDo6bWFrZSgnSW1wb3J0ZWQgYXQnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJHRoaXMtPmltcG9ydGVkX2F0LT50b0RhdGVUaW1lU3RyaW5nKCk7CiAgICAgICAgICAgIH0pLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBkZChcQXBwXEF0dHJpYnV0ZU9wdGlvbjo6d2hlcmUoJ2F0dHJpYnV0ZV9pZCcsICRhdHRyaWJ1dGUtPmlkKS0+Z2V0KCkpOwogICAgICAgICAgICAgICAgICAgIGRkKCRvcHRpb25zKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFxBcHBcQXR0cmlidXRlT3B0aW9uOjp3aGVyZSgnYXR0cmlidXRlX2lkJywgJGF0dHJpYnV0ZS0+aWQpLT5nZXQoKS0+bWFwV2l0aEtleXMoZnVuY3Rpb24gKCRvcHRpb24pIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gWyRvcHRpb24tPmtleSA9PiAkb3B0aW9uLT5sYWJlbF07CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnLycsIGZ1bmN0aW9uICgpIHsKICAgIHJldHVybiAnTm90aGluZyc7Cn0pOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdpZCcgPT4gJGF0dHJpYnV0ZS0+aWQsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -484,10 +505,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoKG5ldyBBcHBcSm9ic1xHZXRPcmRlcignOGYzM2M3MWEtMGU2ZC0xMWU5LTgyZDItNTI1NDAwMmY5MmMwJywgQXBwXFRlbmFudDo6Zmlyc3QoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRpZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQHRvZG8gQ29ycmVzcG9uZCBub3ZhIGZpZWxkIHR5cGUgd2l0aCBhdHRyaWJ1dGUgdHlwZQoK</text>
       </register>
       <register name=":" type="4">
         <text>s/min/max/g</text>
