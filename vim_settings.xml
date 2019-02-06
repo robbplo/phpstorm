@@ -137,11 +137,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/Product.php" timestamp="1549461411333">
-        <mark key="[" line="117" column="17" />
-        <mark key="]" line="117" column="15" />
-        <mark key="." line="117" column="15" />
-        <mark key="^" line="117" column="15" />
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/Product.php" timestamp="1549465189181">
+        <mark key="k" line="120" column="29" />
+        <mark key="[" line="118" column="67" />
+        <mark key="]" line="119" column="11" />
+        <mark key="." line="119" column="11" />
+        <mark key="^" line="119" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Notifications/CreditClaimsResent.php" timestamp="1548428506199">
         <mark key="[" line="9" column="45" />
@@ -173,11 +174,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/routes/web.php" timestamp="1549462729546">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="14" column="18" />
+      <file name="$USER_HOME$/Projects/materialen/routes/web.php" timestamp="1549464138113">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/app/Notifications/BoatScheduled.php" timestamp="1549375951532">
         <mark key="[" line="58" column="40" />
@@ -249,6 +249,9 @@
         <mark key="]" line="54" column="25" />
         <mark key="." line="54" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/apotheker/app/Nova/Company.php" timestamp="1549464908056">
+        <mark key="'" line="245" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Policies/ProductPolicy.php" timestamp="1549275472538">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -315,7 +318,6 @@
       <file name="$USER_HOME$/.composer/vendor/laravel/valet/server.php" timestamp="1549362569774" />
     </filemarks>
     <jumps>
-      <jump line="45" column="59" filename="$USER_HOME$/Projects/apotheker/resources/views/declaration/expired.blade.php" />
       <jump line="55" column="43" filename="$USER_HOME$/Projects/apotheker/resources/views/declaration/expired.blade.php" />
       <jump line="11" column="18" filename="$USER_HOME$/Projects/apotheker/resources/views/declaration/expired.blade.php" />
       <jump line="45" column="32" filename="$USER_HOME$/Projects/apotheker/app/Http/Controllers/CustomerDeclarationController.php" />
@@ -415,13 +417,14 @@
       <jump line="80" column="36" filename="$USER_HOME$/Projects/apotheker/nova-components/DiscountScale/resources/js/components/FormField.vue" />
       <jump line="37" column="16" filename="$USER_HOME$/Projects/apotheker/nova-components/DiscountScale/src/DiscountScale.php" />
       <jump line="38" column="16" filename="$USER_HOME$/Projects/apotheker/nova-components/DiscountScale/src/DiscountScale.php" />
+      <jump line="245" column="0" filename="$USER_HOME$/Projects/apotheker/app/Nova/Company.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoKG5ldyBBcHBcSm9ic1xHZXRPcmRlcignOGYzM2M3MWEtMGU2ZC0xMWU5LTgyZDItNTI1NDAwMmY5MmMwJywgQXBwXFRlbmFudDo6Zmlyc3QoKSkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGlmZmVyZW50IE5vdmEgZmllbGRzIGZvciBkaWZmZXJlbnQg</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text encoding="base64">ZGlmZmVyZW50IE5vdmEgZmllbGRzIGZvciBkaWZmZXJlbnQg</text>
       </register>
       <register name="/" type="4">
         <text>min</text>
@@ -430,28 +433,28 @@
         <text encoding="base64">Um91dGU6OmdldCgnL3Rlc3QnLCBmdW5jdGlvbiAoKSB7CiAgICBkaXNwYXRjaChuZXcgQXBwXEpvYnNcR2V0T3JkZXIoJzhmMzNjNzFhLTBlNmQtMTFlOS04MmQyLTUyNTQwMDJmOTJjMCcsIEFwcFxUZW5hbnQ6OmZpcnN0KCkpKTsKfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoKG5ldyBBcHBcSm9ic1xHZXRPcmRlcignOGYzM2M3MWEtMGU2ZC0xMWU5LTgyZDItNTI1NDAwMmY5MmMwJywgQXBwXFRlbmFudDo6Zmlyc3QoKSkpOwo=</text>
+        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxIdHRwXFJlcXVlc3RzXE5vdmFSZXF1ZXN0Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxIdHRwXFJlcXVlc3RzXE5vdmFSZXF1ZXN0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGFuZWw6Om1ha2UoJ0F0dHJpYnV0ZXMnKSwK</text>
+        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxGaWVsZHNcRGF0ZVRpbWU7CnVzZSBMYXJhdmVsXE5vdmFcRmllbGRzXEhhc01hbnk7CnVzZSBMYXJhdmVsXE5vdmFcRmllbGRzXElEOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGFzTWFueTo6bWFrZSgnQXR0cmlidXRlcycsICdhdHRyaWJ1dGVzJywgQXR0cmlidXRlOjpjbGFzcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGV4dDo6bWFrZSgnTmFtZScsICduYW1lX25sJyksCgogICAgICAgICAgICBCZWxvbmdzVG86Om1ha2UoJ0NhdGVnb3J5JyksCgogICAgICAgICAgICBUZXh0OjptYWtlKCdDb2RlJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5jb2RlOwogICAgICAgICAgICB9KSwKCiAgICAgICAgICAgIE51bWJlcjo6bWFrZSgnU3RvY2snLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJHRoaXMtPnN0b2NrOwogICAgICAgICAgICB9KSwKCiAgICAgICAgICAgIEJvb2xlYW46Om1ha2UoJ1Nob3cgb24gd2Vic2hvcCcpLAoKICAgICAgICAgICAgVGV4dDo6bWFrZSgnSW1wb3J0ZWQgYXQnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJHRoaXMtPmltcG9ydGVkX2F0LT50b0RhdGVUaW1lU3RyaW5nKCk7CiAgICAgICAgICAgIH0pLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Um91dGU6OmdldCgnLycsIGZ1bmN0aW9uICgpIHsKICAgIHJldHVybiAnTm90aGluZyc7Cn0pOwoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -481,10 +484,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGF0ZVRpbWU6Om1ha2UoJ0ltcG9ydGVkIGF0JykK</text>
+        <text encoding="base64">ICAgIGRpc3BhdGNoKG5ldyBBcHBcSm9ic1xHZXRPcmRlcignOGYzM2M3MWEtMGU2ZC0xMWU5LTgyZDItNTI1NDAwMmY5MmMwJywgQXBwXFRlbmFudDo6Zmlyc3QoKSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSUQ6Om1ha2UoKS0+c29ydGFibGUoKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/min/max/g</text>
