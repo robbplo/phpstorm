@@ -127,6 +127,12 @@
         <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Http/Controllers/ProductController.php" timestamp="1549447268194" />
+      <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_02_06_100046_create_attribute_groups_table.php" timestamp="1549471291462">
+        <mark key="[" line="18" column="42" />
+        <mark key="]" line="18" column="40" />
+        <mark key="^" line="18" column="40" />
+        <mark key="." line="18" column="40" />
+      </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Enums/ProductStrengthType.php" timestamp="1549270126393">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="11" />
@@ -170,6 +176,12 @@
         <mark key="]" line="47" column="54" />
         <mark key="." line="27" column="22" />
         <mark key="^" line="27" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/app/AttributeGroup.php" timestamp="1549471800396">
+        <mark key="[" line="11" column="53" />
+        <mark key="]" line="11" column="53" />
+        <mark key="." line="11" column="53" />
+        <mark key="^" line="11" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/database/migrations/2019_01_30_142039_add_foreign_key_constraints.php" timestamp="1548858198955">
         <mark key="[" line="15" column="0" />
@@ -248,6 +260,17 @@
         <mark key="." line="34" column="33" />
         <mark key="^" line="33" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/database/migrations/2017_01_19_040614_create_attributes_table.php" timestamp="1549471206991">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_02_06_164043_create_attribute_group_attribute_table.php" timestamp="1549471714288">
+        <mark key="'" line="24" column="12" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_02_06_153224_create_attribute_options_table.php" timestamp="1549467868804">
         <mark key="[" line="18" column="28" />
         <mark key="]" line="18" column="28" />
@@ -264,6 +287,12 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
         <mark key="^" line="56" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/apotheker/app/Product.php" timestamp="1549354858824">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="43" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Nova/Company.php" timestamp="1549464908056">
         <mark key="'" line="245" column="0" />
@@ -340,7 +369,6 @@
       <file name="$USER_HOME$/.composer/vendor/laravel/valet/server.php" timestamp="1549362569774" />
     </filemarks>
     <jumps>
-      <jump line="11" column="18" filename="$USER_HOME$/Projects/apotheker/resources/views/declaration/expired.blade.php" />
       <jump line="45" column="32" filename="$USER_HOME$/Projects/apotheker/app/Http/Controllers/CustomerDeclarationController.php" />
       <jump line="158" column="0" filename="$USER_HOME$/Projects/apotheker/app/Http/Controllers/CustomerDeclarationController.php" />
       <jump line="63" column="55" filename="$USER_HOME$/Projects/apotheker/resources/views/declaration/edit.blade.php" />
@@ -440,19 +468,20 @@
       <jump line="38" column="16" filename="$USER_HOME$/Projects/apotheker/nova-components/DiscountScale/src/DiscountScale.php" />
       <jump line="245" column="0" filename="$USER_HOME$/Projects/apotheker/app/Nova/Company.php" />
       <jump line="17" column="35" filename="$USER_HOME$/Projects/materialen/storage/logs/laravel-2019-02-06.log" />
+      <jump line="24" column="12" filename="$USER_HOME$/Projects/materialen/database/migrations/2019_02_06_164043_create_attribute_group_attribute_table.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$options</text>
+        <text>foreign</text>
       </register>
       <register name="/" type="4">
-        <text>min</text>
+        <text>_group</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGV4dDo6bWFrZSgnS2V5JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCdhdHRyaWJ1dGVfZ3JvdXBfaWQnKQogICAgICAgICAgICAgICAgLT5yZWZlcmVuY2VzKCdpZCcpCiAgICAgICAgICAgICAgICAtPm9uKCdhdHRyaWJ1dGVfZ3JvdXBzJyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -461,22 +490,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXBzKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ25hbWUnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBkZChcQXBwXEF0dHJpYnV0ZU9wdGlvbjo6d2hlcmUoJ2F0dHJpYnV0ZV9pZCcsICRhdHRyaWJ1dGUtPmlkKS0+Z2V0KCkpOwogICAgICAgICAgICAgICAgICAgIGRkKCRvcHRpb25zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFxBcHBcQXR0cmlidXRlT3B0aW9uOjp3aGVyZSgnYXR0cmlidXRlX2lkJywgJGF0dHJpYnV0ZS0+aWQpLT5nZXQoKS0+bWFwV2l0aEtleXMoZnVuY3Rpb24gKCRvcHRpb24pIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gWyRvcHRpb24tPmtleSA9PiAkb3B0aW9uLT5sYWJlbF07CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5wcmltYXJ5KFsnYXR0cmlidXRlX2dyb3VwX2lkJywgJ2F0dHJpYnV0ZV9pZCddKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -506,27 +535,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdpZCcgPT4gJGF0dHJpYnV0ZS0+aWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRpZSgpOwo=</text>
+        <text encoding="base64">ZGVjbGFyZShzdHJpY3RfdHlwZXM9MSk7Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/min/max/g</text>
+        <text encoding="base64">JzwsJz5zL19ncm91cC8v</text>
       </register>
     </registers>
     <search>
-      <last-search>min</last-search>
+      <last-search>_group</last-search>
       <last-offset />
-      <last-pattern>min</last-pattern>
-      <last-replace>max</last-replace>
-      <last-substitute>min</last-substitute>
+      <last-pattern>_group</last-pattern>
+      <last-replace />
+      <last-substitute>_group</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>App</entry>
         <entry>MAIL</entry>
         <entry>rules</entry>
         <entry>ref</entry>
@@ -546,9 +574,9 @@
         <entry>comp</entry>
         <entry>count</entry>
         <entry>min</entry>
+        <entry>_group</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3dhcm5pbmcvZGFuZ2Vy</entry>
         <entry encoding="base64">JzwsJz5zL2NvbnRyYWN0L3RoaXMtPmNvbnRyYWN0L2c=</entry>
         <entry>s/fullPath/asd</entry>
         <entry>s/asd/fileName/g</entry>
@@ -568,6 +596,7 @@
         <entry encoding="base64">JzwsJz5zL2NvdW50L21heC9n</entry>
         <entry>s/count/min/g</entry>
         <entry>s/min/max/g</entry>
+        <entry encoding="base64">JzwsJz5zL19ncm91cC8v</entry>
       </history-cmd>
       <history-expr />
       <history-input />
