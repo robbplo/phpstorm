@@ -24,6 +24,12 @@
       <file name="/a.dummy" timestamp="1548410398943">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Product.php" timestamp="1549449748637">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+        <mark key="^" line="10" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Console/Commands/GenerateCreditClaims.php" timestamp="1548764887134">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="42" column="15" />
@@ -355,6 +361,12 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="34" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Providers/AppServiceProvider.php" timestamp="1549449548364">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="19" column="38" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Events/CreditClaimsGenerated.php" timestamp="1548763399445">
         <mark key="[" line="13" column="31" />
         <mark key="]" line="13" column="26" />
@@ -392,6 +404,12 @@
         <mark key="]" line="10" column="63" />
         <mark key="^" line="10" column="63" />
         <mark key="." line="10" column="63" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/Attribute.php" timestamp="1549449949520">
+        <mark key="[" line="50" column="12" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="50" column="20" />
+        <mark key="^" line="52" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Providers/EventServiceProvider.php" timestamp="1549369233438">
         <mark key="'" line="48" column="0" />
@@ -633,10 +651,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxIdHRwXFJlcXVlc3RzXE5vdmFSZXF1ZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGV4dGFyZWE6Om1hawo=</text>
       </register>
       <register name="-" type="4">
-        <text>arriva</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>min</text>
@@ -645,28 +663,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC0+cnVsZXMoJ2RhdGVfZm9ybWF0OlktbS1kJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxIdHRwXFJlcXVlc3RzXE5vdmFSZXF1ZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGV4dGFyZWE6Om1hawo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxGaWVsZHNcQmVsb25nc1RvOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gLi4uCiAgICAgICAgICAgICdjdXN0b20nID0+IFxQYXRoXFRvXFlvdXJcVHlwZTo6Y2xhc3MsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxGaWVsZHNcVGV4dDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxGaWVsZHNcQm9vbGVhbjsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxIdHRwXFJlcXVlc3RzXE5vdmFSZXF1ZXN0Owo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxGaWVsZHNcQmVsb25nc1RvOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxGaWVsZHNcVGV4dDsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxGaWVsZHNcRGF0ZVRpbWU7Cg==</text>
+        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxGaWVsZHNcQm9vbGVhbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxIdHRwXFJlcXVlc3RzXE5vdmFSZXF1ZXN0Owo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -696,10 +714,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxGaWVsZHNcRGF0ZVRpbWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/min/max/g</text>
