@@ -14,7 +14,7 @@
         <mark key="^" line="122" column="7" />
         <mark key="." line="122" column="7" />
       </file>
-      <file name="/a.dummy" timestamp="1548410398943">
+      <file name="/a.dummy" timestamp="1549548374550">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Product.php" timestamp="1549449748637">
@@ -61,7 +61,7 @@
         <mark key="^" line="26" column="41" />
         <mark key="." line="26" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/database/migrations/2019_02_07_131952_add_columns_to_offers_table.php" timestamp="1549546811841">
+      <file name="$USER_HOME$/Projects/finish-building/database/migrations/2019_02_07_131952_add_columns_to_offers_table.php" timestamp="1549548034895">
         <mark key="[" line="35" column="35" />
         <mark key="]" line="35" column="35" />
         <mark key="." line="35" column="35" />
@@ -150,6 +150,12 @@
         <mark key="^" line="18" column="40" />
         <mark key="." line="18" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingWindowFrameColors.php" timestamp="1549548387391">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Enums/ProductStrengthType.php" timestamp="1549270126393">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="11" />
@@ -206,6 +212,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="33" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingWindowFrames.php" timestamp="1549548358602">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="6" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/nova/config/nova.php" timestamp="1549447386219" />
       <file name="$USER_HOME$/Projects/apotheker/app/Nova/Price.php" timestamp="1549290893097">
@@ -305,6 +315,11 @@
         <mark key="]" line="10" column="63" />
         <mark key="^" line="10" column="63" />
         <mark key="." line="10" column="63" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingWindowColors.php" timestamp="1549548369589">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Nova/Attribute.php" timestamp="1549468309627">
         <mark key="[" line="44" column="5" />
@@ -502,17 +517,17 @@
       <jump line="106" column="0" filename="$USER_HOME$/Projects/vetclass/app/Http/Routes/Frontend/Frontend.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Frames</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Frames</text>
       </register>
       <register name="/" type="4">
         <text>_group</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCdhdHRyaWJ1dGVfZ3JvdXBfaWQnKQogICAgICAgICAgICAgICAgLT5yZWZlcmVuY2VzKCdpZCcpCiAgICAgICAgICAgICAgICAtPm9uKCdhdHRyaWJ1dGVfZ3JvdXBzJyk7Cg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIEFwcFxFbnVtczsKCnVzZSBNeUNMYWJzXEVudW1cRW51bTsKCmNsYXNzIEJ1aWxkaW5nV2luZG93RnJhbWVzIGV4dGVuZHMgRW51bQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
