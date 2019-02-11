@@ -63,11 +63,13 @@
         <mark key="^" line="36" column="5" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1549633510691">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1549875666763">
+        <mark key="'" line="356" column="0" />
+        <mark key="[" line="633" column="13" />
+        <mark key="]" line="633" column="12" />
+        <mark key="n" line="278" column="27" />
+        <mark key="." line="633" column="12" />
+        <mark key="^" line="633" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/api/Schedule/Http/Controllers/ScheduleController.php" timestamp="1549374358350">
         <mark key="[" line="56" column="32" />
@@ -189,12 +191,6 @@
         <mark key="^" line="81" column="24" />
         <mark key="." line="81" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_02_06_164043_create_attribute_group_attribute_table.php" timestamp="1549471714288">
-        <mark key="'" line="24" column="12" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Jobs/ImportProduct.php" timestamp="1549530741066" />
       <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_02_06_153224_create_attribute_options_table.php" timestamp="1549467868804">
         <mark key="[" line="18" column="28" />
@@ -211,12 +207,6 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
         <mark key="^" line="56" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Product.php" timestamp="1549354858824">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="43" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingWicketDoorColors.php" timestamp="1549615649777">
         <mark key="[" line="13" column="31" />
@@ -260,18 +250,6 @@
       <file name="$USER_HOME$/.composer/vendor/laravel/valet/server.php" timestamp="1549362569774" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/apotheker/app/Nova/Contract.php" />
-      <jump line="41" column="46" filename="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/components/Tool.vue" />
-      <jump line="14573" column="2" filename="$USER_HOME$/Projects/apotheker/storage/logs/laravel-2019-01-24.log" />
-      <jump line="174" column="32" filename="$USER_HOME$/Projects/apotheker/app/Nova/Company.php" />
-      <jump line="23" column="6" filename="$USER_HOME$/Projects/apotheker/app/CreditClaim.php" />
-      <jump line="77" column="0" filename="$USER_HOME$/Projects/apotheker/app/Console/Commands/NotifyCreditClaims.php" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/apotheker/app/Providers/EventServiceProvider.php" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/apotheker/app/Providers/EventServiceProvider.php" />
-      <jump line="31" column="8" filename="$USER_HOME$/Projects/apotheker/app/Providers/EventServiceProvider.php" />
-      <jump line="34" column="9" filename="$USER_HOME$/Projects/apotheker/app/Providers/EventServiceProvider.php" />
-      <jump line="43" column="0" filename="$USER_HOME$/Projects/apotheker/app/Console/Commands/NotifyCreditClaims.php" />
-      <jump line="17" column="84" filename="$USER_HOME$/Projects/apotheker/storage/logs/laravel-2019-01-25.log" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/apotheker/storage/logs/laravel-2019-01-25.log" />
       <jump line="18714" column="0" filename="$USER_HOME$/Projects/apotheker/storage/logs/laravel-2019-01-25.log" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/apotheker/storage/logs/laravel-2019-01-25.log" />
@@ -347,7 +325,6 @@
       <jump line="79" column="44" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="828" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="127" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="95" column="17" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="96" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="99" column="21" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
@@ -360,43 +337,66 @@
       <jump line="128" column="10" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="164" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="82" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="422" column="42" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="442" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="467" column="13" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="624" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="278" column="27" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="282" column="31" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="283" column="28" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="284" column="26" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="402" column="9" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="565" column="11" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="560" column="11" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="356" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsYWJlbCBjbGFzcz0iYmxvY2sgdXBwZXJjYXNlIHRyYWNraW5nLXdpZGUgdGV4dC1ncmV5LWRhcmtlciB0ZXh0LXhzIGZvbnQtYm9sZCBtYi0yIgogICAgICAgICAgICBmb3I9IndpY2tldF9kb29ycyI+CiAgICAgICAgICAgIFdpY2tldCBkb29ycwogICAgICAgICAgPC9sYWJlbD4KCiAgICAgICAgICA8aW5wdXQgaWQ9IndpY2tldF9kb29ycyIKICAgICAgICAgICAgbmFtZT0id2lja2V0X2Rvb3JzIgogICAgICAgICAgICBkYXRhLXZ2LWFzPSJ3aWNrZXQgZG9vcnMiCiAgICAgICAgICAgIHYtdmFsaWRhdGU9IidyZXF1aXJlZHxtYXhfdmFsdWU6MTAwJyIKICAgICAgICAgICAgcGxhY2Vob2xkZXI9IjEiCiAgICAgICAgICAgIG1pbj0iMCIKICAgICAgICAgICAgbWF4PSIxMDAiCiAgICAgICAgICAgIHYtbW9kZWw9Im9mZmVyLndpY2tldF9kb29ycyIKICAgICAgICAgICAgdHlwZT0ibnVtYmVyIgogICAgICAgICAgICBjbGFzcz0idy1mdWxsIGZvcm0tY29udHJvbCBmb3JtLWlucHV0IGZvcm0taW5wdXQtYm9yZGVyZWQiCiAgICAgICAgICAgIDpjbGFzcz0idnZFcnJvcnMuaGFzKCd3aWNrZXRfZG9vcnMnKSA/ICdib3JkZXItZGFuZ2VyJyA6ICcnIgogICAgICAgICAgPgoKICAgICAgICAgIDxwIGNsYXNzPSJ0ZXh0LWRhbmdlciBteS0yIj4KICAgICAgICAgICAge3sgdnZFcnJvcnMuZmlyc3QoJ3dpY2tldF9kb29ycycpIH19CiAgICAgICAgICA8L3A+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{
+        1: 'Netherlands',
+        2: 'Belgium',
+      },</text>
       </register>
       <register name="-" type="4">
-        <text>required|min_value:10|max_value:35|step:5</text>
+        <text>dropdowns.foundations</text>
       </register>
       <register name="/" type="4">
-        <text>number-f</text>
+        <text>enum</text>
       </register>
-      <register name="0" type="4">
-        <text>required|max_value:100</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxlbnVtLWRyb3Bkb3duCiAgICAgICAgICAgIG5hbWU9ImZvdW5kYXRpb24iCiAgICAgICAgICAgIGRpc3BsYXlOYW1lPSJmb3VuZGF0aW9uIgogICAgICAgICAgICA6b3B0aW9ucz0iZHJvcGRvd25zLmZvdW5kYXRpb25zIgogICAgICAgICAgICB2LW1vZGVsPSJvZmZlci5mb3VuZGF0aW9uIgogICAgICAgICAgPjwvZW51bS1kcm9wZG93bj4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsYWJlbCBjbGFzcz0iYmxvY2sgdXBwZXJjYXNlIHRyYWNraW5nLXdpZGUgdGV4dC1ncmV5LWRhcmtlciB0ZXh0LXhzIGZvbnQtYm9sZCBtYi0yIgogICAgICAgICAgICBmb3I9IndpY2tldF9kb29ycyI+CiAgICAgICAgICAgIFdpY2tldCBkb29ycwogICAgICAgICAgPC9sYWJlbD4KCiAgICAgICAgICA8aW5wdXQgaWQ9IndpY2tldF9kb29ycyIKICAgICAgICAgICAgbmFtZT0id2lja2V0X2Rvb3JzIgogICAgICAgICAgICBkYXRhLXZ2LWFzPSJ3aWNrZXQgZG9vcnMiCiAgICAgICAgICAgIHYtdmFsaWRhdGU9IidyZXF1aXJlZHxtYXhfdmFsdWU6MTAwJyIKICAgICAgICAgICAgcGxhY2Vob2xkZXI9IjEiCiAgICAgICAgICAgIG1pbj0iMCIKICAgICAgICAgICAgbWF4PSIxMDAiCiAgICAgICAgICAgIHYtbW9kZWw9Im9mZmVyLndpY2tldF9kb29ycyIKICAgICAgICAgICAgdHlwZT0ibnVtYmVyIgogICAgICAgICAgICBjbGFzcz0idy1mdWxsIGZvcm0tY29udHJvbCBmb3JtLWlucHV0IGZvcm0taW5wdXQtYm9yZGVyZWQiCiAgICAgICAgICAgIDpjbGFzcz0idnZFcnJvcnMuaGFzKCd3aWNrZXRfZG9vcnMnKSA/ICdib3JkZXItZGFuZ2VyJyA6ICcnIgogICAgICAgICAgPgoKICAgICAgICAgIDxwIGNsYXNzPSJ0ZXh0LWRhbmdlciBteS0yIj4KICAgICAgICAgICAge3sgdnZFcnJvcnMuZmlyc3QoJ3dpY2tldF9kb29ycycpIH19CiAgICAgICAgICA8L3A+Cg==</text>
+      <register name="1" type="4">
+        <text>{
+        1: 'Netherlands',
+        2: 'Belgium',
+      },</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RlcD0iNSJkCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIG51bWJlci1maWVsZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsYWJlbCBjbGFzcz0iYmxvY2sgdXBwZXJjYXNlIHRyYWNraW5nLXdpZGUgdGV4dC1ncmV5LWRhcmtlciB0ZXh0LXhzIGZvbnQtYm9sZCBtYi0yIgogICAgICAgICAgICBmb3I9ImNvYXRpbmciPgogICAgICAgICAgICBDb2F0aW5nCiAgICAgICAgICA8L2xhYmVsPgoKICAgICAgICAgIDxzZWxlY3QgaWQ9ImNvYXRpbmciCiAgICAgICAgICAgIG5hbWU9ImNvYXRpbmciCiAgICAgICAgICAgIGRhdGEtdnYtYXM9ImNvYXRpbmciCiAgICAgICAgICAgIHYtdmFsaWRhdGU9IidyZXF1aXJlZCciCiAgICAgICAgICAgIHYtbW9kZWw9Im9mZmVyLmNvYXRpbmciCiAgICAgICAgICAgIGNsYXNzPSJ3LWZ1bGwgZm9ybS1jb250cm9sIGZvcm0taW5wdXQgZm9ybS1pbnB1dC1ib3JkZXJlZCIKICAgICAgICAgICAgOmNsYXNzPSJ2dkVycm9ycy5oYXMoJ2NvYXRpbmcnKSA/ICdib3JkZXItZGFuZ2VyJyA6ICcnIgogICAgICAgICAgPgogICAgICAgICAgICA8b3B0aW9uIDp2YWx1ZT0ibnVsbCI+Q2hvb3NlIGEgY29hdGluZzwvb3B0aW9uPgogICAgICAgICAgICA8b3B0aW9uIDp2YWx1ZT0iY29hdGluZy52YWx1ZSIgdi1mb3I9ImNvYXRpbmcgaW4gYXZhaWxhYmxlQ29hdGluZ3MiPgogICAgICAgICAgICAgIHt7IGNvYXRpbmcubmFtZSB9fQogICAgICAgICAgICA8L29wdGlvbj4KICAgICAgICAgIDwvc2VsZWN0PgoKICAgICAgICAgIDxwIGNsYXNzPSJ0ZXh0LWRhbmdlciBteS0yIj4KICAgICAgICAgICAge3sgdnZFcnJvcnMuZmlyc3QoJ2NvYXRpbmcnKSB9fQogICAgICAgICAgPC9wPgo=</text>
+      <register name="4" type="4">
+        <text>[
+        [
+
+        ]
+      ]</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsYWJlbCBjbGFzcz0iYmxvY2sgdXBwZXJjYXNlIHRyYWNraW5nLXdpZGUgdGV4dC1ncmV5LWRhcmtlciB0ZXh0LXhzIGZvbnQtYm9sZCBtYi0yIgogICAgICAgICAgICBmb3I9InJvb2ZfcGxhdGluZyI+CiAgICAgICAgICAgIFJvb2YgcGxhdGluZwogICAgICAgICAgPC9sYWJlbD4KCiAgICAgICAgICA8c2VsZWN0IGlkPSJyb29mX3BsYXRpbmciCiAgICAgICAgICAgIG5hbWU9InJvb2ZfcGxhdGluZyIKICAgICAgICAgICAgZGF0YS12di1hcz0icm9vZiBwbGF0aW5nIgogICAgICAgICAgICB2LXZhbGlkYXRlPSIncmVxdWlyZWQnIgogICAgICAgICAgICB2LW1vZGVsPSJvZmZlci5yb29mX3BsYXRpbmciCiAgICAgICAgICAgIGNsYXNzPSJ3LWZ1bGwgZm9ybS1jb250cm9sIGZvcm0taW5wdXQgZm9ybS1pbnB1dC1ib3JkZXJlZCIKICAgICAgICAgICAgOmNsYXNzPSJ2dkVycm9ycy5oYXMoJ3Jvb2ZfcGxhdGluZycpID8gJ2JvcmRlci1kYW5nZXInIDogJyciCiAgICAgICAgICA+CiAgICAgICAgICAgIDxvcHRpb24gOnZhbHVlPSJudWxsIj5DaG9vc2UgYSBwbGF0aW5nPC9vcHRpb24+CiAgICAgICAgICAgIDx0ZW1wbGF0ZSB2LWlmPSJvZmZlci5pbnN1bGF0ZWQiPgoKICAgICAgICAgICAgICA8b3B0aW9uIDp2YWx1ZT0icGxhdGluZy52YWx1ZSIgdi1mb3I9InBsYXRpbmcgaW4gZHJvcGRvd25zLnJvb2ZQbGF0aW5nLmluc3VsYXRlZCI+e3sgcGxhdGluZy5uYW1lCiAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgIDwvb3B0aW9uPgogICAgICAgICAgICA8L3RlbXBsYXRlPgogICAgICAgICAgICA8dGVtcGxhdGUgdi1lbHNlPgogICAgICAgICAgICAgIDxvcHRpb24gOnZhbHVlPSJwbGF0aW5nLnZhbHVlIiB2LWZvcj0icGxhdGluZyBpbiBkcm9wZG93bnMucm9vZlBsYXRpbmcudW5pbnN1bGF0ZWQiPnt7IHBsYXRpbmcubmFtZQogICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICA8L29wdGlvbj4KICAgICAgICAgICAgPC90ZW1wbGF0ZT4KICAgICAgICAgIDwvc2VsZWN0PgoKICAgICAgICAgIDxwIGNsYXNzPSJ0ZXh0LWRhbmdlciBteS0yIj4KICAgICAgICAgICAge3sgdnZFcnJvcnMuZmlyc3QoJ3Jvb2ZfcGxhdGluZycpIH19CiAgICAgICAgICA8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxsYWJlbCBjbGFzcz0iYmxvY2sgdXBwZXJjYXNlIHRyYWNraW5nLXdpZGUgdGV4dC1ncmV5LWRhcmtlciB0ZXh0LXhzIGZvbnQtYm9sZCBtYi0yIgogICAgICAgICAgICA6Zm9yPSJgcHJvZHVjdC1wcmljZS0ke2luZGV4fWAiPgogICAgICAgICAgICBQcmljZQogICAgICAgICAgPC9sYWJlbD4KCiAgICAgICAgICA8aW5wdXQgOmlkPSJgcHJvZHVjdC1wcmljZS0ke2luZGV4fWAiCiAgICAgICAgICAgIDpuYW1lPSJgcHJvZHVjdC1wcmljZS0ke2luZGV4fWAiCiAgICAgICAgICAgIGRhdGEtdnYtYXM9InByaWNlIgogICAgICAgICAgICB2LXZhbGlkYXRlPSIncmVxdWlyZWQnIgogICAgICAgICAgICB2LW1vZGVsPSJwcm9kdWN0LnByaWNlIgogICAgICAgICAgICB0eXBlPSJudW1iZXIiCiAgICAgICAgICAgIGNsYXNzPSJ3LWZ1bGwgZm9ybS1jb250cm9sIGZvcm0taW5wdXQgZm9ybS1pbnB1dC1ib3JkZXJlZCIKICAgICAgICAgICAgOmNsYXNzPSJ2dkVycm9ycy5oYXMoYHByb2R1Y3QtcHJpY2UtJHtpbmRleH1gKSA/ICdib3JkZXItZGFuZ2VyJyA6ICcnIgogICAgICAgICAgPgoKICAgICAgICAgIDxwIGNsYXNzPSJ0ZXh0LWRhbmdlciBteS0yIj4KICAgICAgICAgICAge3sgdnZFcnJvcnMuZmlyc3QoYHByb2R1Y3QtcHJpY2UtJHtpbmRleH1gKSB9fQogICAgICAgICAgPC9wPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsYWJlbCBjbGFzcz0iYmxvY2sgdXBwZXJjYXNlIHRyYWNraW5nLXdpZGUgdGV4dC1ncmV5LWRhcmtlciB0ZXh0LXhzIGZvbnQtYm9sZCBtYi0yIgogICAgICAgICAgICBmb3I9IndhbGxfcGxhdGluZyI+CiAgICAgICAgICAgIFdhbGwgcGxhdGluZwogICAgICAgICAgPC9sYWJlbD4KCiAgICAgICAgICA8c2VsZWN0IGlkPSJ3YWxsX3BsYXRpbmciCiAgICAgICAgICAgIG5hbWU9IndhbGxfcGxhdGluZyIKICAgICAgICAgICAgZGF0YS12di1hcz0id2FsbCBwbGF0aW5nIgogICAgICAgICAgICB2LXZhbGlkYXRlPSIncmVxdWlyZWQnIgogICAgICAgICAgICB2LW1vZGVsPSJvZmZlci53YWxsX3BsYXRpbmciCiAgICAgICAgICAgIGNsYXNzPSJ3LWZ1bGwgZm9ybS1jb250cm9sIGZvcm0taW5wdXQgZm9ybS1pbnB1dC1ib3JkZXJlZCIKICAgICAgICAgICAgOmNsYXNzPSJ2dkVycm9ycy5oYXMoJ3dhbGxfcGxhdGluZycpID8gJ2JvcmRlci1kYW5nZXInIDogJyciCiAgICAgICAgICA+CiAgICAgICAgICAgIDxvcHRpb24gOnZhbHVlPSJudWxsIj5DaG9vc2UgYSBwbGF0aW5nPC9vcHRpb24+CiAgICAgICAgICAgIDx0ZW1wbGF0ZSB2LWlmPSJvZmZlci5pbnN1bGF0ZWQiPgogICAgICAgICAgICAgIDxvcHRpb24gOnZhbHVlPSJwbGF0aW5nLnZhbHVlIiB2LWZvcj0icGxhdGluZyBpbiBkcm9wZG93bnMud2FsbFBsYXRpbmcuaW5zdWxhdGVkIj57eyBwbGF0aW5nLm5hbWUKICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgPC9vcHRpb24+CiAgICAgICAgICAgIDwvdGVtcGxhdGU+CiAgICAgICAgICAgIDx0ZW1wbGF0ZSB2LWVsc2U+CiAgICAgICAgICAgICAgPG9wdGlvbiA6dmFsdWU9InBsYXRpbmcudmFsdWUiIHYtZm9yPSJwbGF0aW5nIGluIGRyb3Bkb3ducy53YWxsUGxhdGluZy51bmluc3VsYXRlZCI+e3sgcGxhdGluZy5uYW1lCiAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgIDwvb3B0aW9uPgogICAgICAgICAgICA8L3RlbXBsYXRlPgogICAgICAgICAgPC9zZWxlY3Q+CgogICAgICAgICAgPHAgY2xhc3M9InRleHQtZGFuZ2VyIG15LTIiPgogICAgICAgICAgICB7eyB2dkVycm9ycy5maXJzdCgnd2FsbF9wbGF0aW5nJykgfX0KICAgICAgICAgIDwvcD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RlcD0iMC4wMSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIDxsYWJlbCBjbGFzcz0iYmxvY2sgdXBwZXJjYXNlIHRyYWNraW5nLXdpZGUgdGV4dC1ncmV5LWRhcmtlciB0ZXh0LXhzIGZvbnQtYm9sZCBtYi0yIgogICAgICAgICAgICA6Zm9yPSJgcHJvZHVjdC1jb3VudC0ke2luZGV4fWAiPgogICAgICAgICAgICBDb3VudAogICAgICAgICAgPC9sYWJlbD4KCiAgICAgICAgICA8aW5wdXQgOmlkPSJgcHJvZHVjdC1jb3VudC0ke2luZGV4fWAiCiAgICAgICAgICAgIDpuYW1lPSJgcHJvZHVjdC1jb3VudC0ke2luZGV4fWAiCiAgICAgICAgICAgIGRhdGEtdnYtYXM9ImNvdW50IgogICAgICAgICAgICB2LXZhbGlkYXRlPSIncmVxdWlyZWQnIgogICAgICAgICAgICB2LW1vZGVsPSJwcm9kdWN0LmNvdW50IgogICAgICAgICAgICB0eXBlPSJudW1iZXIiCiAgICAgICAgICAgIGNsYXNzPSJ3LWZ1bGwgZm9ybS1jb250cm9sIGZvcm0taW5wdXQgZm9ybS1pbnB1dC1ib3JkZXJlZCIKICAgICAgICAgICAgOmNsYXNzPSJ2dkVycm9ycy5oYXMoYHByb2R1Y3QtY291bnQtJHtpbmRleH1gKSA/ICdib3JkZXItZGFuZ2VyJyA6ICcnIgogICAgICAgICAgPgoKICAgICAgICAgIDxwIGNsYXNzPSJ0ZXh0LWRhbmdlciBteS0yIj4KICAgICAgICAgICAge3sgdnZFcnJvcnMuZmlyc3QoYHByb2R1Y3QtY291bnQtJHtpbmRleH1gKSB9fQogICAgICAgICAgPC9wPgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -426,30 +426,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWluPSI0MDAwIgogICAgICAgICAgICBtYXg9IjE1MDBWa2tkMCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgIC8vIDx0ZW1wbGF0ZSB2LWlmPSJvZmZlci5pbnN1bGF0ZWQiPgogICAgICAvLyAgICAgPG9wdGlvbiA6dmFsdWU9InBsYXRpbmcudmFsdWUiIHYtZm9yPSJwbGF0aW5nIGluIGRyb3Bkb3ducy53YWxsUGxhdGluZy5pbnN1bGF0ZWQiPnt7IHBsYXRpbmcubmFtZQogICAgICAvLyAgIH19CiAgICAgIC8vIDwvb3B0aW9uPgogICAgICAvLyAgIDwvdGVtcGxhdGU+CiAgICAgIC8vICAgPHRlbXBsYXRlIHYtZWxzZT4KICAgICAgLy8gPG9wdGlvbiA6dmFsdWU9InBsYXRpbmcudmFsdWUiIHYtZm9yPSJwbGF0aW5nIGluIGRyb3Bkb3ducy53YWxsUGxhdGluZy51bmluc3VsYXRlZCI+e3sgcGxhdGluZy5uYW1lCiAgICAgIC8vICAgfX0KICAgICAgLy8gPC9vcHRpb24+CiAgICAgIC8vICAgPC90ZW1wbGF0ZT4KICAgICAgLy8gICA8L3NlbGVjdD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3dhbGwvcm9vZi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>number-f</last-search>
+      <last-search>enum</last-search>
       <last-offset />
-      <last-pattern>number-f</last-pattern>
+      <last-pattern>enum</last-pattern>
       <last-replace>roof</last-replace>
       <last-substitute>wall</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cre</entry>
-        <entry>comp</entry>
-        <entry>count</entry>
-        <entry>min</entry>
         <entry>_group</entry>
         <entry>frame</entry>
         <entry>data</entry>
@@ -466,6 +462,10 @@
         <entry>insu</entry>
         <entry>wall</entry>
         <entry>number-f</entry>
+        <entry>provinces</entry>
+        <entry>count</entry>
+        <entry>country</entry>
+        <entry>enum</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NvdW50L21heC9n</entry>
