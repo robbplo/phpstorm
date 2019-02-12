@@ -347,11 +347,12 @@
         <mark key="^" line="22" column="27" />
         <mark key="." line="22" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/Product.php" timestamp="1549959641747">
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/Product.php" timestamp="1549960588799">
         <mark key="'" line="74" column="10" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+        <mark key="[" line="141" column="82" />
+        <mark key="]" line="141" column="83" />
+        <mark key="." line="141" column="83" />
+        <mark key="^" line="141" column="82" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/WindowFrames.php" timestamp="1548074091977">
         <mark key="'" line="0" column="0" />
@@ -574,11 +575,12 @@
         <mark key="^" line="10" column="63" />
         <mark key="." line="10" column="63" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/Attribute.php" timestamp="1549468309627">
-        <mark key="[" line="44" column="5" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="56" column="34" />
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/Attribute.php" timestamp="1549960671120">
+        <mark key="'" line="108" column="22" />
+        <mark key="[" line="108" column="23" />
+        <mark key="]" line="108" column="22" />
+        <mark key="." line="108" column="22" />
+        <mark key="^" line="108" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Providers/EventServiceProvider.php" timestamp="1549369233438">
         <mark key="'" line="48" column="0" />
@@ -759,8 +761,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="44" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Planning/Jetty/Schedule.vue" />
-      <jump line="114" column="45" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Planning/Jetty/Schedule.vue" />
       <jump line="171" column="30" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Planning/Jetty/Schedule.vue" />
       <jump line="42" column="0" filename="$USER_HOME$/Projects/apotheker/app/Providers/EventServiceProvider.php" />
       <jump line="30" column="9" filename="$USER_HOME$/Projects/apotheker/app/Providers/EventServiceProvider.php" />
@@ -859,13 +859,15 @@
       <jump line="74" column="10" filename="$USER_HOME$/Projects/materialen/app/Nova/Product.php" />
       <jump line="47" column="24" filename="$USER_HOME$/Projects/materialen/app/Product.php" />
       <jump line="26" column="32" filename="$USER_HOME$/Projects/materialen/app/Product.php" />
+      <jump line="59" column="0" filename="$USER_HOME$/Projects/materialen/app/Nova/Attribute.php" />
+      <jump line="108" column="22" filename="$USER_HOME$/Projects/materialen/app/Nova/Attribute.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, $slug</text>
       </register>
       <register name="/" type="4">
         <text>gend</text>
@@ -874,28 +876,28 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHBhcmVudDo6dG9BcnJheSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJlbG9uZ3NUbzo6bWFrZSgnUHJvZHVjdFNjaGVtYScpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGV4dDo6bWFrZSgnRGVmYXVsdCcpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50Ojp0b0FycmF5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYXR0cmlidXRlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJlbG9uZ3NUbzo6bWFrZSgnUHJvZHVjdFNjaGVtYScpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50Ojp0b0FycmF5KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHNjaGVtYSA9PT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gW107CiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYXR0cmlidXRlcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -925,10 +927,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkYXR0cmlidXRlcyA9ICR0aGlzLT5tb2RlbCgpLT5hdHRyaWJ1dGVzKCk7CgogICAgICAgIC8vIHJldHVybiAkYXR0cmlidXRlcy0+bWFwKGZ1bmN0aW9uICgkYXR0cmlidXRlLCAkc2x1ZykgewoK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHNjaGVtYSA9PT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gW107CiAgICAgICAgfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEhhc09uZTo6bWFrZSgnJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1NBTkRXSUNIL00=</text>
