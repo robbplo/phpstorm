@@ -148,12 +148,11 @@
         <mark key="^" line="36" column="5" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/nova-components/PriceScale/src/PriceScale.php" timestamp="1550220438522">
-        <mark key="'" line="48" column="42" />
-        <mark key="[" line="32" column="35" />
-        <mark key="]" line="32" column="33" />
-        <mark key="." line="32" column="33" />
-        <mark key="^" line="32" column="33" />
+      <file name="$USER_HOME$/Projects/materialen/nova-components/PriceScale/src/PriceScale.php" timestamp="1550229563982">
+        <mark key="'" line="47" column="42" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Exceptions/Handler.php" timestamp="1550221761921">
         <mark key="'" line="0" column="0" />
@@ -190,6 +189,12 @@
         <mark key="^" line="15" column="45" />
         <mark key="." line="15" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Exceptions/Handler.php" timestamp="1550229162533">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="64" column="51" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Http/Resources/Attribute.php" timestamp="1550136608384">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -201,7 +206,7 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/Price.php" timestamp="1550221658069">
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/Price.php" timestamp="1550228879129">
         <mark key="[" line="51" column="10" />
         <mark key="]" line="49" column="9" />
         <mark key="." line="49" column="9" />
@@ -321,6 +326,12 @@
         <mark key="]" line="44" column="86" />
         <mark key="." line="44" column="86" />
         <mark key="^" line="44" column="86" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_02_06_164043_create_attribute_group_attribute_table.php" timestamp="1549896557410">
+        <mark key="'" line="24" column="12" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/nova-components/DiscountScale/src/DiscountScale.php" timestamp="1550148464694">
         <mark key="'" line="38" column="16" />
@@ -817,6 +828,12 @@
         <mark key="." line="57" column="58" />
         <mark key="^" line="57" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/apotheker/app/Product.php" timestamp="1549354858824">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="43" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen-pwa/store/modules/categories.js" timestamp="1547453932231">
         <mark key="'" line="54" column="0" />
         <mark key="[" line="18" column="29" />
@@ -1004,7 +1021,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">JGFsaWFzZXMgPSBbXTsKZm9yZWFjaCAoJHBhZ2VzIGFzICRwYWdlKSB7CiAgICAkcGFnZUlkID0gJGNvbnRlbnRPcHMtPkdldFBhZ2VJREZyb21BbGlhcygkcGFnZS0+QWxpYXMoKSk7CiAgICAkcGFnZUNvbnRlbnQgPSAkY29udGVudE9wcy0+TG9hZENvbnRlbnRGcm9tSWQoJHBhZ2VJZCk7CiAgICAkdGVtcGxhdGVJZCA9ICRwYWdlQ29udGVudC0+dGVtcGxhdGVJZCgpOwogICAgJHRlbXBsYXRlTG9hZCA9IENtc0xheW91dFRlbXBsYXRlOjpsb2FkKCR0ZW1wbGF0ZUlkKTsKICAgICR0ZW1wbGF0ZU5hbWUgPSAkdGVtcGxhdGVMb2FkLT5nZXRfbmFtZSgpOwoKICAgIGlmICgkdGVtcGxhdGVOYW1lID09ICdQcm9kdWN0JykgewogICAgICAgICRhbGlhc2VzW10gPSAkcGFnZS0+QWxpYXMoKTsKICAgIH0KCn0KCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cnVsZXNbXSA9ICdyZXF1aXJlZCc7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>pages</text>
@@ -1012,32 +1029,32 @@
       <register name="/" type="4">
         <text>price</text>
       </register>
-      <register name="0" type="4">
-        <text>CmsLayoutTemplate::load($templateId);</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjpyZW5kZXIoJHJlcXVlc3QsICRleGNlcHRpb24pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JGFsaWFzZXMgPSBbXTsKZm9yZWFjaCAoJHBhZ2VzIGFzICRwYWdlKSB7CiAgICAkcGFnZUlkID0gJGNvbnRlbnRPcHMtPkdldFBhZ2VJREZyb21BbGlhcygkcGFnZS0+QWxpYXMoKSk7CiAgICAkcGFnZUNvbnRlbnQgPSAkY29udGVudE9wcy0+TG9hZENvbnRlbnRGcm9tSWQoJHBhZ2VJZCk7CiAgICAkdGVtcGxhdGVJZCA9ICRwYWdlQ29udGVudC0+dGVtcGxhdGVJZCgpOwogICAgJHRlbXBsYXRlTG9hZCA9IENtc0xheW91dFRlbXBsYXRlOjpsb2FkKCR0ZW1wbGF0ZUlkKTsKICAgICR0ZW1wbGF0ZU5hbWUgPSAkdGVtcGxhdGVMb2FkLT5nZXRfbmFtZSgpOwoKICAgIGlmICgkdGVtcGxhdGVOYW1lID09ICdQcm9kdWN0JykgewogICAgICAgICRhbGlhc2VzW10gPSAkcGFnZS0+QWxpYXMoKTsKICAgIH0KCn0KCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cnVsZXNbXSA9ICdyZXF1aXJlZCc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXNwb25zZSgpLT5qc29uKFsKICAgICAgICAgICAgICAgICAgICAnZXJyb3JzJyA9PiAkZXhjZXB0aW9uLT5lcnJvcnMoKSwKICAgICAgICAgICAgICAgIF0sIDQwMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgoKdXNvcnQoJHBhZ2VzLCBmdW5jdGlvbiAoJGEsICRiKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoTm92YSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHJlcXVlc3QtPmV4cGVjdHNKc29uKCkpIHsKICAgICAgICAgICAgaWYgKCRleGNlcHRpb24gaW5zdGFuY2VvZiBWYWxpZGF0aW9uRXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+anNvbihbCiAgICAgICAgICAgICAgICAgICAgJ2Vycm9ycycgPT4gJGV4Y2VwdGlvbi0+ZXJyb3JzKCksCiAgICAgICAgICAgICAgICBdLCA0MDApOwogICAgICAgICAgICB9CgogICAgICAgICAgICBpZiAoJGV4Y2VwdGlvbiBpbnN0YW5jZW9mIEh0dHBFeGNlcHRpb24pIHsKICAgICAgICAgICAgICAgICRzdGF0dXMgPSAkZXhjZXB0aW9uLT5nZXRTdGF0dXNDb2RlKCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiByZXNwb25zZSgpLT5qc29uKFsKICAgICAgICAgICAgICAgICdleGNlcHRpb24nID0+IGdldF9jbGFzcygkZXhjZXB0aW9uKSwKICAgICAgICAgICAgICAgICdtZXNzYWdlJyA9PiAkZXhjZXB0aW9uLT5nZXRNZXNzYWdlKCksCiAgICAgICAgICAgIF0sICRzdGF0dXMgPz8gNTAwKTsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JGFsaWFzZXMgPSBbXTsK</text>
+        <text encoding="base64">JGFsaWFzZXMgPSBbXTsKZm9yZWFjaCAoJHBhZ2VzIGFzICRwYWdlKSB7CiAgICAkcGFnZUlkID0gJGNvbnRlbnRPcHMtPkdldFBhZ2VJREZyb21BbGlhcygkcGFnZS0+QWxpYXMoKSk7CiAgICAkcGFnZUNvbnRlbnQgPSAkY29udGVudE9wcy0+TG9hZENvbnRlbnRGcm9tSWQoJHBhZ2VJZCk7CiAgICAkdGVtcGxhdGVJZCA9ICRwYWdlQ29udGVudC0+dGVtcGxhdGVJZCgpOwogICAgJHRlbXBsYXRlTG9hZCA9IENtc0xheW91dFRlbXBsYXRlOjpsb2FkKCR0ZW1wbGF0ZUlkKTsKICAgICR0ZW1wbGF0ZU5hbWUgPSAkdGVtcGxhdGVMb2FkLT5nZXRfbmFtZSgpOwoKICAgIGlmICgkdGVtcGxhdGVOYW1lID09ICdQcm9kdWN0JykgewogICAgICAgICRhbGlhc2VzW10gPSAkcGFnZS0+QWxpYXMoKTsKICAgIH0KCn0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JGdDbXMgPSBjbXNtcygpOwo=</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gKCRhdHRyaWJ1dGUsICR2YWx1ZSwgJGZhaWwpIHsKICAgICAgICAgICAgJHZhbGlkID0gY29sbGVjdChqc29uX2RlY29kZSgkdmFsdWUsIHRydWUpKS0+ZXZlcnkoZnVuY3Rpb24gKCRzY2FsZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGNvbGxlY3QoJHNjYWxlWydlcnJvcnMnXSktPnZhbHVlcygpLT5ldmVyeShmdW5jdGlvbiAoJGVycm9yKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICRlcnJvciA9PT0gbnVsbDsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIGlmICghICR2YWxpZCkgewogICAgICAgICAgICAgICAgJGZhaWwoJ1Jlc29sdmUgYWxsIHZhbGlkYXRpb24gZXJyb3JzJyk7CiAgICAgICAgICAgIH0KICAgICAgICB9Ow==</text>
+      <register name="7" type="2">
+        <text encoding="base64">CgoKdXNvcnQoJHBhZ2VzLCBmdW5jdGlvbiAoJGEsICRiKSB7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1066,11 +1083,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gKCRhdHRyaWJ1dGUsICR2YWx1ZSwgJGZhaWwpIHsKICAgICAgICAgICAgJHZhbGlkID0gY29sbGVjdChqc29uX2RlY29kZSgkdmFsdWUsIHRydWUpKS0+ZXZlcnkoZnVuY3Rpb24gKCRzY2FsZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGNvbGxlY3QoJHNjYWxlWydlcnJvcnMnXSktPnZhbHVlcygpLT5ldmVyeShmdW5jdGlvbiAoJGVycm9yKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICRlcnJvciA9PT0gbnVsbDsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9KTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+ZGVmYQo=</text>
+        <text encoding="base64">JGFsaWFzZXMgPSBbXTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/discount/value/g</text>
