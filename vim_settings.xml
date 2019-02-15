@@ -479,6 +479,9 @@
         <mark key="." line="117" column="0" />
         <mark key="^" line="116" column="48" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php" timestamp="1550226469472">
+        <mark key="^" line="12" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Price.php" timestamp="1550156933381">
         <mark key="[" line="17" column="61" />
         <mark key="]" line="17" column="59" />
@@ -898,7 +901,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="0" filename="$USER_HOME$/Projects/vetclass/app/Http/Routes/Frontend/Frontend.php" />
       <jump line="43" column="0" filename="$USER_HOME$/Projects/finish-building/app/Enums/BuildingWallPlating.php" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/finish-building/app/Enums/BuildingWindowFrameColors.php" />
       <jump line="812" column="33" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
@@ -998,43 +1000,44 @@
       <jump line="60" column="29" filename="$USER_HOME$/Projects/materialen/app/Nova/Product.php" />
       <jump line="784" column="37" filename="$USER_HOME$/Projects/materialen/storage/logs/laravel-2019-02-14.log" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/apotheker/app/Exceptions/Handler.php" />
+      <jump line="18" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">JGFsaWFzZXMgPSBbXTsKZm9yZWFjaCAoJHBhZ2VzIGFzICRwYWdlKSB7CiAgICAkcGFnZUlkID0gJGNvbnRlbnRPcHMtPkdldFBhZ2VJREZyb21BbGlhcygkcGFnZS0+QWxpYXMoKSk7CiAgICAkcGFnZUNvbnRlbnQgPSAkY29udGVudE9wcy0+TG9hZENvbnRlbnRGcm9tSWQoJHBhZ2VJZCk7CiAgICAkdGVtcGxhdGVJZCA9ICRwYWdlQ29udGVudC0+dGVtcGxhdGVJZCgpOwogICAgJHRlbXBsYXRlTG9hZCA9IENtc0xheW91dFRlbXBsYXRlOjpsb2FkKCR0ZW1wbGF0ZUlkKTsKICAgICR0ZW1wbGF0ZU5hbWUgPSAkdGVtcGxhdGVMb2FkLT5nZXRfbmFtZSgpOwoKICAgIGlmICgkdGVtcGxhdGVOYW1lID09ICdQcm9kdWN0JykgewogICAgICAgICRhbGlhc2VzW10gPSAkcGFnZS0+QWxpYXMoKTsKICAgIH0KCn0KCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>pages</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
       </register>
       <register name="0" type="4">
-        <text>parent::toArray()</text>
+        <text>CmsLayoutTemplate::load($templateId);</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gKCRhdHRyaWJ1dGUsICR2YWx1ZSwgJGZhaWwpIHsKICAgICAgICAgICAgJHZhbGlkID0gY29sbGVjdChqc29uX2RlY29kZSgkdmFsdWUsIHRydWUpKS0+ZXZlcnkoZnVuY3Rpb24gKCRzY2FsZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGNvbGxlY3QoJHNjYWxlWydlcnJvcnMnXSktPnZhbHVlcygpLT5ldmVyeShmdW5jdGlvbiAoJGVycm9yKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICRlcnJvciA9PT0gbnVsbDsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIGlmICghICR2YWxpZCkgewogICAgICAgICAgICAgICAgJGZhaWwoJ1Jlc29sdmUgYWxsIHZhbGlkYXRpb24gZXJyb3JzJyk7CiAgICAgICAgICAgIH0KICAgICAgICB9Ow==</text>
+      <register name="1" type="2">
+        <text encoding="base64">JGFsaWFzZXMgPSBbXTsKZm9yZWFjaCAoJHBhZ2VzIGFzICRwYWdlKSB7CiAgICAkcGFnZUlkID0gJGNvbnRlbnRPcHMtPkdldFBhZ2VJREZyb21BbGlhcygkcGFnZS0+QWxpYXMoKSk7CiAgICAkcGFnZUNvbnRlbnQgPSAkY29udGVudE9wcy0+TG9hZENvbnRlbnRGcm9tSWQoJHBhZ2VJZCk7CiAgICAkdGVtcGxhdGVJZCA9ICRwYWdlQ29udGVudC0+dGVtcGxhdGVJZCgpOwogICAgJHRlbXBsYXRlTG9hZCA9IENtc0xheW91dFRlbXBsYXRlOjpsb2FkKCR0ZW1wbGF0ZUlkKTsKICAgICR0ZW1wbGF0ZU5hbWUgPSAkdGVtcGxhdGVMb2FkLT5nZXRfbmFtZSgpOwoKICAgIGlmICgkdGVtcGxhdGVOYW1lID09ICdQcm9kdWN0JykgewogICAgICAgICRhbGlhc2VzW10gPSAkcGFnZS0+QWxpYXMoKTsKICAgIH0KCn0KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gKCRhdHRyaWJ1dGUsICR2YWx1ZSwgJGZhaWwpIHsKICAgICAgICAgICAgJHZhbGlkID0gY29sbGVjdChqc29uX2RlY29kZSgkdmFsdWUsIHRydWUpKS0+ZXZlcnkoZnVuY3Rpb24gKCRzY2FsZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGNvbGxlY3QoJHNjYWxlWydlcnJvcnMnXSktPnZhbHVlcygpLT5ldmVyeShmdW5jdGlvbiAoJGVycm9yKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICRlcnJvciA9PT0gbnVsbDsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9KTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+ZGVmYQo=</text>
+        <text encoding="base64">CgoKdXNvcnQoJHBhZ2VzLCBmdW5jdGlvbiAoJGEsICRiKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+ZGVmYXVsCg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
+        <text encoding="base64">JGFsaWFzZXMgPSBbXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxGaWVsZHNcSGFzT25lOwo=</text>
+        <text encoding="base64">JGdDbXMgPSBjbXNtcygpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxGaWVsZHNcTnVtYmVyOwp1c2UgTGFyYXZlbFxOb3ZhXEZpZWxkc1xTZWxlY3Q7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gKCRhdHRyaWJ1dGUsICR2YWx1ZSwgJGZhaWwpIHsKICAgICAgICAgICAgJHZhbGlkID0gY29sbGVjdChqc29uX2RlY29kZSgkdmFsdWUsIHRydWUpKS0+ZXZlcnkoZnVuY3Rpb24gKCRzY2FsZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGNvbGxlY3QoJHNjYWxlWydlcnJvcnMnXSktPnZhbHVlcygpLT5ldmVyeShmdW5jdGlvbiAoJGVycm9yKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICRlcnJvciA9PT0gbnVsbDsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIGlmICghICR2YWxpZCkgewogICAgICAgICAgICAgICAgJGZhaWwoJ1Jlc29sdmUgYWxsIHZhbGlkYXRpb24gZXJyb3JzJyk7CiAgICAgICAgICAgIH0KICAgICAgICB9Ow==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1063,11 +1066,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxGaWVsZHNcSGFzT25lOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gKCRhdHRyaWJ1dGUsICR2YWx1ZSwgJGZhaWwpIHsKICAgICAgICAgICAgJHZhbGlkID0gY29sbGVjdChqc29uX2RlY29kZSgkdmFsdWUsIHRydWUpKS0+ZXZlcnkoZnVuY3Rpb24gKCRzY2FsZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGNvbGxlY3QoJHNjYWxlWydlcnJvcnMnXSktPnZhbHVlcygpLT5ldmVyeShmdW5jdGlvbiAoJGVycm9yKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICRlcnJvciA9PT0gbnVsbDsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9KTs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxGaWVsZHNcQmVsb25nc1RvOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+ZGVmYQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/discount/value/g</text>
