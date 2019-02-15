@@ -584,11 +584,11 @@
         <mark key="." line="9" column="10" />
         <mark key="^" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/database/migrations/2019_02_07_131952_add_columns_to_offers_table.php" timestamp="1549890048926">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="31" />
-        <mark key="." line="18" column="31" />
-        <mark key="^" line="18" column="31" />
+      <file name="$USER_HOME$/Projects/finish-building/database/migrations/2019_02_07_131952_add_columns_to_offers_table.php" timestamp="1550239413042">
+        <mark key="[" line="18" column="68" />
+        <mark key="]" line="19" column="73" />
+        <mark key="." line="19" column="73" />
+        <mark key="^" line="19" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Company.php" timestamp="1549269618542">
         <mark key="'" line="39" column="0" />
@@ -661,13 +661,13 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1550238340113">
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1550239217645">
         <mark key="'" line="297" column="0" />
-        <mark key="[" line="264" column="20" />
-        <mark key="]" line="264" column="12" />
+        <mark key="[" line="264" column="12" />
+        <mark key="]" line="265" column="0" />
         <mark key="n" line="276" column="27" />
-        <mark key="^" line="264" column="12" />
-        <mark key="." line="264" column="12" />
+        <mark key="^" line="265" column="64" />
+        <mark key="." line="263" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/components/Tool.vue" timestamp="1548336099497">
         <mark key="'" line="41" column="46" />
@@ -1097,8 +1097,8 @@
       <jump line="18" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgJ3ByaWNlcycgPT4gWwogICAgICAgICAgICAgICAgJ3NhbGUnCiAgICAgICAgICAgICAgICAncHVyY2hhc2UnCiAgICAgICAgICAgIF0s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgOnJ1bGVzPSJvZmZlci5yb29mX3dpbmRvd19jb3VudCA+IDAgPyAncmVxdWlyZWQnIDogJyciCg==</text>
       </register>
       <register name="-" type="4">
         <text>pages</text>
@@ -1109,29 +1109,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHBhcmVudDo6cmVuZGVyKCRyZXF1ZXN0LCAkZXhjZXB0aW9uKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgJ3ByaWNlcycgPT4gWwogICAgICAgICAgICAgICAgJ3NhbGUnCiAgICAgICAgICAgICAgICAncHVyY2hhc2UnCiAgICAgICAgICAgIF0s</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgOnJ1bGVzPSJvZmZlci5yb29mX3dpbmRvd19jb3VudCA+IDAgPyAncmVxdWlyZWQnIDogJyciCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgJ3ByaWNlcycgPT4gWwogICAgICAgICAgICAgICAgJ3NhbGUnCiAgICAgICAgICAgICAgICAncHVyY2hhc2UnCiAgICAgICAgICAgIF0s</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50Ojp0b0FycmF5KCRyZXF1ZXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBOb3ZhOjpzZXJ2aW5nKGZ1bmN0aW9uICgpIHVzZSAoJHJlcXVlc3QsICRleGNlcHRpb24pIHsKICAgICAgICAgICAgcmV0dXJuIHBhcmVudDo6cmVuZGVyKCRyZXF1ZXN0LCAkZXhjZXB0aW9uKTsKICAgICAgICB9KTsKCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50Ojp0b0FycmF5KCRyZXF1ZXN0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXNwb25zZSgpLT5qc29uKFsKICAgICAgICAgICAgICAgICAgICAnZXJyb3JzJyA9PiAkZXhjZXB0aW9uLT5lcnJvcnMoKSwKICAgICAgICAgICAgICAgIF0sIDQwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBOb3ZhOjpzZXJ2aW5nKGZ1bmN0aW9uICgpIHVzZSAoJHJlcXVlc3QsICRleGNlcHRpb24pIHsKICAgICAgICAgICAgcmV0dXJuIHBhcmVudDo6cmVuZGVyKCRyZXF1ZXN0LCAkZXhjZXB0aW9uKTsKICAgICAgICB9KTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXNwb25zZSgpLT5qc29uKFsKICAgICAgICAgICAgICAgICAgICAnZXJyb3JzJyA9PiAkZXhjZXB0aW9uLT5lcnJvcnMoKSwKICAgICAgICAgICAgICAgIF0sIDQwMCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1161,10 +1161,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cnVsZXNbXSA9ICdyZXF1aXJlZCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXNwb25zZSgpLT5qc29uKFsKICAgICAgICAgICAgICAgICAgICAnZXJyb3JzJyA9PiAkZXhjZXB0aW9uLT5lcnJvcnMoKSwKICAgICAgICAgICAgICAgIF0sIDQwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cnVsZXNbXSA9ICdyZXF1aXJlZCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/discount/value/g</text>
