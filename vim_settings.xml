@@ -317,6 +317,14 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1550572014261">
+        <mark key="'" line="272" column="116" />
+        <mark key="[" line="272" column="88" />
+        <mark key="]" line="272" column="88" />
+        <mark key="n" line="276" column="27" />
+        <mark key="." line="272" column="88" />
+        <mark key="^" line="272" column="110" />
+      </file>
       <file name="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/components/Tool.vue" timestamp="1548336099497">
         <mark key="'" line="41" column="46" />
         <mark key="[" line="13" column="68" />
@@ -714,7 +722,6 @@
         <mark key="]" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/events/stubs/events/b206c0de-c6e1-4a52-b61f-e3642321be27.json" timestamp="1550568330787" />
       <file name="$USER_HOME$/Projects/apotheker/app/Notifications/NewCreditClaim.php" timestamp="1548663445396">
         <mark key="[" line="10" column="41" />
         <mark key="]" line="10" column="63" />
@@ -994,9 +1001,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="18" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="101" column="24" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="785" column="14" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="794" column="8" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="795" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="214" column="23" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
@@ -1094,47 +1098,46 @@
       <jump line="121" column="19" filename="$USER_HOME$/Projects/bi-sso/udn-ubn-login.js" />
       <jump line="20" column="32" filename="$USER_HOME$/Projects/bi-sso/udn-login.js" />
       <jump line="96" column="38" filename="$USER_HOME$/Projects/bi-sso/udn-login.js" />
+      <jump line="290" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="674" column="8" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="272" column="116" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGludGVuZGVkVXJsID0gaW50ZW5kZWRVcmwgfHwgbnVsbDsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGRhdGEtdnYtc2NvcGU9IndpbmRvd19mcmFtZXMi</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbnVsbA==</text>
+        <text encoding="base64">IGRhdGEtdnYtc2NvcGU9IndpbmRvd19mcmFtZXMi</text>
       </register>
       <register name="/" type="4">
-        <text>=</text>
+        <text>wall</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGludGVuZGVkVXJsID0gaW50ZW5kZWRVcmwgfHwgbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5vZmZlci5pbnN1bGF0ZWQgPyB0aGlzLmRyb3Bkb3ducy53YWxsUGxhdGluZy5pbnN1bGF0ZWQgOiB0aGlzLmRyb3Bkb3ducy53YWxsUGxhdGluZy51bmluc3VsYXRlZDsK</text>
       </register>
-      <register name="1" type="4">
-        <text>class=&quot;uk-input&quot;
-                id=&quot;event-form-location-name&quot;
-                type=&quot;text&quot;
-                placeholder=&quot;Bijv. ACIBADEM International Medical Center&quot;
-                name=&quot;location-name&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIGQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnL3NpdGVtYXAnLCAnU2l0ZW1hcENvbnRyb2xsZXJAaW5kZXgnKTsKCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2NoYW5nZScpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3dpbmRvd19mcmFtZXMuKicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWVwOiB0cnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJlcmVuZGVyID0gJHVybHMtPnBsdWNrKCd1cmwnKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5vZmZlci5pbnN1bGF0ZWQpIHsKICAgICAgICAgIHJldHVybiB0aGlzLmRyb3Bkb3ducy5yb29mUGxhdGluZy5pbnN1bGF0ZWQKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRoaXMuZHJvcGRvd25zLnJvb2ZQbGF0aW5nLnVuaW5zdWxhdGVkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJlcmVuZGVyID0gJHVybHMtPnBsdWNrKCd1cmwnKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5vZmZlci5pbnN1bGF0ZWQpIHsKICAgICAgICAgIAogICAgICAgIH0KICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aGlzLmRyb3Bkb3ducy53YWxsUGxhdGluZy5pbnN1bGF0ZWQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1164,27 +1167,30 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJlcmVuZGVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkc2l0ZW1hcC0+Z2V0VGFncygpKTsK</text>
+      <register name="9" type="4">
+        <text>class=&quot;uk-input&quot;
+                id=&quot;event-form-location-name&quot;
+                type=&quot;text&quot;
+                placeholder=&quot;Bijv. ACIBADEM International Medical Center&quot;
+                name=&quot;location-name&quot;</text>
       </register>
       <register name=":" type="4">
-        <text>s/discount/value/g</text>
+        <text>s/wall/roof/g</text>
       </register>
     </registers>
     <search>
-      <last-search>=</last-search>
+      <last-search>wall</last-search>
       <last-offset />
-      <last-pattern>=</last-pattern>
-      <last-replace>value</last-replace>
-      <last-substitute>discount</last-substitute>
+      <last-pattern>wall</last-pattern>
+      <last-replace>roof</last-replace>
+      <last-substitute>wall</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>count</entry>
         <entry>country</entry>
         <entry encoding="base64">Y29uc3Qg</entry>
         <entry encoding="base64">ID0=</entry>
@@ -1204,9 +1210,9 @@
         <entry>products</entry>
         <entry>-</entry>
         <entry>=</entry>
+        <entry>wall</entry>
       </history-search>
       <history-cmd>
-        <entry>s/Colors/Fittings/g</entry>
         <entry>s/Colors/Profiles/g</entry>
         <entry encoding="base64">JzwsJz5zL2NvbG9yL29wdGlvbg==</entry>
         <entry encoding="base64">JzwsJz5TL3R5cGUvY29sb3IvZw==</entry>
@@ -1226,6 +1232,7 @@
         <entry encoding="base64">JzwsJz5zLzsvLA==</entry>
         <entry encoding="base64">JzwsJz5zL1NBTkRXSUNIL00=</entry>
         <entry>s/discount/value/g</entry>
+        <entry>s/wall/roof/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
