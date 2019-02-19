@@ -301,11 +301,12 @@
         <mark key="^" line="18" column="31" />
         <mark key="." line="18" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/TextField.vue" timestamp="1550578161956">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="0" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/TextField.vue" timestamp="1550579570385">
+        <mark key="'" line="15" column="24" />
+        <mark key="[" line="38" column="25" />
+        <mark key="]" line="38" column="39" />
+        <mark key="." line="38" column="39" />
+        <mark key="^" line="38" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/bols/app/Nova/Activity.php" timestamp="1549445286655">
         <mark key="[" line="7" column="0" />
@@ -317,13 +318,13 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1550578257303">
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1550579586489">
         <mark key="'" line="708" column="0" />
-        <mark key="[" line="645" column="60" />
-        <mark key="]" line="644" column="23" />
+        <mark key="[" line="621" column="5" />
+        <mark key="]" line="621" column="5" />
         <mark key="n" line="276" column="27" />
-        <mark key="^" line="644" column="23" />
-        <mark key="." line="644" column="23" />
+        <mark key="." line="621" column="5" />
+        <mark key="^" line="619" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/components/Tool.vue" timestamp="1548336099497">
         <mark key="'" line="41" column="46" />
@@ -357,6 +358,7 @@
         <mark key="." line="94" column="45" />
         <mark key="^" line="94" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/package.json" timestamp="1550579461745" />
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/NumberField.vue" timestamp="1550573105258">
         <mark key="[" line="30" column="28" />
         <mark key="]" line="31" column="26" />
@@ -1001,7 +1003,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="23" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="128" column="10" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="422" column="42" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="442" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
@@ -1101,13 +1102,14 @@
       <jump line="272" column="116" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="543" column="27" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="707" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="15" column="24" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/TextField.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>vvErrors.has(name)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
@@ -1116,28 +1118,28 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5vZmZlci5pbnN1bGF0ZWQgPyB0aGlzLmRyb3Bkb3ducy53YWxsUGxhdGluZy5pbnN1bGF0ZWQgOiB0aGlzLmRyb3Bkb3ducy53YWxsUGxhdGluZy51bmluc3VsYXRlZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHByb3BzOiBbCiAgICAvLyAgICduYW1lJywKICAgIC8vICAgJ2Rpc3BsYXlOYW1lJywKICAgIC8vICAgJ3ZhbHVlJywKICAgIC8vICAgewogICAgLy8gICAgIG5hbWU6ICdydWxlcycsCiAgICAvLyAgICAgZGVmYXVsdDogJ3JlcXVpcmVkJywKICAgIC8vICAgfQogICAgLy8gXSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGB2YWxpZDogJHt2YWxpZH1gKTsK</text>
+        <text encoding="base64">ICAgIC8vIGNyZWF0ZWQgKCkgewogICAgLy8gICB0aGlzLiR2YWxpZGF0b3IgPSB0aGlzLnBhcmVudFZhbGlkYXRvcgogICAgLy8gfSwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcnVsZXM6IHsKICAgICAgICB0eXBlOiBTdHJpbmcsCiAgICAgICAgZGVmYXVsdDogJ3JlcXVpcmVkJywKICAgICAgfSwK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICA8bGFiZWwgY2xhc3M9ImJsb2NrIHVwcGVyY2FzZSB0cmFja2luZy13aWRlIHRleHQtZ3JleS1kYXJrZXIgdGV4dC14cyBmb250LWJvbGQgbWItMiIKICAgICAgOmZvcj0ibmFtZSI+CiAgICAgIHt7IGRpc3BsYXlOYW1lIH19CiAgICA8L2xhYmVsPgoKICAgIDxpbnB1dCA6aWQ9Im5hbWUiCiAgICAgIDpuYW1lPSJuYW1lIgogICAgICA6ZGF0YS12di1hcz0iZGlzcGxheU5hbWUiCiAgICAgIDp2YWx1ZT0idmFsdWUiCiAgICAgIHR5cGU9InRleHQiCiAgICAgIGNsYXNzPSJ3LWZ1bGwgZm9ybS1jb250cm9sIGZvcm0taW5wdXQgZm9ybS1pbnB1dC1ib3JkZXJlZCIKICAgICAgOmNsYXNzPSJlcnJvciAhPSBudWxsID8gJ2JvcmRlci1kYW5nZXInIDogJyciCiAgICAgIGF1dG9jb21wbGV0ZT0ib2ZmIgogICAgICBAaW5wdXQ9IiRlbWl0KCdpbnB1dCcsICRldmVudC50YXJnZXQudmFsdWUpIgogICAgPgoKICAgIDxwIGNsYXNzPSJ0ZXh0LWRhbmdlciBteS0yIj4KICAgICAge3sgZXJyb3IgfX0KICAgIDwvcD4KICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdi12YWxpZGF0ZT0icnVsZXMiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdjaGFuZ2UnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRfdmVlVmFsaWRhdGU6IHsKICAgICAgLy8gZmV0Y2ggdGhlIGN1cnJlbnQgdmFsdWUgZnJvbSB0aGUgaW5uZXJWYWx1ZSBkZWZpbmVkIGluIHRoZSBjb21wb25lbnQgZGF0YS4KICAgICAgdmFsdWUgKCkgewogICAgICAgIHJldHVybiB0aGlzLmlubmVyVmFsdWU7CiAgICAgIH0KICAgIH0sCiAgICBkYXRhOiAoKSA9PiAoewogICAgICBpbm5lclZhbHVlOiAnaW5pdGlhbCcKICAgIH0pLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gLi4uCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGB2YWxpZDogJHt2YWxpZH1gKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGQK</text>
+        <text encoding="base64">ICAgICAgcnVsZXM6IHsKICAgICAgICB0eXBlOiBTdHJpbmcsCiAgICAgICAgZGVmYXVsdDogJ3JlcXVpcmVkJywKICAgICAgfSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1167,10 +1169,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2NoYW5nZScpOwo=</text>
+        <text encoding="base64">ICAgICAgdi12YWxpZGF0ZT0icnVsZXMiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3dpbmRvd19mcmFtZXMuKicK</text>
+        <text encoding="base64">ICAgICRfdmVlVmFsaWRhdGU6IHsKICAgICAgLy8gZmV0Y2ggdGhlIGN1cnJlbnQgdmFsdWUgZnJvbSB0aGUgaW5uZXJWYWx1ZSBkZWZpbmVkIGluIHRoZSBjb21wb25lbnQgZGF0YS4KICAgICAgdmFsdWUgKCkgewogICAgICAgIHJldHVybiB0aGlzLmlubmVyVmFsdWU7CiAgICAgIH0KICAgIH0sCiAgICBkYXRhOiAoKSA9PiAoewogICAgICBpbm5lclZhbHVlOiAnaW5pdGlhbCcKICAgIH0pLAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/wall/roof/g</text>
