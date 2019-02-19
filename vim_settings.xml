@@ -175,7 +175,7 @@
         <mark key="." line="19" column="73" />
         <mark key="^" line="19" column="73" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/EnumDropdown.vue" timestamp="1550573100042">
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/EnumDropdown.vue" timestamp="1550576666338">
         <mark key="'" line="19" column="23" />
         <mark key="[" line="31" column="25" />
         <mark key="]" line="32" column="26" />
@@ -301,11 +301,11 @@
         <mark key="^" line="18" column="31" />
         <mark key="." line="18" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/TextField.vue" timestamp="1550573315593">
-        <mark key="[" line="30" column="23" />
-        <mark key="]" line="30" column="22" />
-        <mark key="^" line="30" column="22" />
-        <mark key="." line="30" column="22" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/TextField.vue" timestamp="1550578161956">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/bols/app/Nova/Activity.php" timestamp="1549445286655">
         <mark key="[" line="7" column="0" />
@@ -317,13 +317,13 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1550572014261">
-        <mark key="'" line="272" column="116" />
-        <mark key="[" line="272" column="88" />
-        <mark key="]" line="272" column="88" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1550578257303">
+        <mark key="'" line="708" column="0" />
+        <mark key="[" line="645" column="60" />
+        <mark key="]" line="644" column="23" />
         <mark key="n" line="276" column="27" />
-        <mark key="." line="272" column="88" />
-        <mark key="^" line="272" column="110" />
+        <mark key="^" line="644" column="23" />
+        <mark key="." line="644" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/components/Tool.vue" timestamp="1548336099497">
         <mark key="'" line="41" column="46" />
@@ -1001,8 +1001,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="794" column="8" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="795" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="214" column="23" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="128" column="10" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="422" column="42" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
@@ -1101,43 +1099,45 @@
       <jump line="290" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="674" column="8" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="272" column="116" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="543" column="27" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="707" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'new' // give me my own validator scope.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'new' // give me my own validator scope.</text>
+        <text>vvErrors.has(name)</text>
       </register>
       <register name="/" type="4">
-        <text>wall</text>
+        <text>debug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5vZmZlci5pbnN1bGF0ZWQgPyB0aGlzLmRyb3Bkb3ducy53YWxsUGxhdGluZy5pbnN1bGF0ZWQgOiB0aGlzLmRyb3Bkb3ducy53YWxsUGxhdGluZy51bmluc3VsYXRlZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2NoYW5nZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGB2YWxpZDogJHt2YWxpZH1gKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3dpbmRvd19mcmFtZXMuKicK</text>
+        <text encoding="base64">ICAgICAgcnVsZXM6IHsKICAgICAgICB0eXBlOiBTdHJpbmcsCiAgICAgICAgZGVmYXVsdDogJ3JlcXVpcmVkJywKICAgICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWVwOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgdi12YWxpZGF0ZT0icnVsZXMiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5vZmZlci5pbnN1bGF0ZWQpIHsKICAgICAgICAgIHJldHVybiB0aGlzLmRyb3Bkb3ducy5yb29mUGxhdGluZy5pbnN1bGF0ZWQKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRoaXMuZHJvcGRvd25zLnJvb2ZQbGF0aW5nLnVuaW5zdWxhdGVkCg==</text>
+        <text encoding="base64">ICAgICRfdmVlVmFsaWRhdGU6IHsKICAgICAgLy8gZmV0Y2ggdGhlIGN1cnJlbnQgdmFsdWUgZnJvbSB0aGUgaW5uZXJWYWx1ZSBkZWZpbmVkIGluIHRoZSBjb21wb25lbnQgZGF0YS4KICAgICAgdmFsdWUgKCkgewogICAgICAgIHJldHVybiB0aGlzLmlubmVyVmFsdWU7CiAgICAgIH0KICAgIH0sCiAgICBkYXRhOiAoKSA9PiAoewogICAgICBpbm5lclZhbHVlOiAnaW5pdGlhbCcKICAgIH0pLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5vZmZlci5pbnN1bGF0ZWQpIHsKICAgICAgICAgIAogICAgICAgIH0KICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgLy8gLi4uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aGlzLmRyb3Bkb3ducy53YWxsUGxhdGluZy5pbnN1bGF0ZWQK</text>
+        <text encoding="base64">ICAgICAgICAgIGQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1167,23 +1167,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2NoYW5nZScpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>class=&quot;uk-input&quot;
-                id=&quot;event-form-location-name&quot;
-                type=&quot;text&quot;
-                placeholder=&quot;Bijv. ACIBADEM International Medical Center&quot;
-                name=&quot;location-name&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3dpbmRvd19mcmFtZXMuKicK</text>
       </register>
       <register name=":" type="4">
         <text>s/wall/roof/g</text>
       </register>
     </registers>
     <search>
-      <last-search>wall</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>wall</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace>roof</last-replace>
       <last-substitute>wall</last-substitute>
       <last-dir>1</last-dir>
@@ -1191,7 +1187,6 @@
     </search>
     <history>
       <history-search>
-        <entry>country</entry>
         <entry encoding="base64">Y29uc3Qg</entry>
         <entry encoding="base64">ID0=</entry>
         <entry>;</entry>
@@ -1211,6 +1206,7 @@
         <entry>-</entry>
         <entry>=</entry>
         <entry>wall</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>s/Colors/Profiles/g</entry>
