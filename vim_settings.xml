@@ -144,11 +144,10 @@
         <mark key="." line="19" column="41" />
         <mark key="^" line="16" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/tool.js" timestamp="1549632231537">
-        <mark key="[" line="16" column="56" />
-        <mark key="]" line="16" column="56" />
-        <mark key="^" line="16" column="24" />
-        <mark key="." line="16" column="56" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/tool.js" timestamp="1550583001142">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Events/CreditClaimReminderOne.php" timestamp="1548409514589">
         <mark key="[" line="24" column="43" />
@@ -301,12 +300,12 @@
         <mark key="^" line="18" column="31" />
         <mark key="." line="18" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/TextField.vue" timestamp="1550581001515">
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/TextField.vue" timestamp="1550583257874">
         <mark key="'" line="15" column="24" />
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="19" column="30" />
-        <mark key="." line="19" column="9" />
-        <mark key="^" line="45" column="19" />
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/bols/app/Nova/Activity.php" timestamp="1549445286655">
         <mark key="[" line="7" column="0" />
@@ -318,13 +317,13 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1550580916968">
-        <mark key="'" line="708" column="0" />
-        <mark key="[" line="621" column="5" />
-        <mark key="]" line="621" column="5" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1550583026114">
+        <mark key="'" line="716" column="0" />
+        <mark key="[" line="613" column="16" />
+        <mark key="]" line="608" column="0" />
         <mark key="n" line="276" column="27" />
-        <mark key="." line="621" column="5" />
-        <mark key="^" line="619" column="12" />
+        <mark key="." line="608" column="0" />
+        <mark key="^" line="607" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/components/Tool.vue" timestamp="1548336099497">
         <mark key="'" line="41" column="46" />
@@ -1105,11 +1104,11 @@
       <jump line="15" column="24" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/TextField.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>error</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>{{ this.$root.$validator.errors.first(name) }}</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
@@ -1118,28 +1117,28 @@
         <text>this.$root.$validator</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIHdhdGNoOiB7CiAgICAgIHZhbHVlOiAoKSA9PiB7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBWdWUuY29tcG9uZW50KCdlbnVtLWRyb3Bkb3duJywgcmVxdWlyZSgnLi9jb21wb25lbnRzL0VudW1Ecm9wZG93bicpKTsKICAvLyBWdWUuY29tcG9uZW50KCd0ZXh0LWZpZWxkJywgcmVxdWlyZSgnLi9jb21wb25lbnRzL1RleHRGaWVsZCcpKTsKICBWdWUuY29tcG9uZW50KCdudW1iZXItZmllbGQnLCByZXF1aXJlKCcuL2NvbXBvbmVudHMvTnVtYmVyRmllbGQnKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHByb3BzOiBbCiAgICAvLyAgICduYW1lJywKICAgIC8vICAgJ2Rpc3BsYXlOYW1lJywKICAgIC8vICAgJ3ZhbHVlJywKICAgIC8vICAgewogICAgLy8gICAgIG5hbWU6ICdydWxlcycsCiAgICAvLyAgICAgZGVmYXVsdDogJ3JlcXVpcmVkJywKICAgIC8vICAgfQogICAgLy8gXSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGNyZWF0ZWQgKCkgewogICAgLy8gICB0aGlzLiR2YWxpZGF0b3IgPSB0aGlzLnBhcmVudFZhbGlkYXRvcgogICAgLy8gfSwK</text>
+        <text encoding="base64">ICAgIFZ1ZS5jb21wb25lbnQoJ2VudW0tZHJvcGRvd24nLCByZXF1aXJlKCcuL2NvbXBvbmVudHMvRW51bURyb3Bkb3duJykpOwogICAgLy8gVnVlLmNvbXBvbmVudCgndGV4dC1maWVsZCcsIHJlcXVpcmUoJy4vY29tcG9uZW50cy9UZXh0RmllbGQnKSk7CiAgICBWdWUuY29tcG9uZW50KCdudW1iZXItZmllbGQnLCByZXF1aXJlKCcuL2NvbXBvbmVudHMvTnVtYmVyRmllbGQnKSk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICA8bGFiZWwgY2xhc3M9ImJsb2NrIHVwcGVyY2FzZSB0cmFja2luZy13aWRlIHRleHQtZ3JleS1kYXJrZXIgdGV4dC14cyBmb250LWJvbGQgbWItMiIKICAgICAgOmZvcj0ibmFtZSI+CiAgICAgIHt7IGRpc3BsYXlOYW1lIH19CiAgICA8L2xhYmVsPgoKICAgIDxpbnB1dCA6aWQ9Im5hbWUiCiAgICAgIDpuYW1lPSJuYW1lIgogICAgICA6ZGF0YS12di1hcz0iZGlzcGxheU5hbWUiCiAgICAgIDp2YWx1ZT0idmFsdWUiCiAgICAgIHR5cGU9InRleHQiCiAgICAgIGNsYXNzPSJ3LWZ1bGwgZm9ybS1jb250cm9sIGZvcm0taW5wdXQgZm9ybS1pbnB1dC1ib3JkZXJlZCIKICAgICAgOmNsYXNzPSJlcnJvciAhPSBudWxsID8gJ2JvcmRlci1kYW5nZXInIDogJyciCiAgICAgIGF1dG9jb21wbGV0ZT0ib2ZmIgogICAgICBAaW5wdXQ9IiRlbWl0KCdpbnB1dCcsICRldmVudC50YXJnZXQudmFsdWUpIgogICAgPgoKICAgIDxwIGNsYXNzPSJ0ZXh0LWRhbmdlciBteS0yIj4KICAgICAge3sgZXJyb3IgfX0KICAgIDwvcD4KICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vICAgcGFyZW50VmFsaWRhdG9yOiB0aGlzLiR2YWxpZGF0b3IsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdjaGFuZ2UnKQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIHdhdGNoOiB7CiAgICAgIHZhbHVlOiAoKSA9PiB7</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1169,10 +1168,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGB2YWxpZDogJHt2YWxpZH1gKTsK</text>
+        <text encoding="base64">ICAgIC8vIHByb3BzOiBbCiAgICAvLyAgICduYW1lJywKICAgIC8vICAgJ2Rpc3BsYXlOYW1lJywKICAgIC8vICAgJ3ZhbHVlJywKICAgIC8vICAgewogICAgLy8gICAgIG5hbWU6ICdydWxlcycsCiAgICAvLyAgICAgZGVmYXVsdDogJ3JlcXVpcmVkJywKICAgIC8vICAgfQogICAgLy8gXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcnVsZXM6IHsKICAgICAgICB0eXBlOiBTdHJpbmcsCiAgICAgICAgZGVmYXVsdDogJ3JlcXVpcmVkJywKICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIC8vIGNyZWF0ZWQgKCkgewogICAgLy8gICB0aGlzLiR2YWxpZGF0b3IgPSB0aGlzLnBhcmVudFZhbGlkYXRvcgogICAgLy8gfSwK</text>
       </register>
       <register name=":" type="4">
         <text>s/wall/roof/g</text>
