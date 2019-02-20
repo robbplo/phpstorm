@@ -321,14 +321,13 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1550589210583">
-        <mark key="e" line="631" column="19" />
-        <mark key="'" line="628" column="14" />
-        <mark key="[" line="722" column="0" />
-        <mark key="]" line="722" column="0" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1550653154146">
+        <mark key="'" line="701" column="16" />
+        <mark key="[" line="709" column="6" />
+        <mark key="]" line="709" column="16" />
         <mark key="n" line="15" column="12" />
-        <mark key="." line="722" column="0" />
-        <mark key="^" line="653" column="47" />
+        <mark key="." line="709" column="16" />
+        <mark key="^" line="709" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/components/Tool.vue" timestamp="1548336099497">
         <mark key="'" line="41" column="46" />
@@ -902,6 +901,12 @@
         <mark key="." line="19" column="25" />
         <mark key="^" line="18" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/SelectField.vue" timestamp="1550653112256">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="25" />
+        <mark key="." line="29" column="25" />
+        <mark key="^" line="29" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/database/seeds/BoatsSeeder.php" timestamp="1548770842365">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -1012,7 +1017,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="615" column="18" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="654" column="8" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="372" column="34" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="373" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
@@ -1112,13 +1116,14 @@
       <jump line="453" column="40" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="464" column="47" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="628" column="14" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="701" column="16" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcm92aWRlOiB7CiAgICB0ZXR0ZW46IHRoaXMuJHZhbGlkYXRvcgogIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>EnumDropdown</text>
       </register>
       <register name="-" type="4">
-        <text>count</text>
+        <text>EnumDropdown</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -1127,28 +1132,28 @@
         <text encoding="base64">ICAgICAgICAgICAgOmVycm9yPSJ2dkVycm9ycy5maXJzdChgcHJvZHVjdC1jb3VudC0ke2luZGV4fWApIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcm92aWRlOiB7CiAgICB0ZXR0ZW46IHRoaXMuJHZhbGlkYXRvcgogIH0sCg==</text>
+        <text encoding="base64">RW51bURyb3Bkb3duLnZ1ZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3ZpZGU6IHsKICAgICAgdGV0dGVuOiB0aGlzLiR2YWxpZGF0b3IsCiAgICB9LAo=</text>
+        <text encoding="base64">ICBwcm92aWRlOiB7CiAgICB0ZXR0ZW46IHRoaXMuJHZhbGlkYXRvcgogIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOmVycm9yPSJ2dkVycm9ycy5maXJzdCgnY291bnRyeScpIgo=</text>
+        <text encoding="base64">ICAgIHByb3ZpZGU6IHsKICAgICAgdGV0dGVuOiB0aGlzLiR2YWxpZGF0b3IsCiAgICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOmVycm9yPSJ2dkVycm9ycy5maXJzdCgnZmlyc3RfbmFtZScpIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgOmVycm9yPSJ2dkVycm9ycy5maXJzdCgnY291bnRyeScpIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgOmVycm9yPSJ2dkVycm9ycy5maXJzdCgnZmlyc3RfbmFtZScpIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgOmRhdGEtdnYtYXM9ImRpc3BsYXlOYW1lIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdi12YWxpZGF0ZT0icnVsZXMiCg==</text>
+        <text encoding="base64">ICAgICAgOmRhdGEtdnYtYXM9ImRpc3BsYXlOYW1lIgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1178,10 +1183,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGluamVjdDogWyckdmFsaWRhdG9yJ10sCg==</text>
+        <text encoding="base64">ICAgICAgdi12YWxpZGF0ZT0icnVsZXMiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcnVsZXM6IHsKICAgICAgICB0eXBlOiBTdHJpbmcsCiAgICAgICAgZGVmYXVsdDogJ3JlcXVpcmVkJywKICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIGluamVjdDogWyckdmFsaWRhdG9yJ10sCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/wall/roof/g</text>
