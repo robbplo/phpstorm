@@ -786,11 +786,11 @@
         <mark key="^" line="42" column="34" />
         <mark key="." line="42" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/app/Nova/Company.php" timestamp="1550833222553">
-        <mark key="[" line="93" column="18" />
-        <mark key="]" line="93" column="30" />
-        <mark key="." line="93" column="30" />
-        <mark key="^" line="93" column="30" />
+      <file name="$USER_HOME$/Projects/apotheker/app/Nova/Company.php" timestamp="1550834082466">
+        <mark key="[" line="91" column="91" />
+        <mark key="]" line="91" column="89" />
+        <mark key="." line="91" column="89" />
+        <mark key="^" line="91" column="89" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingWicketDoorColors.php" timestamp="1549615649777">
         <mark key="[" line="13" column="31" />
@@ -1147,7 +1147,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>resolveUsing</text>
+        <text>'Business partner type', 'partner_type'</text>
       </register>
       <register name="-" type="4">
         <text>resolveUsing</text>
@@ -1155,8 +1155,8 @@
       <register name="/" type="4">
         <text>name</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbW9uZXlfZm9ybWF0KCclLjJuJywgJHRoaXMtPnN0cmVuZ3RoIC8gMTAwKTsK</text>
+      <register name="0" type="4">
+        <text>'Business partner type', 'partner_type'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIC0+ZGlzcGxheVVzaW5nKGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgLy8gICAgIHJldHVybiBtb25leV9mb3JtYXQoJyUuMm4nLCAkdGhpcy0+c3RyZW5ndGggLyAxMDApOwogICAgICAgICAgICAgICAgLy8gfSkK</text>
