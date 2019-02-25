@@ -77,11 +77,11 @@
         <mark key="^" line="10" column="73" />
         <mark key="." line="10" column="73" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_02_22_131046_create_images_table.php" timestamp="1550843813050">
-        <mark key="[" line="20" column="52" />
-        <mark key="]" line="20" column="51" />
-        <mark key="^" line="20" column="51" />
-        <mark key="." line="20" column="51" />
+      <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_02_22_131046_create_images_table.php" timestamp="1551100314907">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="45" />
+        <mark key="^" line="17" column="63" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/database/seeds/DatabaseSeeder.php" timestamp="1549892281387">
         <mark key="[" line="14" column="0" />
@@ -362,11 +362,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/routes/web.php" timestamp="1550567426573">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/app/Notifications/BoatScheduled.php" timestamp="1549375951532">
         <mark key="[" line="58" column="40" />
         <mark key="]" line="58" column="40" />
@@ -496,7 +491,7 @@
         <mark key="." line="34" column="33" />
         <mark key="^" line="33" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/.env" timestamp="1551090901922">
+      <file name="$USER_HOME$/Projects/materialen/.env" timestamp="1551100018804">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="12" />
         <mark key="^" line="4" column="12" />
@@ -558,7 +553,7 @@
         <mark key="." line="3" column="31" />
         <mark key="^" line="26" column="25" />
       </file>
-      <file name="/PHP Console" timestamp="1551097285821">
+      <file name="/PHP Console" timestamp="1551100007561">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
@@ -653,10 +648,11 @@
         <mark key="]" line="19" column="29" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/vendor/r64/nova-image-cropper/src/ImageCropper.php" timestamp="1551097763071">
-        <mark key="]" line="45" column="45" />
-        <mark key="^" line="45" column="45" />
-        <mark key="." line="45" column="45" />
+      <file name="$USER_HOME$/Projects/materialen/vendor/r64/nova-image-cropper/src/ImageCropper.php" timestamp="1551099649929">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Notifications/CreditClaimReminderThree.php" timestamp="1548425822379">
         <mark key="[" line="52" column="115" />
@@ -684,8 +680,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="413" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="437" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="482" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="491" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="500" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
@@ -784,13 +778,15 @@
       <jump line="48" column="15" filename="$USER_HOME$/Projects/materialen/app/Nova/Image.php" />
       <jump line="99" column="28" filename="$USER_HOME$/Projects/materialen/app/Nova/Image.php" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/materialen/app/Nova/Image.php" />
+      <jump line="45" column="0" filename="$USER_HOME$/Projects/materialen/vendor/r64/nova-image-cropper/src/ImageCropper.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/materialen/vendor/r64/nova-image-cropper/src/ImageCropper.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>https://materialen.test/nova</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>https://materialen.test/nova</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
@@ -799,28 +795,28 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2FsdCcpLT5udWxsYWJsZSgpLT5kZWZhdWx0KG51bGwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+cHJldmlldyhmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKCEgJHRoaXMtPnZhbHVlKSByZXR1cm4gbnVsbDsKCiAgICAgICAgICAgICAgICAgICAgJHVybCA9IFN0b3JhZ2U6OmRpc2soJHRoaXMtPmRpc2spLT51cmwoJHRoaXMtPnZhbHVlKTsKICAgICAgICAgICAgICAgICAgICAkZmlsZXR5cGUgPSBwYXRoaW5mbygkdXJsKVsnZXh0ZW5zaW9uJ107CgogICAgICAgICAgICAgICAgICAgIHJldHVybiAnZGF0YTppbWFnZS8nIC4gJGZpbGV0eXBlIC4gJztiYXNlNjQsJyAuIGJhc2U2NF9lbmNvZGUoZmlsZV9nZXRfY29udGVudHMoJHVybCkpOwogICAgICAgICAgICAgICAgfSksCg==</text>
+        <text encoding="base64">ICAgICR4ID0gCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ2ltYWdlYWJsZV9pZCcpOwogICAgICAgICAgICAkdGFibGUtPnN0cmluZygnaW1hZ2VhYmxlX3R5cGUnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPnByZXZpZXcoZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgICAgIGlmICghJHRoaXMtPnZhbHVlKSByZXR1cm4gbnVsbDsKCiAgICAgICAgICAgICAgICAgICAgJHVybCA9IFN0b3JhZ2U6OmRpc2soJHRoaXMtPmRpc2spLT51cmwoJHRoaXMtPnZhbHVlKTsKICAgICAgICAgICAgICAgICAgICAkZmlsZXR5cGUgPSBwYXRoaW5mbygkdXJsKVsnZXh0ZW5zaW9uJ107CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICdkYXRhOmltYWdlLycgLiAkZmlsZXR5cGUgLiAnO2Jhc2U2NCwnIC4gYmFzZTY0X2VuY29kZShmaWxlX2dldF9jb250ZW50cygkdXJsKSk7CiAgICAgICAgICAgICAgICB9KSwK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIEd1enpsZUh0dHBcQ2xpZW50Owo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGdyb3VwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNsaWVudCA9IG5ldyBDbGllbnQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxGaWVsZHNcTW9ycGhNYW55Owo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICRjb250ZXh0ID0gc3RyZWFtX2NvbnRleHRfZ2V0X3BhcmFtcyhzdHJlYW1fY29udGV4dF9nZXRfZGVmYXVsdCgpKTsKICAgICAgICAgICAgLy8gJGNvbnRleHQgPSBzdHJlYW1fY29udGV4dF9nZXRfZGVmYXVsdChbCiAgICAgICAgICAgIC8vICAgICAnc3NsJyA9PiBbCiAgICAgICAgICAgIC8vICAgICAgICAgJ3ZlcmlmeV9wZWVyJyA9PiB0cnVlLAogICAgICAgICAgICAvLyAgICAgXQogICAgICAgICAgICAvLyBdKTsKCiAgICAgICAgICAgICR1cmwgPSBTdG9yYWdlOjpkaXNrKCR0aGlzLT5kaXNrKS0+dXJsKCR0aGlzLT52YWx1ZSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -850,10 +846,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+cHJldmlldyhmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKCEgJHRoaXMtPnZhbHVlKSByZXR1cm4gbnVsbDsKCiAgICAgICAgICAgICAgICAgICAgJHVybCA9IFN0b3JhZ2U6OmRpc2soJHRoaXMtPmRpc2spLT51cmwoJHRoaXMtPnZhbHVlKTsKICAgICAgICAgICAgICAgICAgICAkZmlsZXR5cGUgPSBwYXRoaW5mbygkdXJsKVsnZXh0ZW5zaW9uJ107CgogICAgICAgICAgICAgICAgICAgIHJldHVybiAnZGF0YTppbWFnZS8nIC4gJGZpbGV0eXBlIC4gJztiYXNlNjQsJyAuIGJhc2U2NF9lbmNvZGUoZmlsZV9nZXRfY29udGVudHMoJHVybCkpOwogICAgICAgICAgICAgICAgfSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>s/wall/roof/g</text>
