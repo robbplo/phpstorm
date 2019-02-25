@@ -314,12 +314,12 @@
         <mark key="^" line="22" column="27" />
         <mark key="." line="22" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/Product.php" timestamp="1551088705109">
-        <mark key="'" line="35" column="9" />
-        <mark key="[" line="66" column="41" />
-        <mark key="]" line="66" column="41" />
-        <mark key="." line="66" column="41" />
-        <mark key="^" line="66" column="41" />
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/Product.php" timestamp="1551103498556">
+        <mark key="'" line="50" column="14" />
+        <mark key="[" line="49" column="15" />
+        <mark key="]" line="49" column="14" />
+        <mark key="." line="49" column="14" />
+        <mark key="^" line="49" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.php" timestamp="1550742324957">
         <mark key="[" line="3" column="71" />
@@ -434,8 +434,8 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Image.php" timestamp="1551087605062">
-        <mark key="[" line="8" column="28" />
+      <file name="$USER_HOME$/Projects/materialen/app/Image.php" timestamp="1551103440334">
+        <mark key="[" line="17" column="30" />
         <mark key="]" line="8" column="27" />
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
@@ -660,11 +660,12 @@
         <mark key="." line="57" column="35" />
         <mark key="^" line="57" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/Image.php" timestamp="1551102257263">
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/Image.php" timestamp="1551103230204">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="52" column="30" />
-        <mark key="]" line="52" column="30" />
-        <mark key="." line="52" column="30" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/ProductSchema.php" timestamp="1550048945670">
         <mark key="[" line="6" column="13" />
@@ -680,8 +681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="482" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="491" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="500" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="509" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="542" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
@@ -780,43 +779,45 @@
       <jump line="2" column="0" filename="$USER_HOME$/Projects/materialen/app/Nova/Image.php" />
       <jump line="45" column="0" filename="$USER_HOME$/Projects/materialen/vendor/r64/nova-image-cropper/src/ImageCropper.php" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/materialen/vendor/r64/nova-image-cropper/src/ImageCropper.php" />
+      <jump line="9" column="28" filename="$USER_HOME$/Projects/materialen/app/Nova/Product.php" />
+      <jump line="50" column="14" filename="$USER_HOME$/Projects/materialen/app/Nova/Product.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text encoding="base64">ICAgICByZXR1cm4gJHRoaXMtPnByaW1hcnlJbWFnZS0+bG9jYXRpb24gPz8gbnVsbDs=</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text encoding="base64">ICAgICByZXR1cm4gJHRoaXMtPnByaW1hcnlJbWFnZS0+bG9jYXRpb24gPz8gbnVsbDs=</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text>Ima</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2FsdCcpLT5udWxsYWJsZSgpLT5kZWZhdWx0KG51bGwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICR4ID0gCg==</text>
+        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxIdHRwXFJlcXVlc3RzXE5vdmFSZXF1ZXN0Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ2ltYWdlYWJsZV9pZCcpOwogICAgICAgICAgICAkdGFibGUtPnN0cmluZygnaW1hZ2VhYmxlX3R5cGUnKTsK</text>
+        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxGaWVsZHNcSUQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFN0b3JhZ2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEd1enpsZUh0dHBcQ2xpZW50Owo=</text>
+        <text encoding="base64">ICAgICR4ID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ2ltYWdlYWJsZV9pZCcpOwogICAgICAgICAgICAkdGFibGUtPnN0cmluZygnaW1hZ2VhYmxlX3R5cGUnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNsaWVudCA9IG5ldyBDbGllbnQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICRjb250ZXh0ID0gc3RyZWFtX2NvbnRleHRfZ2V0X3BhcmFtcyhzdHJlYW1fY29udGV4dF9nZXRfZGVmYXVsdCgpKTsKICAgICAgICAgICAgLy8gJGNvbnRleHQgPSBzdHJlYW1fY29udGV4dF9nZXRfZGVmYXVsdChbCiAgICAgICAgICAgIC8vICAgICAnc3NsJyA9PiBbCiAgICAgICAgICAgIC8vICAgICAgICAgJ3ZlcmlmeV9wZWVyJyA9PiB0cnVlLAogICAgICAgICAgICAvLyAgICAgXQogICAgICAgICAgICAvLyBdKTsKCiAgICAgICAgICAgICR1cmwgPSBTdG9yYWdlOjpkaXNrKCR0aGlzLT5kaXNrKS0+dXJsKCR0aGlzLT52YWx1ZSk7Cg==</text>
+        <text encoding="base64">dXNlIEd1enpsZUh0dHBcQ2xpZW50Owo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -846,19 +847,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+cHJldmlldyhmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKCEgJHRoaXMtPnZhbHVlKSByZXR1cm4gbnVsbDsKCiAgICAgICAgICAgICAgICAgICAgJHVybCA9IFN0b3JhZ2U6OmRpc2soJHRoaXMtPmRpc2spLT51cmwoJHRoaXMtPnZhbHVlKTsKICAgICAgICAgICAgICAgICAgICAkZmlsZXR5cGUgPSBwYXRoaW5mbygkdXJsKVsnZXh0ZW5zaW9uJ107CgogICAgICAgICAgICAgICAgICAgIHJldHVybiAnZGF0YTppbWFnZS8nIC4gJGZpbGV0eXBlIC4gJztiYXNlNjQsJyAuIGJhc2U2NF9lbmNvZGUoZmlsZV9nZXRfY29udGVudHMoJHVybCkpOwogICAgICAgICAgICAgICAgfSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNsaWVudCA9IG5ldyBDbGllbnQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/wall/roof/g</text>
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search>Ima</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
+      <last-pattern>Ima</last-pattern>
       <last-replace>roof</last-replace>
       <last-substitute>wall</last-substitute>
       <last-dir>1</last-dir>
@@ -866,8 +867,6 @@
     </search>
     <history>
       <history-search>
-        <entry>window</entry>
-        <entry>number</entry>
         <entry>SANDWICH</entry>
         <entry>enum</entry>
         <entry>gend</entry>
@@ -886,6 +885,8 @@
         <entry>field</entry>
         <entry>rules</entry>
         <entry>name</entry>
+        <entry>image</entry>
+        <entry>Ima</entry>
       </history-search>
       <history-cmd>
         <entry>s/Colors/Profiles/g</entry>
