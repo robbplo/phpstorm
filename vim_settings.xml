@@ -213,6 +213,12 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_02_26_141740_add_quantity_columns_to_products_table.php" timestamp="1551191445383">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="33" column="28" />
+        <mark key="^" line="34" column="14" />
+        <mark key="." line="34" column="14" />
+      </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/api/Schedule/Http/Controllers/ScheduleController.php" timestamp="1549374358350">
         <mark key="[" line="56" column="32" />
         <mark key="]" line="56" column="32" />
@@ -611,12 +617,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Http/Resources/Product.php" timestamp="1551175168079">
+      <file name="$USER_HOME$/Projects/materialen/app/Http/Resources/Product.php" timestamp="1551192236635">
         <mark key="'" line="6" column="31" />
-        <mark key="[" line="27" column="64" />
-        <mark key="]" line="27" column="62" />
-        <mark key="." line="27" column="62" />
-        <mark key="^" line="27" column="62" />
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="11" />
+        <mark key="^" line="25" column="11" />
+        <mark key="." line="25" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/storage/logs/laravel-2019-02-19.log" timestamp="1550587867060">
         <mark key="[" line="0" column="0" />
@@ -809,41 +815,41 @@
       <jump line="6" column="31" filename="$USER_HOME$/Projects/materialen/app/Http/Resources/Product.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Path</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ21heF9vcmRlcicgPT4gJHRoaXMtPm1heF9vcmRlciwK</text>
       </register>
       <register name="-" type="4">
-        <text>Path</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>Attribute</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNlIEFwcFxIdHRwXFJlc291cmNlc1xBdHRyaWJ1dGUgYXMgQXR0cmlidXRlUmVzb3VyY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdtaW5fb3JkZXInLAogICAgICAgICAgICAgICAgJ21heF9vcmRlcicsCiAgICAgICAgICAgICAgICAnb3JkZXJfcGVyJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ21heF9vcmRlcicgPT4gJHRoaXMtPm1heF9vcmRlciwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50Ojp0b0FycmF5KCRyZXF1ZXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50Ojp0b0FycmF5KCRyZXF1ZXN0KTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50Ojp0b0FycmF5KCRyZXF1ZXN0KTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50Ojp0b0FycmF5KCRyZXF1ZXN0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -873,10 +879,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cj4+Pj4+Pj4gbWFzdGVyCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>s/Attribute/Image/g</text>
