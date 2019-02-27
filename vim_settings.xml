@@ -83,6 +83,13 @@
         <mark key="^" line="17" column="63" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/ResourceTableRow.vue" timestamp="1551262008628">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="40" column="78" />
+        <mark key="]" line="40" column="78" />
+        <mark key="^" line="42" column="18" />
+        <mark key="." line="40" column="78" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/database/seeds/DatabaseSeeder.php" timestamp="1549892281387">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -104,6 +111,11 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/nova/resources/js/components/Icons/Icon.vue" timestamp="1551261445489">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="8" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Events/CreditClaimReminderOne.php" timestamp="1548409514589">
         <mark key="[" line="24" column="43" />
@@ -713,10 +725,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="542" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="551" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="562" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="572" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="60" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="238" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="289" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
@@ -813,43 +821,47 @@
       <jump line="50" column="14" filename="$USER_HOME$/Projects/materialen/app/Nova/Product.php" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/materialen/vendor/r64/nova-image-cropper/resources/js/components/PicturePicker.vue" />
       <jump line="6" column="31" filename="$USER_HOME$/Projects/materialen/app/Http/Resources/Product.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/Projects/finish-building/nova/resources/js/components/Icons/Icon.vue" />
+      <jump line="40" column="0" filename="$USER_HOME$/Projects/finish-building/nova/resources/js/components/Icons/Icon.vue" />
+      <jump line="40" column="76" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/ResourceTableRow.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/ResourceTableRow.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">J2ltYWdlcycgPT4gSW1hZ2VSZXNvdXJjZTo6Y29sbGVjdGlvbigkdGhpcy0+aW1hZ2VzKSw=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGNsYXNzPSJmaWxsLWN1cnJlbnQiIGQ9Ik02IDJoOWExIDEgMCAwIDEgLjcuM2w0IDRhMSAxIDAgMCAxIC4zLjd2MTNhMiAyIDAgMCAxLTIgMkg2YTIgMiAwIDAgMS0yLTJWNGMwLTEuMS45LTIgMi0yem05IDIuNDFWN2gyLjU5TDE1IDQuNDF6TTE4IDloLTNhMiAyIDAgMCAxLTItMlY0SDZ2MTZoMTJWOXptLTIgN2ExIDEgMCAwIDEtMSAxSDlhMSAxIDAgMCAxIDAtMmg2YTEgMSAwIDAgMSAxIDF6bTAtNGExIDEgMCAwIDEtMSAxSDlhMSAxIDAgMCAxIDAtMmg2YTEgMSAwIDAgMSAxIDF6bS01LTRhMSAxIDAgMCAxLTEgMUg5YTEgMSAwIDEgMSAwLTJoMWExIDEgMCAwIDEgMSAxeiIvPjwvc3ZnPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J2ltYWdlcycgPT4gSW1hZ2VSZXNvdXJjZTo6Y29sbGVjdGlvbigkdGhpcy0+aW1hZ2VzKSw=</text>
+        <text>file</text>
       </register>
       <register name="/" type="4">
         <text>Attribute</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdtaW5fb3JkZXInLAogICAgICAgICAgICAgICAgJ21heF9vcmRlcicsCiAgICAgICAgICAgICAgICAnb3JkZXJfcGVyJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGNsYXNzPSJmaWxsLWN1cnJlbnQiIGQ9Ik02IDJoOWExIDEgMCAwIDEgLjcuM2w0IDRhMSAxIDAgMCAxIC4zLjd2MTNhMiAyIDAgMCAxLTIgMkg2YTIgMiAwIDAgMS0yLTJWNGMwLTEuMS45LTIgMi0yem05IDIuNDFWN2gyLjU5TDE1IDQuNDF6TTE4IDloLTNhMiAyIDAgMCAxLTItMlY0SDZ2MTZoMTJWOXptLTIgN2ExIDEgMCAwIDEtMSAxSDlhMSAxIDAgMCAxIDAtMmg2YTEgMSAwIDAgMSAxIDF6bTAtNGExIDEgMCAwIDEtMSAxSDlhMSAxIDAgMCAxIDAtMmg2YTEgMSAwIDAgMSAxIDF6bS01LTRhMSAxIDAgMCAxLTEgMUg5YTEgMSAwIDEgMSAwLTJoMWExIDEgMCAwIDEgMSAxeiIvPjwvc3ZnPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ21heF9vcmRlcicgPT4gJHRoaXMtPm1heF9vcmRlciwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxyb3V0ZXItbGluawogICAgICAgICAgICAgICAgICA6ZGF0YS10ZXN0aWQ9ImAke3Rlc3RJZH0tdmlldy1idXR0b25gIgogICAgICAgICAgICAgICAgICA6ZHVzaz0iYCR7cmVzb3VyY2VbJ2lkJ10udmFsdWV9LXZpZXctYnV0dG9uYCIKICAgICAgICAgICAgICAgICAgY2xhc3M9ImN1cnNvci1wb2ludGVyIHRleHQtNzAgaG92ZXI6dGV4dC1wcmltYXJ5IG1yLTMiCiAgICAgICAgICAgICAgICAgIDp0bz0ieyBuYW1lOiAnZGV0YWlsJywgcGFyYW1zOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJlc291cmNlTmFtZTogcmVzb3VyY2VOYW1lLAogICAgICAgICAgICAgICAgICAgICAgICByZXNvdXJjZUlkOiByZXNvdXJjZVsnaWQnXS52YWx1ZQogICAgICAgICAgICAgICAgICAgIH19IgogICAgICAgICAgICAgICAgICA6dGl0bGU9Il9fKCdWaWV3JykiCiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgPGljb24gdHlwZT0iZmlsZSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjE4IiB2aWV3LWJveD0iMCAwIDIyIDE2Ii8+CiAgICAgICAgICAgICAgICA8L3JvdXRlci1saW5rPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdi1lbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdi1pZj0icmVzb3VyY2VOYW1lID09PSAnb2ZmZXJzJyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBWaWV3IFJlc291cmNlIExpbmsgLS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50Ojp0b0FycmF5KCRyZXF1ZXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ21heF9vcmRlcicgPT4gJHRoaXMtPm1heF9vcmRlciwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50Ojp0b0FycmF5KCRyZXF1ZXN0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -879,10 +891,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50Ojp0b0FycmF5KCRyZXF1ZXN0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/Attribute/Image/g</text>
