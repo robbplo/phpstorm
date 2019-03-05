@@ -266,12 +266,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1551798432473">
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1551799652382">
         <mark key="'" line="52" column="11" />
-        <mark key="[" line="645" column="19" />
-        <mark key="]" line="645" column="25" />
-        <mark key="." line="645" column="25" />
-        <mark key="^" line="645" column="25" />
+        <mark key="[" line="795" column="7" />
+        <mark key="]" line="795" column="7" />
+        <mark key="." line="795" column="7" />
+        <mark key="^" line="777" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_02_26_141740_add_quantity_columns_to_products_table.php" timestamp="1551191445383">
         <mark key="[" line="31" column="0" />
@@ -494,11 +494,11 @@
       <jump line="52" column="11" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7IG9mZmVyLndhbGxfZGRwbGF0aW5nIH19Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>wall_plating</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>number-field\n</text>
@@ -507,28 +507,28 @@
         <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7IG9mZmVyLndhbGxfZGRwbGF0aW5nIH19Cg==</text>
+        <text encoding="base64">ICAgICAgYXZhaWxhYmxlQ29hdGluZ3MgKCkgewogICAgICAgIC8vIHRoaXMuZml4RHJvcGRvd24oJ2NvYXRpbmcnKTsKICAgICAgfSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRuZXh0VGljaygoKSA9PiB7CiAgICAgICAgICB0aGlzLm9mZmVyLndhbGxfcGxhdGluZyA9IDA7CiAgICAgICAgICAgIHRoaXMuJG5leHRUaWNrKCgpID0+IHsKICAgICAgICAgICAgICB0aGlzLm9mZmVyLndhbGxfcGxhdGluZyA9IDE7CiAgICAgICAgICAgIH0pCiAgICAgICAgfSk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICB0aGlzLm9mZmVyLmNvYXRpbmcgPSBudWxsOwogICAgICAgICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMub2ZmZXIud2FsbF9wbGF0aW5nID0gMTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6IGZ1bmN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHt7IG9mZmVyLndhbGxfZGRwbGF0aW5nIH19Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vdW50ZWQoKSB7CiAgICAgIHRoaXMuJG5leHRUaWNrKCgpID0+IHsKICAgICAgICBsZXQgeCA9IHRoaXMub2ZmZXIud2FsbF9wbGF0aW5nOwogICAgICAgIHRoaXMub2ZmZXIud2FsbF9wbGF0aW5nID0gMDsKICAgICAgICB0aGlzLm9mZmVyLndhbGxfcGxhdGluZyA9IHg7CiAgICAgIH0pCiAgICB9LAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICB0aGlzLiRuZXh0VGljaygoKSA9PiB7CiAgICAgICAgICB0aGlzLm9mZmVyLndhbGxfcGxhdGluZyA9IDA7CiAgICAgICAgICAgIHRoaXMuJG5leHRUaWNrKCgpID0+IHsKICAgICAgICAgICAgICB0aGlzLm9mZmVyLndhbGxfcGxhdGluZyA9IDE7CiAgICAgICAgICAgIH0pCiAgICAgICAgfSk=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHRoCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -549,10 +549,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHggPSB0aGlzLm9mZmVyLndhbGxfcGxhdGluZzsKICAgICAgdGhpcy5vZmZlci53YWxsX3BsYXRpbmcgPSAwOwogICAgICB0aGlzLm9mZmVyLndhbGxfcGxhdGluZyA9IHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMub2ZmZXIud2FsbF9wbGF0aW5nID0gMTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiBOdW1iZXIsCg==</text>
+        <text encoding="base64">ICAgICAgICA6IGZ1bmN0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1hYWC9YWA==</text>
