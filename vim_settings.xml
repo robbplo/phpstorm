@@ -266,11 +266,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1551791799362">
-        <mark key="[" line="130" column="58" />
-        <mark key="]" line="130" column="38" />
-        <mark key="." line="130" column="38" />
-        <mark key="^" line="130" column="38" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1551795090388">
+        <mark key="'" line="17" column="16" />
+        <mark key="[" line="732" column="0" />
+        <mark key="]" line="732" column="0" />
+        <mark key="." line="732" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_02_26_141740_add_quantity_columns_to_products_table.php" timestamp="1551191445383">
         <mark key="[" line="31" column="0" />
@@ -384,6 +384,12 @@
         <mark key="^" line="18" column="26" />
         <mark key="." line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/footer.blade.php" timestamp="1551702537313">
+        <mark key="'" line="1" column="15" />
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/table.blade.php" timestamp="1551695237946">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -391,9 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="14" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
-      <jump line="20" column="7" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
-      <jump line="35" column="35" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="92" column="4" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="95" column="7" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/finish-building/app/Offer.php" />
@@ -491,10 +494,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Quotation.php" />
       <jump line="690" column="33" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2890436.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/amsterdambeautiful/data/2890436.xml" />
+      <jump line="250" column="32" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="17" column="16" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Array</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>Array</text>
@@ -503,16 +509,16 @@
         <text>offer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8c3Bhbj57eyAkb2ZmZXItPnBvc3RhbF9jb2RlIH19IC0ge3sgJG9mZmVyLT5jaXR5IH19PC9zcGFuPjxicj4K</text>
+        <text encoding="base64">ICAgICAgdGhpcy5vZmZlci53YWxsX3BsYXRpbmcgPSAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiBOdW1iZXIsCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiBOdW1iZXIsCg==</text>
+        <text encoding="base64">ICAgICAgbGV0IHggPSB0aGlzLm9mZmVyLndhbGxfcGxhdGluZzsKICAgICAgdGhpcy5vZmZlci53YWxsX3BsYXRpbmcgPSAwOwogICAgICB0aGlzLm9mZmVyLndhbGxfcGxhdGluZyA9IHg7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB0eXBlOiBOdW1iZXIsCg==</text>
@@ -524,10 +530,10 @@
         <text encoding="base64">ICAgICAgICB0eXBlOiBOdW1iZXIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0eXBlOiBOdW1iZXIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICB0eXBlOiBOdW1iZXIsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -548,10 +554,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS12di1hcz0id2FsbCBwbGF0aW5nIgogICAgICAgICAgICBkaXNwbGF5TmFtZT0id2FsbCBwbGF0aW5nIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1hYWC9YWA==</text>
