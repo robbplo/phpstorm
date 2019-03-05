@@ -266,12 +266,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1551797113297">
-        <mark key="'" line="793" column="18" />
-        <mark key="[" line="800" column="7" />
-        <mark key="]" line="800" column="7" />
-        <mark key="." line="800" column="7" />
-        <mark key="^" line="800" column="7" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1551798432473">
+        <mark key="'" line="52" column="11" />
+        <mark key="[" line="645" column="19" />
+        <mark key="]" line="645" column="25" />
+        <mark key="." line="645" column="25" />
+        <mark key="^" line="645" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_02_26_141740_add_quantity_columns_to_products_table.php" timestamp="1551191445383">
         <mark key="[" line="31" column="0" />
@@ -392,16 +392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="7" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
-      <jump line="22" column="0" filename="$USER_HOME$/Projects/finish-building/app/Offer.php" />
-      <jump line="170" column="117" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
-      <jump line="211" column="55" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
-      <jump line="212" column="105" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
-      <jump line="213" column="92" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
-      <jump line="224" column="56" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
-      <jump line="225" column="74" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
-      <jump line="226" column="106" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
-      <jump line="227" column="99" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="42" column="15" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="105" column="12" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="118" column="63" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
@@ -492,6 +482,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="17" column="16" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="794" column="18" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="189" column="11" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="74" column="11" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="94" column="25" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="188" column="11" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="88" column="11" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="193" column="25" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="296" column="25" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="632" column="22" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="645" column="25" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="52" column="11" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -501,7 +501,7 @@
         <text>wall_plating</text>
       </register>
       <register name="/" type="4">
-        <text>offer</text>
+        <text>number-field\n</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB9KQo=</text>
@@ -559,9 +559,9 @@
       </register>
     </registers>
     <search>
-      <last-search>offer</last-search>
+      <last-search>number-field\n</last-search>
       <last-offset />
-      <last-pattern>offer</last-pattern>
+      <last-pattern>number-field\n</last-pattern>
       <last-replace>XX</last-replace>
       <last-substitute>XXX</last-substitute>
       <last-dir>1</last-dir>
@@ -569,8 +569,6 @@
     </search>
     <history>
       <history-search>
-        <entry>p</entry>
-        <entry>pdf</entry>
         <entry>''</entry>
         <entry>'</entry>
         <entry>hr</entry>
@@ -589,6 +587,8 @@
         <entry>head</entry>
         <entry>oc</entry>
         <entry>offer</entry>
+        <entry>number-field\r</entry>
+        <entry>number-field\n</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3dhbGwvcm9vZi9n</entry>
