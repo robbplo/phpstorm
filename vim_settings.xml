@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/finish-building/app/Http/Controllers/OfferController.php" timestamp="1551705150922">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="67" column="0" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Http/Controllers/OfferController.php" timestamp="1551775184055">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="50" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page5.blade.php" timestamp="1551693137249">
         <mark key="[" line="29" column="42" />
@@ -20,6 +20,13 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
         <mark key="^" line="34" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Generator.php" timestamp="1551773999121">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="31" column="12" />
+        <mark key="]" line="33" column="35" />
+        <mark key="^" line="33" column="35" />
+        <mark key="." line="33" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page1.blade.php" timestamp="1551701687746">
         <mark key="'" line="32" column="12" />
@@ -110,6 +117,13 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/PartsList.php" timestamp="1551774604945">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="32" column="40" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/vendor/r64/nova-image-cropper/resources/js/components/FormField.vue" timestamp="1551171724277">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -121,6 +135,13 @@
         <mark key="]" line="33" column="28" />
         <mark key="^" line="34" column="14" />
         <mark key="." line="34" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Quotation.php" timestamp="1551775508222">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="20" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="19" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1551692532708">
         <mark key="[" line="0" column="0" />
@@ -149,9 +170,6 @@
         <mark key="]" line="52" column="59" />
         <mark key="." line="52" column="59" />
         <mark key="^" line="52" column="59" />
-      </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Offer.php" timestamp="1551342299182">
-        <mark key="'" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Nova/Product.php" timestamp="1551172764307">
         <mark key="'" line="45" column="14" />
@@ -193,19 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/Projects/materialen/vendor/r64/nova-image-cropper/src/ImageCropper.php" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/materialen/vendor/r64/nova-image-cropper/src/ImageCropper.php" />
-      <jump line="9" column="28" filename="$USER_HOME$/Projects/materialen/app/Nova/Product.php" />
-      <jump line="50" column="14" filename="$USER_HOME$/Projects/materialen/app/Nova/Product.php" />
-      <jump line="26" column="0" filename="$USER_HOME$/Projects/materialen/vendor/r64/nova-image-cropper/resources/js/components/PicturePicker.vue" />
-      <jump line="6" column="31" filename="$USER_HOME$/Projects/materialen/app/Http/Resources/Product.php" />
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/finish-building/nova/resources/js/components/Icons/Icon.vue" />
-      <jump line="40" column="0" filename="$USER_HOME$/Projects/finish-building/nova/resources/js/components/Icons/Icon.vue" />
-      <jump line="40" column="76" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/ResourceTableRow.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/ResourceTableRow.vue" />
-      <jump line="29" column="20" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
-      <jump line="25" column="14" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
-      <jump line="34" column="12" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="31" column="29" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="28" column="12" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="55" column="14" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
@@ -293,43 +298,57 @@
       <jump line="15" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.php" />
       <jump line="27" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.php" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.php" />
+      <jump line="34" column="24" filename="$USER_HOME$/Projects/finish-building/app/Http/Controllers/OfferController.php" />
+      <jump line="59" column="4" filename="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/PartsList.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/PartsList.php" />
+      <jump line="66" column="9" filename="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/PartsList.php" />
+      <jump line="41" column="49" filename="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Generator.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Generator.php" />
+      <jump line="22" column="4" filename="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/PartsList.php" />
+      <jump line="68" column="0" filename="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/PartsList.php" />
+      <jump line="44" column="36" filename="$USER_HOME$/Projects/finish-building/app/Http/Controllers/OfferController.php" />
+      <jump line="31" column="57" filename="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/PartsList.php" />
+      <jump line="47" column="0" filename="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/PartsList.php" />
+      <jump line="19" column="41" filename="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Quotation.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Quotation.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>occasions</text>
+        <text>parent::pdfExists(); // TODO: Change the autogenerated stub</text>
       </register>
       <register name="-" type="4">
-        <text>occasions</text>
+        <text>parent::pdfExists(); // TODO: Change the autogenerated stub</text>
       </register>
       <register name="/" type="4">
-        <text>oc</text>
+        <text>offer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNvcnQoJG1lcmNlZGVzLCBmdW5jdGlvbiAoJGEsICRiKSB7CiAgICByZXR1cm4gJGEtPk1lbnVUZXh0KCkgPD0+ICRiLT5NZW51VGV4dCgpOwp9KTsKCg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBnZXRQZGZQYXRoKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPm9mZmVyLT5wZGZQYXRoOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAkcGRmID0gQnJvd3NlcnNob3Q6Omh0bWwodmlldygncXVvdGF0aW9uLmluZGV4JyktPnJlbmRlcigpKQogICAgICAgIC8vICAgICAtPnNldE5wbUJpbmFyeShjb25maWcoJ2FwcC5ucG0tcGF0aCcpKQogICAgICAgIC8vICAgICAtPnNldE5vZGVCaW5hcnkoY29uZmlnKCdhcHAubm9kZS1wYXRoJykpCiAgICAgICAgLy8gICAgIC0+cGFwZXJTaXplKDIxMCwgMjk3KQogICAgICAgIC8vICAgICAtPm1hcmdpbnMoNSwgNSwgNSwgNSkKICAgICAgICAvLyAgICAgLT5zaG93QmFja2dyb3VuZCgpCiAgICAgICAgLy8gICAgIC0+ZW11bGF0ZU1lZGlhKCdzY3JlZW4nKQogICAgICAgIC8vICAgICAtPmlnbm9yZUh0dHBzRXJyb3JzKCkKICAgICAgICAvLyAgICAgLT53YWl0VW50aWxOZXR3b3JrSWRsZShmYWxzZSkKICAgICAgICAvLyAgICAgLT5zZXRFeHRyYUh0dHBIZWFkZXJzKFsKICAgICAgICAvLyAgICAgICAgICdjc3JmLXRva2VuJyA9PiBjc3JmX3Rva2VuKCksCiAgICAgICAgLy8gICAgICAgICAnY2hhcnNldCcgPT4gJ3V0Zi04JywKICAgICAgICAvLyAgICAgXSkKICAgICAgICAvLyAgICAgLT5zZXRPcHRpb24oJ2FyZ3MnLCBbJy0tZGlzYWJsZS13ZWItc2VjdXJpdHknXSkKICAgICAgICAvLyAgICAgLT5wZGYoKTsKICAgICAgICAvLwogICAgICAgIC8vIFN0b3JhZ2U6OmRpc2soJ2xvY2FsJyktPnB1dCgncXVvdGF0aW9uLnBkZicsICRwZGYpOwogICAgICAgIC8vIHJldHVybiByZXNwb25zZSgpLT5maWxlKHN0b3JhZ2VfcGF0aCgnYXBwL3F1b3RhdGlvbi5wZGYnKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBmb3JtYXQgb2ZmZXIgdmFsdWVzIGludG8gdGV4dAogICAgICAgIC8vICR2YXJpYWJsZXMgPSBbXTsKICAgICAgICAvLwogICAgICAgIC8vIHJldHVybiB2aWV3KCdxdW90YXRpb24uaW5kZXgnLCAkdmFyaWFibGVzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAkcGFnZS0+dGVtcGxhdGVJZCgpID09PSAkdGVtcGxhdGVJZDsK</text>
+        <text encoding="base64">dXNlIElsbHVlXEJyb3dzZXJzaG90XEJyb3dzZXJzaG90Owo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">e3sgaXNzZXQoJGRpc3BsYXlCcmFuZGluZykgPyAndHJ1ZScgOiAnZmFsc2UnIH19Cg==</text>
+      <register name="4" type="4">
+        <text>minate\Support\Facades\Storage;
+use Spati</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDw/cGhwICRkaXNwbGF5QnJhbmRpbmcgPSBmYWxzZSA/Pgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0Vmlld0F0dHJpYnV0ZXMoKSBtZXRob2QuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDw/cGhwICRkaXNwbGF5QnJhbmRpbmcgPSBmYWxzZSA/Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YnVpbGRpbmcgPSAkb2ZmZXItPmdldEJ1aWxkaW5nKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -350,27 +369,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGltZyBjbGFzcz0iIiBzcmM9ImRhdGE6aW1hZ2UvcG5nO2Jhc2U2NCwge3tiYXNlNjRfZW5jb2RlKGZpbGVfZ2V0X2NvbnRlbnRzKHB1YmxpY19wYXRoKCcvcXVvdGF0aW9uX2Zvb3Rlci5wbmcnKSkpfX0iIGFsdD0iRmluaXNoIEJ1aWxkaW5nIGxvZ28iIHN0eWxlPSJ3aWR0aDogMTAwJTsiPgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGJ1aWxkaW5nOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5tYXJnaW5zKDMyLjUsIDI1LjQsIDI1LjQsIDI1LjQpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1hYWC9YWA==</text>
       </register>
     </registers>
     <search>
-      <last-search>oc</last-search>
+      <last-search>offer</last-search>
       <last-offset />
-      <last-pattern>oc</last-pattern>
+      <last-pattern>offer</last-pattern>
       <last-replace>XX</last-replace>
       <last-substitute>XXX</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>span</entry>
         <entry>p</entry>
         <entry>pdf</entry>
         <entry>''</entry>
@@ -390,6 +408,7 @@
         <entry encoding="base64">IA==</entry>
         <entry>head</entry>
         <entry>oc</entry>
+        <entry>offer</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3dhbGwvcm9vZi9n</entry>
