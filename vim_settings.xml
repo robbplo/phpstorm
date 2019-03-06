@@ -17,24 +17,25 @@
         <mark key="." line="17" column="15" />
         <mark key="^" line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Generator.php" timestamp="1551773999121">
+      <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Generator.php" timestamp="1551883174062">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="31" column="12" />
         <mark key="]" line="33" column="35" />
         <mark key="^" line="33" column="35" />
         <mark key="." line="33" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page1.blade.php" timestamp="1551779848825">
-        <mark key="[" line="35" column="61" />
-        <mark key="]" line="34" column="56" />
-        <mark key="." line="35" column="64" />
-        <mark key="^" line="34" column="56" />
+      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page1.blade.php" timestamp="1551884351696">
+        <mark key="[" line="58" column="71" />
+        <mark key="]" line="58" column="70" />
+        <mark key="." line="58" column="70" />
+        <mark key="^" line="58" column="70" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/domain/Products/PlatingAttributes.php" timestamp="1551879882687">
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="12" column="67" />
-        <mark key="." line="12" column="67" />
-        <mark key="^" line="12" column="67" />
+      <file name="$USER_HOME$/Projects/finish-building/domain/Products/PlatingAttributes.php" timestamp="1551884423043">
+        <mark key="'" line="52" column="4" />
+        <mark key="[" line="103" column="6" />
+        <mark key="]" line="10" column="11" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/amsterdambeautiful/locales/nl.php" timestamp="1551788154784">
         <mark key="[" line="18" column="21" />
@@ -99,7 +100,7 @@
         <mark key="." line="12" column="39" />
         <mark key="^" line="12" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/domain/Products/PlatingOptions.php" timestamp="1551879751810">
+      <file name="$USER_HOME$/Projects/finish-building/domain/Products/PlatingOptions.php" timestamp="1551883842981">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="63" column="6" />
       </file>
@@ -170,7 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="74" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="81" column="5" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="16" column="8" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="319" column="21" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
@@ -270,43 +270,44 @@
       <jump line="10" column="12" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page5.blade.php" />
       <jump line="17" column="12" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page5.blade.php" />
       <jump line="9" column="15" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page5.blade.php" />
+      <jump line="35" column="4" filename="$USER_HOME$/Projects/finish-building/domain/Products/PlatingAttributes.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQT0xZRVNURVIgPT4gNTAwMSwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQTEFTVElTT0wgPT4gNTAwNiwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpIUFMyMDBfVUxUUkEgPT4gNTAxMSw=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>left</text>
+        <text>Roof</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjb25zdCBST09GX0NPQVRJTkdTID0gWwogICAgICAgIEJ1aWxkaW5nUm9vZlBsYXRpbmc6OlNBTkRXSUNINDAgPT4gWwogICAgICAgICAgICBCdWlsZGluZ0NvYXRpbmc6OlBPTFlFU1RFUiA9PiA1MDAxLAogICAgICAgICAgICBCdWlsZGluZ0NvYXRpbmc6OlBMQVNUSVNPTCA9PiA1MDA2LAogICAgICAgICAgICBCdWlsZGluZ0NvYXRpbmc6OkhQUzIwMF9VTFRSQSA9PiA1MDExLAogICAgICAgIF0sCiAgICAgICAgQnVpbGRpbmdSb29mUGxhdGluZzo6U0FORFdJQ0g2MCA9PiBbCiAgICAgICAgICAgIEJ1aWxkaW5nQ29hdGluZzo6UE9MWUVTVEVSID0+IDUwMDIsCiAgICAgICAgICAgIEJ1aWxkaW5nQ29hdGluZzo6UExBU1RJU09MID0+IDUwMDcsCiAgICAgICAgICAgIEJ1aWxkaW5nQ29hdGluZzo6SFBTMjAwX1VMVFJBID0+IDUwMTIsCiAgICAgICAgXSwKICAgICAgICBCdWlsZGluZ1Jvb2ZQbGF0aW5nOjpTQU5EV0lDSDgwID0+IFsKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQT0xZRVNURVIgPT4gNTAwNSwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQTEFTVElTT0wgPT4gNTAwOCwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpIUFMyMDBfVUxUUkEgPT4gNTAxMywKICAgICAgICBdLAogICAgICAgIEJ1aWxkaW5nUm9vZlBsYXRpbmc6OlNBTkRXSUNIMTAwID0+IFsKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQT0xZRVNURVIgPT4gNTAwNCwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQTEFTVElTT0wgPT4gNTAwOSwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpIUFMyMDBfVUxUUkEgPT4gNTAxNCwKICAgICAgICBdLAogICAgICAgIEJ1aWxkaW5nUm9vZlBsYXRpbmc6OlNBTkRXSUNIMTYwID0+IFsKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQT0xZRVNURVIgPT4gNTAwNSwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQTEFTVElTT0wgPT4gNTAxMCwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpIUFMyMDBfVUxUUkEgPT4gNTAxNSwKICAgICAgICBdLAogICAgICAgIEJ1aWxkaW5nUm9vZlBsYXRpbmc6OkRBTVdBTkQyMF8xMDkwID0+IFsKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQT0xZRVNURVIgPT4gNDAwMSwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpIUFMyMDBfVUxUUkEgPT4gNDAwMiwKICAgICAgICBdLAogICAgICAgIEJ1aWxkaW5nUm9vZlBsYXRpbmc6OkRBTVdBTkQzNV8xMDAwID0+IFsKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQT0xZRVNURVIgPT4gNDAwMywKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQTEFTVElTT0wgPT4gNDAwNCwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpIUFMyMDBfVUxUUkEgPT4gNDAwNSwKICAgICAgICBdLAogICAgICAgIEJ1aWxkaW5nUm9vZlBsYXRpbmc6OkdPTEZQTEFBVDE4Xzc2ID0+IFsKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQT0xZRVNURVIgPT4gNDAwNiwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpIUFMyMDBfVUxUUkEgPT4gNDAwNywKICAgICAgICBdLAogICAgICAgIEJ1aWxkaW5nUm9vZlBsYXRpbmc6OkdPTEZQTEFBVDQyXzk2MCA9PiBbCiAgICAgICAgICAgIEJ1aWxkaW5nQ29hdGluZzo6UE9MWUVTVEVSID0+IDQwMDgsCiAgICAgICAgICAgIEJ1aWxkaW5nQ29hdGluZzo6SFBTMjAwX1VMVFJBID0+IDQwMDksCiAgICAgICAgXSwKICAgICAgICBCdWlsZGluZ1Jvb2ZQbGF0aW5nOjpEQUtQQU4gPT4gWwogICAgICAgICAgICBCdWlsZGluZ0NvYXRpbmc6OlBPTFlFU1RFUiA9PiA0MDEwLAogICAgICAgICAgICBCdWlsZGluZ0NvYXRpbmc6OkhQUzIwMF9VTFRSQSA9PiA0MDExLAogICAgICAgIF0sCiAgICAgICAgQnVpbGRpbmdSb29mUGxhdGluZzo6U05BUExPQ0sgPT4gWwogICAgICAgICAgICBCdWlsZGluZ0NvYXRpbmc6OlBPTFlFU1RFUiA9PiA0MDEyLAogICAgICAgICAgICBCdWlsZGluZ0NvYXRpbmc6OkhQUzIwMF9VTFRSQSA9PiA0MDEzLAogICAgICAgIF0sCiAgICBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RoaWNrbmVzcycgPT4gMCwKICAgICAgICAgICAgJ3JjX3ZhbHVlJyA9PiAnMCcsCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQT0xZRVNURVIgPT4gNTAwMSwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQTEFTVElTT0wgPT4gNTAwNiwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpIUFMyMDBfVUxUUkEgPT4gNTAxMSw=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQT0xZRVNURVIgPT4gNDAxMiwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpIUFMyMDBfVUxUUkEgPT4gNDAxMywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2ZpbGUnID0+ICdMTCBHRUxJTklFRVJEJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQT0xZRVNURVIgPT4gNDAxMCwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpIUFMyMDBfVUxUUkEgPT4gNDAxMSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQT0xZRVNURVIgPT4gNDAwOCwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpIUFMyMDBfVUxUUkEgPT4gNDAwOSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQT0xZRVNURVIgPT4gNDAwNiwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpIUFMyMDBfVUxUUkEgPT4gNDAwNywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Zhc3RlbmluZ190eXBlJyA9PiAnb252ZXJkZWt0IFsgc2Nocm9ldmVuIHppY2h0YmFhciBdJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQT0xZRVNURVIgPT4gNDAwMywKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQTEFTVElTT0wgPT4gNDAwNCwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpIUFMyMDBfVUxUUkEgPT4gNDAwNSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQT0xZRVNURVIgPT4gNDAwMSwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpIUFMyMDBfVUxUUkEgPT4gNDAwMiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQT0xZRVNURVIgPT4gMjAxMCwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpIUFMyMDBfVUxUUkEgPT4gMjAxMSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -327,27 +328,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQT0xZRVNURVIgPT4gNTAwNSwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQTEFTVElTT0wgPT4gNTAxMCwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpIUFMyMDBfVUxUUkEgPT4gNTAxNSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQT0xZRVNURVIgPT4gMjAwOCwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpIUFMyMDBfVUxUUkEgPT4gMjAwOSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQT0xZRVNURVIgPT4gNTAwNCwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQTEFTVElTT0wgPT4gNTAwOSwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpIUFMyMDBfVUxUUkEgPT4gNTAxNCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpQT0xZRVNURVIgPT4gMjAwNiwKICAgICAgICAgICAgQnVpbGRpbmdDb2F0aW5nOjpIUFMyMDBfVUxUUkEgPT4gMjAwNywK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2xlZnQvcmlnaHQ=</text>
+        <text encoding="base64">JzwsJz5zL1Jvb2YvV2FsbC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>left</last-search>
+      <last-search>Roof</last-search>
       <last-offset />
-      <last-pattern>left</last-pattern>
-      <last-replace>right</last-replace>
-      <last-substitute>left</last-substitute>
+      <last-pattern>Roof</last-pattern>
+      <last-replace>Wall</last-replace>
+      <last-substitute>Roof</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>alt</entry>
         <entry>B</entry>
         <entry>style</entry>
         <entry>Ge</entry>
@@ -367,9 +367,9 @@
         <entry>*</entry>
         <entry>0</entry>
         <entry>left</entry>
+        <entry>Roof</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyA9LycgPT4=</entry>
         <entry encoding="base64">JzwsJz5zLzsvLA==</entry>
         <entry encoding="base64">JzwsJz5zL1NBTkRXSUNIL00=</entry>
         <entry>s/discount/value/g</entry>
@@ -389,6 +389,7 @@
         <entry encoding="base64">JzwsJz5zL1hYWC9YWA==</entry>
         <entry encoding="base64">JzwsJz5kb29yL2RldXIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2xlZnQvcmlnaHQ=</entry>
+        <entry encoding="base64">JzwsJz5zL1Jvb2YvV2FsbC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
