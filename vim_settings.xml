@@ -66,14 +66,29 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/amsterdambeautiful/data/2908357.xml" timestamp="1551876175842">
-        <mark key="'" line="1951" column="20" />
-      </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/Offer.js" timestamp="1551945159581">
         <mark key="[" line="173" column="13" />
         <mark key="]" line="171" column="24" />
         <mark key="." line="171" column="24" />
         <mark key="^" line="171" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/amsterdambeautiful/data/2890436.xml" timestamp="1551861821729">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="445" column="68" />
+        <mark key="]" line="445" column="68" />
+        <mark key="." line="445" column="68" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen-pwa/store/modules/test.js" timestamp="1552040710443">
+        <mark key="'" line="68" column="12" />
+        <mark key="]" line="68" column="12" />
+        <mark key="^" line="68" column="12" />
+        <mark key="." line="68" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/footer.blade.php" timestamp="1551702537313">
+        <mark key="'" line="1" column="15" />
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page3.blade.php" timestamp="1551875085721">
         <mark key="[" line="15" column="95" />
@@ -165,6 +180,12 @@
       <file name="/Dummy.txt" timestamp="1551879681415">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Http/Resources/Product.php" timestamp="1552040201379">
+        <mark key="'" line="6" column="31" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/SelectField.vue" timestamp="1551944015195">
         <mark key="[" line="13" column="50" />
         <mark key="]" line="37" column="23" />
@@ -185,7 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="354" column="37" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="372" column="25" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="365" column="20" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="378" column="0" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
@@ -285,10 +305,429 @@
       <jump line="720" column="6" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="281" column="31" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="275" column="27" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="68" column="12" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hasWickedDoor</text>
+        <text>{
+      id: 1,
+      name: 'Artsenverklaring dabigatran te personaliseren',
+      image: &quot;/img/demo/products/1.png&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 2,
+      name: 'Patiëntenfolder Striverdi Respimat',
+      image: &quot;/img/demo/products/2.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 3,
+      name: 'Therapietrouw: Folderstandaard met patiëntenfolders over boezemfibrilleren.nl',
+      image: &quot;/img/demo/products/3.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 4,
+      name: 'Boezemfibrilleren visitekaartjes',
+      image: &quot;/img/demo/products/4.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 5,
+      name: 'Boekje In en uit de maatschappij 2015',
+      image: &quot;/img/demo/products/5.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 6,
+      name: 'Therapietrouw: MijnPradaxa, folder informatie voor de zorgverlener',
+      image: &quot;/img/demo/products/6.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 7,
+      name: 'Therapietrouw: blistercase',
+      image: &quot;/img/demo/products/7.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 8,
+      name: 'Patiëntenfolder Wat is astma?',
+      image: &quot;/img/demo/products/8.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 9,
+      name: 'Fletchercurve',
+      image: &quot;/img/demo/products/9.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 10,
+      name: 'Patiënteninformatiefolder Leven met astma',
+      image: &quot;/img/demo/products/10.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 11,
+      name: 'Spiriva Patientenfolder Opgelucht Leven RMT en HH',
+      image: &quot;/img/demo/products/11.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 12,
+      name: 'Afspraken met Jezelf',
+      image: &quot;/img/demo/products/12.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 13,
+      name: 'test display respimat',
+      image: &quot;/img/demo/products/13.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 14,
+      name: 'Het Zorgpadenboek',
+      image: &quot;/img/demo/products/14.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 15,
+      name: 'Patiëntenbrochure AF',
+      image: &quot;/img/demo/products/15.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 16,
+      name: 'Inhalatorenkaart Q3',
+      image: &quot;/img/demo/products/16.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 17,
+      name: 'ONC boek 200 vragen longkanker 2e druk',
+      image: &quot;/img/demo/products/17.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 18,
+      name: 'Patientenfolder Spiolto',
+      image: &quot;/img/demo/products/18.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 19,
+      name: 'Zakboek Dabigatran',
+      image: &quot;/img/demo/products/19.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 20,
+      name: 'Placebo Respimat traningskit',
+      image: &quot;/img/demo/products/20.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 20,
+      name: 'Respimat instructieblok',
+      image: &quot;/img/demo/products/20.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 21,
+      name: 'Respimat instructiekaart',
+      image: &quot;/img/demo/products/21.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 22,
+      name: 'Placebo Spiriva Handihaler trainingkit',
+      image: &quot;/img/demo/products/22.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 23,
+      name: 'Placebo Spiriva (30) casules',
+      image: &quot;/img/demo/products/23.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 24,
+      name: 'Suikerkubus',
+      image: &quot;/img/demo/products/24.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 25,
+      name: 'Patiëntenbrochure Jardiance 1e uitgifte',
+      image: &quot;/img/demo/products/25.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 26,
+      name: 'Scheurblok boezemfibrilleren met illustraties voor de patiënt',
+      image: &quot;/img/demo/products/26.png&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 27,
+      name: 'De rol van ICS bij de behandeling van COPD',
+      image: &quot;/img/demo/products/27.png&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 28,
+      name: 'NOAC voorschrijverskaart HA',
+      image: &quot;/img/demo/products/28.png&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 29,
+      name: 'Patiëntenfolder Trajenta',
+      image: &quot;/img/demo/products/29.png&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },</text>
       </register>
       <register name="-" type="4">
         <text>hasWickedDoor</text>
@@ -299,29 +738,447 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgOmRpc2FibGVkPSIhb2ZmZXIuaGFzT1ZIRCIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAge3sgb2ZmZXIuaGFzT1ZIRCB9fQo=</text>
+      <register name="1" type="4">
+        <text>{
+      id: 1,
+      name: 'Artsenverklaring dabigatran te personaliseren',
+      image: &quot;/img/demo/products/1.png&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 2,
+      name: 'Patiëntenfolder Striverdi Respimat',
+      image: &quot;/img/demo/products/2.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 3,
+      name: 'Therapietrouw: Folderstandaard met patiëntenfolders over boezemfibrilleren.nl',
+      image: &quot;/img/demo/products/3.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 4,
+      name: 'Boezemfibrilleren visitekaartjes',
+      image: &quot;/img/demo/products/4.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 5,
+      name: 'Boekje In en uit de maatschappij 2015',
+      image: &quot;/img/demo/products/5.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 6,
+      name: 'Therapietrouw: MijnPradaxa, folder informatie voor de zorgverlener',
+      image: &quot;/img/demo/products/6.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 7,
+      name: 'Therapietrouw: blistercase',
+      image: &quot;/img/demo/products/7.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 8,
+      name: 'Patiëntenfolder Wat is astma?',
+      image: &quot;/img/demo/products/8.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 9,
+      name: 'Fletchercurve',
+      image: &quot;/img/demo/products/9.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 10,
+      name: 'Patiënteninformatiefolder Leven met astma',
+      image: &quot;/img/demo/products/10.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 11,
+      name: 'Spiriva Patientenfolder Opgelucht Leven RMT en HH',
+      image: &quot;/img/demo/products/11.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 12,
+      name: 'Afspraken met Jezelf',
+      image: &quot;/img/demo/products/12.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 13,
+      name: 'test display respimat',
+      image: &quot;/img/demo/products/13.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 14,
+      name: 'Het Zorgpadenboek',
+      image: &quot;/img/demo/products/14.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 15,
+      name: 'Patiëntenbrochure AF',
+      image: &quot;/img/demo/products/15.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 16,
+      name: 'Inhalatorenkaart Q3',
+      image: &quot;/img/demo/products/16.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 17,
+      name: 'ONC boek 200 vragen longkanker 2e druk',
+      image: &quot;/img/demo/products/17.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 18,
+      name: 'Patientenfolder Spiolto',
+      image: &quot;/img/demo/products/18.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 19,
+      name: 'Zakboek Dabigatran',
+      image: &quot;/img/demo/products/19.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 20,
+      name: 'Placebo Respimat traningskit',
+      image: &quot;/img/demo/products/20.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 20,
+      name: 'Respimat instructieblok',
+      image: &quot;/img/demo/products/20.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 21,
+      name: 'Respimat instructiekaart',
+      image: &quot;/img/demo/products/21.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 22,
+      name: 'Placebo Spiriva Handihaler trainingkit',
+      image: &quot;/img/demo/products/22.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 23,
+      name: 'Placebo Spiriva (30) casules',
+      image: &quot;/img/demo/products/23.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 24,
+      name: 'Suikerkubus',
+      image: &quot;/img/demo/products/24.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 25,
+      name: 'Patiëntenbrochure Jardiance 1e uitgifte',
+      image: &quot;/img/demo/products/25.jpg&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 26,
+      name: 'Scheurblok boezemfibrilleren met illustraties voor de patiënt',
+      image: &quot;/img/demo/products/26.png&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 27,
+      name: 'De rol van ICS bij de behandeling van COPD',
+      image: &quot;/img/demo/products/27.png&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 28,
+      name: 'NOAC voorschrijverskaart HA',
+      image: &quot;/img/demo/products/28.png&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },
+
+    {
+      id: 29,
+      name: 'Patiëntenfolder Trajenta',
+      image: &quot;/img/demo/products/29.png&quot;,
+      stock: 184729,
+      per: 1,
+      prices: [{ min: 1, max: false, price: 0 }],
+      attributes: [
+        { name: &quot;brand&quot;, label: 'Merk', value: 'Striverdi', valueLabel: 'Striverdi', tag: false, filterable: true },
+        { name: &quot;indication&quot;, label: 'Indicatie', value: 'COPD', valueLabel: 'COPD', tag: false, filterable: true },
+        { name: &quot;target&quot;, label: 'Doelgroep', value: 'Patient', valueLabel: 'Patient', tag: false, filterable: true },
+      ]
+    },</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">e3sgb2ZmZXIuaGFzT1ZIRCB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BlcicgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAge3sgb2ZmZXIuaGFzT1ZIRCB9fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5nZXRPdmVyaGVhZERvb3IoKSwK</text>
+        <text encoding="base64">e3sgb2ZmZXIuaGFzT1ZIRCB9fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gW107Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0Rpa3RlIHBhbmVlbCcgPT4gLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5nZXRPdmVyaGVhZERvb3IoKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIC4gLmQK</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gW107Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -342,10 +1199,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0Rpa3RlIHBhbmVlbCcgPT4gLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0Um9vZlBsYXRpbmdJZCgpCiAgICB7CiAgICAgICAgcmV0dXJuIHNlbGY6OlJPT0ZfQ09BVElOR1NbJHRoaXMtPmJ1aWxkaW5nLT5nZXREaW1lbnNpb25zKCktPmdldFJvb2ZQbGF0aW5nKCldWyR0aGlzLT5idWlsZGluZy0+Z2V0Q29hdGluZygpLT5nZXRWYWx1ZSgpXTsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0V2FsbFBsYXRpbmdJZCgpCiAgICB7CiAgICAgICAgcmV0dXJuIHNlbGY6OldBTExfQ09BVElOR1NbJHRoaXMtPmJ1aWxkaW5nLT5nZXREaW1lbnNpb25zKCktPmdldFdhbGxQbGF0aW5nKCldWyR0aGlzLT5idWlsZGluZy0+Z2V0Q29hdGluZygpLT5nZXRWYWx1ZSgpXTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIC4gLmQK</text>
       </register>
       <register name=":" type="4">
         <text>s/Roof/Wall/</text>
