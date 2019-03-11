@@ -21,14 +21,6 @@
         <mark key="^" line="33" column="35" />
         <mark key="." line="33" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page1.blade.php" timestamp="1551941426967">
-        <mark key="'" line="58" column="12" />
-        <mark key="k" line="58" column="12" />
-        <mark key="[" line="80" column="65" />
-        <mark key="]" line="65" column="40" />
-        <mark key="." line="65" column="40" />
-        <mark key="^" line="65" column="40" />
-      </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Products/PlatingAttributes.php" timestamp="1551941667455">
         <mark key="'" line="114" column="12" />
         <mark key="[" line="114" column="21" />
@@ -54,16 +46,17 @@
         <mark key="." line="15" column="24" />
         <mark key="^" line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/domain/Products/PlatingOptions.php" timestamp="1551886259712">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="121" column="5" />
-      </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1551945828280">
         <mark key="'" line="279" column="27" />
         <mark key="[" line="314" column="49" />
         <mark key="]" line="209" column="44" />
         <mark key="." line="209" column="44" />
         <mark key="^" line="209" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoorColors.php" timestamp="1552314122440">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="37" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/NumberField.vue" timestamp="1551943858155">
         <mark key="[" line="18" column="17" />
@@ -77,6 +70,7 @@
         <mark key="." line="171" column="24" />
         <mark key="^" line="171" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingWindowFrameColors.php" timestamp="1552314116802" />
       <file name="$USER_HOME$/Projects/amsterdambeautiful/data/2890436.xml" timestamp="1551861821729">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="445" column="68" />
@@ -111,7 +105,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoors.php" timestamp="1551942856595">
+      <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoors.php" timestamp="1552314307607">
+        <mark key="'" line="32" column="5" />
         <mark key="[" line="8" column="17" />
         <mark key="]" line="8" column="17" />
         <mark key="." line="8" column="17" />
@@ -130,7 +125,7 @@
         <mark key="^" line="18" column="26" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingGutterColors.php" timestamp="1551780405106">
+      <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingGutterColors.php" timestamp="1552314075172">
         <mark key="[" line="17" column="25" />
         <mark key="]" line="17" column="25" />
         <mark key="." line="17" column="25" />
@@ -180,13 +175,6 @@
       <file name="/JavaScript Console" timestamp="1551942098155">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Quotation.php" timestamp="1551887072433">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="76" />
-        <mark key="]" line="34" column="76" />
-        <mark key="." line="34" column="76" />
-        <mark key="^" line="34" column="75" />
-      </file>
       <file name="/Dummy.txt" timestamp="1551879681415">
         <mark key="[" line="0" column="0" />
       </file>
@@ -216,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="372" column="25" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="365" column="20" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="378" column="0" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="7" column="15" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
@@ -316,33 +303,40 @@
       <jump line="281" column="31" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="275" column="27" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="68" column="12" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/test.js" />
+      <jump line="32" column="5" filename="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoors.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnVEJEJyA9PiAnVG8gYmUgZGVjaWRlZCcsCiAgICAgICAgJ1JBTDkwMDAnID0+ICdSQUwgOTAwMCBjb2xvcicK</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>color</text>
       </register>
       <register name="/" type="4">
-        <text>overh</text>
+        <text>door</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOmRpc2FibGVkPSIhb2ZmZXIuaGFzT1ZIRCIK</text>
+        <text encoding="base64">ICAgICAgICAnVEJEJyA9PiAnVG8gYmUgZGVjaWRlZCcsCiAgICAgICAgJ1JBTDkwMDAnID0+ICdSQUwgOTAwMCBjb2xvcicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJ0aXRsZSI6ICJQUElEIGluZm8iLAogICAgICAgICAgICAiZGVzY3JpcHRpb24iOiAiTWFha3QgaGV0IG1ha2tlbGlqayBpbmZvcm1hdGllIG92ZXIgUFBJRCwgaG9lZmJldmFuZ2VuaGVpZCwgZGUgYmVoYW5kZWxpbmcgZW4gdm9lZGluZyB0ZSBkZWxlbiBtZXQgZWlnZW5hcmVuIiwKICAgICAgICAgICAgImltYWdlIjogImh0dHBzOi8vY2xvdWQuYm9laHJpbmdlci1pbmdlbGhlaW0ubmwvYW5pbWFsLWhlYWx0aC9hc3NldHMvaW1nL2xvZ29fcHBpZGluZm8ucG5nIiwKICAgICAgICAgICAgImFsdCI6ICJMb2dvIFBQSUQgaW5mbyIsCiAgICAgICAgICAgICJ1cmwiOiAiaHR0cDovL3d3dy5wcGlkaW5mby5ubC8iCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAnVEJEJyA9PiAnVG8gYmUgZGVjaWRlZCcsCiAgICAgICAgJ1JBTDkwMDAnID0+ICdSQUwgOTAwMCBjb2xvcicK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAnVEJEJyA9PiAnTi5ULkIuJywKICAgICAgICAnUkFMOTAwMCcgPT4gJ1JBTCA5MDAwIGtsZXVyJwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJ0aXRsZSI6ICJQUElEIGluZm8iLAogICAgICAgICAgICAiZGVzY3JpcHRpb24iOiAiTWFha3QgaGV0IG1ha2tlbGlqayBpbmZvcm1hdGllIG92ZXIgUFBJRCwgaG9lZmJldmFuZ2VuaGVpZCwgZGUgYmVoYW5kZWxpbmcgZW4gdm9lZGluZyB0ZSBkZWxlbiBtZXQgZWlnZW5hcmVuIiwKICAgICAgICAgICAgImltYWdlIjogImh0dHBzOi8vY2xvdWQuYm9laHJpbmdlci1pbmdlbGhlaW0ubmwvYW5pbWFsLWhlYWx0aC9hc3NldHMvaW1nL2xvZ29fcHBpZGluZm8ucG5nIiwKICAgICAgICAgICAgImFsdCI6ICJMb2dvIFBQSUQgaW5mbyIsCiAgICAgICAgICAgICJ1cmwiOiAiaHR0cDovL3d3dy5wcGlkaW5mby5ubC8iCiAgICAgICAgfSwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJ0aXRsZSI6ICJQUElEIGJpaiBwYWFyZGVuIiwKICAgICAgICAgICAgImRlc2NyaXB0aW9uIjogIkluZm9ybWF0aWUgb3ZlciBkZSBzeW1wdG9tZW4gem9hbHMgaG9lZmJldmFuZ2VuaGVpZCwgZGUgYmVoYW5kZWxpbmcgZW4gdm9lZGluZyBiaWogZGUgZGlhZ25vc2UgUFBJRCIsCiAgICAgICAgICAgICJpbWFnZSI6ICJodHRwczovL2Nsb3VkLmJvZWhyaW5nZXItaW5nZWxoZWltLm5sL2FuaW1hbC1oZWFsdGgvYXNzZXRzL2ltZy9sb2dvX3BwaWRiaWpwYWFyZGVuLmpwZyIsCiAgICAgICAgICAgICJhbHQiOiAiTG9nbyBQUElEIGJpaiBwYWFyZGVuIiwKICAgICAgICAgICAgInVybCI6ICJodHRwczovL3d3dy5wcGlkYmlqcGFhcmRlbi5ubC8iCiAgICAgICAgfSwK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>{
       id: 1,
       name: 'Artsenverklaring dabigatran te personaliseren',
@@ -763,14 +757,8 @@
       ]
     },</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BlcicgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAge3sgb2ZmZXIuaGFzT1ZIRCB9fQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">e3sgb2ZmZXIuaGFzT1ZIRCB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BlcicgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -791,27 +779,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAge3sgb2ZmZXIuaGFzT1ZIRCB9fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5nZXRPdmVyaGVhZERvb3IoKSwK</text>
+        <text encoding="base64">e3sgb2ZmZXIuaGFzT1ZIRCB9fQo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/Roof/Wall/</text>
+        <text encoding="base64">JzwsJz5zL2Rvb3IvZGV1ci9n</text>
       </register>
     </registers>
     <search>
-      <last-search>overh</last-search>
+      <last-search>door</last-search>
       <last-offset />
-      <last-pattern>overh</last-pattern>
-      <last-replace>Wall</last-replace>
-      <last-substitute>Roof</last-substitute>
+      <last-pattern>door</last-pattern>
+      <last-replace>deur</last-replace>
+      <last-substitute>door</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>style</entry>
         <entry>Ge</entry>
         <entry>hea</entry>
         <entry>foot</entry>
@@ -831,9 +818,9 @@
         <entry>left</entry>
         <entry>Roof</entry>
         <entry>overh</entry>
+        <entry>door</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1NBTkRXSUNIL00=</entry>
         <entry>s/discount/value/g</entry>
         <entry>s/wall/roof/g</entry>
         <entry>s/Attribute/Image/g</entry>
@@ -853,6 +840,7 @@
         <entry encoding="base64">JzwsJz5zL2xlZnQvcmlnaHQ=</entry>
         <entry encoding="base64">JzwsJz5zL1Jvb2YvV2FsbC9n</entry>
         <entry>s/Roof/Wall/</entry>
+        <entry encoding="base64">JzwsJz5zL2Rvb3IvZGV1ci9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
