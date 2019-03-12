@@ -14,11 +14,12 @@
         <mark key="]" line="209" column="0" />
         <mark key="." line="209" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Generator.php" timestamp="1552318798756">
+      <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Generator.php" timestamp="1552377815371">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="23" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+        <mark key="[" line="41" column="37" />
+        <mark key="]" line="41" column="36" />
+        <mark key="." line="41" column="36" />
+        <mark key="^" line="41" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Products/PlatingAttributes.php" timestamp="1551941667455">
         <mark key="'" line="114" column="12" />
@@ -82,17 +83,23 @@
         <mark key="^" line="68" column="12" />
         <mark key="." line="68" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/vendor/spatie/browsershot/src/Browsershot.php" timestamp="1552377451356">
+        <mark key="'" line="662" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/app/Offer.php" timestamp="1551342299182">
+        <mark key="'" line="22" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1552296710503">
         <mark key="[" line="146" column="0" />
         <mark key="]" line="146" column="0" />
         <mark key="." line="146" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/footer.blade.php" timestamp="1552318711047">
-        <mark key="'" line="9" column="70" />
-        <mark key="[" line="9" column="66" />
-        <mark key="]" line="9" column="83" />
-        <mark key="." line="9" column="83" />
-        <mark key="^" line="9" column="83" />
+      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/footer.blade.php" timestamp="1552377954959">
+        <mark key="'" line="10" column="70" />
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="10" column="83" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page3.blade.php" timestamp="1551875085721">
         <mark key="[" line="15" column="95" />
@@ -161,12 +168,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/header.blade.php" timestamp="1551702587730">
+      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/header.blade.php" timestamp="1552377933698">
         <mark key="'" line="3" column="24" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="6" column="16" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="22" />
+        <mark key="^" line="5" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingWicketDoorColors.php" timestamp="1551941499977">
         <mark key="[" line="12" column="37" />
@@ -205,8 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="5" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
-      <jump line="65" column="17" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="82" column="23" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="407" column="8" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="110" column="21" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
@@ -305,19 +310,21 @@
       <jump line="239" column="24" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="285" column="0" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="9" column="70" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/footer.blade.php" />
+      <jump line="295" column="32" filename="$USER_HOME$/Projects/finish-building/vendor/spatie/browsershot/src/Browsershot.php" />
+      <jump line="662" column="0" filename="$USER_HOME$/Projects/finish-building/vendor/spatie/browsershot/src/Browsershot.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtPmJvZHlIdG1sKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>top</text>
       </register>
       <register name="-" type="4">
-        <text>{{ $total }}</text>
+        <text>top</text>
       </register>
       <register name="/" type="4">
         <text>sec</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnVEJEJyA9PiAnVG8gYmUgZGVjaWRlZCcsCiAgICAgICAgJ1JBTDkwMDAnID0+ICdSQUwgOTAwMCBjb2xvcicK</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tdG9wOiAtMTVweDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAtPmJvZHlIdG1sKCk7Cg==</text>
