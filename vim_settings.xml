@@ -385,11 +385,12 @@
         <mark key="." line="37" column="23" />
         <mark key="^" line="37" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen-pwa/store/modules/test.js" timestamp="1552557792596">
+      <file name="$USER_HOME$/Projects/materialen-pwa/store/modules/test.js" timestamp="1552558968993">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="68" column="12" />
-        <mark key="]" line="68" column="12" />
-        <mark key="." line="68" column="12" />
+        <mark key="[" line="69" column="4" />
+        <mark key="]" line="69" column="3" />
+        <mark key="." line="69" column="3" />
+        <mark key="^" line="69" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/database/seeds/BoatsSeeder.php" timestamp="1548770842365">
         <mark key="[" line="20" column="0" />
@@ -460,9 +461,9 @@
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProduct/elemProduct.vue" timestamp="1552558027740">
+      <file name="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProduct/elemProduct.vue" timestamp="1552559084666">
         <mark key="'" line="29" column="14" />
-        <mark key="[" line="87" column="49" />
+        <mark key="[" line="42" column="31" />
         <mark key="]" line="87" column="51" />
         <mark key="^" line="87" column="51" />
         <mark key="." line="87" column="51" />
@@ -578,7 +579,351 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>index</text>
+        <text>[
+    {
+  
+      &quot;id&quot;: 1,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;ZA 02/2009-17436&quot;,
+      &quot;name&quot;: &quot;Bovikalc Bolusschieter&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:17&quot;,
+      &quot;images&quot;: [
+        {
+          &quot;url&quot;: &quot;http://materialen.test/storage/x1WgDm6Z6GvROLRCX3lHGDmIejC82ajYtJv0Sqk2.png&quot;,
+          &quot;alt&quot;: null,
+          &quot;caption&quot;: null,
+          &quot;is_primary&quot;: true
+        }
+      ],
+      &quot;attributes&quot;: [
+  
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:17&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:17&quot;
+    },
+    {
+      &quot;id&quot;: 2,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxAA/2009/00000&quot;,
+      &quot;name&quot;: &quot;Klitteband koeienbandjes&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:17&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 3,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxAA/2009/17282B&quot;,
+      &quot;name&quot;: &quot;Patiëntenfolder&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 4,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: [
+        {
+          &quot;max&quot;: 0,
+          &quot;min&quot;: 1,
+          &quot;value&quot;: 1
+        }
+      ],
+      &quot;code&quot;: &quot;xxxAA/2009/17282F&quot;,
+      &quot;name&quot;: &quot;1b tekst boekje Samenvatting v/d Productkenmerken&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 5,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxAA/2009/17282E&quot;,
+      &quot;name&quot;: &quot;Flowchart zakformaat(per 25)&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 6,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxAA/2009/17282C&quot;,
+      &quot;name&quot;: &quot;Doseerkaarten&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 7,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxAA/2009/17282D&quot;,
+      &quot;name&quot;: &quot;Flowchart A3 poster&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 8,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxXH02/2010/17720&quot;,
+      &quot;name&quot;: &quot;Viacutan Plus&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 9,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxYB02/2010/17367&quot;,
+      &quot;name&quot;: &quot;Metacam Kat 3ml Folder&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 10,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxYB/2010/17815&quot;,
+      &quot;name&quot;: &quot;Snoeppotten&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 11,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxXE02/2010/16731&quot;,
+      &quot;name&quot;: &quot;canikur Pro Knuffel&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 12,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;XE02/2009/16246B&quot;,
+      &quot;name&quot;: &quot;Canikur Pro Consu folder&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 13,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxXV02/2009/16449&quot;,
+      &quot;name&quot;: &quot;da en consumentenfolder - Equitop&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 14,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxAA/2004/0208&quot;,
+      &quot;name&quot;: &quot;Brochure Farma Insights&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 15,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxVET/2009/03799&quot;,
+      &quot;name&quot;: &quot;VET Algemeen EA4 Enveloppen&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    }
+    
+  ]</text>
       </register>
       <register name="-" type="4">
         <text>index</text>
@@ -589,13 +934,360 @@
       <register name="0" type="2">
         <text encoding="base64">Um91dGU6OmdldCgnL3Byb2R1Y3RzJywgJ1Byb2R1Y3RDb250cm9sbGVyQGluZGV4Jyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>[
+    {
+  
+      &quot;id&quot;: 1,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;ZA 02/2009-17436&quot;,
+      &quot;name&quot;: &quot;Bovikalc Bolusschieter&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:17&quot;,
+      &quot;images&quot;: [
+        {
+          &quot;url&quot;: &quot;http://materialen.test/storage/x1WgDm6Z6GvROLRCX3lHGDmIejC82ajYtJv0Sqk2.png&quot;,
+          &quot;alt&quot;: null,
+          &quot;caption&quot;: null,
+          &quot;is_primary&quot;: true
+        }
+      ],
+      &quot;attributes&quot;: [
+  
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:17&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:17&quot;
+    },
+    {
+      &quot;id&quot;: 2,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxAA/2009/00000&quot;,
+      &quot;name&quot;: &quot;Klitteband koeienbandjes&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:17&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 3,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxAA/2009/17282B&quot;,
+      &quot;name&quot;: &quot;Patiëntenfolder&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 4,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: [
+        {
+          &quot;max&quot;: 0,
+          &quot;min&quot;: 1,
+          &quot;value&quot;: 1
+        }
+      ],
+      &quot;code&quot;: &quot;xxxAA/2009/17282F&quot;,
+      &quot;name&quot;: &quot;1b tekst boekje Samenvatting v/d Productkenmerken&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 5,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxAA/2009/17282E&quot;,
+      &quot;name&quot;: &quot;Flowchart zakformaat(per 25)&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 6,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxAA/2009/17282C&quot;,
+      &quot;name&quot;: &quot;Doseerkaarten&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 7,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxAA/2009/17282D&quot;,
+      &quot;name&quot;: &quot;Flowchart A3 poster&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 8,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxXH02/2010/17720&quot;,
+      &quot;name&quot;: &quot;Viacutan Plus&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 9,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxYB02/2010/17367&quot;,
+      &quot;name&quot;: &quot;Metacam Kat 3ml Folder&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 10,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxYB/2010/17815&quot;,
+      &quot;name&quot;: &quot;Snoeppotten&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 11,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxXE02/2010/16731&quot;,
+      &quot;name&quot;: &quot;canikur Pro Knuffel&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 12,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;XE02/2009/16246B&quot;,
+      &quot;name&quot;: &quot;Canikur Pro Consu folder&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 13,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxXV02/2009/16449&quot;,
+      &quot;name&quot;: &quot;da en consumentenfolder - Equitop&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 14,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxAA/2004/0208&quot;,
+      &quot;name&quot;: &quot;Brochure Farma Insights&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    },
+    {
+      &quot;id&quot;: 15,
+      &quot;categoryId&quot;: 1,
+      &quot;price&quot;: null,
+      &quot;code&quot;: &quot;xxxVET/2009/03799&quot;,
+      &quot;name&quot;: &quot;VET Algemeen EA4 Enveloppen&quot;,
+      &quot;stock&quot;: 0,
+      &quot;min_order&quot;: null,
+      &quot;max_order&quot;: null,
+      &quot;order_per&quot;: null,
+      &quot;status&quot;: 0,
+      &quot;importedAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;images&quot;: [
+    
+      ],
+      &quot;attributes&quot;: [
+    
+      ],
+      &quot;schemaId&quot;: null,
+      &quot;createdAt&quot;: &quot;2019-02-14 10:06:18&quot;,
+      &quot;updatedAt&quot;: &quot;2019-02-14 10:06:18&quot;
+    }
+    
+  ]</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>[
     {
       &quot;id&quot;: 1,
@@ -970,20 +1662,17 @@
     }
   ]</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLXRvcDogMTVweDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1004,10 +1693,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLXRvcDogMTVweDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/float/value</text>
