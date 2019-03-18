@@ -252,11 +252,12 @@
         <mark key="." line="27" column="3" />
         <mark key="^" line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" timestamp="1552918844293">
+      <file name="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" timestamp="1552924837597">
         <mark key="'" line="10" column="18" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="24" column="18" />
+        <mark key="." line="24" column="18" />
+        <mark key="^" line="24" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Nova/Price.php" timestamp="1549290893097">
         <mark key="[" line="10" column="1" />
@@ -373,12 +374,12 @@
         <mark key="^" line="39" column="21" />
         <mark key="." line="39" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProductListFilterAttribute/elemProductListFilterAttribute.vue" timestamp="1552921576659">
-        <mark key="'" line="17" column="57" />
-        <mark key="[" line="18" column="42" />
-        <mark key="]" line="18" column="42" />
-        <mark key="." line="18" column="42" />
-        <mark key="^" line="18" column="41" />
+      <file name="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProductListFilterAttribute/elemProductListFilterAttribute.vue" timestamp="1552924559014">
+        <mark key="'" line="68" column="66" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="77" column="36" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingWicketDoorColors.php" timestamp="1551941499977">
         <mark key="[" line="12" column="37" />
@@ -532,7 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="11" filename="$USER_HOME$/Projects/finish-building/domain/Products/CoatingAttributes.php" />
       <jump line="16" column="11" filename="$USER_HOME$/Projects/finish-building/domain/Products/CoatingAttributes.php" />
       <jump line="13" column="34" filename="$USER_HOME$/Projects/finish-building/domain/Products/CoatingAttributes.php" />
       <jump line="14" column="12" filename="$USER_HOME$/Projects/finish-building/domain/Products/CoatingAttributes.php" />
@@ -632,43 +632,50 @@
       <jump line="10" column="18" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
       <jump line="16" column="42" filename="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProductListFilterAttribute/elemProductListFilterAttribute.vue" />
       <jump line="17" column="57" filename="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProductListFilterAttribute/elemProductListFilterAttribute.vue" />
+      <jump line="68" column="66" filename="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProductListFilterAttribute/elemProductListFilterAttribute.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[name]</text>
+        <text>state.data</text>
       </register>
       <register name="-" type="4">
-        <text>[name]</text>
+        <text>state.data</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text>'</text>
       </register>
-      <register name="0" type="4">
-        <text>option.value</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbW1pdCgnU0VUX0ZJTFRFUl9WQUxVRScsIHsKICAgICAga2V5OiBwYXlsb2FkLmtleSwKICAgICAgdmFsdWU6IG5ld1ZhbHVlcywKICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbnB1dCBjbGFzcz0idG0tY2hlY2tib3giIDppZD0ibmFtZSsnLScrb3B0aW9uLnZhbHVlIiA6bmFtZT0ib3B0aW9uLmlkIiA6dmFsdWU9Im9wdGlvbi52YWx1ZSIKICAgICAgICAgICAgdHlwZT0iY2hlY2tib3giIEBjaGFuZ2U9InNldEZpbHRlciI+CiAgICAgICAgICA8bGFiZWwgOmZvcj0ibmFtZSsnLScrb3B0aW9uLnZhbHVlIj48c3Bhbj57eyBvcHRpb24ubGFiZWwgfX08L3NwYW4+PC9sYWJlbD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGlmIChzdGF0ZS5maWx0ZXJzLnNlYXJjaCA9PT0gbnVsbCkgewogICAgICByZXR1cm4gc3RhdGUuZGF0YTsKICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhc3luYwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRzdG9yZS5jb21taXQoCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text>ET_FILTER_VALUE', {
+          key: payload.key,
+          value: newValues,
+        });</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGF0dHJpYnV0ZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLiRzdG9yZS5kaXNwYXQK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text>ch('products/toggleFilterValue', {
+        //   key: this.name,
+        //   value,
+        // })</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJvZHVjdERhdGFGaWx0ZXJzOiB0aGlzLiRzdG9yZS5nZXR0ZXJzWydwcm9kdWN0cy9maWx0ZXJzJ10K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2YWx1ZSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -689,27 +696,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC4uLm1hcEdldHRlcnMK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name=":" type="4">
-        <text>s/filters/schema/g</text>
+        <text>s/'/`/g</text>
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
-      <last-replace>schema</last-replace>
-      <last-substitute>filters</last-substitute>
+      <last-pattern>'</last-pattern>
+      <last-replace>`</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pag</entry>
         <entry>-</entry>
         <entry>34</entry>
         <entry>loading</entry>
@@ -729,9 +735,9 @@
         <entry>slug</entry>
         <entry>filters</entry>
         <entry>name</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1hYWC9YWA==</entry>
         <entry encoding="base64">JzwsJz5kb29yL2RldXIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2xlZnQvcmlnaHQ=</entry>
         <entry encoding="base64">JzwsJz5zL1Jvb2YvV2FsbC9n</entry>
@@ -751,6 +757,7 @@
         <entry>s/slug/label/g</entry>
         <entry encoding="base64">JzwsJz4vZmlsdGVycy9kYXRhL2c=</entry>
         <entry>s/filters/schema/g</entry>
+        <entry>s/'/`/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
