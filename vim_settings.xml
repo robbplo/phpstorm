@@ -325,11 +325,10 @@
         <mark key="^" line="2" column="46" />
         <mark key="." line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen-pwa/pages/index.vue" timestamp="1552918586914">
-        <mark key="[" line="44" column="5" />
-        <mark key="]" line="44" column="5" />
-        <mark key="." line="44" column="5" />
-        <mark key="^" line="44" column="6" />
+      <file name="$USER_HOME$/Projects/materialen-pwa/pages/index.vue" timestamp="1552919537126">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Console/Commands/SeedAttributes.php" timestamp="1552897817137">
         <mark key="'" line="49" column="0" />
@@ -374,11 +373,12 @@
         <mark key="^" line="39" column="21" />
         <mark key="." line="39" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProductListFilterAttribute/elemProductListFilterAttribute.vue" timestamp="1552915598696">
-        <mark key="[" line="19" column="23" />
-        <mark key="]" line="19" column="23" />
-        <mark key="." line="19" column="23" />
-        <mark key="^" line="58" column="20" />
+      <file name="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProductListFilterAttribute/elemProductListFilterAttribute.vue" timestamp="1552921576659">
+        <mark key="'" line="17" column="57" />
+        <mark key="[" line="18" column="42" />
+        <mark key="]" line="18" column="42" />
+        <mark key="." line="18" column="42" />
+        <mark key="^" line="18" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingWicketDoorColors.php" timestamp="1551941499977">
         <mark key="[" line="12" column="37" />
@@ -532,8 +532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Products/PlatingAttributes.php" />
-      <jump line="10" column="4" filename="$USER_HOME$/Projects/finish-building/domain/Products/PlatingAttributes.php" />
       <jump line="15" column="11" filename="$USER_HOME$/Projects/finish-building/domain/Products/CoatingAttributes.php" />
       <jump line="16" column="11" filename="$USER_HOME$/Projects/finish-building/domain/Products/CoatingAttributes.php" />
       <jump line="13" column="34" filename="$USER_HOME$/Projects/finish-building/domain/Products/CoatingAttributes.php" />
@@ -632,43 +630,45 @@
       <jump line="113" column="0" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
       <jump line="70" column="20" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
       <jump line="10" column="18" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
+      <jump line="16" column="42" filename="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProductListFilterAttribute/elemProductListFilterAttribute.vue" />
+      <jump line="17" column="57" filename="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProductListFilterAttribute/elemProductListFilterAttribute.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBhc3luYwo=</text>
+      <register name="&quot;" type="4">
+        <text>[name]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[name]</text>
       </register>
       <register name="/" type="4">
-        <text>filters</text>
+        <text>name</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbW1pdCgnU0VUX0RBVEEnLCBhd2FpdCB0aGlzLiRheGlvcy4kZ2V0KCcvcHJvZHVjdHMvYWxsJykpCg==</text>
+      <register name="0" type="4">
+        <text>option.value</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhc3luYwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxpbnB1dCBjbGFzcz0idG0tY2hlY2tib3giIDppZD0ibmFtZSsnLScrb3B0aW9uLnZhbHVlIiA6bmFtZT0ib3B0aW9uLmlkIiA6dmFsdWU9Im9wdGlvbi52YWx1ZSIKICAgICAgICAgICAgdHlwZT0iY2hlY2tib3giIEBjaGFuZ2U9InNldEZpbHRlciI+CiAgICAgICAgICA8bGFiZWwgOmZvcj0ibmFtZSsnLScrb3B0aW9uLnZhbHVlIj48c3Bhbj57eyBvcHRpb24ubGFiZWwgfX08L3NwYW4+PC9sYWJlbD4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGF0dHJpYnV0ZXMpCg==</text>
+        <text encoding="base64">ICBhc3luYwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJvZHVjdERhdGFGaWx0ZXJzOiB0aGlzLiRzdG9yZS5nZXR0ZXJzWydwcm9kdWN0cy9maWx0ZXJzJ10K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGF0dHJpYnV0ZXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC4uLm1hcEdldHRlcnMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgcHJvZHVjdERhdGFGaWx0ZXJzOiB0aGlzLiRzdG9yZS5nZXR0ZXJzWydwcm9kdWN0cy9maWx0ZXJzJ10K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -688,20 +688,20 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">WwogICAgICAgIHsKICAgICAgICAgICJuYW1lIjogImluZGljYXRpZSIsCiAgICAgICAgICAibGFiZWwiOiAiSW5kaWNhdGllIiwKICAgICAgICAgICJkZXNjcmlwdGlvbiI6ICJGaWx0ZXJlbiBvcCBpbmRpY2F0aWUiLAogICAgICAgICAgInNvcnRfb3JkZXIiOiAxLAogICAgICAgICAgInR5cGUiOiAic2VsZWN0IiwKICAgICAgICAgICJkZWZhdWx0IjogbnVsbCwKICAgICAgICAgICJvcHRpb25zIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgInZhbHVlIjogIkFzdG1hIiwKICAgICAgICAgICAgICAibGFiZWwiOiAiQXN0bWEiCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAidmFsdWUiOiAiQXRyaXVtZmlicmlsbGVyZW4iLAogICAgICAgICAgICAgICJsYWJlbCI6ICJBdHJpdW1maWJyaWxsZXJlbiIKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICJ2YWx1ZSI6ICJDT1BEIiwKICAgICAgICAgICAgICAibGFiZWwiOiAiQ09QRCIKICAgICAgICAgICAgfQogICAgICAgICAgXQogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgIm5hbWUiOiAiZG9lbGdyb2VwIiwKICAgICAgICAgICJsYWJlbCI6ICJEb2VsZ3JvZXAiLAogICAgICAgICAgImRlc2NyaXB0aW9uIjogIkZpbHRlcmVuIG9wIGRvZWxncm9lcCIsCiAgICAgICAgICAic29ydF9vcmRlciI6IDIsCiAgICAgICAgICAidHlwZSI6ICJzZWxlY3QiLAogICAgICAgICAgImRlZmF1bHQiOiBudWxsLAogICAgICAgICAgIm9wdGlvbnMiOiBbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAidmFsdWUiOiAiQXJ0cyAmIEFwb3RoZWtlciIsCiAgICAgICAgICAgICAgImxhYmVsIjogIkFydHMgJiBBcG90aGVrZXIiCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAidmFsdWUiOiAiUGF0aWVudCIsCiAgICAgICAgICAgICAgImxhYmVsIjogIlBhdGllbnQiCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAidmFsdWUiOiAiVmVycGxlZWdrdW5kaWdlL1BPSCIsCiAgICAgICAgICAgICAgImxhYmVsIjogIlZlcnBsZWVna3VuZGlnZS9QT0giCiAgICAgICAgICAgIH0KICAgICAgICAgIF0KICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJuYW1lIjogIm1lcmsiLAogICAgICAgICAgImxhYmVsIjogIk1lcmsiLAogICAgICAgICAgImRlc2NyaXB0aW9uIjogIkZpbHRlcmVuIG9wIG1lcmsiLAogICAgICAgICAgInNvcnRfb3JkZXIiOiAzLAogICAgICAgICAgInR5cGUiOiAic2VsZWN0IiwKICAgICAgICAgICJkZWZhdWx0IjogbnVsbCwKICAgICAgICAgICJvcHRpb25zIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgInZhbHVlIjogIkJvZXplbWZpYnJpbGxlcmVuLm5sIiwKICAgICAgICAgICAgICAibGFiZWwiOiAiQm9lemVtZmlicmlsbGVyZW4ubmwiCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAidmFsdWUiOiAiRlRPLVNwaW9sdG8iLAogICAgICAgICAgICAgICJsYWJlbCI6ICJGVE8tU3Bpb2x0byIKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICJ2YWx1ZSI6ICJHaW90cmlmIiwKICAgICAgICAgICAgICAibGFiZWwiOiAiR2lvdHJpZiIKICAgICAgICAgICAgfQogICAgICAgICAgXQogICAgICAgIH0KICAgICAgXQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC4uLm1hcEdldHRlcnMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/filters/schema/g</text>
       </register>
     </registers>
     <search>
-      <last-search>filters</last-search>
-      <last-offset>/</last-offset>
-      <last-pattern>filters</last-pattern>
+      <last-search>name</last-search>
+      <last-offset />
+      <last-pattern>name</last-pattern>
       <last-replace>schema</last-replace>
       <last-substitute>filters</last-substitute>
       <last-dir>1</last-dir>
@@ -726,9 +726,9 @@
         <entry>last</entry>
         <entry>Ca</entry>
         <entry>tr</entry>
-        <entry>name</entry>
         <entry>slug</entry>
         <entry>filters</entry>
+        <entry>name</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1hYWC9YWA==</entry>
