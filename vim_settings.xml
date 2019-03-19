@@ -270,12 +270,12 @@
         <mark key="." line="27" column="3" />
         <mark key="^" line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" timestamp="1553005457723">
-        <mark key="'" line="84" column="31" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-        <mark key="^" line="113" column="17" />
+      <file name="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" timestamp="1553009267886">
+        <mark key="'" line="89" column="31" />
+        <mark key="[" line="86" column="10" />
+        <mark key="]" line="34" column="79" />
+        <mark key="." line="34" column="79" />
+        <mark key="^" line="34" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Nova/Price.php" timestamp="1549290893097">
         <mark key="[" line="10" column="1" />
@@ -390,8 +390,8 @@
         <mark key="^" line="39" column="21" />
         <mark key="." line="39" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProductListFilterAttribute/elemProductListFilterAttribute.vue" timestamp="1552988003286">
-        <mark key="'" line="63" column="66" />
+      <file name="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProductListFilterAttribute/elemProductListFilterAttribute.vue" timestamp="1553008663276">
+        <mark key="'" line="62" column="14" />
         <mark key="[" line="68" column="10" />
         <mark key="]" line="69" column="0" />
         <mark key="^" line="69" column="15" />
@@ -545,7 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProduct/elemProduct.vue" />
       <jump line="69" column="0" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/test.js" />
       <jump line="491" column="5" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/test.js" />
       <jump line="482" column="24" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/test.js" />
@@ -645,10 +644,11 @@
       <jump line="82" column="0" filename="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProductListFilter/elemProductListFilter.vue" />
       <jump line="24" column="81" filename="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProductListFilter/elemProductListFilter.vue" />
       <jump line="84" column="31" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
+      <jump line="62" column="14" filename="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProductListFilterAttribute/elemProductListFilterAttribute.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>toLowerCase().includes(state.filters.search.toLowerCase())</text>
       </register>
       <register name="-" type="4">
         <text>flase</text>
@@ -656,8 +656,8 @@
       <register name="/" type="4">
         <text>debu</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZndyaXRlKCRmaWxlLCAoJGluZGV4ID09PSAwID8gJ1snIDogJywnKSAuIGpzb25fZW5jb2RlKCRwcm9kdWN0KSk7Cg==</text>
+      <register name="0" type="4">
+        <text>toLowerCase().includes(state.filters.search.toLowerCase())</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
