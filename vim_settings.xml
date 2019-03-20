@@ -231,11 +231,12 @@
         <mark key="]" line="146" column="0" />
         <mark key="." line="146" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/Product.php" timestamp="1552985011682">
-        <mark key="[" line="169" column="33" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
-        <mark key="^" line="168" column="0" />
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/Product.php" timestamp="1553076951232">
+        <mark key="'" line="41" column="28" />
+        <mark key="[" line="67" column="45" />
+        <mark key="]" line="67" column="45" />
+        <mark key="." line="67" column="45" />
+        <mark key="^" line="67" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/footer.blade.php" timestamp="1552551220952">
         <mark key="[" line="4" column="15" />
@@ -310,6 +311,12 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_03_20_101158_add_description_column_to_products_table.php" timestamp="1553076767178">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="11" />
+        <mark key="." line="16" column="11" />
+        <mark key="^" line="16" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/Doors.php" timestamp="1551943420265">
         <mark key="[" line="13" column="44" />
@@ -476,12 +483,12 @@
         <mark key="^" line="31" column="18" />
         <mark key="." line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Http/Resources/Product.php" timestamp="1552901677099">
+      <file name="$USER_HOME$/Projects/materialen/app/Http/Resources/Product.php" timestamp="1553076889981">
         <mark key="'" line="6" column="31" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="44" column="23" />
+        <mark key="[" line="23" column="47" />
+        <mark key="]" line="23" column="46" />
+        <mark key="." line="23" column="46" />
+        <mark key="^" line="23" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/storage/logs/laravel-2019-02-19.log" timestamp="1550587867060">
         <mark key="[" line="0" column="0" />
@@ -503,6 +510,12 @@
         <mark key="]" line="37" column="23" />
         <mark key="." line="37" column="23" />
         <mark key="^" line="37" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/database/migrations/2018_12_28_094506_create_products_table.php" timestamp="1553076803486">
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="24" column="64" />
+        <mark key="^" line="24" column="64" />
+        <mark key="." line="24" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/database/seeds/BoatsSeeder.php" timestamp="1548770842365">
         <mark key="[" line="20" column="0" />
@@ -545,9 +558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/test.js" />
-      <jump line="491" column="5" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/test.js" />
-      <jump line="482" column="24" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/test.js" />
       <jump line="1212" column="17" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/test.js" />
       <jump line="15" column="69" filename="$USER_HOME$/Projects/materialen/storage/logs/laravel-2019-03-14.log" />
       <jump line="295" column="2" filename="$USER_HOME$/Projects/materialen/storage/logs/laravel-2019-03-14.log" />
@@ -645,47 +655,50 @@
       <jump line="24" column="81" filename="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProductListFilter/elemProductListFilter.vue" />
       <jump line="84" column="31" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
       <jump line="62" column="14" filename="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProductListFilterAttribute/elemProductListFilterAttribute.vue" />
+      <jump line="157" column="15" filename="$USER_HOME$/Projects/materialen/app/Nova/Product.php" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/materialen/app/Nova/Product.php" />
+      <jump line="40" column="28" filename="$USER_HOME$/Projects/materialen/app/Nova/Product.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>toLowerCase().includes(state.filters.search.toLowerCase())</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="-" type="4">
         <text>flase</text>
       </register>
       <register name="/" type="4">
-        <text>debu</text>
+        <text>Name</text>
       </register>
       <register name="0" type="4">
         <text>toLowerCase().includes(state.filters.search.toLowerCase())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtb3VudGVkKCkgewogICAgIHRoaXMuZGVib3VuY2VkU2V0U2VhcmNoID0gXy5kZWJvdW5jZSh0aGlzLnNldFNlYXJjaCwgMjAwKQogIH0sCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkYXRhKCkgewogICAgcmV0dXJuIHsKICAgICAgc2VhcmNoOiBudWxsLAogICAgfQogIH0sCg==</text>
+        <text encoding="base64">ICBtb3VudGVkKCkgewogICAgIHRoaXMuZGVib3VuY2VkU2V0U2VhcmNoID0gXy5kZWJvdW5jZSh0aGlzLnNldFNlYXJjaCwgMjAwKQogIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICBkYXRhKCkgewogICAgcmV0dXJuIHsKICAgICAgc2VhcmNoOiBudWxsLAogICAgfQogIH0sCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICB9LAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICB3YXRjaDogCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>{
      search() {
        // this.debouncedSetSearch()
        this.setSearch();
      }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICBzZXRTZWFyY2goKSB7CiAgICAgICB0aGlzLiRzdG9yZS5jb21taXQoJ3Byb2R1Y3RzL1NFVF9TRUFSQ0gnLCB0aGlzLnNlYXJjaCkKICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -706,19 +719,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICBzZXRTZWFyY2goKSB7CiAgICAgICB0aGlzLiRzdG9yZS5jb21taXQoJ3Byb2R1Y3RzL1NFVF9TRUFSQ0gnLCB0aGlzLnNlYXJjaCkKICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyZAo=</text>
+        <text encoding="base64">ICAgICAvLwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>debu</last-search>
+      <last-search>Name</last-search>
       <last-offset />
-      <last-pattern>debu</last-pattern>
+      <last-pattern>Name</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -726,7 +739,6 @@
     </search>
     <history>
       <history-search>
-        <entry>public</entry>
         <entry>jar</entry>
         <entry>to</entry>
         <entry>last</entry>
@@ -734,7 +746,6 @@
         <entry>tr</entry>
         <entry>slug</entry>
         <entry>filters</entry>
-        <entry>name</entry>
         <entry>val</entry>
         <entry>reset</entry>
         <entry>met</entry>
@@ -746,6 +757,8 @@
         <entry>v-m</entry>
         <entry>fetch</entry>
         <entry>debu</entry>
+        <entry>name</entry>
+        <entry>Name</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xlZnQvcmlnaHQ=</entry>
