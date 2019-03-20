@@ -271,12 +271,12 @@
         <mark key="." line="27" column="3" />
         <mark key="^" line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" timestamp="1553086242486">
-        <mark key="'" line="123" column="16" />
-        <mark key="[" line="123" column="16" />
-        <mark key="]" line="123" column="16" />
-        <mark key="." line="123" column="16" />
-        <mark key="^" line="125" column="7" />
+      <file name="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" timestamp="1553087359397">
+        <mark key="'" line="109" column="28" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+        <mark key="^" line="135" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Nova/Price.php" timestamp="1549290893097">
         <mark key="[" line="10" column="1" />
@@ -558,10 +558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="13" filename="$USER_HOME$/Projects/materialen-pwa/nuxt.config.js" />
-      <jump line="3" column="8" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
-      <jump line="319" column="3" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
-      <jump line="91" column="0" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
       <jump line="127" column="18" filename="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProductList/elemProductList.vue" />
       <jump line="119" column="6" filename="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProductList/elemProductList.vue" />
       <jump line="74" column="32" filename="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProductList/elemProductList.vue" />
@@ -648,7 +644,6 @@
       <jump line="92" column="18" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
       <jump line="113" column="0" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
-      <jump line="89" column="30" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
       <jump line="122" column="4" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
       <jump line="16" column="10" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
       <jump line="47" column="9" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
@@ -658,43 +653,48 @@
       <jump line="119" column="11" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
       <jump line="86" column="78" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
       <jump line="123" column="16" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
+      <jump line="89" column="2" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
+      <jump line="90" column="126" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
+      <jump line="107" column="31" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
+      <jump line="108" column="31" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
+      <jump line="109" column="28" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getters.dataExpired</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXRlLmV4cGlyZXNBdC5kYXRhKQogICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>getters.dataExpired</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXR0ZXJzXD4=</text>
+        <text>att</text>
       </register>
       <register name="0" type="4">
-        <text>expiresAt.isAfter(dayjs())</text>
+        <text>filterAttributesExpired</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXRlLmV4cGlyZXNBdC5kYXRhKQogICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXRlLmV4cGlyZXNBdC5kYXRhKQogICAgY29uc29sZS5sb2coZGF5anMoKSkKICAgIGNvbnNvbGUubG9nKGV4cGlyZXNBdC5pc0FmdGVyKGRheWpzKCkpKQo=</text>
+        <text encoding="base64">ICAgIAogICAgLy8gZ2V0IHByb2R1Y3RzCiAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGlmIAo=</text>
+        <text encoding="base64">ICAgIGlmIChzdGF0ZS5maWx0ZXJzLmF0dHJpYnV0ZXMubGVuZ3RoID4gMCkgewogICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGxldCBleHBpcmVzQXQgPSBzdGF0ZS5leHBpcmVzQXQuZGF0YSAhPT0gbnVsbCA/IGRheWpzKHN0YXRlLmV4cGlyZXNBdC5kYXRhKSA6IGRheWpzCg==</text>
+        <text encoding="base64">ICAgIGkgbGV0IGV4cGlyZXNBdCA9IHN0YXRlLmV4cGlyZXNBdC5kYXRhID09PSBudWxsID8gZGF5anMoKS5zdWJ0cmFjdCgxLCAnaG91cicpIDogZGF5anMoc3RhdGUuZXhwaXJlc0F0LmRhdGEpCiAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXRlLmV4cGlyZXNBdC5kYXRhKQogICAgY29uc29sZS5sb2coZGF5anMoKSkKICAgIAogICAgaWYgKGRheWpzKHN0YXRlLmV4cGlyZXNBdC5kYXRhKS5pc0FmdGVyKGRheWpzKCkpKSB7CiAgICAgIHJldHVybgogICAgfQogICAgZGVidWdnZXI=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXRlLmV4cGlyZXNBdC5kYXRhKQogICAgY29uc29sZS5sb2coZGF5anMoKSkKICAgIGNvbnNvbGUubG9nKGV4cGlyZXNBdC5pc0FmdGVyKGRheWpzKCkpKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -715,19 +715,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGxldCBleHBpcmVkID0gCiAgICAvLyByZXR1cm4gZXhwaXJlc0F0ID4gbmV3IERhdGUoKTsK</text>
+        <text encoding="base64">ICAgIC8vIGlmIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXR0ZXJzXD4=</last-search>
+      <last-search>att</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXR0ZXJzXD4=</last-pattern>
+      <last-pattern>att</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -735,7 +735,6 @@
     </search>
     <history>
       <history-search>
-        <entry>met</entry>
         <entry>eac</entry>
         <entry>rs</entry>
         <entry>es</entry>
@@ -748,13 +747,14 @@
         <entry>Name</entry>
         <entry>sea</entry>
         <entry>state</entry>
-        <entry>att</entry>
         <entry>age</entry>
         <entry>now</entry>
         <entry>day</entry>
         <entry>date</entry>
         <entry>:</entry>
         <entry encoding="base64">XDxnZXR0ZXJzXD4=</entry>
+        <entry>data</entry>
+        <entry>att</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xlZnQvcmlnaHQ=</entry>
