@@ -92,11 +92,11 @@
         <mark key="^" line="68" column="9" />
         <mark key="." line="68" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Console/Commands/CacheProducts.php" timestamp="1553004188165">
+      <file name="$USER_HOME$/Projects/materialen/app/Console/Commands/CacheProducts.php" timestamp="1553078310231">
         <mark key="'" line="63" column="22" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/ContractProduct.php" timestamp="1550138391933">
         <mark key="[" line="8" column="0" />
@@ -271,12 +271,12 @@
         <mark key="." line="27" column="3" />
         <mark key="^" line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" timestamp="1553072861418">
-        <mark key="'" line="89" column="31" />
-        <mark key="[" line="86" column="10" />
-        <mark key="]" line="34" column="79" />
-        <mark key="." line="34" column="79" />
-        <mark key="^" line="34" column="79" />
+      <file name="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" timestamp="1553078931350">
+        <mark key="'" line="94" column="18" />
+        <mark key="[" line="33" column="7" />
+        <mark key="]" line="34" column="5" />
+        <mark key="." line="34" column="5" />
+        <mark key="^" line="34" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/app/Nova/Price.php" timestamp="1549290893097">
         <mark key="[" line="10" column="1" />
@@ -483,12 +483,12 @@
         <mark key="^" line="31" column="18" />
         <mark key="." line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Http/Resources/Product.php" timestamp="1553076889981">
+      <file name="$USER_HOME$/Projects/materialen/app/Http/Resources/Product.php" timestamp="1553078555081">
         <mark key="'" line="6" column="31" />
-        <mark key="[" line="23" column="47" />
-        <mark key="]" line="23" column="46" />
-        <mark key="." line="23" column="46" />
-        <mark key="^" line="23" column="46" />
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="23" column="35" />
+        <mark key="." line="23" column="35" />
+        <mark key="^" line="23" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/storage/logs/laravel-2019-02-19.log" timestamp="1550587867060">
         <mark key="[" line="0" column="0" />
@@ -550,15 +550,14 @@
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProduct/elemProduct.vue" timestamp="1552576351933">
-        <mark key="[" line="151" column="96" />
-        <mark key="]" line="151" column="100" />
-        <mark key="." line="151" column="100" />
-        <mark key="^" line="151" column="100" />
+      <file name="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProduct/elemProduct.vue" timestamp="1553079256040">
+        <mark key="[" line="26" column="99" />
+        <mark key="]" line="26" column="99" />
+        <mark key="." line="26" column="99" />
+        <mark key="^" line="26" column="127" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1212" column="17" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/test.js" />
       <jump line="15" column="69" filename="$USER_HOME$/Projects/materialen/storage/logs/laravel-2019-03-14.log" />
       <jump line="295" column="2" filename="$USER_HOME$/Projects/materialen/storage/logs/laravel-2019-03-14.log" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/materialen/storage/logs/laravel-2019-03-14.log" />
@@ -658,47 +657,44 @@
       <jump line="157" column="15" filename="$USER_HOME$/Projects/materialen/app/Nova/Product.php" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/materialen/app/Nova/Product.php" />
       <jump line="40" column="28" filename="$USER_HOME$/Projects/materialen/app/Nova/Product.php" />
+      <jump line="92" column="18" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+      <register name="&quot;" type="4">
+        <text>label</text>
       </register>
       <register name="-" type="4">
-        <text>flase</text>
+        <text>label</text>
       </register>
       <register name="/" type="4">
-        <text>Name</text>
+        <text>sea</text>
       </register>
       <register name="0" type="4">
         <text>toLowerCase().includes(state.filters.search.toLowerCase())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGlmICgodmFsdWVzW2F0dHJpYnV0ZS5zbHVnXSB8fCBbXSkubGVuZ3RoID09PSAwKSB7CiAgICAgICAgICAvLyAgIHJldHVybiB0cnVlCiAgICAgICAgICAvLyB9CiAgICAgICAgICAvLyByZXR1cm4gKHZhbHVlc1thdHRyaWJ1dGUuc2x1Z10gfHwgW10pLnNvbWUodmFsdWUgPT4gdmFsdWUgPT09IGF0dHJpYnV0ZS52YWx1ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtb3VudGVkKCkgewogICAgIHRoaXMuZGVib3VuY2VkU2V0U2VhcmNoID0gXy5kZWJvdW5jZSh0aGlzLnNldFNlYXJjaCwgMjAwKQogIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkYXRhKCkgewogICAgcmV0dXJuIHsKICAgICAgc2VhcmNoOiBudWxsLAogICAgfQogIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAvL2RkKCRxdWVyeS0+Z2V0KCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB3YXRjaDogCg==</text>
+        <text encoding="base64">ICAgICAgICBkZChQcm9kdWN0OjphbGwoKSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-     search() {
-       // this.debouncedSetSearch()
-       this.setSearch();
-     }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -719,19 +715,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICBzZXRTZWFyY2goKSB7CiAgICAgICB0aGlzLiRzdG9yZS5jb21taXQoJ3Byb2R1Y3RzL1NFVF9TRUFSQ0gnLCB0aGlzLnNlYXJjaCkKICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAvLwo=</text>
+        <text encoding="base64">ICBtb3VudGVkKCkgewogICAgIHRoaXMuZGVib3VuY2VkU2V0U2VhcmNoID0gXy5kZWJvdW5jZSh0aGlzLnNldFNlYXJjaCwgMjAwKQogIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>Name</last-search>
+      <last-search>sea</last-search>
       <last-offset />
-      <last-pattern>Name</last-pattern>
+      <last-pattern>sea</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -739,7 +735,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jar</entry>
         <entry>to</entry>
         <entry>last</entry>
         <entry>Ca</entry>
@@ -759,6 +754,7 @@
         <entry>debu</entry>
         <entry>name</entry>
         <entry>Name</entry>
+        <entry>sea</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xlZnQvcmlnaHQ=</entry>
