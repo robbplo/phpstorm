@@ -74,8 +74,8 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/bij.boehringer/api/File/Http/Requests/UploadProductFileRequest.php" timestamp="1553173131261">
-        <mark key="[" line="25" column="78" />
+      <file name="$USER_HOME$/Projects/bij.boehringer/api/File/Http/Requests/UploadProductFileRequest.php" timestamp="1553264930398">
+        <mark key="[" line="25" column="47" />
         <mark key="]" line="25" column="78" />
         <mark key="." line="25" column="78" />
         <mark key="^" line="26" column="30" />
@@ -228,13 +228,13 @@
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductForm.vue" timestamp="1553249479057">
-        <mark key="'" line="242" column="10" />
-        <mark key="[" line="99" column="26" />
-        <mark key="]" line="99" column="40" />
+      <file name="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductForm.vue" timestamp="1553265353466">
+        <mark key="'" line="99" column="40" />
+        <mark key="[" line="79" column="48" />
+        <mark key="]" line="79" column="47" />
         <mark key="n" line="213" column="6" />
-        <mark key="." line="99" column="40" />
-        <mark key="^" line="99" column="40" />
+        <mark key="." line="79" column="47" />
+        <mark key="^" line="79" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/storage/logs/laravel-2019-01-25.log" timestamp="1548420740376">
         <mark key="[" line="0" column="0" />
@@ -742,7 +742,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="40" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
       <jump line="200" column="39" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
       <jump line="37" column="64" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
       <jump line="42" column="64" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
@@ -842,6 +841,7 @@
       <jump line="65" column="1" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductFormUpload.vue" />
       <jump line="51" column="59" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductFormUpload.vue" />
       <jump line="64" column="24" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductFormUpload.vue" />
+      <jump line="99" column="40" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductForm.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -854,7 +854,7 @@
         <text>(product.download.size</text>
       </register>
       <register name="/" type="4">
-        <text>files</text>
+        <text>aantal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8aW1nIGhlaWdodD0iNjQiIHNyYz0iL2ltYWdlcy9pY29ucy96aXAuc3ZnIiAvPgo=</text>
@@ -912,9 +912,9 @@
       </register>
     </registers>
     <search>
-      <last-search>files</last-search>
+      <last-search>aantal</last-search>
       <last-offset />
-      <last-pattern>files</last-pattern>
+      <last-pattern>aantal</last-pattern>
       <last-replace>gif</last-replace>
       <last-substitute>zip</last-substitute>
       <last-dir>1</last-dir>
@@ -922,7 +922,6 @@
     </search>
     <history>
       <history-search>
-        <entry>result</entry>
         <entry>vv-as</entry>
         <entry>last_name</entry>
         <entry>max_v</entry>
@@ -942,6 +941,7 @@
         <entry>tem</entry>
         <entry>zip</entry>
         <entry>files</entry>
+        <entry>aantal</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Jlc3VsdC92YWxpZA==</entry>
