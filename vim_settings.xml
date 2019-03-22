@@ -500,12 +500,12 @@
         <mark key="." line="25" column="33" />
         <mark key="^" line="25" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductFormUpload.vue" timestamp="1553249657404">
-        <mark key="'" line="47" column="147" />
-        <mark key="[" line="44" column="30" />
-        <mark key="]" line="44" column="30" />
-        <mark key="^" line="38" column="29" />
-        <mark key="." line="44" column="30" />
+      <file name="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductFormUpload.vue" timestamp="1553264007155">
+        <mark key="'" line="54" column="24" />
+        <mark key="[" line="44" column="35" />
+        <mark key="]" line="44" column="33" />
+        <mark key="." line="44" column="33" />
+        <mark key="^" line="44" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingWindowColors.php" timestamp="1549548369589">
         <mark key="[" line="6" column="20" />
@@ -742,11 +742,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="8" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowInput.vue" />
-      <jump line="7" column="14" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowInput.vue" />
-      <jump line="37" column="7" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowInput.vue" />
-      <jump line="25" column="7" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowInput.vue" />
-      <jump line="36" column="30" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
       <jump line="40" column="40" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
       <jump line="200" column="39" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
       <jump line="37" column="64" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
@@ -840,48 +835,53 @@
       <jump line="4" column="0" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductFormUpload.vue" />
       <jump line="36" column="4" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductFormUpload.vue" />
       <jump line="3" column="19" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/sass/product-form.scss" />
-      <jump line="42" column="24" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductFormUpload.vue" />
       <jump line="49" column="147" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductFormUpload.vue" />
+      <jump line="38" column="0" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductFormUpload.vue" />
+      <jump line="40" column="0" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductFormUpload.vue" />
+      <jump line="42" column="0" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductFormUpload.vue" />
+      <jump line="65" column="1" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductFormUpload.vue" />
+      <jump line="51" column="59" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductFormUpload.vue" />
+      <jump line="64" column="24" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductFormUpload.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj48c3ZnIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHZpZXdCb3g9IjAgMCA0OSA2NCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWw6c3BhY2U9InByZXNlcnZlIiBzdHlsZT0iZmlsbC1ydWxlOmV2ZW5vZGQ7Y2xpcC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjEuNDE0MjE7Ij48Zz48cGF0aCBkPSJNNDksMTYuODQybDAsNDIuMTA1YzAsMi43OTEgLTIuMjcsNS4wNTMgLTUuMDY5LDUuMDUzbC0zOC44NjIsMGMtMi44LDAgLTUuMDY5LC0yLjI2MiAtNS4wNjksLTUuMDUzbDAsLTUzLjg5NGMwLC0yLjc5MSAyLjI2OSwtNS4wNTMgNS4wNjksLTUuMDUzbDI3LjAzNCwwbDE2Ljg5NywxNi44NDJaIiBzdHlsZT0iZmlsbDojYjNiM2IzO2ZpbGwtcnVsZTpub256ZXJvOyIvPjx0ZXh0IHg9IjEyLjk4NnB4IiB5PSI0NC4xNjlweCIgc3R5bGU9ImZvbnQtZmFtaWx5OidBcmlhbC1Cb2xkTVQnLCAnQXJpYWwnLCBzYW5zLXNlcmlmO2ZvbnQtd2VpZ2h0OjcwMDtmb250LXNpemU6MTdweDtmaWxsOiNmZmY7Ij56aXA8L3RleHQ+PHBhdGggZD0iTTQ5LDE1Ljg5OWwwLDIuMDk2bC0xMy44MTMsMGMtMi44NiwwIC00LjE3OSwtMi4zMiAtNC4xNzksLTUuMTgxbDAsLTEyLjgxNGwyLjA5MiwwbDE1LjksMTUuODk5WiIgc3R5bGU9ImZpbGw6I2Q2ZDZkNjtmaWxsLXJ1bGU6bm9uemVybzsiLz48L2c+PC9zdmc+</text>
+        <text>(product.download.size</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj48c3ZnIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHZpZXdCb3g9IjAgMCA0OSA2NCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWw6c3BhY2U9InByZXNlcnZlIiBzdHlsZT0iZmlsbC1ydWxlOmV2ZW5vZGQ7Y2xpcC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjEuNDE0MjE7Ij48Zz48cGF0aCBkPSJNNDksMTYuODQybDAsNDIuMTA1YzAsMi43OTEgLTIuMjcsNS4wNTMgLTUuMDY5LDUuMDUzbC0zOC44NjIsMGMtMi44LDAgLTUuMDY5LC0yLjI2MiAtNS4wNjksLTUuMDUzbDAsLTUzLjg5NGMwLC0yLjc5MSAyLjI2OSwtNS4wNTMgNS4wNjksLTUuMDUzbDI3LjAzNCwwbDE2Ljg5NywxNi44NDJaIiBzdHlsZT0iZmlsbDojYjNiM2IzO2ZpbGwtcnVsZTpub256ZXJvOyIvPjx0ZXh0IHg9IjEyLjk4NnB4IiB5PSI0NC4xNjlweCIgc3R5bGU9ImZvbnQtZmFtaWx5OidBcmlhbC1Cb2xkTVQnLCAnQXJpYWwnLCBzYW5zLXNlcmlmO2ZvbnQtd2VpZ2h0OjcwMDtmb250LXNpemU6MTdweDtmaWxsOiNmZmY7Ij56aXA8L3RleHQ+PHBhdGggZD0iTTQ5LDE1Ljg5OWwwLDIuMDk2bC0xMy44MTMsMGMtMi44NiwwIC00LjE3OSwtMi4zMiAtNC4xNzksLTUuMTgxbDAsLTEyLjgxNGwyLjA5MiwwbDE1LjksMTUuODk5WiIgc3R5bGU9ImZpbGw6I2Q2ZDZkNjtmaWxsLXJ1bGU6bm9uemVybzsiLz48L2c+PC9zdmc+</text>
+        <text>(product.download.size</text>
       </register>
       <register name="/" type="4">
-        <text>tem</text>
+        <text>files</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aGVpZ2h0PSI2NCIg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8aW1nIGhlaWdodD0iNjQiIHNyYz0iL2ltYWdlcy9pY29ucy96aXAuc3ZnIiAvPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgZXh0ZW5zaW9uKCkgewogICAgICAgIC8vIGlmICh0aGlzLnByb2R1Y3QuZG93bmxvYWQgPT09IG51bGwpIHJldHVybiBudWxsOwogICAgICAgIC8vCiAgICAgICAgLy8gcmV0dXJuCgogICAgICAgICAgICAgICAgICAgIDwhLS17aWYgJGRvd25sb2FkX2ZpbGVfMDFfZXh0ZW50aW9uWzFdID09ICdwZGYnfS0tPgogICAgICAgICAgICA8IS0te2Vsc2VpZiAkZG93bmxvYWRfZmlsZV8wMV9leHRlbnRpb25bMV0gPT0gJ2pwZycgfHwgJGRvd25sb2FkX2ZpbGVfMDFfZXh0ZW50aW9uWzFdID09ICdqcGVnJ30tLT4KICAgICAgICAgICAgPCEtLXtlbHNlaWYgJGRvd25sb2FkX2ZpbGVfMDFfZXh0ZW50aW9uWzFdID09ICdnaWYnfS0tPgogICAgICAgICAgICA8IS0te2Vsc2VpZiAkZG93bmxvYWRfZmlsZV8wMV9leHRlbnRpb25bMV0gPT0gJ3ppcCd9LS0+CiAgICAgIH0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1nIGNsYXNzPSJtci0zIiBhbHQ9Ii4uLiI+Cg==</text>
+        <text encoding="base64">ICAgIGNvbXB1dGVkOiB7CiAgICAgIGV4dGVuc2lvbigpIHsKICAgICAgICAvLyBpZiAodGhpcy5wcm9kdWN0LmRvd25sb2FkID09PSBudWxsKSByZXR1cm4gbnVsbDsKICAgICAgICAvLwogICAgICAgIC8vIHJldHVybgoKICAgICAgICAgICAgICAgICAgICA8IS0te2lmICRkb3dubG9hZF9maWxlXzAxX2V4dGVudGlvblsxXSA9PSAncGRmJ30tLT4KICAgICAgICAgICAgPCEtLXtlbHNlaWYgJGRvd25sb2FkX2ZpbGVfMDFfZXh0ZW50aW9uWzFdID09ICdqcGcnIHx8ICRkb3dubG9hZF9maWxlXzAxX2V4dGVudGlvblsxXSA9PSAnanBlZyd9LS0+CiAgICAgICAgICAgIDwhLS17ZWxzZWlmICRkb3dubG9hZF9maWxlXzAxX2V4dGVudGlvblsxXSA9PSAnZ2lmJ30tLT4KICAgICAgICAgICAgPCEtLXtlbHNlaWYgJGRvd25sb2FkX2ZpbGVfMDFfZXh0ZW50aW9uWzFdID09ICd6aXAnfS0tPgogICAgICB9CiAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGRpdiBjbGFzcz0iY29sIj4tLT4KICAgICAgICA8IS0te3sgcHJvZHVjdC5kb3dubG9hZC5uYW1lIH19LS0+CiAgICAgICAgPCEtLTwvZGl2Pi0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9pbWcgewovLyAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwovLyAgICB3aWR0aDogMzAwcHg7Ci8vfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAge3sgcHJvZHVjdC5kb3dubG9hZC5uYW1lIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5wcm9kdWN0KQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKHRoaXMucHJvZHVjdC5kb3dubG9hZC5leHRlbnNpb24pIHsKICAgICAgICAgIGNhc2UgJ2pwZyc6CiAgICAgICAgICAgIHJldHVybiAnJwogICAgICAgICAgCiAgICAgICAgfQ==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -904,26 +904,24 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAge3sgcHJvZHVjdC5kb3dubG9hZC5uYW1lIH19Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgJ3BkZic6CiAgICAgICAgICAgIHJldHVybiAncGRmJzsKICAgICAgICAgICAgYnJlYWs7</text>
       </register>
       <register name=":" type="4">
-        <text>s/show/info</text>
+        <text>s/zip/gif</text>
       </register>
     </registers>
     <search>
-      <last-search>tem</last-search>
+      <last-search>files</last-search>
       <last-offset />
-      <last-pattern>tem</last-pattern>
-      <last-replace>info</last-replace>
-      <last-substitute>show</last-substitute>
+      <last-pattern>files</last-pattern>
+      <last-replace>gif</last-replace>
+      <last-substitute>zip</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ini</entry>
-        <entry>validator</entry>
         <entry>result</entry>
         <entry>vv-as</entry>
         <entry>last_name</entry>
@@ -942,11 +940,10 @@
         <entry>info</entry>
         <entry>Bus</entry>
         <entry>tem</entry>
+        <entry>zip</entry>
+        <entry>files</entry>
       </history-search>
       <history-cmd>
-        <entry>del</entry>
-        <entry>/typ</entry>
-        <entry encoding="base64">JzwsJz5zL2NvZGUvZW1haWw=</entry>
         <entry encoding="base64">JzwsJz5zL3Jlc3VsdC92YWxpZA==</entry>
         <entry encoding="base64">JzwsJz5TL2xhc3RfbmFtZS9mdW5jdGlvbg==</entry>
         <entry encoding="base64">JzwsJz5zL2xhc3RfbmFtZS9mdW5jdGlvbg==</entry>
@@ -964,6 +961,9 @@
         <entry>s/`/&quot;/g</entry>
         <entry>s/upload/show/g</entry>
         <entry>s/show/info</entry>
+        <entry>s/zip/pdf</entry>
+        <entry>s/zip/jpg</entry>
+        <entry>s/zip/gif</entry>
       </history-cmd>
       <history-expr />
       <history-input />
