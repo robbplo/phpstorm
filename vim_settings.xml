@@ -26,9 +26,6 @@
         <mark key="]" line="209" column="0" />
         <mark key="." line="209" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1553171412462">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Product.php" timestamp="1552900978993">
         <mark key="'" line="93" column="0" />
         <mark key="[" line="25" column="0" />
@@ -92,9 +89,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductFormInput.vue" timestamp="1553157990357">
-        <mark key="[" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/tool.js" timestamp="1550583001142">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -105,6 +99,9 @@
         <mark key="]" line="124" column="64" />
         <mark key="." line="124" column="64" />
         <mark key="^" line="124" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Users/userBoats.vue" timestamp="1553505763575">
+        <mark key="'" line="68" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/routes/api.php" timestamp="1551263632559">
         <mark key="[" line="17" column="0" />
@@ -185,6 +182,13 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Boats/boatUsers.vue" timestamp="1553505647143">
+        <mark key="'" line="54" column="67" />
+        <mark key="[" line="56" column="61" />
+        <mark key="]" line="56" column="75" />
+        <mark key="^" line="54" column="50" />
+        <mark key="." line="56" column="61" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/TextField.vue" timestamp="1551944057195">
         <mark key="[" line="15" column="6" />
         <mark key="]" line="15" column="24" />
@@ -247,14 +251,6 @@
         <mark key="]" line="33" column="67" />
         <mark key="." line="33" column="67" />
         <mark key="^" line="33" column="67" />
-      </file>
-      <file name="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowInput.vue" timestamp="1553172258529">
-        <mark key="a" line="53" column="22" />
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="15" column="12" />
-        <mark key="^" line="53" column="22" />
-        <mark key="." line="53" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/Offer.js" timestamp="1552468782076">
         <mark key="[" line="10" column="30" />
@@ -431,9 +427,6 @@
         <mark key="[" line="13" column="44" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Console/Commands/CacheProductsApi.php" timestamp="1553000185061">
-        <mark key="[" line="6" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Observers/ProductObserver.php" timestamp="1552575958672">
         <mark key="[" line="18" column="17" />
@@ -630,7 +623,6 @@
         <mark key="^" line="13" column="4" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/vetclass/config/cloudder.php" timestamp="1553174646692" />
       <file name="$USER_HOME$/Projects/finish-building/composer.json" timestamp="1552472459397">
         <mark key="[" line="31" column="13" />
         <mark key="]" line="31" column="18" />
@@ -743,15 +735,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="27" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
-      <jump line="37" column="49" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
-      <jump line="42" column="45" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
-      <jump line="110" column="17" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
-      <jump line="13" column="0" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowInput.vue" />
-      <jump line="24" column="23" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowInput.vue" />
-      <jump line="14" column="6" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowInput.vue" />
-      <jump line="48" column="0" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowInput.vue" />
-      <jump line="10" column="24" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowInput.vue" />
       <jump line="46" column="20" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
       <jump line="47" column="24" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
       <jump line="49" column="28" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
@@ -843,22 +826,31 @@
       <jump line="2" column="60" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductFile.vue" />
       <jump line="6" column="28" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductFile.vue" />
       <jump line="16" column="4" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductFile.vue" />
+      <jump line="18" column="101" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Boats/boatUsers.vue" />
+      <jump line="47" column="45" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Boats/boatUsers.vue" />
+      <jump line="54" column="67" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Boats/boatUsers.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Users/userBoats.vue" />
+      <jump line="11" column="46" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Users/userBoats.vue" />
+      <jump line="13" column="54" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Users/userBoats.vue" />
+      <jump line="30" column="47" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Users/userBoats.vue" />
+      <jump line="60" column="18" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Users/userBoats.vue" />
+      <jump line="68" column="13" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Users/userBoats.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9kdWN0VHJhbnNmb3JtZXI6Ogo=</text>
+      <register name="&quot;" type="4">
+        <text>detached</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>detached</text>
       </register>
       <register name="/" type="4">
-        <text>pro</text>
+        <text>detached</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1nIGhlaWdodD0iNjQiIHNyYz0iL2ltYWdlcy9pY29ucy96aXAuc3ZnIiAvPgo=</text>
+      <register name="0" type="4">
+        <text>searchDetached</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBQcm9kdWN0VHJhbnNmb3JtZXI6Ogo=</text>
@@ -909,24 +901,20 @@
         <text encoding="base64">ICBpbXBvcnQgZmlsZXNpemUgZnJvbSAnZmlsZXNpemUuanMnOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/zip/gif</text>
+        <text encoding="base64">JzwsJz5zL2RldGFjaGVkL3NlYXJjaERldGFjaGVk</text>
       </register>
     </registers>
     <search>
-      <last-search>pro</last-search>
+      <last-search>detached</last-search>
       <last-offset />
-      <last-pattern>pro</last-pattern>
-      <last-replace>gif</last-replace>
-      <last-substitute>zip</last-substitute>
+      <last-pattern>detached</last-pattern>
+      <last-replace>searchDetached</last-replace>
+      <last-substitute>detached</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>max_v</entry>
-        <entry>function</entry>
-        <entry>order</entry>
-        <entry>sub</entry>
         <entry>smal</entry>
         <entry>'</entry>
         <entry>file</entry>
@@ -943,10 +931,12 @@
         <entry>aantal</entry>
         <entry>ori</entry>
         <entry>pro</entry>
+        <entry>at</entry>
+        <entry>attach</entry>
+        <entry>attached</entry>
+        <entry>detached</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3Jlc3VsdC92YWxpZA==</entry>
-        <entry encoding="base64">JzwsJz5TL2xhc3RfbmFtZS9mdW5jdGlvbg==</entry>
         <entry encoding="base64">JzwsJz5zL2xhc3RfbmFtZS9mdW5jdGlvbg==</entry>
         <entry encoding="base64">JzwsJz5zL2Z1bmN0aW9uL3N0cmVldF9uYW1lL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2Z1bmN0aW9uL2FkZHJlc3NfbnVtYmVy</entry>
@@ -965,6 +955,8 @@
         <entry>s/zip/pdf</entry>
         <entry>s/zip/jpg</entry>
         <entry>s/zip/gif</entry>
+        <entry encoding="base64">JzwsJz5zL2F0dGFjaGVkL3NlYXJjaEF0dGFjaGVk</entry>
+        <entry encoding="base64">JzwsJz5zL2RldGFjaGVkL3NlYXJjaERldGFjaGVk</entry>
       </history-cmd>
       <history-expr />
       <history-input />
