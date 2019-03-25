@@ -96,6 +96,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" timestamp="1553527428504" />
       <file name="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Dashboard/newBoatUser.vue" timestamp="1552489581403">
         <mark key="[" line="124" column="50" />
         <mark key="]" line="124" column="64" />
@@ -133,6 +134,12 @@
         <mark key="[" line="10424" column="0" />
         <mark key="]" line="10424" column="0" />
         <mark key="." line="10424" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/validators/post-create-event-validator.js" timestamp="1553527163207">
+        <mark key="[" line="65" column="47" />
+        <mark key="]" line="65" column="46" />
+        <mark key="." line="65" column="46" />
+        <mark key="^" line="65" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Planning/Reports/reportInfoCard.vue" timestamp="1552490104055">
         <mark key="[" line="118" column="23" />
@@ -174,12 +181,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handler.js" timestamp="1553524707146">
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handler.js" timestamp="1553526196014">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="426" column="33" />
-        <mark key="]" line="426" column="70" />
-        <mark key="^" line="426" column="70" />
-        <mark key="." line="426" column="70" />
+        <mark key="[" line="664" column="134" />
+        <mark key="]" line="664" column="133" />
+        <mark key="^" line="664" column="133" />
+        <mark key="." line="664" column="133" />
       </file>
       <file name="$USER_HOME$/Projects/amsterdambeautiful/src/helpers.php" timestamp="1551787178466">
         <mark key="[" line="25" column="1" />
@@ -665,6 +672,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/events/components/beheer/event-formbuilder.vue" timestamp="1553526540504">
+        <mark key="[" line="180" column="37" />
+        <mark key="]" line="180" column="36" />
+        <mark key="." line="180" column="36" />
+        <mark key="^" line="180" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/SelectField.vue" timestamp="1551944015195">
         <mark key="[" line="13" column="50" />
         <mark key="]" line="37" column="23" />
@@ -717,10 +730,11 @@
         <mark key="^" line="26" column="106" />
         <mark key="." line="26" column="106" />
       </file>
-      <file name="$USER_HOME$/Projects/events/nuxt.config.js" timestamp="1550568263435">
-        <mark key="[" line="19" column="29" />
-        <mark key="]" line="19" column="29" />
-        <mark key="." line="19" column="29" />
+      <file name="$USER_HOME$/Projects/events/nuxt.config.js" timestamp="1553526974942">
+        <mark key="[" line="40" column="16" />
+        <mark key="]" line="40" column="16" />
+        <mark key="." line="40" column="16" />
+        <mark key="^" line="40" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/amsterdambeautiful/locales/en.php" timestamp="1551788147216">
         <mark key="[" line="18" column="21" />
@@ -850,13 +864,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>.required()</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>.required()</text>
       </register>
       <register name="/" type="4">
         <text>comp</text>
@@ -865,28 +879,28 @@
         <text encoding="base64">ICAgICAgICAgIDxkaXYgdi1zaG93PSJwcm9kdWN0RG93bmxvYWRlZCIgY2xhc3M9ImFuaW1hdGVkIGZhZGVJbiI+CiAgICAgICAgICAgIDxwPkJlZGFua3Qgdm9vciB1dyBiZWxhbmdzdGVsbGluZywgdXcgZG93bmxvYWQgaXMgYmVnb25uZW4uPC9wPgogICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgdi1zaG93PSIhbm90U3VibWl0dGVkIiBjbGFzcz0iYW5pbWF0ZWQgZmFkZUluIj4KICAgICAgICAgICAgPHA+QmVkYW5rdCB2b29yIHV3IGJlc3RlbGxpbmcsIG9uemUgVGVycml0b3J5IE1hbmFnZXIgemFsIHoucy5tIGNvbnRhY3Qgb3BuZW1lbi48L3A+CiAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgdi1zaG93PSIhbm90U3VibWl0dGVkIiBjbGFzcz0iYW5pbWF0ZWQgZmFkZUluIj4KICAgICAgICAgICAgPHA+QmVkYW5rdCB2b29yIHV3IGJlc3RlbGxpbmcsIG9uemUgVGVycml0b3J5IE1hbmFnZXIgemFsIHoucy5tIGNvbnRhY3Qgb3BuZW1lbi48L3A+CiAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZG93bmxvYWRQcm9kdWN0RmlsZSgpIHsKICAgICAgICB0aGlzLiR2YWxpZGF0b3IudmFsaWRhdGVBbGwoJ3NlY29uZGZvcm0nKS50aGVuKHZhbGlkID0+IHsKICAgICAgICAgIGlmICghdmFsaWQpIHJldHVybjsKCiAgICAgICAgICAvLyBAdG9kbyBwcm9kdWN0IGJlc3RhbmQgZG93bmxvYWQKICAgICAgICB9KQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgZG93bmxvYWRQcm9kdWN0RmlsZSgpIHsKICAgICAgICB0aGlzLiR2YWxpZGF0b3IudmFsaWRhdGVBbGwoJ3NlY29uZGZvcm0nKS50aGVuKHZhbGlkID0+IHsKICAgICAgICAgIGlmICghdmFsaWQpIHJldHVybjsKCiAgICAgICAgICAvLyBAdG9kbyBwcm9kdWN0IGJlc3RhbmQgZG93bmxvYWQKICAgICAgICB9KQogICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZG93bmxvYWRQcm9kdWN0RmlsZSgpIHsKICAgICAgICB0aGlzLnZhbGlkYXRlU2Vjb25kRm9ybSgpLnRoZW4odmFsaWQgPT4gewogICAgICAgICAgaWYgKCF2YWxpZCkgcmV0dXJuOwoKICAgICAgICAgIGF4aW9zLmdldChgL2FwaS9wcm9kdWN0cy8ke3RoaXMucHJvZHVjdC5pZH0vZmlsZWAsIHsKICAgICAgICAgICAgcmVzcG9uc2VUeXBlOiAnYmxvYicsCiAgICAgICAgICB9KS50aGVuKHJlc3BvbnNlID0+IHsKICAgICAgICAgICAgY29uc3QgdXJsID0gd2luZG93LlVSTC5jcmVhdGVPYmplY3RVUkwobmV3IEJsb2IoW3Jlc3BvbnNlLmRhdGFdKSk7CiAgICAgICAgICAgIGNvbnN0IGxpbmsgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdhJyk7CiAgICAgICAgICAgIGxpbmsuaHJlZiA9IHVybDsKICAgICAgICAgICAgbGluay5zZXRBdHRyaWJ1dGUoJ2Rvd25sb2FkJywgJ2ZpbGUucGRmJyk7CiAgICAgICAgICAgIGRvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQobGluayk7CiAgICAgICAgICAgIGxpbmsuY2xpY2soKTsKICAgICAgICAgIH0pCiAgICAgICAgICAvLyBAdG9kbyBiZXN0YW5kIGRvd25sb2FkZW4uCiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxpbnB1dCB0eXBlPSJzdWJtaXQiIEBjbGljay5wcmV2ZW50PSJkb3dubG9hZFByb2R1Y3RGaWxlKCkiIHZhbHVlPSJEb3dubG9hZGVuIiB2LXNob3c9InByb2R1Y3QudHlwZSA9PT0gMiI+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgZG93bmxvYWRQcm9kdWN0RmlsZSgpIHsKICAgICAgICB0aGlzLnZhbGlkYXRlU2Vjb25kRm9ybSgpLnRoZW4odmFsaWQgPT4gewogICAgICAgICAgaWYgKCF2YWxpZCkgcmV0dXJuOwoKICAgICAgICAgIGF4aW9zLmdldChgL2FwaS9wcm9kdWN0cy8ke3RoaXMucHJvZHVjdC5pZH0vZmlsZWAsIHsKICAgICAgICAgICAgcmVzcG9uc2VUeXBlOiAnYmxvYicsCiAgICAgICAgICB9KS50aGVuKHJlc3BvbnNlID0+IHsKICAgICAgICAgICAgY29uc3QgdXJsID0gd2luZG93LlVSTC5jcmVhdGVPYmplY3RVUkwobmV3IEJsb2IoW3Jlc3BvbnNlLmRhdGFdKSk7CiAgICAgICAgICAgIGNvbnN0IGxpbmsgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdhJyk7CiAgICAgICAgICAgIGxpbmsuaHJlZiA9IHVybDsKICAgICAgICAgICAgbGluay5zZXRBdHRyaWJ1dGUoJ2Rvd25sb2FkJywgJ2ZpbGUucGRmJyk7CiAgICAgICAgICAgIGRvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQobGluayk7CiAgICAgICAgICAgIGxpbmsuY2xpY2soKTsKICAgICAgICAgIH0pCiAgICAgICAgICAvLyBAdG9kbyBiZXN0YW5kIGRvd25sb2FkZW4uCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgOmhyZWY9ImRvd25sb2FkVXJsIiBjbGFzcz0ic3VibWl0LWJ1dHRvbiIgZG93bmxvYWQgQGNsaWNrPSJwcm9kdWN0RG93bmxvYWRlZCA9IHRydWUiPkRvd25sb2FkZW48L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxpbnB1dCB0eXBlPSJzdWJtaXQiIEBjbGljay5wcmV2ZW50PSJkb3dubG9hZFByb2R1Y3RGaWxlKCkiIHZhbHVlPSJEb3dubG9hZGVuIiB2LXNob3c9InByb2R1Y3QudHlwZSA9PT0gMiI+LS0+Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -907,10 +921,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08cHJvZHVjdC1zaG93LWlucHV0LS0+CiAgICAgICAgICAgICAgICAgIDwhLS1uYW1lPSJxdWFudGl0eSItLT4KICAgICAgICAgICAgICAgICAgPCEtLWxhYmVsPSJBYW50YWwgcHJvZHVjdGVuIi0tPgogICAgICAgICAgICAgICAgICA8IS0tZGF0YS12di1hcz0iQWFudGFsIHByb2R1Y3RlbiItLT4KICAgICAgICAgICAgICAgICAgPCEtLXYtdmFsaWRhdGU9IidyZXF1aXJlZCciLS0+CiAgICAgICAgICAgICAgICAgIDwhLS12LW1vZGVsPSJmb3JtLnF1YW50aXR5Ii0tPgogICAgICAgICAgICAgICAgICA8IS0tOmVycm9yPSJlcnJvcnMuZmlyc3QoJ3F1YW50aXR5JywgJ2ZpcnN0Zm9ybScpIi0tPgogICAgICAgICAgICAgICAgPCEtLSZndDs8L3Byb2R1Y3Qtc2hvdy1pbnB1dD4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgOmhyZWY9ImRvd25sb2FkVXJsIiBjbGFzcz0ic3VibWl0LWJ1dHRvbiIgZG93bmxvYWQgQGNsaWNrPSJwcm9kdWN0RG93bmxvYWRlZCA9IHRydWUiPkRvd25sb2FkZW48L2E+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08cHJvZHVjdC1zaG93LWlucHV0LS0+CiAgICAgICAgICAgICAgICAgIDwhLS1uYW1lPSJxdWFudGl0eSItLT4KICAgICAgICAgICAgICAgICAgPCEtLWxhYmVsPSJBYW50YWwgcHJvZHVjdGVuIi0tPgogICAgICAgICAgICAgICAgICA8IS0tZGF0YS12di1hcz0iQWFudGFsIHByb2R1Y3RlbiItLT4KICAgICAgICAgICAgICAgICAgPCEtLXYtdmFsaWRhdGU9IidyZXF1aXJlZCciLS0+CiAgICAgICAgICAgICAgICAgIDwhLS12LW1vZGVsPSJmb3JtLnF1YW50aXR5Ii0tPgogICAgICAgICAgICAgICAgICA8IS0tOmVycm9yPSJlcnJvcnMuZmlyc3QoJ3F1YW50aXR5JywgJ2ZpcnN0Zm9ybScpIi0tPgogICAgICAgICAgICAgICAgPCEtLSZndDs8L3Byb2R1Y3Qtc2hvdy1pbnB1dD4tLT4K</text>
       </register>
       <register name=":" type="4">
         <text>s/'/`/g</text>
