@@ -173,6 +173,13 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handler.js" timestamp="1553523145846">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="426" column="33" />
+        <mark key="]" line="426" column="70" />
+        <mark key="^" line="426" column="70" />
+        <mark key="." line="426" column="70" />
+      </file>
       <file name="$USER_HOME$/Projects/amsterdambeautiful/src/helpers.php" timestamp="1551787178466">
         <mark key="[" line="25" column="1" />
         <mark key="]" line="25" column="1" />
@@ -240,14 +247,6 @@
         <mark key="]" line="18" column="24" />
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductForm.vue" timestamp="1553265353466">
-        <mark key="'" line="99" column="40" />
-        <mark key="[" line="79" column="48" />
-        <mark key="]" line="79" column="47" />
-        <mark key="n" line="213" column="6" />
-        <mark key="." line="79" column="47" />
-        <mark key="^" line="79" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/storage/logs/laravel-2019-01-25.log" timestamp="1548420740376">
         <mark key="[" line="0" column="0" />
@@ -747,7 +746,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="76" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
       <jump line="60" column="29" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
       <jump line="177" column="23" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
       <jump line="86" column="49" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
@@ -847,16 +845,17 @@
       <jump line="183" column="6" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
       <jump line="193" column="31" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
       <jump line="200" column="30" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>.</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>comp</text>
