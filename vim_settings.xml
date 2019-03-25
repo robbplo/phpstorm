@@ -599,12 +599,11 @@
         <mark key="." line="34" column="9" />
         <mark key="^" line="34" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/bij.boehringer/domain/ProductFile.php" timestamp="1553249277792">
+      <file name="$USER_HOME$/Projects/bij.boehringer/domain/ProductFile.php" timestamp="1553506388589">
         <mark key="'" line="72" column="0" />
-        <mark key="[" line="29" column="63" />
-        <mark key="]" line="29" column="61" />
-        <mark key="." line="29" column="61" />
-        <mark key="^" line="29" column="61" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/composer.lock" timestamp="1551172610295">
         <mark key="[" line="7" column="0" />
@@ -686,7 +685,7 @@
         <mark key="]" line="37" column="18" />
         <mark key="." line="37" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/bij.boehringer/api/Product/Http/Transformers/ProductTransformer.php" timestamp="1553184181107">
+      <file name="$USER_HOME$/Projects/bij.boehringer/api/Product/Http/Transformers/ProductTransformer.php" timestamp="1553507096643">
         <mark key="[" line="29" column="42" />
         <mark key="]" line="29" column="42" />
         <mark key="^" line="29" column="42" />
@@ -714,12 +713,11 @@
         <mark key="^" line="18" column="26" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/bij.boehringer/app/Http/Controllers/HomeController.php" timestamp="1553272402409">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="53" column="53" />
-        <mark key="]" line="53" column="52" />
-        <mark key="." line="53" column="52" />
-        <mark key="^" line="53" column="52" />
+      <file name="$USER_HOME$/Projects/bij.boehringer/app/Http/Controllers/HomeController.php" timestamp="1553507399897">
+        <mark key="[" line="56" column="16" />
+        <mark key="]" line="56" column="21" />
+        <mark key="." line="56" column="21" />
+        <mark key="^" line="56" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/app/helpers.php" timestamp="1552472374511">
         <mark key="[" line="3" column="73" />
@@ -735,7 +733,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="20" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
       <jump line="47" column="24" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
       <jump line="49" column="28" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
       <jump line="50" column="36" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
@@ -835,46 +832,47 @@
       <jump line="30" column="47" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Users/userBoats.vue" />
       <jump line="60" column="18" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Users/userBoats.vue" />
       <jump line="68" column="13" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Users/userBoats.vue" />
+      <jump line="50" column="19" filename="$USER_HOME$/Projects/bij.boehringer/app/Http/Controllers/HomeController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>detached</text>
+        <text>new Item($product, new ProductTransformer())</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>detached</text>
+        <text>new Item($product, new ProductTransformer())</text>
       </register>
       <register name="/" type="4">
-        <text>detached</text>
+        <text>new</text>
       </register>
       <register name="0" type="4">
-        <text>searchDetached</text>
+        <text>D</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9kdWN0VHJhbnNmb3JtZXI6Ogo=</text>
+        <text encoding="base64">ICAgICAgICAkbWFuYWdlcgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLXYtaWY9InByb2R1Y3QudHlwZSA9PT0gMiItLT4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdi1pZj0icHJvZHVjdC50eXBlID09PSAyIgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IAogICAgICAgICQ=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgPHJvdz4KICAgICAgICAKICAgICAgPC9yb3c+</text>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIERvbWFpblxQcm9kdWN0RmlsZTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">cm93PgogICAgICAgIAogICAgICA8L3Jvdz4KICAgIDwvdGU=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkcHJvZHVjdCA9IG5ldyBJdGVtKCRwcm9kdWN0LCBmdW5jdGlvbiAoJHByb2R1Y3QpIHsKICAgICAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgICAgICdpZCcgPT4gJHByb2R1Y3QtPmlkLAogICAgICAgICAgICAgICAgJ2hlYWRpbmdfMScgPT4gJHByb2R1Y3QtPmhlYWRpbmdfMSwKICAgICAgICAgICAgICAgICdoZWFkaW5nXzInID0+ICRwcm9kdWN0LT5oZWFkaW5nXzIsCiAgICAgICAgICAgICAgICAnZGVzY3JpcHRpb24nID0+ICRwcm9kdWN0LT5kZXNjcmlwdGlvbiwKICAgICAgICAgICAgICAgICdzbHVnJyA9PiAkcHJvZHVjdC0+c2x1ZywKICAgICAgICAgICAgICAgICdtYXhfcXVhbnRpdHknID0+ICRwcm9kdWN0LT5tYXhfcXVhbnRpdHksCiAgICAgICAgICAgICAgICAnaW1hZ2UnID0+ICRwcm9kdWN0LT5pbWFnZSwKICAgICAgICAgICAgICAgICdzdGF0dXMnID0+ICRwcm9kdWN0LT5zdGF0dXMsCiAgICAgICAgICAgICAgICAndXNlX2NvZGUnID0+ICRwcm9kdWN0LT51c2VfY29kZSwKICAgICAgICAgICAgICAgICd0eXBlJyA9PiAkcHJvZHVjdC0+dHlwZSwKICAgICAgICAgICAgICAgICdvcmRlcl9jb3VudCcgPT4gJHByb2R1Y3QtPm9yZGVycy0+Y291bnQoKSwKICAgICAgICAgICAgICAgICdwYWdldmlld3MnID0+ICRwcm9kdWN0LT5wYWdldmlld3MsCiAgICAgICAgICAgICAgICAnc3RhcnRfcmVnaXN0cmF0aW9uJyA9PiAkcHJvZHVjdC0+c3RhcnRfcmVnaXN0cmF0aW9uLAogICAgICAgICAgICAgICAgJ2VuZF9yZWdpc3RyYXRpb24nID0+ICRwcm9kdWN0LT5lbmRfcmVnaXN0cmF0aW9uLAogICAgICAgICAgICAgICAgJ2ltYWdlX2Jhc2U2NCcgPT4gJHByb2R1Y3QtPnRvQmFzZTY0KCksCiAgICAgICAgICAgICAgICAnZG93bmxvYWQnID0+IChuZXcgUHJvZHVjdEZpbGUoJHByb2R1Y3QpKS0+aW5mbygpLAogICAgICAgICAgICBdOwogICAgICAgIH0pOwoKICAgICAgICBkZCgkcHJvZHVjdCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPC9yb3c+Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcHJvZHVjdC0+KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXB1dGVkOiB7CiAgICAgIGZpbGVzaXplKCkgewogICAgICAgIHJldHVybiBmaWxlc2l6ZSh0aGlzLnByb2R1Y3QuZG93bmxvYWQuc2l6ZSkKICAgICAgfSwKICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -898,16 +896,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBvcnQgZmlsZXNpemUgZnJvbSAnZmlsZXNpemUuanMnOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2RldGFjaGVkL3NlYXJjaERldGFjaGVk</text>
       </register>
     </registers>
     <search>
-      <last-search>detached</last-search>
+      <last-search>new</last-search>
       <last-offset />
-      <last-pattern>detached</last-pattern>
+      <last-pattern>new</last-pattern>
       <last-replace>searchDetached</last-replace>
       <last-substitute>detached</last-substitute>
       <last-dir>1</last-dir>
@@ -915,7 +913,6 @@
     </search>
     <history>
       <history-search>
-        <entry>smal</entry>
         <entry>'</entry>
         <entry>file</entry>
         <entry>col</entry>
@@ -935,6 +932,7 @@
         <entry>attach</entry>
         <entry>attached</entry>
         <entry>detached</entry>
+        <entry>new</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3RfbmFtZS9mdW5jdGlvbg==</entry>
