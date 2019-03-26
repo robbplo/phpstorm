@@ -190,12 +190,12 @@
         <mark key="]" line="226" column="0" />
         <mark key="." line="226" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handler.js" timestamp="1553609866538">
-        <mark key="'" line="441" column="13" />
-        <mark key="[" line="459" column="18" />
-        <mark key="]" line="459" column="18" />
-        <mark key="." line="459" column="18" />
-        <mark key="^" line="441" column="13" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handler.js" timestamp="1553611711030">
+        <mark key="'" line="458" column="49" />
+        <mark key="[" line="458" column="88" />
+        <mark key="]" line="458" column="42" />
+        <mark key="." line="458" column="42" />
+        <mark key="^" line="458" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/amsterdambeautiful/src/helpers.php" timestamp="1551787178466">
         <mark key="[" line="25" column="1" />
@@ -783,8 +783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="12" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
-      <jump line="48" column="27" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
       <jump line="224" column="2" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
       <jump line="41" column="19" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
       <jump line="32" column="19" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
@@ -879,50 +877,52 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
       <jump line="153" column="24" filename="$USER_HOME$/Projects/events/pages/beheer/event/_id/edit.vue" />
       <jump line="164" column="29" filename="$USER_HOME$/Projects/events/pages/beheer/event/_id/edit.vue" />
-      <jump line="458" column="5" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
       <jump line="409" column="18" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
       <jump line="411" column="77" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
       <jump line="441" column="13" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
+      <jump line="1041" column="69" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
+      <jump line="457" column="3" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
+      <jump line="458" column="49" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>forEach</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>forEach</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
-        <text>forE</text>
+        <text>mail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBjb25zdCBzYW5pdGl6ZWRFdmVudCA9IHJlbW92ZUVtcHR5KGV2ZW50RGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXRUaW1lc3RhbXAodGFyZ2V0RXZlbnQuY3JlYXRlZEF0KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hcAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JtYXRUaW1lc3RhbXAodGFyZ2V0RXZlbnQuY3JlYXRlZEF0KQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIG1hcAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIG9mZXJzCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ewogICAgICByZXR1cm4g</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGl0ZW0gPSAKCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -943,28 +943,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGl0ZW0gPSAKCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL290aGVyL25vblJlc3BvbmRlci9n</text>
+        <text>s/mail/invite/g</text>
       </register>
     </registers>
     <search>
-      <last-search>forE</last-search>
+      <last-search>mail</last-search>
       <last-offset />
-      <last-pattern>forE</last-pattern>
-      <last-replace>nonResponder</last-replace>
-      <last-substitute>other</last-substitute>
+      <last-pattern>mail</last-pattern>
+      <last-replace>invite</last-replace>
+      <last-substitute>mail</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>downl</entry>
-        <entry>c</entry>
         <entry>mit-but</entry>
         <entry>'</entry>
         <entry>parse</entry>
@@ -983,9 +981,10 @@
         <entry>other</entry>
         <entry>for</entry>
         <entry>forE</entry>
+        <entry>''</entry>
+        <entry>mail</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2Z1bmN0aW9uL3N0cmVldF9uYW1lL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2Z1bmN0aW9uL2FkZHJlc3NfbnVtYmVy</entry>
         <entry encoding="base64">JzwsJz5zL2Z1bmN0aW9uL2FkZHJlc3NfbnVtYmVyX2FkZGl0aW9u</entry>
         <entry encoding="base64">JzwsJz5zL2Z1bmN0aW9uL2NpdHk=</entry>
@@ -1005,6 +1004,7 @@
         <entry encoding="base64">JzwsJz5zL2RldGFjaGVkL3NlYXJjaERldGFjaGVk</entry>
         <entry>s/'/`/g</entry>
         <entry encoding="base64">JzwsJz5zL290aGVyL25vblJlc3BvbmRlci9n</entry>
+        <entry>s/mail/invite/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
