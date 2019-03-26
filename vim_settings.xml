@@ -95,10 +95,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/validators/put-update-event-validator.js" timestamp="1553589479682">
-        <mark key="[" line="65" column="48" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/validators/put-update-event-validator.js" timestamp="1553590749716">
+        <mark key="[" line="65" column="47" />
         <mark key="]" line="65" column="47" />
         <mark key="." line="65" column="47" />
+        <mark key="^" line="65" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Dashboard/newBoatUser.vue" timestamp="1552489581403">
         <mark key="[" line="124" column="50" />
@@ -138,7 +139,7 @@
         <mark key="]" line="10424" column="0" />
         <mark key="." line="10424" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/validators/post-create-event-validator.js" timestamp="1553589477025">
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/validators/post-create-event-validator.js" timestamp="1553590740355">
         <mark key="[" line="65" column="47" />
         <mark key="]" line="65" column="46" />
         <mark key="." line="65" column="46" />
@@ -183,6 +184,11 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/events/components/subscription-form.vue" timestamp="1553594761639">
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="0" />
+        <mark key="." line="226" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handler.js" timestamp="1553526196014">
         <mark key="'" line="0" column="0" />
@@ -369,6 +375,12 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/events/pages/beheer/event/create.vue" timestamp="1553593880752">
+        <mark key="[" line="101" column="8" />
+        <mark key="]" line="102" column="7" />
+        <mark key="^" line="102" column="7" />
+        <mark key="." line="102" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/.env.example" timestamp="1552488791467">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -467,6 +479,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/events/pages/beheer/event/_id/edit.vue" timestamp="1553593768668">
+        <mark key="'" line="154" column="29" />
+        <mark key="[" line="152" column="29" />
+        <mark key="]" line="152" column="29" />
+        <mark key="." line="152" column="29" />
+        <mark key="^" line="152" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Providers/AppServiceProvider.php" timestamp="1552575610308">
         <mark key="[" line="30" column="48" />
@@ -764,8 +783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="29" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
-      <jump line="177" column="23" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
       <jump line="86" column="49" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
       <jump line="173" column="6" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
       <jump line="199" column="0" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
@@ -864,46 +881,57 @@
       <jump line="193" column="31" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
       <jump line="200" column="30" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
+      <jump line="153" column="24" filename="$USER_HOME$/Projects/events/pages/beheer/event/_id/edit.vue" />
+      <jump line="164" column="29" filename="$USER_HOME$/Projects/events/pages/beheer/event/_id/edit.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.required()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>.required()</text>
+        <text>debugger</text>
       </register>
       <register name="/" type="4">
-        <text>comp</text>
+        <text>sa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgdi1zaG93PSJwcm9kdWN0RG93bmxvYWRlZCIgY2xhc3M9ImFuaW1hdGVkIGZhZGVJbiI+CiAgICAgICAgICAgIDxwPkJlZGFua3Qgdm9vciB1dyBiZWxhbmdzdGVsbGluZywgdXcgZG93bmxvYWQgaXMgYmVnb25uZW4uPC9wPgogICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBzYW5pdGl6ZWRFdmVudCA9IHJlbW92ZUVtcHR5KGV2ZW50RGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgdi1zaG93PSIhbm90U3VibWl0dGVkIiBjbGFzcz0iYW5pbWF0ZWQgZmFkZUluIj4KICAgICAgICAgICAgPHA+QmVkYW5rdCB2b29yIHV3IGJlc3RlbGxpbmcsIG9uemUgVGVycml0b3J5IE1hbmFnZXIgemFsIHoucy5tIGNvbnRhY3Qgb3BuZW1lbi48L3A+CiAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGl0ZW0gPSAKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZG93bmxvYWRQcm9kdWN0RmlsZSgpIHsKICAgICAgICB0aGlzLiR2YWxpZGF0b3IudmFsaWRhdGVBbGwoJ3NlY29uZGZvcm0nKS50aGVuKHZhbGlkID0+IHsKICAgICAgICAgIGlmICghdmFsaWQpIHJldHVybjsKCiAgICAgICAgICAvLyBAdG9kbyBwcm9kdWN0IGJlc3RhbmQgZG93bmxvYWQKICAgICAgICB9KQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZG93bmxvYWRQcm9kdWN0RmlsZSgpIHsKICAgICAgICB0aGlzLnZhbGlkYXRlU2Vjb25kRm9ybSgpLnRoZW4odmFsaWQgPT4gewogICAgICAgICAgaWYgKCF2YWxpZCkgcmV0dXJuOwoKICAgICAgICAgIGF4aW9zLmdldChgL2FwaS9wcm9kdWN0cy8ke3RoaXMucHJvZHVjdC5pZH0vZmlsZWAsIHsKICAgICAgICAgICAgcmVzcG9uc2VUeXBlOiAnYmxvYicsCiAgICAgICAgICB9KS50aGVuKHJlc3BvbnNlID0+IHsKICAgICAgICAgICAgY29uc3QgdXJsID0gd2luZG93LlVSTC5jcmVhdGVPYmplY3RVUkwobmV3IEJsb2IoW3Jlc3BvbnNlLmRhdGFdKSk7CiAgICAgICAgICAgIGNvbnN0IGxpbmsgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdhJyk7CiAgICAgICAgICAgIGxpbmsuaHJlZiA9IHVybDsKICAgICAgICAgICAgbGluay5zZXRBdHRyaWJ1dGUoJ2Rvd25sb2FkJywgJ2ZpbGUucGRmJyk7CiAgICAgICAgICAgIGRvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQobGluayk7CiAgICAgICAgICAgIGxpbmsuY2xpY2soKTsKICAgICAgICAgIH0pCiAgICAgICAgICAvLyBAdG9kbyBiZXN0YW5kIGRvd25sb2FkZW4uCiAgICAgICAgfSk7Cg==</text>
+      <register name="6" type="4">
+        <text>{
+          name: formData.eventData.name,
+          slug: formData.eventData.slug,
+          public: formData.eventData.public,
+          description: formData.eventData.description,
+          signupUntil: formData.eventData.signupUntil,
+          location: formData.eventData.location,
+          schedule: formData.eventData.schedule,
+          preferences: formData.eventFormStructure
+        }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxpbnB1dCB0eXBlPSJzdWJtaXQiIEBjbGljay5wcmV2ZW50PSJkb3dubG9hZFByb2R1Y3RGaWxlKCkiIHZhbHVlPSJEb3dubG9hZGVuIiB2LXNob3c9InByb2R1Y3QudHlwZSA9PT0gMiI+LS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -924,19 +952,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgOmhyZWY9ImRvd25sb2FkVXJsIiBjbGFzcz0ic3VibWl0LWJ1dHRvbiIgZG93bmxvYWQgQGNsaWNrPSJwcm9kdWN0RG93bmxvYWRlZCA9IHRydWUiPkRvd25sb2FkZW48L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCByZW1vdmVFbXB0eSA9IG9iaiA9PiB7CiAgICAgICAgLy8gICByZXR1cm4gT2JqZWN0LmtleXMob2JqKQogICAgICAgIC8vICAgICAuZmlsdGVyKGtleSA9PiBbbnVsbCwgdW5kZWZpbmVkLCAnJ10uaW5kZXhPZihvYmpba2V5XSkgPT09IC0xKQogICAgICAgIC8vICAgICAucmVkdWNlKChuZXdPYmosIGtleSkgPT4gdHlwZW9mIG9ialtrZXldID09PSAnb2JqZWN0JwogICAgICAgIC8vICAgICAgID8gT2JqZWN0LmFzc2lnbihuZXdPYmosIHtba2V5XTogcmVtb3ZlRW1wdHkob2JqW2tleV0pfSkKICAgICAgICAvLyAgICAgICA6IE9iamVjdC5hc3NpZ24obmV3T2JqLCB7W2tleV06IG9ialtrZXldfSksCiAgICAgICAgLy8gICAgIHt9KQogICAgICAgIC8vIH0KICAgICAgICAvLyBjb25zdCBzYW5pdGl6ZWRFdmVudCA9IHJlbW92ZUVtcHR5KGV2ZW50RGF0YSkKCiAgICAgICAgLy8gY29uc3Qgc2FuaXRpemVkRXZlbnQgPSBvbWl0QnkoZXZlbnREYXRhLCB2YWwgPT4gWycnLCBudWxsLCB1bmRlZmluZWRdLmluZGV4T2YodmFsKSA9PT0gLTEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08cHJvZHVjdC1zaG93LWlucHV0LS0+CiAgICAgICAgICAgICAgICAgIDwhLS1uYW1lPSJxdWFudGl0eSItLT4KICAgICAgICAgICAgICAgICAgPCEtLWxhYmVsPSJBYW50YWwgcHJvZHVjdGVuIi0tPgogICAgICAgICAgICAgICAgICA8IS0tZGF0YS12di1hcz0iQWFudGFsIHByb2R1Y3RlbiItLT4KICAgICAgICAgICAgICAgICAgPCEtLXYtdmFsaWRhdGU9IidyZXF1aXJlZCciLS0+CiAgICAgICAgICAgICAgICAgIDwhLS12LW1vZGVsPSJmb3JtLnF1YW50aXR5Ii0tPgogICAgICAgICAgICAgICAgICA8IS0tOmVycm9yPSJlcnJvcnMuZmlyc3QoJ3F1YW50aXR5JywgJ2ZpcnN0Zm9ybScpIi0tPgogICAgICAgICAgICAgICAgPCEtLSZndDs8L3Byb2R1Y3Qtc2hvdy1pbnB1dD4tLT4K</text>
+        <text encoding="base64">ICAgICAgICByZW1vdmVFbXB0eShldmVudERhdGEpCiAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name=":" type="4">
         <text>s/'/`/g</text>
       </register>
     </registers>
     <search>
-      <last-search>comp</last-search>
+      <last-search>sa</last-search>
       <last-offset />
-      <last-pattern>comp</last-pattern>
+      <last-pattern>sa</last-pattern>
       <last-replace>`</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -944,8 +972,6 @@
     </search>
     <history>
       <history-search>
-        <entry>attached</entry>
-        <entry>detached</entry>
         <entry>new</entry>
         <entry>img</entry>
         <entry>download</entry>
@@ -964,6 +990,8 @@
         <entry>quan</entry>
         <entry>down</entry>
         <entry>comp</entry>
+        <entry>re</entry>
+        <entry>sa</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3RfbmFtZS9mdW5jdGlvbg==</entry>
