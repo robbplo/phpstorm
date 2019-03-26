@@ -190,12 +190,12 @@
         <mark key="]" line="226" column="0" />
         <mark key="." line="226" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handler.js" timestamp="1553596608117">
-        <mark key="'" line="459" column="5" />
-        <mark key="[" line="465" column="7" />
-        <mark key="]" line="465" column="6" />
-        <mark key="." line="465" column="6" />
-        <mark key="^" line="465" column="6" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handler.js" timestamp="1553609866538">
+        <mark key="'" line="441" column="13" />
+        <mark key="[" line="459" column="18" />
+        <mark key="]" line="459" column="18" />
+        <mark key="." line="459" column="18" />
+        <mark key="^" line="441" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/amsterdambeautiful/src/helpers.php" timestamp="1551787178466">
         <mark key="[" line="25" column="1" />
@@ -783,9 +783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="6" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
-      <jump line="199" column="0" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
-      <jump line="263" column="0" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
       <jump line="32" column="12" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
       <jump line="48" column="27" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
       <jump line="224" column="2" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
@@ -883,19 +880,22 @@
       <jump line="153" column="24" filename="$USER_HOME$/Projects/events/pages/beheer/event/_id/edit.vue" />
       <jump line="164" column="29" filename="$USER_HOME$/Projects/events/pages/beheer/event/_id/edit.vue" />
       <jump line="458" column="5" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
+      <jump line="409" column="18" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
+      <jump line="411" column="77" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
+      <jump line="441" column="13" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXRUaW1lc3RhbXAodGFyZ2V0RXZlbnQuY3JlYXRlZEF0KQo=</text>
+      <register name="&quot;" type="4">
+        <text>forEach</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>nonResponder</text>
+        <text>forEach</text>
       </register>
       <register name="/" type="4">
-        <text>other</text>
+        <text>forE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyBjb25zdCBzYW5pdGl6ZWRFdmVudCA9IHJlbW92ZUVtcHR5KGV2ZW50RGF0YSkK</text>
@@ -953,9 +953,9 @@
       </register>
     </registers>
     <search>
-      <last-search>other</last-search>
+      <last-search>forE</last-search>
       <last-offset />
-      <last-pattern>other</last-pattern>
+      <last-pattern>forE</last-pattern>
       <last-replace>nonResponder</last-replace>
       <last-substitute>other</last-substitute>
       <last-dir>1</last-dir>
@@ -963,8 +963,6 @@
     </search>
     <history>
       <history-search>
-        <entry>img</entry>
-        <entry>download</entry>
         <entry>downl</entry>
         <entry>c</entry>
         <entry>mit-but</entry>
@@ -983,6 +981,8 @@
         <entry>re</entry>
         <entry>sa</entry>
         <entry>other</entry>
+        <entry>for</entry>
+        <entry>forE</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2Z1bmN0aW9uL3N0cmVldF9uYW1lL2c=</entry>
