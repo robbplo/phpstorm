@@ -95,6 +95,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" timestamp="1553677441311">
+        <mark key="[" line="84" column="37" />
+        <mark key="]" line="84" column="37" />
+        <mark key="^" line="84" column="20" />
+        <mark key="." line="84" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/validators/put-update-event-validator.js" timestamp="1553590749716">
         <mark key="[" line="65" column="47" />
         <mark key="]" line="65" column="47" />
@@ -190,12 +196,12 @@
         <mark key="]" line="226" column="0" />
         <mark key="." line="226" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handler.js" timestamp="1553674969642">
-        <mark key="'" line="458" column="49" />
-        <mark key="[" line="458" column="88" />
-        <mark key="]" line="1018" column="59" />
-        <mark key="." line="1018" column="59" />
-        <mark key="^" line="1018" column="59" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handler.js" timestamp="1553676661443">
+        <mark key="'" line="452" column="49" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="38" />
+        <mark key="^" line="1012" column="59" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/amsterdambeautiful/src/helpers.php" timestamp="1551787178466">
         <mark key="[" line="25" column="1" />
@@ -281,6 +287,12 @@
         <mark key="]" line="10" column="31" />
         <mark key="." line="10" column="31" />
         <mark key="^" line="171" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getEventsIndex.js" timestamp="1553677422350">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+        <mark key="^" line="5" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/database/migrations/2017_02_22_083132_create_schedules_table.php" timestamp="1548774770323">
         <mark key="[" line="22" column="0" />
@@ -381,6 +393,7 @@
         <mark key="^" line="102" column="7" />
         <mark key="." line="102" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/libs/dynamodb.js" timestamp="1553676691092" />
       <file name="$USER_HOME$/Projects/nustar-meldpunt/.env.example" timestamp="1552488791467">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -885,44 +898,44 @@
       <jump line="458" column="49" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>default</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text>default</text>
       </register>
       <register name="/" type="4">
         <text>mail</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBzYW5pdGl6ZWRFdmVudCA9IHJlbW92ZUVtcHR5KGV2ZW50RGF0YSkK</text>
+        <text encoding="base64">Y29uc3QgREIgPSByZXF1aXJlLm1haW4ucmVxdWlyZSgnbGlicy9keW5hbW9kYicpOwpjb25zdCByZXNwb25zZSA9IHJlcXVpcmUubWFpbi5yZXF1aXJlKCdsaWJzL3Jlc3BvbnNlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXRUaW1lc3RhbXAodGFyZ2V0RXZlbnQuY3JlYXRlZEF0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9mZXJzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ewogICAgICByZXR1cm4g</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMuZ2V0RXZlbnRzSW5kZXggPSAoZXZlbnQsIGNvbnRleHQsIGNhbGxiYWNrKSA9PiB7CiAgcmV0dXJuIERCLnNjYW4ocHJvY2Vzcy5lbnYuRVZFTlRTX1RBQkxFKQogICAgLnRoZW4oKHsgSXRlbXMgfSkgPT4gY2FsbGJhY2sobnVsbCwgcmVzcG9uc2Uuc3VjY2VzcyhJdGVtcykpKQogICAgLmNhdGNoKGVycm9yID0+IGNhbGxiYWNrKG51bGwsIHJlc3BvbnNlLmVycm9yKDQyMiwge21lc3NhZ2U6IGVycm9yLm1lc3NhZ2V9KSkpCn0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JtYXRUaW1lc3RhbXAodGFyZ2V0RXZlbnQuY3JlYXRlZEF0KQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -943,10 +956,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGl0ZW0gPSAKCg==</text>
+        <text encoding="base64">ICAgIG1hcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIG9mZXJzCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/mail/invite/g</text>
