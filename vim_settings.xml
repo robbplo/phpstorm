@@ -85,7 +85,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" timestamp="1553691516640">
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" timestamp="1553694789045">
         <mark key="'" line="298" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/validators/put-update-event-validator.js" timestamp="1553691966961">
@@ -200,11 +200,12 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="171" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getEventsIndex.js" timestamp="1553691708827">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="3" column="40" />
-        <mark key="." line="3" column="40" />
-        <mark key="^" line="3" column="40" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getEventsIndex.js" timestamp="1553694730562">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+        <mark key="^" line="14" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Http/Controllers/ProductController.php" timestamp="1553001411914">
         <mark key="[" line="36" column="21" />
@@ -395,11 +396,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/models/Event.js" timestamp="1553692101724">
-        <mark key="'" line="88" column="23" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="83" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/models/Event.js" timestamp="1553693254248">
+        <mark key="'" line="87" column="23" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/postUnsubscribeEvent.js" timestamp="1553686543442">
         <mark key="[" line="5" column="0" />
@@ -667,7 +668,6 @@
       <jump line="218" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
       <jump line="87" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
       <jump line="74" column="32" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
-      <jump line="7" column="2" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getEventsIndex.js" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getEventsIndex.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriptionDetails.js" />
@@ -738,16 +738,17 @@
       <jump line="72" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/validators/post-create-event-validator.js" />
       <jump line="28" column="23" filename="$USER_HOME$/Projects/events-api/subscriptions/models/Event.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/validators/post-create-event-validator.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getEventsIndex.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgbWF4UG9zc2libGVEYXRlID0gKChuZXcgRGF0ZSgpKS5zZXRGdWxsWWVhcigobmV3IERhdGUoKSkuZ2V0RnVsbFllYXIoKSArIDQpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>callback(null, response.success(data))</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>callback(null, response.success(data))</text>
       </register>
       <register name="/" type="4">
         <text>event</text>
@@ -756,28 +757,28 @@
         <text encoding="base64">Y29uc3QgbWF4UG9zc2libGVEYXRlID0gKChuZXcgRGF0ZSgpKS5zZXRGdWxsWWVhcigobmV3IERhdGUoKSkuZ2V0RnVsbFllYXIoKSArIDQpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlkOiBkeW5vZ2Vscy50eXBlcy51dWlkKCksCiAgICBmaXJzdE5hbWU6IEpvaS5zdHJpbmcoKSwKICAgIGxhc3ROYW1lOiBKb2kuc3RyaW5nKCksCiAgICBhZ2U6IEpvaS5udW1iZXIoKSwKICAgIGdlbmRlcjogSm9pLnN0cmluZygpLAogICAgZGVsZXRlZDogSm9pLmJvb2xlYW4oKSwK</text>
+        <text encoding="base64">ICByZXR1cm4gRXZlbnQuc2NhbigpLmV4ZWMoKGVyciwgZGF0YSkgPT4gY2FsbGJhY2sobnVsbCwgcmVzcG9uc2Uuc3VjY2VzcyhkYXRhKSkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5hbWU6IEpvaS5zdHJpbmcoKS5tYXgoNTApLnJlcXVpcmVkKCksCiAgICBzbHVnOiBKb2kuc3RyaW5nKCkubWF4KDUwKS5yZXF1aXJlZCgpLAogICAgcHVibGljOiBKb2kuYm9vbCgpLnJlcXVpcmVkKCksCiAgICBkZXNjcmlwdGlvbjogSm9pLnN0cmluZygpLm1heCgzMDAwKS5yZXF1aXJlZCgpLAogICAgc2lnbnVwVW50aWw6IEpvaS5kYXRlKCkuaXNvKCkubWF4KG1heFBvc3NpYmxlRGF0ZSksCiAgICBsb2NhdGlvbjogSm9pLm9iamVjdCgpLmtleXMoewogICAgICBuYW1lOiBKb2kuc3RyaW5nKCkubWluKDEpLm1heCgxNTApLAogICAgICB3ZWJzaXRlOiBKb2kuc3RyaW5nKCkucmVnZXgoL2h0dHBzPzpcL1wvKHd3d1wuKT9bLWEtekEtWjAtOUA6JS5fXCt+Iz1dezIsMjU2fVwuW2Etel17Miw2fVxiKFstYS16QS1aMC05QDolX1wrLn4jPyYvLz1dKikvKS5tYXgoMjU1KSwKICAgICAgc3RyZWV0TnVtYmVyOiBKb2kubnVtYmVyKCkubWluKDApLAogICAgICBsb2NhbGl0eTogSm9pLnN0cmluZygpLm1heCg1MDApLAogICAgICByb3V0ZTogSm9pLnN0cmluZygpLm1heCg1MDApLAogICAgICBjb3VudHJ5OiBKb2kuc3RyaW5nKCkubWF4KDUwMCksCiAgICAgIHBvc3RhbENvZGU6IEpvaS5zdHJpbmcoKS5tYXgoMTApLAogICAgICBhZGRyZXNzOiBKb2kuc3RyaW5nKCkubWF4KDUwMCksCiAgICAgIGxhdDogSm9pLm51bWJlcigpLnByZWNpc2lvbig3KSwKICAgICAgbG5nOiBKb2kubnVtYmVyKCkucHJlY2lzaW9uKDcpLAogICAgfSksCiAgICBzY2hlZHVsZTogSm9pLmFycmF5KCkubWluKDIpLm1heCgyMCkuaXRlbXMoCiAgICAgIEpvaS5vYmplY3QoKS5rZXlzKHsKICAgICAgICBuYW1lOiBKb2kuc3RyaW5nKCkubWF4KDUwKS5yZXF1aXJlZCgpLAogICAgICAgIHN0YXJ0QXQ6IEpvaS5kYXRlKCkuaXNvKCkubWF4KG1heFBvc3NpYmxlRGF0ZSksCiAgICAgICAgZmluaXNoQXQ6IEpvaS5kYXRlKCkuaXNvKCkubWF4KG1heFBvc3NpYmxlRGF0ZSksCiAgICAgICAgcHVibGljOiBKb2kuYm9vbCgpLnJlcXVpcmVkKCkKICAgICAgfSkKICAgICkucmVxdWlyZWQoKSwKICAgIHByZWZlcmVuY2VzOiBKb2kuYXJyYXkoKS5tYXgoMjApLml0ZW1zKCAvLyBBd2Vzb21lIGNvbmRpdGlvbmFsIHZhbGlkYXRpb24gOikKICAgICAgSm9pLm9iamVjdCgpLmtleXMoewogICAgICAgIHRpdGxlOiBKb2kuc3RyaW5nKCkubWF4KDUwKS5yZXF1aXJlZCgpLAogICAgICAgIHJlcXVpcmVkOiBKb2kuYm9vbGVhbigpLnJlcXVpcmVkKCksCiAgICAgICAgdHlwZTogSm9pLnN0cmluZygpLmVxdWFsKFsgJ2lucHV0JywgJ3RleHRhcmVhJywgJ2Ryb3Bkb3duJywgJ29wdGlvbnMnIF0pLnJlcXVpcmVkKCksCiAgICAgIH0pCiAgICAgIC53aGVuKEpvaS5vYmplY3QoeyB0eXBlOiBKb2kuZXF1YWwoJ2lucHV0JykgfSkudW5rbm93bigpLCB7CiAgICAgICAgdGhlbjogSm9pLm9iamVjdCgpLmtleXMoewogICAgICAgICAgbWluOiAgSm9pLm51bWJlcigpLnJlcXVpcmVkKCksCiAgICAgICAgICBtYXg6IEpvaS5udW1iZXIoKS5yZXF1aXJlZCgpLAogICAgICAgICAgaXNOdW1iZXI6IEpvaS5ib29sZWFuKCksCiAgICAgICAgfSksCiAgICAgIH0pCiAgICAgIC53aGVuKEpvaS5vYmplY3QoeyB0eXBlOiBKb2kuZXF1YWwoJ3RleHRhcmVhJykgfSkudW5rbm93bigpLCB7CiAgICAgICAgdGhlbjogSm9pLm9iamVjdCgpLmtleXMoewogICAgICAgICAgbWluOiBKb2kubnVtYmVyKCkucmVxdWlyZWQoKSwKICAgICAgICAgIG1heDogSm9pLm51bWJlcigpLnJlcXVpcmVkKCksCiAgICAgICAgfSksCiAgICAgIH0pCiAgICAgIC53aGVuKEpvaS5vYmplY3QoeyB0eXBlOiBKb2kuZXF1YWwoJ2Ryb3Bkb3duJykgfSkudW5rbm93bigpLCB7CiAgICAgICAgdGhlbjogSm9pLm9iamVjdCgpLmtleXMoewogICAgICAgICAgbXVsdGlwbGU6IEpvaS5ib29sZWFuKCkucmVxdWlyZWQoKSwKICAgICAgICAgIG9wdGlvbnM6IEpvaS5hcnJheSgpLm1pbigxKS5pdGVtcygKICAgICAgICAgICAgSm9pLnN0cmluZygpLm1heCg1MCkucmVxdWlyZWQoKSwKICAgICAgICAgICkucmVxdWlyZWQoKSwKICAgICAgICB9KSwKICAgICAgfSkKICAgICAgLndoZW4oSm9pLm9iamVjdCh7IHR5cGU6IEpvaS5lcXVhbCgnb3B0aW9ucycpIH0pLnVua25vd24oKSwgewogICAgICAgIHRoZW46IEpvaS5vYmplY3QoKS5rZXlzKHsKICAgICAgICAgIG11bHRpcGxlOiBKb2kuYm9vbGVhbigpLnJlcXVpcmVkKCksCiAgICAgICAgICBvcHRpb25zOiBKb2kuYXJyYXkoKS5taW4oMSkuaXRlbXMoCiAgICAgICAgICAgIEpvaS5vYmplY3QoKS5rZXlzKHsKICAgICAgICAgICAgICB0aXRsZTogSm9pLnN0cmluZygpLm1heCg1MCkucmVxdWlyZWQoKSwKICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogSm9pLnN0cmluZygpLm1heCg1MCkub3B0aW9uYWwoKSwKICAgICAgICAgICAgfSksCiAgICAgICAgICApLnJlcXVpcmVkKCksCiAgICAgICAgfSksCiAgICAgIH0pCiAgICApLnJlcXVpcmVkKCkK</text>
+        <text encoding="base64">Ly8gY2FsbGJhY2sobnVsbCwgcmVzcG9uc2Uuc3VjY2VzcyhldmVudHMpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICAvLyBjYWxsYmFjayhudWxsLCByZXNwb25zZS5zdWNjZXNzKGV2ZW50cykpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByYW5nZUtleTogJ2VtYWlsJywK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyByZXR1cm4gREIuc2Nhbihwcm9jZXNzLmVudi5FVkVOVFNfVEFCTEUpCiAgLy8gICAudGhlbigoeyBJdGVtcyB9KSA9PiBjYWxsYmFjayhudWxsLCByZXNwb25zZS5zdWNjZXNzKEl0ZW1zKSkpCiAgLy8gICAuY2F0Y2goZXJyb3IgPT4gY2FsbGJhY2sobnVsbCwgcmVzcG9uc2UuZXJyb3IoNDIyLCB7bWVzc2FnZTogZXJyb3IubWVzc2FnZX0pKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgeyBJU19PRkZMSU5FLCBEWU5BTU9EQl9QT1JUIH0gPSBwcm9jZXNzLmVudjsK</text>
+        <text encoding="base64">ICAvLyByZXR1cm4gRXZlbnQuc2NhbigpLnRoZW4ocmVzID0+IGNhbGxiYWNrKG51bGwsIHJlc3BvbnNlLnN1Y2Nlc3MocmVzKSkpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -798,10 +799,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBVc2VyczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IERCIGZyb20gJy4uL2xpYnMvZHluYW1vZGInOwppbXBvcnQgcmVzcG9uc2UgZnJvbSAnLi4vbGlicy9yZXNwb25zZSc7Cg==</text>
+        <text encoding="base64">Y29uc3QgREIgPSByZXF1aXJlKCcuLi9saWJzL2R5bmFtb2RiJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/assign/get/g</text>
