@@ -29,11 +29,17 @@
         <mark key="^" line="1" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/libs/response.js" timestamp="1553774362751" />
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" timestamp="1553775042474">
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/deleteEvent.js" timestamp="1553682376301">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" timestamp="1553778259474">
         <mark key="'" line="298" column="0" />
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="21" column="18" />
-        <mark key="." line="21" column="18" />
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+        <mark key="^" line="15" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/validators/put-update-event-validator.js" timestamp="1553691966961">
         <mark key="'" line="70" column="12" />
@@ -79,6 +85,11 @@
         <mark key="^" line="102" column="7" />
         <mark key="." line="102" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/libs/dynamodb.js" timestamp="1553777839499">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/postSubscribeEvent.js" timestamp="1553766713352">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
@@ -121,6 +132,11 @@
         <mark key="]" line="6" column="15" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" timestamp="1553682763920">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/postPublicSignup.js" timestamp="1553777072747">
         <mark key="[" line="77" column="39" />
@@ -276,13 +292,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAKaC5wYXJzZSgKICAKICBjb25zdCBwYXJhbXMgPSBldmVudC5ib2R5OwogIA==</text>
+        <text>false</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>h.parse(</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>event</text>
