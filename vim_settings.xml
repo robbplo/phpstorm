@@ -15,10 +15,11 @@
         <mark key="^" line="102" column="7" />
         <mark key="." line="102" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/libs/dynamodb.js" timestamp="1553777839499">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/libs/dynamodb.js" timestamp="1553796232915">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+        <mark key="^" line="11" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/bij.boehringer/api/Product/Http/Requests/UpdateProductRequest.php" timestamp="1553090986425">
         <mark key="[" line="46" column="13" />
@@ -136,11 +137,6 @@
         <mark key="." line="152" column="29" />
         <mark key="^" line="152" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/deleteEvent.js" timestamp="1553682376301">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/putCancelEvent.js" timestamp="1553682282017">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="61" />
@@ -153,12 +149,12 @@
         <mark key="^" line="30" column="48" />
         <mark key="." line="30" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" timestamp="1553794882650">
-        <mark key="'" line="299" column="0" />
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="14" />
-        <mark key="." line="13" column="14" />
-        <mark key="^" line="13" column="16" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" timestamp="1553796971468">
+        <mark key="'" line="301" column="0" />
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="20" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/validators/put-update-event-validator.js" timestamp="1553691966961">
         <mark key="'" line="70" column="12" />
@@ -268,10 +264,10 @@
         <mark key="." line="37" column="32" />
         <mark key="^" line="37" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/package.json" timestamp="1553792470884">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/package.json" timestamp="1553796046859">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getEventPageData.js" timestamp="1553773998389">
         <mark key="[" line="3" column="15" />
@@ -640,13 +636,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>npm</text>
+        <text>25.0</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>npm</text>
+        <text>25.0</text>
       </register>
       <register name="/" type="4">
         <text>subscribers</text>
@@ -654,7 +650,19 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vIC5maWx0ZXIoc3ViID0+IHN1Yi5zdGF0dXMgPT09IEludml0ZVN0YXR1c0VudW0uU0lHTkVEVVAudmFsdWUpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJnbG9iYWwiOiAiNC4zLjIiLAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJzZXJ2ZXJsZXNzIjogIjEuMzkuMSIsCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>loaders: [
   // {
   //   test: /\.serverless-secrets.json$/,
@@ -669,26 +677,14 @@
 }
 ;</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgewo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHRlc3Q6IC9cLmpzb24kLywKICAgICAgICBsb2FkZXI6ICdqc29uLWxvYWRlcicKICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHRlc3Q6IC9cLmpzeD8kLywKICAgICAgICBleGNsdWRlOiAvbm9kZV9tb2R1bGVzLywKICAgICAgICBsb2FkZXJzOiBbImJhYmVsLWxvYWRlciJdCiAgICAgIH0sCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAibWFpbiI6ICJoYW5kbGVyLmpzIiwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIHRlc3Q6IC9cLmpzb24kLywKICAgICAgICBsb2FkZXI6ICdqc29uLWxvYWRlcicKICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -708,11 +704,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LnRoZW4ocmVzID0+IHsKICAgICAgICBjb25zdCBtYWlsQm9keSA9IGAKICAgICAgICAgIDxiciAvPgogICAgICAgICAgPHA+CiAgICAgICAgICBCZWRhbmt0IHZvb3IgamUgYWFubWVsZGluZyBiaWogJHt0YXJnZXRFdmVudC5uYW1lfS4gPGJyIC8+CiAgICAgICAgICBLbGlrIG9wIGRlIG9uZGVyc3RhYW5kZSBrbm9wIG9tIGplIHZvb3JrZXVyIGluIHRlIHZ1bGxlbiBlbiBqZSBhYW5tZWxkaW5nIHRlIHZvbHRvb2llbi4KICAgICAgICBgOwogICAgICAgIAogICAgICAgIGNvbnN0IGhlYWRlckltYWdlID0gZXZlbnQuaXNPZmZsaW5lID8KICAgICAgICAgICdodHRwczovL2V2ZW50cy5ib2VocmluZ2VyLm5sL2ltZy9jb21wYXNzLmpwZycgOgogICAgICAgICAgYGh0dHBzOi8vczMuJHtwcm9jZXNzLmVudi5TRVJWRVJMRVNTX1JFR0lPTn0uYW1hem9uYXdzLmNvbS8ke3Byb2Nlc3MuZW52LkhFQURFUlNfQlVDS0VUfS8ke3RhcmdldEV2ZW50LmV2ZW50SWR9YAogICAgICAgIAogICAgICAgIG1haWxlci5zZW5kKAogICAgICAgICAgc3Vic2NyaWJlci5lbWFpbCwKICAgICAgICAgIHsKICAgICAgICAgICAgaGVhZGVySW1hZ2UsCiAgICAgICAgICAgIGdyZWV0aW5nOiBgQmVzdGUgJHtzdWJzY3JpYmVyLmZpcnN0TmFtZX1gLAogICAgICAgICAgICBhY3Rpb25UZXh0OiAnQWFubWVsZGVuJywKICAgICAgICAgICAgYWN0aW9uVXJsOiBgJHtwcm9jZXNzLmVudi5CQVNFX1VSTH0vJHt0YXJnZXRFdmVudC5ldmVudElkfT90b2tlbj0ke2guY3JlYXRlVG9rZW4oc3Vic2NyaWJlci5lbWFpbCwgdGFyZ2V0RXZlbnQuZXZlbnRJZCl9YCwKICAgICAgICAgICAgdW5zdWJzY3JpYmVVcmw6IGAke3Byb2Nlc3MuZW52LkJBU0VfVVJMfS9tYWlsLXVuc3Vic2NyaWJlP3Rva2VuPSR7aC5jcmVhdGVUb2tlbihzdWJzY3JpYmVyLmVtYWlsLCB0YXJnZXRFdmVudC5ldmVudElkKX1gLAogICAgICAgICAgICBvcmdhbml6YXRpb25OYW1lOiAnQm9laHJpbmdlciBJbmdlbGhlaW0gQW5pbWFsIEhlYWx0aCBOZXRoZXJsYW5kcyBidicsCiAgICAgICAgICAgIG9yZ2FuaXphdGlvbkFkZHJlc3M6ICdDb21lbml1c3N0cmFhdCA2LCAxODE3IE1TIEFMS01BQVInLAogICAgICAgICAgICBzdXBwb3J0VGVhbU5hbWU6ICdIZXQgQm9laHJpbmdlciBJbmdlbGhlaW0gQW5pbWFsIEhlYWx0aCB0ZWFtJywKICAgICAgICAgIH0sCiAgICAgICAgICBgVm9sdG9vaSBqZSBhYW5tZWxkaW5nIGJpaiAke3RhcmdldEV2ZW50Lm5hbWV9YCwKICAgICAgICAgIHByb2Nlc3MuZW52LlNFTkRHUklEX01BSUxfRlJPTSwKICAgICAgICAgIHByb2Nlc3MuZW52LlNFTkRHUklEX1RFTVBMQVRFX0lELAogICAgICAgICAgbWFpbEJvZHkKICAgICAgICApOwogICAgICAgIHJldHVybiBjYWxsYmFjayhudWxsLCByZXNwb25zZS5zdWNjZXNzKHsKICAgICAgICAgIHRva2VuOiBoLmNyZWF0ZVRva2VuKHN1YnNjcmliZXIuZW1haWwsIHRhcmdldEV2ZW50LmV2ZW50SWQpLAogICAgICAgICAgZmlyc3ROYW1lOiBzdWJzY3JpYmVyLmZpcnN0TmFtZSwKICAgICAgICAgIGxhc3ROYW1lOiBzdWJzY3JpYmVyLmxhc3ROYW1lLAogICAgICAgICAgZW1haWw6IHN1YnNjcmliZXIuZW1haWwsCiAgICAgICAgfSkpCiAgICAgIH0p</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgewogICAgICAgIHRlc3Q6IC9cLmpzeD8kLywKICAgICAgICBleGNsdWRlOiAvbm9kZV9tb2R1bGVzLywKICAgICAgICBsb2FkZXJzOiBbImJhYmVsLWxvYWRlciJdCiAgICAgIH0sCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgcmV0dXJuIERCLmNyZWF0ZShwcm9jZXNzLmVudi5TVUJTQ1JJUFRJT05TX1RBQkxFLCBzdWJzY3JpYmVyKS50aGVuKHJlcyA9PiB7CiAgICAgICAgY29uc3QgbWFpbEJvZHkgPSBgCiAgICAgICAgICA8YnIgLz4KICAgICAgICAgIDxwPgogICAgICAgICAgQmVkYW5rdCB2b29yIGplIGFhbm1lbGRpbmcgYmlqICR7dGFyZ2V0RXZlbnQubmFtZX0uIDxiciAvPgogICAgICAgICAgS2xpayBvcCBkZSBvbmRlcnN0YWFuZGUga25vcCBvbSBqZSB2b29ya2V1ciBpbiB0ZSB2dWxsZW4gZW4gamUgYWFubWVsZGluZyB0ZSB2b2x0b29pZW4uCiAgICAgICAgYDsKICAgICAgICAKICAgICAgICBjb25zdCBoZWFkZXJJbWFnZSA9IGV2ZW50LmlzT2ZmbGluZSA/CiAgICAgICAgICAnaHR0cHM6Ly9ldmVudHMuYm9laHJpbmdlci5ubC9pbWcvY29tcGFzcy5qcGcnIDoKICAgICAgICAgIGBodHRwczovL3MzLiR7cHJvY2Vzcy5lbnYuU0VSVkVSTEVTU19SRUdJT059LmFtYXpvbmF3cy5jb20vJHtwcm9jZXNzLmVudi5IRUFERVJTX0JVQ0tFVH0vJHt0YXJnZXRFdmVudC5ldmVudElkfWAKICAgICAgICAKICAgICAgICBtYWlsZXIuc2VuZCgKICAgICAgICAgIHN1YnNjcmliZXIuZW1haWwsCiAgICAgICAgICB7CiAgICAgICAgICAgIGhlYWRlckltYWdlLAogICAgICAgICAgICBncmVldGluZzogYEJlc3RlICR7c3Vic2NyaWJlci5maXJzdE5hbWV9YCwKICAgICAgICAgICAgYWN0aW9uVGV4dDogJ0Fhbm1lbGRlbicsCiAgICAgICAgICAgIGFjdGlvblVybDogYCR7cHJvY2Vzcy5lbnYuQkFTRV9VUkx9LyR7dGFyZ2V0RXZlbnQuZXZlbnRJZH0/dG9rZW49JHtoLmNyZWF0ZVRva2VuKHN1YnNjcmliZXIuZW1haWwsIHRhcmdldEV2ZW50LmV2ZW50SWQpfWAsCiAgICAgICAgICAgIHVuc3Vic2NyaWJlVXJsOiBgJHtwcm9jZXNzLmVudi5CQVNFX1VSTH0vbWFpbC11bnN1YnNjcmliZT90b2tlbj0ke2guY3JlYXRlVG9rZW4oc3Vic2NyaWJlci5lbWFpbCwgdGFyZ2V0RXZlbnQuZXZlbnRJZCl9YCwKICAgICAgICAgICAgb3JnYW5pemF0aW9uTmFtZTogJ0JvZWhyaW5nZXIgSW5nZWxoZWltIEFuaW1hbCBIZWFsdGggTmV0aGVybGFuZHMgYnYnLAogICAgICAgICAgICBvcmdhbml6YXRpb25BZGRyZXNzOiAnQ29tZW5pdXNzdHJhYXQgNiwgMTgxNyBNUyBBTEtNQUFSJywKICAgICAgICAgICAgc3VwcG9ydFRlYW1OYW1lOiAnSGV0IEJvZWhyaW5nZXIgSW5nZWxoZWltIEFuaW1hbCBIZWFsdGggdGVhbScsCiAgICAgICAgICB9LAogICAgICAgICAgYFZvbHRvb2kgamUgYWFubWVsZGluZyBiaWogJHt0YXJnZXRFdmVudC5uYW1lfWAsCiAgICAgICAgICBwcm9jZXNzLmVudi5TRU5ER1JJRF9NQUlMX0ZST00sCiAgICAgICAgICBwcm9jZXNzLmVudi5TRU5ER1JJRF9URU1QTEFURV9JRCwKICAgICAgICAgIG1haWxCb2R5CiAgICAgICAgKTsKICAgICAgICByZXR1cm4gY2FsbGJhY2sobnVsbCwgcmVzcG9uc2Uuc3VjY2Vzcyh7CiAgICAgICAgICB0b2tlbjogaC5jcmVhdGVUb2tlbihzdWJzY3JpYmVyLmVtYWlsLCB0YXJnZXRFdmVudC5ldmVudElkKSwKICAgICAgICAgIGZpcnN0TmFtZTogc3Vic2NyaWJlci5maXJzdE5hbWUsCiAgICAgICAgICBsYXN0TmFtZTogc3Vic2NyaWJlci5sYXN0TmFtZSwKICAgICAgICAgIGVtYWlsOiBzdWJzY3JpYmVyLmVtYWlsLAogICAgICAgIH0pKQogICAgICB9KQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAibWFpbiI6ICJoYW5kbGVyLmpzIiwK</text>
       </register>
       <register name=":" type="4">
         <text>s/subscribers/events/g</text>
