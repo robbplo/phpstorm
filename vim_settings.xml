@@ -9,6 +9,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="48" column="49" />
       </file>
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/putUpdateEventMail.js" timestamp="1553682962506">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="24" column="32" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getReceivesMail.js" timestamp="1553766698085">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="15" />
@@ -52,11 +58,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" timestamp="1553783083418">
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" timestamp="1553787099432">
         <mark key="'" line="296" column="0" />
-        <mark key="[" line="339" column="0" />
-        <mark key="]" line="339" column="0" />
-        <mark key="." line="339" column="0" />
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="18" />
+        <mark key="." line="19" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/validators/put-update-event-validator.js" timestamp="1553691966961">
         <mark key="'" line="70" column="12" />
@@ -78,6 +84,12 @@
         <mark key="]" line="2" column="45" />
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/validators/post-create-event-validator.js" timestamp="1553692069155">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="83" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Console/Kernel.php" timestamp="1553003530608">
         <mark key="[" line="27" column="0" />
@@ -294,12 +306,18 @@
         <mark key="^" line="2" column="46" />
         <mark key="." line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" timestamp="1553784808821">
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/models/Event.js" timestamp="1553693254248">
+        <mark key="'" line="87" column="23" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" timestamp="1553786804311">
         <mark key="'" line="8" column="2" />
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="14" column="35" />
-        <mark key="." line="14" column="35" />
-        <mark key="^" line="14" column="35" />
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+        <mark key="^" line="16" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/postUnsubscribeEvent.js" timestamp="1553780224039">
         <mark key="[" line="8" column="0" />
@@ -343,6 +361,7 @@
         <mark key="." line="37" column="32" />
         <mark key="^" line="37" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/package.json" timestamp="1553786898275" />
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getEventPageData.js" timestamp="1553773998389">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="15" />
