@@ -21,6 +21,11 @@
         <mark key="." line="12" column="37" />
         <mark key="^" line="11" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/events-api/README.md" timestamp="1553856947135">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/bij.boehringer/api/Product/Http/Requests/UpdateProductRequest.php" timestamp="1553090986425">
         <mark key="[" line="46" column="13" />
         <mark key="]" line="46" column="16" />
@@ -112,6 +117,9 @@
         <mark key="." line="16" column="11" />
         <mark key="^" line="16" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/.gitignore" timestamp="1553857060493">
+        <mark key="[" line="9" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Observers/ProductObserver.php" timestamp="1552575958672">
         <mark key="[" line="18" column="17" />
         <mark key="]" line="19" column="19" />
@@ -137,11 +145,12 @@
         <mark key="^" line="30" column="48" />
         <mark key="." line="30" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" timestamp="1553855640905">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="19" column="19" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" timestamp="1553856879223">
+        <mark key="'" line="375" column="60" />
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="12" />
+        <mark key="^" line="25" column="15" />
+        <mark key="." line="18" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/events/pages/_eventId/index.vue" timestamp="1553780405395">
         <mark key="[" line="10" column="35" />
@@ -166,6 +175,13 @@
         <mark key="]" line="124" column="64" />
         <mark key="." line="124" column="64" />
         <mark key="^" line="124" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/seeds/events.json" timestamp="1553856765316">
+        <mark key="'" line="1" column="6" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" timestamp="1553786804311">
         <mark key="'" line="8" column="2" />
@@ -506,9 +522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1041" column="69" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
-      <jump line="457" column="3" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
-      <jump line="458" column="49" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
       <jump line="120" column="10" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
       <jump line="107" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
       <jump line="117" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
@@ -606,46 +619,49 @@
       <jump line="17" column="19" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
       <jump line="8" column="2" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
+      <jump line="374" column="60" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
+      <jump line="1" column="6" filename="$USER_HOME$/Projects/events-api/subscriptions/seeds/events.json" />
+      <jump line="32" column="2" filename="$USER_HOME$/Projects/events-api/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAgICAgIG5vU3RhcnQ6IHRydWUK</text>
+      <register name="&quot;" type="4">
+        <text>Setting up base table for dev environment in for example `http://localhost:8000/shell`:</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>35</text>
+        <text>Setting up base table for dev environment in for example `http://localhost:8000/shell`:</text>
       </register>
       <register name="/" type="4">
-        <text>subscribers</text>
+        <text>```</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vIC5maWx0ZXIoc3ViID0+IHN1Yi5zdGF0dXMgPT09IEludml0ZVN0YXR1c0VudW0uU0lHTkVEVVAudmFsdWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgIG5vU3RhcnQ6IHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IoZGJfZGlyKQogICAgICAgIGNvbnNvbGUubG9nKGRiX2Rpcik7Cgo=</text>
+        <text encoding="base64">YGBgamF2YXNjcmlwdAp2YXIgY2IgPSAoZXJyb3IsIGRhdGEpID0+IHBwSnNvbihlcnJvciB8fCBkYXRhKQp2YXIgc3Vic2NyaXB0aW9uc1RhYmxlID0gewogICAgVGFibGVOYW1lOiAnc3Vic2NyaXB0aW9ucy1kZXYnLAogICAgS2V5U2NoZW1hOiBbewogICAgICAgIEF0dHJpYnV0ZU5hbWU6ICdldmVudElkJywKICAgICAgICBLZXlUeXBlOiAnSEFTSCcsCiAgICB9LCB7CiAgICAgICAgQXR0cmlidXRlTmFtZTogJ2VtYWlsJywKICAgICAgICBLZXlUeXBlOiAnUkFOR0UnLAogICAgfSwgXSwKICAgIEF0dHJpYnV0ZURlZmluaXRpb25zOiBbewogICAgICAgIEF0dHJpYnV0ZU5hbWU6ICdlbWFpbCcsCiAgICAgICAgQXR0cmlidXRlVHlwZTogJ1MnLAogICAgfSwgewogICAgICAgIEF0dHJpYnV0ZU5hbWU6ICdldmVudElkJywKICAgICAgICBBdHRyaWJ1dGVUeXBlOiAnUycsCiAgICB9LCBdLAogICAgUHJvdmlzaW9uZWRUaHJvdWdocHV0OiB7CiAgICAgICAgUmVhZENhcGFjaXR5VW5pdHM6IDEsCiAgICAgICAgV3JpdGVDYXBhY2l0eVVuaXRzOiAxLAogICAgfSwKfTsKCnZhciBldmVudHNUYWJsZSA9IHsKICAgIFRhYmxlTmFtZTogJ2V2ZW50cy1kZXYnLAogICAgS2V5U2NoZW1hOiBbewogICAgICAgIEF0dHJpYnV0ZU5hbWU6ICdldmVudElkJywKICAgICAgICBLZXlUeXBlOiAnSEFTSCcsCiAgICB9LCBdLAogICAgQXR0cmlidXRlRGVmaW5pdGlvbnM6IFt7CiAgICAgICAgICAgIEF0dHJpYnV0ZU5hbWU6ICdldmVudElkJywKICAgICAgICAgICAgQXR0cmlidXRlVHlwZTogJ1MnLAogICAgICAgIH0sCiAgICBdLAogICAgUHJvdmlzaW9uZWRUaHJvdWdocHV0OiB7CiAgICAgICAgUmVhZENhcGFjaXR5VW5pdHM6IDEsCiAgICAgICAgV3JpdGVDYXBhY2l0eVVuaXRzOiAxLAogICAgfSwKfQoKZHluYW1vZGIuY3JlYXRlVGFibGUoc3Vic2NyaXB0aW9uc1RhYmxlLCBjYikKZHluYW1vZGIuY3JlYXRlVGFibGUoZXZlbnRzVGFibGUsIGNiKQpgYGAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3Iob3B0aW9ucy5ub1N0YXJ0KTsK</text>
+        <text encoding="base64">c2xzIGR5bmFtb2RiIHN0YXJ0IC0taW5NZW1vcnkgLS1zaGFyZWREYgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3Iob3B0aW9ucy5ub1N0YXJ0KTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3Iob3B0aW9ucy5ub1N0YXJ0KTsK</text>
+        <text encoding="base64">Ly8gMjAxOTAzMjkxMTUxMDkKLy8gaHR0cDovL2xvY2FsaG9zdDozMDAxL2V2ZW50cwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3Iob3B0aW9ucy5sb2NhbFBhZGR0aCkK</text>
+        <text encoding="base64">IyAgICAgIG5vU3RhcnQ6IHRydWUK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -666,19 +682,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgIGhlYXBJbml0aWFsOiAyMDBtCiMgICAgICBoZWFwTWF4OiAxZwo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IoZGJfZGlyKQogICAgICAgIGNvbnNvbGUubG9nKGRiX2Rpcik7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcG9ydDogODAwMAogICAgICBtaWdyYXRlOiB0cnVlCiAgICAgIHNlZWQ6IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/subscribers/events/g</text>
       </register>
     </registers>
     <search>
-      <last-search>subscribers</last-search>
+      <last-search>```</last-search>
       <last-offset />
-      <last-pattern>subscribers</last-pattern>
+      <last-pattern>```</last-pattern>
       <last-replace>events</last-replace>
       <last-substitute>subscribers</last-substitute>
       <last-dir>1</last-dir>
@@ -686,7 +702,6 @@
     </search>
     <history>
       <history-search>
-        <entry>response</entry>
         <entry>'</entry>
         <entry>hand</entry>
         <entry>mand</entry>
@@ -706,6 +721,7 @@
         <entry>event</entry>
         <entry>for</entry>
         <entry>subscribers</entry>
+        <entry>```</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2Z1bmN0aW9uL2JpZ19udW1iZXI=</entry>
