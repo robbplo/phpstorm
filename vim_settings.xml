@@ -117,8 +117,10 @@
         <mark key="." line="16" column="11" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/.gitignore" timestamp="1553857060493">
-        <mark key="[" line="9" column="11" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/.gitignore" timestamp="1553863078087">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Observers/ProductObserver.php" timestamp="1552575958672">
         <mark key="[" line="18" column="17" />
@@ -624,8 +626,8 @@
       <jump line="32" column="2" filename="$USER_HOME$/Projects/events-api/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Setting up base table for dev environment in for example `http://localhost:8000/shell`:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
@@ -646,22 +648,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YGBgamF2YXNjcmlwdAp2YXIgY2IgPSAoZXJyb3IsIGRhdGEpID0+IHBwSnNvbihlcnJvciB8fCBkYXRhKQp2YXIgc3Vic2NyaXB0aW9uc1RhYmxlID0gewogICAgVGFibGVOYW1lOiAnc3Vic2NyaXB0aW9ucy1kZXYnLAogICAgS2V5U2NoZW1hOiBbewogICAgICAgIEF0dHJpYnV0ZU5hbWU6ICdldmVudElkJywKICAgICAgICBLZXlUeXBlOiAnSEFTSCcsCiAgICB9LCB7CiAgICAgICAgQXR0cmlidXRlTmFtZTogJ2VtYWlsJywKICAgICAgICBLZXlUeXBlOiAnUkFOR0UnLAogICAgfSwgXSwKICAgIEF0dHJpYnV0ZURlZmluaXRpb25zOiBbewogICAgICAgIEF0dHJpYnV0ZU5hbWU6ICdlbWFpbCcsCiAgICAgICAgQXR0cmlidXRlVHlwZTogJ1MnLAogICAgfSwgewogICAgICAgIEF0dHJpYnV0ZU5hbWU6ICdldmVudElkJywKICAgICAgICBBdHRyaWJ1dGVUeXBlOiAnUycsCiAgICB9LCBdLAogICAgUHJvdmlzaW9uZWRUaHJvdWdocHV0OiB7CiAgICAgICAgUmVhZENhcGFjaXR5VW5pdHM6IDEsCiAgICAgICAgV3JpdGVDYXBhY2l0eVVuaXRzOiAxLAogICAgfSwKfTsKCnZhciBldmVudHNUYWJsZSA9IHsKICAgIFRhYmxlTmFtZTogJ2V2ZW50cy1kZXYnLAogICAgS2V5U2NoZW1hOiBbewogICAgICAgIEF0dHJpYnV0ZU5hbWU6ICdldmVudElkJywKICAgICAgICBLZXlUeXBlOiAnSEFTSCcsCiAgICB9LCBdLAogICAgQXR0cmlidXRlRGVmaW5pdGlvbnM6IFt7CiAgICAgICAgICAgIEF0dHJpYnV0ZU5hbWU6ICdldmVudElkJywKICAgICAgICAgICAgQXR0cmlidXRlVHlwZTogJ1MnLAogICAgICAgIH0sCiAgICBdLAogICAgUHJvdmlzaW9uZWRUaHJvdWdocHV0OiB7CiAgICAgICAgUmVhZENhcGFjaXR5VW5pdHM6IDEsCiAgICAgICAgV3JpdGVDYXBhY2l0eVVuaXRzOiAxLAogICAgfSwKfQoKZHluYW1vZGIuY3JlYXRlVGFibGUoc3Vic2NyaXB0aW9uc1RhYmxlLCBjYikKZHluYW1vZGIuY3JlYXRlVGFibGUoZXZlbnRzVGFibGUsIGNiKQpgYGAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">YGBgamF2YXNjcmlwdAp2YXIgY2IgPSAoZXJyb3IsIGRhdGEpID0+IHBwSnNvbihlcnJvciB8fCBkYXRhKQp2YXIgc3Vic2NyaXB0aW9uc1RhYmxlID0gewogICAgVGFibGVOYW1lOiAnc3Vic2NyaXB0aW9ucy1kZXYnLAogICAgS2V5U2NoZW1hOiBbewogICAgICAgIEF0dHJpYnV0ZU5hbWU6ICdldmVudElkJywKICAgICAgICBLZXlUeXBlOiAnSEFTSCcsCiAgICB9LCB7CiAgICAgICAgQXR0cmlidXRlTmFtZTogJ2VtYWlsJywKICAgICAgICBLZXlUeXBlOiAnUkFOR0UnLAogICAgfSwgXSwKICAgIEF0dHJpYnV0ZURlZmluaXRpb25zOiBbewogICAgICAgIEF0dHJpYnV0ZU5hbWU6ICdlbWFpbCcsCiAgICAgICAgQXR0cmlidXRlVHlwZTogJ1MnLAogICAgfSwgewogICAgICAgIEF0dHJpYnV0ZU5hbWU6ICdldmVudElkJywKICAgICAgICBBdHRyaWJ1dGVUeXBlOiAnUycsCiAgICB9LCBdLAogICAgUHJvdmlzaW9uZWRUaHJvdWdocHV0OiB7CiAgICAgICAgUmVhZENhcGFjaXR5VW5pdHM6IDEsCiAgICAgICAgV3JpdGVDYXBhY2l0eVVuaXRzOiAxLAogICAgfSwKfTsKCnZhciBldmVudHNUYWJsZSA9IHsKICAgIFRhYmxlTmFtZTogJ2V2ZW50cy1kZXYnLAogICAgS2V5U2NoZW1hOiBbewogICAgICAgIEF0dHJpYnV0ZU5hbWU6ICdldmVudElkJywKICAgICAgICBLZXlUeXBlOiAnSEFTSCcsCiAgICB9LCBdLAogICAgQXR0cmlidXRlRGVmaW5pdGlvbnM6IFt7CiAgICAgICAgICAgIEF0dHJpYnV0ZU5hbWU6ICdldmVudElkJywKICAgICAgICAgICAgQXR0cmlidXRlVHlwZTogJ1MnLAogICAgICAgIH0sCiAgICBdLAogICAgUHJvdmlzaW9uZWRUaHJvdWdocHV0OiB7CiAgICAgICAgUmVhZENhcGFjaXR5VW5pdHM6IDEsCiAgICAgICAgV3JpdGVDYXBhY2l0eVVuaXRzOiAxLAogICAgfSwKfQoKZHluYW1vZGIuY3JlYXRlVGFibGUoc3Vic2NyaXB0aW9uc1RhYmxlLCBjYikKZHluYW1vZGIuY3JlYXRlVGFibGUoZXZlbnRzVGFibGUsIGNiKQpgYGAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">c2xzIGR5bmFtb2RiIHN0YXJ0IC0taW5NZW1vcnkgLS1zaGFyZWREYgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">c2xzIGR5bmFtb2RiIHN0YXJ0IC0taW5NZW1vcnkgLS1zaGFyZWREYgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gMjAxOTAzMjkxMTUxMDkKLy8gaHR0cDovL2xvY2FsaG9zdDozMDAxL2V2ZW50cwoK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAgIG5vU3RhcnQ6IHRydWUK</text>
+        <text encoding="base64">Ly8gMjAxOTAzMjkxMTUxMDkKLy8gaHR0cDovL2xvY2FsaG9zdDozMDAxL2V2ZW50cwoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -682,10 +684,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IoZGJfZGlyKQogICAgICAgIGNvbnNvbGUubG9nKGRiX2Rpcik7Cgo=</text>
+        <text encoding="base64">IyAgICAgIG5vU3RhcnQ6IHRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IoZGJfZGlyKQogICAgICAgIGNvbnNvbGUubG9nKGRiX2Rpcik7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/subscribers/events/g</text>
