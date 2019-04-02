@@ -321,12 +321,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" timestamp="1554194610211">
-        <mark key="'" line="19" column="19" />
-        <mark key="[" line="26" column="3" />
-        <mark key="]" line="27" column="1" />
-        <mark key="." line="27" column="1" />
-        <mark key="^" line="27" column="1" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" timestamp="1554214388245">
+        <mark key="'" line="32" column="8" />
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="48" column="1" />
+        <mark key="." line="48" column="1" />
+        <mark key="^" line="48" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/postUnsubscribeEvent.js" timestamp="1553780224039">
         <mark key="[" line="8" column="0" />
@@ -572,8 +572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
-      <jump line="171" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
       <jump line="186" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
       <jump line="201" column="10" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
       <jump line="360" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
@@ -672,47 +670,48 @@
       <jump line="19" column="19" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
       <jump line="146" column="32" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Dashboard/newBoatUser.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/nustar-meldpunt/app/Http/Controllers/AdminController.php" />
+      <jump line="44" column="8" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
+      <jump line="32" column="8" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgLy8gICBjb25zdCBtYWlsQm9keSA9IGAKICAgICAgLy8gICAgIDxiciAvPgogICAgICAvLyAgICAgPHA+CiAgICAgIC8vICAgICBCZWRhbmt0IHZvb3IgamUgYWFubWVsZGluZyBiaWogJHt0YXJnZXRFdmVudC5uYW1lfS4gPGJyIC8+CiAgICAgIC8vICAgICBLbGlrIG9wIGRlIG9uZGVyc3RhYW5kZSBrbm9wIG9tIGplIHZvb3JrZXVyIGluIHRlIHZ1bGxlbiBlbiBqZSBhYW5tZWxkaW5nIHRlIHZvbHRvb2llbi4KICAgICAgLy8gICBgOw==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>targetEvent</text>
       </register>
       <register name="/" type="4">
-        <text>users</text>
+        <text>tar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsZXQgcmVzID0gZGF5anMocmVjaXBpZW50c1swXS5jcmVhdGVkQXQpCg==</text>
+        <text encoding="base64">ICAgICAgLy8gICBtYWlsZXIuc2VuZCgKICAgICAgLy8gICAgIHN1YnNjcmliZXIuZW1haWwsCiAgICAgIC8vICAgICB7CiAgICAgIC8vICAgICAgIGhlYWRlckltYWdlLAogICAgICAvLyAgICAgICBncmVldGluZzogYEJlc3RlICR7c3Vic2NyaWJlci5maXJzdE5hbWV9YCwKICAgICAgLy8gICAgICAgYWN0aW9uVGV4dDogJ0Fhbm1lbGRlbicsCiAgICAgIC8vICAgICAgIGFjdGlvblVybDogYCR7cHJvY2Vzcy5lbnYuQkFTRV9VUkx9LyR7dGFyZ2V0RXZlbnQuZXZlbnRJZH0/dG9rZW49JHtoLmNyZWF0ZVRva2VuKHN1YnNjcmliZXIuZW1haWwsIHRhcmdldEV2ZW50LmV2ZW50SWQpfWAsCiAgICAgIC8vICAgICAgIHVuc3Vic2NyaWJlVXJsOiBgJHtwcm9jZXNzLmVudi5CQVNFX1VSTH0vbWFpbC11bnN1YnNjcmliZT90b2tlbj0ke2guY3JlYXRlVG9rZW4oc3Vic2NyaWJlci5lbWFpbCwgdGFyZ2V0RXZlbnQuZXZlbnRJZCl9YCwKICAgICAgLy8gICAgICAgb3JnYW5pemF0aW9uTmFtZTogJ0JvZWhyaW5nZXIgSW5nZWxoZWltIEFuaW1hbCBIZWFsdGggTmV0aGVybGFuZHMgYnYnLAogICAgICAvLyAgICAgICBvcmdhbml6YXRpb25BZGRyZXNzOiAnQ29tZW5pdXNzdHJhYXQgNiwgMTgxNyBNUyBBTEtNQUFSJywKICAgICAgLy8gICAgICAgc3VwcG9ydFRlYW1OYW1lOiAnSGV0IEJvZWhyaW5nZXIgSW5nZWxoZWltIEFuaW1hbCBIZWFsdGggdGVhbScsCiAgICAgIC8vICAgICB9LAogICAgICAvLyAgICAgYFZvbHRvb2kgamUgYWFubWVsZGluZyBiaWogJHt0YXJnZXRFdmVudC5uYW1lfWAsCiAgICAgIC8vICAgICBwcm9jZXNzLmVudi5TRU5ER1JJRF9NQUlMX0ZST00sCiAgICAgIC8vICAgICBwcm9jZXNzLmVudi5TRU5ER1JJRF9URU1QTEFURV9JRCwKICAgICAgLy8gICAgIG1haWxCb2R5CiAgICAgIC8vICAgKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgLy8gICBjb25zdCBtYWlsQm9keSA9IGAKICAgICAgLy8gICAgIDxiciAvPgogICAgICAvLyAgICAgPHA+CiAgICAgIC8vICAgICBCZWRhbmt0IHZvb3IgamUgYWFubWVsZGluZyBiaWogJHt0YXJnZXRFdmVudC5uYW1lfS4gPGJyIC8+CiAgICAgIC8vICAgICBLbGlrIG9wIGRlIG9uZGVyc3RhYW5kZSBrbm9wIG9tIGplIHZvb3JrZXVyIGluIHRlIHZ1bGxlbiBlbiBqZSBhYW5tZWxkaW5nIHRlIHZvbHRvb2llbi4KICAgICAgLy8gICBgOw==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIG1haQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGsK</text>
+        <text encoding="base64">ICAvLyAgICAgYFZvbHRvb2kgamUgYWFubWVsZGluZyBiaWogJHt0YXJnZXRFdmVudC5uYW1lfWAsCiAgLy8gICAgIHByb2Nlc3MuZW52LlNFTkRHUklEX01BSUxfRlJPTSwKICAvLyAgICAgcHJvY2Vzcy5lbnYuU0VOREdSSURfVEVNUExBVEVfSUQsCiAgLy8gICAgIG1haWxCb2R5Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-                    return</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb25Vcmw6IGAke3Byb2Nlc3MuZW52LkJBU0VfVVJMfS8ke2V2ZW50SXRlbS5ldmVudElkfT90b2tlbj0ke3Rva2VufWAsCiAgICAgICAgdW5zdWJzY3JpYmVVcmw6IGAke3Byb2Nlc3MuZW52LkJBU0VfVVJMfS9tYWlsLXVuc3Vic2NyaWJlP3Rva2VuPSR7dG9rZW59YCwKICAgICAgICBvcmdhbml6YXRpb25OYW1lOiAnQm9laHJpbmdlciBJbmdlbGhlaW0gQW5pbWFsIEhlYWx0aCBOZXRoZXJsYW5kcyBidicsCiAgICAgICAgb3JnYW5pemF0aW9uQWRkcmVzczogJ0NvbWVuaXVzc3RyYWF0IDYsIDE4MTcgTVMgQUxLTUFBUicsCiAgICAgICAgc3VwcG9ydFRlYW1OYW1lOiAnSGV0IEJvZWhyaW5nZXIgSW5nZWxoZWltIEFuaW1hbCBIZWFsdGggdGVhbScsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLiRtZXNzYWdlKHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZTogJ3dhcm5pbmcnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZXNzYWdlOiAnQWNjb3VudCBjcmVhdGlvbiBmYWlsZWQsIGFyZSB5b3UgdXNpbmcgYSB2YWxpZC91bmlxdWUgZW1haWw/JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICBncmVldGluZzogCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -733,28 +732,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubG9hZGluZyA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgc3Vic2NyaXB0aW9ucwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLmxvYWRpbmcgPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2V2ZW50L3N1YnNjcmlwdGlvbg==</text>
+        <text encoding="base64">JzwsJz5zL3N1YnNjcmliZXIvcmVjaXBpZW50</text>
       </register>
     </registers>
     <search>
-      <last-search>users</last-search>
+      <last-search>tar</last-search>
       <last-offset />
-      <last-pattern>users</last-pattern>
-      <last-replace>subscription</last-replace>
-      <last-substitute>event</last-substitute>
+      <last-pattern>tar</last-pattern>
+      <last-replace>recipient</last-replace>
+      <last-substitute>subscriber</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
-        <entry>Even</entry>
         <entry>post</entry>
         <entry>Create</entry>
         <entry>cr</entry>
@@ -773,9 +770,10 @@
         <entry>pd</entry>
         <entry>!</entry>
         <entry>users</entry>
+        <entry>subscriber</entry>
+        <entry>tar</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2Z1bmN0aW9uL3F1YW50aXR5</entry>
         <entry encoding="base64">JzwsJz5zL2Z1bmN0aW9uL2VtYWlsL2c=</entry>
         <entry>s/show/upload/g</entry>
         <entry>s/file/name/g</entry>
@@ -795,6 +793,7 @@
         <entry>s/assign/get/g</entry>
         <entry>s/subscribers/events/g</entry>
         <entry encoding="base64">JzwsJz5zL2V2ZW50L3N1YnNjcmlwdGlvbg==</entry>
+        <entry encoding="base64">JzwsJz5zL3N1YnNjcmliZXIvcmVjaXBpZW50</entry>
       </history-cmd>
       <history-expr />
       <history-input />
