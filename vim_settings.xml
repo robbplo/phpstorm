@@ -317,12 +317,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" timestamp="1554282749681">
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" timestamp="1554284920893">
         <mark key="'" line="59" column="30" />
-        <mark key="[" line="62" column="3" />
-        <mark key="]" line="64" column="1" />
-        <mark key="." line="64" column="1" />
-        <mark key="^" line="64" column="1" />
+        <mark key="[" line="61" column="2" />
+        <mark key="]" line="62" column="1" />
+        <mark key="." line="62" column="1" />
+        <mark key="^" line="62" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/postUnsubscribeEvent.js" timestamp="1553780224039">
         <mark key="[" line="8" column="0" />
@@ -671,13 +671,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.then()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>.then()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>`</text>
@@ -686,28 +686,28 @@
         <text encoding="base64">ICAvLyAgICAgICAgICAgICAgIHRleHQ6IG1haWwuY29udGVudHMsCiAgLy8gICAgICAgICAgICAgICBodG1sOiBtYWlsLmNvbnRlbnRzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gZWNodGUKLy8K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhyZXMpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAKICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCByZXMgPSBtYWlsczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -728,10 +728,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gZWNodGUKLy8K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/`/'/g</text>
