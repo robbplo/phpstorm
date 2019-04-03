@@ -249,11 +249,12 @@
         <mark key="^" line="18" column="26" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/postSubscribeEvent.js" timestamp="1553864700051">
-        <mark key="[" line="96" column="52" />
-        <mark key="]" line="96" column="53" />
-        <mark key="." line="96" column="53" />
-        <mark key="^" line="96" column="36" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/postSubscribeEvent.js" timestamp="1554290244255">
+        <mark key="'" line="122" column="5" />
+        <mark key="[" line="117" column="7" />
+        <mark key="]" line="118" column="5" />
+        <mark key="." line="118" column="5" />
+        <mark key="^" line="118" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingGutterColors.php" timestamp="1552314075172">
         <mark key="[" line="17" column="25" />
@@ -317,12 +318,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" timestamp="1554284920893">
-        <mark key="'" line="59" column="30" />
-        <mark key="[" line="61" column="2" />
-        <mark key="]" line="62" column="1" />
-        <mark key="." line="62" column="1" />
-        <mark key="^" line="62" column="1" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" timestamp="1554290474368">
+        <mark key="'" line="3" column="27" />
+        <mark key="[" line="59" column="31" />
+        <mark key="]" line="59" column="30" />
+        <mark key="." line="59" column="30" />
+        <mark key="^" line="59" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/postUnsubscribeEvent.js" timestamp="1553780224039">
         <mark key="[" line="8" column="0" />
@@ -354,11 +355,11 @@
         <mark key="." line="149" column="20" />
         <mark key="^" line="150" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/postPublicSignup.js" timestamp="1553865309847">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="52" column="10" />
-        <mark key="." line="52" column="10" />
-        <mark key="^" line="52" column="10" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/postPublicSignup.js" timestamp="1554289964367">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="51" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/package.json" timestamp="1554192529099">
         <mark key="[" line="17" column="39" />
@@ -400,6 +401,12 @@
         <mark key="]" line="17" column="52" />
         <mark key="^" line="17" column="52" />
         <mark key="." line="17" column="52" />
+      </file>
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/libs/sendgrid.js" timestamp="1554290304191">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="7" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Http/Controllers/SchemaController.php" timestamp="1552912801135">
         <mark key="[" line="18" column="14" />
@@ -568,8 +575,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="270" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
-      <jump line="253" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
       <jump line="236" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
       <jump line="218" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
       <jump line="87" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
@@ -668,46 +673,66 @@
       <jump line="57" column="46" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
       <jump line="132" column="104" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
       <jump line="60" column="30" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
+      <jump line="122" column="5" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/postSubscribeEvent.js" />
+      <jump line="3" column="27" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Multiple</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Multiple</text>
       </register>
       <register name="/" type="4">
         <text>`</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyAgICAgICAgICAgICAgIHRleHQ6IG1haWwuY29udGVudHMsCiAgLy8gICAgICAgICAgICAgICBodG1sOiBtYWlsLmNvbnRlbnRzCg==</text>
+        <text encoding="base64">ICAvLyBjb25zdCByZXMgPSBhd2FpdCBtYWlsZXIuc2VuZE11bHRpcGxlKAogIC8vICAgcGVyc29uYWxpemF0aW9ucywKICAvLyAgICdWb2x0b29pIGplIGFhbm1lbGRpbmcnLAogIC8vICAgcHJvY2Vzcy5lbnYuU0VOREdSSURfTUFJTF9GUk9NLAogIC8vICAgcHJvY2Vzcy5lbnYuU0VOREdSSURfVEVNUExBVEVfSUQKICAvLyApCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHBlcnNvbmFsaXphdGlvbnMsCiAgICAnVm9sdG9vaSBqZSBhYW5tZWxkaW5nJywKICAgIHByb2Nlc3MuZW52LlNFTkRHUklEX01BSUxfRlJPTSwKICAgIHByb2Nlc3MuZW52LlNFTkRHUklEX1RFTVBMQVRFX0lE</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICwKICAgICAgICAgICwKICAgICAgICAgICwKICAgICAgICAgIHByb2Nlc3MuZW52Liw=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhyZXMpCg==</text>
+      <register name="4" type="4">
+        <text>{
+            headerImage,
+            greeting: `Beste ${subscription.firstName}`,
+            actionText: 'Toon evenement',
+            actionUrl: `${process.env.BASE_URL}/${subscription.eventId}?token=${h.createToken(subscription.email, subscription.eventId)}`,
+            unsubscribeUrl: `${process.env.BASE_URL}/mail-unsubscribe?token=${h.createToken(subscription.email, subscription.eventId)}`,
+            organizationName: 'Boehringer Ingelheim Animal Health Netherlands bv',
+            organizationAddress: 'Comeniusstraat 6, 1817 MS ALKMAAR',
+            supportTeamName: 'Het Boehringer Ingelheim Animal Health team',
+          }</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAKICA=</text>
+        <text>{
+            headerImage,
+            greeting: `Beste ${subscription.firstName}`,
+            actionText: 'Toon evenement',
+            actionUrl: `${process.env.BASE_URL}/${subscription.eventId}?token=${h.createToken(subscription.email, subscription.eventId)}`,
+            unsubscribeUrl: `${process.env.BASE_URL}/mail-unsubscribe?token=${h.createToken(subscription.email, subscription.eventId)}`,
+            organizationName: 'Boehringer Ingelheim Animal Health Netherlands bv',
+            organizationAddress: 'Comeniusstraat 6, 1817 MS ALKMAAR',
+            supportTeamName: 'Het Boehringer Ingelheim Animal Health team',
+          }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICwK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -728,10 +753,18 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gZWNodGUKLy8K</text>
+        <text encoding="base64">ICAgICAgICAgIHsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+      <register name="9" type="4">
+        <text>{
+    to: to,
+    from: from,
+    subject: subject,
+    templateId: templateId,
+    substitutions: substitutions,
+    text: body,
+    html: body,
+  }</text>
       </register>
       <register name=":" type="4">
         <text>s/`/'/g</text>
