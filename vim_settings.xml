@@ -366,11 +366,11 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/events/pages/beheer/index.vue" timestamp="1554300071502">
-        <mark key="[" line="301" column="22" />
-        <mark key="]" line="301" column="25" />
-        <mark key="^" line="301" column="25" />
-        <mark key="." line="301" column="25" />
+      <file name="$USER_HOME$/Projects/events/pages/beheer/index.vue" timestamp="1554300992973">
+        <mark key="[" line="239" column="20" />
+        <mark key="]" line="240" column="9" />
+        <mark key="^" line="240" column="9" />
+        <mark key="." line="240" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/events/pages/_eventId/aanmelden.vue" timestamp="1553865018197">
         <mark key="[" line="138" column="0" />
@@ -666,8 +666,9 @@
       <jump line="57" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXRlLnN1YnNjcmlwdGlvbi5wcmVmZXJlbmNlcykK</text>
+      <register name="&quot;" type="4">
+        <text>{
+          r</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
@@ -681,29 +682,30 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGNhc2UgJ3N1YnNjcmliZXIuc2lnbmVkdXAnOgogICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgIHRleHQ6ICdIYW5kbWF0aWdlIGFhbm1lbGRpbmcsIG5pZXQgYWZnZW1hYWt0JywKICAgICAgICAgICAgICBjbGFzczogJycKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXRlLnN1YnNjcmlwdGlvbi5wcmVmZXJlbmNlcykK</text>
+      <register name="1" type="4">
+        <text>{
+          r</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBAdG9kbyByZW1vdmUgZW1wdHkgaXRlbXMK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXRlLnN1YnNjcmlwdGlvbi5wcmVmZXJlbmNlcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gY2FsbGJhY2sobnVsbCwgcmVzcG9uc2Uuc3VjY2VzcyhlbWFpbHMpKQo=</text>
+        <text encoding="base64">ICAvLyBAdG9kbyByZW1vdmUgZW1wdHkgaXRlbXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gY2FsbGJhY2sobnVsbCwgcmVzcG9uc2Uuc3VjY2VzcyhldmVudHMpKQo=</text>
+        <text encoding="base64">ICByZXR1cm4gY2FsbGJhY2sobnVsbCwgcmVzcG9uc2Uuc3VjY2VzcyhlbWFpbHMpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gY2FsbGJhY2sobnVsbCwgcmVzcG9uc2Uuc3VjY2VzcyhldmVudHMpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAvLyBQcm9taXNlLmFsbChtYWlscykudGhlbihuZXdNYWlsID0+IHsKICAvLyAgIERCLnVwZGF0ZShwcm9jZXNzLmVudi5FVkVOVFNfVEFCTEUsIHsKICAvLyAgICAgZXZlbnRJZDogZXZlbnRJdGVtLmV2ZW50SWQKICAvLyAgIH0sIHsKICAvLyAgICAgJyNtYWlsJzogJ21haWwnCiAgLy8gICB9LCB7CiAgLy8gICAgICc6bWFpbCc6IG5ld01haWwKICAvLyAgIH0pCiAgLy8gfSkKICAKCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -723,11 +725,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAvLyB1cGRhdGUgc3Vic2NyaXB0aW9ucyBzdGF0dXNlcwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAvLyBQcm9taXNlLmFsbChtYWlscykudGhlbihuZXdNYWlsID0+IHsKICAvLyAgIERCLnVwZGF0ZShwcm9jZXNzLmVudi5FVkVOVFNfVEFCTEUsIHsKICAvLyAgICAgZXZlbnRJZDogZXZlbnRJdGVtLmV2ZW50SWQKICAvLyAgIH0sIHsKICAvLyAgICAgJyNtYWlsJzogJ21haWwnCiAgLy8gICB9LCB7CiAgLy8gICAgICc6bWFpbCc6IG5ld01haWwKICAvLyAgIH0pCiAgLy8gfSkKICAKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJzpzdGF0dXMnOiBJbnZpdGVTdGF0dXNFbnVtLlNJR05FRFVQLnZhbHVlLAo=</text>
+        <text encoding="base64">ICAvLyB1cGRhdGUgc3Vic2NyaXB0aW9ucyBzdGF0dXNlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/`/'/g</text>
