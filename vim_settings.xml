@@ -319,12 +319,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" timestamp="1554292766438">
-        <mark key="'" line="69" column="6" />
-        <mark key="[" line="69" column="34" />
-        <mark key="]" line="69" column="34" />
-        <mark key="." line="69" column="34" />
-        <mark key="^" line="73" column="14" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" timestamp="1554297069696">
+        <mark key="[" line="56" column="4" />
+        <mark key="]" line="57" column="46" />
+        <mark key="." line="57" column="46" />
+        <mark key="^" line="57" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/postUnsubscribeEvent.js" timestamp="1553780224039">
         <mark key="[" line="8" column="0" />
@@ -350,12 +349,12 @@
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" timestamp="1554294206281">
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" timestamp="1554295749156">
         <mark key="'" line="142" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="135" column="0" />
+        <mark key="[" line="123" column="58" />
+        <mark key="]" line="123" column="57" />
+        <mark key="^" line="123" column="57" />
+        <mark key="." line="123" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/postPublicSignup.js" timestamp="1554289964367">
         <mark key="[" line="1" column="0" />
@@ -679,44 +678,44 @@
       <jump line="143" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>events</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>map</text>
+        <text>events</text>
       </register>
       <register name="/" type="4">
         <text>getV</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJzpzdGF0dXMnOiBJbnZpdGVTdGF0dXNFbnVtLlJFTUlOREVELnZhbHVlLAo=</text>
+        <text encoding="base64">ICAgIGZvciAobGV0IGkgaW4gcHJlZi5vcHRpb25zKSB7CiAgICAgIGlmIChwcmVmLnZhbHVlLmluY2x1ZGVzKHByZWYub3B0aW9uc1tpXS5vcHRpb25JZCkpIHsKICAgICAgICBvdXRwdXQucHVzaCgnVFJVRScpCiAgICAgIH0gZWxzZSB7CiAgICAgICAgb3V0cHV0LnB1c2goJ0ZBTFNFJykKICAgICAgfQogICAgfQogICAgCiAgICByZXR1cm4gb3V0cHV0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICByZXR1cm4gY2FsbGJhY2sobnVsbCwgcmVzcG9uc2Uuc3VjY2VzcyhldmVudHMpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZm9ybWF0VGltZXN0YW1wID0gKHRpbWVzdGFtcCkgPT4gewogICAgICAgIGxldCBkYXRlID0gbmV3IERhdGUodGltZXN0YW1wKQogICAgICAgIGxldCBmb3JtYXR0ZWQgPSBgJHtkYXRlLmdldEZ1bGxZZWFyKCl9LSR7ZGF0ZS5nZXRNb250aCgpfS0ke2RhdGUuZ2V0RGF0ZSgpfSBgCiAgICAgICAgZm9ybWF0dGVkICs9IGAke2RhdGUuZ2V0SG91cnMoKX06JHtkYXRlLmdldE1pbnV0ZXMoKX06JHtkYXRlLmdldFNlY29uZHMoKX1gCiAgICAgICAgCiAgICAgICAgcmV0dXJuIGZvcm1hdHRlZAogICAgICB9CiAgICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZ2V0VmFsdWUgPSAocHJlZikgPT4gewogICAgICAgIGxldCBvdXRwdXQgPSBbXQogICAgICAgIGlmIChBcnJheS5pc0FycmF5KHByZWYudmFsdWUpKSB7CiAgICAgICAgICBmb3IgKGxldCBpIGluIHByZWYub3B0aW9ucykgewogICAgICAgICAgICBpZiAocHJlZi52YWx1ZS5pbmNsdWRlcyhwcmVmLm9wdGlvbnNbaV0ub3B0aW9uSWQpKSB7CiAgICAgICAgICAgICAgb3V0cHV0LnB1c2goJ1RSVUUnKQogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgIG91dHB1dC5wdXNoKCdGQUxTRScpCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICAgIAogICAgICAgICAgcmV0dXJuIG91dHB1dAogICAgICAgIH0gZWxzZSBpZiAodHlwZW9mIHByZWYudmFsdWUgPT09ICdzdHJpbmcnKSB7CiAgICAgICAgICBmb3IgKGxldCBpIGluIHByZWYub3B0aW9ucykgewogICAgICAgICAgICBpZiAocHJlZi52YWx1ZS5pbmNsdWRlcyhwcmVmLm9wdGlvbnNbaV0ub3B0aW9uSWQpKSB7CiAgICAgICAgICAgICAgb3V0cHV0LnB1c2goJ1RSVUUnKQogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgIG91dHB1dC5wdXNoKCdGQUxTRScpCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICAgIAogICAgICAgICAgcmV0dXJuIG91dHB1dAogICAgICAgIH0KICAgICAgICAKICAgICAgICByZXR1cm4gcHJlZi5vcHRpb25zLmluY2x1ZGVzKHByZWYudmFsdWUpID8gcHJlZi52YWx1ZSA6ICdOVUxMJwogICAgICB9Owo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAvLyBQcm9taXNlLmFsbChtYWlscykudGhlbihuZXdNYWlsID0+IHsKICAvLyAgIERCLnVwZGF0ZShwcm9jZXNzLmVudi5FVkVOVFNfVEFCTEUsIHsKICAvLyAgICAgZXZlbnRJZDogZXZlbnRJdGVtLmV2ZW50SWQKICAvLyAgIH0sIHsKICAvLyAgICAgJyNtYWlsJzogJ21haWwnCiAgLy8gICB9LCB7CiAgLy8gICAgICc6bWFpbCc6IG5ld01haWwKICAvLyAgIH0pCiAgLy8gfSkKICAKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuZmlkCg==</text>
+        <text encoding="base64">ICAvLyB1cGRhdGUgc3Vic2NyaXB0aW9ucyBzdGF0dXNlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gbGV0IG90aGVycyA9IHRhcmdldFN1YnNjcmliZXJzLmZpbHRlcih0ID0+IHQuc3RhdHVzICE9PSBJbnZpdGVTdGF0dXNFbnVtLkFDQ0VQVEVELnZhbHVlKQogICAgICAvLwogICAgICAvLyBvdGhlcnMubWFwKG90aGVyID0+IHsKICAgICAgLy8gICBsZXQgcm93ID0gWwogICAgICAvLyAgICAgYCR7b3RoZXIuZmlyc3ROYW1lfSAke290aGVyLmxhc3ROYW1lfWAsCiAgICAgIC8vICAgICBvdGhlci5lbWFpbCwKICAgICAgLy8gICAgIG90aGVyLnN0YXR1cywKICAgICAgLy8gICAgIGZvcm1hdFRpbWVzdGFtcChvdGhlci5jcmVhdGVkQXQpCiAgICAgIC8vICAgXS5tYXAocyA9PiBzLnJlcGxhY2UoJywnLCAnJykpCiAgICAgIC8vICAgbGV0IGxlbmd0aCA9IGhlYWRlcnMubGVuZ3RoIC0gcm93Lmxlbmd0aAogICAgICAvLwogICAgICAvLyAgIGZvciAobGV0IGkgPSAwOyBpIDwgbGVuZ3RoOyBpKyspIHsKICAgICAgLy8gICAgIHJvdy5wdXNoKCcnKQogICAgICAvLyAgIH0KICAgICAgLy8KICAgICAgLy8gICBjc3YgKz0gYCR7cm93fVxuYAogICAgICAvLyB9KQogICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgJzpzdGF0dXMnOiBJbnZpdGVTdGF0dXNFbnVtLlNJR05FRFVQLnZhbHVlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gc3Vic2NyaWJlcnMgPSBzdWJzY3JpYmVycy5maWx0ZXIodCA9PiB0LnN0YXR1cyA9PT0gSW52aXRlU3RhdHVzRW51bS5BQ0NFUFRFRC52YWx1ZSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -737,10 +736,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciAobGV0IGkgaW4gcHJlZi5vcHRpb25zKSB7CiAgICAgIGlmIChwcmVmLnZhbHVlLmluY2x1ZGVzKHByZWYub3B0aW9uc1tpXS5vcHRpb25JZCkpIHsKICAgICAgICBvdXRwdXQucHVzaCgnVFJVRScpCiAgICAgIH0gZWxzZSB7CiAgICAgICAgb3V0cHV0LnB1c2goJ0ZBTFNFJykKICAgICAgfQogICAgfQogICAgCiAgICByZXR1cm4gb3V0cHV0Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgaWYgKHN1YnNjcmliZXJzLmxlbmd0aCA8PSAwKSB7CiAgICAgICAgY2FsbGJhY2sobnVsbCwgcmVzcG9uc2UuZXJyb3IoNDIyLCBbCiAgICAgICAgICB7IG1lc3NhZ2U6ICdUaGVyZSBhcmUgbm8gc3Vic2NyaWJlcnMgZm9yIHRoaXMgZXZlbnQnIH0KICAgICAgICBdLCAnTm8gc3Vic2NyaWJlcnMgYXZhaWxhYmxlJykpCiAgICAgIH0KICAgICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/`/'/g</text>
