@@ -196,7 +196,8 @@
         <mark key="^" line="102" column="7" />
         <mark key="." line="102" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/libs/dynamodb.js" timestamp="1553796232915">
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/libs/dynamodb.js" timestamp="1554291919257">
+        <mark key="'" line="151" column="0" />
         <mark key="[" line="12" column="37" />
         <mark key="]" line="12" column="37" />
         <mark key="." line="12" column="37" />
@@ -318,12 +319,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" timestamp="1554290474368">
-        <mark key="'" line="3" column="27" />
-        <mark key="[" line="59" column="31" />
-        <mark key="]" line="59" column="30" />
-        <mark key="." line="59" column="30" />
-        <mark key="^" line="59" column="30" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" timestamp="1554292766438">
+        <mark key="'" line="69" column="6" />
+        <mark key="[" line="69" column="34" />
+        <mark key="]" line="69" column="34" />
+        <mark key="." line="69" column="34" />
+        <mark key="^" line="73" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/postUnsubscribeEvent.js" timestamp="1553780224039">
         <mark key="[" line="8" column="0" />
@@ -349,11 +350,12 @@
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" timestamp="1553782851313">
-        <mark key="[" line="149" column="20" />
-        <mark key="]" line="149" column="20" />
-        <mark key="." line="149" column="20" />
-        <mark key="^" line="150" column="34" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" timestamp="1554294206281">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="135" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/postPublicSignup.js" timestamp="1554289964367">
         <mark key="[" line="1" column="0" />
@@ -497,11 +499,11 @@
         <mark key="^" line="24" column="64" />
         <mark key="." line="24" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/enums/invite-status-enum.js" timestamp="1553784803755">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="11" />
-        <mark key="^" line="7" column="11" />
-        <mark key="." line="7" column="11" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/enums/invite-status-enum.js" timestamp="1554293415935">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="32" />
+        <mark key="^" line="9" column="31" />
+        <mark key="." line="9" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Backend/Content/News/NewsController.php" timestamp="1553176607828">
         <mark key="[" line="56" column="112" />
@@ -549,9 +551,9 @@
         <mark key="^" line="18" column="26" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/deliverMail.js" timestamp="1553784001383">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="15" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/deliverMail.js" timestamp="1554292246908">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="79" column="8" />
         <mark key="." line="6" column="15" />
         <mark key="^" line="21" column="6" />
       </file>
@@ -575,21 +577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="236" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
-      <jump line="218" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
-      <jump line="87" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
-      <jump line="74" column="32" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getEventsIndex.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriptionDetails.js" />
-      <jump line="76" column="32" filename="$USER_HOME$/Projects/events-api/subscriptions/libs/helpers.js" />
-      <jump line="42" column="9" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
-      <jump line="990" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
-      <jump line="4" column="16" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/postCreateEvent.js" />
-      <jump line="9" column="30" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/postCreateEvent.js" />
-      <jump line="31" column="16" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/postCreateEvent.js" />
-      <jump line="55" column="28" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
-      <jump line="110" column="20" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
       <jump line="30" column="24" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
       <jump line="35" column="29" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/putUpdateEvent.js" />
@@ -675,64 +662,61 @@
       <jump line="60" column="30" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
       <jump line="122" column="5" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/postSubscribeEvent.js" />
       <jump line="3" column="27" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/libs/dynamodb.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/libs/dynamodb.js" />
+      <jump line="151" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/libs/dynamodb.js" />
+      <jump line="63" column="44" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
+      <jump line="9" column="50" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
+      <jump line="68" column="22" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
+      <jump line="62" column="33" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
+      <jump line="16" column="34" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
+      <jump line="69" column="6" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
+      <jump line="118" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
+      <jump line="136" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
+      <jump line="143" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Multiple</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>Multiple</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
-        <text>`</text>
+        <text>getV</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCByZXMgPSBhd2FpdCBtYWlsZXIuc2VuZE11bHRpcGxlKAogIC8vICAgcGVyc29uYWxpemF0aW9ucywKICAvLyAgICdWb2x0b29pIGplIGFhbm1lbGRpbmcnLAogIC8vICAgcHJvY2Vzcy5lbnYuU0VOREdSSURfTUFJTF9GUk9NLAogIC8vICAgcHJvY2Vzcy5lbnYuU0VOREdSSURfVEVNUExBVEVfSUQKICAvLyApCg==</text>
+        <text encoding="base64">ICAgICAgJzpzdGF0dXMnOiBJbnZpdGVTdGF0dXNFbnVtLlJFTUlOREVELnZhbHVlLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIHBlcnNvbmFsaXphdGlvbnMsCiAgICAnVm9sdG9vaSBqZSBhYW5tZWxkaW5nJywKICAgIHByb2Nlc3MuZW52LlNFTkRHUklEX01BSUxfRlJPTSwKICAgIHByb2Nlc3MuZW52LlNFTkRHUklEX1RFTVBMQVRFX0lE</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICwKICAgICAgICAgICwKICAgICAgICAgICwKICAgICAgICAgIHByb2Nlc3MuZW52Liw=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgZm9ybWF0VGltZXN0YW1wID0gKHRpbWVzdGFtcCkgPT4gewogICAgICAgIGxldCBkYXRlID0gbmV3IERhdGUodGltZXN0YW1wKQogICAgICAgIGxldCBmb3JtYXR0ZWQgPSBgJHtkYXRlLmdldEZ1bGxZZWFyKCl9LSR7ZGF0ZS5nZXRNb250aCgpfS0ke2RhdGUuZ2V0RGF0ZSgpfSBgCiAgICAgICAgZm9ybWF0dGVkICs9IGAke2RhdGUuZ2V0SG91cnMoKX06JHtkYXRlLmdldE1pbnV0ZXMoKX06JHtkYXRlLmdldFNlY29uZHMoKX1gCiAgICAgICAgCiAgICAgICAgcmV0dXJuIGZvcm1hdHRlZAogICAgICB9CiAgICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-            headerImage,
-            greeting: `Beste ${subscription.firstName}`,
-            actionText: 'Toon evenement',
-            actionUrl: `${process.env.BASE_URL}/${subscription.eventId}?token=${h.createToken(subscription.email, subscription.eventId)}`,
-            unsubscribeUrl: `${process.env.BASE_URL}/mail-unsubscribe?token=${h.createToken(subscription.email, subscription.eventId)}`,
-            organizationName: 'Boehringer Ingelheim Animal Health Netherlands bv',
-            organizationAddress: 'Comeniusstraat 6, 1817 MS ALKMAAR',
-            supportTeamName: 'Het Boehringer Ingelheim Animal Health team',
-          }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgZ2V0VmFsdWUgPSAocHJlZikgPT4gewogICAgICAgIGxldCBvdXRwdXQgPSBbXQogICAgICAgIGlmIChBcnJheS5pc0FycmF5KHByZWYudmFsdWUpKSB7CiAgICAgICAgICBmb3IgKGxldCBpIGluIHByZWYub3B0aW9ucykgewogICAgICAgICAgICBpZiAocHJlZi52YWx1ZS5pbmNsdWRlcyhwcmVmLm9wdGlvbnNbaV0ub3B0aW9uSWQpKSB7CiAgICAgICAgICAgICAgb3V0cHV0LnB1c2goJ1RSVUUnKQogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgIG91dHB1dC5wdXNoKCdGQUxTRScpCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICAgIAogICAgICAgICAgcmV0dXJuIG91dHB1dAogICAgICAgIH0gZWxzZSBpZiAodHlwZW9mIHByZWYudmFsdWUgPT09ICdzdHJpbmcnKSB7CiAgICAgICAgICBmb3IgKGxldCBpIGluIHByZWYub3B0aW9ucykgewogICAgICAgICAgICBpZiAocHJlZi52YWx1ZS5pbmNsdWRlcyhwcmVmLm9wdGlvbnNbaV0ub3B0aW9uSWQpKSB7CiAgICAgICAgICAgICAgb3V0cHV0LnB1c2goJ1RSVUUnKQogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgIG91dHB1dC5wdXNoKCdGQUxTRScpCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICAgIAogICAgICAgICAgcmV0dXJuIG91dHB1dAogICAgICAgIH0KICAgICAgICAKICAgICAgICByZXR1cm4gcHJlZi5vcHRpb25zLmluY2x1ZGVzKHByZWYudmFsdWUpID8gcHJlZi52YWx1ZSA6ICdOVUxMJwogICAgICB9Owo=</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-            headerImage,
-            greeting: `Beste ${subscription.firstName}`,
-            actionText: 'Toon evenement',
-            actionUrl: `${process.env.BASE_URL}/${subscription.eventId}?token=${h.createToken(subscription.email, subscription.eventId)}`,
-            unsubscribeUrl: `${process.env.BASE_URL}/mail-unsubscribe?token=${h.createToken(subscription.email, subscription.eventId)}`,
-            organizationName: 'Boehringer Ingelheim Animal Health Netherlands bv',
-            organizationAddress: 'Comeniusstraat 6, 1817 MS ALKMAAR',
-            supportTeamName: 'Het Boehringer Ingelheim Animal Health team',
-          }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAuZmlkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICwK</text>
+        <text encoding="base64">ICAgICAgLy8gbGV0IG90aGVycyA9IHRhcmdldFN1YnNjcmliZXJzLmZpbHRlcih0ID0+IHQuc3RhdHVzICE9PSBJbnZpdGVTdGF0dXNFbnVtLkFDQ0VQVEVELnZhbHVlKQogICAgICAvLwogICAgICAvLyBvdGhlcnMubWFwKG90aGVyID0+IHsKICAgICAgLy8gICBsZXQgcm93ID0gWwogICAgICAvLyAgICAgYCR7b3RoZXIuZmlyc3ROYW1lfSAke290aGVyLmxhc3ROYW1lfWAsCiAgICAgIC8vICAgICBvdGhlci5lbWFpbCwKICAgICAgLy8gICAgIG90aGVyLnN0YXR1cywKICAgICAgLy8gICAgIGZvcm1hdFRpbWVzdGFtcChvdGhlci5jcmVhdGVkQXQpCiAgICAgIC8vICAgXS5tYXAocyA9PiBzLnJlcGxhY2UoJywnLCAnJykpCiAgICAgIC8vICAgbGV0IGxlbmd0aCA9IGhlYWRlcnMubGVuZ3RoIC0gcm93Lmxlbmd0aAogICAgICAvLwogICAgICAvLyAgIGZvciAobGV0IGkgPSAwOyBpIDwgbGVuZ3RoOyBpKyspIHsKICAgICAgLy8gICAgIHJvdy5wdXNoKCcnKQogICAgICAvLyAgIH0KICAgICAgLy8KICAgICAgLy8gICBjc3YgKz0gYCR7cm93fVxuYAogICAgICAvLyB9KQogICAgICAvLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gc3Vic2NyaWJlcnMgPSBzdWJzY3JpYmVycy5maWx0ZXIodCA9PiB0LnN0YXR1cyA9PT0gSW52aXRlU3RhdHVzRW51bS5BQ0NFUFRFRC52YWx1ZSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -753,27 +737,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>{
-    to: to,
-    from: from,
-    subject: subject,
-    templateId: templateId,
-    substitutions: substitutions,
-    text: body,
-    html: body,
-  }</text>
+        <text encoding="base64">ICAgICAgaWYgKHN1YnNjcmliZXJzLmxlbmd0aCA8PSAwKSB7CiAgICAgICAgY2FsbGJhY2sobnVsbCwgcmVzcG9uc2UuZXJyb3IoNDIyLCBbCiAgICAgICAgICB7IG1lc3NhZ2U6ICdUaGVyZSBhcmUgbm8gc3Vic2NyaWJlcnMgZm9yIHRoaXMgZXZlbnQnIH0KICAgICAgICBdLCAnTm8gc3Vic2NyaWJlcnMgYXZhaWxhYmxlJykpCiAgICAgIH0KICAgICAg</text>
       </register>
       <register name=":" type="4">
         <text>s/`/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>`</last-search>
+      <last-search>getV</last-search>
       <last-offset />
-      <last-pattern>`</last-pattern>
+      <last-pattern>getV</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>`</last-substitute>
       <last-dir>1</last-dir>
@@ -781,9 +757,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Create</entry>
-        <entry>cr</entry>
-        <entry>assign</entry>
         <entry>p</entry>
         <entry>pos</entry>
         <entry>module</entry>
@@ -801,6 +774,9 @@
         <entry>subscriber</entry>
         <entry>tar</entry>
         <entry>`</entry>
+        <entry>SUBSCRIPTIONS_TABLE</entry>
+        <entry>RE</entry>
+        <entry>getV</entry>
       </history-search>
       <history-cmd>
         <entry>s/show/upload/g</entry>
