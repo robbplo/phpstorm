@@ -319,11 +319,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" timestamp="1554297069696">
-        <mark key="[" line="56" column="4" />
-        <mark key="]" line="57" column="46" />
-        <mark key="." line="57" column="46" />
-        <mark key="^" line="57" column="46" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" timestamp="1554297103201">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="55" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/postUnsubscribeEvent.js" timestamp="1553780224039">
         <mark key="[" line="8" column="0" />
@@ -656,7 +657,6 @@
       <jump line="20" column="46" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
       <jump line="75" column="49" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
       <jump line="210" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
-      <jump line="57" column="46" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
       <jump line="132" column="104" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
       <jump line="60" column="30" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
       <jump line="122" column="5" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/postSubscribeEvent.js" />
@@ -676,10 +676,11 @@
       <jump line="27" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
       <jump line="136" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
       <jump line="143" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>events</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyBAdG9kbyByZW1vdmUgZW1wdHkgaXRlbXMK</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
@@ -688,34 +689,34 @@
         <text>events</text>
       </register>
       <register name="/" type="4">
-        <text>getV</text>
+        <text>todo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZvciAobGV0IGkgaW4gcHJlZi5vcHRpb25zKSB7CiAgICAgIGlmIChwcmVmLnZhbHVlLmluY2x1ZGVzKHByZWYub3B0aW9uc1tpXS5vcHRpb25JZCkpIHsKICAgICAgICBvdXRwdXQucHVzaCgnVFJVRScpCiAgICAgIH0gZWxzZSB7CiAgICAgICAgb3V0cHV0LnB1c2goJ0ZBTFNFJykKICAgICAgfQogICAgfQogICAgCiAgICByZXR1cm4gb3V0cHV0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gY2FsbGJhY2sobnVsbCwgcmVzcG9uc2Uuc3VjY2VzcyhldmVudHMpKQo=</text>
+        <text encoding="base64">ICAvLyBAdG9kbyByZW1vdmUgZW1wdHkgaXRlbXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gY2FsbGJhY2sobnVsbCwgcmVzcG9uc2Uuc3VjY2VzcyhlbWFpbHMpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICByZXR1cm4gY2FsbGJhY2sobnVsbCwgcmVzcG9uc2Uuc3VjY2VzcyhldmVudHMpKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAvLyBQcm9taXNlLmFsbChtYWlscykudGhlbihuZXdNYWlsID0+IHsKICAvLyAgIERCLnVwZGF0ZShwcm9jZXNzLmVudi5FVkVOVFNfVEFCTEUsIHsKICAvLyAgICAgZXZlbnRJZDogZXZlbnRJdGVtLmV2ZW50SWQKICAvLyAgIH0sIHsKICAvLyAgICAgJyNtYWlsJzogJ21haWwnCiAgLy8gICB9LCB7CiAgLy8gICAgICc6bWFpbCc6IG5ld01haWwKICAvLyAgIH0pCiAgLy8gfSkKICAKCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyB1cGRhdGUgc3Vic2NyaXB0aW9ucyBzdGF0dXNlcwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJzpzdGF0dXMnOiBJbnZpdGVTdGF0dXNFbnVtLlNJR05FRFVQLnZhbHVlLAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAvLyBQcm9taXNlLmFsbChtYWlscykudGhlbihuZXdNYWlsID0+IHsKICAvLyAgIERCLnVwZGF0ZShwcm9jZXNzLmVudi5FVkVOVFNfVEFCTEUsIHsKICAvLyAgICAgZXZlbnRJZDogZXZlbnRJdGVtLmV2ZW50SWQKICAvLyAgIH0sIHsKICAvLyAgICAgJyNtYWlsJzogJ21haWwnCiAgLy8gICB9LCB7CiAgLy8gICAgICc6bWFpbCc6IG5ld01haWwKICAvLyAgIH0pCiAgLy8gfSkKICAKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAvLyB1cGRhdGUgc3Vic2NyaXB0aW9ucyBzdGF0dXNlcwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -736,27 +737,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciAobGV0IGkgaW4gcHJlZi5vcHRpb25zKSB7CiAgICAgIGlmIChwcmVmLnZhbHVlLmluY2x1ZGVzKHByZWYub3B0aW9uc1tpXS5vcHRpb25JZCkpIHsKICAgICAgICBvdXRwdXQucHVzaCgnVFJVRScpCiAgICAgIH0gZWxzZSB7CiAgICAgICAgb3V0cHV0LnB1c2goJ0ZBTFNFJykKICAgICAgfQogICAgfQogICAgCiAgICByZXR1cm4gb3V0cHV0Cg==</text>
+        <text encoding="base64">ICAgICAgJzpzdGF0dXMnOiBJbnZpdGVTdGF0dXNFbnVtLlNJR05FRFVQLnZhbHVlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>s/`/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>getV</last-search>
+      <last-search>todo</last-search>
       <last-offset />
-      <last-pattern>getV</last-pattern>
+      <last-pattern>todo</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>`</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>p</entry>
         <entry>pos</entry>
         <entry>module</entry>
         <entry>de</entry>
@@ -776,6 +776,7 @@
         <entry>SUBSCRIPTIONS_TABLE</entry>
         <entry>RE</entry>
         <entry>getV</entry>
+        <entry>todo</entry>
       </history-search>
       <history-cmd>
         <entry>s/show/upload/g</entry>
