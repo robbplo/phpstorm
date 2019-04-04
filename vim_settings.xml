@@ -224,11 +224,11 @@
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" timestamp="1554365624848">
-        <mark key="[" line="42" column="10" />
-        <mark key="]" line="42" column="9" />
-        <mark key="." line="42" column="9" />
-        <mark key="^" line="42" column="9" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" timestamp="1554367319248">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="37" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Console/Kernel.php" timestamp="1553003530608">
         <mark key="[" line="27" column="0" />
@@ -563,11 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/putUpdateEvent.js" />
-      <jump line="109" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/putUpdateEvent.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/putUpdateEvent.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/putUpdateEvent.js" />
-      <jump line="27" column="25" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
       <jump line="28" column="17" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
       <jump line="44" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/postCreateEventMail.js" />
@@ -663,46 +658,51 @@
       <jump line="57" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
       <jump line="29" column="6" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
       <jump line="31" column="6" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
+      <jump line="87" column="26" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
+      <jump line="80" column="20" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
+      <jump line="78" column="6" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
+      <jump line="39" column="10" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
+      <jump line="37" column="12" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FsbGJhY2sobnVsbCwgcmVzcG9uc2Uuc3VjY2VzcyhwcmVmZXJlbmNlcykpCg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
-        <text>tor</text>
+        <text>tar</text>
       </register>
-      <register name="0" type="4">
-        <text>formatTimestamp(subscriber.createdAt)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjYWxsYmFjayhudWxsLCByZXNwb25zZS5zdWNjZXNzKHByZWZlcmVuY2VzKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAvLyBwcmVmZXJlbmNlcy51bnNoaWZ0KGZvcm1hdFRpbWVzdGFtcChzdWJzY3JpYmVyLmNyZWF0ZWRBdCkpCiAgICAgICAgLy8gcHJlZmVyZW5jZXMudW5zaGlmdChzdWJzY3JpYmVyLnN0YXR1cykKICAgICAgICAvLyBwcmVmZXJlbmNlcy51bnNoaWZ0KHN1YnNjcmliZXIuZW1haWwpCiAgICAgICAgLy8gcHJlZmVyZW5jZXMudW5zaGlmdChgJHtzdWJzY3JpYmVyLmZpcnN0TmFtZX0gJHtzdWJzY3JpYmVyLmxhc3ROYW1lfWApCiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FsbGJhY2sobnVsbCwgcmVzcG9uc2Uuc3VjY2VzcyhwcmVmZXJlbmNlcykpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcmVmZXJlbmNlcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGBgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FsbGJhY2sobnVsbCwgcmVzcG9uc2Uuc3VjY2VzcyhwcmVmZXJlbmNlKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGlmIChwcmVmZXJlbmNlLnR5cGUgPT09ICdvcHRpb25zJyB8fCBwcmVmZXJlbmNlLnR5cGUgPT09ICdkcm9wZG93bicpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNhbGxiYWNrKG51bGwsIHJlc3BvbnNlLnN1Y2Nlc3Moc3Vic2NyaWJlci5wcmVmZXJlbmNlcykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIHJldHVybiAocHJlZmVyZW5jZS52YWx1ZSA9PT0gbnVsbCB8fCBwcmVmZXJlbmNlLnZhbHVlID09PSAwKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNhbGxiYWNrKG51bGwsIHJlc3BvbnNlLnN1Y2Nlc3ModGFyZ2V0RXZlbnQucHJlZmVyZW5jZXMpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNhbGxiYWNrKG51bGwsIHJlc3BvbnNlLnN1Y2Nlc3Moc3Vic2NyaWJlci5wcmVmZXJlbmNlcykpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -723,19 +723,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjYWxsYmFjayhyZXNwb25zZS5zdWNjZXNzKHN1YnNjcmliZXIucHJlZmVyZW5jZXMpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY2FsbGJhY2socmVzcG9uc2Uuc3VjY2VzcyhzdWJzY3JpYmVyLnByZWZlcmVuY2VzKSkK</text>
       </register>
       <register name=":" type="4">
         <text>s/`/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>tor</last-search>
+      <last-search>tar</last-search>
       <last-offset />
-      <last-pattern>tor</last-pattern>
+      <last-pattern>tar</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>`</last-substitute>
       <last-dir>1</last-dir>
@@ -743,8 +743,6 @@
     </search>
     <history>
       <history-search>
-        <entry>module</entry>
-        <entry>de</entry>
         <entry>handler</entry>
         <entry>,,</entry>
         <entry>..</entry>
@@ -761,8 +759,10 @@
         <entry>RE</entry>
         <entry>getV</entry>
         <entry>todo</entry>
-        <entry>tar</entry>
         <entry>tor</entry>
+        <entry>call</entry>
+        <entry>su</entry>
+        <entry>tar</entry>
       </history-search>
       <history-cmd>
         <entry>s/show/upload/g</entry>
