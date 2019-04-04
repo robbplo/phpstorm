@@ -89,11 +89,11 @@
         <mark key="." line="171" column="54" />
         <mark key="^" line="5" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/domain/Products/OverheadDoorOptions.php" timestamp="1554382934922">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="8" column="11" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Projects/finish-building/domain/Products/OverheadDoorOptions.php" timestamp="1554384227287">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+        <mark key="^" line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handler.js" timestamp="1553775057990">
         <mark key="'" line="0" column="0" />
@@ -314,6 +314,12 @@
         <mark key="]" line="30" column="48" />
         <mark key="^" line="30" column="48" />
         <mark key="." line="30" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/app/Providers/NovaServiceProvider.php" timestamp="1554384375028">
+        <mark key="[" line="64" column="43" />
+        <mark key="]" line="64" column="61" />
+        <mark key="." line="64" column="61" />
+        <mark key="^" line="64" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/helpers.php" timestamp="1552472775111">
         <mark key="[" line="3" column="70" />
@@ -692,14 +698,14 @@
       <jump line="127" column="51" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page1.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>OverheadDoorOptions</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>OverheadDoorOptions</text>
       </register>
       <register name="/" type="4">
         <text>wall</text>
@@ -708,28 +714,28 @@
         <text encoding="base64">ICAgICAgICA5MDEyLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dXNlIE92ZXJoZWFkRG9vck9wdGlvbnM7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">OjpJRFMK</text>
+        <text encoding="base64">dXNlIEFwcFxFbnVtc1xCdWlsZGluZ092ZXJoZWFkRG9vck9wdGlvbnM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJheV9tYXAoZnVuY3Rpb24gKCRpZCkge30sIHNlbGY6OklEUyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gYXJyYXlfbWFwKGZ1bmN0aW9uICgkaWQpIHsKICAgICAgICAvLyAgICAgUHJvZHVjdDo6ZmluZE9yRmFpbCgkaWQpCiAgICAgICAgLy8gfSwgc2VsZjo6SURTKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCiAgICAgICAgXQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmdW5jdGlvbiBnZXREb3dubG9hZHMK</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBwcml2YXRlIGZ1bmN0aW9uIGdldFByb2R1Y3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA5MDEyLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm5hbWUiOiAiVmVybGFhZ2QtZGFrbGlqbnZvbGdlbmQtYmVzbGFnIChMRCkgMjAwIG1tIGluYm91dyIsCg==</text>
+        <text encoding="base64">OjpJRFMK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -750,10 +756,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJpZCI6IDkwMTMsCiAgICAgICAgICAgICJuYW1lIjogIkhhbmR0YWtlbCwgY29tcGxlZXQgbWV0IGtvb3JkIiwKICAgICAgICAgICAgInByaWNlIjogNTUsCiAgICAgICAgICAgICJ1bml0IjogMQogICAgICAgIH0sCnsKICAgICJpZCI6IDkwMTQsCiAgICAgICAgICAgICJuYW1lIjogIlJBTCBrbGV1ciBuYWFyIGtldXplIChuYXRsYWspIiwKICAgICAgICAgICAgInByaWNlIjogMzIwLAogICAgICAgICAgICAidW5pdCI6IDEKICAgICAgICB9LAp7CiAgICAiaWQiOiA5MDE1LAogICAgICAgICAgICAibmFtZSI6ICJWZW5zdGVycGFuZWVsICgzIHZlbGRlbiksIGFsdW1pbml1bSIsCiAgICAgICAgICAgICJwcmljZSI6IDE4MCwKICAgICAgICAgICAgInVuaXQiOiAxCiAgICAgICAgfSwKewogICAgImlkIjogOTAxNiwKICAgICAgICAgICAgIm5hbWUiOiAiTG9vcGRldXIgZ2XDr250ZWdyZWVyZCwgZHJlbXBlbGxvb3MuIiwKICAgICAgICAgICAgInByaWNlIjogNzIwLAogICAgICAgICAgICAidW5pdCI6IDEKICAgICAgICB9LAp7CiAgICAiaWQiOiA5MDE3LAogICAgICAgICAgICAibmFtZSI6ICJXQSAzMDAgUzQgLyAyMzBWIGFhbmRyaWp2aW5nIiwKICAgICAgICAgICAgInByaWNlIjogNDEwLAogICAgICAgICAgICAidW5pdCI6IDEKICAgICAgICB9LAp7CiAgICAiaWQiOiA5MDE4LAogICAgICAgICAgICAibmFtZSI6ICJXQSA0MDAgLyBBNDQ1IC8gNDAwViBhYW5kcmlqdmluZyIsCiAgICAgICAgICAgICJwcmljZSI6IDYwMCwKICAgICAgICAgICAgInVuaXQiOiAxCiAgICAgICAgfSwKewogICAgImlkIjogOTAxOSwKICAgICAgICAgICAgIm5hbWUiOiAiSMO2cm1hbm4gb250dmFuZ2VyIEhFSTMgODY4IC0gQmlTZWN1ciIsCiAgICAgICAgICAgICJwcmljZSI6IDY1LAogICAgICAgICAgICAidW5pdCI6IDEKICAgICAgICB9LAp7CiAgICAiaWQiOiA5MDIwLAogICAgICAgICAgICAibmFtZSI6ICJIw7ZybWFubiBoYW5kemVuZGVyIEhTMSA4Njgg4oCTIEJpU2VjdXIiLAogICAgICAgICAgICAicHJpY2UiOiA0NSwKICAgICAgICAgICAgInVuaXQiOiAxCiAgICAgICAgfSwKewogICAgImlkIjogOTAyMSwKICAgICAgICAgICAgIm5hbWUiOiAiVmVybGFhZ2QtYmVzbGFnIChMKSAyMDAgbW0gaW5ib3V3IiwKICAgICAgICAgICAgInByaWNlIjogMTUwLAogICAgICAgICAgICAidW5pdCI6IDEKICAgICAgICB9LAp7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcnJheV9tYXAoZnVuY3Rpb24gKCRpZCkge30sIHNlbGY6OklEUyk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm5hbWUiOiAiQmlubmVuIGVuIGJ1aXRlbiB2ZXJncmVuZGVsaW5nIiwKICAgICAgICAgICAgInByaWNlIjogNTAsCiAgICAgICAgICAgICJ1bml0IjogMQogICAgICAgIH0sCnsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCiAgICAgICAgXQ==</text>
       </register>
       <register name=":" type="4">
         <text>s/`/'/g</text>
