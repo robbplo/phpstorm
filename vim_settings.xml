@@ -89,7 +89,7 @@
         <mark key="^" line="26" column="54" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/database/migrations/2019_04_04_134852_store_overhead_doors_as_json.php" timestamp="1554385829704">
+      <file name="$USER_HOME$/Projects/finish-building/database/migrations/2019_04_04_134852_store_overhead_doors_as_json.php" timestamp="1554464791893">
         <mark key="[" line="23" column="42" />
         <mark key="]" line="23" column="42" />
         <mark key="^" line="23" column="42" />
@@ -140,12 +140,11 @@
         <mark key="." line="29" column="18" />
         <mark key="^" line="29" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1554453675235">
-        <mark key="'" line="288" column="15" />
-        <mark key="[" line="268" column="0" />
-        <mark key="]" line="269" column="16" />
-        <mark key="." line="268" column="0" />
-        <mark key="^" line="268" column="9" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1554467095419">
+        <mark key="'" line="290" column="15" />
+        <mark key="[" line="219" column="128" />
+        <mark key="]" line="221" column="0" />
+        <mark key="." line="221" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoorColors.php" timestamp="1554386359201">
         <mark key="[" line="18" column="8" />
@@ -158,6 +157,12 @@
         <mark key="]" line="18" column="24" />
         <mark key="." line="18" column="24" />
         <mark key="^" line="18" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/database/migrations/2019_04_05_114551_add_assembly_price_column_to_offers_table.php" timestamp="1554466474381">
+        <mark key="[" line="17" column="86" />
+        <mark key="]" line="17" column="85" />
+        <mark key="." line="17" column="85" />
+        <mark key="^" line="17" column="85" />
       </file>
       <file name="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/app.js" timestamp="1553271070502">
         <mark key="[" line="33" column="70" />
@@ -196,11 +201,12 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="14" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Offer.php" timestamp="1554449758357">
-        <mark key="'" line="64" column="45" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Offer.php" timestamp="1554466514685">
+        <mark key="'" line="28" column="45" />
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getEventSubscriptionIndex.js" timestamp="1553683079280">
         <mark key="[" line="2" column="0" />
@@ -219,6 +225,12 @@
         <mark key="]" line="91" column="12" />
         <mark key="^" line="37" column="64" />
         <mark key="." line="37" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page3.blade.php" timestamp="1554464488215">
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="29" />
+        <mark key="." line="22" column="29" />
+        <mark key="^" line="22" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" timestamp="1554378283389">
         <mark key="[" line="150" column="0" />
@@ -754,14 +766,14 @@
       <jump line="110" column="35" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/Offer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>door</text>
@@ -770,28 +782,64 @@
         <text encoding="base64">ICAgICAgICAnY3VzdG9tX3Byb2R1Y3RzJyA9PiBqc29uX2RlY29kZSgkcmVxdWVzdFsnY3VzdG9tX3Byb2R1Y3RzJ10pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG92ZXJoZWFkX2Rvb3JfZml0dGluZyA9IG51bGwsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMub3ZlcmhlYWRfZG9vcl9maXR0aW5nID0gb3ZlcmhlYWRfZG9vcl9maXR0aW5nOwo=</text>
+      <register name="2" type="4">
+        <text>[
+        'user_id',
+        'project_number',
+        'revision',
+        'width',
+        'length',
+        'gutter_color',
+        'gutter_height',
+        'roof_angle',
+        'insulated',
+        'wall_plating',
+        'roof_plating',
+        'roof_window_thickness',
+        'roof_window_count',
+        'coating',
+        'wicket_doors',
+        'wicket_door_color',
+        'overhead_doors',
+        'window_frames',
+        'gutter_type',
+        'assembly',
+        'permit_status',
+        'foundation',
+        'first_name',
+        'last_name',
+        'email',
+        'phone_number',
+        'country',
+        'province',
+        'street_name',
+        'street_number',
+        'postal_code',
+        'city',
+        'comments',
+        'prices',
+        'custom_products',
+    ]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVyaGVhZF9kb29yX29wdGlvbnM6IHRoaXMub3ZlcmhlYWRfZG9vcl9vcHRpb25zLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWRkZGRrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkdGhpcy0+Z2V0T3ZlcmhlYWREb29yKCksCiAgICAgICAgLy8gJHRoaXMtPmdldE92ZXJoZWFkRG9vck9wdGlvbnMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnS2xldXJidWl0ZW56aWpkZSA6JyA9PiAne04uVC5CLn0/JywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHByaXZhdGUgZnVuY3Rpb24gZ2V0T3ZlcmhlYWREb29yKCkKICAgIC8vIHsKICAgIC8vICAgICBpZiAoJHRoaXMtPmJ1aWxkaW5nLT5nZXRPdmVyaGVhZERvb3IoKSA9PT0gMCkgewogICAgLy8gICAgICAgICByZXR1cm4gW107CiAgICAvLyAgICAgfQogICAgLy8KICAgIC8vICAgICByZXR1cm4gWwogICAgLy8gICAgICAgICAkdGhpcy0+bWFrZVByb2R1Y3QoJHRoaXMtPmJ1aWxkaW5nLT5nZXRPdmVyaGVhZERvb3IoKSwgMSkKICAgIC8vICAgICBdOwogICAgLy8gfQogICAgLy8KICAgIC8vIHByaXZhdGUgZnVuY3Rpb24gZ2V0T3ZlcmhlYWREb29yT3B0aW9ucygpCiAgICAvLyB7CiAgICAvLyAgICAgJG9wdGlvbnMgPSBbXTsKICAgIC8vCiAgICAvLyAgICAgZm9yZWFjaCAoJHRoaXMtPmJ1aWxkaW5nLT5nZXRPdmVyaGVhZERvb3JPcHRpb25zKCkgYXMgJG9wdGlvbikgewogICAgLy8gICAgICAgICAkb3B0aW9uc1tdID0gJHRoaXMtPm1ha2VQcm9kdWN0KAogICAgLy8gICAgICAgICAgICAgJG9wdGlvbiwKICAgIC8vICAgICAgICAgICAgIDEKICAgIC8vICAgICAgICAgKTsKICAgIC8vICAgICB9CiAgICAvLwogICAgLy8gICAgIHJldHVybiAkb3B0aW9uczsKICAgIC8vIH0KCg==</text>
+        <text encoding="base64">ICAgIHt7LS0gQHRvZG8gYmV0ZXJlIGZvcm1hdHRpbmcgdm9vciB2ZXJzY2hpbGxlbmRlIG92ZXJoZWFkZGV1cmVuIC0tfX0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -812,10 +860,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkeCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG92ZXJoZWFkX2Rvb3JfZml0dGluZyA9IG51bGwsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMub3ZlcmhlYWRfZG9vcl9maXR0aW5nID0gb3ZlcmhlYWRfZG9vcl9maXR0aW5nOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/door/doors/g</text>
