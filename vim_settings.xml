@@ -140,11 +140,12 @@
         <mark key="." line="29" column="18" />
         <mark key="^" line="29" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1554467095419">
-        <mark key="'" line="290" column="15" />
-        <mark key="[" line="219" column="128" />
-        <mark key="]" line="221" column="0" />
-        <mark key="." line="221" column="0" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1554469434292">
+        <mark key="'" line="291" column="15" />
+        <mark key="[" line="221" column="77" />
+        <mark key="]" line="221" column="78" />
+        <mark key="." line="221" column="78" />
+        <mark key="^" line="221" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoorColors.php" timestamp="1554386359201">
         <mark key="[" line="18" column="8" />
@@ -766,14 +767,14 @@
       <jump line="110" column="35" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/Offer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>flex-1</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>flex-1</text>
       </register>
       <register name="/" type="4">
         <text>door</text>
@@ -782,12 +783,21 @@
         <text encoding="base64">ICAgICAgICAnY3VzdG9tX3Byb2R1Y3RzJyA9PiBqc29uX2RlY29kZSgkcmVxdWVzdFsnY3VzdG9tX3Byb2R1Y3RzJ10pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxociBjbGFzcz0iZmxleC0xIiB2LXNob3c9ImluZGV4ICE9PSAwIiBzdHlsZT0iYm9yZGVyOiAxcHggc29saWQgYmxhY2siPgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHt7IGluZGV4IH19Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>[
         'user_id',
         'project_number',
@@ -826,20 +836,11 @@
         'custom_products',
     ]</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWRkZGRrCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnS2xldXJidWl0ZW56aWpkZSA6JyA9PiAne04uVC5CLn0/JywK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHt7LS0gQHRvZG8gYmV0ZXJlIGZvcm1hdHRpbmcgdm9vciB2ZXJzY2hpbGxlbmRlIG92ZXJoZWFkZGV1cmVuIC0tfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -860,10 +861,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG92ZXJoZWFkX2Rvb3JfZml0dGluZyA9IG51bGwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMub3ZlcmhlYWRfZG9vcl9maXR0aW5nID0gb3ZlcmhlYWRfZG9vcl9maXR0aW5nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnS2xldXJidWl0ZW56aWpkZSA6JyA9PiAne04uVC5CLn0/JywK</text>
       </register>
       <register name=":" type="4">
         <text>s/door/doors/g</text>
