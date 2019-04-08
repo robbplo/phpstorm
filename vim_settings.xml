@@ -427,7 +427,13 @@
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/postPublicSignup.js" timestamp="1554289964367">
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" timestamp="1554713649220">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="26" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="15" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/postPublicSignup.js" timestamp="1554712519707">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -608,12 +614,12 @@
         <mark key="^" line="54" column="57" />
         <mark key="." line="54" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/putUpdateEvent.js" timestamp="1553682246567">
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/putUpdateEvent.js" timestamp="1554712809546">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="2" column="0" />
+        <mark key="[" line="11" column="114" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+        <mark key="^" line="12" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/bij.boehringer/api/Product/Http/Transformers/ProductTransformer.php" timestamp="1553507096643">
         <mark key="[" line="29" column="42" />
@@ -639,11 +645,11 @@
         <mark key="^" line="18" column="26" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/deliverMail.js" timestamp="1554292246908">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="79" column="8" />
-        <mark key="." line="6" column="15" />
-        <mark key="^" line="21" column="6" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/deliverMail.js" timestamp="1554713411857">
+        <mark key="[" line="82" column="42" />
+        <mark key="]" line="81" column="22" />
+        <mark key="." line="81" column="22" />
+        <mark key="^" line="81" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/routes/api.php" timestamp="1554206410558">
         <mark key="[" line="34" column="4" />
@@ -767,14 +773,14 @@
       <jump line="465" column="22" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Assembly pric percentagee</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdGFyZ2V0RXZlbnQgPSBldmVudC5JdGVtCg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>Assembly pric percentagee</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>assembly_price</text>
@@ -783,28 +789,28 @@
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ3LTEvMyBweS02IHB4LTgiPgogICAgICAgICAgPG51bWJlci1maWVsZAogICAgICAgICAgICBuYW1lPSJhc3NlbWJseV9wcmljZSIKICAgICAgICAgICAgOmVycm9yPSJ2dkVycm9ycy5maXJzdCgnYXNzZW1ibHlfcHJpY2UnKSIKICAgICAgICAgICAgZGF0YS12di1hcz0iQXNzZW1ibHkgcHJpY2UiCiAgICAgICAgICAgIGRpc3BsYXlOYW1lPSJBc3NlbWJseSBwcmljZSIKICAgICAgICAgICAgdi12YWxpZGF0ZT0iJ3JlcXVpcmVkJyIKICAgICAgICAgICAgdi1tb2RlbC5udW1iZXI9Im9mZmVyLmFzc2VtYmx5X3ByaWNlIgogICAgICAgICAgICBtaW49IjAiCiAgICAgICAgICAgIG1heD0iMTAwIgogICAgICAgICAgPjwvbnVtYmVyLWZpZWxkPgogICAgICAgIDwvZGl2PgoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGFyZ2V0RXZlbnQgPSBldmVudC5JdGVtCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxudW1iZXItZmllbGQKICAgICAgICAgIG5hbWU9InJvb2Zfd2luZG93X2NvdW50IgogICAgICAgICAgOmVycm9yPSJ2dkVycm9ycy5maXJzdCgncm9vZl93aW5kb3dfY291bnQnKSIKICAgICAgICAgIGRhdGEtdnYtYXM9InJvb2Ygd2luZG93cyIKICAgICAgICAgIGRpc3BsYXlOYW1lPSJyb29mIHdpbmRvd3MiCiAgICAgICAgICB2LXZhbGlkYXRlPSIncmVxdWlyZWR8bWF4X3ZhbHVlOjEwMCciCiAgICAgICAgICB2LW1vZGVsLm51bWJlcj0ib2ZmZXIucm9vZl93aW5kb3dfY291bnQiCiAgICAgICAgICBtaW49IjAiCiAgICAgICAgICBtYXg9IjEwMCIKICAgICAgICA+PC9udW1iZXItZmllbGQ+Cg==</text>
+        <text encoding="base64">ICAgIC50aGVuKChldmVudCkgPT4gewo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICA8bnVtYmVyLWZpZWxkCiAgICAgICAgICBuYW1lPSJyb29mX3dpbmRvd19jb3VudCIKICAgICAgICAgIDplcnJvcj0idnZFcnJvcnMuZmlyc3QoJ3Jvb2Zfd2luZG93X2NvdW50JykiCiAgICAgICAgICBkYXRhLXZ2LWFzPSJyb29mIHdpbmRvd3MiCiAgICAgICAgICBkaXNwbGF5TmFtZT0icm9vZiB3aW5kb3dzIgogICAgICAgICAgdi12YWxpZGF0ZT0iJ3JlcXVpcmVkfG1heF92YWx1ZToxMDAnIgogICAgICAgICAgdi1tb2RlbC5udW1iZXI9Im9mZmVyLnJvb2Zfd2luZG93X2NvdW50IgogICAgICAgICAgbWluPSIwIgogICAgICAgICAgbWF4PSIxMDAiCiAgICAgICAgPjwvbnVtYmVyLWZpZWxkPg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBsZXQgdGFyZ2V0RXZlbnQ7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICBEQi5nZXQocHJvY2Vzcy5lbnYuRVZFTlRTX1RBQkxFLCB7CiAgICBldmVudElkOiBldmVudC5wYXRoUGFyYW1ldGVycy5pZAogIH0p</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAKICBzdGF0aWMgYWxsKCkgewogICAgcmV0dXJuIGF4aW9zLmdldCgnL2FwaS9vZmZlcnMnKS50aGVuKHJlc3BvbnNlID0+IHJlc3BvbnNlLmRhdGEpCiAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -824,11 +830,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICBwcmVmZXJlbmNlcy51bnNoaWZ0KCkKICAgICAgICBwcmVmZXJlbmNlcy51bnNoaWZ0KCkKICAgICAgICBwcmVmZXJlbmNlcy51bnNoaWZ0KCkKICAgICAgICBwcmVmZXJlbmNlcy51bnNoaWZ0KCk=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxociBjbGFzcz0iZmxleC0xIiB2LXNob3c9ImluZGV4ICE9PSAwIiBzdHlsZT0iYm9yZGVyOiAxcHggc29saWQgYmxhY2siPgo=</text>
+        <text encoding="base64">ICAgICAgICBjYWxsYmFjawo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2Fzc2VtYmx5X3ByaWNlL21hcmdpbi9n</text>
