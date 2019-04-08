@@ -427,11 +427,12 @@
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" timestamp="1554713649220">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="26" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="15" column="3" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" timestamp="1554723184255">
+        <mark key="'" line="17" column="1" />
+        <mark key="[" line="47" column="8" />
+        <mark key="]" line="47" column="41" />
+        <mark key="." line="47" column="41" />
+        <mark key="^" line="47" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/postPublicSignup.js" timestamp="1554712519707">
         <mark key="[" line="1" column="0" />
@@ -596,10 +597,10 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/database/factories/OfferFactory.php" timestamp="1554710393710">
-        <mark key="[" line="33" column="35" />
-        <mark key="]" line="33" column="36" />
-        <mark key="." line="33" column="36" />
+      <file name="$USER_HOME$/Projects/finish-building/database/factories/OfferFactory.php" timestamp="1554723613714">
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="30" column="33" />
+        <mark key="." line="30" column="33" />
         <mark key="^" line="33" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Backend/Content/News/NewsController.php" timestamp="1553176607828">
@@ -614,8 +615,8 @@
         <mark key="^" line="54" column="57" />
         <mark key="." line="54" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/putUpdateEvent.js" timestamp="1554712809546">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/putUpdateEvent.js" timestamp="1554723239111">
+        <mark key="'" line="11" column="1" />
         <mark key="[" line="11" column="114" />
         <mark key="]" line="12" column="1" />
         <mark key="." line="12" column="1" />
@@ -645,11 +646,11 @@
         <mark key="^" line="18" column="26" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/deliverMail.js" timestamp="1554713411857">
-        <mark key="[" line="82" column="42" />
-        <mark key="]" line="81" column="22" />
-        <mark key="." line="81" column="22" />
-        <mark key="^" line="81" column="22" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/deliverMail.js" timestamp="1554723219290">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="80" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/routes/api.php" timestamp="1554206410558">
         <mark key="[" line="34" column="4" />
@@ -671,14 +672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="12" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
-      <jump line="227" column="12" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
-      <jump line="240" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
-      <jump line="254" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
-      <jump line="269" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
-      <jump line="283" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
-      <jump line="298" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" />
-      <jump line="11" column="25" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
       <jump line="85" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handler.js" />
       <jump line="2" column="8" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getEventsIndex.js" />
@@ -771,46 +764,54 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/Offer.js" />
       <jump line="452" column="10" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="465" column="22" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="107" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
+      <jump line="11" column="74" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
+      <jump line="13" column="57" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
+      <jump line="122" column="4" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
+      <jump line="24" column="2" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
+      <jump line="17" column="1" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
+      <jump line="11" column="1" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/putUpdateEvent.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGFyZ2V0RXZlbnQgPSBldmVudC5JdGVtCg==</text>
+      <register name="&quot;" type="4">
+        <text>16</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>16</text>
       </register>
       <register name="/" type="4">
-        <text>assembly_price</text>
+        <text>tar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ3LTEvMyBweS02IHB4LTgiPgogICAgICAgICAgPG51bWJlci1maWVsZAogICAgICAgICAgICBuYW1lPSJhc3NlbWJseV9wcmljZSIKICAgICAgICAgICAgOmVycm9yPSJ2dkVycm9ycy5maXJzdCgnYXNzZW1ibHlfcHJpY2UnKSIKICAgICAgICAgICAgZGF0YS12di1hcz0iQXNzZW1ibHkgcHJpY2UiCiAgICAgICAgICAgIGRpc3BsYXlOYW1lPSJBc3NlbWJseSBwcmljZSIKICAgICAgICAgICAgdi12YWxpZGF0ZT0iJ3JlcXVpcmVkJyIKICAgICAgICAgICAgdi1tb2RlbC5udW1iZXI9Im9mZmVyLmFzc2VtYmx5X3ByaWNlIgogICAgICAgICAgICBtaW49IjAiCiAgICAgICAgICAgIG1heD0iMTAwIgogICAgICAgICAgPjwvbnVtYmVyLWZpZWxkPgogICAgICAgIDwvZGl2PgoK</text>
+        <text encoding="base64">ICAvLyByZXR1cm4gcmVzcG9uc2UuZmlsZShgJHtrZWJhYkNhc2UoZXZlbnRJdGVtLm5hbWUpfS0ke25ldyBEYXRlKCkudG9JU09TdHJpbmcoKS5zcGxpdCgnVCcpWzBdfS5jc3ZgLCAndGV4dC9jc3YnLCBjc3YpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGFyZ2V0RXZlbnQgPSBldmVudC5JdGVtCg==</text>
+        <text encoding="base64">ICAgICAgICBjYWxsYmFjayhudWxsLCByZXNwb25zZS5zdWNjZXNzKGV2ZW50SXRlbSkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC50aGVuKChldmVudCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsZXQgdGFyZ2V0RXZlbnQ7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gcmVzcG9uc2Uuc3VjY2Vzcyhjc3YpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBEQi5nZXQocHJvY2Vzcy5lbnYuRVZFTlRTX1RBQkxFLCB7CiAgICBldmVudElkOiBldmVudC5wYXRoUGFyYW1ldGVycy5pZAogIH0p</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBsZXQgID0gaW52aXRlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gcmVzcG9uc2Uuc3VjY2VzcyhzdWJzY3JpYmVyUXVlcnkpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -830,20 +831,20 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBwcmVmZXJlbmNlcy51bnNoaWZ0KCkKICAgICAgICBwcmVmZXJlbmNlcy51bnNoaWZ0KCkKICAgICAgICBwcmVmZXJlbmNlcy51bnNoaWZ0KCkKICAgICAgICBwcmVmZXJlbmNlcy51bnNoaWZ0KCk=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhoZWFkZXJzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsYmFjawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2Fzc2VtYmx5X3ByaWNlL21hcmdpbi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>assembly_price</last-search>
+      <last-search>tar</last-search>
       <last-offset />
-      <last-pattern>assembly_price</last-pattern>
+      <last-pattern>tar</last-pattern>
       <last-replace>margin</last-replace>
       <last-substitute>assembly_price</last-substitute>
       <last-dir>1</last-dir>
@@ -851,12 +852,10 @@
     </search>
     <history>
       <history-search>
-        <entry>getV</entry>
         <entry>todo</entry>
         <entry>tor</entry>
         <entry>call</entry>
         <entry>su</entry>
-        <entry>tar</entry>
         <entry>wall</entry>
         <entry>Door</entry>
         <entry>re</entry>
@@ -871,6 +870,8 @@
         <entry>foundation</entry>
         <entry>roof_window_count</entry>
         <entry>assembly_price</entry>
+        <entry>eve</entry>
+        <entry>tar</entry>
       </history-search>
       <history-cmd>
         <entry>s/mail/invite/g</entry>
