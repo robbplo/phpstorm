@@ -21,7 +21,16 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/bij.boehringer/api/Product/Http/Requests/StoreProductAvatarRequest.php" timestamp="1554891368918" />
+      <file name="$USER_HOME$/Projects/bij.boehringer/api/Product/Http/Requests/StoreProductAvatarRequest.php" timestamp="1554967947808">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/bij.boehringer/api/Product/Http/Controllers/ProductAvatarController.php" timestamp="1554967999674">
+        <mark key="'" line="4" column="15" />
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="55" />
+        <mark key="." line="12" column="90" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/infrastructure/PartsList.php" timestamp="1554734127023">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="59" column="20" />
@@ -194,8 +203,11 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="14" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/Product.php" timestamp="1554902493847">
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/Product.php" timestamp="1554967893503">
         <mark key="[" line="67" column="45" />
+        <mark key="]" line="69" column="29" />
+        <mark key="^" line="69" column="29" />
+        <mark key="." line="69" column="98" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getEventSubscriptionIndex.js" timestamp="1553683079280">
         <mark key="[" line="2" column="0" />
@@ -628,7 +640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="32" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Dashboard/newBoatUser.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/nustar-meldpunt/app/Http/Controllers/AdminController.php" />
       <jump line="44" column="8" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
       <jump line="32" column="8" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
@@ -728,22 +739,23 @@
       <jump line="34" column="52" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page5.blade.php" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page2.blade.php" />
       <jump line="96" column="0" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page2.blade.php" />
+      <jump line="4" column="15" filename="$USER_HOME$/Projects/bij.boehringer/api/Product/Http/Controllers/ProductAvatarController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>UploadProductFileRequest</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>'{AFMETING}'</text>
+        <text>UploadProductFileRequest</text>
       </register>
       <register name="/" type="4">
-        <text>3</text>
+        <text>Sto</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9InctMS80IHB0LTYiPgogICAgICAgICAgICA8bGFiZWwKICAgICAgICAgICAgICBjbGFzcz0iYmxvY2sgdXBwZXJjYXNlIHRyYWNraW5nLXdpZGUgdGV4dC1ncmV5LWRhcmtlciB0ZXh0LXhzIGZvbnQtYm9sZCBtYi0yIj4mbmJzcDs8L2xhYmVsPgogICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJib3JkZXIgYm9yZGVyLWRhbmdlciBob3ZlcjpiZy00MCBmb250LWJvbGQgdGV4dC1kYW5nZXIgdy05IGgtOSByb3VuZGVkLWZ1bGwiCiAgICAgICAgICAgICAgQGNsaWNrLnByZXZlbnQ9Im9mZmVyLndpbmRvd19mcmFtZXMuc3BsaWNlKGluZGV4LCAxKSI+CiAgICAgICAgICAgICAgeAogICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgIDwvZGl2Pgo=</text>
+      <register name="0" type="4">
+        <text>StoreProductAvatarRequest</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
@@ -798,9 +810,9 @@
       </register>
     </registers>
     <search>
-      <last-search>3</last-search>
+      <last-search>Sto</last-search>
       <last-offset />
-      <last-pattern>3</last-pattern>
+      <last-pattern>Sto</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -808,7 +820,6 @@
     </search>
     <history>
       <history-search>
-        <entry>re</entry>
         <entry>hasOV</entry>
         <entry>profile</entry>
         <entry>index</entry>
@@ -828,6 +839,7 @@
         <entry>'</entry>
         <entry>bas</entry>
         <entry>3</entry>
+        <entry>Sto</entry>
       </history-search>
       <history-cmd>
         <entry>s/Create/Update/g</entry>
