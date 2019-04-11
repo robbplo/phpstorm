@@ -77,24 +77,26 @@
         <mark key="." line="9" column="46" />
         <mark key="^" line="9" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page2.blade.php" timestamp="1554883809973">
-        <mark key="'" line="96" column="0" />
-        <mark key="[" line="90" column="77" />
-        <mark key="]" line="90" column="76" />
-        <mark key="." line="90" column="76" />
-        <mark key="^" line="90" column="76" />
-      </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriptionDetails.js" timestamp="1553681869186">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="45" />
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/MorphToField.php" timestamp="1554987781718">
+        <mark key="[" line="15" column="73" />
+        <mark key="]" line="15" column="73" />
+        <mark key="." line="15" column="73" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Console/Kernel.php" timestamp="1553003530608">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="^" line="26" column="54" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/nova/src/Fields/MorphTo.php" timestamp="1554987652185">
+        <mark key="[" line="277" column="0" />
+        <mark key="]" line="294" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/PartsList.php" timestamp="1554815327610">
         <mark key="[" line="29" column="0" />
@@ -154,13 +156,6 @@
         <mark key="]" line="18" column="7" />
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" timestamp="1554816346917">
-        <mark key="'" line="80" column="25" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="84" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/NumberField.vue" timestamp="1551943858155">
         <mark key="[" line="18" column="17" />
@@ -282,13 +277,6 @@
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Nova/Filters/ProductCategoryFilter.php" timestamp="1554900897766">
         <mark key="[" line="20" column="54" />
-      </file>
-      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page5.blade.php" timestamp="1554883801377">
-        <mark key="'" line="34" column="52" />
-        <mark key="[" line="38" column="98" />
-        <mark key="]" line="38" column="98" />
-        <mark key="." line="38" column="98" />
-        <mark key="^" line="38" column="98" />
       </file>
       <file name="$USER_HOME$/Projects/bij.boehringer/database/migrations/2019_03_20_135010_add_type_column_to_products_table.php" timestamp="1553090815589">
         <mark key="[" line="28" column="38" />
@@ -446,8 +434,8 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/storage/logs/laravel-2019-04-11.log" timestamp="1554986148615">
-        <mark key="'" line="22" column="72" />
+      <file name="$USER_HOME$/Projects/materialen/storage/logs/laravel-2019-04-11.log" timestamp="1554987887898">
+        <mark key="'" line="185" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingWicketDoorColors.php" timestamp="1551941499977">
         <mark key="[" line="12" column="37" />
@@ -566,18 +554,14 @@
         <mark key="^" line="13" column="4" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Quotation.php" timestamp="1554810232458">
-        <mark key="'" line="38" column="4" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="25" />
-        <mark key="^" line="43" column="11" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/finish-building/composer.json" timestamp="1552472459397">
         <mark key="[" line="31" column="13" />
         <mark key="]" line="31" column="18" />
         <mark key="^" line="31" column="18" />
         <mark key="." line="31" column="18" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1554987554899">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.php" timestamp="1552648640187">
         <mark key="[" line="39" column="14" />
@@ -663,8 +647,11 @@
         <mark key="." line="34" column="3" />
         <mark key="^" line="34" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/Image.php" timestamp="1554986350730">
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/Image.php" timestamp="1554988079004">
         <mark key="'" line="93" column="0" />
+        <mark key="[" line="45" column="19" />
+        <mark key="]" line="45" column="19" />
+        <mark key="." line="45" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/app/helpers.php" timestamp="1552472374511">
         <mark key="[" line="3" column="73" />
@@ -680,7 +667,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
       <jump line="132" column="104" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
       <jump line="60" column="30" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
       <jump line="122" column="5" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/postSubscribeEvent.js" />
@@ -780,48 +766,49 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/materialen/app/Nova/Price.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/materialen/app/Nova/Image.php" />
       <jump line="93" column="0" filename="$USER_HOME$/Projects/materialen/app/Nova/Image.php" />
+      <jump line="185" column="37" filename="$USER_HOME$/Projects/materialen/storage/logs/laravel-2019-04-11.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BelongsToField</text>
+        <text>Field</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>BelongsToField</text>
+        <text>Field</text>
       </register>
       <register name="/" type="4">
         <text>fields</text>
       </register>
-      <register name="0" type="4">
-        <text>StoreProductAvatarRequest</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBidWlsZE1vcnBoYWJsZVF1ZXJ5KE5vdmFSZXF1ZXN0ICRyZXF1ZXN0LCAkcmVsYXRlZFJlc291cmNlLCAkd2l0aFRyYXNoZWQgPSBmYWxzZSkKICAgIHsKICAgICAgICAkbW9kZWwgPSAkcmVsYXRlZFJlc291cmNlOjpuZXdNb2RlbCgpOwoKICAgICAgICAkcXVlcnkgPSAkcmVxdWVzdC0+Zmlyc3QgPT09ICd0cnVlJwogICAgICAgICAgICAgICAgICAgICAgICA/ICRtb2RlbC0+bmV3UXVlcnlXaXRob3V0U2NvcGVzKCktPndoZXJlS2V5KCRyZXF1ZXN0LT5jdXJyZW50KQogICAgICAgICAgICAgICAgICAgICAgICA6ICRyZWxhdGVkUmVzb3VyY2U6OmJ1aWxkSW5kZXhRdWVyeSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcmVxdWVzdCwgJG1vZGVsLT5uZXdRdWVyeSgpLCAkcmVxdWVzdC0+c2VhcmNoLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtdLCBbXSwgVHJhc2hlZFN0YXR1czo6ZnJvbUJvb2xlYW4oJHdpdGhUcmFzaGVkKQogICAgICAgICAgICAgICAgICAgICAgICAgICk7CgogICAgICAgIHJldHVybiAkcXVlcnktPnRhcChmdW5jdGlvbiAoJHF1ZXJ5KSB1c2UgKCRyZXF1ZXN0LCAkcmVsYXRlZFJlc291cmNlLCAkbW9kZWwpIHsKICAgICAgICAgICAgZm9yd2FyZF9zdGF0aWNfY2FsbCgKICAgICAgICAgICAgICAgICR0aGlzLT5tb3JwaGFibGVRdWVyeUNhbGxhYmxlKCRyZXF1ZXN0LCAkcmVsYXRlZFJlc291cmNlLCAkbW9kZWwpLAogICAgICAgICAgICAgICAgJHJlcXVlc3QsICRxdWVyeQogICAgICAgICAgICApOwogICAgICAgIH0pOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZmlyc3QgPSAKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+Y3VycmVudCk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>Route::get('/test', function () {
     dispatch(new App\Jobs\GetOrder('8f33c71a-0e6d-11e9-82d2-5254002f92c0', App\Tenant::first()));
 });</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRleHQ6Om1ha2UoJ1NhbGUgcHJpY2UnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAvLyAgICAgcmV0dXJuICR0aGlzLT5zYWxlUHJpY2UoKSA/PyAn4oCUJzsKICAgICAgICAgICAgICAgIC8vIH0pLAogICAgICAgICAgICAgICAgLy8gVGV4dDo6bWFrZSgnUHVyY2hhc2UgcHJpY2UnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAvLyAgICAgcmV0dXJuICR0aGlzLT5wdXJjaGFzZVByaWNlKCkgPz8gJ+KAlCc7CiAgICAgICAgICAgICAgICAvLyB9KSwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3RwdWJsaWMgJG5hbWUK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEZpbHRlcnNcUHJvZHVjdENhdGVnb3J5RmlsdGVyLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -842,10 +829,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRleHQ6Om1ha2UoJ1NhbGUgcHJpY2UnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAvLyAgICAgcmV0dXJuICR0aGlzLT5zYWxlUHJpY2UoKSA/PyAn4oCUJzsKICAgICAgICAgICAgICAgIC8vIH0pLAogICAgICAgICAgICAgICAgLy8gVGV4dDo6bWFrZSgnUHVyY2hhc2UgcHJpY2UnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAvLyAgICAgcmV0dXJuICR0aGlzLT5wdXJjaGFzZVByaWNlKCkgPz8gJ+KAlCc7CiAgICAgICAgICAgICAgICAvLyB9KSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgIHByb3RwdWJsaWMgJG5hbWUK</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
