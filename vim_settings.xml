@@ -12,6 +12,12 @@
       <file name="/a.dummy" timestamp="1554983054449">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Product.php" timestamp="1554989780083">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="12" />
+        <mark key="." line="23" column="12" />
+        <mark key="^" line="23" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Generator.php" timestamp="1554971822212">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -83,10 +89,11 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/MorphToField.php" timestamp="1554987781718">
-        <mark key="[" line="15" column="73" />
-        <mark key="]" line="15" column="73" />
-        <mark key="." line="15" column="73" />
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/MorphToField.php" timestamp="1554990212777">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="34" />
+        <mark key="^" line="15" column="42" />
+        <mark key="." line="18" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Console/Kernel.php" timestamp="1553003530608">
         <mark key="[" line="27" column="0" />
@@ -94,7 +101,7 @@
         <mark key="^" line="26" column="54" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/nova/src/Fields/MorphTo.php" timestamp="1554987652185">
+      <file name="$USER_HOME$/Projects/materialen/nova/src/Fields/MorphTo.php" timestamp="1554990194204">
         <mark key="[" line="277" column="0" />
         <mark key="]" line="294" column="5" />
       </file>
@@ -103,11 +110,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/finish-building/database/migrations/2019_04_04_134852_store_overhead_doors_as_json.php" timestamp="1554884989834">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Products/OverheadDoorOptions.php" timestamp="1554384227287">
         <mark key="[" line="2" column="12" />
@@ -275,9 +277,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/Filters/ProductCategoryFilter.php" timestamp="1554900897766">
-        <mark key="[" line="20" column="54" />
-      </file>
       <file name="$USER_HOME$/Projects/bij.boehringer/database/migrations/2019_03_20_135010_add_type_column_to_products_table.php" timestamp="1553090815589">
         <mark key="[" line="28" column="38" />
         <mark key="]" line="28" column="35" />
@@ -415,6 +414,11 @@
         <mark key="]" line="38" column="41" />
         <mark key="^" line="38" column="41" />
         <mark key="." line="38" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/Attribute.php" timestamp="1554989745090">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/postPublicSignup.js" timestamp="1554712519707">
         <mark key="[" line="1" column="0" />
@@ -611,6 +615,9 @@
         <mark key="^" line="54" column="57" />
         <mark key="." line="54" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/AttributeOption.php" timestamp="1554990085542">
+        <mark key="[" line="44" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/bij.boehringer/api/Product/Http/Transformers/ProductTransformer.php" timestamp="1553507096643">
         <mark key="[" line="29" column="42" />
         <mark key="]" line="29" column="42" />
@@ -647,7 +654,7 @@
         <mark key="." line="34" column="3" />
         <mark key="^" line="34" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/Image.php" timestamp="1554988079004">
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/Image.php" timestamp="1554990091750">
         <mark key="'" line="93" column="0" />
         <mark key="[" line="45" column="19" />
         <mark key="]" line="45" column="19" />
@@ -770,13 +777,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Field</text>
+        <text>newQuery</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>Field</text>
+        <text>newQuery</text>
       </register>
       <register name="/" type="4">
         <text>fields</text>
@@ -785,30 +792,28 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBidWlsZE1vcnBoYWJsZVF1ZXJ5KE5vdmFSZXF1ZXN0ICRyZXF1ZXN0LCAkcmVsYXRlZFJlc291cmNlLCAkd2l0aFRyYXNoZWQgPSBmYWxzZSkKICAgIHsKICAgICAgICAkbW9kZWwgPSAkcmVsYXRlZFJlc291cmNlOjpuZXdNb2RlbCgpOwoKICAgICAgICAkcXVlcnkgPSAkcmVxdWVzdC0+Zmlyc3QgPT09ICd0cnVlJwogICAgICAgICAgICAgICAgICAgICAgICA/ICRtb2RlbC0+bmV3UXVlcnlXaXRob3V0U2NvcGVzKCktPndoZXJlS2V5KCRyZXF1ZXN0LT5jdXJyZW50KQogICAgICAgICAgICAgICAgICAgICAgICA6ICRyZWxhdGVkUmVzb3VyY2U6OmJ1aWxkSW5kZXhRdWVyeSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcmVxdWVzdCwgJG1vZGVsLT5uZXdRdWVyeSgpLCAkcmVxdWVzdC0+c2VhcmNoLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtdLCBbXSwgVHJhc2hlZFN0YXR1czo6ZnJvbUJvb2xlYW4oJHdpdGhUcmFzaGVkKQogICAgICAgICAgICAgICAgICAgICAgICAgICk7CgogICAgICAgIHJldHVybiAkcXVlcnktPnRhcChmdW5jdGlvbiAoJHF1ZXJ5KSB1c2UgKCRyZXF1ZXN0LCAkcmVsYXRlZFJlc291cmNlLCAkbW9kZWwpIHsKICAgICAgICAgICAgZm9yd2FyZF9zdGF0aWNfY2FsbCgKICAgICAgICAgICAgICAgICR0aGlzLT5tb3JwaGFibGVRdWVyeUNhbGxhYmxlKCRyZXF1ZXN0LCAkcmVsYXRlZFJlc291cmNlLCAkbW9kZWwpLAogICAgICAgICAgICAgICAgJHJlcXVlc3QsICRxdWVyeQogICAgICAgICAgICApOwogICAgICAgIH0pOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkZmlyc3QgPSAKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+Y3VycmVudCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgJHdpdGggPSBbCiAgICAgICAgLy8gJ2F0dHJpYnV0ZV9vcHRpb25zJywKICAgIF07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgJHdpdGggPSAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">WwogICAgICAgICdhdHRyaWJ1dGVfb3B0aW9ucycKICAgIF07Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkd2l0aCA9IFsKICAgICAgICAnZWF2JywKICAgICAgICAnc2NoZW1hLmF0dHJpYnV0ZXMna2trLAogICAgXTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>Route::get('/test', function () {
-    dispatch(new App\Jobs\GetOrder('8f33c71a-0e6d-11e9-82d2-5254002f92c0', App\Tenant::first()));
-});</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -829,10 +834,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRleHQ6Om1ha2UoJ1NhbGUgcHJpY2UnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAvLyAgICAgcmV0dXJuICR0aGlzLT5zYWxlUHJpY2UoKSA/PyAn4oCUJzsKICAgICAgICAgICAgICAgIC8vIH0pLAogICAgICAgICAgICAgICAgLy8gVGV4dDo6bWFrZSgnUHVyY2hhc2UgcHJpY2UnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAvLyAgICAgcmV0dXJuICR0aGlzLT5wdXJjaGFzZVByaWNlKCkgPz8gJ+KAlCc7CiAgICAgICAgICAgICAgICAvLyB9KSwK</text>
+        <text encoding="base64">ICAgICAgICAkZmlyc3QgPSAKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3RwdWJsaWMgJG5hbWUK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+Y3VycmVudCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
