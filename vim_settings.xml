@@ -12,10 +12,11 @@
       <file name="/a.dummy" timestamp="1554983054449">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Product.php" timestamp="1555052206385">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Projects/materialen/app/Product.php" timestamp="1555055959336">
+        <mark key="[" line="33" column="22" />
+        <mark key="]" line="33" column="22" />
+        <mark key="." line="33" column="22" />
+        <mark key="^" line="33" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Generator.php" timestamp="1554971822212">
         <mark key="[" line="52" column="0" />
@@ -40,12 +41,6 @@
       <file name="$USER_HOME$/Projects/bij.boehringer/api/Product/Http/Requests/StoreProductAvatarRequest.php" timestamp="1554967947808">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/bij.boehringer/api/Product/Http/Controllers/ProductAvatarController.php" timestamp="1554968894204">
-        <mark key="'" line="4" column="15" />
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="55" />
-        <mark key="." line="12" column="90" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/AttributeOption.php" timestamp="1552661361237">
         <mark key="[" line="8" column="28" />
@@ -351,6 +346,12 @@
         <mark key="]" line="19" column="19" />
         <mark key="." line="19" column="19" />
         <mark key="^" line="19" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Image.php" timestamp="1555055971790">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="32" />
+        <mark key="." line="13" column="32" />
+        <mark key="^" line="13" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/putCancelEvent.js" timestamp="1553682282017">
         <mark key="[" line="0" column="0" />
@@ -663,11 +664,12 @@
         <mark key="." line="34" column="3" />
         <mark key="^" line="34" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/Image.php" timestamp="1555053033448">
-        <mark key="'" line="45" column="19" />
-        <mark key="[" line="45" column="19" />
-        <mark key="]" line="45" column="19" />
-        <mark key="." line="45" column="19" />
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/Image.php" timestamp="1555056011335">
+        <mark key="'" line="47" column="19" />
+        <mark key="[" line="47" column="21" />
+        <mark key="]" line="47" column="16" />
+        <mark key="." line="47" column="16" />
+        <mark key="^" line="47" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/app/helpers.php" timestamp="1552472374511">
         <mark key="[" line="3" column="73" />
@@ -786,13 +788,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>imageable_id</text>
+        <text encoding="base64">LT50eXBlcyhbCiAgICAgICAgICAgICAgICBQcm9kdWN0OjpjbGFzcywKICAgICAgICAgICAgXSks</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>imageable</text>
       </register>
       <register name="/" type="4">
         <text>pro</text>
@@ -800,32 +802,32 @@
       <register name="0" type="4">
         <text>imageable_id</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT4K</text>
+      <register name="1" type="4">
+        <text encoding="base64">LT50eXBlcyhbCiAgICAgICAgICAgICAgICBQcm9kdWN0OjpjbGFzcywKICAgICAgICAgICAgXSks</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFibGUtPnVuc2lnbmVkSW50ZWdlcignaW1hZ2VhYmxlX2lkJyk7CiAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2ltYWdlYWJsZV90eXBlJyk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpbWFnZWFibGUoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+bW9ycGhUbygpOwogICAgfQ==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkdGFibGUtPnVuc2lnbmVkSW50ZWdlcignaW1hZ2VhYmxlX2lkJyk7CiAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2ltYWdlYWJsZV90eXBlJyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJycpLT5hZnRlcignaWQnKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>[
                 'imageable_id',
                 'imageable_type',
             ]</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIFRyZWVzdG9uZWl0XEJlbG9uZ3NUb0ZpZWxkXEJlbG9uZ3NUb0ZpZWxkOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -846,10 +848,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHByb3RlY3RlZCAkd2l0aCA9IFsKICAgIC8vICAgICAnZWF2JywKICAgIC8vICAgICAnc2NoZW1hLmF0dHJpYnV0ZXMnLAogICAgLy8gXTsK</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOiAkcmVsYXRlZFJlc291cmNlOjpidWlsZEluZGV4UXVlcnkoCiAgICAgICAgICAgICAgICAkcmVxdWVzdCwgJG1vZGVsLT5xdWVyeSgpLCAkcmVxdWVzdC0+c2VhcmNoLAogICAgICAgICAgICAgICAgW10sIFtdLCBUcmFzaGVkU3RhdHVzOjpmcm9tQm9vbGVhbigkd2l0aFRyYXNoZWQpCiAgICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">dXNlIFRyZWVzdG9uZWl0XEJlbG9uZ3NUb0ZpZWxkXEJlbG9uZ3NUb0ZpZWxkOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
