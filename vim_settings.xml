@@ -59,6 +59,10 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_02_22_131046_create_images_table.php" timestamp="1555054356920">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="45" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/ResourceTableRow.vue" timestamp="1554803565561">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -205,12 +209,12 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="14" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/Price.php" timestamp="1554986305369">
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/Price.php" timestamp="1555053961231">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="51" column="39" />
-        <mark key="]" line="51" column="54" />
-        <mark key="." line="51" column="54" />
-        <mark key="^" line="51" column="54" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="50" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Nova/Product.php" timestamp="1554986206890" />
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getEventSubscriptionIndex.js" timestamp="1553683079280">
@@ -377,6 +381,12 @@
         <mark key="]" line="7" column="21" />
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_04_12_072833_replace_morph_with_belongsto_on_images_table.php" timestamp="1555054405937">
+        <mark key="[" line="34" column="53" />
+        <mark key="]" line="34" column="65" />
+        <mark key="." line="34" column="53" />
+        <mark key="^" line="34" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Products/CustomProduct.php" timestamp="1554811861402">
         <mark key="[" line="67" column="16" />
@@ -673,7 +683,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="30" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
       <jump line="122" column="5" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/postSubscribeEvent.js" />
       <jump line="3" column="27" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
       <jump line="33" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/libs/dynamodb.js" />
@@ -773,46 +782,50 @@
       <jump line="93" column="0" filename="$USER_HOME$/Projects/materialen/app/Nova/Image.php" />
       <jump line="185" column="37" filename="$USER_HOME$/Projects/materialen/storage/logs/laravel-2019-04-11.log" />
       <jump line="45" column="19" filename="$USER_HOME$/Projects/materialen/app/Nova/Image.php" />
+      <jump line="36" column="8" filename="$USER_HOME$/Projects/materialen/database/migrations/2019_04_12_072833_replace_morph_with_belongsto_on_images_table.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Field</text>
+        <text>imageable_id</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>Field</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>fields</text>
+        <text>pro</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBidWlsZE1vcnBoYWJsZVF1ZXJ5KE5vdmFSZXF1ZXN0ICRyZXF1ZXN0LCAkcmVsYXRlZFJlc291cmNlLCAkd2l0aFRyYXNoZWQgPSBmYWxzZSkKICAgIHsKICAgICAgICAkbW9kZWwgPSAkcmVsYXRlZFJlc291cmNlOjpuZXdNb2RlbCgpOwoKICAgICAgICAkcXVlcnkgPSAkcmVxdWVzdC0+Zmlyc3QgPT09ICd0cnVlJwogICAgICAgICAgICAgICAgICAgICAgICA/ICRtb2RlbC0+bmV3UXVlcnlXaXRob3V0U2NvcGVzKCktPndoZXJlS2V5KCRyZXF1ZXN0LT5jdXJyZW50KQogICAgICAgICAgICAgICAgICAgICAgICA6ICRyZWxhdGVkUmVzb3VyY2U6OmJ1aWxkSW5kZXhRdWVyeSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcmVxdWVzdCwgJG1vZGVsLT5uZXdRdWVyeSgpLCAkcmVxdWVzdC0+c2VhcmNoLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtdLCBbXSwgVHJhc2hlZFN0YXR1czo6ZnJvbUJvb2xlYW4oJHdpdGhUcmFzaGVkKQogICAgICAgICAgICAgICAgICAgICAgICAgICk7CgogICAgICAgIHJldHVybiAkcXVlcnktPnRhcChmdW5jdGlvbiAoJHF1ZXJ5KSB1c2UgKCRyZXF1ZXN0LCAkcmVsYXRlZFJlc291cmNlLCAkbW9kZWwpIHsKICAgICAgICAgICAgZm9yd2FyZF9zdGF0aWNfY2FsbCgKICAgICAgICAgICAgICAgICR0aGlzLT5tb3JwaGFibGVRdWVyeUNhbGxhYmxlKCRyZXF1ZXN0LCAkcmVsYXRlZFJlc291cmNlLCAkbW9kZWwpLAogICAgICAgICAgICAgICAgJHJlcXVlc3QsICRxdWVyeQogICAgICAgICAgICApOwogICAgICAgIH0pOwogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>imageable_id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHByb3RlY3RlZCAkd2l0aCA9IFsKICAgIC8vICAgICAnZWF2JywKICAgIC8vICAgICAnc2NoZW1hLmF0dHJpYnV0ZXMnLAogICAgLy8gXTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGFibGUtPnVuc2lnbmVkSW50ZWdlcignaW1hZ2VhYmxlX2lkJyk7CiAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2ltYWdlYWJsZV90eXBlJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOiAkcmVsYXRlZFJlc291cmNlOjpidWlsZEluZGV4UXVlcnkoCiAgICAgICAgICAgICAgICAkcmVxdWVzdCwgJG1vZGVsLT5xdWVyeSgpLCAkcmVxdWVzdC0+c2VhcmNoLAogICAgICAgICAgICAgICAgW10sIFtdLCBUcmFzaGVkU3RhdHVzOjpmcm9tQm9vbGVhbigkd2l0aFRyYXNoZWQpCiAgICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJycpLT5hZnRlcignaWQnKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>[
+                'imageable_id',
+                'imageable_type',
+            ]</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgJHdpdGggPSBbCiAgICAgICAgLy8gJ2F0dHJpYnV0ZV9vcHRpb25zJywKICAgIF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgJHdpdGggPSAK</text>
+        <text encoding="base64">dXNlIFRyZWVzdG9uZWl0XEJlbG9uZ3NUb0ZpZWxkXEJlbG9uZ3NUb0ZpZWxkOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">WwogICAgICAgICdhdHRyaWJ1dGVfb3B0aW9ucycKICAgIF07Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -833,27 +846,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHByb3RlY3RlZCAkd2l0aCA9IFsKICAgIC8vICAgICAnZWF2JywKICAgIC8vICAgICAnc2NoZW1hLmF0dHJpYnV0ZXMnLAogICAgLy8gXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkd2l0aCA9IFsKICAgICAgICAnZWF2JywKICAgICAgICAnc2NoZW1hLmF0dHJpYnV0ZXMna2trLAogICAgXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgOiAkcmVsYXRlZFJlc291cmNlOjpidWlsZEluZGV4UXVlcnkoCiAgICAgICAgICAgICAgICAkcmVxdWVzdCwgJG1vZGVsLT5xdWVyeSgpLCAkcmVxdWVzdC0+c2VhcmNoLAogICAgICAgICAgICAgICAgW10sIFtdLCBUcmFzaGVkU3RhdHVzOjpmcm9tQm9vbGVhbigkd2l0aFRyYXNoZWQpCiAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>fields</last-search>
+      <last-search>pro</last-search>
       <last-offset />
-      <last-pattern>fields</last-pattern>
+      <last-pattern>pro</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>index</entry>
         <entry>int</entry>
         <entry>custom_product</entry>
         <entry>door</entry>
@@ -873,6 +885,7 @@
         <entry>Sto</entry>
         <entry>filters</entry>
         <entry>fields</entry>
+        <entry>pro</entry>
       </history-search>
       <history-cmd>
         <entry>s/Create/Update/g</entry>
