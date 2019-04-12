@@ -653,8 +653,8 @@
         <mark key="." line="34" column="3" />
         <mark key="^" line="34" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/Image.php" timestamp="1554990091750">
-        <mark key="'" line="93" column="0" />
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/Image.php" timestamp="1555053033448">
+        <mark key="'" line="45" column="19" />
         <mark key="[" line="45" column="19" />
         <mark key="]" line="45" column="19" />
         <mark key="." line="45" column="19" />
@@ -673,7 +673,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="104" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
       <jump line="60" column="30" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
       <jump line="122" column="5" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/postSubscribeEvent.js" />
       <jump line="3" column="27" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/sendReminders.js" />
@@ -773,16 +772,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/materialen/app/Nova/Image.php" />
       <jump line="93" column="0" filename="$USER_HOME$/Projects/materialen/app/Nova/Image.php" />
       <jump line="185" column="37" filename="$USER_HOME$/Projects/materialen/storage/logs/laravel-2019-04-11.log" />
+      <jump line="45" column="19" filename="$USER_HOME$/Projects/materialen/app/Nova/Image.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Field</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHJlcXVlc3QtPmZpcnN0ID09PSAndHJ1ZSc=</text>
+        <text>Field</text>
       </register>
       <register name="/" type="4">
         <text>fields</text>
