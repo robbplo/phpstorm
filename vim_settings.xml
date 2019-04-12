@@ -12,11 +12,10 @@
       <file name="/a.dummy" timestamp="1554983054449">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Product.php" timestamp="1554989780083">
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="23" column="12" />
-        <mark key="." line="23" column="12" />
-        <mark key="^" line="23" column="29" />
+      <file name="$USER_HOME$/Projects/materialen/app/Product.php" timestamp="1555052206385">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Generator.php" timestamp="1554971822212">
         <mark key="[" line="52" column="0" />
@@ -89,11 +88,11 @@
         <mark key="." line="1" column="36" />
         <mark key="^" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/MorphToField.php" timestamp="1554990212777">
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="18" column="34" />
-        <mark key="^" line="15" column="42" />
-        <mark key="." line="18" column="34" />
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/MorphToField.php" timestamp="1555052124628">
+        <mark key="[" line="21" column="77" />
+        <mark key="]" line="21" column="15" />
+        <mark key="^" line="21" column="15" />
+        <mark key="." line="21" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Console/Kernel.php" timestamp="1553003530608">
         <mark key="[" line="27" column="0" />
@@ -776,14 +775,14 @@
       <jump line="185" column="37" filename="$USER_HOME$/Projects/materialen/storage/logs/laravel-2019-04-11.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>newQuery</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>newQuery</text>
+        <text encoding="base64">JHJlcXVlc3QtPmZpcnN0ID09PSAndHJ1ZSc=</text>
       </register>
       <register name="/" type="4">
         <text>fields</text>
@@ -798,22 +797,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgJHdpdGggPSBbCiAgICAgICAgLy8gJ2F0dHJpYnV0ZV9vcHRpb25zJywKICAgIF07Cg==</text>
+        <text encoding="base64">ICAgIC8vIHByb3RlY3RlZCAkd2l0aCA9IFsKICAgIC8vICAgICAnZWF2JywKICAgIC8vICAgICAnc2NoZW1hLmF0dHJpYnV0ZXMnLAogICAgLy8gXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgJHdpdGggPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgOiAkcmVsYXRlZFJlc291cmNlOjpidWlsZEluZGV4UXVlcnkoCiAgICAgICAgICAgICAgICAkcmVxdWVzdCwgJG1vZGVsLT5xdWVyeSgpLCAkcmVxdWVzdC0+c2VhcmNoLAogICAgICAgICAgICAgICAgW10sIFtdLCBUcmFzaGVkU3RhdHVzOjpmcm9tQm9vbGVhbigkd2l0aFRyYXNoZWQpCiAgICAgICAgICAgICk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">WwogICAgICAgICdhdHRyaWJ1dGVfb3B0aW9ucycKICAgIF07Cg==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkd2l0aCA9IFsKICAgICAgICAnZWF2JywKICAgICAgICAnc2NoZW1hLmF0dHJpYnV0ZXMna2trLAogICAgXTsK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgJHdpdGggPSBbCiAgICAgICAgLy8gJ2F0dHJpYnV0ZV9vcHRpb25zJywKICAgIF07Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgJHdpdGggPSAK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">WwogICAgICAgICdhdHRyaWJ1dGVfb3B0aW9ucycKICAgIF07Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -834,10 +833,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZmlyc3QgPSAKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+Y3VycmVudCk7Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkd2l0aCA9IFsKICAgICAgICAnZWF2JywKICAgICAgICAnc2NoZW1hLmF0dHJpYnV0ZXMna2trLAogICAgXTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
