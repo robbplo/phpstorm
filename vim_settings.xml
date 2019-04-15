@@ -20,12 +20,12 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" timestamp="1555328089260">
-        <mark key="'" line="185" column="62" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="185" column="175" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" timestamp="1555329569214">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="153" column="73" />
+        <mark key="]" line="153" column="73" />
+        <mark key="^" line="153" column="73" />
+        <mark key="." line="153" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/bij.boehringer/app/Enums/ProductType.php" timestamp="1553090457584">
         <mark key="[" line="10" column="0" />
@@ -401,13 +401,6 @@
         <mark key="." line="19" column="19" />
         <mark key="^" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" timestamp="1555327952836">
-        <mark key="'" line="6" column="13" />
-        <mark key="[" line="25" column="30" />
-        <mark key="]" line="25" column="50" />
-        <mark key="^" line="25" column="50" />
-        <mark key="." line="25" column="50" />
-      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Image.php" timestamp="1555055971790">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="32" />
@@ -529,11 +522,12 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" timestamp="1555319928824">
-        <mark key="'" line="61" column="25" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" timestamp="1555329591644">
+        <mark key="'" line="62" column="25" />
+        <mark key="[" line="35" column="35" />
+        <mark key="]" line="35" column="33" />
+        <mark key="." line="35" column="33" />
+        <mark key="^" line="35" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingWicketDoorColors.php" timestamp="1551941499977">
         <mark key="[" line="12" column="37" />
@@ -802,8 +796,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="0" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
-      <jump line="11" column="74" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
       <jump line="13" column="57" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
       <jump line="122" column="4" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
       <jump line="24" column="2" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
@@ -898,50 +890,52 @@
       <jump line="24" column="0" filename="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" />
       <jump line="27" column="66" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/SetCartRequest.php" />
       <jump line="171" column="74" filename="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" />
-      <jump line="23" column="49" filename="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" />
       <jump line="6" column="13" filename="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" />
       <jump line="3" column="14" filename="$USER_HOME$/Projects/materialen/.env" />
       <jump line="186" column="62" filename="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" />
+      <jump line="23" column="0" filename="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" />
+      <jump line="68" column="8" filename="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJlPnt7JGVycm9yc319PC9wcmU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>webshop.boehringer-interactief.nl</text>
+        <text>cart</text>
       </register>
       <register name="/" type="4">
         <text>code</text>
       </register>
-      <register name="0" type="4">
-        <text>{{config('app.webshop_url')}}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkY2FydCA9IENvb2tpZTo6Z2V0KCdjYXJ0Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJlPnt7JGVycm9yc319PC9wcmU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHVzZXJJZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYWJvcnQoNDA0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcmVkaXJlY3QgdG8gc2hvcAo=</text>
+        <text encoding="base64">ICAgICAgICAkdXNlcklkID0gJHJlcXVlc3QtPmhlYWRlcigneC11c2VyaWQnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEB0b2RvIHJlY2VpdmUgYW5kIGF1dGhvcml6ZSBmcm9tIGF1dGhvcml6YXRpb24gaGVhZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEB0b2RvIHJlY2VpdmUgYW5kIGF1dGhvcml6ZSBmcm9tIGF1dGhvcml6YXRpb24gaGVhZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdXNlcklkID0gJHJlcXVlc3QtPmhlYWRlcigneC11c2VyaWQnKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -956,10 +950,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGV0YWlscyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY2FydCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cHJlPnt7JGVycm9yc319PC9wcmU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/qty_order/id/g</text>
