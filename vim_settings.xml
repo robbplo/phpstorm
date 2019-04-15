@@ -9,6 +9,12 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="16" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Product.php" timestamp="1555315047736">
+        <mark key="'" line="81" column="8" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Generator.php" timestamp="1554971822212">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -235,11 +241,10 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/Product.php" timestamp="1555060847802">
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="22" column="66" />
-        <mark key="." line="22" column="66" />
-        <mark key="^" line="22" column="66" />
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/Product.php" timestamp="1555314870213">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getEventSubscriptionIndex.js" timestamp="1553683079280">
         <mark key="[" line="2" column="0" />
@@ -749,8 +754,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="60" column="22" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/Offer.js" />
       <jump line="377" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="234" column="37" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="259" column="14" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
@@ -849,46 +852,48 @@
       <jump line="249" column="17" filename="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" />
       <jump line="172" column="285" filename="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" />
       <jump line="167" column="209" filename="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" />
+      <jump line="30" column="0" filename="$USER_HOME$/Projects/materialen/app/Product.php" />
+      <jump line="83" column="8" filename="$USER_HOME$/Projects/materialen/app/Product.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICR0ZW5hbnQgPSBUZW5hbnQ6OmZpcnN0T3JGYWlsKCk7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICR0ZW5hbnQgPSBUZW5hbnQ6OmZpcnN0T3JGYWlsKCk7</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
-        <text>qty_order</text>
+        <text>value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnL3Rlc3QnLCBmdW5jdGlvbiAoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXR0cmlidXRlc1snbmFtZSddID0ganNvbl9lbmNvZGUoJHZhbHVlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcUm91dGluZ1xSb3V0ZTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnJywgZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkb3JkZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkb3JkZXIpOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcUm91dGluZ1xSb3V0ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCh0aW1lKCkpOwo=</text>
+        <text encoding="base64">Um91dGU6OmdldCgnJywgZnVuY3Rpb24gKCkgewo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -903,27 +908,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBub3dkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkb3JkZXI7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/qty_order/article_code/g</text>
+        <text>s/value/name</text>
       </register>
     </registers>
     <search>
-      <last-search>qty_order</last-search>
+      <last-search>value</last-search>
       <last-offset />
-      <last-pattern>qty_order</last-pattern>
-      <last-replace>article_code</last-replace>
-      <last-substitute>qty_order</last-substitute>
+      <last-pattern>value</last-pattern>
+      <last-replace>name</last-replace>
+      <last-substitute>value</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>vra</entry>
         <entry>bra</entry>
         <entry>'</entry>
         <entry>bas</entry>
@@ -943,9 +947,9 @@
         <entry>name</entry>
         <entry>&quot;</entry>
         <entry>qty_order</entry>
+        <entry>value</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2V2ZW50L3N1YnNjcmlwdGlvbg==</entry>
         <entry encoding="base64">JzwsJz5zL3N1YnNjcmliZXIvcmVjaXBpZW50</entry>
         <entry>s/`/'/g</entry>
         <entry encoding="base64">JzwsJz5zL0Rvb3IvRG9vcnMvZw==</entry>
@@ -965,6 +969,7 @@
         <entry encoding="base64">JzwsJz5zL3F0eV9vcmRlci9uYW1l</entry>
         <entry encoding="base64">JzwsJz5zL3F0eV9vcmRlci9uYW1lL2c=</entry>
         <entry>s/qty_order/article_code/g</entry>
+        <entry>s/value/name</entry>
       </history-cmd>
       <history-expr />
       <history-input />
