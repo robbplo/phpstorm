@@ -27,6 +27,7 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="IntroduceVariable" />
   <action id="ParameterInfo" />
   <action id="PhpListenDebugAction">
     <keyboard-shortcut first-keystroke="shift meta d" />
