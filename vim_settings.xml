@@ -733,6 +733,11 @@
         <mark key="^" line="54" column="57" />
         <mark key="." line="54" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/auth.smit/app/Policies/AdministratorPolicy.php" timestamp="1555406247944">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/bij.boehringer/api/Product/Http/Transformers/ProductTransformer.php" timestamp="1553507096643">
         <mark key="[" line="29" column="42" />
         <mark key="]" line="29" column="42" />
@@ -909,14 +914,14 @@
       <jump line="68" column="8" filename="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVzZXItPmhhc1Blcm1pc3Npb25UbygndmlldyBjcmVkaXQgY2xhaW1zIHJlc291cmNlJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Address</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHVzZXItPmhhc1Blcm1pc3Npb25UbygndmlldyBjcmVkaXQgY2xhaW1zIHJlc291cmNlJyk7</text>
+        <text>Address</text>
       </register>
       <register name="/" type="4">
         <text>code</text>
