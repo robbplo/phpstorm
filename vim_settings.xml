@@ -48,15 +48,20 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Http/Kernel.php" timestamp="1555322694952">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Projects/materialen/app/Http/Kernel.php" timestamp="1555419389814">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="20" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/events/store/index.js" timestamp="1554299282382">
         <mark key="[" line="23" column="21" />
         <mark key="]" line="23" column="21" />
         <mark key="." line="23" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/vendor/spatie/laravel-cors/src/Cors.php" timestamp="1555419568397">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/auth.smit/app/Policies/ConsentPolicy.php" timestamp="1555407562397">
         <mark key="[" line="6" column="6" />
@@ -106,10 +111,11 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/config/cors.php" timestamp="1555322756792">
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="29" />
-        <mark key="." line="14" column="29" />
+      <file name="$USER_HOME$/Projects/materialen/config/cors.php" timestamp="1555420165154">
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="43" column="24" />
+        <mark key="." line="43" column="24" />
+        <mark key="^" line="43" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/auth.smit/app/Policies/WebsitePolicy.php" timestamp="1555408398735">
         <mark key="[" line="6" column="6" />
@@ -150,11 +156,13 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/vendor/spatie/laravel-cors/src/CorsProfile/DefaultProfile.php" timestamp="1555419531041" />
       <file name="$USER_HOME$/Projects/materialen/app/Http/Requests/IndexOrderRequest.php" timestamp="1555319046487">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen-pwa/store/modules/auth.js" timestamp="1555420646235" />
       <file name="$USER_HOME$/Projects/auth.smit/app/Policies/LoginCodePolicy.php" timestamp="1555407618540">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="6" />
@@ -303,44 +311,44 @@
       <jump line="27" column="0" filename="$USER_HOME$/Projects/materialen-csv/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>s://webshop.boehringer-interactief.nl</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>s://webshop.boehringer-interactief.nl</text>
       </register>
       <register name="/" type="4">
         <text>con</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRldGFpbHM6IE9iamVjdC52YWx1ZXMoZGF0YS5kZXRhaWxzKSwK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ISAkdGhpcy0+Y29yc1Byb2ZpbGUtPmlzQWxsb3dlZCgp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2h0dHA6Ly9sb2NhbGhvc3Q6MzAwMCcsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJyonLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY3N2RGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Y29yc1Byb2ZpbGUtPmlzQWxsb3dlZCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coW10uY29uY2F0KC4uLmNzdkRhdGEpKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bmFtZSxjb250YWN0cGVyc29uLHBob25lX251bWJlcixtb2JpbGVfbnVtYmVyLGVtYWlsLHN0cmVldCxzdHJlZXRfbnVtYmVyLHN0cmVldF9udW1iZXJfZXh0ZW5zaW9uLHppcGNvZGUsY2l0eSxjb3VudHJ5LHByb2R1Y3RfMTAzMyxwcm9kdWN0XzI3MzYsdXNlcl9pZCxkYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgnJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bmFtZSxjb250YWN0cGVyc29uLHBob25lX251bWJlcixtb2JpbGVfbnVtYmVyLGVtYWlsLHN0cmVldCxzdHJlZXRfbnVtYmVyLHN0cmVldF9udW1iZXJfZXh0ZW5zaW9uLHppcGNvZGUsY2l0eSxjb3VudHJ5LHByb2R1Y3RfMTAzMyxwcm9kdWN0XzI3MzYsdXNlcl9pZCxkYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29yczo6Y2xhc3MsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LFJvYmJpbiBQbG9lZ2VyLHNjYXNkYSwwNjM2MzQ1NDg0LCxyb2JicGxvQGdtYWlsLmNvbSxDYW5uZW5idXJnIDE3LDEyLCwxODIzSFAsQWxrbWFhcixOTCw3LDEsYzU4ZGJhZDY1ZjU4MTFlOWIxNWM3MWJhOTY2ZDQ3MjYsMjAxOS0wNC0xNVQxMjoyOTozMi43OTQxMzdaCg==</text>
+        <text encoding="base64">ICAgICAgICBDb3JzOjpjbGFzcywK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -355,10 +363,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Um9iYmluIFBsb2VnZXIsYXNkLDA2MzYzNDU0ODQsLHJvYmJwbG9AZ21haWwuY29tLENhbm5lbmJ1cmcgMTcsMTIsLDE4MjNIUCxBbGttYWFyLE5MLDcsMSxjNThkYmFkNjVmNTgxMWU5YjE1YzcxYmE5NjZkNDcyNiwyMDE5LTA0LTE1VDEyOjA1OjA5LjM0OTMzMloK</text>
+        <text encoding="base64">ICAgICAgICBDb3JzOjpjbGFzcywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>s/qty_order/id/g</text>
