@@ -9,12 +9,6 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Product.php" timestamp="1555315047736">
-        <mark key="'" line="81" column="8" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Generator.php" timestamp="1554971822212">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -185,7 +179,6 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/storage/app/orders/1555331372_c58dbad65f5811e9b15c71ba966d4726.json" timestamp="1555332593294" />
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/NumberField.vue" timestamp="1551943858155">
         <mark key="[" line="18" column="17" />
         <mark key="]" line="18" column="24" />
@@ -257,11 +250,16 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/apotheker/app/Policies/ContractPolicy.php" timestamp="1555402976509" />
       <file name="$USER_HOME$/Projects/bij.boehringer/api/File/Http/Controllers/FileController.php" timestamp="1553171365775">
         <mark key="[" line="20" column="18" />
         <mark key="]" line="16" column="44" />
         <mark key="." line="16" column="44" />
         <mark key="^" line="16" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/apotheker/app/Policies/CreditClaimPolicy.php" timestamp="1555403390190">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="41" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductList.vue" timestamp="1553174048436">
         <mark key="[" line="88" column="0" />
@@ -319,9 +317,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/Filters/ProductCategoryFilter.php" timestamp="1554900897766">
-        <mark key="[" line="20" column="54" />
-      </file>
       <file name="$USER_HOME$/Projects/bij.boehringer/database/migrations/2019_03_20_135010_add_type_column_to_products_table.php" timestamp="1553090815589">
         <mark key="[" line="28" column="38" />
         <mark key="]" line="28" column="35" />
@@ -365,6 +360,12 @@
         <mark key="." line="17" column="25" />
         <mark key="^" line="16" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/apotheker/app/Policies/BasePolicy.php" timestamp="1555403363562">
+        <mark key="[" line="11" column="48" />
+        <mark key="]" line="11" column="47" />
+        <mark key="^" line="11" column="47" />
+        <mark key="." line="11" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/amsterdambeautiful/src/Client.php" timestamp="1551877649539">
         <mark key="[" line="385" column="68" />
         <mark key="]" line="385" column="72" />
@@ -395,7 +396,6 @@
         <mark key="." line="16" column="11" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php" timestamp="1555319986183" />
       <file name="$USER_HOME$/Projects/materialen/app/Observers/ProductObserver.php" timestamp="1552575958672">
         <mark key="[" line="18" column="17" />
         <mark key="]" line="19" column="19" />
@@ -603,8 +603,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="11" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Http/Middleware/VerifyCsrfToken.php" timestamp="1555318677026">
-        <mark key="[" line="21" column="11" />
+      <file name="$USER_HOME$/Projects/auth.smit/.gitignore" timestamp="1555403283977">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Http/Controllers/SchemaController.php" timestamp="1552912801135">
         <mark key="[" line="18" column="14" />
@@ -629,6 +632,11 @@
         <mark key="]" line="18" column="29" />
         <mark key="^" line="18" column="29" />
         <mark key="." line="18" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/auth.smit/app/Policies/BasePolicy.php" timestamp="1555403318447">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Attribute.php" timestamp="1555060032073">
         <mark key="[" line="6" column="0" />
@@ -660,16 +668,12 @@
         <mark key="^" line="13" column="4" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/resources/views/checkout_success.blade.php" timestamp="1555084521439">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/finish-building/composer.json" timestamp="1552472459397">
         <mark key="[" line="31" column="13" />
         <mark key="]" line="31" column="18" />
         <mark key="^" line="31" column="18" />
         <mark key="." line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Http/Resources/Product.php" timestamp="1555312744378" />
       <file name="$USER_HOME$/Projects/materialen/config/cors.php" timestamp="1555322756792">
         <mark key="[" line="14" column="29" />
         <mark key="]" line="14" column="29" />
@@ -789,6 +793,12 @@
         <mark key="." line="26" column="99" />
         <mark key="^" line="26" column="127" />
       </file>
+      <file name="$USER_HOME$/Projects/auth.smit/app/Policies/AddressPolicy.php" timestamp="1555403444306">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="20" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/.env.example" timestamp="1555327919101">
         <mark key="[" line="40" column="12" />
         <mark key="]" line="40" column="52" />
@@ -900,43 +910,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVzZXItPmhhc1Blcm1pc3Npb25UbygndmlldyBjcmVkaXQgY2xhaW1zIHJlc291cmNlJyk7Cg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>cart</text>
+        <text encoding="base64">JHVzZXItPmhhc1Blcm1pc3Npb25UbygndmlldyBjcmVkaXQgY2xhaW1zIHJlc291cmNlJyk7</text>
       </register>
       <register name="/" type="4">
         <text>code</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkY2FydCA9IENvb2tpZTo6Z2V0KCdjYXJ0Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVzZXItPmhhc1Blcm1pc3Npb25UbygndmlldyBjcmVkaXQgY2xhaW1zIHJlc291cmNlJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHVzZXJJZCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHVzZSBIYW5kbGVzQXV0aG9yaXphdGlvbjsKCiAgICAvKioKICAgICAqIENyZWF0ZSBhIG5ldyBwb2xpY3kgaW5zdGFuY2UuCiAgICAgKgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgpCiAgICB7CiAgICAgICAgLy8KICAgIH0=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlcklkID0gJHJlcXVlc3QtPmhlYWRlcigneC11c2VyaWQnKTsK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQXV0aFxBY2Nlc3NcSGFuZGxlc0F1dGhvcml6YXRpb247Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlcklkID0gJHJlcXVlc3QtPmhlYWRlcigneC11c2VyaWQnKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgpCiAgICB7CiAgICAgICAgLy8KICAgIH0=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -951,10 +961,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIERvbWFpblxUZW5hbnRcQWNjb3VudFxNb2RlbHNcVXNlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJlPnt7JGVycm9yc319PC9wcmU+Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIENyZWF0ZSBhIG5ldyBwb2xpY3kgaW5zdGFuY2UuCiAgICAgKgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>s/qty_order/id/g</text>
