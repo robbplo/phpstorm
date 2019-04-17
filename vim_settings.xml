@@ -26,20 +26,10 @@
       <file name="/a.dummy" timestamp="1555424098139">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/auth.smit/app/Policies/DataSourcePolicy.php" timestamp="1555407573983">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="6" />
-        <mark key="." line="6" column="6" />
-      </file>
       <file name="$USER_HOME$/Projects/auth.smit/app/Policies/OAuthRefreshTokenPolicy.php" timestamp="1555407761061">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="7" />
         <mark key="." line="6" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/auth.smit/app/Policies/UserPolicy.php" timestamp="1555407831721">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="6" />
-        <mark key="." line="6" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/auth.smit/app/Policies/ProfessionPolicy.php" timestamp="1555407799836">
         <mark key="[" line="6" column="7" />
@@ -50,11 +40,6 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Http/Kernel.php" timestamp="1555419389814">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="20" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/events/store/index.js" timestamp="1554299282382">
         <mark key="[" line="23" column="21" />
@@ -99,17 +84,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/resources/views/partslist/header.blade.php" timestamp="1554734826306">
-        <mark key="[" line="0" column="90" />
-        <mark key="]" line="0" column="95" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Http/Controllers/ProductController.php" timestamp="1555423772328">
-        <mark key="[" line="27" column="33" />
-        <mark key="]" line="27" column="39" />
-        <mark key="^" line="27" column="39" />
-        <mark key="." line="27" column="39" />
-      </file>
       <file name="$USER_HOME$/Projects/auth.smit/app/Policies/ProfessionAssociationPolicy.php" timestamp="1555407818181">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="6" />
@@ -120,6 +94,86 @@
         <mark key="]" line="6" column="19" />
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/auth.smit/app/Policies/OAuthClientPolicy.php" timestamp="1555407720394">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+        <mark key="^" line="6" column="23" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1555076070661">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/auth.smit/app/Policies/OAuthPersonalAccessClientPolicy.php" timestamp="1555407743664">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="8" />
+        <mark key="." line="6" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Console/Commands/CacheProducts.php" timestamp="1555423745840">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="48" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/auth.smit/app/Policies/LoginCodePolicy.php" timestamp="1555407618540">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/auth.smit/app/Policies/UserAttributePolicy.php" timestamp="1555407845575">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="^" line="6" column="9" />
+        <mark key="." line="6" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/database/migrations/2019_04_04_134852_store_overhead_doors_as_json.php" timestamp="1554884989834">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/auth.smit/routes/api.php" timestamp="1555482364215">
+        <mark key="'" line="17" column="22" />
+        <mark key="[" line="17" column="53" />
+        <mark key="]" line="17" column="53" />
+        <mark key="." line="17" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/auth.smit/app/Policies/DataSourcePolicy.php" timestamp="1555407573983">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/auth.smit/app/Policies/UserPolicy.php" timestamp="1555407831721">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/auth.smit/api/v1/Account/Resources/ProfessionResource.php" timestamp="1555482430417">
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+        <mark key="^" line="17" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Http/Kernel.php" timestamp="1555419389814">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="20" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/auth.smit/api/v1/Account/Controllers/ProfessionController.php" timestamp="1555482034377">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="8" column="28" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/resources/views/partslist/header.blade.php" timestamp="1554734826306">
+        <mark key="[" line="0" column="90" />
+        <mark key="]" line="0" column="95" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Http/Controllers/ProductController.php" timestamp="1555423772328">
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="27" column="39" />
+        <mark key="^" line="27" column="39" />
+        <mark key="." line="27" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/config/cors.php" timestamp="1555420165154">
         <mark key="[" line="43" column="26" />
@@ -145,27 +199,11 @@
         <mark key="." line="6" column="20" />
         <mark key="^" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/auth.smit/app/Policies/OAuthClientPolicy.php" timestamp="1555407720394">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="23" />
-        <mark key="^" line="6" column="23" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1555076070661">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/auth.smit/app/Policies/AdministratorPolicy.php" timestamp="1555407512311">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="10" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/auth.smit/app/Policies/OAuthPersonalAccessClientPolicy.php" timestamp="1555407743664">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="8" />
-        <mark key="." line="6" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Nova/Product.php" timestamp="1555424324765">
         <mark key="[" line="77" column="0" />
@@ -179,22 +217,7 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Console/Commands/CacheProducts.php" timestamp="1555423745840">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="48" column="18" />
-      </file>
       <file name="$USER_HOME$/Projects/materialen-pwa/store/modules/auth.js" timestamp="1555420646235" />
-      <file name="$USER_HOME$/Projects/auth.smit/app/Policies/LoginCodePolicy.php" timestamp="1555407618540">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="6" />
-        <mark key="." line="6" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/auth.smit/app/Policies/UserAttributePolicy.php" timestamp="1555407845575">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="6" />
-        <mark key="^" line="6" column="9" />
-        <mark key="." line="6" column="6" />
-      </file>
       <file name="$USER_HOME$/Projects/auth.smit/app/Policies/OAuthAccessTokenPolicy.php" timestamp="1555407656694">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="6" />
@@ -217,11 +240,6 @@
         <mark key="]" line="195" column="0" />
         <mark key="." line="195" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/database/migrations/2019_04_04_134852_store_overhead_doors_as_json.php" timestamp="1554884989834">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/materialen-csv/index.js" timestamp="1555415450730">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="27" column="48" />
@@ -237,7 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Building.php" />
       <jump line="24" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/RoofWindows.php" />
       <jump line="152" column="27" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Building.php" />
       <jump line="242" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Building.php" />
@@ -337,46 +354,47 @@
       <jump line="27" column="0" filename="$USER_HOME$/Projects/materialen-csv/index.js" />
       <jump line="74" column="19" filename="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" />
       <jump line="10" column="4" filename="$USER_HOME$/Projects/materialen/app/Enums/UserRole.php" />
+      <jump line="17" column="22" filename="$USER_HOME$/Projects/auth.smit/routes/api.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRleHQ6Om1ha2UoJ1NhbGUgcHJpY2UnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAvLyAgICAgcmV0dXJuICR0aGlzLT5zYWxlUHJpY2UoKSA/PyAn4oCUJzsKICAgICAgICAgICAgICAgIC8vIH0pLAogICAgICAgICAgICAgICAgLy8gVGV4dDo6bWFrZSgnUHVyY2hhc2UgcHJpY2UnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAvLyAgICAgcmV0dXJuICR0aGlzLT5wdXJjaGFzZVByaWNlKCkgPz8gJ+KAlCc7CiAgICAgICAgICAgICAgICAvLyB9KSwK</text>
+      <register name="&quot;" type="4">
+        <text>uu</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>OptionTwo</text>
+        <text>uu</text>
       </register>
       <register name="/" type="4">
-        <text>1</text>
+        <text>U</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFJvbGUxID0gMTsK</text>
+        <text encoding="base64">ICAgICAgICBSb3V0ZTo6Z2V0KCcvbWUnLCBbXEFwaVxWMVxBY2NvdW50XENvbnRyb2xsZXJzXFVzZXJDb250cm9sbGVyOjpjbGFzcywgJ2luZGV4J10pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRleHQ6Om1ha2UoJ1NhbGUgcHJpY2UnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAvLyAgICAgcmV0dXJuICR0aGlzLT5zYWxlUHJpY2UoKSA/PyAn4oCUJzsKICAgICAgICAgICAgICAgIC8vIH0pLAogICAgICAgICAgICAgICAgLy8gVGV4dDo6bWFrZSgnUHVyY2hhc2UgcHJpY2UnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAvLyAgICAgcmV0dXJuICR0aGlzLT5wdXJjaGFzZVByaWNlKCkgPz8gJ+KAlCc7CiAgICAgICAgICAgICAgICAvLyB9KSwK</text>
+        <text encoding="base64">ICAgICAgICBSb3V0ZTo6Z2V0KCcvJywgW10pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IE9wdGlvblRocmVlID0gMjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgJ2luaXRpYWxzJyAgICAgICAgID0+ICR0aGlzLT5pbml0aWFscywKICAgICAgICAgICAgJ2ZpcnN0X25hbWUnICAgICAgID0+ICR0aGlzLT5maXJzdF9uYW1lLAogICAgICAgICAgICAnbGFzdF9uYW1lX3ByZWZpeCcgPT4gJHRoaXMtPmxhc3RfbmFtZV9wcmVmaXgsCiAgICAgICAgICAgICdsYXN0X25hbWUnICAgICAgICA9PiAkdGhpcy0+bGFzdF9uYW1lLAogICAgICAgICAgICAnZW1haWwnICAgICAgICAgICAgPT4gJHRoaXMtPmVtYWlsLAogICAgICAgICAgICAndXNlcl9tZXRhZGF0YScgPT4gWwogICAgICAgICAgICAgICAgJ3JvbGVzJyAgICAgICA9PiAkdGhpcy0+d2hlbkxvYWRlZCgncm9sZXMnLCAkdGhpcy0+cm9sZXMtPnBsdWNrKCduYW1lJykpLAogICAgICAgICAgICAgICAgJ3Byb2Zlc3Npb25zJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgJ3R5cCcgPT4gJHRoaXMtPndoZW5Mb2FkZWQoJ3Byb2Zlc3Npb25zJywgJHRoaXMtPnByb2Zlc3Npb25zLT5wbHVjaygndHlwX2xvY2FsZScsICd0eXBfY29kZScpKSwKICAgICAgICAgICAgICAgICAgICAnc3AnICA9PiAkdGhpcy0+d2hlbkxvYWRlZCgncHJvZmVzc2lvbnMnLCAkdGhpcy0+cHJvZmVzc2lvbnMtPnBsdWNrKCdzcF9sb2NhbGUnLCAnc3BfY29kZScpKSwKICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAnYXR0cmlidXRlcycgID0+ICR0aGlzLT53aGVuTG9hZGVkKCd1c2VyQXR0cmlidXRlcycsICR0aGlzLT51c2VyQXR0cmlidXRlcy0+cGx1Y2soJ2F0dHJpYnV0ZV92YWx1ZScsICdhdHRyaWJ1dGUubmFtZScpKSwKCiAgICAgICAgICAgICAgICAnbG9jYWxlJyAgID0+ICR0aGlzLT5sb2NhbGUsCiAgICAgICAgICAgICAgICAndGltZXpvbmUnID0+ICR0aGlzLT50aW1lem9uZSwKCiAgICAgICAgICAgICAgICAnYWRkcmVzcycgPT4gJHRoaXMtPndoZW5Mb2FkZWQoJ2FkZHJlc3NlcycsICR0aGlzLT5hZGRyZXNzZXMtPm1hcChmdW5jdGlvbiAoJGFkZHJlc3MpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAgICAgICAgICAgICAnb3JnYW5pemF0aW9uJyA9PiAkYWRkcmVzcy0+b3JnX25hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICdwb3N0Y29kZScgICAgICAgICAgPT4gJGFkZHJlc3MtPnBvc3Rjb2RlLAogICAgICAgICAgICAgICAgICAgICAgICAnYWRkcmVzcycgICAgICAgICAgID0+ICRhZGRyZXNzLT5hZGRyZXNzLAogICAgICAgICAgICAgICAgICAgICAgICAnY2l0eScgICAgICAgICAgICAgID0+ICRhZGRyZXNzLT5jaXR5LAogICAgICAgICAgICAgICAgICAgICAgICAnY291bnRyeScgICAgICAgICAgID0+ICRhZGRyZXNzLT5jb3VudHJ5LAogICAgICAgICAgICAgICAgICAgIF07CiAgICAgICAgICAgICAgICB9KS0+Zmlyc3QoKSksCiAgICAgICAgICAgIF0sCgogICAgICAgICAgICAnYXBwX21ldGFkYXRhJyA9PiBbCiAgICAgICAgICAgICAgICAnc2NvcGVzJyA9PiAkcmVxdWVzdC0+c2NvcGVzID8/IFtdLAogICAgICAgICAgICBdLAovLyAgICAgICAgICAgICdjcmVhdGVkX2F0JyAgID0+ICFpc19udWxsKCR0aGlzLT5jcmVhdGVkX2F0KSA/ICR0aGlzLT5jcmVhdGVkX2F0LT50b0lzbzg2MDFadWx1U3RyaW5nKCkgOiBudWxsLAovLyAgICAgICAgICAgICd1cGRhdGVkX2F0JyAgID0+ICFpc19udWxsKCR0aGlzLT51cGRhdGVkX2F0KSA/ICR0aGlzLT51cGRhdGVkX2F0LT50b0lzbzg2MDFadWx1U3RyaW5nKCkgOiBudWxsLAovLyAgICAgICAgICAgICdkZWxldGVkX2F0JyAgID0+ICFpc19udWxsKCR0aGlzLT5kZWxldGVkX2F0KSA/ICR0aGlzLT5kZWxldGVkX2F0LT50b0lzbzg2MDFadWx1U3RyaW5nKCkgOiBudWxsLA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBAdG9kbyByZXBsYWNlICcxJyB3aXRoIHVzZXJfaWQK</text>
+        <text encoding="base64">dXNlIEFwaVx2MVxBY2NvdW50XFJlc291cmNlc1xVc2VyUmVzb3VyY2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkeCk7CgoK</text>
+        <text encoding="base64">dXNlIEFwaVxWMVxBY2NvdW50XFJlcXVlc3RzXFVzZXJJbmRleFJlcXVlc3Q7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlcklkID0gJHJlcXVlc3QtPmhlYWRlcigneC11c2VyaWQnKTsK</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIGZ1bmN0aW9uIHNob3coUmVxdWVzdCAkcmVxdWVzdCkKLy8gICAgewovLyAgICAgICAgJHVzZXIgPSBVc2VyOjp3aXRoKFsndXNlckF0dHJpYnV0ZXMnLCAnXSkKLy8gICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2h0dHA6Ly9sb2NhbGhvc3Q6MzAwMCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRleHQ6Om1ha2UoJ1NhbGUgcHJpY2UnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAvLyAgICAgcmV0dXJuICR0aGlzLT5zYWxlUHJpY2UoKSA/PyAn4oCUJzsKICAgICAgICAgICAgICAgIC8vIH0pLAogICAgICAgICAgICAgICAgLy8gVGV4dDo6bWFrZSgnUHVyY2hhc2UgcHJpY2UnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAvLyAgICAgcmV0dXJuICR0aGlzLT5wdXJjaGFzZVByaWNlKCkgPz8gJ+KAlCc7CiAgICAgICAgICAgICAgICAvLyB9KSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -391,19 +409,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJyonLAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IE9wdGlvblRocmVlID0gMjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Y29yc1Byb2ZpbGUtPmlzQWxsb3dlZCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
       </register>
     </registers>
     <search>
-      <last-search>1</last-search>
+      <last-search>U</last-search>
       <last-offset />
-      <last-pattern>1</last-pattern>
+      <last-pattern>U</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -411,7 +429,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fields</entry>
         <entry>belon</entry>
         <entry>Blo</entry>
         <entry>Belo</entry>
@@ -431,6 +448,7 @@
         <entry>con</entry>
         <entry>x</entry>
         <entry>1</entry>
+        <entry>U</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2luZGV4L29wdGlvbkluZGV4L2c=</entry>
