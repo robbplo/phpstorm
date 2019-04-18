@@ -33,6 +33,11 @@
       <file name="/a.dummy" timestamp="1555491861310">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/routes/web.php" timestamp="1555489477422">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/api/v1/Requests/SetCartRequest.php" timestamp="1555490795224">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="11" />
@@ -94,11 +99,10 @@
         <mark key="]" line="76" column="34" />
         <mark key="." line="68" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/api/v1/Middleware/SmitAuth.php" timestamp="1555502129187">
-        <mark key="[" line="33" column="36" />
-        <mark key="]" line="33" column="36" />
-        <mark key="^" line="33" column="36" />
-        <mark key="." line="33" column="36" />
+      <file name="$USER_HOME$/Projects/materialen/api/v1/Middleware/SmitAuth.php" timestamp="1555567559879">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/ResourceTableRow.vue" timestamp="1554803565561">
         <mark key="[" line="29" column="0" />
@@ -200,11 +204,19 @@
         <mark key="." line="58" column="38" />
         <mark key="^" line="58" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/api/v1/Controllers/Controller.php" timestamp="1555488541232">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/auth.smit/api/v1/Account/Controllers/ProfessionController.php" timestamp="1555482034377">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="8" column="28" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen-pwa/.nuxt/axios.js" timestamp="1555567287301">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/partslist/header.blade.php" timestamp="1554734826306">
         <mark key="[" line="0" column="90" />
@@ -326,7 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="50" filename="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Quotation.php" />
       <jump line="38" column="4" filename="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Quotation.php" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/finish-building/app/Http/Controllers/OfferController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/.env" />
@@ -426,46 +437,47 @@
       <jump line="44" column="66" filename="$USER_HOME$/Projects/materialen/api/v1/Controllers/ProductController.php" />
       <jump line="26" column="70" filename="$USER_HOME$/Projects/materialen/routes/api.php" />
       <jump line="81" column="19" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/materialen-pwa/.nuxt/axios.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FkZHJlc3NfZGVsaXZlcnkucGhvbmVfbnVtYmVyJyA9PiAnVGVsZWZvb25udW1tZXInLAogICAgICAgICAgICAnYWRkcmVzc19kZWxpdmVyeS5tb2JpbGVfbnVtYmVyJyA9PiAnTW9iaWVsIHRlbGVmb29ubnVtbWVyJywK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>Contactpersoon</text>
+        <text>auth</text>
       </register>
       <register name="/" type="4">
-        <text>post</text>
+        <text>then</text>
       </register>
       <register name="0" type="4">
-        <text>data.*.id</text>
+        <text encoding="base64">ZXhwbG9kZSgnICcsICRyZXF1ZXN0LT5oZWFkZXIoJ0F1dGhvcml6YXRpb24nKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FkZHJlc3NfZGVsaXZlcnkucGhvbmVfbnVtYmVyJyA9PiAnVGVsZWZvb25udW1tZXInLAogICAgICAgICAgICAnYWRkcmVzc19kZWxpdmVyeS5tb2JpbGVfbnVtYmVyJyA9PiAnTW9iaWVsIHRlbGVmb29ubnVtbWVyJywK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAncmVmZXJlbmNlJyA9PiAnJywKLy8gICAgICAgICAgICAnc2hpcHBlcicgPT4gJycsCi8vICAgICAgICAgICAgJ2RhdGUnID0+ICcnLAovLyAgICAgICAgICAgICdkZWxpdmVyeV9kYXRlJyA9PiAnJywKLy8gICAgICAgICAgICAnZGVsaXZlcnlfbW9kZScgPT4gJycsCi8vICAgICAgICAgICAgJ2lkX2NoZWNrJyA9PiAnJywKLy8gICAgICAgICAgICAnd2Vic2hvcCcgPT4gJycsCi8vICAgICAgICAgICAgJ2xhbmd1YWdlJyA9PiAnJywKICAgICAgICAgICAgJ21lbW9fdGV4dCcgPT4gJ09wbWVya2luZycsCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FkZHJlc3NfZGVsaXZlcnkucGhvbmVfbnVtYmVyJyA9PiAnVGVsZWZvb25udW1tZXInLAogICAgICAgICAgICAnYWRkcmVzc19kZWxpdmVyeS5tb2JpbGVfbnVtYmVyJyA9PiAnTW9iaWVsIHRlbGVmb29ubnVtbWVyJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAncmVmZXJlbmNlJyA9PiAnJywKLy8gICAgICAgICAgICAnc2hpcHBlcicgPT4gJycsCi8vICAgICAgICAgICAgJ2RhdGUnID0+ICcnLAovLyAgICAgICAgICAgICdkZWxpdmVyeV9kYXRlJyA9PiAnJywKLy8gICAgICAgICAgICAnZGVsaXZlcnlfbW9kZScgPT4gJycsCi8vICAgICAgICAgICAgJ2lkX2NoZWNrJyA9PiAnJywKLy8gICAgICAgICAgICAnd2Vic2hvcCcgPT4gJycsCi8vICAgICAgICAgICAgJ2xhbmd1YWdlJyA9PiAnJywKICAgICAgICAgICAgJ21lbW9fdGV4dCcgPT4gJ09wbWVya2luZycsCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHBhcmVudDo6cmVuZGVyKCRyZXF1ZXN0LCAkZXhjZXB0aW9uKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vCiAgICAvLyBwcm90ZWN0ZWQgZnVuY3Rpb24gZmFpbGVkVmFsaWRhdGlvbihWYWxpZGF0b3IgJHZhbGlkYXRvcikKICAgIC8vIHsKICAgIC8vICAgICByZXR1cm4gYWJvcnQoNDIyKTsKICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHBhcmVudDo6cmVuZGVyKCRyZXF1ZXN0LCAkZXhjZXB0aW9uKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBwYXJlbnQ6OnJlbmRlcigkcmVxdWVzdCwgJGV4Y2VwdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgIC8vCiAgICAvLyBwcm90ZWN0ZWQgZnVuY3Rpb24gZmFpbGVkVmFsaWRhdGlvbihWYWxpZGF0b3IgJHZhbGlkYXRvcikKICAgIC8vIHsKICAgIC8vICAgICByZXR1cm4gYWJvcnQoNDIyKTsKICAgIC8vIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRleGNlcHRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBwYXJlbnQ6OnJlbmRlcigkcmVxdWVzdCwgJGV4Y2VwdGlvbik7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -480,27 +492,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGV4Y2VwdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRleGNlcHRpb24pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRleGNlcHRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGV4Y2VwdGlvbik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
       </register>
     </registers>
     <search>
-      <last-search>post</last-search>
+      <last-search>then</last-search>
       <last-offset />
-      <last-pattern>post</last-pattern>
+      <last-pattern>then</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>es</entry>
         <entry>name</entry>
         <entry>&quot;</entry>
         <entry>value</entry>
@@ -520,6 +531,7 @@
         <entry>tar</entry>
         <entry>store</entry>
         <entry>post</entry>
+        <entry>then</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2luZGV4L29wdGlvbkluZGV4L2c=</entry>
