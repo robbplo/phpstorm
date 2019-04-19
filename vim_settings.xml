@@ -208,6 +208,11 @@
         <mark key="." line="78" column="85" />
         <mark key="^" line="78" column="85" />
       </file>
+      <file name="$USER_HOME$/Projects/apotheker/routes/web.php" timestamp="1555679369341">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/database/migrations/2019_04_04_134852_store_overhead_doors_as_json.php" timestamp="1554884989834">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -231,6 +236,12 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/apotheker/.env" timestamp="1555679291332">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/auth.smit/app/Policies/DataSourcePolicy.php" timestamp="1555407573983">
         <mark key="[" line="6" column="6" />
@@ -274,6 +285,12 @@
         <mark key="]" line="779" column="66" />
         <mark key="." line="779" column="66" />
         <mark key="^" line="779" column="66" />
+      </file>
+      <file name="$USER_HOME$/Projects/apotheker/config/logging.php" timestamp="1555679251010">
+        <mark key="[" line="38" column="34" />
+        <mark key="]" line="38" column="43" />
+        <mark key="^" line="38" column="43" />
+        <mark key="." line="38" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/nova-components/Multiselect/src/Multiselect.php" timestamp="1555589012295">
         <mark key="'" line="4" column="29" />
@@ -444,7 +461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="9" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/CacheProducts.php" />
       <jump line="17" column="4" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/CacheProducts.php" />
       <jump line="32" column="4" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
       <jump line="147" column="54" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
@@ -544,16 +560,17 @@
       <jump line="81" column="33" filename="$USER_HOME$/Projects/auth.smit/config/app.php" />
       <jump line="94" column="36" filename="$USER_HOME$/Projects/auth.smit/config/app.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/auth.smit/.env" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/apotheker/.env" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCdUZXN0IDInKTsK</text>
+        <text encoding="base64">dXNlIEJ1Z3NuYWdcQnVnc25hZ0xhcmF2ZWxcRmFjYWRlc1xCdWdzbmFnOwo=</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>Error</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>prov</text>
@@ -562,28 +579,28 @@
         <text>new RuntimeException('Test Error');</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCdUZXN0IDInKTsK</text>
+        <text encoding="base64">dXNlIEJ1Z3NuYWdcQnVnc25hZ0xhcmF2ZWxcRmFjYWRlc1xCdWdzbmFnOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCdUZXN0IEVycm9yJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIEJ1Z3NuYWc6Om5vdGlmeUV4Y2VwdGlvbihuZXcgUnVudGltZUV4Y2VwdGlvbignVGVzdCBFcnJvcicpKTsK</text>
+        <text encoding="base64">ICAgIEJ1Z3NuYWc6Om5vdGlmeUV4Y2VwdGlvbihuZXcgXFJ1bnRpbWVFeGNlcHRpb24oIlRlc3QgZXJyb3IiKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QlVHU05BR19BUElfS0VZPTYzODg4MTJkN2Y0ZjQ1MGFkZmViNDQ2ZmY0Yjg3NWYxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEJ1Z3NuYWdcQnVnc25hZ0xhcmF2ZWxcRmFjYWRlc1xCdWdzbmFnOwo=</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCdUZXN0IDInKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCdUZXN0IEVycm9yJyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -598,10 +615,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIC8vIEJ1Z3NuYWc6Om5vdGlmeUV4Y2VwdGlvbihuZXcgUnVudGltZUV4Y2VwdGlvbignVGVzdCBFcnJvcicpKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2xldC9jb25zdC9n</text>
