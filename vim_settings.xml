@@ -50,6 +50,11 @@
         <mark key="]" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/apotheker/app/Console/Commands/GenerateCreditClaims.php" timestamp="1556022489477">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/auth.smit/app/Policies/ProfessionPolicy.php" timestamp="1555407799836">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="7" />
@@ -249,11 +254,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/apotheker/.env" timestamp="1555679291332">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Projects/apotheker/.env" timestamp="1556022501534">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/auth.smit/app/Policies/DataSourcePolicy.php" timestamp="1555407573983">
         <mark key="[" line="6" column="6" />
@@ -463,6 +468,12 @@
         <mark key="]" line="30" column="74" />
         <mark key="." line="30" column="74" />
       </file>
+      <file name="$USER_HOME$/Projects/apotheker/resources/js/components/RefreshCountdown.vue" timestamp="1556023285819">
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="5" column="38" />
+        <mark key="." line="5" column="38" />
+        <mark key="^" line="5" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/footer.blade.php" timestamp="1554809643482">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -481,7 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="4" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/CacheProducts.php" />
       <jump line="32" column="4" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
       <jump line="147" column="54" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
       <jump line="157" column="27" filename="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" />
@@ -581,46 +591,47 @@
       <jump line="94" column="36" filename="$USER_HOME$/Projects/auth.smit/config/app.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/auth.smit/.env" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/apotheker/.env" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/apotheker/.env" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Geen interesse</text>
+        <text>input</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>Geen interesse</text>
+        <text>input</text>
       </register>
       <register name="/" type="4">
-        <text>prov</text>
+        <text>data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMucGhvbmVfbnVtYmVyID0gcGhvbmVfbnVtYmVyOwogICAgdGhpcy5jb3VudHJ5ID0gY291bnRyeTsKICAgIHRoaXMucHJvdmluY2UgPSBwcm92aW5jZTsKICAgIHRoaXMuc3RyZWV0X25hbWUgPSBzdHJlZXRfbmFtZTsKICAgIHRoaXMuc3RyZWV0X251bWJlciA9IHN0cmVldF9udW1iZXI7CiAgICB0aGlzLnBvc3RhbF9jb2RlID0gcG9zdGFsX2NvZGU7CiAgICB0aGlzLmNpdHkgPSBjaXR5OwogICAgdGhpcy5jb21tZW50cyA9IGNvbW1lbnRzOwo=</text>
+        <text encoding="base64">ICA8aW5wdXQgdHlwZT0idGV4dCIgdi1tb2RlbD0idGVzdCIgPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0idWstYWxlcnQtd2FybmluZyB1ay1wYWRkaW5nLXNtYWxsIHVrLW1hcmdpbi1sYXJnZS1ib3R0b20iCiAgICAgICAgdi1pZj0iJHN0b3JlLmdldHRlcnMuaGFzUHJlZmVyZW5jZXMiPgogICAgICAgIDxzdHJvbmc+TGV0IG9wOjwvc3Ryb25nPiBFciBpcyByZWVkcyBlZW4gYWFubWVsZGluZyBvbnR2YW5nZW4gdm9vciBkaXQgZXZlbmVtZW50IG1ldCBkaXQgZS1tYWlsYWRyZXMuIEFscyB1IGhldAogICAgICAgIGZvcm11bGllciBhYW5wYXN0LCB3b3JkdCBkZSBiZXN0YWFuZGUgYWFubWVsZGluZyBvdmVyc2NocmV2ZW4uCiAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIDwhLS0gIDxpbnB1dCB0eXBlPSJ0ZXh0IiB2LW1vZGVsPSJ0ZXN0IiA+LS0+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEJ1Z3NuYWdcQnVnc25hZ0xhcmF2ZWxcRmFjYWRlc1xCdWdzbmFnOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnRpbWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnRpbWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY29udHJhY3RzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEJ1Z3NuYWc6Om5vdGlmeUV4Y2VwdGlvbihuZXcgXFJ1bnRpbWVFeGNlcHRpb24oIlRlc3QgZXJyb3IiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0idWstYWxlcnQtd2FybmluZyB1ay1wYWRkaW5nLXNtYWxsIHVrLW1hcmdpbi1sYXJnZS1ib3R0b20iCiAgICAgICAgdi1pZj0iJHN0b3JlLmdldHRlcnMuaGFzUHJlZmVyZW5jZXMiPgogICAgICAgIDxzdHJvbmc+TGV0IG9wOjwvc3Ryb25nPiBFciBpcyByZWVkcyBlZW4gYWFubWVsZGluZyBvbnR2YW5nZW4gdm9vciBkaXQgZXZlbmVtZW50IG1ldCBkaXQgZS1tYWlsYWRyZXMuIEFscyB1IGhldAogICAgICAgIGZvcm11bGllciBhYW5wYXN0LCB3b3JkdCBkZSBiZXN0YWFuZGUgYWFubWVsZGluZyBvdmVyc2NocmV2ZW4uCiAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QlVHU05BR19BUElfS0VZPTYzODg4MTJkN2Y0ZjQ1MGFkZmViNDQ2ZmY0Yjg3NWYxCg==</text>
+        <text encoding="base64">dXNlIEJ1Z3NuYWdcQnVnc25hZ0xhcmF2ZWxcRmFjYWRlc1xCdWdzbmFnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCdUZXN0IDInKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -635,19 +646,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCdUZXN0IEVycm9yJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEJ1Z3NuYWc6Om5vdGlmeUV4Y2VwdGlvbihuZXcgXFJ1bnRpbWVFeGNlcHRpb24oIlRlc3QgZXJyb3IiKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2xldC9jb25zdC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>prov</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern>prov</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace>const</last-replace>
       <last-substitute>let</last-substitute>
       <last-dir>1</last-dir>
@@ -655,7 +666,6 @@
     </search>
     <history>
       <history-search>
-        <entry>1</entry>
         <entry>U</entry>
         <entry>App</entry>
         <entry>ind</entry>
@@ -675,6 +685,7 @@
         <entry>*</entry>
         <entry>let</entry>
         <entry>prov</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry>s/foundation/margin.g</entry>
