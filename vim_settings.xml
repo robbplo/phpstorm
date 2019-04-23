@@ -326,9 +326,9 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/Offer.js" timestamp="1555670922305">
-        <mark key="[" line="80" column="48" />
-        <mark key="]" line="80" column="48" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/Offer.js" timestamp="1556004178222">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="75" column="29" />
         <mark key="." line="80" column="48" />
         <mark key="^" line="83" column="31" />
       </file>
@@ -564,7 +564,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEJ1Z3NuYWdcQnVnc25hZ0xhcmF2ZWxcRmFjYWRlc1xCdWdzbmFnOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMucGhvbmVfbnVtYmVyID0gcGhvbmVfbnVtYmVyOwogICAgdGhpcy5jb3VudHJ5ID0gY291bnRyeTsKICAgIHRoaXMucHJvdmluY2UgPSBwcm92aW5jZTsKICAgIHRoaXMuc3RyZWV0X25hbWUgPSBzdHJlZXRfbmFtZTsKICAgIHRoaXMuc3RyZWV0X251bWJlciA9IHN0cmVldF9udW1iZXI7CiAgICB0aGlzLnBvc3RhbF9jb2RlID0gcG9zdGFsX2NvZGU7CiAgICB0aGlzLmNpdHkgPSBjaXR5OwogICAgdGhpcy5jb21tZW50cyA9IGNvbW1lbnRzOwo=</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
@@ -575,8 +575,8 @@
       <register name="/" type="4">
         <text>prov</text>
       </register>
-      <register name="0" type="4">
-        <text>new RuntimeException('Test Error');</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRoaXMucGhvbmVfbnVtYmVyID0gcGhvbmVfbnVtYmVyOwogICAgdGhpcy5jb3VudHJ5ID0gY291bnRyeTsKICAgIHRoaXMucHJvdmluY2UgPSBwcm92aW5jZTsKICAgIHRoaXMuc3RyZWV0X25hbWUgPSBzdHJlZXRfbmFtZTsKICAgIHRoaXMuc3RyZWV0X251bWJlciA9IHN0cmVldF9udW1iZXI7CiAgICB0aGlzLnBvc3RhbF9jb2RlID0gcG9zdGFsX2NvZGU7CiAgICB0aGlzLmNpdHkgPSBjaXR5OwogICAgdGhpcy5jb21tZW50cyA9IGNvbW1lbnRzOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNlIEJ1Z3NuYWdcQnVnc25hZ0xhcmF2ZWxcRmFjYWRlc1xCdWdzbmFnOwo=</text>
