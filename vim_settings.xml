@@ -33,6 +33,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="13" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/domain/Sections/BackFacade.php" timestamp="1556096185049">
+        <mark key="[" line="12" column="44" />
+        <mark key="]" line="12" column="44" />
+        <mark key="." line="12" column="44" />
+        <mark key="^" line="12" column="43" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoors.php" timestamp="1554449637907">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -99,6 +105,11 @@
         <mark key="]" line="6" column="18" />
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/domain/Sections/FrontFacade.php" timestamp="1556096170425">
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="12" column="42" />
+        <mark key="." line="12" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/auth.smit/app/Policies/OAuthAuthCodePolicy.php" timestamp="1555407698193">
         <mark key="[" line="6" column="6" />
@@ -553,14 +564,14 @@
       <jump line="40" column="29" filename="$USER_HOME$/Projects/finish-building/domain/Offers/SalesforceMapper.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>eWallHeight</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>strpos($value, 'mm') !== false</text>
+        <text>eWallHeight</text>
       </register>
       <register name="/" type="4">
         <text>field</text>
@@ -569,28 +580,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnODAgbW0nID0+IDMsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxFbnVtc1xQcm9kdWN0VW5pdDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR2YWx1ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRpbnN1bGF0ZWQgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR2YWx1ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFtrZXksIGRlY29kZVVSSUNvbXBvbmVudCh2YWx1ZSldID0gZnJhZy5zcGxpdCgnPScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRpbnN1bGF0ZWQgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFtrZXksICh2YWx1ZSldCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFtrZXksIGRlY29kZVVSSUNvbXBvbmVudCh2YWx1ZSldID0gZnJhZy5zcGxpdCgnPScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFtrZXksICh2YWx1ZSldCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -605,10 +616,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdmFsdWUgPSB1cmxkZWNvZGUoJHZhbHVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdmFsdWUgPSB1cmxkZWNvZGUoJHZhbHVlKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ZpZWxkL2tleS9n</text>
