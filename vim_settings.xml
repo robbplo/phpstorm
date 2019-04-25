@@ -41,11 +41,12 @@
         <mark key="]" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Generator.php" timestamp="1556181540235">
-        <mark key="[" line="51" column="5" />
-        <mark key="]" line="45" column="17" />
-        <mark key="." line="45" column="17" />
-        <mark key="^" line="45" column="17" />
+      <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Generator.php" timestamp="1556191847582">
+        <mark key="'" line="14" column="7" />
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" timestamp="1555579143379">
         <mark key="[" line="186" column="98" />
@@ -241,11 +242,10 @@
         <mark key="." line="19" column="48" />
         <mark key="^" line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" timestamp="1556185855888">
-        <mark key="[" line="38" column="79" />
-        <mark key="]" line="47" column="14" />
-        <mark key="." line="47" column="14" />
-        <mark key="^" line="47" column="14" />
+      <file name="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" timestamp="1556191883422">
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="171" column="0" />
+        <mark key="." line="171" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/api/v1/Controllers/Controller.php" timestamp="1555488541232">
         <mark key="[" line="2" column="13" />
@@ -597,23 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" />
-      <jump line="117" column="23" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
-      <jump line="168" column="36" filename="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" />
-      <jump line="18" column="25" filename="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" />
-      <jump line="259" column="0" filename="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" />
-      <jump line="201" column="0" filename="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" />
-      <jump line="204" column="47" filename="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" />
-      <jump line="209" column="25" filename="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" />
-      <jump line="249" column="17" filename="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" />
-      <jump line="172" column="285" filename="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" />
-      <jump line="167" column="209" filename="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" />
-      <jump line="30" column="0" filename="$USER_HOME$/Projects/materialen/app/Product.php" />
-      <jump line="83" column="8" filename="$USER_HOME$/Projects/materialen/app/Product.php" />
-      <jump line="176" column="70" filename="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" />
-      <jump line="173" column="31" filename="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" />
-      <jump line="165" column="32" filename="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" />
-      <jump line="60" column="26" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
       <jump line="44" column="33" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
       <jump line="56" column="35" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
@@ -697,46 +680,63 @@
       <jump line="395" column="43" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="347" column="18" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/Offer.js" />
+      <jump line="18" column="15" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
+      <jump line="48" column="49" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
+      <jump line="49" column="49" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
+      <jump line="50" column="49" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
+      <jump line="5" column="111" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
+      <jump line="14" column="27" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
+      <jump line="22" column="26" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
+      <jump line="31" column="36" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
+      <jump line="32" column="36" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
+      <jump line="92" column="8" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
+      <jump line="79" column="0" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
+      <jump line="84" column="32" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
+      <jump line="136" column="24" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
+      <jump line="168" column="0" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
+      <jump line="14" column="7" filename="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Generator.php" />
+      <jump line="33" column="12" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
+      <jump line="171" column="20" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwvdGFibGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLWZsZXgtMSBjZWxsIHVrLXRleHQtYm9sZCB1ay10ZXh0LWVtcGhhc2lzIj7igqwgOTkgOTk5LDk5PC9kaXY+Cg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0eWxlPSJwYWdlLWJyZWFrLWluc2lkZTogYXZvaWQ7IGRpc3BsYXk6YmxvY2s7Ig==</text>
+        <text>@price($total)</text>
       </register>
       <register name="/" type="4">
-        <text>thick</text>
+        <text>pr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDx0YWJsZSBjbGFzcz0idWstdGFibGUgdWstdGFibGUtZGl2aWRlciB1ay10YWJsZS1zbWFsbCIgc3R5bGU9ImNvbG9yOiAjMzMzOyI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLWZsZXgtMSBjZWxsIHVrLXRleHQtYm9sZCB1ay10ZXh0LWVtcGhhc2lzIj5AcHJpY2UoJHRvdGFsKTwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvdGFibGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLWZsZXgtMSBjZWxsIHVrLXRleHQtYm9sZCB1ay10ZXh0LWVtcGhhc2lzIj7igqwgOTkgOTk5LDk5PC9kaXY+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0Ym9keSB0cjpudGgtb2YtdHlwZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gJHRoaXMtPmdldFZpZXcoKS0+cmVuZGVyKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0Ym9keSB7CiAgICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgICAgICAgICB3aWR0aDogMTAwJTsKICAgICAgICAgICAgcGFnZS1icmVhay1hZnRlcjogYWx3YXlzOwogICAgICAgICAgICBwYWdlLWJyZWFrLWluc2lkZTogYXZvaWQ7CiAgICAgICAgICAgIHBhZ2UtYnJlYWstYmVmb3JlOiBhdm9pZDsKICAgICAgICB9ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luOiAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLi4uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwvdGFibGU+dAo=</text>
+        <text encoding="base64">ICAgIDx0YWJsZSBjbGFzcz0idWstdGFibGUgdWstdGFibGUtZGl2aWRlciB1ay10YWJsZS1zbWFsbCIgc3R5bGU9ImNvbG9yOiAjMzMzOyI+CiAgICAgICAgPHRyPgogICAgICAgICAgICA8dGggY29sc3Bhbj0iMyI+PC90aD4KICAgICAgICAgICAgPHRoPlN1YnRvdGFhbDwvdGg+CiAgICAgICAgPC90cj4KICAgICAgICA8dHI+CiAgICAgICAgICAgIDx0ZCBjb2xzcGFuPSIzIj48L3RkPgogICAgICAgICAgICA8dGQ+PHN0cm9uZz5AcHJpY2UoJHN1YlRvdGFsKTwvc3Ryb25nPjwvdGQ+CiAgICAgICAgPC90cj4KICAgICAgICA8dHI+CiAgICAgICAgICAgIDx0ZCBjb2xzcGFuPSI0Ij4mbmJzcDs8L3RkPgogICAgICAgIDwvdHI+CiAgICAgICAgPHRyPgogICAgICAgICAgICA8dGQ+V2luc3QgZW4gTWFyZ2U8L3RkPgogICAgICAgICAgICA8dGQ+PC90ZD4KICAgICAgICAgICAgPHRkPjwvdGQ+CiAgICAgICAgICAgIDx0ZD57eyAkb2ZmZXItPm1hcmdpbiB9fSU8L3RkPgogICAgICAgIDwvdHI+CiAgICAgICAgPHRyPgogICAgICAgICAgICA8dGggY29sc3Bhbj0iMyI+PC90aD4KICAgICAgICAgICAgPHRoPlRvdGFhbDwvdGg+CiAgICAgICAgPC90cj4KICAgICAgICA8dHI+CiAgICAgICAgICAgIDx0ZCBjb2xzcGFuPSIzIj48L3RkPgogICAgICAgICAgICA8dGQ+PHN0cm9uZz5AcHJpY2UoJHRvdGFsKTwvc3Ryb25nPjwvdGQ+CiAgICAgICAgPC90cj4KICAgICAgICA8L3Rib2R5PgogICAgPC90YWJsZT4KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8dGJvZHk+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -751,32 +751,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L3Rib2R5Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8dGQ+PC90ZD4KICAgICAgICA8dGQ+PC90ZD4KICAgICAgICA8dGQ+PC90ZD4KICAgICAgICA8dGQ+PC90ZD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKG5ldyBQYXJ0c0xpc3QoJG9mZmVyKSktPmdldFZpZXcoKTsK</text>
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2ZpZWxkL2tleS9n</text>
+        <text encoding="base64">JzwsJz5zLzEwLzEyL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>thick</last-search>
+      <last-search>pr</last-search>
       <last-offset />
-      <last-pattern>thick</last-pattern>
-      <last-replace>key</last-replace>
-      <last-substitute>field</last-substitute>
+      <last-pattern>pr</last-pattern>
+      <last-replace>12</last-replace>
+      <last-substitute>10</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dd</entry>
-        <entry>all</entry>
-        <entry>tar</entry>
-        <entry>store</entry>
-        <entry>post</entry>
-        <entry>then</entry>
         <entry>userId</entry>
         <entry>Coo</entry>
         <entry>bc</entry>
@@ -791,10 +785,14 @@
         <entry>field</entry>
         <entry>frames</entry>
         <entry>thick</entry>
+        <entry>float-left</entry>
+        <entry>1</entry>
+        <entry>cl</entry>
+        <entry>row</entry>
+        <entry>10</entry>
+        <entry>pr</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3Jvb2Zfd2luZG93X2NvdW50L2Fzc2VtYmx5X3ByaWNlL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL2Fzc2VtYmx5X3ByaWNlL21hcmdpbi9n</entry>
         <entry encoding="base64">JzwsJz5zL2FycmF5L2ludC9n</entry>
         <entry encoding="base64">JzwsJz5zL3F0eV9vcmRlci9uYW1l</entry>
         <entry encoding="base64">JzwsJz5zL3F0eV9vcmRlci9uYW1lL2c=</entry>
@@ -813,6 +811,8 @@
         <entry encoding="base64">JzwsJz5zL2xldC9jb25zdC9n</entry>
         <entry>s/offer/data/g</entry>
         <entry encoding="base64">JzwsJz5zL2ZpZWxkL2tleS9n</entry>
+        <entry encoding="base64">JzwsJz5zL2Zsb2F0LWxlZnQvZmxleC0xL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzEwLzEyL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
