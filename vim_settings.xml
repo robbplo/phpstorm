@@ -183,12 +183,12 @@
         <mark key="]" line="19" column="17" />
         <mark key="." line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/domain/Offers/SalesforceMapper.php" timestamp="1556280155819">
-        <mark key="'" line="65" column="40" />
-        <mark key="[" line="63" column="26" />
-        <mark key="]" line="64" column="43" />
-        <mark key="." line="64" column="43" />
-        <mark key="^" line="64" column="43" />
+      <file name="$USER_HOME$/Projects/finish-building/domain/Offers/SalesforceMapper.php" timestamp="1556290692895">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="62" column="43" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/auth.smit/app/Policies/DataSourcePolicy.php" timestamp="1555407573983">
         <mark key="[" line="6" column="6" />
@@ -347,7 +347,7 @@
         <mark key="^" line="19" column="33" />
         <mark key="." line="19" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/package.json" timestamp="1556288973285" />
+      <file name="$USER_HOME$/Projects/finish-building/package.json" timestamp="1556289891733" />
       <file name="$USER_HOME$/Projects/materialen/api/v1/Middleware/SmitAuth.php" timestamp="1555654872775">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -453,7 +453,7 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1556287741112">
+      <file name="/PHP Console" timestamp="1556290299201">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/auth.smit/api/v1/Account/Controllers/ProfessionController.php" timestamp="1555654527304">
@@ -547,8 +547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="25" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
-      <jump line="36" column="0" filename="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" />
       <jump line="13" column="9" filename="$USER_HOME$/Projects/materialen/routes/web.php" />
       <jump line="27" column="66" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/SetCartRequest.php" />
       <jump line="171" column="74" filename="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" />
@@ -647,10 +645,12 @@
       <jump line="8" column="24" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page2.blade.php" />
       <jump line="64" column="40" filename="$USER_HOME$/Projects/finish-building/domain/Offers/SalesforceMapper.php" />
       <jump line="38" column="4" filename="$USER_HOME$/Projects/finish-building/app/Http/Controllers/OfferController.php" />
+      <jump line="23" column="24" filename="$USER_HOME$/Projects/finish-building/domain/Offers/SalesforceMapper.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Offers/SalesforceMapper.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHJldHVybiAkb2ZmZXI7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
@@ -665,28 +665,28 @@
         <text encoding="base64">ICAgICAgICAkcmVxdWVzdFsncmV2aXNpb24nXSA9ICRtYXggKyAxOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdFsncmV2aXNpb24nXSA9ICRtYXggKyAxOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkbWF4ID0gT2ZmZXI6OndoZXJlKCdwcm9qZWN0X251bWJlcicsICRvZmZlci0+cHJvamVjdF9udW1iZXIpLT5tYXgoJ3JldmlzaW9uJyk7Cgo=</text>
+        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxNZXRyaWNzXFZhbHVlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcmQK</text>
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdFsncmV2aXNpb24nXSA9ICRtYXggKyAxOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkb2ZmZXItPgo=</text>
+        <text encoding="base64">ICAgICAgICAkbWF4ID0gT2ZmZXI6OndoZXJlKCdwcm9qZWN0X251bWJlcicsICRvZmZlci0+cHJvamVjdF9udW1iZXIpLT5tYXgoJ3JldmlzaW9uJyk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKHByZWdfc3BsaXQoJycsICR2YWx1ZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gJHRoaXMtPmdldFZpZXcoKS0+cmVuZGVyKCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAkb2ZmZXItPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAncm9vZl9hbmdsZSc6CiAgICAgICAgICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAgICAgICAgICdyb29mX2FuZ2xlJyA9PiBpbnR2YWwoZXhwbG9kZSgnICcsICR2YWx1ZSlbMF0pLAogICAgICAgICAgICAgICAgXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKHByZWdfc3BsaXQoJycsICR2YWx1ZSkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -701,10 +701,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLWZsZXgtMSBjZWxsIHVrLXRleHQtYm9sZCB1ay10ZXh0LWVtcGhhc2lzIj7igqwgOTkgOTk5LDk5PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gJHRoaXMtPmdldFZpZXcoKS0+cmVuZGVyKCk7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gJHRoaXMtPmdldFZpZXcoKS0+cmVuZGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAncm9vZl9hbmdsZSc6CiAgICAgICAgICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAgICAgICAgICdyb29mX2FuZ2xlJyA9PiBpbnR2YWwoZXhwbG9kZSgnICcsICR2YWx1ZSlbMF0pLAogICAgICAgICAgICAgICAgXTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEwLzEyL2c=</text>
