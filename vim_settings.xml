@@ -215,6 +215,9 @@
         <mark key="." line="293" column="21" />
         <mark key="^" line="113" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoorColors.php" timestamp="1556542371278">
+        <mark key="'" line="9" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/nova-components/Multiselect/resources/js/components/FormField.vue" timestamp="1555594071087">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -573,13 +576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="42" filename="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" />
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/materialen/api/v1/Controllers/ProductController.php" />
-      <jump line="98" column="48" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
-      <jump line="141" column="6" filename="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" />
-      <jump line="44" column="66" filename="$USER_HOME$/Projects/materialen/api/v1/Controllers/ProductController.php" />
-      <jump line="26" column="70" filename="$USER_HOME$/Projects/materialen/routes/api.php" />
-      <jump line="81" column="19" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/materialen-pwa/.nuxt/axios.js" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" />
       <jump line="24" column="38" filename="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" />
@@ -673,25 +669,32 @@
       <jump line="21" column="28" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/index.blade.php" />
       <jump line="60" column="0" filename="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Generator.php" />
       <jump line="85" column="12" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/footer.blade.php" />
+      <jump line="14" column="9" filename="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoorColors.php" />
+      <jump line="23" column="8" filename="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoorColors.php" />
+      <jump line="9" column="13" filename="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoorColors.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoorColors.php" />
+      <jump line="20" column="38" filename="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoorColors.php" />
+      <jump line="21" column="43" filename="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoorColors.php" />
+      <jump line="22" column="26" filename="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoorColors.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLypkaXNwbGF5OiBub25lOyovCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>screen</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>scr</text>
+        <text>kleur</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gWzI2LCA1LCAzOSwgNV07Cg==</text>
+        <text encoding="base64">ICAgICAgICAnUkFMOTAxNicgPT4gJ1JBTCA5MDE2IFZlcmtlZXJzd2l0JywKICAgICAgICAnUkFMOTAxMCcgPT4gJ1JBTCA5MDEwIFp1aXZlciB3aXQnLAogICAgICAgICdSQUw5MDA3JyA9PiAnUkFMIDkwMDcgR3JpanNhbHVtaW5pdW0nLAogICAgICAgICdSQUw5MDA2JyA9PiAnUkFMIDkwMDYgV2l0YWx1bWluaXVtJywKICAgICAgICAnUkFMOTAwMicgPT4gJ1JBTCA5MDAyIEdyaWpzd2l0JywKICAgICAgICAnUkFMODAyOCcgPT4gJ1JBTCA4MDI4IFRlcnJhYnJ1aW4nLAogICAgICAgICdSQUw3MDE2JyA9PiAnUkFMIDcwMTYgQW50cmFjaWV0Z3JpanN0JywKICAgICAgICAnUkFMNjAwNScgPT4gJ1JBTCA2MDA1IE1vc2dyb2VuJywKICAgICAgICAnUkFMNTAxMCcgPT4gJ1JBTCA1MDEwIEdlbnRpYWFuYmxhdXcnLAogICAgICAgICdSQUwzMDAwJyA9PiAnUkFMIDMwMDAgVnV1cnJvb2QnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLypkaXNwbGF5OiBub25lOyovCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IFJBTDkwMDAgPSAyOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -700,59 +703,65 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAnUkFMOTAwMCcgPT4gJ1JBTCA5MDAwIGtsZXVyJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAnUkFMOTAwMCcgPT4gJ1JBTCA5MDAwIGtsZXVyJywKICAgICAgICAnUkFMOTAwMCcgPT4gJ1JBTCA5MDAwIGtsZXVyJywKICAgICAgICAnUkFMOTAwMCcgPT4gJ1JBTCA5MDAwIGtsZXVyJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQltYXJnaW46IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAnUkFMOTAwMCcgPT4gJ1JBTCA5MDAwIGtsZXVyJywKICAgICAgICAnUkFMOTE2MCcgPT4gJ1JBTCA5MTYwIFZlcmtlZXJzd2l0JywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb246IHJ1bm5pbmcodGVzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAnJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIEBib3R0b20tY2VudGVyIHsKICAgICAgICAgICAgICAgIGNvbnRlbnQ6IGVsZW1lbnQodGVzdCkKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAnUkFMOTAwMCcgPT4gJ1JBTCA5MDAwIGtsZXVyJwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
-          <key char="73" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
           <key char="106" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZy1ib3R0b206IDkwMHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLypkaXNwbGF5OiBub25lOyovCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1dhbGwvUm9vZg==</text>
+        <text>s/9000/3000/g</text>
       </register>
     </registers>
     <search>
-      <last-search>scr</last-search>
+      <last-search>kleur</last-search>
       <last-offset />
-      <last-pattern>scr</last-pattern>
-      <last-replace>Roof</last-replace>
-      <last-substitute>Wall</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern>kleur</last-pattern>
+      <last-replace>3000</last-replace>
+      <last-substitute>9000</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>offer</entry>
-        <entry>field</entry>
-        <entry>frames</entry>
-        <entry>thick</entry>
-        <entry>float-left</entry>
-        <entry>1</entry>
         <entry>cl</entry>
         <entry>row</entry>
         <entry>10</entry>
@@ -767,14 +776,14 @@
         <entry>page</entry>
         <entry>running</entry>
         <entry>scr</entry>
+        <entry>16</entry>
+        <entry>00</entry>
+        <entry>kle</entry>
+        <entry>9000</entry>
+        <entry>kleir</entry>
+        <entry>kleur</entry>
       </history-search>
       <history-cmd>
-        <entry>s/value/name</entry>
-        <entry encoding="base64">JzwsJz5zL2FydGljbGVfY29kZS9xdHlfb3JkZXIvZw==</entry>
-        <entry>s/article_code/id/g</entry>
-        <entry>s/qty_order/id/g</entry>
-        <entry encoding="base64">JzwsJz5zL3gvcGF5bG9hZA==</entry>
-        <entry>s/1/2/g</entry>
         <entry>s/userId/cart/g</entry>
         <entry encoding="base64">JzwsJz5zL2JjL2VuYy9n</entry>
         <entry>S/'/&quot;/g</entry>
@@ -789,6 +798,12 @@
         <entry encoding="base64">JzwsJz5zL3dhbGwvcm9vZi9naQ==</entry>
         <entry encoding="base64">JzwsJz5zL3dhbGwvcm9vZg==</entry>
         <entry encoding="base64">JzwsJz5zL1dhbGwvUm9vZg==</entry>
+        <entry>s/16/00/g</entry>
+        <entry>s/00/16/g</entry>
+        <entry>s/9000/7016/g</entry>
+        <entry>s/9000/6005/g</entry>
+        <entry>s/9000/5010/g</entry>
+        <entry>s/9000/3000/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
