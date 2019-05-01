@@ -3,8 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/finish-building/app/Http/Controllers/OfferController.php" timestamp="1556286239549">
+        <mark key="'" line="35" column="4" />
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="6" />
+        <mark key="^" line="14" column="6" />
+        <mark key="." line="14" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/auth.smit/api/v1/Account/Controllers/UserController.php" timestamp="1555654571141">
         <mark key="[" line="12" column="50" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/domain/Offers/Mapper.php" timestamp="1556088226408">
+        <mark key="'" line="10" column="29" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="13" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page5.blade.php" timestamp="1556535527478">
         <mark key="[" line="22" column="0" />
@@ -18,11 +32,19 @@
         <mark key="." line="16" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/vetclass/database/seeds/Tracker/TrackerApplicationSeeder.php" timestamp="1556696235157" />
-      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1556634910748">
-        <mark key="'" line="890" column="0" />
-        <mark key="[" line="840" column="19" />
-        <mark key="]" line="842" column="0" />
-        <mark key="." line="842" column="0" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1556700614372">
+        <mark key="'" line="146" column="0" />
+        <mark key="[" line="766" column="0" />
+        <mark key="]" line="766" column="0" />
+        <mark key="." line="766" column="0" />
+        <mark key="^" line="815" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page1.blade.php" timestamp="1556530876636">
+        <mark key="'" line="23" column="40" />
+        <mark key="[" line="73" column="80" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="78" />
       </file>
       <file name="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/components/Tool.vue" timestamp="1556625386468">
         <mark key="[" line="40" column="0" />
@@ -34,7 +56,7 @@
       <file name="$USER_HOME$/Projects/apotheker/app/Jobs/GenerateContract.php" timestamp="1556624165240">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1556698587091">
+      <file name="/PHP Console" timestamp="1556699031858">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/Offer.js" timestamp="1556634796621">
@@ -70,6 +92,13 @@
         <mark key="." line="120" column="74" />
       </file>
       <file name="$USER_HOME$/Projects/vetclass/app/Http/Controllers/Api/V1/Content/PageController.php" timestamp="1556698111164" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/SelectField.vue" timestamp="1556700570306">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="38" column="4" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" timestamp="1556614589235">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="0" column="0" />
@@ -94,15 +123,6 @@
       <file name="$USER_HOME$/Projects/vetclass/app/Services/Access/Traits/AuthenticatesUsers.php" timestamp="1556645923353" />
     </filemarks>
     <jumps>
-      <jump line="782" column="13" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="858" column="20" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="395" column="43" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="347" column="18" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="14" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/Offer.js" />
-      <jump line="18" column="15" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
-      <jump line="48" column="49" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
-      <jump line="49" column="49" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
-      <jump line="50" column="49" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
       <jump line="5" column="111" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
       <jump line="14" column="27" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
       <jump line="22" column="26" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
@@ -194,46 +214,60 @@
       <jump line="808" column="27" filename="$USER_HOME$/Projects/apotheker/storage/logs/laravel-2019-04-30.log" />
       <jump line="757" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
       <jump line="880" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="840" column="25" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="824" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="39" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/SelectField.vue" />
+      <jump line="17" column="74" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/SelectField.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/SelectField.vue" />
+      <jump line="841" column="13" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="721" column="19" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
+      <jump line="146" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0cyA9ICRyZXN1bHRzOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRzZXQodGhpcywgJ29mZmVyJywgT2ZmZXIubWFrZUZyb21RdWVyeVN0cmluZyh0aGlzLiRyb3V0ZS5mdWxsUGF0aCkpCg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5zb3J0QnkoJ2hpZXJhcmNoeV9wcmVmaXgnLCBTT1JUX05BVFVSQUwsIGZhbHNlKQ==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>F</text>
+        <text>coating</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sb3I6ICNGRkYgIWltcG9ydGFudDsKICAgICAgICAgICAgYm9yZGVyLWNvbG9yOiAjRkZGICFpbXBvcnRhbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgJ29mZmVyLmNvYXRpbmcnOiB7CiAgICAgICAgaGFuZGxlcigpIHsKICAgICAgICAgIGNvbnNvbGUubG9nKCdjb2F0aW5nOiAnICsgdGhpcy5vZmZlci5jb2F0aW5nKQogICAgICAgIH0KICAgICAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0cyA9ICRyZXN1bHRzOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRzZXQodGhpcywgJ29mZmVyJywgT2ZmZXIubWFrZUZyb21RdWVyeVN0cmluZyh0aGlzLiRyb3V0ZS5mdWxsUGF0aCkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGtleSA9PT0gJ2NvYXRpbmcnKSB7CiAgICAgICAgICAgICAgZGVidWdnZXIKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgLy8gYXZhaWxhYmxlQ29hdGluZ3MoKSB7CiAgICAgIC8vICAgICBjb25zb2xlLmxvZygnY29hdGluZyBvcHRpb25zOiAnICsgdGhpcy5hdmFpbGFibGVDb2F0aW5ncykKICAgICAgLy8gfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHt7b2ZmZXIuY29hdGluZ319Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGtleSA9PT0gJ2NvbW1lbnRzJykgewogICAgICAgIC8vIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gYXZhaWxhYmxlQ29hdGluZ3MoKSB7CiAgICAgIC8vICAgdGhpcy5maXhEcm9wZG93bignY29hdGluZycpOwogICAgICAvLyB9LAo=</text>
+      <register name="6" type="4">
+        <text>methods: {
+      isSelected(option) {
+        console.log(option.value, this.value)
+        return
+      }
+}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">bWV0aG9kczogewogICAgICBpc1NlbGVjdGVkKG9wdGlvbikgewogICAgICAgIGNvbnNvbGUubG9nKG9wdGlvbi52YWx1ZSwgdGhpcy52YWx1ZSkKICAgICAgICByZXR1cm4gCiAgICAgIH0KfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -255,19 +289,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhdmFpbGFibGUpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJlPgogICAgICAgICAge3tvZmZlcn19CiAgICAgICAgPC9wcmU+Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIHdhdGNoOiB7CiAgICAgIHZhbHVlKCkgewogICAgICAgIGNvbnNvbGUubG9nKHRoaXMubmFtZSwgdGhpcy52YWx1ZSkKICAgICAgfQogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0YvQy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>F</last-search>
+      <last-search>coating</last-search>
       <last-offset />
-      <last-pattern>F</last-pattern>
+      <last-pattern>coating</last-pattern>
       <last-replace>C</last-replace>
       <last-substitute>F</last-substitute>
       <last-dir>1</last-dir>
@@ -275,11 +309,6 @@
     </search>
     <history>
       <history-search>
-        <entry>10</entry>
-        <entry>pr</entry>
-        <entry>wall</entry>
-        <entry>Wall</entry>
-        <entry>'</entry>
         <entry>line</entry>
         <entry>size</entry>
         <entry>bakc</entry>
@@ -295,6 +324,11 @@
         <entry>kleur</entry>
         <entry>ret</entry>
         <entry>F</entry>
+        <entry>console</entry>
+        <entry>this</entry>
+        <entry>{{</entry>
+        <entry>coating }}</entry>
+        <entry>coating</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JjL2VuYy9n</entry>
