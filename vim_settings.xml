@@ -29,11 +29,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/api/v1/Middleware/SmitAuth.php" timestamp="1556791949355">
+      <file name="$USER_HOME$/Projects/materialen/api/v1/Middleware/SmitAuth.php" timestamp="1556796040221">
+        <mark key="'" line="52" column="35" />
         <mark key="[" line="56" column="52" />
-        <mark key="]" line="56" column="34" />
-        <mark key="." line="56" column="34" />
-        <mark key="^" line="56" column="34" />
+        <mark key="]" line="56" column="52" />
+        <mark key="." line="56" column="52" />
+        <mark key="^" line="56" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page4.blade.php" timestamp="1556535826547">
         <mark key="[" line="22" column="17" />
@@ -44,12 +45,6 @@
         <mark key="[" line="15" column="37" />
         <mark key="]" line="15" column="37" />
         <mark key="." line="15" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/vetclass/app/Console/Commands/FilterLogs.php" timestamp="1556696160389">
-        <mark key="[" line="120" column="75" />
-        <mark key="]" line="120" column="74" />
-        <mark key="^" line="120" column="74" />
-        <mark key="." line="120" column="74" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_05_02_093918_create_order_product_table.php" timestamp="1556790357051">
         <mark key="'" line="17" column="12" />
@@ -95,12 +90,6 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Observers/OfferObserver.php" timestamp="1556616267605">
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="16" column="17" />
-        <mark key="^" line="16" column="17" />
-        <mark key="." line="16" column="17" />
-      </file>
       <file name="$USER_HOME$/Projects/vetclass/database/seeds/Tracker/TrackerApplicationSeeder.php" timestamp="1556696235157" />
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1556709914304">
         <mark key="'" line="146" column="0" />
@@ -110,12 +99,6 @@
         <mark key="^" line="815" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Http/Kernel.php" timestamp="1556791066003" />
-      <file name="$USER_HOME$/Projects/apotheker/nova-components/DocumentViewer/resources/js/components/Tool.vue" timestamp="1556625386468">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="54" column="42" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/vetclass/routes/web.php" timestamp="1556698597673" />
       <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoorColors.php" timestamp="1556542371278">
         <mark key="'" line="9" column="26" />
@@ -141,12 +124,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/finish-building/routes/web.php" timestamp="1556698583217">
-        <mark key="[" line="20" column="99" />
-        <mark key="]" line="20" column="96" />
-        <mark key="." line="20" column="96" />
-        <mark key="^" line="20" column="96" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page6.blade.php" timestamp="1556537120739">
         <mark key="[" line="40" column="4" />
@@ -209,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="0" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
       <jump line="14" column="7" filename="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Generator.php" />
       <jump line="33" column="12" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
       <jump line="171" column="20" filename="$USER_HOME$/Projects/finish-building/resources/views/partslist/index.blade.php" />
@@ -309,6 +285,7 @@
       <jump line="119" column="38" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" />
       <jump line="68" column="0" filename="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" />
+      <jump line="52" column="35" filename="$USER_HOME$/Projects/materialen/api/v1/Middleware/SmitAuth.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
