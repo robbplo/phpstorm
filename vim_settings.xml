@@ -30,12 +30,11 @@
         <mark key="]" line="28" column="43" />
         <mark key="." line="28" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" timestamp="1556807652501">
+      <file name="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" timestamp="1557130875157">
         <mark key="'" line="23" column="39" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="62" column="15" />
+        <mark key="[" line="56" column="30" />
+        <mark key="]" line="56" column="31" />
+        <mark key="." line="56" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/api/v1/Middleware/SmitAuth.php" timestamp="1556876395806">
         <mark key="'" line="60" column="31" />
@@ -92,7 +91,14 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lungage-pwa/assets/less/styling.less" timestamp="1556887217437" />
-      <file name="/PHP Console" timestamp="1556873074827">
+      <file name="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" timestamp="1557132893741">
+        <mark key="'" line="93" column="22" />
+        <mark key="[" line="89" column="58" />
+        <mark key="]" line="89" column="59" />
+        <mark key="." line="89" column="59" />
+        <mark key="^" line="91" column="67" />
+      </file>
+      <file name="/PHP Console" timestamp="1557132897554">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_05_02_091116_rebuild_orders_table.php" timestamp="1556797994331">
@@ -166,19 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="7" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="9" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="11" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="13" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="15" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="17" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="19" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="21" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="43" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="23" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="45" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="25" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
       <jump line="47" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
       <jump line="27" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
       <jump line="49" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
@@ -266,46 +259,59 @@
       <jump line="61" column="31" filename="$USER_HOME$/Projects/materialen/api/v1/Middleware/SmitAuth.php" />
       <jump line="24" column="51" filename="$USER_HOME$/Projects/lungage-pwa/components/CircleGraph.vue" />
       <jump line="59" column="21" filename="$USER_HOME$/Projects/lungage-pwa/components/CircleGraph.vue" />
+      <jump line="12" column="0" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="54" column="24" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="55" column="19" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="77" column="24" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="116" column="0" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="41" column="20" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="73" column="58" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="59" column="67" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="61" column="61" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="62" column="60" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="65" column="63" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="88" column="22" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>Math.ceil(Math.random() * 200)+50 /*@todo replace with 'required: true'*/</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>range</text>
+        <text>,</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB2YWx1ZSA9IDUwICAtPiAwCg==</text>
+      <register name="0" type="4">
+        <text>$order</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkb3JkZXJzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGNpcmNsZS1ncmFwaCA6bWluPSI1MCIgOm1heD0iMjUwIiBsYWJlbD0ibWFuZCI+PC9jaXJjbGUtZ3JhcGg+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGRhdGEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByYW5nZSA9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBkZCgkcHJvZHVjdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBtaW4gPSA1MAogICAgICAgIC8vIG1heCA9IDI1MAoKICAgICAgICAvLyB2YWx1ZSA9IDUwICAtPiAwCiAgICAgICAgLy8gdmFsdWUgPSAxNTAgLT4gNTAKICAgICAgICAvLyB2YWx1ZSA9IDI1MCAtPiAxMDAKCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcm9kdWN0cycgPT4gW10sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSAgICAgIDxkaXYgY2xhc3M9ImJvcmRlciIgOnN0eWxlPSJ7YmFja2dyb3VuZDogYm9yZGVyQ29sb3J9Ij4tLT4KICAgICAgPCEtLSAgICAgICAgPGRpdiBjbGFzcz0iYm9yZGVyLWhpZGVyIj48L2Rpdj4tLT4KICAgICAgPCEtLSAgICAgIDwvZGl2Pi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd6aXBjb2RlJyA9PiAnJywKICAgICAgICAgICAgICAgICd6aXBjb2RlJyA9PiAnJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb21wb25lbnRzOiB7Q2lyY2xlR3JhcGh9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9yZGVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkYXRhOiAoKSA9PiAoewogICAgdmFsdWU6IDUwLAogIH0pLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -327,19 +333,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPHNwYW4gY2xhc3M9InN1YnRpdGxlIiA6c3R5bGU9Intjb2xvcn0iPgogICAgICAgIHt7IHN1YnRpdGxlIH19CiAgICAgIDwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAuc3VidGl0bGUgewogICAgCiAgfQo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL251bGwvW10vZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>range</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>range</last-pattern>
+      <last-pattern>,</last-pattern>
       <last-replace>[]</last-replace>
       <last-substitute>null</last-substitute>
       <last-dir>1</last-dir>
@@ -347,17 +353,12 @@
     </search>
     <history>
       <history-search>
-        <entry>coating</entry>
-        <entry>ord</entry>
-        <entry>qty_order</entry>
-        <entry>detail</entry>
         <entry>all</entry>
         <entry>arr</entry>
         <entry>map</entry>
         <entry>fields</entry>
         <entry>address_delivery</entry>
         <entry>set</entry>
-        <entry>,</entry>
         <entry>val</entry>
         <entry>key</entry>
         <entry>Js</entry>
@@ -367,6 +368,11 @@
         <entry>J</entry>
         <entry>//</entry>
         <entry>range</entry>
+        <entry>co</entry>
+        <entry>rs</entry>
+        <entry>han</entry>
+        <entry>or</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEwLzEyL2c=</entry>
