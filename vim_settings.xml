@@ -59,6 +59,12 @@
         <mark key="." line="109" column="0" />
         <mark key="^" line="35" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/config/app.php" timestamp="1557143058473">
+        <mark key="[" line="232" column="80" />
+        <mark key="]" line="232" column="77" />
+        <mark key="^" line="232" column="77" />
+        <mark key="." line="232" column="77" />
+      </file>
       <file name="$USER_HOME$/Projects/apotheker/storage/logs/laravel-2019-04-30.log" timestamp="1556623687349">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -69,13 +75,24 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/.env" timestamp="1557133746172" />
-      <file name="$USER_HOME$/Projects/materialen/app/Notifications/OrdersExported.php" timestamp="1557135690435">
-        <mark key="'" line="16" column="3" />
-        <mark key="[" line="44" column="40" />
-        <mark key="]" line="44" column="40" />
-        <mark key="^" line="44" column="40" />
-        <mark key="." line="44" column="40" />
+      <file name="$USER_HOME$/Projects/materialen/.env" timestamp="1557143135369">
+        <mark key="[" line="44" column="38" />
+        <mark key="]" line="44" column="37" />
+        <mark key="^" line="44" column="37" />
+        <mark key="." line="44" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Console/Kernel.php" timestamp="1557144232344">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="27" column="53" />
+        <mark key="." line="27" column="53" />
+        <mark key="^" line="27" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Notifications/OrdersExported.php" timestamp="1557143082336">
+        <mark key="'" line="17" column="3" />
+        <mark key="[" line="47" column="19" />
+        <mark key="]" line="47" column="19" />
+        <mark key="." line="47" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Order.php" timestamp="1556874521372">
         <mark key="'" line="21" column="4" />
@@ -99,14 +116,14 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lungage-pwa/assets/less/styling.less" timestamp="1556887217437" />
-      <file name="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" timestamp="1557135761858">
-        <mark key="'" line="87" column="30" />
-        <mark key="[" line="92" column="12" />
-        <mark key="]" line="92" column="11" />
-        <mark key="^" line="92" column="11" />
-        <mark key="." line="92" column="11" />
+      <file name="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" timestamp="1557143974710">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="44" column="8" />
+        <mark key="]" line="44" column="7" />
+        <mark key="." line="44" column="7" />
+        <mark key="^" line="44" column="7" />
       </file>
-      <file name="/PHP Console" timestamp="1557135698027">
+      <file name="/PHP Console" timestamp="1557144259558">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_05_02_091116_rebuild_orders_table.php" timestamp="1556797994331">
@@ -161,6 +178,7 @@
         <mark key="." line="112" column="60" />
         <mark key="^" line="112" column="60" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/storage/app/orders_csv/1557142723.csv" timestamp="1557142757440" />
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page3.blade.php" timestamp="1556530982143">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
@@ -180,8 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="61" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
       <jump line="41" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
       <jump line="63" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
       <jump line="79" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
@@ -275,27 +291,29 @@
       <jump line="48" column="15" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
       <jump line="101" column="12" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
       <jump line="59" column="47" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
       <jump line="99" column="7" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
       <jump line="4" column="0" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
       <jump line="25" column="57" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
       <jump line="89" column="30" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="119" column="29" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/Projects/materialen/app/Console/Kernel.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3RvcmFnZV9wYXRoKCR0aGlzLT5jc3Yp</text>
+        <text>'robbin@smit.net'</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RvcmFnZV9wYXRoKCR0aGlzLT5jc3Yp</text>
+        <text>'robbin@smit.net'</text>
       </register>
       <register name="/" type="4">
         <text>csv</text>
       </register>
-      <register name="0" type="4">
-        <text>time()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+ZmlsdGVyKGZ1bmN0aW9uICgkb3JkZXIpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gU3RyOjpzdGFydHNXaXRoKCRvcmRlciwgJ3Byb2R1Y3RfJyk7CiAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -303,23 +321,23 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY3N2KTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gLT5saW5lKCdUaGUgaW50cm9kdWN0aW9uIHRvIHRoZSBub3RpZmljYXRpb24uJykKICAgICAgICAgICAgLy8gLT5hY3Rpb24oJ05vdGlmaWNhdGlvbiBBY3Rpb24nLCB1cmwoJy8nKSkKICAgICAgICAgICAgLy8gLT5saW5lKCdUaGFuayB5b3UgZm9yIHVzaW5nIG91ciBhcHBsaWNhdGlvbiEnKTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBtb3ZlIG9yZGVyIGZpbGVzIHRvIHByb2Nlc3NlZCBmb2xkZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVuYwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+dW5pcXVlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY291bnQoJG9yZGVycykgPT09IDApIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -341,10 +359,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGZpbGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdG9yYWdlOjptb3ZlKCcvb3JkZXJzLyonLCAnL29yZGVyc19wcm9jZXNzZWRHJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;</text>
