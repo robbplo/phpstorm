@@ -30,10 +30,10 @@
         <mark key="]" line="28" column="43" />
         <mark key="." line="28" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" timestamp="1557130875157">
+      <file name="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" timestamp="1557135189695">
         <mark key="'" line="23" column="39" />
-        <mark key="[" line="56" column="30" />
-        <mark key="]" line="56" column="31" />
+        <mark key="[" line="59" column="51" />
+        <mark key="]" line="59" column="56" />
         <mark key="." line="56" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/api/v1/Middleware/SmitAuth.php" timestamp="1556876395806">
@@ -69,6 +69,14 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/.env" timestamp="1557133746172" />
+      <file name="$USER_HOME$/Projects/materialen/app/Notifications/OrdersExported.php" timestamp="1557135690435">
+        <mark key="'" line="16" column="3" />
+        <mark key="[" line="44" column="40" />
+        <mark key="]" line="44" column="40" />
+        <mark key="^" line="44" column="40" />
+        <mark key="." line="44" column="40" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Order.php" timestamp="1556874521372">
         <mark key="'" line="21" column="4" />
         <mark key="[" line="44" column="38" />
@@ -91,14 +99,14 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lungage-pwa/assets/less/styling.less" timestamp="1556887217437" />
-      <file name="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" timestamp="1557132893741">
-        <mark key="'" line="93" column="22" />
-        <mark key="[" line="89" column="58" />
-        <mark key="]" line="89" column="59" />
-        <mark key="." line="89" column="59" />
-        <mark key="^" line="91" column="67" />
+      <file name="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" timestamp="1557135761858">
+        <mark key="'" line="87" column="30" />
+        <mark key="[" line="92" column="12" />
+        <mark key="]" line="92" column="11" />
+        <mark key="^" line="92" column="11" />
+        <mark key="." line="92" column="11" />
       </file>
-      <file name="/PHP Console" timestamp="1557132897554">
+      <file name="/PHP Console" timestamp="1557135698027">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_05_02_091116_rebuild_orders_table.php" timestamp="1556797994331">
@@ -172,19 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="27" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="49" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="29" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="51" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="31" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="53" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="33" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="55" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="35" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="57" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="37" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
-      <jump line="59" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
       <jump line="39" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
       <jump line="61" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
       <jump line="41" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" />
@@ -267,51 +262,64 @@
       <jump line="6" column="0" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
       <jump line="41" column="20" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
       <jump line="73" column="58" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
-      <jump line="59" column="67" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
       <jump line="61" column="61" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
       <jump line="62" column="60" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
       <jump line="65" column="63" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
       <jump line="88" column="22" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/materialen/app/Notifications/OrdersExported.php" />
+      <jump line="16" column="3" filename="$USER_HOME$/Projects/materialen/app/Notifications/OrdersExported.php" />
+      <jump line="53" column="8" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="7" column="0" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="85" column="0" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="86" column="0" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="48" column="15" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="101" column="12" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="59" column="47" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="99" column="7" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="25" column="57" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
+      <jump line="89" column="30" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$</text>
+        <text encoding="base64">c3RvcmFnZV9wYXRoKCR0aGlzLT5jc3Yp</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text encoding="base64">c3RvcmFnZV9wYXRoKCR0aGlzLT5jc3Yp</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>csv</text>
       </register>
       <register name="0" type="4">
-        <text>$order</text>
+        <text>time()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkb3JkZXJzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY3N2KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBkZCgkcHJvZHVjdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBtb3ZlIG9yZGVyIGZpbGVzIHRvIHByb2Nlc3NlZCBmb2xkZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcm9kdWN0cycgPT4gW10sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd6aXBjb2RlJyA9PiAnJywKICAgICAgICAgICAgICAgICd6aXBjb2RlJyA9PiAnJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9yZGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY291bnQoJG9yZGVycykgPT09IDApIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -333,29 +341,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGZpbGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICBTdG9yYWdlOjptb3ZlKCcvb3JkZXJzLyonLCAnL29yZGVyc19wcm9jZXNzZWRHJyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL251bGwvW10vZw==</text>
+        <text>s/'/&quot;</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>csv</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
-      <last-replace>[]</last-replace>
-      <last-substitute>null</last-substitute>
+      <last-pattern>csv</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>all</entry>
-        <entry>arr</entry>
-        <entry>map</entry>
         <entry>fields</entry>
         <entry>address_delivery</entry>
         <entry>set</entry>
@@ -373,9 +378,11 @@
         <entry>han</entry>
         <entry>or</entry>
         <entry>,</entry>
+        <entry>not</entry>
+        <entry>'</entry>
+        <entry>csv</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzEwLzEyL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3dhbGwvcm9vZi9n</entry>
         <entry encoding="base64">JzwsJz5zL3dhbGwvcm9vZi9naQ==</entry>
         <entry encoding="base64">JzwsJz5zL3dhbGwvcm9vZg==</entry>
@@ -395,6 +402,7 @@
         <entry encoding="base64">JzwsJz5zL2FkZHJlc3NfZGVsaXZlcnkvc2hpcHBpbmdfYWRkcmVzcy9n</entry>
         <entry encoding="base64">JzwsJz5zL2tleS92YWx1ZQ==</entry>
         <entry encoding="base64">JzwsJz5zL251bGwvW10vZw==</entry>
+        <entry>s/'/&quot;</entry>
       </history-cmd>
       <history-expr />
       <history-input />
