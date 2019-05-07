@@ -9,6 +9,13 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="11" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/bols/app/Http/Controllers/ExportController.php" timestamp="1557220698905">
+        <mark key="j" line="17" column="13" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="19" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page5.blade.php" timestamp="1556535527478">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -41,13 +48,6 @@
         <mark key="[" line="59" column="51" />
         <mark key="]" line="59" column="56" />
         <mark key="." line="56" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/materialen/api/v1/Middleware/SmitAuth.php" timestamp="1556876395806">
-        <mark key="'" line="60" column="31" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="n" line="31" column="8" />
-        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page4.blade.php" timestamp="1556535826547">
         <mark key="[" line="22" column="17" />
@@ -93,6 +93,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="25" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/bols/routes/api.php" timestamp="1557220176324">
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="19" column="7" />
+        <mark key="." line="19" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Console/Kernel.php" timestamp="1557144232344">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="28" column="5" />
@@ -128,6 +133,11 @@
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" timestamp="1556800580043">
         <mark key="'" line="104" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/storage/logs/laravel-2019-05-03.log" timestamp="1556872993790">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -174,6 +184,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/bols/app/Console/Commands/WordpressImport.php" timestamp="1557220732883">
+        <mark key="^" line="64" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page6.blade.php" timestamp="1556537120739">
         <mark key="[" line="40" column="4" />
         <mark key="]" line="40" column="3" />
@@ -200,6 +213,12 @@
         <mark key="]" line="112" column="60" />
         <mark key="." line="112" column="60" />
         <mark key="^" line="112" column="60" />
+      </file>
+      <file name="$USER_HOME$/Projects/bols/app/Http/Middleware/KeyAuthentication.php" timestamp="1557220296676">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="17" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Http/Requests/IndexOrderRequest.php" timestamp="1556790884166">
         <mark key="'" line="62" column="23" />
@@ -335,43 +354,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbWFuZHM6IFsKICAgICAgICB7CiAgICAgICAgICB2YWx1ZTogNzUsCiAgICAgICAgICBjb2xvcjogJ3llbGxvdycsCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICB2YWx1ZTogNTAsCiAgICAgICAgICBjb2xvcjogJ2JsdWUnLAogICAgICAgIH0KICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+d2hlcmVOdWxsKCdzeW5jX2F0JykK</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>men</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaGFuZHM6IFsKICAgICAgICB7CiAgICAgICAgICB2YWx1ZTogNzUsCiAgICAgICAgICBjb2xvcjogJ3llbGxvdycsCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICB2YWx1ZTogNTAsCiAgICAgICAgICBjb2xvcjogJ2JsdWUnLAogICAgICAgIH0KICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZShmdW5jdGlvbiAoJHF1ZXJ5KSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJHF1ZXJ5LT53aGVyZU51bGwoJ3N5bmNfYXQnKQogICAgICAgICAgICAgICAgICAgIC0+b3JXaGVyZSgnc3luY19hdCcsICc8PScsIENhcmJvbjo6bm93KCktPmFkZEhvdXJzKDIpKTsKICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbWFuZHM6IFsKICAgICAgICB7CiAgICAgICAgICB2YWx1ZTogNzUsCiAgICAgICAgICBjb2xvcjogJ3llbGxvdycsCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICB2YWx1ZTogNTAsCiAgICAgICAgICBjb2xvcjogJ2JsdWUnLAogICAgICAgIH0KICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+d2hlcmVOdWxsKCdzeW5jX2F0JykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGdhdWdlLWdyYXBoIGxhYmVsPSJtbWVudGFsIHN0YXR1c2VudGFsIHN0YXR1cyIgOmhhbmRzPSJtYW5kcyI+PC9nYXVnZS1ncmFwaD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+d2hlcmVOdWxsKCdzeW5jX2F0JykKICAgICAgICAgICAgICAgIC0+dXBkYXRlKFsKICAgICAgICAgICAgICAgICAgICAnc3luY19hdCcgPT4gQ2FyYm9uOjpub3coKSwKICAgICAgICAgICAgICAgIF0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5yZWFsSGFuZHMucmV2ZXJzZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGV2ZW50cy0+Y291bnQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5yZWFsSGFuZHMucmV2ZXJzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMucmVhbEhhbmRzLnB1c2goaGFuZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZU51bGwoJ3N5bmNfYXQnKQogICAgICAgICAgICAtPm9yV2hlcmUoJ3N5bmNfYXQnLCAnPD0nLCBDYXJib246Om5vdygpLT5hZGRIb3VycygyKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBoYW5kLnZhbHVlID0gMDsK</text>
+        <text encoding="base64">ICAgICAgbWFuZHM6IFsKICAgICAgICB7CiAgICAgICAgICB2YWx1ZTogNzUsCiAgICAgICAgICBjb2xvcjogJ3llbGxvdycsCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICB2YWx1ZTogNTAsCiAgICAgICAgICBjb2xvcjogJ2JsdWUnLAogICAgICAgIH0KICAgICAgXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhhbmQudmFsdWUgCg==</text>
+        <text encoding="base64">ICAgICAgPGdhdWdlLWdyYXBoIGxhYmVsPSJtbWVudGFsIHN0YXR1c2VudGFsIHN0YXR1cyIgOmhhbmRzPSJtYW5kcyI+PC9nYXVnZS1ncmFwaD4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -393,10 +412,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgICAgdGhpcy5uZXdIYW5kID0gdGhpcy5uZXcKICAgICAgfSwgNTApCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5yZWFsSGFuZHMucmV2ZXJzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbmRleCkK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5yZWFsSGFuZHMucmV2ZXJzZQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL25ldy9vbGQvZw==</text>
