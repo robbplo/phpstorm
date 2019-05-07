@@ -59,12 +59,11 @@
         <mark key="]" line="15" column="37" />
         <mark key="." line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/lungage-pwa/components/RectangleGraph.vue" timestamp="1557233337087">
-        <mark key="'" line="10" column="24" />
-        <mark key="[" line="52" column="23" />
-        <mark key="]" line="52" column="22" />
-        <mark key="." line="52" column="22" />
-        <mark key="^" line="52" column="22" />
+      <file name="$USER_HOME$/Projects/lungage-pwa/components/RectangleGraph.vue" timestamp="1557234814037">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="30" />
+        <mark key="." line="13" column="30" />
+        <mark key="^" line="33" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/lungage-pwa/components/CircleGraph.vue" timestamp="1557217363360">
         <mark key="[" line="113" column="0" />
@@ -120,12 +119,12 @@
       <file name="$USER_HOME$/Projects/finish-building/storage/logs/laravel-2019-04-29.log" timestamp="1556616823463">
         <mark key="'" line="17" column="156" />
       </file>
-      <file name="$USER_HOME$/Projects/lungage-pwa/pages/elementen.vue" timestamp="1557233356909">
+      <file name="$USER_HOME$/Projects/lungage-pwa/pages/elementen.vue" timestamp="1557234968301">
         <mark key="'" line="150" column="8" />
-        <mark key="[" line="153" column="48" />
-        <mark key="]" line="153" column="48" />
-        <mark key="^" line="153" column="56" />
-        <mark key="." line="153" column="48" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="160" column="29" />
+        <mark key="^" line="155" column="9" />
+        <mark key="." line="158" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lungage-pwa/components/GaugeGraph.vue" timestamp="1557216722049">
         <mark key="'" line="1" column="20" />
@@ -243,11 +242,11 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/lungage-pwa/components/RangeSlider.vue" timestamp="1557230422840">
+      <file name="$USER_HOME$/Projects/lungage-pwa/components/RangeSlider.vue" timestamp="1557234804404">
         <mark key="'" line="43" column="6" />
         <mark key="k" line="12" column="8" />
-        <mark key="[" line="42" column="41" />
-        <mark key="]" line="42" column="42" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="53" />
         <mark key="." line="42" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/vendor/composer/autoload_static.php" timestamp="1556790917187">
@@ -263,8 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="12" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
-      <jump line="93" column="0" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
       <jump line="98" column="12" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
       <jump line="104" column="12" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
       <jump line="173" column="36" filename="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" />
@@ -360,46 +357,48 @@
       <jump line="13" column="59" filename="$USER_HOME$/Projects/lungage-pwa/components/RangeSlider.vue" />
       <jump line="46" column="6" filename="$USER_HOME$/Projects/lungage-pwa/components/RangeSlider.vue" />
       <jump line="13" column="4" filename="$USER_HOME$/Projects/lungage-pwa/components/RectangleGraph.vue" />
-      <jump line="33" column="7" filename="$USER_HOME$/Projects/lungage-pwa/components/RectangleGraph.vue" />
       <jump line="6" column="24" filename="$USER_HOME$/Projects/lungage-pwa/components/RectangleGraph.vue" />
       <jump line="7" column="24" filename="$USER_HOME$/Projects/lungage-pwa/components/RectangleGraph.vue" />
+      <jump line="54" column="22" filename="$USER_HOME$/Projects/lungage-pwa/components/RectangleGraph.vue" />
+      <jump line="5" column="6" filename="$USER_HOME$/Projects/lungage-pwa/components/RectangleGraph.vue" />
+      <jump line="33" column="10" filename="$USER_HOME$/Projects/lungage-pwa/components/RectangleGraph.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SOMETIMES</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxyZWN0YW5nbGUtZ3JhcGggOm9wdGlvbnM9IlsnTkVWRVInLCAnTk8nLCAnU0VWRVJBTCBUSU1FUycsICdZRVMnLCAnQUxXQVlTJ10iPjwvcmVjdGFuZ2xlLWdyYXBoPgo=</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>SOMETIMES</text>
+        <text>{{test}}</text>
       </register>
       <register name="/" type="4">
-        <text>NE</text>
+        <text>op</text>
       </register>
-      <register name="0" type="4">
-        <text>leftLabel</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxyZWN0YW5nbGUtZ3JhcGgKICAgICAgICAgICAgOm9wdGlvbnM9IlsnTkVWRVInLCAnTk8nLCAnU0VWRVJBTCBUSU1FUycsICdZRVMnLCAnQUxXQVlTJ10iCiAgICAgICAgICA+PC9yZWN0YW5nbGUtZ3JhcGg+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJveC1zaXppbmc6IGJvcmRlci1ib3g7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxyZWN0YW5nbGUtZ3JhcGggOm9wdGlvbnM9IlsnTkVWRVInLCAnTk8nLCAnU0VWRVJBTCBUSU1FUycsICdZRVMnLCAnQUxXQVlTJ10iPjwvcmVjdGFuZ2xlLWdyYXBoPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDsK</text>
+        <text encoding="base64">ICAgICAgdGVzdDogMCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gaGFuZHM6IFt7dmFsdWU6NTAsY29sb3I6J3JlZCd9LHt2YWx1ZTo4MCxjb2xvcjonYmx1ZSd9XQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHt7IG9wdGlvbnNbdmFsdWVdIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG9wdGlvbnMuZXZlcnkob3B0aW9uID0+IHsKICAgICAgICAgICAgY29uc29sZS5sb2cob3B0aW9uIGluc3RhbmNlb2YgU3RyaW5nKQogICAgICAgICAgfSksCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgOnZhbHVlPSIzIgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgaW1wb3J0IFJhbmdlU2xpZGVyIGZyb20gJ34vY29tcG9uZW50cy9SYW5nZVNsaWRlcicKCiAgZXhwb3J0IGRlZmF1bHQgewogICAgbmFtZTogIlJlY3RhbmdsZUdyYXBoIiwKICAgIGRhdGE6ICgpID0+ICh7CiAgICAgIHZhbHVlOiAwLAogICAgfSksCiAgICBjb21wb25lbnRzOiB7IFJhbmdlU2xpZGVyIH0sCiAgICBwcm9wczogewogICAgICBvcHRpb25zOiB7CiAgICAgICAgdHlwZTogQXJyYXksCiAgICAgICAgcmVxdWlyZWQ6IHRydWUsCiAgICAgICAgdmFsaWRhdG9yOiBvcHRpb25zID0+IFsKICAgICAgICAgIG9wdGlvbnMubGVuZ3RoID49IDIsCiAgICAgICAgICAvLyBvcHRpb25zLmV2ZXJ5KG9wdGlvbiA9PiBvcHRpb24gaW5zdGFuY2VvZiBTdHJpbmcpLAogICAgICAgICAgb3B0aW9ucy5ldmVyeShvcHRpb24gPT4gewogICAgICAgICAgICBjb25zb2xlLmxvZyh0eXBlb2Ygb3B0aW9uKQogICAgICAgICAgfSksCiAgICAgICAgXS5ldmVyeShjb25kaXRpb24gPT4gY29uZGl0aW9uID09PSB0cnVlKQogICAgICB9CiAgICB9LAogICAgY29tcHV0ZWQ6IHsKICAgICAgbGVmdExhYmVsKCkgewogICAgICAgIHJldHVybiB0aGlzLm9wdGlvbnNbMF07CiAgICAgIH0sCiAgICAgIHJpZ2h0TGFiZWwoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMub3B0aW9uc1t0aGlzLm9wdGlvbnMubGVuZ3RoIC0gMV07CiAgICAgIH0sCiAgICB9CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxyYW5nZS1zbGlkZXIKICAgICAgICAgICAgOm1pbj0iMCIKICAgICAgICAgICAgOm1heD0iNiIKICAgICAgICAgICAgOnZhbHVlPSIzIgogICAgICAgICAgICBsZWZ0LWxhYmVsPSJORVZFUiIKICAgICAgICAgICAgcmlnaHQtbGFiZWw9IkNPTlNUQU5UTFkiCiAgICAgICAgICAvPgogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICA8cmVjdGFuZ2xlLWdyYXBoPjwvcmVjdGFuZ2xlLWdyYXBoPi0tPgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -424,19 +423,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxyYW5nZS1zbGlkZXIKICAgICAgICAgICAgOm1pbj0iMCIKICAgICAgICAgICAgOm1heD0iNiIKICAgICAgICAgICAgOnZhbHVlPSIzIgogICAgICAgICAgICBsZWZ0LWxhYmVsPSJORVZFUiIKICAgICAgICAgICAgcmlnaHQtbGFiZWw9IkNPTlNUQU5UTFkiCiAgICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJlY3RhbmdsZSI+CiAgICAgIHt7IG9wdGlvbnNbdmFsdWVdIH19CiAgICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOm1heD0iNSIKICAgICAgICAgICAgOnZhbHVlPSIwIgo=</text>
+        <text encoding="base64">ICAgIGJveC1zaXppbmc6IGJvcmRlci1ib3g7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2xlZnQvcmlnaHQvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>NE</last-search>
+      <last-search>op</last-search>
       <last-offset />
-      <last-pattern>NE</last-pattern>
+      <last-pattern>op</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
@@ -444,7 +443,6 @@
     </search>
     <history>
       <history-search>
-        <entry>not</entry>
         <entry>'</entry>
         <entry>csv</entry>
         <entry>uk</entry>
@@ -464,6 +462,7 @@
         <entry>@@</entry>
         <entry>Ne</entry>
         <entry>NE</entry>
+        <entry>op</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1dhbGwvUm9vZg==</entry>
