@@ -59,7 +59,7 @@
         <mark key="]" line="15" column="37" />
         <mark key="." line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/lungage-pwa/components/CircleGraph.vue" timestamp="1556894104554">
+      <file name="$USER_HOME$/Projects/lungage-pwa/components/CircleGraph.vue" timestamp="1557217363360">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
@@ -87,6 +87,12 @@
         <mark key="^" line="44" column="37" />
         <mark key="." line="44" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/lungage-pwa/pages/gauge.vue" timestamp="1557217283199">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="25" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Console/Kernel.php" timestamp="1557144232344">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="28" column="5" />
@@ -99,6 +105,16 @@
         <mark key="[" line="47" column="19" />
         <mark key="]" line="47" column="19" />
         <mark key="." line="47" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/storage/logs/laravel-2019-04-29.log" timestamp="1556616823463">
+        <mark key="'" line="17" column="156" />
+      </file>
+      <file name="$USER_HOME$/Projects/lungage-pwa/components/GaugeGraph.vue" timestamp="1557216722049">
+        <mark key="'" line="1" column="20" />
+        <mark key="[" line="72" column="22" />
+        <mark key="]" line="72" column="22" />
+        <mark key="." line="72" column="22" />
+        <mark key="^" line="114" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Order.php" timestamp="1556874521372">
         <mark key="'" line="21" column="4" />
@@ -116,12 +132,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/storage/logs/laravel-2019-05-03.log" timestamp="1556872993790">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/lungage-pwa/nuxt.config.js" timestamp="1557212893697">
+        <mark key="'" line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lungage-pwa/assets/less/styling.less" timestamp="1556887217437" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoorColors.php" timestamp="1556542371278">
+        <mark key="'" line="9" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" timestamp="1557143974710">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="44" column="8" />
@@ -184,6 +201,9 @@
         <mark key="." line="112" column="60" />
         <mark key="^" line="112" column="60" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Http/Requests/IndexOrderRequest.php" timestamp="1556790884166">
+        <mark key="'" line="62" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/storage/app/orders_csv/1557142723.csv" timestamp="1557142757440" />
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page3.blade.php" timestamp="1556530982143">
         <mark key="[" line="84" column="0" />
@@ -212,23 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="880" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="840" column="25" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="824" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="39" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/SelectField.vue" />
-      <jump line="17" column="74" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/SelectField.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/SelectField.vue" />
-      <jump line="841" column="13" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="721" column="19" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="146" column="0" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" />
-      <jump line="17" column="12" filename="$USER_HOME$/Projects/materialen/database/migrations/2019_05_02_093918_create_order_product_table.php" />
-      <jump line="35" column="48" filename="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" />
-      <jump line="171" column="130" filename="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" />
-      <jump line="62" column="23" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/IndexOrderRequest.php" />
-      <jump line="119" column="38" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
-      <jump line="68" column="0" filename="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" />
-      <jump line="52" column="35" filename="$USER_HOME$/Projects/materialen/api/v1/Middleware/SmitAuth.php" />
       <jump line="175" column="0" filename="$USER_HOME$/Projects/materialen/resources/views/checkout.blade.php" />
       <jump line="71" column="4" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
       <jump line="121" column="0" filename="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" />
@@ -312,46 +315,63 @@
       <jump line="7" column="5" filename="$USER_HOME$/Projects/lungage-pwa/components/RangeSlider.vue" />
       <jump line="8" column="5" filename="$USER_HOME$/Projects/lungage-pwa/components/RangeSlider.vue" />
       <jump line="9" column="5" filename="$USER_HOME$/Projects/lungage-pwa/components/RangeSlider.vue" />
+      <jump line="48" column="13" filename="$USER_HOME$/Projects/lungage-pwa/components/GaugeGraph.vue" />
+      <jump line="70" column="0" filename="$USER_HOME$/Projects/lungage-pwa/components/GaugeGraph.vue" />
+      <jump line="0" column="24" filename="$USER_HOME$/Projects/lungage-pwa/nuxt.config.js" />
+      <jump line="73" column="0" filename="$USER_HOME$/Projects/lungage-pwa/nuxt.config.js" />
+      <jump line="61" column="6" filename="$USER_HOME$/Projects/lungage-pwa/components/GaugeGraph.vue" />
+      <jump line="84" column="53" filename="$USER_HOME$/Projects/lungage-pwa/components/GaugeGraph.vue" />
+      <jump line="89" column="8" filename="$USER_HOME$/Projects/lungage-pwa/components/GaugeGraph.vue" />
+      <jump line="64" column="13" filename="$USER_HOME$/Projects/lungage-pwa/components/GaugeGraph.vue" />
+      <jump line="41" column="13" filename="$USER_HOME$/Projects/lungage-pwa/components/GaugeGraph.vue" />
+      <jump line="42" column="31" filename="$USER_HOME$/Projects/lungage-pwa/components/GaugeGraph.vue" />
+      <jump line="43" column="13" filename="$USER_HOME$/Projects/lungage-pwa/components/GaugeGraph.vue" />
+      <jump line="44" column="13" filename="$USER_HOME$/Projects/lungage-pwa/components/GaugeGraph.vue" />
+      <jump line="45" column="15" filename="$USER_HOME$/Projects/lungage-pwa/components/GaugeGraph.vue" />
+      <jump line="47" column="13" filename="$USER_HOME$/Projects/lungage-pwa/components/GaugeGraph.vue" />
+      <jump line="54" column="18" filename="$USER_HOME$/Projects/lungage-pwa/components/GaugeGraph.vue" />
+      <jump line="1" column="20" filename="$USER_HOME$/Projects/lungage-pwa/components/GaugeGraph.vue" />
+      <jump line="5" column="6" filename="$USER_HOME$/Projects/lungage-pwa/pages/gauge.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbWFuZHM6IFsKICAgICAgICB7CiAgICAgICAgICB2YWx1ZTogNzUsCiAgICAgICAgICBjb2xvcjogJ3llbGxvdycsCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICB2YWx1ZTogNTAsCiAgICAgICAgICBjb2xvcjogJ2JsdWUnLAogICAgICAgIH0KICAgICAgXSwK</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>{{ max }}{{ unit }}</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IA==</text>
+        <text>men</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzcGFuIGNsYXNzPSJyYW5nZS1zbGlkZV9fbGFiZWwgcmlnaHQiPktLS0tLS0tLPC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgaGFuZHM6IFsKICAgICAgICB7CiAgICAgICAgICB2YWx1ZTogNzUsCiAgICAgICAgICBjb2xvcjogJ3llbGxvdycsCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICB2YWx1ZTogNTAsCiAgICAgICAgICBjb2xvcjogJ2JsdWUnLAogICAgICAgIH0KICAgICAgXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbWFuZHM6IFsKICAgICAgICB7CiAgICAgICAgICB2YWx1ZTogNzUsCiAgICAgICAgICBjb2xvcjogJ3llbGxvdycsCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICB2YWx1ZTogNTAsCiAgICAgICAgICBjb2xvcjogJ2JsdWUnLAogICAgICAgIH0KICAgICAgXSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLSAgICA8c3BhbiBjbGFzcz0icmFuZ2Utc2xpZGVfX2xhYmVsIHJpZ2h0ICI+e3sgbWF4IH19e3sgdW5pdCB9fTwvc3Bhbj4tLT4K</text>
+        <text encoding="base64">ICAgICAgPGdhdWdlLWdyYXBoIGxhYmVsPSJtbWVudGFsIHN0YXR1c2VudGFsIHN0YXR1cyIgOmhhbmRzPSJtYW5kcyI+PC9nYXVnZS1ncmFwaD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxpbWcgc3JjPSJodHRwczovL3NtaXRuZXQud29ya3NwYWNlLm5sL3VwbG9hZHMvZmlsZS8xOTExNDgiIHN0eWxlPSJ3aWR0aDogNTAlOyBoZWlnaHQ6IDUwJSI+Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5yZWFsSGFuZHMucmV2ZXJzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkaXY+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5yZWFsSGFuZHMucmV2ZXJzZQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHt7IHNsaWRlcnZhbCB9fQogICAgPFJhbmdlU2xpZGVyCiAgICAgIDptaW49IjEyMCIKICAgICAgOm1heD0iMjIwIgogICAgICB1bml0PSJjbSIKICAgICAgdi1tb2RlbC5udW1iZXI9InNsaWRlcnZhbCIKICAgID48L1JhbmdlU2xpZGVyPg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRoaXMucmVhbEhhbmRzLnB1c2goaGFuZCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCEtLSAgICAgIHVuaXQ9ImNtIi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICBoYW5kLnZhbHVlID0gMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVmYXVsdDogewogICAgICAgIHR5cGU6IE51bWJlciwKICAgICAgICBkZWZhdWx0OiBudWxsLAogICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGhhbmQudmFsdWUgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -373,30 +393,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8UmFuZ2VTbGlkZXIgOm1pbj0iMTIwIiA6bWF4PSIyMjAiIHVuaXQ9ImNtIj48L1JhbmdlU2xpZGVyPgo=</text>
+        <text encoding="base64">ICAgICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgICAgdGhpcy5uZXdIYW5kID0gdGhpcy5uZXcKICAgICAgfSwgNTApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSIiPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbmRleCkK</text>
       </register>
       <register name=":" type="4">
-        <text>s/change/input/g</text>
+        <text encoding="base64">JzwsJz5zL25ldy9vbGQvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IA==</last-search>
+      <last-search>men</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IA==</last-pattern>
-      <last-replace>input</last-replace>
-      <last-substitute>change</last-substitute>
+      <last-pattern>men</last-pattern>
+      <last-replace>old</last-replace>
+      <last-substitute>new</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ba</entry>
-        <entry>fla</entry>
-        <entry>J</entry>
-        <entry>//</entry>
         <entry>range</entry>
         <entry>co</entry>
         <entry>rs</entry>
@@ -412,10 +428,13 @@
         <entry>change</entry>
         <entry>40</entry>
         <entry>30-</entry>
+        <entry>3</entry>
+        <entry>new</entry>
         <entry encoding="base64">IA==</entry>
+        <entry>v-</entry>
+        <entry>men</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3dhbGwvcm9vZi9naQ==</entry>
         <entry encoding="base64">JzwsJz5zL3dhbGwvcm9vZg==</entry>
         <entry encoding="base64">JzwsJz5zL1dhbGwvUm9vZg==</entry>
         <entry>s/16/00/g</entry>
@@ -435,6 +454,7 @@
         <entry encoding="base64">JzwsJz5zL251bGwvW10vZw==</entry>
         <entry>s/'/&quot;</entry>
         <entry>s/change/input/g</entry>
+        <entry encoding="base64">JzwsJz5zL25ldy9vbGQvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
