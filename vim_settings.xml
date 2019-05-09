@@ -24,7 +24,6 @@
       <file name="/a.dummy" timestamp="1556789603300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/routes/web.php" timestamp="1556799307707" />
       <file name="$USER_HOME$/Projects/materialen/app/Product.php" timestamp="1556808152064">
         <mark key="[" line="28" column="69" />
         <mark key="]" line="28" column="66" />
@@ -42,12 +41,6 @@
         <mark key="[" line="28" column="43" />
         <mark key="]" line="28" column="43" />
         <mark key="." line="28" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" timestamp="1557135189695">
-        <mark key="'" line="23" column="39" />
-        <mark key="[" line="59" column="51" />
-        <mark key="]" line="59" column="56" />
-        <mark key="." line="56" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page4.blade.php" timestamp="1556535826547">
         <mark key="[" line="22" column="17" />
@@ -105,16 +98,10 @@
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Console/Kernel.php" timestamp="1557144232344">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="28" column="5" />
+        <mark key="[" line="27" column="5" />
         <mark key="]" line="27" column="53" />
         <mark key="." line="27" column="53" />
         <mark key="^" line="27" column="53" />
-      </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Notifications/OrdersExported.php" timestamp="1557143082336">
-        <mark key="'" line="17" column="3" />
-        <mark key="[" line="47" column="19" />
-        <mark key="]" line="47" column="19" />
-        <mark key="." line="47" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/storage/logs/laravel-2019-04-29.log" timestamp="1556616823463">
         <mark key="'" line="17" column="156" />
@@ -126,6 +113,12 @@
         <mark key="^" line="155" column="9" />
         <mark key="." line="158" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Enums/OrderSyncStatus.php" timestamp="1557389140999">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/lungage-pwa/components/GaugeGraph.vue" timestamp="1557216722049">
         <mark key="'" line="1" column="20" />
         <mark key="[" line="72" column="22" />
@@ -133,21 +126,15 @@
         <mark key="." line="72" column="22" />
         <mark key="^" line="114" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Order.php" timestamp="1556874521372">
-        <mark key="'" line="21" column="4" />
-        <mark key="[" line="44" column="38" />
-        <mark key="]" line="44" column="45" />
-        <mark key="^" line="44" column="45" />
-        <mark key="." line="44" column="45" />
+      <file name="$USER_HOME$/Projects/materialen/app/Order.php" timestamp="1557390024677">
+        <mark key="'" line="22" column="4" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="59" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/auth.smit/api/v1/Account/Controllers/UserController.php" timestamp="1555654571141">
         <mark key="[" line="12" column="50" />
-      </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" timestamp="1556800580043">
-        <mark key="'" line="104" column="12" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/storage/logs/laravel-2019-05-03.log" timestamp="1556872993790">
         <mark key="[" line="0" column="0" />
@@ -157,7 +144,6 @@
       <file name="$USER_HOME$/Projects/lungage-pwa/nuxt.config.js" timestamp="1557212893697">
         <mark key="'" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/lungage-pwa/assets/less/styling.less" timestamp="1556887217437" />
       <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoorColors.php" timestamp="1556542371278">
         <mark key="'" line="9" column="26" />
       </file>
@@ -168,13 +154,13 @@
         <mark key="." line="44" column="7" />
         <mark key="^" line="44" column="7" />
       </file>
-      <file name="/PHP Console" timestamp="1557144259558">
+      <file name="/PHP Console" timestamp="1557388429091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_05_02_091116_rebuild_orders_table.php" timestamp="1556797994331">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_05_02_091116_rebuild_orders_table.php" timestamp="1557388063522">
+        <mark key="[" line="26" column="56" />
+        <mark key="]" line="26" column="57" />
+        <mark key="." line="26" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/vendor/laravel/framework/src/Illuminate/Support/Str.php" timestamp="1556810234388">
         <mark key="'" line="333" column="23" />
@@ -199,19 +185,17 @@
       <file name="$USER_HOME$/Projects/bols/app/Console/Commands/WordpressImport.php" timestamp="1557220732883">
         <mark key="^" line="64" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/lungage-pwa/layouts/default.vue" timestamp="1557315445393" />
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page6.blade.php" timestamp="1556537120739">
         <mark key="[" line="40" column="4" />
         <mark key="]" line="40" column="3" />
         <mark key="." line="40" column="3" />
         <mark key="^" line="40" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/Order.php" timestamp="1556876018668">
-        <mark key="'" line="50" column="50" />
-        <mark key="[" line="49" column="89" />
-        <mark key="]" line="68" column="4" />
-        <mark key="^" line="68" column="4" />
-        <mark key="." line="68" column="4" />
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/Order.php" timestamp="1557389646474">
+        <mark key="[" line="58" column="39" />
+        <mark key="]" line="58" column="39" />
+        <mark key="." line="58" column="39" />
+        <mark key="^" line="58" column="39" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.tpl" timestamp="1556614589235">
         <mark key="[" line="11" column="12" />
@@ -236,7 +220,6 @@
       <file name="$USER_HOME$/Projects/materialen/app/Http/Requests/IndexOrderRequest.php" timestamp="1556790884166">
         <mark key="'" line="62" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/storage/app/orders_csv/1557142723.csv" timestamp="1557142757440" />
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page3.blade.php" timestamp="1556530982143">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
@@ -366,43 +349,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAkc3RhdHVzZXMgPSA7Cgo=</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>{{test}}</text>
+        <text>SyncStatus('in', $statuses)</text>
       </register>
       <register name="/" type="4">
         <text>op</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxyZWN0YW5nbGUtZ3JhcGgKICAgICAgICAgICAgOm9wdGlvbnM9IlsnTkVWRVInLCAnTk8nLCAnU0VWRVJBTCBUSU1FUycsICdZRVMnLCAnQUxXQVlTJ10iCiAgICAgICAgICA+PC9yZWN0YW5nbGUtZ3JhcGg+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTnVtYmVyOjptYWtlKCdTeW5jIGF0dGVtcHRzJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAkc3RhdHVzZXMgPSA7Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxyZWN0YW5nbGUtZ3JhcGggOm9wdGlvbnM9IlsnTkVWRVInLCAnTk8nLCAnU0VWRVJBTCBUSU1FUycsICdZRVMnLCAnQUxXQVlTJ10iPjwvcmVjdGFuZ2xlLWdyYXBoPgo=</text>
+      <register name="2" type="4">
+        <text>[
+            OrderSyncStatus::Failed,
+            OrderSyncStatus::Invalid,
+        ]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGVzdDogMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgT3JkZXJTeW5jU3RhdHVzOjpJZ25vcmVkLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gaGFuZHM6IFt7dmFsdWU6NTAsY29sb3I6J3JlZCd9LHt2YWx1ZTo4MCxjb2xvcjonYmx1ZSd9XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgT3JkZXJTeW5jU3RhdHVzOjpJZ25vcmVkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9wdGlvbnMuZXZlcnkob3B0aW9uID0+IHsKICAgICAgICAgICAgY29uc29sZS5sb2cob3B0aW9uIGluc3RhbmNlb2YgU3RyaW5nKQogICAgICAgICAgfSksCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgaW1wb3J0IFJhbmdlU2xpZGVyIGZyb20gJ34vY29tcG9uZW50cy9SYW5nZVNsaWRlcicKCiAgZXhwb3J0IGRlZmF1bHQgewogICAgbmFtZTogIlJlY3RhbmdsZUdyYXBoIiwKICAgIGRhdGE6ICgpID0+ICh7CiAgICAgIHZhbHVlOiAwLAogICAgfSksCiAgICBjb21wb25lbnRzOiB7IFJhbmdlU2xpZGVyIH0sCiAgICBwcm9wczogewogICAgICBvcHRpb25zOiB7CiAgICAgICAgdHlwZTogQXJyYXksCiAgICAgICAgcmVxdWlyZWQ6IHRydWUsCiAgICAgICAgdmFsaWRhdG9yOiBvcHRpb25zID0+IFsKICAgICAgICAgIG9wdGlvbnMubGVuZ3RoID49IDIsCiAgICAgICAgICAvLyBvcHRpb25zLmV2ZXJ5KG9wdGlvbiA9PiBvcHRpb24gaW5zdGFuY2VvZiBTdHJpbmcpLAogICAgICAgICAgb3B0aW9ucy5ldmVyeShvcHRpb24gPT4gewogICAgICAgICAgICBjb25zb2xlLmxvZyh0eXBlb2Ygb3B0aW9uKQogICAgICAgICAgfSksCiAgICAgICAgXS5ldmVyeShjb25kaXRpb24gPT4gY29uZGl0aW9uID09PSB0cnVlKQogICAgICB9CiAgICB9LAogICAgY29tcHV0ZWQ6IHsKICAgICAgbGVmdExhYmVsKCkgewogICAgICAgIHJldHVybiB0aGlzLm9wdGlvbnNbMF07CiAgICAgIH0sCiAgICAgIHJpZ2h0TGFiZWwoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMub3B0aW9uc1t0aGlzLm9wdGlvbnMubGVuZ3RoIC0gMV07CiAgICAgIH0sCiAgICB9CiAgfQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBkaXNwbGF5U3RhdHVzKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnRlbmFudC0+ZnVsZmlsbWVudEFwaSgpLT5kaXNwbGF5U3RhdHVzKCR0aGlzLT5zdGF0dXMpOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICA8cmVjdGFuZ2xlLWdyYXBoPjwvcmVjdGFuZ2xlLWdyYXBoPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gU3RhdHVzOjptYWtlKCdTeW5jIHN0YXR1cycsICdzeW5jX3N0YXR1cycpLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -424,10 +410,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJlY3RhbmdsZSI+CiAgICAgIHt7IG9wdGlvbnNbdmFsdWVdIH19CiAgICA8L2Rpdj4K</text>
+      <register name="9" type="4">
+        <text encoding="base64">LT53aXRoTWV0YShbCiAgICAgICAgICAgICAgICAnb25seU9uRm9ybXMnID0+IHRydWUsCiAgICAgICAgICAgIF0pOw==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2xlZnQvcmlnaHQvZw==</text>
