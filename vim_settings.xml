@@ -35,6 +35,9 @@
         <mark key="." line="28" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Jobs/UpdateProductStock.php" timestamp="1557401231023" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1557409185173">
+        <mark key="'" line="685" column="1167" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/composer.json" timestamp="1557402139950">
         <mark key="[" line="24" column="47" />
         <mark key="]" line="24" column="48" />
@@ -125,6 +128,9 @@
         <mark key="." line="27" column="56" />
         <mark key="^" line="27" column="56" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/storage/logs/laravel-2019-04-29.log" timestamp="1556616823463">
+        <mark key="'" line="17" column="156" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Enums/OrderSyncStatus.php" timestamp="1557401667873">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -152,11 +158,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/lungage-pwa/nuxt.config.js" timestamp="1557212893697">
+        <mark key="'" line="73" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/NicoudAdapter.php" timestamp="1557395482826">
         <mark key="[" line="43" column="44" />
         <mark key="]" line="43" column="44" />
         <mark key="." line="43" column="44" />
         <mark key="^" line="43" column="63" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoorColors.php" timestamp="1556542371278">
+        <mark key="'" line="9" column="26" />
       </file>
       <file name="/PHP Console" timestamp="1557402525577">
         <mark key="[" line="0" column="0" />
@@ -231,6 +243,9 @@
         <mark key="]" line="38" column="15" />
         <mark key="." line="38" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Http/Requests/IndexOrderRequest.php" timestamp="1556790884166">
+        <mark key="'" line="62" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page3.blade.php" timestamp="1556530982143">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
@@ -250,10 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="19" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
-      <jump line="77" column="24" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
-      <jump line="116" column="0" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
       <jump line="41" column="20" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
       <jump line="73" column="58" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
       <jump line="61" column="61" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" />
@@ -350,6 +361,10 @@
       <jump line="53" column="62" filename="$USER_HOME$/Projects/materialen/app/Jobs/SyncOrder.php" />
       <jump line="57" column="0" filename="$USER_HOME$/Projects/materialen/app/Jobs/SyncOrder.php" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/materialen/app/Jobs/SyncOrder.php" />
+      <jump line="652" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+      <jump line="669" column="41" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+      <jump line="676" column="39" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+      <jump line="685" column="1167" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -362,7 +377,7 @@
         <text>\App\Nova</text>
       </register>
       <register name="/" type="4">
-        <text>\$0</text>
+        <text>-</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCAkb3JkZXI7Cg==</text>
@@ -422,9 +437,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\$0</last-search>
+      <last-search>-</last-search>
       <last-offset />
-      <last-pattern>\$0</last-pattern>
+      <last-pattern>-</last-pattern>
       <last-replace>tenant</last-replace>
       <last-substitute>order</last-substitute>
       <last-dir>1</last-dir>
@@ -432,7 +447,6 @@
     </search>
     <history>
       <history-search>
-        <entry>v-</entry>
         <entry>men</entry>
         <entry>range</entry>
         <entry>if</entry>
@@ -452,6 +466,7 @@
         <entry>order</entry>
         <entry>$0</entry>
         <entry>\$0</entry>
+        <entry>-</entry>
       </history-search>
       <history-cmd>
         <entry>s/00/16/g</entry>
