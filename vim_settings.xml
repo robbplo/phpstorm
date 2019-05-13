@@ -98,6 +98,11 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/lungage-pwa/pages/lungage/assessment.vue" timestamp="1557748246677">
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/lungage-pwa/pages/index.vue" timestamp="1557309794903">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -322,13 +327,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcmUK</text>
+        <text encoding="base64">ICB3YXRjaDogewogICAgcmVzdWx0cyh2YWwpIHsKICAgICAgaWYgKHZhbC5nZW5kZXIgPT0gJ21hbGUnICYmIHZhbC5hZ2UgIT0gZmFsc2UgJiYgdmFsLmhlaWdodCAhPSBmYWxzZSkgewogICAgICAgIHZhbC5sdW5nQWdlID0gTWF0aC5mbG9vcih2YWwueWVhcnNTbW9raW5nICogMikKICAgICAgfQogICAgICBpZiAodmFsLmdlbmRlciA9PSAnZmVtYWxlJyAmJiB2YWwuYWdlICE9IGZhbHNlICYmIHZhbC5oZWlnaHQgIT0gZmFsc2UpIHsKICAgICAgICB2YWwubHVuZ0FnZSA9IE1hdGguZmxvb3IodmFsLnllYXJzU21va2luZyAvIDIpCiAgICAgIH0KICAgIH0KICB9LAo=</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, oldVal</text>
       </register>
       <register name="/" type="4">
         <text>cards</text>
@@ -337,28 +342,29 @@
         <text encoding="base64">ICAgICAgICAgICAgMzAgPT4gJzMwIERheXMnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcmUK</text>
+        <text encoding="base64">ICB3YXRjaDogewogICAgcmVzdWx0cyh2YWwpIHsKICAgICAgaWYgKHZhbC5nZW5kZXIgPT0gJ21hbGUnICYmIHZhbC5hZ2UgIT0gZmFsc2UgJiYgdmFsLmhlaWdodCAhPSBmYWxzZSkgewogICAgICAgIHZhbC5sdW5nQWdlID0gTWF0aC5mbG9vcih2YWwueWVhcnNTbW9raW5nICogMikKICAgICAgfQogICAgICBpZiAodmFsLmdlbmRlciA9PSAnZmVtYWxlJyAmJiB2YWwuYWdlICE9IGZhbHNlICYmIHZhbC5oZWlnaHQgIT0gZmFsc2UpIHsKICAgICAgICB2YWwubHVuZ0FnZSA9IE1hdGguZmxvb3IodmFsLnllYXJzU21va2luZyAvIDIpCiAgICAgIH0KICAgIH0KICB9LAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHsKICAgICAgaGFuZGxlcjogZnVuY3Rpb24g</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQouZm9vdGVyLXdpZGUtZ3JlZW4gewo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcwo=</text>
+        <text encoding="base64">ICAgICAgZGVlcDogCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+      <register name="5" type="4">
+        <text>true
+    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXdpbGwtY2hhbmdlOiBiYWNrZ3JvdW5kLXBvc2l0aW9uOwo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcwo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQoJdHJhbnNpdGlvbjogYmFja2dyb3VuZC1wb3NpdGlvbiA3MDBtcyBlYXNlLWluLW91dCAzMjBtczsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -380,10 +386,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcwo=</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">PT09PT09PQouZm9vdGVyLXdpZGUtZ3JlZW4gewo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/30/7/g</text>
