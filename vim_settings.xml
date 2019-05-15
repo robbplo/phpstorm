@@ -94,6 +94,9 @@
         <mark key="]" line="22" column="17" />
         <mark key="." line="22" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/vesca-old/resources/assets/js/components/results/Filters.vue" timestamp="1557826368067">
+        <mark key="'" line="171" column="54" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_05_02_093243_create_orders_products_table.php" timestamp="1556789602020">
         <mark key="[" line="15" column="37" />
         <mark key="]" line="15" column="37" />
@@ -213,6 +216,9 @@
         <mark key="]" line="24" column="42" />
         <mark key="." line="24" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/vesca-old/resources/assets/js/components/tabs/components/property/BuildingSubTypes.vue" timestamp="1557919419083">
+        <mark key="'" line="72" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/storage/logs/laravel-2019-05-03.log" timestamp="1556872993790">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -243,10 +249,10 @@
         <mark key="^" line="63" column="18" />
         <mark key="." line="63" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/store/modules/optionFilters.js" timestamp="1557912294325">
+      <file name="$USER_HOME$/Projects/vesca/resources/js/store/modules/optionFilters.js" timestamp="1557918405427">
         <mark key="'" line="52" column="3" />
         <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="4" />
+        <mark key="]" line="10" column="17" />
         <mark key="." line="10" column="4" />
         <mark key="^" line="65" column="25" />
       </file>
@@ -309,12 +315,11 @@
         <mark key="." line="6" column="222" />
         <mark key="^" line="6" column="222" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/property/BuildingSubTypes.vue" timestamp="1557913931621">
-        <mark key="'" line="191" column="8" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-        <mark key="^" line="128" column="45" />
+      <file name="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/property/BuildingSubTypes.vue" timestamp="1557919765484">
+        <mark key="'" line="88" column="73" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Nova/Order.php" timestamp="1557488004071">
         <mark key="'" line="7" column="0" />
@@ -392,13 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="$USER_HOME$/Projects/materialen/app/Jobs/SyncOrder.php" />
-      <jump line="14" column="0" filename="$USER_HOME$/Projects/materialen/app/Jobs/SyncOrder.php" />
-      <jump line="652" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
-      <jump line="669" column="41" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
-      <jump line="676" column="39" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
-      <jump line="685" column="1167" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
-      <jump line="24" column="9" filename="$USER_HOME$/Projects/materialen/routes/web.php" />
       <jump line="39" column="22" filename="$USER_HOME$/Projects/materialen/routes/web.php" />
       <jump line="23" column="12" filename="$USER_HOME$/Projects/materialen/routes/web.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/materialen/composer.json" />
@@ -492,47 +490,53 @@
       <jump line="20" column="42" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/property/BuildingSubTypes.vue" />
       <jump line="198" column="8" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/property/BuildingSubTypes.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/vesca/app/Console/Commands/UpdateApplicationLimits.php" />
+      <jump line="193" column="6" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/property/BuildingSubTypes.vue" />
+      <jump line="197" column="24" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/property/BuildingSubTypes.vue" />
+      <jump line="200" column="35" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/property/BuildingSubTypes.vue" />
+      <jump line="2" column="45" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/property/BuildingSubTypes.vue" />
+      <jump line="136" column="40" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/property/BuildingSubTypes.vue" />
+      <jump line="91" column="73" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/property/BuildingSubTypes.vue" />
+      <jump line="72" column="30" filename="$USER_HOME$/Projects/vesca-old/resources/assets/js/components/tabs/components/property/BuildingSubTypes.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMucmVzdWx0c1tpbmRleF0ucmVidWlsZF92YWx1ZXNfbTIgPSBwYXJzZUludCh0aGlzLiRyb290LnVzZXJPcmlnaW5hbFN1YnR5cGVzW3RoaXMuJHJvb3QuY2FsY3VsYXRpb25dW25hbWVdKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>this.selectedBuildingType</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>self</text>
+        <text>filt</text>
       </register>
-      <register name="0" type="4">
-        <text>Woonhuis</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLiRzdG9yZS5kaXNwYXRjaCgnZmlsdGVycy9yZW1vdmUnLCB7CiAgICAgICAgICBzZWdtZW50OiAnYnVpbGRpbmdfc3VidHlwZScsCiAgICAgICAgICBvYmplY3Q6IG51bGwKICAgICAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMucmVzdWx0c1tpbmRleF0ucmVidWlsZF92YWx1ZXNfbTIgPSBwYXJzZUludCh0aGlzLiRyb290LnVzZXJPcmlnaW5hbFN1YnR5cGVzW3RoaXMuJHJvb3QuY2FsY3VsYXRpb25dW25hbWVdKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMucmVzdWx0c1tpbmRleF0ucmVidWlsZF92YWx1ZXMgPSBwYXJzZUludCh0aGlzLiRyb290LnVzZXJPcmlnaW5hbFN1YnR5cGVzW3RoaXMuJHJvb3QuY2FsY3VsYXRpb25dW25hbWVdKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjbGVhciBzdWJ0eXBlcyBmcm9tIGZpbHRlcnMK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICB0aGlzLiRzdG9yZS5kaXNwYXRjaCgnZmlsdGVycy9yZW1vdmUnLCB7CiAgICAgICAgICBzZWdtZW50OiAnYnVpbGRpbmdfc3VidHlwZScsCiAgICAgICAgICBvYmplY3Q6IG51bGwKICAgICAgICB9KQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5jdXJyZW50VHlwZSA9PSAnYXBwYXJ0ZW1lbnQnKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRzdG9yZS5qamoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKHRoaXMuY3VycmVudFR5cGUgPT0gJ3dvb25odWlzJykgewogICAgICAgICAgdGhpcy5maWx0ZXJlZCA9IHRoaXMuJHN0b3JlLnN0YXRlLmxpbWl0cy5idWlsZGluZ19zdWJ0eXBlczsKICAgICAgICAgIHRoaXMucmVzdWx0cyA9IHRoaXMuJHN0b3JlLnN0YXRlLmxpbWl0cy5idWlsZGluZ19zdWJ0eXBlczsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRzdG9yZS5qamoK</text>
       </register>
-      <register name="7" type="4">
-        <text>;
-                name = name</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG1vdW50ZWQoKSB7CiAgICAgIC8vIHRoaXMuZ2V0UmVzdWx0cygnV29vbmh1aXMnKTsKICAgIH0sCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -553,20 +557,20 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">QnVzLiRvbigndXBkYXRlLWJ1aWxkaW5nX3N1YnR5cGUtcmVzdWx0cycsIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgbmFtZSA9ICd0ZXN0JwoKICAgICAgICByZXR1cm4gbmFtZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHNlbGYgPSB0aGlzOwoKICAgICAgICAgICAgQnVzLiRvbigncmVtb3ZlLWJ1aWxkaW5nX3N1YnR5cGUnLCBzZWxmLnJlbW92ZVNlbGVjdGVkKTsKICAgICAgICAgICAgQnVzLiRvbignZmF2b3JpdGUtYnVpbGRpbmdfc3VidHlwZScsIHNlbGYuZnJvbUZhdm9yaXRlKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2NvbW1pdC9wYXlsb2Fk</text>
       </register>
     </registers>
     <search>
-      <last-search>self</last-search>
+      <last-search>filt</last-search>
       <last-offset />
-      <last-pattern>self</last-pattern>
+      <last-pattern>filt</last-pattern>
       <last-replace>payload</last-replace>
       <last-substitute>commit</last-substitute>
       <last-dir>1</last-dir>
@@ -574,7 +578,6 @@
     </search>
     <history>
       <history-search>
-        <entry>30</entry>
         <entry>cards</entry>
         <entry>laravel</entry>
         <entry>&quot;</entry>
@@ -594,6 +597,7 @@
         <entry>face</entry>
         <entry>hr</entry>
         <entry>self</entry>
+        <entry>filt</entry>
       </history-search>
       <history-cmd>
         <entry>/detail</entry>
