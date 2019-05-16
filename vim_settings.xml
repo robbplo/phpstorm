@@ -22,18 +22,19 @@
       <file name="/fragment.js" timestamp="1557931035221">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/fields/Housenumber.vue" timestamp="1557994735143">
-        <mark key="'" line="60" column="12" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="58" column="18" />
+      <file name="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/fields/Housenumber.vue" timestamp="1557997164893">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+        <mark key="^" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/Index.vue" timestamp="1557994973116">
-        <mark key="'" line="90" column="20" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
+      <file name="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/Index.vue" timestamp="1557999155943">
+        <mark key="'" line="32" column="9" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="^" line="102" column="32" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/property/BuildingTypes.vue" timestamp="1557913094322">
         <mark key="[" line="35" column="9" />
@@ -66,12 +67,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/fields/Street.vue" timestamp="1557993953189">
-        <mark key="'" line="5" column="13" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="5" column="13" />
+      <file name="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/fields/Street.vue" timestamp="1557999632820">
+        <mark key="'" line="81" column="18" />
+        <mark key="[" line="81" column="12" />
+        <mark key="]" line="81" column="13" />
+        <mark key="." line="81" column="13" />
+        <mark key="^" line="81" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Filters.vue" timestamp="1557827849266">
         <mark key="[" line="148" column="0" />
@@ -239,12 +240,12 @@
       <file name="$USER_HOME$/Projects/vesca-old/storage/logs/laravel-2019-05-14.log" timestamp="1557818130222">
         <mark key="'" line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/components/fields/AdvancedSelect.vue" timestamp="1557992627375">
-        <mark key="'" line="80" column="20" />
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="80" column="20" />
-        <mark key="." line="80" column="20" />
-        <mark key="^" line="80" column="20" />
+      <file name="$USER_HOME$/Projects/vesca/resources/js/components/fields/AdvancedSelect.vue" timestamp="1557998507837">
+        <mark key="'" line="81" column="7" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="81" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/resources/views/layouts/_partials/scripts.blade.php" timestamp="1557836110698">
         <mark key="'" line="18" column="76" />
@@ -261,15 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/property/dimensions/HouseDimensions.vue" />
-      <jump line="17" column="16" filename="$USER_HOME$/Projects/vesca-old/storage/logs/laravel-2019-05-14.log" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/vesca-old/app/Exceptions/Handler.php" />
-      <jump line="60" column="12" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/fields/Housenumber.vue" />
-      <jump line="18" column="76" filename="$USER_HOME$/Projects/vesca/resources/views/layouts/_partials/scripts.blade.php" />
-      <jump line="52" column="12" filename="$USER_HOME$/Projects/vesca/resources/js/components/filters/Filters.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/property/dimensions/ApartmentDimensions.vue" />
-      <jump line="58" column="67" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/fields/Street.vue" />
-      <jump line="3" column="32" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/fields/Street.vue" />
       <jump line="0" column="10635" filename="$USER_HOME$/Projects/vesca/node_modules/vue-select/dist/vue-select.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/notifiers/Error.vue" />
       <jump line="96" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/notifiers/Error.vue" />
@@ -361,46 +353,58 @@
       <jump line="50" column="10" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/fields/Street.vue" />
       <jump line="93" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/fields/Street.vue" />
       <jump line="5" column="13" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/fields/Street.vue" />
+      <jump line="18" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/fields/Housenumber.vue" />
+      <jump line="62" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/fields/Housenumber.vue" />
+      <jump line="96" column="34" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/Index.vue" />
+      <jump line="12" column="36" filename="$USER_HOME$/Projects/vesca/resources/js/components/fields/AdvancedSelect.vue" />
+      <jump line="82" column="7" filename="$USER_HOME$/Projects/vesca/resources/js/components/fields/AdvancedSelect.vue" />
+      <jump line="85" column="28" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/fields/Street.vue" />
+      <jump line="28" column="9" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/Index.vue" />
+      <jump line="29" column="9" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/Index.vue" />
+      <jump line="81" column="18" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/fields/Street.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgQGlucHV0PSIkZW1pdCgnaW5wdXQnLCAkZXZlbnQpIgo=</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>minLength: 2, maxLengtbbbh:</text>
+        <text>v-model=&quot;location.street&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>self</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgOmNsZWFyYWJsZT0iZmFsc2UiCg==</text>
+      <register name="0" type="4">
+        <text>: {
+        type: Boolean,
+        default: true
+      }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgQGlucHV0PSIkZW1pdCgnaW5wdXQnLCAkZXZlbnQpIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vdW50ZWQoKSB7CiAgICAgIEJ1cy4kb24oJ3JlbW92ZS1sb2NhdGlvbicsIHRoaXMucmVtb3ZlTG9jYXRpb24pOwogICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMubG9jYXRpb24uc3RyZWV0Lm5hbWUgPSBsb2NhdGlvbi5zdHJlZXQubmFtZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDp2YWx1ZT0ibG9jYXRpb24uc3RyZWV0IgogICAgICAgICAgQGlucHV0PSJsb2NhdGlvbi5zdHJlZXQubmFtZSA9ICRldmVudC5uYW1lIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29uZmlybSgnV2VldCB1IHpla2VyIGRhdCB1IGRlemUgbG9jYXRpZSB3aWx0IHdpanppZ2VuPycpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgOnJlc2V0LW9uLW9wdGlvbnMtY2hhbmdlPSJ0cnVlIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2V0RnJvbUZhdm9yaXRlKGRhdGEpIHsKICAgICAgICB0aGlzLmxvY2F0aW9ucyA9IFtdOwogICAgICAgIHRoaXMubG9jYXRpb25zLnB1c2goZGF0YS52YWx1ZSk7CgogICAgICAgIHRoaXMuJHN0b3JlLmRpc3BhdGNoKCdmaWx0ZXJzL3NldCcsIHsKICAgICAgICAgIHNlZ21lbnQ6ICdsb2NhdGlvbnMnLAogICAgICAgICAgb2JqZWN0OiBkYXRhCiAgICAgICAgfSk7CiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQnVzLiRvbignZmF2b3JpdGUtbG9jYXRpb25zJywgdGhpcy5zZXRGcm9tRmF2b3JpdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgcmVzZXRPbk9wdGlvbnNDaGFuZ2U6IHsKICAgICAgICB0eXBlOiBCb29sZWFuLAogICAgICAgIGRlZmF1bHQ6IGZhbHNlCiAgICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnVwZGF0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgOnJlc2V0LW9uLW9wdGlvbnMtY2hhbmdlPSJyZXNldE9uT3B0aW9uc0NoYW5nZSIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -422,28 +426,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdXBkYXRlKHZhbHVlID0geyBuYW1lOiAnR2VlbicgfSkgewoKICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIHdhdGNoOiB7CiAgICAgICdsb2NhdGlvbi5jaXR5JyhuLCBvKSB7CiAgICAgICAgY29uc29sZS5sb2coe24sb30pCiAgICAgIH0KICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh2YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgOnJlc2V0LW9uLW9wdGlvbnMtY2hhbmdlPSJ0cnVlIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/&quot;/'</text>
+        <text>s/value/name/g</text>
       </register>
     </registers>
     <search>
-      <last-search>self</last-search>
+      <last-search encoding="base64">IA==</last-search>
       <last-offset />
-      <last-pattern>self</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>self</last-substitute>
+      <last-pattern encoding="base64">IA==</last-pattern>
+      <last-replace>name</last-replace>
+      <last-substitute>value</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>root</entry>
-        <entry>deb</entry>
         <entry>var</entry>
         <entry>label</entry>
         <entry>commit</entry>
@@ -462,9 +464,10 @@
         <entry>vale</entry>
         <entry>val</entry>
         <entry>self</entry>
+        <entry>value</entry>
+        <entry encoding="base64">IA==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2FkZHJlc3NfZGVsaXZlcnkvY29udGFjdF9kZXRhaWxzL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2FkZHJlc3NfZGVsaXZlcnkvc2hpcHBpbmdfYWRkcmVzcy9n</entry>
         <entry encoding="base64">JzwsJz5zL2tleS92YWx1ZQ==</entry>
         <entry encoding="base64">JzwsJz5zL251bGwvW10vZw==</entry>
@@ -484,6 +487,7 @@
         <entry encoding="base64">JzwsJz5zL2NvbW1pdC9wYXlsb2Fk</entry>
         <entry>s/'/`/g</entry>
         <entry>s/&quot;/'</entry>
+        <entry>s/value/name/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
