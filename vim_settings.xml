@@ -56,6 +56,9 @@
         <mark key="." line="4" column="101" />
         <mark key="^" line="4" column="101" />
       </file>
+      <file name="$USER_HOME$/Projects/vesca/app/Http/Kernel.php" timestamp="1558419980287">
+        <mark key="[" line="43" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/vesca/resources/js/components/filters/Filters.vue" timestamp="1558095721664">
         <mark key="[" line="68" column="37" />
         <mark key="]" line="68" column="45" />
@@ -69,18 +72,18 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/fields/Street.vue" timestamp="1558094038269">
+      <file name="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/fields/Street.vue" timestamp="1558420463492">
         <mark key="'" line="51" column="8" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="37" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Filters.vue" timestamp="1558361654780">
-        <mark key="'" line="178" column="6" />
-        <mark key="[" line="92" column="13" />
-        <mark key="]" line="92" column="12" />
-        <mark key="." line="92" column="12" />
-        <mark key="^" line="92" column="12" />
+      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Filters.vue" timestamp="1558421311042">
+        <mark key="'" line="140" column="7" />
+        <mark key="[" line="34" column="37" />
+        <mark key="]" line="149" column="0" />
+        <mark key="^" line="34" column="17" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/resources/js/store/index.js" timestamp="1558094485327">
         <mark key="'" line="11" column="0" />
@@ -114,11 +117,10 @@
         <mark key="." line="3" column="123" />
         <mark key="^" line="3" column="140" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Results.vue" timestamp="1558361414962">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="68" column="46" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Results.vue" timestamp="1558420353110">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/vesca-old/resources/assets/js/components/results/Tabs.vue" timestamp="1557826495757">
         <mark key="[" line="4" column="57" />
@@ -210,12 +212,12 @@
         <mark key="^" line="63" column="52" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Table.vue" timestamp="1558418715359">
-        <mark key="'" line="92" column="12" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="^" line="256" column="35" />
-        <mark key="." line="115" column="0" />
+      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Table.vue" timestamp="1558420270777">
+        <mark key="'" line="205" column="19" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="^" line="162" column="16" />
+        <mark key="." line="163" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/resources/js/store/modules/search.js" timestamp="1558418621418">
         <mark key="'" line="35" column="12" />
@@ -307,8 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/vesca-old/resources/assets/js/components/tabs/Favorite.vue" />
-      <jump line="20" column="37" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/Favorite.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/Favorite.vue" />
       <jump line="115" column="18" filename="$USER_HOME$/Projects/vesca/resources/js/components/fields/AdvancedSelect.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/fields/AdvancedSelect.vue" />
@@ -407,46 +407,48 @@
       <jump line="49" column="26" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Table.vue" />
       <jump line="85" column="38" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Table.vue" />
       <jump line="92" column="12" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Table.vue" />
+      <jump line="232" column="19" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Table.vue" />
+      <jump line="140" column="7" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Filters.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZmlsdGVyZWRDb2x1bW5zKCkgewogICAgICAgIGNvbnN0IGNvbHVtbnMgPSB0aGlzLiRzdG9yZS5nZXR0ZXJzWydmaWx0ZXJzL2Rpc3BsYXllZENvbHVtbnMnXQoKICAgICAgICBpZiAodGhpcy5maWx0ZXJzLmNvbHVtbnMpIHsKICAgICAgICAgIHJldHVybiBjb2x1bW5zLmZpbHRlcihjb2x1bW4gPT4gdGhpcy5maWx0ZXJzLmNvbHVtbnMuaW5jbHVkZXMoY29sdW1uLmxhYmVsKSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBjb2x1bW5zOwogICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLiRzdG9yZS5kaXNwYXRjaCgnZmlsdGVycy9yZW1vdmUnLCB7CiAgICAgICAgLy8gICAgIHNlZ21lbnQ6ICdyZWZlcmVuY2VfZGF0ZScsCiAgICAgICAgLy8gICAgIG9iamVjdDogbnVsbAogICAgICAgIC8vIH0pCg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>results</text>
+        <text>values</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLi4ubWFwU3RhdGUoewogICAgICAgICAgICAgICAgdG90YWw6IHN0YXRlID0+IHN0YXRlLnNlYXJjaC5tZXRhLnRvdGFsLAogICAgICAgICAgICAgICAgcmVtb3ZlZDogc3RhdGUgPT4gc3RhdGUuc2VhcmNoLm1ldGEuZGVsZXRlZCwKICAgICAgICAgICAgfSksCg==</text>
+        <text encoding="base64">ICAgICAgQGlucHV0PSIkZW1pdCgnaW5wdXQnLCAkZXZlbnQpIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZmlsdGVyZWRDb2x1bW5zKCkgewogICAgICAgIGNvbnN0IGNvbHVtbnMgPSB0aGlzLiRzdG9yZS5nZXR0ZXJzWydmaWx0ZXJzL2Rpc3BsYXllZENvbHVtbnMnXQoKICAgICAgICBpZiAodGhpcy5maWx0ZXJzLmNvbHVtbnMpIHsKICAgICAgICAgIHJldHVybiBjb2x1bW5zLmZpbHRlcihjb2x1bW4gPT4gdGhpcy5maWx0ZXJzLmNvbHVtbnMuaW5jbHVkZXMoY29sdW1uLmxhYmVsKSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBjb2x1bW5zOwogICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLiRzdG9yZS5kaXNwYXRjaCgnZmlsdGVycy9yZW1vdmUnLCB7CiAgICAgICAgLy8gICAgIHNlZ21lbnQ6ICdyZWZlcmVuY2VfZGF0ZScsCiAgICAgICAgLy8gICAgIG9iamVjdDogbnVsbAogICAgICAgIC8vIH0pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLiRzdG9yZS5kaXNwYXRjaCgnc2VhcmNoL2dldFJlc3VsdHMnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIEBpbnB1dD0iJGVtaXQoJ2lucHV0JywgJGV2ZW50KSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAncmVzdWx0cycsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKHZhciBpbmRleCA9IDA7IGluZGV4IDwgdGhpcy5saW5rcy5sZW5ndGg7IGluZGV4KyspIHsKICAgICAgICAgIHZhciBsaW5rID0gdGhpcy5saW5rc1tpbmRleF07CiAgICAgICAgICB0aGlzLmxpbmtzW2luZGV4XS5hY3RpdmUgPSBjbGlja2VkTGluay5sYWJlbCA9PSBsaW5rLmxhYmVsCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsaWNrZWRMaW5rLnVybCA9PSBsaW5rLnVybAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIG1vdW50ZWQoKSB7CiAgICAgIEJ1cy4kb24oJ3Jlc3RvcmUtc2VsZWN0ZWQnLCB0aGlzLnJlc3RvcmVTZWxlY3RlZCk7CiAgICB9LAogICAgbWV0aG9kczogewogICAgICByZXN0b3JlU2VsZWN0ZWQoKSB7CiAgICAgICAgdGhpcy4kc3RvcmUuY29tbWl0KCdzZWFyY2gvU0VUX1JFTU9WRUQnLCBbXSkKICAgICAgfQogICAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKSB7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5saW5rc1tpbmRleF0uYWN0aXZlID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgcmVzdG9yZVNlbGVjdGVkKCkgewogICAgICAgIEJ1cy4kZW1pdCgncmVzdG9yZS1zZWxlY3RlZCcpOwogICAgICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5saW5rc1tpbmRleF0uYWN0aXZlID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiRzdG9yZS5kaXNwYXRjaCgnc2VhcmNoL2dldFJlc3VsdHMnKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -468,27 +470,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBmYWxzZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCB7IG1hcFN0YXRlIH0gZnJvbSAndnVleCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5hbGxTZWxlY3RlZCkgewogICAgICAgICAgdGhpcy5zZWxlY3RlZCA9IFtdOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICB0aGlzLnNlbGVjdGVkID0gdGhpcy5yZXN1bHRzOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>s/$root//g</text>
+        <text encoding="base64">JzwsJz5zL3ZhbHVlcy92YWwvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>results</last-search>
+      <last-search>values</last-search>
       <last-offset />
-      <last-pattern>results</last-pattern>
-      <last-replace />
-      <last-substitute>$root</last-substitute>
+      <last-pattern>values</last-pattern>
+      <last-replace>val</last-replace>
+      <last-substitute>values</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>e</entry>
         <entry>refe</entry>
         <entry>res</entry>
         <entry>meta</entry>
@@ -508,9 +509,9 @@
         <entry>dis</entry>
         <entry>gett</entry>
         <entry>results</entry>
+        <entry>values</entry>
       </history-search>
       <history-cmd>
-        <entry>s/order/tenant/g</entry>
         <entry>s/'/&quot;/g</entry>
         <entry>s/30/7/g</entry>
         <entry>wq</entry>
@@ -530,6 +531,7 @@
         <entry encoding="base64">JzwsJz5zL3RoaXMvJHZtMC9n</entry>
         <entry encoding="base64">JzwsJz5zLyR2bTAvdGhpcy9n</entry>
         <entry>s/$root//g</entry>
+        <entry encoding="base64">JzwsJz5zL3ZhbHVlcy92YWwvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
