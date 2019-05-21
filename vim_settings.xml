@@ -77,12 +77,12 @@
         <mark key="]" line="5" column="37" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Filters.vue" timestamp="1558424761049">
-        <mark key="'" line="103" column="8" />
-        <mark key="[" line="133" column="58" />
-        <mark key="]" line="133" column="55" />
-        <mark key="." line="133" column="55" />
-        <mark key="^" line="133" column="55" />
+      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Filters.vue" timestamp="1558425912657">
+        <mark key="'" line="144" column="2" />
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+        <mark key="^" line="150" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/resources/js/store/index.js" timestamp="1558094485327">
         <mark key="'" line="11" column="0" />
@@ -308,7 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="25" filename="$USER_HOME$/Projects/vesca/resources/js/components/fields/AdvancedSelect.vue" />
       <jump line="64" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/fields/City.vue" />
       <jump line="113" column="15" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/Index.vue" />
       <jump line="116" column="12" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/location/Index.vue" />
@@ -408,46 +407,47 @@
       <jump line="130" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Filters.vue" />
       <jump line="50" column="61" filename="$USER_HOME$/Projects/vesca/resources/js/store/modules/filters.js" />
       <jump line="103" column="8" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Filters.vue" />
+      <jump line="146" column="2" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Filters.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
-      </register>
-      <register name="/" type="4">
         <text>remove</text>
       </register>
+      <register name="/" type="4">
+        <text>re</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZW1vdmVGaWx0ZXI6ICdmaWx0ZXJzL3JlbW92ZScK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlbW92ZUZpbHRlcih7IHNlZ21lbnQ6ICdyZWZlcmVuY2VfZGF0ZScgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLi4ubWFwQWN0aW9ucyh7CiAgICAgICAgcmVtb3ZlRmlsdGVyOiAnZmlsdGVycy9yZW1vdmUnCiAgICAgIH0pLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBCdXMuJGVtaXQoJ3JlbW92ZS1maWx0ZXInLCAncmVmZXJlbmNlX3JlZ2lvbicsIG51bGwpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBpZiAoXy5pc09iamVjdChvYmopICYmIG9iai5oYXNPd25Qcm9wZXJ0eSgnbGFiZWwnKSAmJiBvYmouaGFzT3duUHJvcGVydHkoJ3ZhbHVlJykpIHsKICAgICAgICAvLyAgIHRoaXMuJHN0b3JlLmRpc3BhdGNoKCdmaWx0ZXJzL3NldCcsIHsKICAgICAgICAvLyAgICAgc2VnbWVudDogJ3JlZmVyZW5jZV9kYXRlJywKICAgICAgICAvLyAgICAgb2JqZWN0OiB7CiAgICAgICAgLy8gICAgICAgdHlwZTogJ3JlZmVyZW5jZV9kYXRlJywKICAgICAgICAvLyAgICAgfQogICAgICAgIC8vICAgfSk7CiAgICAgICAgLy8gfQoKICAgICAgICBCdXMuJGVtaXQoJ2dldC1yZXN1bHRzJyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBsYWJlbDogIlBlaWxqYWFyOiAiICsgb2JqLmxhYmVsLAogICAgICAgICAgICAgIHZhbHVlOiBvYmoudmFsdWUK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgIG9iamVjdDogbnVsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAoXy5pc09iamVjdChyZWdpb24pICYmIHJlZ2lvbi5oYXNPd25Qcm9wZXJ0eSgnbGFiZWwnKSAmJiByZWdpb24uaGFzT3duUHJvcGVydHkoJ3ZhbHVlJykpIHsKICAgICAgICAvLyAgIEJ1cy4kZW1pdCgnc2V0LWZpbHRlcicsICdyZWZlcmVuY2VfcmVnaW9uJywgewogICAgICAgIC8vICAgICB0eXBlOiAncmVmZXJlbmNlX3JlZ2lvbicsCiAgICAgICAgLy8gICAgIGxhYmVsOiAiSW5kZXg6ICIgKyByZWdpb24ubGFiZWwsCiAgICAgICAgLy8gICAgIHZhbHVlOiByZWdpb24udmFsdWUKICAgICAgICAvLyAgIH0pOwogICAgICAgIC8vIH0KCiAgICAgICAgLy8gQnVzLiRlbWl0KCdnZXQtcmVzdWx0cycpOwo=</text>
+        <text encoding="base64">ICAgICAgLi4ubWFwQWN0aW9ucyh7CiAgICAgICAgcmVtb3ZlRmlsdGVyOiAnZmlsdGVycy9yZW1vdmUnCiAgICAgIH0pLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -469,19 +469,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/remove/set/g</text>
       </register>
     </registers>
     <search>
-      <last-search>remove</last-search>
+      <last-search>re</last-search>
       <last-offset />
-      <last-pattern>remove</last-pattern>
+      <last-pattern>re</last-pattern>
       <last-replace>set</last-replace>
       <last-substitute>remove</last-substitute>
       <last-dir>1</last-dir>
@@ -489,7 +489,6 @@
     </search>
     <history>
       <history-search>
-        <entry>v-</entry>
         <entry>mapS</entry>
         <entry>col</entry>
         <entry>met</entry>
@@ -509,6 +508,7 @@
         <entry>fi</entry>
         <entry>setF</entry>
         <entry>remove</entry>
+        <entry>re</entry>
       </history-search>
       <history-cmd>
         <entry>s/30/7/g</entry>
