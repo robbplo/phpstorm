@@ -57,7 +57,7 @@
         <mark key="." line="66" column="31" />
         <mark key="^" line="66" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" timestamp="1558518462650">
+      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" timestamp="1558520636724">
         <mark key="'" line="23" column="26" />
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
@@ -110,22 +110,15 @@
         <mark key="." line="14" column="46" />
         <mark key="^" line="14" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" timestamp="1558519388974">
-        <mark key="'" line="166" column="48" />
-        <mark key="[" line="125" column="24" />
-        <mark key="]" line="125" column="35" />
-        <mark key="." line="125" column="24" />
-        <mark key="^" line="125" column="23" />
+      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" timestamp="1558521064175">
+        <mark key="'" line="187" column="24" />
+        <mark key="[" line="32" column="53" />
+        <mark key="]" line="32" column="40" />
+        <mark key="^" line="32" column="40" />
+        <mark key="." line="32" column="40" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="13" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Table.vue" />
-      <jump line="99" column="7" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Filters.vue" />
-      <jump line="178" column="6" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Filters.vue" />
-      <jump line="35" column="12" filename="$USER_HOME$/Projects/vesca/resources/js/store/modules/search.js" />
-      <jump line="96" column="14" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Table.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Table.vue" />
-      <jump line="18" column="48" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Table.vue" />
       <jump line="41" column="19" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Table.vue" />
       <jump line="49" column="26" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Table.vue" />
       <jump line="85" column="38" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Table.vue" />
@@ -219,10 +212,17 @@
       <jump line="171" column="59" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" />
       <jump line="158" column="33" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" />
       <jump line="166" column="48" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" />
+      <jump line="126" column="43" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" />
+      <jump line="362" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" />
+      <jump line="361" column="4" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" />
+      <jump line="294" column="6" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" />
+      <jump line="190" column="22" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" />
+      <jump line="187" column="24" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>housenumber</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPC92YWxpZGF0b3I+Cg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
@@ -231,34 +231,34 @@
         <text>housenumber</text>
       </register>
       <register name="/" type="4">
-        <text>:class</text>
+        <text>validator</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGlmICh0aGlzLmhhc05vQ29vcmRpbmF0ZXMocmVzdWx0KSkgewogICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgIH0KCiAgICAgICAgICBjb25zdCBtYXJrZXIgPSB0aGlzLmNyZWF0ZU1hcmtlcihyZXN1bHQsIGluZGV4KTsKICAgICAgICAgIExhdExuZ0JvdW5kcy5leHRlbmQobWFya2VyLnBvc2l0aW9uKTsKICAgICAgICAgIHRoaXMubWFya2Vycy5wdXNoKG1hcmtlcik7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgICAgJ2hhcy1lcnJvcic6ICR2YWxpZGF0b3IuaG91c2VudW1iZXIuaW52YWxpZCAmJiAkdmFsaWRhdG9yLmhvdXNlbnVtYmVyLmRpcnR5LAogICAgICAgICAgICAgICAgJ2hhcy1zdWNjZXNzJzogJHZhbGlkYXRvci5ob3VzZW51bWJlci52YWxpZCAmJiAkdmFsaWRhdG9yLmhvdXNlbnVtYmVyLm1vZGlmaWVkCiAgICAgICAgICAgICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgPC92YWxpZGF0b3I+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAnaGFzLWVycm9yJzogKAogICAgICAgICAgICAgICAgICAgICAgJHZhbGlkYXRvci5wb3N0Y29kZV9udW1iZXJzLmludmFsaWQgfHwgJHZhbGlkYXRvci5wb3N0Y29kZV9sZXR0ZXJzLmludmFsaWQKICAgICAgICAgICAgICAgICAgKSAmJiAoCiAgICAgICAgICAgICAgICAgICAgICAkdmFsaWRhdG9yLnBvc3Rjb2RlX251bWJlcnMuZGlydHkgfHwgJHZhbGlkYXRvci5wb3N0Y29kZV9sZXR0ZXJzLmRpcnR5CiAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICdoYXMtc3VjY2Vzcyc6ICgKICAgICAgICAgICAgICAgICAgICAgICR2YWxpZGF0b3IucG9zdGNvZGVfbnVtYmVycy52YWxpZCAmJiAkdmFsaWRhdG9yLnBvc3Rjb2RlX2xldHRlcnMudmFsaWQKICAgICAgICAgICAgICAgICAgKSAmJiAoCiAgICAgICAgICAgICAgICAgICAgICAkdmFsaWRhdG9yLnBvc3Rjb2RlX251bWJlcnMubW9kaWZpZWQgJiYgJHZhbGlkYXRvci5wb3N0Y29kZV9sZXR0ZXJzLm1vZGlmaWVkCiAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgPHZhbGlkYXRvciBuYW1lPSJ2YWxpZGF0b3IiPgo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgICAgJ2hhcy1lcnJvcic6ICR2YWxpZGF0b3IuaG91c2VudW1iZXIuaW52YWxpZCAmJiAkdmFsaWRhdG9yLmhvdXNlbnVtYmVyLmRpcnR5LAogICAgICAgICAgICAgICAgJ2hhcy1zdWNjZXNzJzogJHZhbGlkYXRvci5ob3VzZW51bWJlci52YWxpZCAmJiAkdmFsaWRhdG9yLmhvdXNlbnVtYmVyLm1vZGlmaWVkCiAgICAgICAgICAgICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOnJlYWRvbmx5PSIhaGFzQmFzaWNDcmVkZW50aWFscyIK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAnaGFzLWVycm9yJzogKAogICAgICAgICAgICAgICAgICAgICAgJHZhbGlkYXRvci5wb3N0Y29kZV9udW1iZXJzLmludmFsaWQgfHwgJHZhbGlkYXRvci5wb3N0Y29kZV9sZXR0ZXJzLmludmFsaWQKICAgICAgICAgICAgICAgICAgKSAmJiAoCiAgICAgICAgICAgICAgICAgICAgICAkdmFsaWRhdG9yLnBvc3Rjb2RlX251bWJlcnMuZGlydHkgfHwgJHZhbGlkYXRvci5wb3N0Y29kZV9sZXR0ZXJzLmRpcnR5CiAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICAgICdoYXMtc3VjY2Vzcyc6ICgKICAgICAgICAgICAgICAgICAgICAgICR2YWxpZGF0b3IucG9zdGNvZGVfbnVtYmVycy52YWxpZCAmJiAkdmFsaWRhdG9yLnBvc3Rjb2RlX2xldHRlcnMudmFsaWQKICAgICAgICAgICAgICAgICAgKSAmJiAoCiAgICAgICAgICAgICAgICAgICAgICAkdmFsaWRhdG9yLnBvc3Rjb2RlX251bWJlcnMubW9kaWZpZWQgJiYgJHZhbGlkYXRvci5wb3N0Y29kZV9sZXR0ZXJzLm1vZGlmaWVkCiAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgOnJlYWRvbmx5PSIhaGFzQmFzaWNDcmVkZW50aWFscyIK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgICAgJ2hhcy1lcnJvcic6ICR2YWxpZGF0b3IuYnVpbGR5ZWFyLmludmFsaWQgJiYgJHZhbGlkYXRvci5idWlsZHllYXIuZGlydHksCiAgICAgICAgICAgICAgICAnaGFzLXN1Y2Nlc3MnOiAkdmFsaWRhdG9yLmJ1aWxkeWVhci52YWxpZCAmJiAkdmFsaWRhdG9yLmJ1aWxkeWVhci5kaXJ0eQogICAgICAgICAgICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZGRkZAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdoYXMtZXJyb3InOiAkdmFsaWRhdG9yLnVzZXJkaW1lbnNpb25zLmludmFsaWQgJiYgJHZhbGlkYXRvci51c2VyZGltZW5zaW9ucy5kaXJ0eSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnaGFzLXN1Y2Nlc3MnOiAkdmFsaWRhdG9yLnVzZXJkaW1lbnNpb25zLnZhbGlkICYmICR2YWxpZGF0b3IudXNlcmRpbWVuc2lvbnMuZGlydHkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHdhdGNoOiB7CiAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdoYXMtZXJyb3InOiAkdmFsaWRhdG9yLnVzZXJkaW1lbnNpb25zLmludmFsaWQgJiYgJHZhbGlkYXRvci51c2VyZGltZW5zaW9ucy5kaXJ0eSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnaGFzLXN1Y2Nlc3MnOiAkdmFsaWRhdG9yLnVzZXJkaW1lbnNpb25zLnZhbGlkICYmICR2YWxpZGF0b3IudXNlcmRpbWVuc2lvbnMuZGlydHkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgb2JqZWN0OiB7CiAgICAgICAgZGVlcDogdHJ1ZSwKICAgICAgICBoYW5kbGVyKCkgewogICAgICAgICAgdGhpcy4kZW1pdCgndXBkYXRlOm9iamVjdCcsIHRoaXMub2JqZWN0KQogICAgICAgIH0KICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -279,20 +279,20 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">OmNsYXNzPSJ7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2hhcy1lcnJvcic6ICR2YWxpZGF0b3IuZGltZW5zaW9ucy5pbnZhbGlkICYmICR2YWxpZGF0b3IuZGltZW5zaW9ucy5kaXJ0eSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnaGFzLXN1Y2Nlc3MnOiAkdmFsaWRhdG9yLmRpbWVuc2lvbnMudmFsaWQgJiYgJHZhbGlkYXRvci5kaW1lbnNpb25zLmRpcnR5CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhZGQK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICAgICAgJ2hhcy1lcnJvcic6ICR2YWxpZGF0b3IuaG91c2VudW1iZXIuaW52YWxpZCAmJiAkdmFsaWRhdG9yLmhvdXNlbnVtYmVyLmRpcnR5LAogICAgICAgICAgICAgICAgJ2hhcy1zdWNjZXNzJzogJHZhbGlkYXRvci5ob3VzZW51bWJlci52YWxpZCAmJiAkdmFsaWRhdG9yLmhvdXNlbnVtYmVyLm1vZGlmaWVkCiAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLz09Lz09PS9n</text>
       </register>
     </registers>
     <search>
-      <last-search>:class</last-search>
+      <last-search>validator</last-search>
       <last-offset />
-      <last-pattern>:class</last-pattern>
+      <last-pattern>validator</last-pattern>
       <last-replace>===</last-replace>
       <last-substitute>==</last-substitute>
       <last-dir>1</last-dir>
@@ -300,8 +300,6 @@
     </search>
     <history>
       <history-search>
-        <entry>s</entry>
-        <entry>optionF</entry>
         <entry>colu</entry>
         <entry>ite</entry>
         <entry encoding="base64">Pg==</entry>
@@ -320,6 +318,8 @@
         <entry>==</entry>
         <entry>}</entry>
         <entry>:class</entry>
+        <entry>watch</entry>
+        <entry>validator</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLy5yZWZlcmVuY2VfcmVnaW9uL1tmaWx0ZXJOYW1lXS9n</entry>
