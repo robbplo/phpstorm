@@ -109,14 +109,6 @@
         <mark key="^" line="107" column="32" />
         <mark key="." line="107" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Maps.vue" timestamp="1558530218934">
-        <mark key="'" line="100" column="19" />
-        <mark key="k" line="128" column="0" />
-        <mark key="[" line="1" column="63" />
-        <mark key="]" line="1" column="63" />
-        <mark key="." line="1" column="63" />
-        <mark key="^" line="116" column="9" />
-      </file>
       <file name="$USER_HOME$/Projects/vesca/resources/views/pdf/pages/object_modelmarktwaarde.blade.php" timestamp="1558691571290">
         <mark key="[" line="17" column="90" />
         <mark key="]" line="17" column="90" />
@@ -143,10 +135,18 @@
         <mark key="^" line="42" column="21" />
         <mark key="." line="42" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/bootstrap.js" timestamp="1558516832892">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/Projects/vesca/resources/js/app.js" timestamp="1558698884249">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="1" />
+        <mark key="." line="109" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/vesca/resources/js/bootstrap.js" timestamp="1558699399897">
+        <mark key="'" line="77" column="70" />
+        <mark key="[" line="31" column="3" />
+        <mark key="]" line="30" column="42" />
+        <mark key="^" line="30" column="42" />
+        <mark key="." line="30" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Results.vue" timestamp="1558614605072">
         <mark key="[" line="1" column="29" />
@@ -169,23 +169,16 @@
         <mark key="." line="14" column="46" />
         <mark key="^" line="14" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" timestamp="1558610256531">
-        <mark key="p" line="310" column="38" />
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="278" column="0" />
-        <mark key="]" line="278" column="72" />
-        <mark key="." line="308" column="0" />
-        <mark key="^" line="361" column="32" />
+      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" timestamp="1558699602821">
+        <mark key="p" line="313" column="38" />
+        <mark key="'" line="113" column="20" />
+        <mark key="[" line="104" column="47" />
+        <mark key="]" line="104" column="57" />
+        <mark key="." line="104" column="57" />
+        <mark key="^" line="104" column="57" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="22" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Results.vue" />
-      <jump line="99" column="24" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Particulars.vue" />
-      <jump line="110" column="23" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" />
-      <jump line="151" column="49" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/ModelMarketValue.vue" />
-      <jump line="163" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/ModelMarketValue.vue" />
-      <jump line="18" column="15" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/ModelMarketValue.vue" />
-      <jump line="37" column="66" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/ModelMarketValue.vue" />
       <jump line="100" column="7" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/ModelMarketValue.vue" />
       <jump line="65" column="7" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/ModelMarketValue.vue" />
       <jump line="91" column="4" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/ModelMarketValue.vue" />
@@ -279,46 +272,53 @@
       <jump line="143" column="0" filename="$USER_HOME$/Projects/vesca-old/app/Console/Commands/FetchCoordinatesByAddress.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/vesca/app/Console/Commands/FetchCoordinatesByAddress.php" />
       <jump line="46" column="19" filename="$USER_HOME$/Projects/vesca/app/Console/Commands/FetchCoordinatesByAddress.php" />
+      <jump line="77" column="2" filename="$USER_HOME$/Projects/vesca/resources/js/app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/app.js" />
+      <jump line="173" column="43" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" />
+      <jump line="12" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" />
+      <jump line="70" column="70" filename="$USER_HOME$/Projects/vesca/resources/js/bootstrap.js" />
+      <jump line="343" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" />
+      <jump line="113" column="20" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{{  }}</text>
+        <text>name</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>{{  }}</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
-        <text>creating</text>
+        <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDpvbi1zdWJtaXQ9Im5leHRTdGVwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWU9ImhvdXNlbnVtYmVyIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gdmFsaWRhdGVBZGRyZXNzICgpIHsKICAgICAgLy8gICAgIGlmICgKICAgICAgLy8gICAgICAgICB0aGlzLmluZm8ub2JqZWN0LmNpdHkgPT0gIiIgfHwKICAgICAgLy8gICAgICAgICB0aGlzLmluZm8ub2JqZWN0LnN0cmVldCA9PSAiIiB8fAogICAgICAvLyAgICAgICAgIHRoaXMuaW5mby5vYmplY3QuaG91c2VudW1iZXIgPT0gIiIgfHwKICAgICAgLy8gICAgICAgICB0aGlzLmluZm8ub2JqZWN0LnBvc3Rjb2RlID09ICIiCiAgICAgIC8vICAgICApIHsKICAgICAgLy8gICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgIC8vICAgICB9CiAgICAgIC8vICAgICByZXR1cm4gdHJ1ZTsKICAgICAgLy8gfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcmVmPSJwb3N0Y29kZV9udW1iZXJzIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAoISB0aGlzLnZhbGlkYXRlQWRkcmVzcygpKSB7CiAgICAgICAgLy8gICAgIHRoaXMuc2V0U3RlcCgxKTsKICAgICAgICAvLyAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIC8vIH0K</text>
+        <text encoding="base64">XSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBvcnQgeyBpc0VtcHR5IH0gZnJvbSAnbG9kYXNoJzsK</text>
+        <text encoding="base64">ICAgICAgdmFsaWFkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IFZlZVZhbGlkYXRlIGZyb20gJ3ZlZS12YWxpZGF0ZScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9uU3VibWl0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgIC8vIEJ1cy4kb24oJ2NyZWF0ZS1yYXBwb3J0JywgdGhpcy5jcmVhdGVSYXBwb3J0KTsKICAgICAgLy8gQnVzLiRvbignY3JlYXRlLXJhcHBvcnQtZG9uZScsIHRoaXMuY3JlYXRlUmFwcG9ydERvbmUpOwo=</text>
+        <text encoding="base64">aWYgKHdpbmRvdy5OUHJvZ3Jlc3MgPT09IHVuZGVmaW5lZCkgewogIHdpbmRvdy5OUHJvZ3Jlc3MgPSByZXF1aXJlKCducHJvZ3Jlc3MnKQp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gY3JlYXRlUmFwcG9ydCgpIHsKICAgICAgLy8gICB0aGlzLmNyZWF0aW5nID0gdHJ1ZTsKICAgICAgLy8gfSwKICAgICAgLy8gY3JlYXRlUmFwcG9ydERvbmUoKSB7CiAgICAgIC8vICAgdGhpcy5jcmVhdGluZyA9IGZhbHNlOwogICAgICAvLyB9LAo=</text>
+        <text encoding="base64">ICAgICAgLy8gdmFsaWRhdGVBZGRyZXNzICgpIHsKICAgICAgLy8gICAgIGlmICgKICAgICAgLy8gICAgICAgICB0aGlzLmluZm8ub2JqZWN0LmNpdHkgPT0gIiIgfHwKICAgICAgLy8gICAgICAgICB0aGlzLmluZm8ub2JqZWN0LnN0cmVldCA9PSAiIiB8fAogICAgICAvLyAgICAgICAgIHRoaXMuaW5mby5vYmplY3QuaG91c2VudW1iZXIgPT0gIiIgfHwKICAgICAgLy8gICAgICAgICB0aGlzLmluZm8ub2JqZWN0LnBvc3Rjb2RlID09ICIiCiAgICAgIC8vICAgICApIHsKICAgICAgLy8gICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgIC8vICAgICB9CiAgICAgIC8vICAgICByZXR1cm4gdHJ1ZTsKICAgICAgLy8gfSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -340,19 +340,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAoISB0aGlzLnZhbGlkYXRlQWRkcmVzcygpKSB7CiAgICAgICAgLy8gICAgIHRoaXMuc2V0U3RlcCgxKTsKICAgICAgICAvLyAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIC8vIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTlByb2dyZXNzLmRvbmUoKTsK</text>
+        <text encoding="base64">ICBpbXBvcnQgeyBpc0VtcHR5IH0gZnJvbSAnbG9kYXNoJzsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Zhci9sZXQvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>creating</last-search>
+      <last-search>name</last-search>
       <last-offset />
-      <last-pattern>creating</last-pattern>
+      <last-pattern>name</last-pattern>
       <last-replace>let</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -360,7 +360,6 @@
     </search>
     <history>
       <history-search>
-        <entry>2</entry>
         <entry>this</entry>
         <entry>fun</entry>
         <entry>re</entry>
@@ -380,6 +379,7 @@
         <entry>var</entry>
         <entry>[</entry>
         <entry>creating</entry>
+        <entry>name</entry>
       </history-search>
       <history-cmd>
         <entry>s/this.filters/this.$store.state.filters.filters/g</entry>
