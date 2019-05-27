@@ -114,6 +114,13 @@
       <file name="$USER_HOME$/Projects/vesca/app/Services/AddressLookup.php" timestamp="1558691056938">
         <mark key="'" line="200" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Users/userManager.vue" timestamp="1558957664787">
+        <mark key="'" line="139" column="39" />
+        <mark key="[" line="186" column="21" />
+        <mark key="]" line="187" column="32" />
+        <mark key="." line="187" column="32" />
+        <mark key="^" line="187" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/Offer.js" timestamp="1558955124864" />
       <file name="$USER_HOME$/Projects/vesca/node_modules/vue-select/src/components/Select.vue" timestamp="1558443133248">
         <mark key="'" line="821" column="7" />
@@ -172,14 +179,6 @@
         <mark key="." line="502" column="15" />
         <mark key="^" line="502" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" timestamp="1558943270600">
-        <mark key="p" line="317" column="38" />
-        <mark key="'" line="317" column="37" />
-        <mark key="[" line="341" column="30" />
-        <mark key="]" line="343" column="79" />
-        <mark key="." line="343" column="79" />
-        <mark key="^" line="343" column="79" />
-      </file>
       <file name="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" timestamp="1558945933353" />
       <file name="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Boats/bargeReports.vue" timestamp="1558956223780">
         <mark key="'" line="30" column="23" />
@@ -190,8 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/fields/StreetviewCapture.vue" />
-      <jump line="259" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/fields/StreetviewCapture.vue" />
       <jump line="142" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" />
       <jump line="141" column="44" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" />
@@ -290,16 +287,18 @@
       <jump line="37" column="0" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Planning/Reports/Reports.vue" />
       <jump line="32" column="26" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Boats/bargeReports.vue" />
       <jump line="30" column="23" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Boats/bargeReports.vue" />
+      <jump line="181" column="25" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Users/userManager.vue" />
+      <jump line="139" column="39" filename="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Users/userManager.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0ZSAocm93LCBjb2x1bW4pIHsKICAgICAgICAgICAgICAgIHJldHVybiBtb21lbnQocm93KS5mb3JtYXQoJ0REL01NL1knKTsKICAgICAgICAgICAgfSwK</text>
+      <register name="&quot;" type="4">
+        <text>return</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>, column</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>date</text>
