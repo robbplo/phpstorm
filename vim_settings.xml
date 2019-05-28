@@ -12,6 +12,12 @@
       <file name="/a.dummy" timestamp="1559034785856">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen/app/Product.php" timestamp="1559044786495">
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="32" />
+        <mark key="^" line="16" column="5" />
+        <mark key="." line="15" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/api/User/Http/Requests/StoreWithBargeRequest.php" timestamp="1558958424744" />
       <file name="$USER_HOME$/Projects/materialen/api/v1/Controllers/ProductController.php" timestamp="1559039355210">
         <mark key="[" line="38" column="0" />
@@ -41,6 +47,12 @@
       </file>
       <file name="$USER_HOME$/Projects/lungage-api/routes/web.php" timestamp="1559032377058">
         <mark key="[" line="17" column="78" />
+      </file>
+      <file name="$USER_HOME$/Projects/vesca/resources/views/pdf/pages/object_modelmarktwaarde.blade.php" timestamp="1558691571290">
+        <mark key="[" line="17" column="90" />
+        <mark key="]" line="17" column="90" />
+        <mark key="^" line="17" column="44" />
+        <mark key="." line="17" column="90" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/RoofPlating.php" timestamp="1558950563295">
         <mark key="[" line="47" column="19" />
@@ -120,6 +132,12 @@
         <mark key="." line="39" column="71" />
         <mark key="^" line="39" column="71" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/BuildingDimensions.php" timestamp="1558949803338">
+        <mark key="[" line="116" column="8" />
+        <mark key="]" line="116" column="7" />
+        <mark key="." line="116" column="7" />
+        <mark key="^" line="116" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/vesca/resources/js/store/modules/search.js" timestamp="1558942860388">
         <mark key="'" line="87" column="37" />
         <mark key="[" line="59" column="22" />
@@ -182,6 +200,12 @@
       <file name="/fragment.php" timestamp="1558949678764">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/vesca/resources/js/bootstrap.js" timestamp="1558701716992">
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="21" column="18" />
+        <mark key="." line="21" column="18" />
+        <mark key="^" line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/lungage-api/.env.example" timestamp="1559029936840">
         <mark key="'" line="47" column="8" />
         <mark key="[" line="46" column="0" />
@@ -195,10 +219,11 @@
         <mark key="." line="33" column="39" />
         <mark key="^" line="33" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/Product.php" timestamp="1559037883578">
-        <mark key="[" line="130" column="16" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/Product.php" timestamp="1559045295000">
+        <mark key="[" line="84" column="51" />
+        <mark key="]" line="84" column="49" />
+        <mark key="^" line="84" column="49" />
+        <mark key="." line="84" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/lungage-api/app/Http/Requests/AssessmentRequest.php" timestamp="1559034723801">
         <mark key="[" line="12" column="0" />
@@ -214,6 +239,12 @@
         <mark key="]" line="19" column="19" />
         <mark key="^" line="19" column="19" />
         <mark key="." line="19" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_05_28_115545_add_sort_order_column_to_products-table.php" timestamp="1559044616110">
+        <mark key="[" line="16" column="41" />
+        <mark key="]" line="28" column="44" />
+        <mark key="^" line="28" column="44" />
+        <mark key="." line="28" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -319,46 +350,44 @@
       <jump line="56" column="0" filename="$USER_HOME$/Projects/lungage-api/storage/logs/laravel-2019-05-28.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>).fromNow();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>).fromNow();</text>
+        <text>order_column</text>
       </register>
       <register name="/" type="4">
         <text>ind</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICR0aW1lID0gbmV3IENhcmJvbihTdG9yYWdlOjpsYXN0TW9kaWZpZWQoJGZpbGVuYW1lKSk7CiAgICByZXR1cm4gcmVzcG9uc2UoJHRpbWUtPnRvRGF0ZVRpbWVTdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdwcm9kdWN0cycsIGZ1bmN0aW9uIChCbHVlcHJpbnQgJHRhYmxlKSB7CiAgICAgICAgICAgIAogICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiByZXNwb25zZShTdG9yYWdlOjpsYXN0TW9kaWZpZWQoJGZpbGVuYW1lKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHt7IHRpbWUgfX0K</text>
+        <text encoding="base64">CgogICAgLyoKICAgICAqIFJldHVybiBvbmx5IHRoZSBjdXJyZW50IHByb2R1Y3Qgd2hlbiBjcmVhdGluZyByZWxhdGVkIG1vZGVscwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC50aGVuKHJlcyA9PiB7CiAgICAgICAgCiAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-            this.loading = false
-          }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAnc29ydF93aGVuX2NyZWF0aW5nJyA9PiB0cnVlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN0b3JhZ2U6Omhhcwo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPmhpZGVGcm9tSW5kZXgoKSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -380,10 +409,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFydGlzYW46OmNhbGwoJ3Byb2R1Y3RzOmNhY2hlJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnL3B1cmdlJywgZnVuY3Rpb24gKFJlcXVlc3QgJHJlcXVlc3QpIHsKICAgIEFydGlzYW46OmNhbGwoJ3Byb2R1Y3RzOmNhY2hlJyk7Cn0pLT5uYW1lKCdwcm9kdWN0cy5wdXJnZScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
