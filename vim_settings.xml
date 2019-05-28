@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" timestamp="1559059630591">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="39" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/lungage-api/app/Http/Controllers/DocumentController.php" timestamp="1559037241511">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -31,10 +37,6 @@
         <mark key="]" line="55" column="32" />
         <mark key="." line="55" column="32" />
         <mark key="^" line="55" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/materialen/api/v1/Controllers/ProductController.php" timestamp="1559039355210">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="40" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Cover.vue" timestamp="1558941963782">
         <mark key="[" line="59" column="0" />
@@ -256,6 +258,11 @@
         <mark key="." line="45" column="21" />
         <mark key="^" line="45" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen-pwa/plugins/vuex-persist.js" timestamp="1559058760799">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/Offer.js" timestamp="1558955124864" />
       <file name="$USER_HOME$/Projects/lungage-api/app/Helpers/DocumentFilename.php" timestamp="1559033812459">
         <mark key="[" line="10" column="58" />
@@ -278,6 +285,7 @@
         <mark key="^" line="30" column="22" />
         <mark key="." line="30" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/materialen-pwa/components/layout/asideCart.vue" timestamp="1559059179803" />
       <file name="$USER_HOME$/Projects/lungage-api/app/Http/Requests/EmailResultsRequest.php" timestamp="1559034751587">
         <mark key="[" line="32" column="48" />
         <mark key="]" line="32" column="48" />
@@ -326,13 +334,10 @@
         <mark key="." line="30" column="39" />
         <mark key="^" line="31" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/lungage-api/app/Http/Requests/AssessmentRequest.php" timestamp="1559034723801">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="17" column="51" />
-      </file>
-      <file name="$USER_HOME$/Projects/lungage-api/app/Helpers/StringGenerator.php" timestamp="1559033716704">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="6" column="21" />
+      <file name="$USER_HOME$/Projects/materialen-pwa/store/modules/auth.js" timestamp="1559059028064">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Nova/Category.php" timestamp="1559052594364">
         <mark key="[" line="14" column="0" />
@@ -456,13 +461,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQogICAgCiAgICAgcmV0dXJuIHNvcnRCeShwcm9kdWN0cywgJ3NvcnRfb3JkZXInKTsKPj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>updatePro</text>
@@ -471,28 +476,28 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgJGRlZmF1bHRTb3J0RmllbGQgPSAnbWVudV9vcmRlcic7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQogICAgCiAgICAgcmV0dXJuIHNvcnRCeShwcm9kdWN0cywgJ3NvcnRfb3JkZXInKTsKPj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHF1ZXJ5LT53aGVyZSgnYWN0aXZlJywgJHZhbHVlWydhY3RpdmUnXSk7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdmFsdWVbJ2FjdGl2ZSddKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHZhbHVlWycnXSkK</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgCj09PT09PT0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gaW5kZXhRdWVyeShOb3ZhUmVxdWVzdCAkcmVxdWVzdCwgJHF1ZXJ5KQogICAgewogICAgICAgICRxdWVyeS0+b3JkZXJCeSgnc29ydF9vcmRlcicsICdkZXNjJyk7CgogICAgICAgIHJldHVybiBwYXJlbnQ6OmluZGV4UXVlcnkoJHJlcXVlc3QsICRxdWVyeSk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIC8vIH0pCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -514,10 +519,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29udHJhY3RzXFF1ZXVlXFNob3VsZFF1ZXVlOwo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IFByb2R1Y3QgZnJvbSAifi9tb2RlbHMvUHJvZHVjdCI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAic3BhdGllL2Vsb3F1ZW50LXNvcnRhYmxlIjogIl4zLjYiLAo=</text>
+        <text encoding="base64">ICBjbGVhclN0YXRlKHsgY29tbWl0fSkgewogICAgY29tbWl0KCdSRVNFVCcpCiAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
