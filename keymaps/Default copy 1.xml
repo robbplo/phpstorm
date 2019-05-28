@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="ChangeSignature">
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" />
@@ -28,6 +31,7 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="MinimizeCurrentWindow" />
   <action id="ParameterInfo" />
   <action id="PasteMultiple" />
   <action id="PhpListenDebugAction">
@@ -40,6 +44,7 @@
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="ReplaceInPath" />
+  <action id="TodoViewGroupByShowModules" />
   <action id="Uml.ShowDiff" />
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="shift meta v" />
