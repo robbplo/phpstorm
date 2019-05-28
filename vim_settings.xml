@@ -48,12 +48,7 @@
       <file name="$USER_HOME$/Projects/lungage-api/routes/web.php" timestamp="1559032377058">
         <mark key="[" line="17" column="78" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/views/pdf/pages/object_modelmarktwaarde.blade.php" timestamp="1558691571290">
-        <mark key="[" line="17" column="90" />
-        <mark key="]" line="17" column="90" />
-        <mark key="^" line="17" column="44" />
-        <mark key="." line="17" column="90" />
-      </file>
+      <file name="$USER_HOME$/Projects/materialen/vendor/naxon/nova-field-sortable/src/Http/Controllers/ResourceSortingController.php" timestamp="1559047822016" />
       <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/RoofPlating.php" timestamp="1558950563295">
         <mark key="[" line="47" column="19" />
         <mark key="]" line="47" column="19" />
@@ -132,12 +127,6 @@
         <mark key="." line="39" column="71" />
         <mark key="^" line="39" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/BuildingDimensions.php" timestamp="1558949803338">
-        <mark key="[" line="116" column="8" />
-        <mark key="]" line="116" column="7" />
-        <mark key="." line="116" column="7" />
-        <mark key="^" line="116" column="7" />
-      </file>
       <file name="$USER_HOME$/Projects/vesca/resources/js/store/modules/search.js" timestamp="1558942860388">
         <mark key="'" line="87" column="37" />
         <mark key="[" line="59" column="22" />
@@ -146,6 +135,9 @@
         <mark key="^" line="59" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/api/User/Http/Controllers/UserController.php" timestamp="1558955691613" />
+      <file name="/PHP Console" timestamp="1559047991453">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Sections/Roof.php" timestamp="1558950479565">
         <mark key="[" line="36" column="5" />
         <mark key="]" line="27" column="5" />
@@ -200,11 +192,11 @@
       <file name="/fragment.php" timestamp="1558949678764">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/bootstrap.js" timestamp="1558701716992">
-        <mark key="[" line="21" column="18" />
-        <mark key="]" line="21" column="18" />
-        <mark key="." line="21" column="18" />
-        <mark key="^" line="27" column="0" />
+      <file name="$USER_HOME$/Projects/materialen/vendor/naxon/nova-field-sortable/src/Concerns/SortsIndexEntries.php" timestamp="1559047508116">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="51" />
+        <mark key="^" line="18" column="23" />
+        <mark key="." line="18" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/lungage-api/.env.example" timestamp="1559029936840">
         <mark key="'" line="47" column="8" />
@@ -219,11 +211,11 @@
         <mark key="." line="33" column="39" />
         <mark key="^" line="33" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Nova/Product.php" timestamp="1559045295000">
-        <mark key="[" line="84" column="51" />
-        <mark key="]" line="84" column="49" />
-        <mark key="^" line="84" column="49" />
-        <mark key="." line="84" column="49" />
+      <file name="$USER_HOME$/Projects/materialen/app/Nova/Product.php" timestamp="1559047166110">
+        <mark key="[" line="91" column="22" />
+        <mark key="]" line="91" column="22" />
+        <mark key="." line="91" column="22" />
+        <mark key="^" line="92" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/lungage-api/app/Http/Requests/AssessmentRequest.php" timestamp="1559034723801">
         <mark key="[" line="12" column="0" />
@@ -240,8 +232,8 @@
         <mark key="^" line="19" column="19" />
         <mark key="." line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_05_28_115545_add_sort_order_column_to_products-table.php" timestamp="1559044616110">
-        <mark key="[" line="16" column="41" />
+      <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_05_28_115545_add_sort_order_column_to_products-table.php" timestamp="1559047290161">
+        <mark key="[" line="16" column="53" />
         <mark key="]" line="28" column="44" />
         <mark key="^" line="28" column="44" />
         <mark key="." line="28" column="44" />
@@ -350,44 +342,44 @@
       <jump line="56" column="0" filename="$USER_HOME$/Projects/lungage-api/storage/logs/laravel-2019-05-28.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZW1wdHkoJHJlcXVlc3QtPmdldCgnb3JkZXJCeScpKQ==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>order_column</text>
+        <text>onlyOnForms</text>
       </register>
       <register name="/" type="4">
         <text>ind</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdwcm9kdWN0cycsIGZ1bmN0aW9uIChCbHVlcHJpbnQgJHRhYmxlKSB7CiAgICAgICAgICAgIAogICAgICAgIH0pOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZW1wdHkoJHJlcXVlc3QtPmdldCgnb3JkZXJCeScpKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPm9ubHlPbkluZGV4KCksCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRleHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgogICAgLyoKICAgICAqIFJldHVybiBvbmx5IHRoZSBjdXJyZW50IHByb2R1Y3Qgd2hlbiBjcmVhdGluZyByZWxhdGVkIG1vZGVscwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgCg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnc29ydF93aGVuX2NyZWF0aW5nJyA9PiB0cnVlLAo=</text>
+        <text encoding="base64">CgogICAgLyoKICAgICAqIFJldHVybiBvbmx5IHRoZSBjdXJyZW50IHByb2R1Y3Qgd2hlbiBjcmVhdGluZyByZWxhdGVkIG1vZGVscwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPmhpZGVGcm9tSW5kZXgoKSwK</text>
+        <text encoding="base64">ICAgICAgICAnc29ydF93aGVuX2NyZWF0aW5nJyA9PiB0cnVlLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -409,10 +401,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPmhpZGVGcm9tSW5kZXgoKSwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
