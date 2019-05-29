@@ -108,11 +108,11 @@
         <mark key="^" line="51" column="32" />
         <mark key="." line="51" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/lungage-api/config/pdf.php" timestamp="1559131228182">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="19" />
+      <file name="$USER_HOME$/Projects/lungage-api/config/pdf.php" timestamp="1559135043612">
+        <mark key="[" line="3" column="70" />
+        <mark key="]" line="3" column="79" />
+        <mark key="^" line="3" column="79" />
+        <mark key="." line="3" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/resources/assets/js/components/pages/Management/Boats/bargeReports.vue" timestamp="1558956223780">
         <mark key="'" line="30" column="23" />
@@ -249,16 +249,17 @@
         <mark key="^" line="10" column="4" />
         <mark key="." line="10" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/lungage-api/app/Http/Requests/PdfRequest.php" timestamp="1559133192980">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="33" column="61" />
+      <file name="$USER_HOME$/Projects/lungage-api/app/Http/Requests/PdfRequest.php" timestamp="1559134470720">
+        <mark key="[" line="26" column="43" />
+        <mark key="]" line="26" column="40" />
+        <mark key="." line="26" column="40" />
+        <mark key="^" line="26" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/lungage-api/app/Jobs/GenerateResultsPdf.php" timestamp="1559133307393">
-        <mark key="'" line="48" column="12" />
-        <mark key="[" line="46" column="5" />
-        <mark key="]" line="48" column="43" />
-        <mark key="." line="48" column="43" />
-        <mark key="^" line="48" column="43" />
+      <file name="$USER_HOME$/Projects/lungage-api/app/Jobs/GenerateResultsPdf.php" timestamp="1559135223232">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="49" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Http/Resources/Product.php" timestamp="1559053529616">
         <mark key="[" line="30" column="24" />
@@ -440,43 +441,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXJsKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXJsIC4gJHBhcmFtcyk7Cg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHJlcXVlc3QtPmV4Y2VwdCgnZW1haWwnKSk=</text>
+        <text>. '/' .</text>
       </register>
       <register name="/" type="4">
         <text>B</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JHJlcXVlc3QtPm9ubHkoR2VuZXJhdGVSZXN1bHRzUGRmOjphbGxvd2VkS2V5cykp</text>
+        <text>config('pdf.lungage_pdf_url')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXJsKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXJsIC4gJHBhcmFtcyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnJwo=</text>
+        <text encoding="base64">ICAgICAgICAkdXJsID0gc3ByaW50Zihjb25maWcoJ3BkZi5sdW5nYWdlX3BkZl91cmwnKSAuICcvJyAuIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAkdXJsID0gY29uZmlnKCdwZGYubHVuZ2FnZV9wZGZfdXJsJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0ICRkCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXJsIC4gJHBhcmFtcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Jlc3VsdHMuc3ltcHRvbXMnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICdyZXN1bHRzLmZ1bmN0aW9uYWwnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICdyZXN1bHRzLm1lbnRhbCcgPT4gJ3JlcXVpcmVkJywKICAgICAgICAgICAgJ3Jlc3VsdHMuZmF0aWd1ZScgPT4gJ3JlcXVpcmVkJywKICAgICAgICAgICAgJ3Jlc3VsdHMuZW1vdGlvbnMnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICdyZXN1bHRzLionID0+ICdudW1lcmljfGJldHdlZW46MCwxMCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcGFyYW1zKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgncGRmJywgW1xBcHBcSHR0cFxDb250cm9sbGVyc1xEb2N1bWVudENvbnRyb2xsZXI6OmNsYXNzLCAnaW5kZXgnXSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAkcGFyYW1zID0gJz8nIC4gJHRoaXMtPmRhdGEtPmV4Y2VwdCgnbG9jYWxlJyktPmltcGxvZGUoJyYnKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -494,10 +495,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXJsIC4gJHBhcmFtcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgncGRmJywgW1xBcHBcSHR0cFxDb250cm9sbGVyc1xEb2N1bWVudENvbnRyb2xsZXI6OmNsYXNzLCAnaW5kZXgnXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcGFyYW1zID0gJAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
@@ -508,7 +509,7 @@
       <last-offset />
       <last-pattern>B</last-pattern>
       <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-substitute>B</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
