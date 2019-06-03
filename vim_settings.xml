@@ -107,6 +107,13 @@
       <file name="/PHP Console" timestamp="1559558544533">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/lungage-api/Envoy.blade.php" timestamp="1559570096395">
+        <mark key="'" line="25" column="15" />
+        <mark key="[" line="22" column="11" />
+        <mark key="]" line="22" column="17" />
+        <mark key="." line="22" column="17" />
+        <mark key="^" line="22" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Sections/Roof.php" timestamp="1558950479565">
         <mark key="[" line="36" column="5" />
         <mark key="]" line="27" column="5" />
@@ -247,14 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="8" filename="$USER_HOME$/Projects/lungage-api/.env.example" />
-      <jump line="28" column="15" filename="$USER_HOME$/Projects/lungage-api/.env" />
-      <jump line="19" column="43" filename="$USER_HOME$/Projects/lungage-api/routes/api.php" />
-      <jump line="17" column="5" filename="$USER_HOME$/Projects/lungage-api/app/Notifications/ResultsPdfNotfication.php" />
-      <jump line="15" column="21" filename="$USER_HOME$/Projects/lungage-api/storage/logs/laravel-2019-05-28.log" />
-      <jump line="284" column="56" filename="$USER_HOME$/Projects/lungage-api/storage/logs/laravel-2019-05-28.log" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/lungage-api/storage/logs/laravel-2019-05-28.log" />
-      <jump line="56" column="0" filename="$USER_HOME$/Projects/lungage-api/storage/logs/laravel-2019-05-28.log" />
       <jump line="45" column="13" filename="$USER_HOME$/Projects/materialen/app/Nova/Product.php" />
       <jump line="30" column="3" filename="$USER_HOME$/Projects/materialen/app/Nova/Product.php" />
       <jump line="116" column="27" filename="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProduct/index.vue" />
@@ -347,19 +346,27 @@
       <jump line="361" column="38" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" />
       <jump line="413" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" />
+      <jump line="20" column="42" filename="$USER_HOME$/Projects/lungage-api/Envoy.blade.php" />
+      <jump line="24" column="24" filename="$USER_HOME$/Projects/lungage-api/Envoy.blade.php" />
+      <jump line="73" column="30" filename="$USER_HOME$/Projects/lungage-api/Envoy.blade.php" />
+      <jump line="102" column="23" filename="$USER_HOME$/Projects/lungage-api/Envoy.blade.php" />
+      <jump line="155" column="81" filename="$USER_HOME$/Projects/lungage-api/Envoy.blade.php" />
+      <jump line="21" column="23" filename="$USER_HOME$/Projects/lungage-api/Envoy.blade.php" />
+      <jump line="22" column="17" filename="$USER_HOME$/Projects/lungage-api/Envoy.blade.php" />
+      <jump line="25" column="15" filename="$USER_HOME$/Projects/lungage-api/Envoy.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAndXJsJyA9PiBhc3NldChzcHJpbnRmKCdzdG9yYWdlLyVzJywgYmFzZW5hbWUoJGZpbGVuYW1lKSkpLAo=</text>
+      <register name="&quot;" type="4">
+        <text>master</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>master</text>
       </register>
       <register name="/" type="4">
-        <text>letters</text>
+        <text>master</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3VybCcgPT4gYXNzZXQoc3ByaW50Zignc3RvcmFnZS8lcycsIGJhc2VuYW1lKCRmaWxlbmFtZSkpKSwK</text>
@@ -414,9 +421,9 @@
       </register>
     </registers>
     <search>
-      <last-search>letters</last-search>
+      <last-search>master</last-search>
       <last-offset />
-      <last-pattern>letters</last-pattern>
+      <last-pattern>master</last-pattern>
       <last-replace>numbers</last-replace>
       <last-substitute>letters</last-substitute>
       <last-dir>1</last-dir>
@@ -424,9 +431,6 @@
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
-        <entry>&quot;</entry>
-        <entry>input</entry>
         <entry>'</entry>
         <entry>regions</entry>
         <entry>B</entry>
@@ -444,6 +448,9 @@
         <entry>da</entry>
         <entry>Numbers</entry>
         <entry>letters</entry>
+        <entry>prj</entry>
+        <entry>forge</entry>
+        <entry>master</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0xhcmF2ZWwubGltaXRzL3RoaXMuZGVmYXVsdHMvZw==</entry>
