@@ -25,11 +25,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/app/Http/Controllers/PdfController.php" timestamp="1559554506572">
-        <mark key="[" line="76" column="68" />
-        <mark key="]" line="76" column="67" />
-        <mark key="." line="76" column="67" />
-        <mark key="^" line="76" column="67" />
+      <file name="$USER_HOME$/Projects/vesca/app/Http/Controllers/PdfController.php" timestamp="1559559100266">
+        <mark key="'" line="76" column="63" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
+        <mark key="^" line="128" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Cover.vue" timestamp="1558941963782">
         <mark key="[" line="59" column="0" />
@@ -118,12 +119,12 @@
         <mark key="^" line="51" column="32" />
         <mark key="." line="51" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" timestamp="1559555106858">
-        <mark key="'" line="307" column="8" />
-        <mark key="[" line="274" column="5" />
-        <mark key="]" line="276" column="23" />
-        <mark key="^" line="276" column="23" />
-        <mark key="." line="276" column="23" />
+      <file name="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" timestamp="1559560253459">
+        <mark key="'" line="43" column="20" />
+        <mark key="[" line="106" column="80" />
+        <mark key="]" line="106" column="35" />
+        <mark key="." line="106" column="35" />
+        <mark key="^" line="106" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/lungage-api/config/pdf.php" timestamp="1559135043612">
         <mark key="[" line="3" column="70" />
@@ -194,11 +195,11 @@
         <mark key="^" line="61" column="66" />
         <mark key="." line="61" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" timestamp="1559554602941">
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="^" line="144" column="42" />
-        <mark key="." line="141" column="0" />
+      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" timestamp="1559560022362">
+        <mark key="'" line="166" column="13" />
+        <mark key="[" line="166" column="79" />
+        <mark key="]" line="166" column="79" />
+        <mark key="." line="166" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/resources/views/auth/account/credentials.blade.php" timestamp="1558944844920">
         <mark key="'" line="39" column="71" />
@@ -240,7 +241,7 @@
         <mark key="^" line="39" column="42" />
         <mark key="." line="39" column="42" />
       </file>
-      <file name="/PHP Console" timestamp="1559555235327">
+      <file name="/PHP Console" timestamp="1559558544533">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Sections/Roof.php" timestamp="1558950479565">
@@ -378,9 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="65" filename="$USER_HOME$/Projects/vesca/resources/js/store/modules/search.js" />
-      <jump line="72" column="20" filename="$USER_HOME$/Projects/vesca/resources/js/store/modules/search.js" />
-      <jump line="88" column="37" filename="$USER_HOME$/Projects/vesca/resources/js/store/modules/search.js" />
       <jump line="46" column="20" filename="$USER_HOME$/Projects/vesca/resources/js/store/index.js" />
       <jump line="60" column="12" filename="$USER_HOME$/Projects/vesca-old/resources/assets/js/components/results/Generate.vue" />
       <jump line="197" column="0" filename="$USER_HOME$/Projects/vesca-old/resources/assets/js/components/results/Generate.vue" />
@@ -478,46 +476,49 @@
       <jump line="20" column="192" filename="$USER_HOME$/Projects/vesca/storage/logs/laravel.log" />
       <jump line="285" column="8" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
       <jump line="304" column="8" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
+      <jump line="76" column="63" filename="$USER_HOME$/Projects/vesca/app/Http/Controllers/PdfController.php" />
+      <jump line="43" column="20" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
+      <jump line="166" column="13" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>opmaken</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>opmaken</text>
       </register>
       <register name="/" type="4">
-        <text>calc</text>
+        <text>op</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JHRoaXMtPnBkZlsnZGF0YSddWydvYmplY3QnXVsnaG91c2VudW1iZXInXQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuJHN0b3JlLmRpc3BhdGNoKCdlcnJvck5vdGlmeScsICdFciBpcyBpZXRzIGZvdXQgZ2VnYWFuIGluIGhldCBvcG1ha2VuIHZhbiB1dyByYXBwb3J0LicpCiAgICAgICAgICB0aGlzLmxvYWRpbmcgPSBmYWxzZTsKICAgICAgICAgIHRoaXMuJHN0b3JlLmRpc3BhdGNoKCdzdG9wTG9hZGluZycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2FkaW5nID0gZmFsc2UKICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQGluY2x1ZGUoICdwZGYucGFnZXMub2JqZWN0X3JlZmVyZW5jZXNfbWFwcycgKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBkZCgnYXNkcycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc2VhcmNoKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgnbWFuZCcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgLy8gJ2NvbXBhbnlfbG9nb19mdWxsJyA9PiAic3RvcmFnZS9jb21wYW5pZXMveyR0ZWFtLT51dWlkfS9pbWFnZXMvbG9nb184MDB4NDAwLnBuZyIsCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgnYXNkYWQnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChlbXB0eSgkdGhpcy0+cGRmWydkYXRhJ11bJ29iamVjdCddWydwb3N0Y29kZSddKSB8fCBlbXB0eSgkdGhpcy0+cGRmWydkYXRhJ11bJ29iamVjdCddWydob3VzZW51bWJlciddKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -535,19 +536,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLiRyb290LmNhbGN1bGF0aW9uID0gJ20yJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQGluY2x1ZGUoICdwZGYucGFnZXMub2JqZWN0X3JlZmVyZW5jZXNfbWFwcycgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc2VhcmNoKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>calc</last-search>
+      <last-search>op</last-search>
       <last-offset />
-      <last-pattern>calc</last-pattern>
+      <last-pattern>op</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>B</last-substitute>
       <last-dir>1</last-dir>
@@ -555,8 +556,6 @@
     </search>
     <history>
       <history-search>
-        <entry>create</entry>
-        <entry>place</entry>
         <entry>refe</entry>
         <entry encoding="base64">IA==</entry>
         <entry>date</entry>
@@ -575,6 +574,8 @@
         <entry>2</entry>
         <entry>m2</entry>
         <entry>calc</entry>
+        <entry>down</entry>
+        <entry>op</entry>
       </history-search>
       <history-cmd>
         <entry>s/value/name/g</entry>
