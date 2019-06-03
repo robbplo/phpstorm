@@ -107,11 +107,10 @@
       <file name="/PHP Console" timestamp="1559558544533">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/lungage-api/Envoy.blade.php" timestamp="1559570096395">
-        <mark key="'" line="25" column="15" />
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="22" column="17" />
-        <mark key="." line="22" column="17" />
+      <file name="$USER_HOME$/Projects/lungage-api/Envoy.blade.php" timestamp="1559572332706">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
         <mark key="^" line="22" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Sections/Roof.php" timestamp="1558950479565">
@@ -185,6 +184,12 @@
         <mark key="]" line="6" column="11" />
         <mark key="^" line="26" column="39" />
         <mark key="." line="6" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/lungage-api/app/Http/Kernel.php" timestamp="1559572814690">
+        <mark key="[" line="20" column="49" />
+        <mark key="]" line="21" column="40" />
+        <mark key="^" line="21" column="40" />
+        <mark key="." line="21" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/vendor/naxon/nova-field-sortable/src/Concerns/SortsIndexEntries.php" timestamp="1559047508116">
         <mark key="[" line="18" column="21" />
@@ -356,8 +361,8 @@
       <jump line="25" column="15" filename="$USER_HOME$/Projects/lungage-api/Envoy.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>master</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">e3stLWlmIChpc3NldCgkZW52KSAmJiBpbl9hcnJheSgkZW52LCBbJ3Byb2R1Y3Rpb24nLCAncHJvZCddKSkgey0tfX0Ke3stLSRiYXNlX3BhdGggPSAnL2hvbWUvZm9yZ2UvY3JlZGl0LmJvZWhyaW5nZXItaW50ZXJhY3RpZWYubmwnOy0tfX0Ke3stLSRicmFuY2ggPSAnbWFzdGVyJzstLX19Cnt7LS19LS19fQo=</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
@@ -372,28 +377,28 @@
         <text encoding="base64">ICAgICAgICAgICAgJ3VybCcgPT4gYXNzZXQoc3ByaW50Zignc3RvcmFnZS8lcycsIGJhc2VuYW1lKCRmaWxlbmFtZSkpKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAndXJsJyA9PiBhc3NldChzcHJpbnRmKCdzdG9yYWdlLyVzJywgYmFzZW5hbWUoJGZpbGVuYW1lKSkpLAo=</text>
+        <text encoding="base64">e3stLWlmIChpc3NldCgkZW52KSAmJiBpbl9hcnJheSgkZW52LCBbJ3Byb2R1Y3Rpb24nLCAncHJvZCddKSkgey0tfX0Ke3stLSRiYXNlX3BhdGggPSAnL2hvbWUvZm9yZ2UvY3JlZGl0LmJvZWhyaW5nZXItaW50ZXJhY3RpZWYubmwnOy0tfX0Ke3stLSRicmFuY2ggPSAnbWFzdGVyJzstLX19Cnt7LS19LS19fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAndXJsJyA9PiBhc3NldChzcHJpbnRmKCdzdG9yYWdlLyVzJywgYmFzZW5hbWUoJGZpbGVuYW1lKSkpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRkKCdleGlzdHMnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRkKCRmaWxlKTsK</text>
+        <text encoding="base64">ICAgIGRkKCdleGlzdHMnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWFsbG93ZWQgJiYgZXZlbnQua2V5ICE9PSAnQmFja3NwYWNlJykgewogICAgICAgICAgcmV0dXJuIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGRkKCRmaWxlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldmVudCkKICAgICAgICBjb25zb2xlLmxvZyhhbGxvd2VkKQoK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWFsbG93ZWQgJiYgZXZlbnQua2V5ICE9PSAnQmFja3NwYWNlJykgewogICAgICAgICAgcmV0dXJuIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -411,13 +416,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldmVudCkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldmVudCkKICAgICAgICBjb25zb2xlLmxvZyhhbGxvd2VkKQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYXV0b0NvbXBsZXRlTnVtYmVycyhldmVudCkgewogICAgICAgIGxldCBhbGxvd2VkID0gbmV3IFJlZ0V4cCgvWzAtOV0vKS50ZXN0KGV2ZW50LmtleSkKICAgICAgICBjb25zb2xlLmxvZyhldmVudCkKCiAgICAgICAgaWYgKCFhbGxvd2VkICYmIGV2ZW50LmtleSAhPT0gJ0JhY2tzcGFjZScpIHsKICAgICAgICAgIHJldHVybiBldmVudC5wcmV2ZW50RGVmYXVsdCgpOwogICAgICAgIH0KCiAgICAgICAgdGhpcy5hdXRvQ29tcGxldGUoKQogICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldmVudCkK</text>
       </register>
       <register name=":" type="4">
-        <text>s/letters/numbers/g</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -469,10 +474,10 @@
         <entry encoding="base64">JzwsJz5zL3Zhci9sZXQvZw==</entry>
         <entry>x/val/g</entry>
         <entry>s/x/val/g</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>s/numbers/letters/g</entry>
         <entry>s/letters/numbers/g</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
