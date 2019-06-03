@@ -52,6 +52,12 @@
       <file name="$USER_HOME$/Projects/vesca/app/Services/AddressLookup.php" timestamp="1559561245033">
         <mark key="'" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/lungage-api/routes/web.php" timestamp="1559566901320">
+        <mark key="[" line="25" column="51" />
+        <mark key="]" line="25" column="49" />
+        <mark key="^" line="25" column="49" />
+        <mark key="." line="25" column="49" />
+      </file>
       <file name="$USER_HOME$/Projects/vesca/resources/views/pdf/pages/object_modelmarktwaarde.blade.php" timestamp="1558691571290">
         <mark key="[" line="17" column="90" />
         <mark key="]" line="17" column="90" />
@@ -226,7 +232,7 @@
         <mark key="^" line="24" column="13" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/lungage-api/app/Http/Requests/EmailRequest.php" timestamp="1559560616046" />
+      <file name="$USER_HOME$/Projects/lungage-api/app/Http/Requests/EmailRequest.php" timestamp="1559566001958" />
       <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" timestamp="1559564609507">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="326" column="1" />
@@ -344,14 +350,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWFsbG93ZWQgJiYgZXZlbnQua2V5ICE9PSAnQmFja3NwYWNlJykgewogICAgICAgICAgcmV0dXJuIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7CiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>files</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text>files</text>
       </register>
       <register name="/" type="4">
         <text>letters</text>
@@ -360,28 +366,28 @@
         <text encoding="base64">ICAgICAgICBpZiAoIWFsbG93ZWQgJiYgZXZlbnQuaW5wdXRUeXBlICE9PSAnQmFja3NwYWNlJykgewogICAgICAgICAgdGhpcy5wb3N0Y29kZV9sZXR0ZXJzID0gdGhpcy5wb3N0Y29kZV9sZXR0ZXJzLnNsaWNlKDAsIC0xKQogICAgICAgICAgcmV0dXJuIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWFsbG93ZWQgJiYgZXZlbnQua2V5ICE9PSAnQmFja3NwYWNlJykgewogICAgICAgICAgcmV0dXJuIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldmVudCkKICAgICAgICBjb25zb2xlLmxvZyhhbGxvd2VkKQoK</text>
+        <text encoding="base64">ICAgIGRkKCdleGlzdHMnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldmVudCkK</text>
+        <text encoding="base64">ICAgIGRkKCRmaWxlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYXV0b0NvbXBsZXRlTnVtYmVycyhldmVudCkgewogICAgICAgIGxldCBhbGxvd2VkID0gbmV3IFJlZ0V4cCgvWzAtOV0vKS50ZXN0KGV2ZW50LmtleSkKICAgICAgICBjb25zb2xlLmxvZyhldmVudCkKCiAgICAgICAgaWYgKCFhbGxvd2VkICYmIGV2ZW50LmtleSAhPT0gJ0JhY2tzcGFjZScpIHsKICAgICAgICAgIHJldHVybiBldmVudC5wcmV2ZW50RGVmYXVsdCgpOwogICAgICAgIH0KCiAgICAgICAgdGhpcy5hdXRvQ29tcGxldGUoKQogICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWFsbG93ZWQgJiYgZXZlbnQua2V5ICE9PSAnQmFja3NwYWNlJykgewogICAgICAgICAgcmV0dXJuIGV2ZW50LnByZXZlbnREZWZhdWx0KCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYXV0b0NvbXBsZXRlTnVtYmVycyhldmVudCkgewogICAgICAgIGxldCBhbGxvd2VkID0gbmV3IFJlZ0V4cCgvWzAtOV0vKS50ZXN0KGV2ZW50LmtleSkKCiAgICAgICAgaWYgKCFhbGxvd2VkICYmIGV2ZW50LmtleSAhPT0gJ0JhY2tzcGFjZScpIHsKICAgICAgICAgIHJldHVybiBldmVudC5wcmV2ZW50RGVmYXVsdCgpOwogICAgICAgIH0KCiAgICAgICAgdGhpcy5hdXRvQ29tcGxldGUoKQogICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldmVudCkKICAgICAgICBjb25zb2xlLmxvZyhhbGxvd2VkKQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMucG9zdGNvZGVfbGV0dGVycyA9IHRoaXMucG9zdGNvZGVfbGV0dGVycy5zbGljZSgwLCAtMSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldmVudCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWFsbG93ZWQpIHsK</text>
+        <text encoding="base64">ICAgICAgYXV0b0NvbXBsZXRlTnVtYmVycyhldmVudCkgewogICAgICAgIGxldCBhbGxvd2VkID0gbmV3IFJlZ0V4cCgvWzAtOV0vKS50ZXN0KGV2ZW50LmtleSkKICAgICAgICBjb25zb2xlLmxvZyhldmVudCkKCiAgICAgICAgaWYgKCFhbGxvd2VkICYmIGV2ZW50LmtleSAhPT0gJ0JhY2tzcGFjZScpIHsKICAgICAgICAgIHJldHVybiBldmVudC5wcmV2ZW50RGVmYXVsdCgpOwogICAgICAgIH0KCiAgICAgICAgdGhpcy5hdXRvQ29tcGxldGUoKQogICAgICB9LAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -399,10 +405,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldmVudCkKICAgICAgICBjb25zb2xlLmxvZyhhbGxvd2VkKQo=</text>
+        <text encoding="base64">ICAgICAgYXV0b0NvbXBsZXRlTnVtYmVycyhldmVudCkgewogICAgICAgIGxldCBhbGxvd2VkID0gbmV3IFJlZ0V4cCgvWzAtOV0vKS50ZXN0KGV2ZW50LmtleSkKCiAgICAgICAgaWYgKCFhbGxvd2VkICYmIGV2ZW50LmtleSAhPT0gJ0JhY2tzcGFjZScpIHsKICAgICAgICAgIHJldHVybiBldmVudC5wcmV2ZW50RGVmYXVsdCgpOwogICAgICAgIH0KCiAgICAgICAgdGhpcy5hdXRvQ29tcGxldGUoKQogICAgICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYWxsb3dlZCA9IG5ldyBSZWdFeHAoL1swLTldLykudGVzdChldmVudC5rZXkpCiAgICAgICAgY29uc29sZS5sb2coZXZlbnQpCiAgICAgICAgY29uc29sZS5sb2coYWxsb3dlZCkK</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMucG9zdGNvZGVfbGV0dGVycyA9IHRoaXMucG9zdGNvZGVfbGV0dGVycy5zbGljZSgwLCAtMSkK</text>
       </register>
       <register name=":" type="4">
         <text>s/letters/numbers/g</text>
