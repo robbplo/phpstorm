@@ -47,6 +47,7 @@
       <file name="$USER_HOME$/Projects/vesca/app/Services/AddressLookup.php" timestamp="1559561245033">
         <mark key="'" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/lungage-api/app/Notifications/LoginCodeNotification.php" timestamp="1559813765548" />
       <file name="$USER_HOME$/Projects/lungage-api/routes/web.php" timestamp="1559567368149">
         <mark key="[" line="20" column="33" />
         <mark key="]" line="20" column="33" />
@@ -166,6 +167,7 @@
         <mark key="." line="18" column="92" />
         <mark key="^" line="18" column="92" />
       </file>
+      <file name="$USER_HOME$/Projects/lungage-api/app/Notifications/ResultsPdfNotfication.php" timestamp="1559813755331" />
       <file name="$USER_HOME$/Projects/lungage-api/app/Helpers/DocumentFilename.php" timestamp="1559033812459">
         <mark key="[" line="10" column="58" />
         <mark key="]" line="10" column="58" />
@@ -178,7 +180,8 @@
         <mark key="." line="26" column="40" />
         <mark key="^" line="26" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/lungage-api/app/Jobs/GenerateResultsPdf.php" timestamp="1559656185568">
+      <file name="$USER_HOME$/Projects/lungage-api/app/Jobs/GenerateResultsPdf.php" timestamp="1559813468494">
+        <mark key="'" line="12" column="6" />
         <mark key="[" line="54" column="67" />
         <mark key="]" line="54" column="66" />
         <mark key="." line="54" column="66" />
@@ -196,6 +199,7 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="77" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/lungage-api/app/Http/Controllers/RegisterController.php" timestamp="1559813486598" />
       <file name="$USER_HOME$/Projects/lungage-api/app/Http/Requests/EmailResultsRequest.php" timestamp="1559133075459">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="11" />
@@ -261,7 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="13" filename="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProduct/index.vue" />
       <jump line="139" column="15" filename="$USER_HOME$/Projects/materialen-pwa/components/bits/elemProduct/index.vue" />
       <jump line="97" column="33" filename="$USER_HOME$/Projects/vesca/app/User.php" />
       <jump line="23" column="19" filename="$USER_HOME$/Projects/vesca/resources/views/auth/account/interface.blade.php" />
@@ -361,6 +364,7 @@
       <jump line="92" column="11" filename="$USER_HOME$/Projects/finish-building/storage/logs/laravel-2019-06-04.log" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/finish-building/.gitmodules" />
       <jump line="116" column="0" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductList.vue" />
+      <jump line="12" column="6" filename="$USER_HOME$/Projects/lungage-api/app/Jobs/GenerateResultsPdf.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
