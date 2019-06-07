@@ -171,6 +171,7 @@
       </file>
       <file name="$USER_HOME$/Projects/materialen/storage/app/orders/1555084510_1.json" timestamp="1559821345781" />
       <file name="$USER_HOME$/Projects/vesca/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php" timestamp="1559829178102" />
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/components/OfferForm.vue" timestamp="1559911464402" />
       <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/BuildingDimensions.php" timestamp="1558949803338">
         <mark key="[" line="116" column="8" />
         <mark key="]" line="116" column="7" />
@@ -178,6 +179,7 @@
         <mark key="^" line="116" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/storage/app/orders/1555331372_c58dbad65f5811e9b15c71ba966d4726.json" timestamp="1559818882692" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Product.php" timestamp="1559910879998" />
       <file name="$USER_HOME$/Projects/vesca/resources/js/store/modules/search.js" timestamp="1559553887685">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="39" column="30" />
@@ -219,6 +221,11 @@
         <mark key="[" line="51" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/Offer.js" timestamp="1559911492371">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lungage-api/app/Helpers/DocumentFilename.php" timestamp="1559033812459">
         <mark key="[" line="10" column="58" />
@@ -304,6 +311,7 @@
         <mark key="." line="33" column="39" />
         <mark key="^" line="33" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/app/Offer.php" timestamp="1559910886914" />
       <file name="$USER_HOME$/Projects/vesca/resources/views/pdf/report.blade.php" timestamp="1559555066991">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -446,13 +454,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
@@ -461,7 +469,7 @@
         <text encoding="base64">JHRoaXMtPmNvbnRyYWN0X3N0YXJ0ICE9PSBudWxsID8kdGhpcy0+Y29udHJhY3Rfc3RhcnQtPnRvRGF0ZVN0cmluZygp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -470,19 +478,19 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">W3N1Ym1vZHVsZSAibGFyYXZlbC1ub3ZhLWJvaWxlcnBsYXRlIl0KCXBhdGggPSBsYXJhdmVsLW5vdmEtYm9pbGVycGxhdGUKCXVybCA9IGdpdEBnaXRsYWIuY29tOnBpZXRlcnNtaXRtZWRpYWJ2L2xhcmF2ZWwtbm92YS1ib2lsZXJwbGF0ZS5naXQKCVxcXHZpCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -500,10 +508,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">W3N1Ym1vZHVsZSAibGFyYXZlbC1ub3ZhLWJvaWxlcnBsYXRlIl0KCXBhdGggPSBsYXJhdmVsLW5vdmEtYm9pbGVycGxhdGUKCXVybCA9IGdpdEBnaXRsYWIuY29tOnBpZXRlcnNtaXRtZWRpYWJ2L2xhcmF2ZWwtbm92YS1ib2lsZXJwbGF0ZS5naXQKCVxcXHZpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/start/end/g</text>
