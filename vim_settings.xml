@@ -17,6 +17,12 @@
         <mark key="]" line="71" column="44" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/bij.boehringer/api/Doctor/Http/Requests/StoreManualOrderRequest.php" timestamp="1559897191568">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="56" column="59" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Providers/AppServiceProvider.php" timestamp="1559828955301" />
       <file name="$USER_HOME$/Projects/bij.boehringer/storage/framework/views/0cc4369335eeaed8931949d9f00f3d8ad23ca6ba.php" timestamp="1559893256571">
         <mark key="[" line="15" column="0" />
@@ -29,12 +35,11 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Console/Kernel.php" timestamp="1559809199250" />
-      <file name="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" timestamp="1559893563081">
-        <mark key="'" line="170" column="17" />
-        <mark key="[" line="147" column="18" />
-        <mark key="]" line="147" column="17" />
-        <mark key="." line="147" column="17" />
-        <mark key="^" line="147" column="17" />
+      <file name="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" timestamp="1559897248283">
+        <mark key="[" line="233" column="104" />
+        <mark key="]" line="233" column="104" />
+        <mark key="." line="233" column="104" />
+        <mark key="^" line="184" column="91" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Order.php" timestamp="1559822523728">
         <mark key="[" line="19" column="0" />
@@ -100,9 +105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="22" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Filters.vue" />
-      <jump line="201" column="44" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Filters.vue" />
-      <jump line="215" column="8" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Filters.vue" />
       <jump line="33" column="20" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Filters.vue" />
       <jump line="48" column="12" filename="$USER_HOME$/Projects/lungage-api/app/Jobs/GenerateResultsPdf.php" />
       <jump line="61" column="9" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/property/dimensions/ApartmentDimensions.vue" />
@@ -200,46 +202,49 @@
       <jump line="184" column="23" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
       <jump line="320" column="0" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
       <jump line="167" column="17" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
+      <jump line="140" column="40" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
+      <jump line="185" column="14" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
+      <jump line="176" column="18" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLy91bnBrZy5jb20vZWxlbWVudC11aS9saWIvdGhlbWUtZGVmYXVsdC9pbmRleC5jc3MiPgo=</text>
+      <register name="&quot;" type="4">
+        <text>== 1</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>contract</text>
+        <text>== 1</text>
       </register>
       <register name="/" type="4">
-        <text>form:</text>
+        <text>S</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtNiI+CiAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJjb250cmFjdF9zdGFydCI+U3RhcnQgdWl0bGVlbjwvbGFiZWw+CiAgICAgICAgICAgICAgICA8ZGF0ZS1waWNrZXIKICAgICAgICAgICAgICAgICAgaWQ9ImNvbnRyYWN0X3N0YXJ0IgogICAgICAgICAgICAgICAgICBuYW1lPSJjb250cmFjdF9zdGFydCIKICAgICAgICAgICAgICAgICAgOmxhbmc9ImxhbmciCiAgICAgICAgICAgICAgICAgIHYtbW9kZWw9ImZvcm0uY29udHJhY3Rfc3RhcnQiCiAgICAgICAgICAgICAgICAgIHR5cGU9ImRhdGUiCiAgICAgICAgICAgICAgICAgIGZvcm1hdD0iWVlZWS1NTS1ERCIKICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IkRhdHVtIgogICAgICAgICAgICAgICAgPjwvZGF0ZS1waWNrZXI+CiAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+      <register name="0" type="4">
+        <text>contract_start</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLy91bnBrZy5jb20vZWxlbWVudC11aS9saWIvdGhlbWUtZGVmYXVsdC9pbmRleC5jc3MiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLy91bnBrZy5jb20vZWxlbWVudC11aS9saWIvdGhlbWUtZGVmYXVsdC9pbmRleC5jc3MiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAncHJvZHVjdF9pZCcgPT4gJ3JlcXVpcmVkfGV4aXN0czpwcm9kdWN0cyxpZCcsCiAgICAgICAgICAgICdxdWFudGl0eScgPT4gJ3JlcXVpcmVkfG51bWVyaWMnLAogICAgICAgICAgICAnZW1haWwnID0+ICdyZXF1aXJlZHxlbWFpbCcsCiAgICAgICAgICAgICdpbml0aWFscycgPT4gJ3JlcXVpcmVkfHN0cmluZycsCiAgICAgICAgICAgICdsYXN0X25hbWUnID0+ICdyZXF1aXJlZHxzdHJpbmcnLAogICAgICAgICAgICAnZnVuY3Rpb24nID0+ICdyZXF1aXJlZHxzdHJpbmcnLAogICAgICAgICAgICAnc3RyZWV0X25hbWUnID0+ICdyZXF1aXJlZHxzdHJpbmcnLAogICAgICAgICAgICAnYWRkcmVzc19udW1iZXInID0+ICdyZXF1aXJlZHxzdHJpbmcnLAogICAgICAgICAgICAnYWRkcmVzc19udW1iZXJfYWRkaXRpb24nID0+ICdudWxsYWJsZXxzdHJpbmcnLAogICAgICAgICAgICAncG9zdGFsX2NvZGUnID0+ICdyZXF1aXJlZHxzdHJpbmcnLAogICAgICAgICAgICAnY2l0eScgPT4gJ3JlcXVpcmVkfHN0cmluZycsCiAgICAgICAgICAgICd0ZXJtcycgPT4gJ3JlcXVpcmVkfGJvb2xlYW4nLAogICAgICAgICAgICAnYmlnX251bWJlcicgPT4gJ3JlcXVpcmVkfHN0cmluZycsCiAgICAgICAgICAgICdiaWdfbnVtYmVyX2NvbnNlbnQnID0+ICdyZXF1aXJlZHxib29sZWFuJywKICAgICAgICAgICAgJ2dlbmRlcicgPT4gWwogICAgICAgICAgICAgICAgJ3JlcXVpcmVkJywKICAgICAgICAgICAgICAgIFJ1bGU6OmluKFsnbWFuJywgJ3Zyb3V3JywgJ292ZXJpZyddKQogICAgICAgICAgICBdLAogICAgICAgIF0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CjxzdHlsZSBsYW5nPSJjc3MiPgo8L3N0eWxlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbnB1dFt0eXBlPXRleHRdIHsKICAgIHBhZGRpbmc6IDVweDsKICAgIG1hcmdpbi10b3A6IDBweDsKICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtNiI+CiAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJjb250cmFjdF9zdGFydCI+U3RhcnQgdWl0bGVlbjwvbGFiZWw+CiAgICAgICAgICAgICAgICA8ZGF0ZS1waWNrZXIKICAgICAgICAgICAgICAgICAgaWQ9ImNvbnRyYWN0X3N0YXJ0IgogICAgICAgICAgICAgICAgICBuYW1lPSJjb250cmFjdF9zdGFydCIKICAgICAgICAgICAgICAgICAgOmxhbmc9ImxhbmciCiAgICAgICAgICAgICAgICAgIHYtbW9kZWw9ImZvcm0uY29udHJhY3Rfc3RhcnQiCiAgICAgICAgICAgICAgICAgIHR5cGU9ImRhdGUiCiAgICAgICAgICAgICAgICAgIGZvcm1hdD0iWVlZWS1NTS1ERCIKICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IkRhdHVtIgogICAgICAgICAgICAgICAgPjwvZGF0ZS1waWNrZXI+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTYiPgogICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0iY29udHJhY3RfZW5kIj5FaW5kZSB1aXRsZWVuPC9sYWJlbD4KICAgICAgICAgICAgICAgIDxkYXRlLXBpY2tlcgogICAgICAgICAgICAgICAgICBpZD0iY29udHJhY3RfZW5kIgogICAgICAgICAgICAgICAgICBuYW1lPSJjb250cmFjdF9lbmQiCiAgICAgICAgICAgICAgICAgIDpsYW5nPSJsYW5nIgogICAgICAgICAgICAgICAgICB2LW1vZGVsPSJmb3JtLmNvbnRyYWN0X2VuZCIKICAgICAgICAgICAgICAgICAgdHlwZT0iZGF0ZSIKICAgICAgICAgICAgICAgICAgZm9ybWF0PSJZWVlZLU1NLUREIgogICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iRGF0dW0iCiAgICAgICAgICAgICAgICA+PC9kYXRlLXBpY2tlcj4KICAgICAgICAgICAgICA8L2Rpdj4K</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLW1kLTYiPgogICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0iY29udHJhY3Rfc3RhcnQiPlN0YXJ0IHVpdGxlZW48L2xhYmVsPgogICAgICAgICAgICAgICAgPGRhdGUtcGlja2VyCiAgICAgICAgICAgICAgICAgIGlkPSJjb250cmFjdF9zdGFydCIKICAgICAgICAgICAgICAgICAgbmFtZT0iY29udHJhY3Rfc3RhcnQiCiAgICAgICAgICAgICAgICAgIDpsYW5nPSJsYW5nIgogICAgICAgICAgICAgICAgICB2LW1vZGVsPSJmb3JtLmNvbnRyYWN0X3N0YXJ0IgogICAgICAgICAgICAgICAgICB0eXBlPSJkYXRlIgogICAgICAgICAgICAgICAgICBmb3JtYXQ9IllZWVktTU0tREQiCiAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJEYXR1bSIKICAgICAgICAgICAgICAgID48L2RhdGUtcGlja2VyPgogICAgICAgICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -257,28 +262,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMudXBkYXRlRm9ybShyZXNwb25zZS5kYXRhKTsK</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLy91bnBrZy5jb20vZWxlbWVudC11aS9saWIvdGhlbWUtZGVmYXVsdC9pbmRleC5jc3MiPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBAY3JvcC11cGxvYWQtZmFpbD0ib25GYWlsIgo=</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLy91bnBrZy5jb20vZWxlbWVudC11aS9saWIvdGhlbWUtZGVmYXVsdC9pbmRleC5jc3MiPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/street/country/g</text>
+        <text encoding="base64">JzwsJz5zL3N0YXJ0L2VuZC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>form:</last-search>
+      <last-search>S</last-search>
       <last-offset />
-      <last-pattern>form:</last-pattern>
-      <last-replace>country</last-replace>
-      <last-substitute>street</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern>S</last-pattern>
+      <last-replace>end</last-replace>
+      <last-substitute>start</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>letters</entry>
-        <entry>prj</entry>
         <entry>forge</entry>
         <entry>master</entry>
         <entry>la</entry>
@@ -297,9 +300,10 @@
         <entry>date-p</entry>
         <entry>form</entry>
         <entry>form:</entry>
+        <entry>start</entry>
+        <entry>S</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3Jlc3VsdC9tYXJrZXIucmVzdWx0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL3Zhci9sZXQ=</entry>
         <entry encoding="base64">JzwsJz5zLz09Lz09PS9n</entry>
         <entry encoding="base64">JzwsJz5zL3R5cGUvY2FsY3VsYXRpb24vZw==</entry>
@@ -319,6 +323,7 @@
         <entry>s/street/city/g</entry>
         <entry>country</entry>
         <entry>s/street/country/g</entry>
+        <entry encoding="base64">JzwsJz5zL3N0YXJ0L2VuZC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
