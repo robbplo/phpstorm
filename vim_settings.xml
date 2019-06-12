@@ -46,6 +46,12 @@
         <mark key="]" line="17" column="39" />
         <mark key="." line="17" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/lungage-pwa/store/modules/application.js" timestamp="1560322106996">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" timestamp="1559826343032">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="71" column="44" />
@@ -62,12 +68,6 @@
         <mark key="]" line="17" column="90" />
         <mark key="^" line="17" column="44" />
         <mark key="." line="17" column="90" />
-      </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Filters.vue" timestamp="1559900448834">
-        <mark key="'" line="33" column="20" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page2.blade.php" timestamp="1559913561023">
         <mark key="[" line="78" column="69" />
@@ -180,24 +180,17 @@
         <mark key="." line="18" column="92" />
         <mark key="^" line="18" column="92" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Console/Commands/ImportProcessedOrders.php" timestamp="1559827024182">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/resources/js/Offer.js" timestamp="1559912310743">
         <mark key="[" line="151" column="5" />
         <mark key="]" line="151" column="4" />
         <mark key="." line="151" column="4" />
         <mark key="^" line="151" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/lungage-pwa/pages/index.vue" timestamp="1560262640788">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-        <mark key="^" line="27" column="18" />
+      <file name="$USER_HOME$/Projects/lungage-pwa/pages/index.vue" timestamp="1560322929161">
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="8" />
+        <mark key="^" line="26" column="8" />
+        <mark key="." line="26" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/lungage-api/app/Helpers/DocumentFilename.php" timestamp="1559033812459">
         <mark key="[" line="10" column="58" />
@@ -211,11 +204,12 @@
         <mark key="." line="26" column="40" />
         <mark key="^" line="26" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/lungage-pwa/components/TermsAndConditions.vue" timestamp="1560262266421">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="29" column="18" />
-        <mark key="." line="29" column="18" />
-        <mark key="^" line="29" column="18" />
+      <file name="$USER_HOME$/Projects/lungage-pwa/components/TermsAndConditions.vue" timestamp="1560322836022">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="22" />
+        <mark key="." line="29" column="22" />
+        <mark key="^" line="29" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1559898748717">
         <mark key="[" line="0" column="0" />
@@ -289,9 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/property/dimensions/HouseDimensions.vue" />
-      <jump line="148" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/property/dimensions/HouseDimensions.vue" />
-      <jump line="159" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/property/dimensions/HouseDimensions.vue" />
       <jump line="20" column="192" filename="$USER_HOME$/Projects/vesca/storage/logs/laravel.log" />
       <jump line="285" column="8" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
       <jump line="304" column="8" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
@@ -389,46 +380,49 @@
       <jump line="29" column="27" filename="$USER_HOME$/Projects/lungage-pwa/pages/index.vue" />
       <jump line="21" column="62" filename="$USER_HOME$/Projects/lungage-pwa/pages/index.vue" />
       <jump line="107" column="0" filename="$USER_HOME$/Projects/lungage-pwa/pages/index.vue" />
+      <jump line="38" column="28" filename="$USER_HOME$/Projects/lungage-pwa/components/TermsAndConditions.vue" />
+      <jump line="13" column="4" filename="$USER_HOME$/Projects/lungage-pwa/components/TermsAndConditions.vue" />
+      <jump line="26" column="7" filename="$USER_HOME$/Projects/lungage-pwa/pages/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgLy8gLnRleHQtcGFkZGluZyB7CiAgLy8gICBwYWRkaW5nOiAwIDIwcHg7CiAgLy8gfQoKICAvLyBAbWVkaWEobWluLXdpZHRoOjc2OHB4KSB7CgogIC8vICAgLnRleHQtcGFkZGluZyB7CiAgLy8gICAgIHBhZGRpbmc6IDAgODBweDsKICAvLyAgIH0KCiAgLy8gfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDx0ZW1wbGF0ZSB2LXNsb3Q6b3BlbkJ1dHRvbj0ie21vZGFsSWR9Ij4KICAgICAgICAgICAgPGEgOmhyZWY9IicjJyttb2RhbElkIiB1ay10b2dnbGUgY2xhc3M9IiI+CiAgICAgICAgICAgICAge3sgIH19CiAgICAgICAgICAgIDwvYT4KICAgICAgICAgIDwvdGVtcGxhdGU+Cg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>index-discover-lungage</text>
+        <text>$t('index-discover-lunchcheck')</text>
       </register>
       <register name="/" type="4">
-        <text>s</text>
+        <text>cl</text>
       </register>
-      <register name="0" type="4">
-        <text>index-discover-lunchcheck</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIG9wZW5CdXR0b25DbGFzcz0idWstYnV0dG9uIHVrLWJ1dHRvbi1wcmltYXJ5IHVrLWJ1dHRvbi1sYXJnZSB1ay13aWR0aC0xLTEiCiAgICAgICAgICA6b3BlbkJ1dHRvblRleHQ9IiR0KCdpbmRleC1kaXNjb3Zlci1sdW5nYWdlJykiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgLy8gLnRleHQtcGFkZGluZyB7CiAgLy8gICBwYWRkaW5nOiAwIDIwcHg7CiAgLy8gfQoKICAvLyBAbWVkaWEobWluLXdpZHRoOjc2OHB4KSB7CgogIC8vICAgLnRleHQtcGFkZGluZyB7CiAgLy8gICAgIHBhZGRpbmc6IDAgODBweDsKICAvLyAgIH0KCiAgLy8gfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDx0ZW1wbGF0ZSB2LXNsb3Q6b3BlbkJ1dHRvbj0ie21vZGFsSWR9Ij4KICAgICAgICAgICAgPGEgOmhyZWY9IicjJyttb2RhbElkIiB1ay10b2dnbGUgY2xhc3M9IiI+CiAgICAgICAgICAgICAge3sgIH19CiAgICAgICAgICAgIDwvYT4KICAgICAgICAgIDwvdGVtcGxhdGU+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgPG51eHQtbGluayA6dG89ImxvY2FsZVBhdGgoJ2x1bmdjaGVjaycpIiBjbGFzcz0idWstYnV0dG9uIHVrLWJ1dHRvbi1wcmltYXJ5IHVrLWJ1dHRvbi1sYXJnZSAgdWstd2lkdGgtMS0xIj4tLT4KPCEtLSAgICAgICAgICB7eyAkdCgnaW5kZXgtZGlzY292ZXItbHVuY2hjaGVjaycpIH19LS0+CjwhLS0gICAgICAgIDwvbnV4dC1saW5rPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxudXh0LWxpbmsgOnRvPSJsb2NhbGVQYXRoKCdsdW5nYWdlJykiIGNsYXNzPSJ1ay1idXR0b24gdWstYnV0dG9uLXByaW1hcnkgdWstYnV0dG9uLWxhcmdlICB1ay13aWR0aC0xLTEiPgogICAgICAgICAgICAgICAgICB7eyAkdCgnaW5kZXgtZGlzY292ZXItbHVuZ2FnZScpIH19CiAgICAgICAgICAgICAgICA8L251eHQtbGluaz4K</text>
+        <text encoding="base64">ICAgICAgICAgIDx0ZW1wbGF0ZSB2LXNsb3Q6b3BlbkJ1dHRvbj0ie21vZGFsSWR9Ij4KICAgICAgICAgIDwvdGVtcGxhdGU+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgIDxhIGNsYXNzPSJ1ay10ZXh0LWNlbnRlciB1ay1idXR0b24gdWstYnV0dG9uLWxhcmdlIHVrLWJ1dHRvbi1wcmltYXJ5IHVrLXdpZHRoLTEtMSIgOmhyZWY9IicjJyttb2RhbElkIi0tPgo8IS0tICAgICAgICAgICAgICB1ay10b2dnbGU+e3sgJHQoJ2Rpc2NvdmVyLXlvdXItbHVuZ2FnZScpIH19PC9hPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c2xvdCBuYW1lPSJvcGVuQnV0dG9uIiA6bW9kYWxJZD0ibW9kYWxJZCI+CiAgICAgICAgPC9zbG90Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHN0eWxlIGxhbmc9Imxlc3MiIHNjb3BlZD4KICAuYy10ZXh0IHsKICAgIGZvbnQtc2l6ZTogMTRweDsKICAgIHBhZGRpbmc6IDAgNDBweDsKICAgIEBtZWRpYSAobWluLXdpZHRoOiA2NDBweCkgewogICAgICBmb250LXNpemU6IGluaGVyaXQ7CiAgICB9CiAgfQoKICAuYy1tZXRhLWxpbmtzIHsKICAgIGZvbnQtc2l6ZTogMTRweDsKICAgIEBtZWRpYSAobWluLXdpZHRoOiA2NDBweCkgewogICAgICBmb250LXNpemU6IGluaGVyaXQ7CiAgICB9CiAgfQoKICAuYy1sdW5nbGlmZS1sb2dvIHsKICAgIHdpZHRoOiA0MCU7CiAgICBAbWVkaWEgKG1pbi13aWR0aDogNjQwcHgpIHsKCiAgICB9CiAgfQoKICAuYy1sdW5nbGlmZS1pbWFnZSB7CiAgICB3aWR0aDogODAlOwogICAgQG1lZGlhIChtaW4td2lkdGg6IDY0MHB4KSB7CgogICAgfQogIH0KCiAgLmhpZGUtd2hpbGUtbG9hZGluZyB7CiAgICBvcGFjaXR5OiAwOwogIH0KCiAgLmhpZGUtd2hpbGUtbG9hZGluZy1sb2FkZWQgewogICAgb3BhY2l0eTogMTsKICAgIHRyYW5zaXRpb246IG9wYWNpdHkgLjJzIGxpbmVhcjsKICB9CgogIC8vIC50ZXh0LXBhZGRpbmcgewogIC8vICAgcGFkZGluZzogMCAyMHB4OwogIC8vIH0KCiAgLy8gQG1lZGlhKG1pbi13aWR0aDo3NjhweCkgewoKICAvLyAgIC50ZXh0LXBhZGRpbmcgewogIC8vICAgICBwYWRkaW5nOiAwIDgwcHg7CiAgLy8gICB9CgogIC8vIH0KCjwvc3R5bGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgOmhyZWY9IicjJyttb2RhbElkIiB1ay10b2dnbGUgY2xhc3M9IiI+CiAgICAgICAgICAgICAge3sgIH19CiAgICAgICAgICAgIDwvYQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -446,27 +440,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHVpLW1vZGFsIDpzaG93Q2xvc2VCdXR0b249InRydWUiIDpzaG93SGVhZGVyPSJ0cnVlIiA6c2hvd0Zvb3Rlcj0idHJ1ZSIgdi1pZj0iIXRlcm1zQWNjZXB0ZWQiPgogICAgPHRlbXBsYXRlICNvcGVuQnV0dG9uPSJ7bW9kYWxJZH0iPgogICAgICA8c2xvdCBuYW1lPSJvcGVuQnV0dG9uIiA6bW9kYWxJZD0ibW9kYWxJZCI+CiAgICAgIDwvc2xvdD4KICAgIDwvdGVtcGxhdGU+CiAgICA8dGVtcGxhdGUgI2hlYWRlcj4KICAgICAgPGgyIGNsYXNzPSJ1ay1tb2RhbC10aXRsZSI+e3sgJHQoJ3Rlcm1zLWFuZC1jb25kaXRpb25zLWhlYWRlcicpIH19PC9oMj4KICAgIDwvdGVtcGxhdGU+CiAgICA8dGVtcGxhdGUgI2Zvb3Rlcj0ie21vZGFsSWQsY2xvc2V9Ij4KICAgICAgPGRpdiBjbGFzcz0idWstZ3JpZCB1ay1jaGlsZC13aWR0aC0xLTEgdWstZ3JpZC1zbWFsbCIgdWstZ3JpZD4KICAgICAgICA8ZGl2IEBjbGljay5wcmV2ZW50PSJjbG9zZSI+CiAgICAgICAgICA8bnV4dC1saW5rIEBjbGljaz0iYWNjZXB0IiBjbGFzcz0idWstYnV0dG9uIHVrLWJ1dHRvbi1zbWFsbCB1ay1idXR0b24tcHJpbWFyeSI+CiAgICAgICAgICAgIHt7JHQoJ19hY3Rpb24tYWNjZXB0Jyl9fQogICAgICAgICAgPC9udXh0LWxpbms+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBAY2xpY2sucHJldmVudD0iY2xvc2UiPgogICAgICAgICAgPG51eHQtbGluayA6dG89ImxvY2FsZVBhdGgoJ2luZGV4JykiIGNsYXNzPSJ1ay1idXR0b24gdWstYnV0dG9uLXNtYWxsIHVrLWJ1dHRvbi1kZWZhdWx0Ij4KICAgICAgICAgICAge3skdCgnX2FjdGlvbi1kZWNsaW5lJyl9fQogICAgICAgICAgPC9udXh0LWxpbms+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC90ZW1wbGF0ZT4KICAgIDxkaXYgdi1odG1sPSIkdCgndGVybXMtYW5kLWNvbmRpdGlvbnMtY29udGVudCcpIj48L2Rpdj4KICA8L3VpLW1vZGFsPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS0gICAgICAgICAgPHRlcm1zLWFuZC1jb25kaXRpb25zPi0tPgogICAgICAgICAgPCEtLSAgICAgICAgICAgIDx0ZW1wbGF0ZSAjb3BlbkJ1dHRvbj0ie21vZGFsSWR9Ij4tLT4KICAgICAgICAgIDwhLS0gICAgICAgICAgICAgIDxhIGNsYXNzPSJ1ay10ZXh0LWNlbnRlciB1ay1idXR0b24gdWstYnV0dG9uLWxhcmdlIHVrLWJ1dHRvbi1wcmltYXJ5IHVrLXdpZHRoLTEtMSIgOmhyZWY9IicjJyttb2RhbElkIi0tPgogICAgICAgICAgPCEtLSAgICAgICAgICAgICAgICB1ay10b2dnbGU+e3sgJHQoJ2Rpc2NvdmVyLXlvdXItbHVuZ2FnZScpIH19PC9hPi0tPgogICAgICAgICAgPCEtLSAgICAgICAgICAgIDwvdGVtcGxhdGU+LS0+CiAgICAgICAgICA8IS0tICAgICAgICAgIDwvdGVybXMtYW5kLWNvbmRpdGlvbnM+LS0+Cg==</text>
+        <text encoding="base64">CiAgLy8gLnRleHQtcGFkZGluZyB7CiAgLy8gICBwYWRkaW5nOiAwIDIwcHg7CiAgLy8gfQoKICAvLyBAbWVkaWEobWluLXdpZHRoOjc2OHB4KSB7CgogIC8vICAgLnRleHQtcGFkZGluZyB7CiAgLy8gICAgIHBhZGRpbmc6IDAgODBweDsKICAvLyAgIH0KCiAgLy8gfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/s/:</text>
+        <text encoding="base64">JzwsJz5zL251eHQtbGluay9h</text>
       </register>
     </registers>
     <search>
-      <last-search>s</last-search>
+      <last-search>cl</last-search>
       <last-offset />
-      <last-pattern>s</last-pattern>
-      <last-replace>:</last-replace>
-      <last-substitute>s</last-substitute>
+      <last-pattern>cl</last-pattern>
+      <last-replace>a</last-replace>
+      <last-substitute>nuxt-link</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>up</entry>
         <entry>updateForm</entry>
         <entry>date</entry>
         <entry>datep</entry>
@@ -482,10 +475,11 @@
         <entry>co</entry>
         <entry>af</entry>
         <entry>start</entry>
-        <entry>nuxt-link</entry>
         <entry encoding="base64">ICA=</entry>
         <entry>s:::::</entry>
         <entry>s</entry>
+        <entry>nuxt-link</entry>
+        <entry>cl</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
@@ -503,11 +497,11 @@
         <entry>s/street/country/g</entry>
         <entry encoding="base64">JzwsJz5zL3N0YXJ0L2VuZC9n</entry>
         <entry>s/start/end/g</entry>
-        <entry encoding="base64">JzwsJz5zL251eHQtbGluay9h</entry>
         <entry>s/s//s/</entry>
         <entry>s/s/s/</entry>
         <entry>s/s:::::</entry>
         <entry>s/s/:</entry>
+        <entry encoding="base64">JzwsJz5zL251eHQtbGluay9h</entry>
       </history-cmd>
       <history-expr />
       <history-input />
