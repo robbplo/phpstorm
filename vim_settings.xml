@@ -152,10 +152,6 @@
         <mark key="^" line="91" column="39" />
         <mark key="." line="91" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Http/Requests/StoreOrderRequest.php" timestamp="1560238304240">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="49" column="59" />
-      </file>
       <file name="$USER_HOME$/Projects/lungage-pwa/components/UiModal.vue" timestamp="1560259849815">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="29" column="11" />
@@ -166,10 +162,12 @@
         <mark key="^" line="36" column="51" />
         <mark key="." line="36" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/lungage-pwa/nuxt.config.js" timestamp="1560336739261">
-        <mark key="[" line="81" column="10" />
-        <mark key="]" line="81" column="10" />
-        <mark key="." line="81" column="10" />
+      <file name="$USER_HOME$/Projects/lungage-pwa/nuxt.config.js" timestamp="1560340637314">
+        <mark key="'" line="66" column="16" />
+        <mark key="[" line="66" column="4" />
+        <mark key="]" line="66" column="3" />
+        <mark key="." line="66" column="3" />
+        <mark key="^" line="66" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Nova/Filters/ProductStatus.php" timestamp="1559053022930">
         <mark key="[" line="23" column="9" />
@@ -206,10 +204,6 @@
         <mark key="]" line="116" column="7" />
         <mark key="." line="116" column="7" />
         <mark key="^" line="116" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" timestamp="1559821580800">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="84" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Sections/Roof.php" timestamp="1558950479565">
         <mark key="[" line="36" column="5" />
@@ -335,8 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="13" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" />
-      <jump line="157" column="97" filename="$USER_HOME$/Projects/vesca/storage/logs/laravel.log" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/vesca/storage/logs/laravel.log" />
       <jump line="1062" column="0" filename="$USER_HOME$/Projects/vesca/storage/logs/laravel.log" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/vesca/app/Services/AddressLookup.php" />
@@ -435,6 +427,8 @@
       <jump line="58" column="0" filename="$USER_HOME$/Projects/lungage-pwa/pages/pdf.vue" />
       <jump line="112" column="0" filename="$USER_HOME$/Projects/lungage-pwa/pages/pdf.vue" />
       <jump line="294" column="0" filename="$USER_HOME$/Projects/lungage-pwa/pages/pdf.vue" />
+      <jump line="11" column="1099" filename="$USER_HOME$/Projects/lungage-pwa/.nuxt/App.js" />
+      <jump line="66" column="16" filename="$USER_HOME$/Projects/lungage-pwa/nuxt.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -447,7 +441,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="4">
         <text>this.$route.query.lung_age</text>
@@ -498,22 +492,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL251eHQtbGluay9h</text>
+        <text>s/&quot;/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
-      <last-replace>a</last-replace>
-      <last-substitute>nuxt-link</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>updateForm</entry>
-        <entry>date</entry>
         <entry>datep</entry>
         <entry>exp</entry>
         <entry>md-6</entry>
@@ -532,9 +524,10 @@
         <entry>nuxt-link</entry>
         <entry>cl</entry>
         <entry>data</entry>
+        <entry>cross</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>s/numbers/letters/g</entry>
         <entry>s/letters/numbers/g</entry>
         <entry>wq</entry>
@@ -554,6 +547,7 @@
         <entry>s/s:::::</entry>
         <entry>s/s/:</entry>
         <entry encoding="base64">JzwsJz5zL251eHQtbGluay9h</entry>
+        <entry>s/&quot;/'/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
