@@ -26,9 +26,6 @@
         <mark key="]" line="74" column="59" />
         <mark key="." line="74" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/bij.boehringer/app/Enums/ProductType.php" timestamp="1559814140805">
-        <mark key="[" line="9" column="27" />
-      </file>
       <file name="$USER_HOME$/Projects/materialen-pwa/plugins/uikit.js" timestamp="1559069284932">
         <mark key="[" line="10" column="43" />
         <mark key="]" line="10" column="44" />
@@ -69,6 +66,12 @@
         <mark key="^" line="17" column="44" />
         <mark key="." line="17" column="90" />
       </file>
+      <file name="$USER_HOME$/Projects/lungage-pwa/assets/i18n/nl_NL.js" timestamp="1560325346387">
+        <mark key="[" line="144" column="22" />
+        <mark key="]" line="145" column="0" />
+        <mark key="^" line="145" column="0" />
+        <mark key="." line="145" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page2.blade.php" timestamp="1559913561023">
         <mark key="[" line="78" column="69" />
         <mark key="]" line="78" column="68" />
@@ -92,6 +95,13 @@
         <mark key="]" line="3" column="79" />
         <mark key="^" line="3" column="79" />
         <mark key="." line="3" column="79" />
+      </file>
+      <file name="$USER_HOME$/Projects/lungage-pwa/assets/i18n/en_UK.js" timestamp="1560325315610">
+        <mark key="'" line="87" column="326" />
+        <mark key="[" line="51" column="29" />
+        <mark key="]" line="50" column="28" />
+        <mark key="^" line="50" column="28" />
+        <mark key="." line="50" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" timestamp="1559899338030">
         <mark key="[" line="184" column="62" />
@@ -124,6 +134,12 @@
         <mark key="]" line="36" column="51" />
         <mark key="^" line="36" column="51" />
         <mark key="." line="36" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/lungage-pwa/nuxt.config.js" timestamp="1560325706877">
+        <mark key="[" line="23" column="45" />
+        <mark key="]" line="23" column="45" />
+        <mark key="^" line="23" column="43" />
+        <mark key="." line="23" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Nova/Filters/ProductStatus.php" timestamp="1559053022930">
         <mark key="[" line="23" column="9" />
@@ -164,9 +180,6 @@
       <file name="$USER_HOME$/Projects/materialen/app/Console/Commands/ExportOrders.php" timestamp="1559821580800">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="84" />
-      </file>
-      <file name="/PHP Console" timestamp="1559905071507">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Sections/Roof.php" timestamp="1558950479565">
         <mark key="[" line="36" column="5" />
@@ -210,9 +223,6 @@
         <mark key="]" line="29" column="22" />
         <mark key="." line="29" column="22" />
         <mark key="^" line="29" column="22" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1559898748717">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Http/Resources/Product.php" timestamp="1559053529616">
         <mark key="[" line="30" column="24" />
@@ -283,7 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="192" filename="$USER_HOME$/Projects/vesca/storage/logs/laravel.log" />
       <jump line="285" column="8" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
       <jump line="304" column="8" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
       <jump line="76" column="63" filename="$USER_HOME$/Projects/vesca/app/Http/Controllers/PdfController.php" />
@@ -383,46 +392,47 @@
       <jump line="38" column="28" filename="$USER_HOME$/Projects/lungage-pwa/components/TermsAndConditions.vue" />
       <jump line="13" column="4" filename="$USER_HOME$/Projects/lungage-pwa/components/TermsAndConditions.vue" />
       <jump line="26" column="7" filename="$USER_HOME$/Projects/lungage-pwa/pages/index.vue" />
+      <jump line="87" column="326" filename="$USER_HOME$/Projects/lungage-pwa/assets/i18n/en_UK.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0ZW1wbGF0ZSB2LXNsb3Q6b3BlbkJ1dHRvbj0ie21vZGFsSWR9Ij4KICAgICAgICAgICAgPGEgOmhyZWY9IicjJyttb2RhbElkIiB1ay10b2dnbGUgY2xhc3M9IiI+CiAgICAgICAgICAgICAge3sgIH19CiAgICAgICAgICAgIDwvYT4KICAgICAgICAgIDwvdGVtcGxhdGU+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, async: true, defer: true</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>$t('index-discover-lunchcheck')</text>
+        <text>, async: true, defer: true</text>
       </register>
       <register name="/" type="4">
-        <text>cl</text>
+        <text>data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIG9wZW5CdXR0b25DbGFzcz0idWstYnV0dG9uIHVrLWJ1dHRvbi1wcmltYXJ5IHVrLWJ1dHRvbi1sYXJnZSB1ay13aWR0aC0xLTEiCiAgICAgICAgICA6b3BlbkJ1dHRvblRleHQ9IiR0KCdpbmRleC1kaXNjb3Zlci1sdW5nYWdlJykiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0ZW1wbGF0ZSB2LXNsb3Q6b3BlbkJ1dHRvbj0ie21vZGFsSWR9Ij4KICAgICAgICAgICAgPGEgOmhyZWY9IicjJyttb2RhbElkIiB1ay10b2dnbGUgY2xhc3M9IiI+CiAgICAgICAgICAgICAge3sgIH19CiAgICAgICAgICAgIDwvYT4KICAgICAgICAgIDwvdGVtcGxhdGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAoJCQkJCQkJCQkJCQkJCQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQljb250YWN0IHVzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0ZW1wbGF0ZSB2LXNsb3Q6b3BlbkJ1dHRvbj0ie21vZGFsSWR9Ij4KICAgICAgICAgIDwvdGVtcGxhdGU+Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQlBcyBhIHBoYXJtYWNldXRpY2FsIGNvbXBhbnksIHdlIGFyZSBzdWJqZWN0IHRvIHNwZWNpZmljIHJlZ3VsYXRpb25zLCBzdWNoIGFzIHBoYXJtYWNvdmlnaWxhbmNlLiBTb21lIG9mIHRoZXNlIGxhd3MgcmVxdWlyZSB1cyB0byBzZW5kIHlvdXIgcmVwb3J0cyB0byByZWd1bGF0b3JzIG9yIG90aGVyIGF1dGhvcml0aWVzIHdvcmxkd2lkZSAoaW5jbHVkaW5nIGNvdW50cmllcyB0aGF0IG1heSBoYXZlIGEgZGlmZmVyZW50IGxldmVsIG9mIGRhdGEgcHJvdGVjdGlvbiB0aGFuIHRoZSBFVSkuIFdlIG9ubHkgcHJvdmlkZSBhdXRob3JpdGllcyB3aXRoIHBlcnNvbmFsIGRhdGEgaWYgd2UgYXJlIGxlZ2FsbHkgb2JsaWdlZCB0byBkbyBzby4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPgo=</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQkxLiBSZXBvcnRpbmcgb2JsaWdhdGlvbnMgdG8gcmVndWxhdG9yeSBhdXRob3JpdGllcyBhbmQgZW5mb3JjZW1lbnQgb2YgcmlnaHRzwqDigKgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8c2xvdCBuYW1lPSJvcGVuQnV0dG9uIiA6bW9kYWxJZD0ibW9kYWxJZCI+CiAgICAgICAgPC9zbG90Pgo=</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCTxwPgoJCQkJCQkJCQkJCQkJCjwvcD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgOmhyZWY9IicjJyttb2RhbElkIiB1ay10b2dnbGUgY2xhc3M9IiI+CiAgICAgICAgICAgICAge3sgIH19CiAgICAgICAgICAgIDwvYQo=</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -440,19 +450,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHVpLW1vZGFsIDpzaG93Q2xvc2VCdXR0b249InRydWUiIDpzaG93SGVhZGVyPSJ0cnVlIiA6c2hvd0Zvb3Rlcj0idHJ1ZSIgdi1pZj0iIXRlcm1zQWNjZXB0ZWQiPgogICAgPHRlbXBsYXRlICNvcGVuQnV0dG9uPSJ7bW9kYWxJZH0iPgogICAgICA8c2xvdCBuYW1lPSJvcGVuQnV0dG9uIiA6bW9kYWxJZD0ibW9kYWxJZCI+CiAgICAgIDwvc2xvdD4KICAgIDwvdGVtcGxhdGU+CiAgICA8dGVtcGxhdGUgI2hlYWRlcj4KICAgICAgPGgyIGNsYXNzPSJ1ay1tb2RhbC10aXRsZSI+e3sgJHQoJ3Rlcm1zLWFuZC1jb25kaXRpb25zLWhlYWRlcicpIH19PC9oMj4KICAgIDwvdGVtcGxhdGU+CiAgICA8dGVtcGxhdGUgI2Zvb3Rlcj0ie21vZGFsSWQsY2xvc2V9Ij4KICAgICAgPGRpdiBjbGFzcz0idWstZ3JpZCB1ay1jaGlsZC13aWR0aC0xLTEgdWstZ3JpZC1zbWFsbCIgdWstZ3JpZD4KICAgICAgICA8ZGl2IEBjbGljay5wcmV2ZW50PSJjbG9zZSI+CiAgICAgICAgICA8bnV4dC1saW5rIEBjbGljaz0iYWNjZXB0IiBjbGFzcz0idWstYnV0dG9uIHVrLWJ1dHRvbi1zbWFsbCB1ay1idXR0b24tcHJpbWFyeSI+CiAgICAgICAgICAgIHt7JHQoJ19hY3Rpb24tYWNjZXB0Jyl9fQogICAgICAgICAgPC9udXh0LWxpbms+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBAY2xpY2sucHJldmVudD0iY2xvc2UiPgogICAgICAgICAgPG51eHQtbGluayA6dG89ImxvY2FsZVBhdGgoJ2luZGV4JykiIGNsYXNzPSJ1ay1idXR0b24gdWstYnV0dG9uLXNtYWxsIHVrLWJ1dHRvbi1kZWZhdWx0Ij4KICAgICAgICAgICAge3skdCgnX2FjdGlvbi1kZWNsaW5lJyl9fQogICAgICAgICAgPC9udXh0LWxpbms+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC90ZW1wbGF0ZT4KICAgIDxkaXYgdi1odG1sPSIkdCgndGVybXMtYW5kLWNvbmRpdGlvbnMtY29udGVudCcpIj48L2Rpdj4KICA8L3VpLW1vZGFsPgo=</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgLy8gLnRleHQtcGFkZGluZyB7CiAgLy8gICBwYWRkaW5nOiAwIDIwcHg7CiAgLy8gfQoKICAvLyBAbWVkaWEobWluLXdpZHRoOjc2OHB4KSB7CgogIC8vICAgLnRleHQtcGFkZGluZyB7CiAgLy8gICAgIHBhZGRpbmc6IDAgODBweDsKICAvLyAgIH0KCiAgLy8gfQo=</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL251eHQtbGluay9h</text>
       </register>
     </registers>
     <search>
-      <last-search>cl</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern>cl</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace>a</last-replace>
       <last-substitute>nuxt-link</last-substitute>
       <last-dir>1</last-dir>
@@ -465,7 +475,6 @@
         <entry>datep</entry>
         <entry>exp</entry>
         <entry>md-6</entry>
-        <entry>data</entry>
         <entry>data()</entry>
         <entry>date-p</entry>
         <entry>form</entry>
@@ -480,6 +489,7 @@
         <entry>s</entry>
         <entry>nuxt-link</entry>
         <entry>cl</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
