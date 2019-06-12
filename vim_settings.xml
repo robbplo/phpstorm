@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/lungage-pwa/pages/pdf.vue" timestamp="1560327583014">
+        <mark key="'" line="289" column="0" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="107" column="0" />
+        <mark key="." line="80" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" timestamp="1559059630591">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -292,10 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="8" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
-      <jump line="304" column="8" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
-      <jump line="76" column="63" filename="$USER_HOME$/Projects/vesca/app/Http/Controllers/PdfController.php" />
-      <jump line="43" column="20" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
       <jump line="166" column="13" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" />
       <jump line="157" column="97" filename="$USER_HOME$/Projects/vesca/storage/logs/laravel.log" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/vesca/storage/logs/laravel.log" />
@@ -392,16 +395,20 @@
       <jump line="13" column="4" filename="$USER_HOME$/Projects/lungage-pwa/components/TermsAndConditions.vue" />
       <jump line="26" column="7" filename="$USER_HOME$/Projects/lungage-pwa/pages/index.vue" />
       <jump line="87" column="326" filename="$USER_HOME$/Projects/lungage-pwa/assets/i18n/en_UK.js" />
+      <jump line="113" column="0" filename="$USER_HOME$/Projects/lungage-pwa/pages/pdf.vue" />
+      <jump line="58" column="0" filename="$USER_HOME$/Projects/lungage-pwa/pages/pdf.vue" />
+      <jump line="112" column="0" filename="$USER_HOME$/Projects/lungage-pwa/pages/pdf.vue" />
+      <jump line="294" column="0" filename="$USER_HOME$/Projects/lungage-pwa/pages/pdf.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBUcmFja2luZyBjb2RlCiAgUERGIHZhbHVlcyBpbnRlcmNoYW5nZWQKICBQcml2YWN5IFBvbGljeSBmcm9tIGhhbWJ1cmdlciBtZW51IGhhcyBHRFBSIGFuZCBEU0dWTyBpbiB0aGUgdGV4dC4gVGV4dCBwcm9iYWJseSBub3QgZmluYWwKICBFZGl0IHRlcm1zIGFuZCBjb25kaXRpb25zIHBvcC11cCBsb2NhdGlvbnMK</text>
+        <text encoding="base64">CS8vIGZldGNoKGNvbnRleHQpIHsKCS8vIH0sCg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>data</text>
@@ -410,30 +417,28 @@
         <text encoding="base64">ICAgICAgICAgIG9wZW5CdXR0b25DbGFzcz0idWstYnV0dG9uIHVrLWJ1dHRvbi1wcmltYXJ5IHVrLWJ1dHRvbi1sYXJnZSB1ay13aWR0aC0xLTEiCiAgICAgICAgICA6b3BlbkJ1dHRvblRleHQ9IiR0KCdpbmRleC1kaXNjb3Zlci1sdW5nYWdlJykiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBUcmFja2luZyBjb2RlCiAgUERGIHZhbHVlcyBpbnRlcmNoYW5nZWQKICBQcml2YWN5IFBvbGljeSBmcm9tIGhhbWJ1cmdlciBtZW51IGhhcyBHRFBSIGFuZCBEU0dWTyBpbiB0aGUgdGV4dC4gVGV4dCBwcm9iYWJseSBub3QgZmluYWwKICBFZGl0IHRlcm1zIGFuZCBjb25kaXRpb25zIHBvcC11cCBsb2NhdGlvbnMK</text>
+        <text encoding="base64">CS8vIGZldGNoKGNvbnRleHQpIHsKCS8vIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBHaXN0ZXJlbgogIDEyLTA2LTE5CiAgR2VlbiB3ZXJremFhbWhlZGVuCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbWFwR2V0dGVycywgbWFwQWN0aW9ucyB9IGZyb20gJ3Z1ZXgnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBHaXN0ZXJlbgogIDEyLTA2LTE5CiAgR2VlbiB3ZXJremFhbWhlZGVuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>Gisteren
-    12-06-19
-  Geen werkzaamheden</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAoJCQkJCQkJCQkJCQkJCQo=</text>
+        <text encoding="base64">PHN0eWxlIGxhbmc9Imxlc3MiPgpbdi1jbG9ha10gewoJZGlzcGxheTogbm9uZTsKfQoKZm9vdGVyIHsKCXBvc2l0aW9uOiBmaXhlZDsKCWJvdHRvbTogMDsKCWxlZnQ6IDA7Cgl3aWR0aDogMTAwJTsKfQoKLnByaW50LWZvb3Rlci10ZXh0IHsKCWJhY2tncm91bmQ6ICNjNWQyOTM7CglwYWRkaW5nOiAwIDh2dzsKCXBhZGRpbmctYm90dG9tOiAzdnc7CgoJaDIgewoJCWZvbnQtc2l6ZTogMi41dnc7CgkJbWFyZ2luOiAwIDAgMS41dncgMDsKCX0KCglwLAoJc3Ryb25nIHsKCQlmb250LXNpemU6IDEuNHZ3OwoJCW1hcmdpbjogMDsKCX0KfQoKLnByaW50LWltYWdlIHsKCWhlaWdodDogMjB2dzsKCWhlaWdodDogMjB2dzsKCWJhY2tncm91bmQ6IHVybCgnL2ltYWdlcy9mb290ZXItd2lkZS5wbmcnKSByZXBlYXQteDsKCWJhY2tncm91bmQtc2l6ZTogY292ZXI7CgliYWNrZ3JvdW5kLXBvc2l0aW9uOiAwIDA7Cn0KCi5wcmludC1sYWJlbC1zbWFsbCB7CglsaW5lLWhlaWdodDogM3Z3Owp9CgoucHJpbnQtbGFiZWwgewoJZGlzcGxheTogYmxvY2s7Cn0KCi5wcmludC1kZXRhaWxzIC53cmFwcGVyIHsKCW1hcmdpbjogMXZ3IGF1dG87CgkuYmFja2dyb3VuZCB7CgkJbWluLXdpZHRoOiBhdXRvOwoJCXdpZHRoOiAxMHZ3OwoJCWhlaWdodDogMTB2dzsKCX0KfQoKLnByaW50LWRldGFpbHMgLnZhbHVlIHsKCXdpZHRoOiBhdXRvICFpbXBvcnRhbnQ7Cglmb250LXNpemU6IDR2dzsKfQoKLnByaW50LWRldGFpbHMgLnN1YnRpdGxlIHsKCWZvbnQtc2l6ZTogMS43dnc7Cn0KCi5wcmludC1nZW5kZXIgewoJLnByaW50LWljb24gewoJCWRpc3BsYXk6IGJsb2NrOwoJCWNvbG9yOiAjZmZmOwoJCWJhY2tncm91bmQ6ICNhZmQ3Yjg7CgkJYm9yZGVyLXJhZGl1czogMTAwJTsKCQl3aWR0aDogMTB2dzsKCQloZWlnaHQ6IDEwdnc7CgkJbGluZS1oZWlnaHQ6IDEwdnc7CgkJdGV4dC1hbGlnbjogY2VudGVyOwoJCW1hcmdpbjogMXZ3IGF1dG87Cgl9Cn0KCi5wcmludC1kZXRhaWxzIHsKCWZvbnQtc2l6ZTogMS40dnc7Cglmb250LXdlaWdodDogODAwOwoJd2lkdGg6IDk1dnc7CgltYXJnaW46IDAgYXV0bzsKCW1hcmdpbi10b3A6IDN2dzsKCXRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7Cn0KCi5wcmludC1zdmctY29udGFpbmVyIHsKCXBvc2l0aW9uOiByZWxhdGl2ZTsKCWhlaWdodDogNzV2dzsKCgkucHJpbnQtbHVuZ3MgewoJCXBvc2l0aW9uOiBhYnNvbHV0ZTsKCQlkaXNwbGF5OiBibG9jazsKCQl3aWR0aDogNzV2dzsKCQltYXJnaW46IDAgYXV0byAwIGF1dG87CgkJcG9zaXRpb246IHJlbGF0aXZlOwoJCXRvcDogLTE3dnc7Cgl9Cn0KCi5wcmludC1yZXN1bHQtdGV4dCB7Cgl0ZXh0LWFsaWduOiBjZW50ZXI7Cgl0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOwoJd2lkdGg6IDQwdnc7CgltYXJnaW46IC04dncgYXV0byAwdncgYXV0bzsKCgkudGV4dC0xIHsKCQlmb250LXNpemU6IDR2dzsKCX0KCgkudGV4dC0yIHsKCQlmb250LXNpemU6IDEwdnc7Cgl9CgoJLnRleHQtMyB7CgkJZm9udC1zaXplOiA0dnc7Cgl9Cn0KCiNwZGZQYWdlIGgxIHsKCXBvc2l0aW9uOiBhYnNvbHV0ZTsKCXRvcDogNXZ3OwoJbGVmdDogMHZ3OwoJd2lkdGg6IDEwMCU7CglsaW5lLWhlaWdodDogMTsKCXRleHQtYWxpZ246IGNlbnRlcjsKCW1hcmdpbjogMDsKCXotaW5kZXg6IDEwMDAwMDA7Cglmb250LXNpemU6IDR2dzsKfQoKI3BkZlBhZ2UgewoJaGVpZ2h0OiAxMDB2aDsKfQoKLnByaW50LWNvbnRhaW5lciB7Cglwb3NpdGlvbjogcmVsYXRpdmU7Cgl3aWR0aDogMTAwJTsKCWhlaWdodDogMTAwdmg7Cn0KCi5wcmludC1sb2dvIHsKCXBvc2l0aW9uOiBhYnNvbHV0ZTsKCXRvcDogMi41dnc7CglsZWZ0OiAzdnc7Cgl3aWR0aDogMTV2dzsKfQoKLnByaW50LWNvbnRhaW5lciB7Cglwb3NpdGlvbjogcmVsYXRpdmU7Cgl6LWluZGV4OiAxMDAwMDsKfQoKLnNkdi1zd2lybCB7Cglwb3NpdGlvbjogYWJzb2x1dGU7Cgl6LWluZGV4OiAxMDAwMDsKCXRvcDogNXZoOwoJbGVmdDogMDsKCXdpZHRoOiA5MCU7CgloZWlnaHQ6IDEwMCU7CgliYWNrZ3JvdW5kLWltYWdlOiB1cmwoL2ltYWdlcy9zd2lybC5wbmcpOwoJYmFja2dyb3VuZC1yZXBlYXQ6IG5vLXJlcGVhdDsKCWJhY2tncm91bmQtc2l6ZTogY29udGFpbjsKCgkucGFnZS1hbHRlcm5hdGl2ZS1iZyAmIHsKCQliYWNrZ3JvdW5kLWltYWdlOiB1cmwoL2ltYWdlcy9zd2lybC13aGl0ZS5wbmcpOwoJfQoKCSYuc2R2LXN3aXJsLXJvdGF0ZWQgewoJCWRpc3BsYXk6IG5vbmU7CgkJZGlzcGxheTogYmxvY2s7CgkJdHJhbnNmb3JtOiByb3RhdGUoMTgwZGVnKTsKCQl3aWR0aDogNTAlOwoJCWhlaWdodDogNTAlOwoJCXJpZ2h0OiAwOwoJCXRvcDogYXV0bzsKCQlib3R0b206IDA7CgkJbGVmdDogYXV0bzsKCQlib3R0b206IDUwcHg7Cgl9Cn0KCjwvc3R5bGU+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCQljb250YWN0IHVzCg==</text>
+        <text encoding="base64">CS8vIHdpZHRoOiA2MDAwcHg7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -451,10 +456,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCQlBcyBhIHBoYXJtYWNldXRpY2FsIGNvbXBhbnksIHdlIGFyZSBzdWJqZWN0IHRvIHNwZWNpZmljIHJlZ3VsYXRpb25zLCBzdWNoIGFzIHBoYXJtYWNvdmlnaWxhbmNlLiBTb21lIG9mIHRoZXNlIGxhd3MgcmVxdWlyZSB1cyB0byBzZW5kIHlvdXIgcmVwb3J0cyB0byByZWd1bGF0b3JzIG9yIG90aGVyIGF1dGhvcml0aWVzIHdvcmxkd2lkZSAoaW5jbHVkaW5nIGNvdW50cmllcyB0aGF0IG1heSBoYXZlIGEgZGlmZmVyZW50IGxldmVsIG9mIGRhdGEgcHJvdGVjdGlvbiB0aGFuIHRoZSBFVSkuIFdlIG9ubHkgcHJvdmlkZSBhdXRob3JpdGllcyB3aXRoIHBlcnNvbmFsIGRhdGEgaWYgd2UgYXJlIGxlZ2FsbHkgb2JsaWdlZCB0byBkbyBzby4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCQkxLiBSZXBvcnRpbmcgb2JsaWdhdGlvbnMgdG8gcmVndWxhdG9yeSBhdXRob3JpdGllcyBhbmQgZW5mb3JjZW1lbnQgb2YgcmlnaHRzwqDigKgK</text>
+        <text encoding="base64">Ly8gLnUK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL251eHQtbGluay9h</text>
