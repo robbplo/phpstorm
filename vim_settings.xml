@@ -22,10 +22,10 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="39" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page5.blade.php" timestamp="1559913368042">
-        <mark key="[" line="18" column="16" />
-        <mark key="]" line="18" column="15" />
-        <mark key="." line="18" column="15" />
+      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page5.blade.php" timestamp="1560416217086">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
         <mark key="^" line="18" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/lungage-api/app/Http/Controllers/DocumentController.php" timestamp="1559132771194">
@@ -57,6 +57,13 @@
         <mark key="]" line="17" column="39" />
         <mark key="." line="17" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoorProfiles.php" timestamp="1560416191408">
+        <mark key="'" line="43" column="8" />
+        <mark key="[" line="24" column="34" />
+        <mark key="]" line="26" column="38" />
+        <mark key="." line="26" column="38" />
+        <mark key="^" line="26" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/lungage-pwa/store/modules/application.js" timestamp="1560322106996">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="13" />
@@ -67,6 +74,13 @@
         <mark key="[" line="63" column="0" />
         <mark key="]" line="71" column="44" />
         <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page4.blade.php" timestamp="1560416052978">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lungage-api/routes/web.php" timestamp="1559567368149">
         <mark key="[" line="20" column="33" />
@@ -150,10 +164,6 @@
         <mark key="]" line="91" column="39" />
         <mark key="^" line="91" column="39" />
         <mark key="." line="91" column="39" />
-      </file>
-      <file name="$USER_HOME$/Projects/lungage-pwa/components/UiModal.vue" timestamp="1560259849815">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="29" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/bij.boehringer/api/Product/Http/Controllers/ProductController.php" timestamp="1559901235900">
         <mark key="[" line="36" column="51" />
@@ -307,11 +317,11 @@
         <mark key="^" line="24" column="13" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page3.blade.php" timestamp="1560409747833">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="29" column="23" />
-        <mark key="." line="29" column="23" />
-        <mark key="^" line="29" column="23" />
+      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page3.blade.php" timestamp="1560415753814">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="15" column="114" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_05_28_115545_add_sort_order_column_to_products-table.php" timestamp="1559047290161">
         <mark key="[" line="16" column="53" />
@@ -327,8 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/vesca/storage/logs/laravel.log" />
-      <jump line="1062" column="0" filename="$USER_HOME$/Projects/vesca/storage/logs/laravel.log" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/vesca/app/Services/AddressLookup.php" />
       <jump line="23" column="41" filename="$USER_HOME$/Projects/vesca/api/V1/Postalcode/Http/Controllers/PostalcodeLookupController.php" />
       <jump line="111" column="44" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/Object.vue" />
@@ -427,46 +435,48 @@
       <jump line="294" column="0" filename="$USER_HOME$/Projects/lungage-pwa/pages/pdf.vue" />
       <jump line="11" column="1099" filename="$USER_HOME$/Projects/lungage-pwa/.nuxt/App.js" />
       <jump line="66" column="16" filename="$USER_HOME$/Projects/lungage-pwa/nuxt.config.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page4.blade.php" />
+      <jump line="43" column="8" filename="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoorProfiles.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICc8Yj5EYXR1bTwvYj4nID0+ICRvZmZlci0+Y3JlYXRlZF9hdC0+Zm9ybWF0KCdkL20vWScpLA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB7ey0tIEB0b2RvIEluZGljYXRpZSBtb250YWdlcHJpanMgdG9ldm9lZ2VuIGFhbiBmb3JtdWxpZXIgZW4gaGllciB0b25lbiBhbHMgZGV6ZSBpcyBpbmdldnVsZC4gLS19fQo=</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICc8Yj5EYXR1bTwvYj4nID0+ICRvZmZlci0+Y3JlYXRlZF9hdC0+Zm9ybWF0KCdkL20vWScpLA==</text>
+        <text>displayNames</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>this.$route.query.lung_age</text>
+      <register name="0" type="2">
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAc3dpdGNoCg==</text>
+        <text encoding="base64">ICAgICAgICB7ey0tIEB0b2RvIEluZGljYXRpZSBtb250YWdlcHJpanMgdG9ldm9lZ2VuIGFhbiBmb3JtdWxpZXIgZW4gaGllciB0b25lbiBhbHMgZGV6ZSBpcyBpbmdldnVsZC4gLS19fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdsdW5nYWdlX3BkZl91cmwnID0+IGVudignTFVOR0FHRV9QREZfVVJMJywgJ2h0dHA6Ly9sb2NhbGhvc3Q6MzAwMC8lcy9wZGYnKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoJHVybC4kcGFyYW1zKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXJsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJYWdlQWN0dWFsOiA0NSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzbW9raW5nX3llYXJzOiB0aGlzLiRzdG9yZS5zdGF0ZS5hcHBsaWNhdGlvbi5sdW5nYWdlLnJlc3VsdHMuY2lnYXJldHRlcywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIGZldGNoKGNvbnRleHQpIHsKCS8vIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -484,7 +494,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbWFwR2V0dGVycywgbWFwQWN0aW9ucyB9IGZyb20gJ3Z1ZXgnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
