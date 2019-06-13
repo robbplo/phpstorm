@@ -67,7 +67,6 @@
         <mark key="]" line="71" column="44" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/lungage-api/config/cors.php" timestamp="1560328437362" />
       <file name="$USER_HOME$/Projects/lungage-api/routes/web.php" timestamp="1559567368149">
         <mark key="[" line="20" column="33" />
         <mark key="]" line="20" column="33" />
@@ -97,11 +96,10 @@
         <mark key="^" line="145" column="0" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page2.blade.php" timestamp="1559913561023">
-        <mark key="[" line="78" column="69" />
-        <mark key="]" line="78" column="68" />
-        <mark key="." line="78" column="68" />
-        <mark key="^" line="78" column="68" />
+      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page2.blade.php" timestamp="1560409716572">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lungage-api/app/Http/Requests/DocumentRequest.php" timestamp="1559133027195">
         <mark key="[" line="6" column="6" />
@@ -278,7 +276,6 @@
         <mark key="^" line="26" column="39" />
         <mark key="." line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/lungage-pwa/layouts/default.vue" timestamp="1560260113644" />
       <file name="$USER_HOME$/Projects/lungage-api/app/Http/Kernel.php" timestamp="1559572814690">
         <mark key="[" line="20" column="49" />
         <mark key="]" line="21" column="40" />
@@ -309,7 +306,7 @@
         <mark key="^" line="24" column="13" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page3.blade.php" timestamp="1559648027283">
+      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page3.blade.php" timestamp="1560409747833">
         <mark key="[" line="29" column="17" />
         <mark key="]" line="29" column="23" />
         <mark key="." line="29" column="23" />
@@ -431,8 +428,8 @@
       <jump line="66" column="16" filename="$USER_HOME$/Projects/lungage-pwa/nuxt.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBAc3dpdGNoCg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
@@ -447,28 +444,28 @@
         <text>this.$route.query.lung_age</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdsdW5nYWdlX3BkZl91cmwnID0+IGVudignTFVOR0FHRV9QREZfVVJMJywgJ2h0dHA6Ly9sb2NhbGhvc3Q6MzAwMC8lcy9wZGYnKSwK</text>
+        <text encoding="base64">ICAgICAgICBAc3dpdGNoCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoJHVybC4kcGFyYW1zKTsK</text>
+        <text encoding="base64">ICAgICdsdW5nYWdlX3BkZl91cmwnID0+IGVudignTFVOR0FHRV9QREZfVVJMJywgJ2h0dHA6Ly9sb2NhbGhvc3Q6MzAwMC8lcy9wZGYnKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXJsKTsK</text>
+        <text encoding="base64">ICAgICAgICBkaWUoJHVybC4kcGFyYW1zKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJYWdlQWN0dWFsOiA0NSwK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXJsKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzbW9raW5nX3llYXJzOiB0aGlzLiRzdG9yZS5zdGF0ZS5hcHBsaWNhdGlvbi5sdW5nYWdlLnJlc3VsdHMuY2lnYXJldHRlcywK</text>
+        <text encoding="base64">CQkJYWdlQWN0dWFsOiA0NSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIGZldGNoKGNvbnRleHQpIHsKCS8vIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICBzbW9raW5nX3llYXJzOiB0aGlzLiRzdG9yZS5zdGF0ZS5hcHBsaWNhdGlvbi5sdW5nYWdlLnJlc3VsdHMuY2lnYXJldHRlcywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbWFwR2V0dGVycywgbWFwQWN0aW9ucyB9IGZyb20gJ3Z1ZXgnCg==</text>
+        <text encoding="base64">CS8vIGZldGNoKGNvbnRleHQpIHsKCS8vIH0sCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -486,7 +483,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbWFwR2V0dGVycywgbWFwQWN0aW9ucyB9IGZyb20gJ3Z1ZXgnCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
