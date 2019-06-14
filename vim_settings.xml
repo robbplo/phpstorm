@@ -8,14 +8,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/lungage-pwa/pages/pdf.vue" timestamp="1560329084372">
-        <mark key="'" line="291" column="0" />
-        <mark key="[" line="71" column="19" />
-        <mark key="k" line="86" column="22" />
-        <mark key="]" line="71" column="18" />
-        <mark key="^" line="71" column="18" />
-        <mark key="." line="71" column="18" />
-      </file>
       <file name="$USER_HOME$/Projects/materialen-pwa/store/modules/products.js" timestamp="1559059630591">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -113,6 +105,13 @@
         <mark key="[" line="121" column="0" />
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/vetclass/app/Console/Commands/FilterLogs.php" timestamp="1560496571115">
+        <mark key="k" line="67" column="43" />
+        <mark key="[" line="67" column="37" />
+        <mark key="]" line="68" column="11" />
+        <mark key="." line="68" column="11" />
+        <mark key="^" line="68" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/resources/views/pdf/pages/object_modelmarktwaarde.blade.php" timestamp="1558691571290">
         <mark key="[" line="17" column="90" />
@@ -501,8 +500,8 @@
       <jump line="16" column="4" filename="$USER_HOME$/Projects/facade/config/filemaker.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Auth</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgnJyk7Cg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
@@ -517,28 +516,30 @@
         <text encoding="base64">ICAgICdzZXNzaW9uLnVzZXInID0+ICdyZXF1aXJlZCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgnJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISkK</text>
+      <register name="2" type="4">
+        <text>[
+                'tracker_handler_id', 'user_id', 'value1', 'value2', 'created_at',
+            ]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIAo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">Owo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRkKCR2YWxpZGF0b3ItPmVycm9ycygpKTsK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoISkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dXNlIAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VmFsaWRhdG9yOjoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -556,10 +557,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZChTZXNzaW9uOjpnZXQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGRkKCR2YWxpZGF0b3ItPmVycm9ycygpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VmFsaWRhdG9yOjoK</text>
       </register>
       <register name=":" type="4">
         <text>s/&quot;/'/g</text>
