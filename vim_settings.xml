@@ -55,11 +55,12 @@
         <mark key="^" line="14" column="34" />
         <mark key="." line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/auth-ms/database/migrations/2019_05_29_125459_create_users_table.php" timestamp="1560773120741">
+      <file name="$USER_HOME$/Projects/auth-ms/database/migrations/2019_05_29_125459_create_users_table.php" timestamp="1560775974022">
         <mark key="'" line="32" column="12" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="22" column="42" />
+        <mark key="]" line="22" column="55" />
+        <mark key="." line="22" column="55" />
+        <mark key="^" line="22" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/facade/app/Http/Middleware/Authenticate.php" timestamp="1560424206406">
         <mark key="[" line="19" column="49" />
@@ -80,6 +81,13 @@
         <mark key="^" line="22" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/auth-ms/app/Providers/AppServiceProvider.php" timestamp="1560773108828" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Enums/BuildingOverheadDoorProfiles.php" timestamp="1560416191408">
+        <mark key="'" line="43" column="8" />
+        <mark key="[" line="24" column="34" />
+        <mark key="]" line="26" column="38" />
+        <mark key="." line="26" column="38" />
+        <mark key="^" line="26" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/lungage-pwa/store/modules/application.js" timestamp="1560322106996">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="13" />
@@ -96,6 +104,13 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page4.blade.php" timestamp="1560416052978">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lungage-api/routes/web.php" timestamp="1559567368149">
         <mark key="[" line="20" column="33" />
@@ -130,6 +145,13 @@
         <mark key="." line="51" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/auth-ms/app/Http/Middleware/ServiceMiddleware.php" timestamp="1560771074751" />
+      <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" timestamp="1560770647082">
+        <mark key="'" line="50" column="5" />
+        <mark key="[" line="59" column="2" />
+        <mark key="]" line="63" column="34" />
+        <mark key="." line="63" column="34" />
+        <mark key="^" line="63" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/lungage-api/config/pdf.php" timestamp="1560329023771">
         <mark key="[" line="3" column="70" />
         <mark key="]" line="3" column="79" />
@@ -142,11 +164,11 @@
         <mark key="." line="184" column="62" />
         <mark key="^" line="232" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/auth-ms/app/User.php" timestamp="1560774277039">
-        <mark key="[" line="17" column="51" />
-        <mark key="]" line="17" column="49" />
-        <mark key="." line="17" column="49" />
-        <mark key="^" line="17" column="49" />
+      <file name="$USER_HOME$/Projects/auth-ms/app/User.php" timestamp="1560776115976">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="48" column="4" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lungage-api/.env" timestamp="1560329040308">
         <mark key="[" line="49" column="20" />
@@ -492,13 +514,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZChSb2xlOjpmaXJzdE9yRmFpbCgpKTsK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>resource</text>
+        <text>boolean</text>
       </register>
       <register name="/" type="4">
         <text>store</text>
@@ -507,28 +529,28 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChSb2xlVGFibGVTZWVkZXI6OmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZChSb2xlOjpmaXJzdE9yRmFpbCgpKTsK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OmJvb3QoKTsKCg==</text>
+        <text encoding="base64">dXNlIFJhbXNleVxVdWlkXFV1aWQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29udHJhY3RzXENhY2hlXFN0b3JlOwo=</text>
+        <text encoding="base64">CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIGJvb2wKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldEluY3JlbWVudGluZygpCiAgICB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldEtleVR5cGUoKQogICAgewogICAgICAgIHJldHVybiAnc3RyaW5nJzsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqCiAgICAgKi8K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gYm9vdCgpCiAgICB7CiAgICAgICAgcGFyZW50Ojpib290KCk7CgogICAgICAgIHN0YXRpYzo6Y3JlYXRpbmcoZnVuY3Rpb24gKCRyZXNvdXJjZSkgewogICAgICAgICAgICBpZiAoISRyZXNvdXJjZS0+Z2V0S2V5KCkpIHsKICAgICAgICAgICAgICAgICRyZXNvdXJjZS0+eyRyZXNvdXJjZS0+Z2V0S2V5TmFtZSgpfSA9IChzdHJpbmcpVXVpZDo6dXVpZDQoKS0+Z2V0SGV4KCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZChSb2xlOjpmaXJzdE9yRmFpbCgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OmJvb3QoKTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdAo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29udHJhY3RzXENhY2hlXFN0b3JlOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -548,10 +570,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdlbWFpbCcgICAgPT4gJ2RldmVsb3BlckBzbWl0Lm5ldCcsCiAgICAgICAgICAgICAgICAncGFzc3dvcmQnID0+ICdzZWNyZXQnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ0FuYW1lJyk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gYm9vdCgpCiAgICB7CiAgICAgICAgcGFyZW50Ojpib290KCk7CgogICAgICAgIHN0YXRpYzo6Y3JlYXRpbmcoZnVuY3Rpb24gKCRyZXNvdXJjZSkgewogICAgICAgICAgICBpZiAoISRyZXNvdXJjZS0+Z2V0S2V5KCkpIHsKICAgICAgICAgICAgICAgICRyZXNvdXJjZS0+eyRyZXNvdXJjZS0+Z2V0S2V5TmFtZSgpfSA9IChzdHJpbmcpVXVpZDo6dXVpZDQoKS0+Z2V0SGV4KCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3N0b3JlL3JvbGUvZw==</text>
