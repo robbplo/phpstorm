@@ -55,12 +55,12 @@
         <mark key="^" line="14" column="34" />
         <mark key="." line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/auth-ms/database/migrations/2019_05_29_125459_create_users_table.php" timestamp="1560775974022">
+      <file name="$USER_HOME$/Projects/auth-ms/database/migrations/2019_05_29_125459_create_users_table.php" timestamp="1560779590502">
         <mark key="'" line="32" column="12" />
-        <mark key="[" line="22" column="42" />
-        <mark key="]" line="22" column="55" />
-        <mark key="." line="22" column="55" />
-        <mark key="^" line="22" column="55" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/facade/app/Http/Middleware/Authenticate.php" timestamp="1560424206406">
         <mark key="[" line="19" column="49" />
@@ -164,10 +164,10 @@
         <mark key="." line="184" column="62" />
         <mark key="^" line="232" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/auth-ms/app/User.php" timestamp="1560777234144">
-        <mark key="[" line="56" column="31" />
+      <file name="$USER_HOME$/Projects/auth-ms/app/User.php" timestamp="1560779520170">
+        <mark key="[" line="17" column="61" />
         <mark key="]" line="7" column="0" />
-        <mark key="^" line="48" column="4" />
+        <mark key="^" line="49" column="4" />
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lungage-api/.env" timestamp="1560329040308">
@@ -386,8 +386,8 @@
         <mark key="^" line="24" column="13" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/auth-ms/app/Store.php" timestamp="1560774298415">
-        <mark key="[" line="10" column="19" />
+      <file name="$USER_HOME$/Projects/auth-ms/app/Store.php" timestamp="1560779506145">
+        <mark key="[" line="10" column="29" />
         <mark key="]" line="11" column="3" />
         <mark key="^" line="11" column="3" />
         <mark key="." line="11" column="3" />
@@ -513,14 +513,14 @@
       <jump line="32" column="12" filename="$USER_HOME$/Projects/auth-ms/database/migrations/2019_05_29_125459_create_users_table.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>boolean</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>store</text>
