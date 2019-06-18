@@ -6,6 +6,12 @@
       <file name="/a.dummy" timestamp="1560772451811">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/bij.boehringer/database/migrations/2019_06_18_072544_extend_contract_fields.php" timestamp="1560842762187">
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="28" />
+        <mark key="." line="18" column="28" />
+        <mark key="^" line="18" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/auth-ms/app/Http/Controllers/PersonalAccessTokenController.php" timestamp="1560770951553" />
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page1.blade.php" timestamp="1560414441254">
         <mark key="[" line="21" column="11" />
@@ -162,6 +168,10 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="24" column="13" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/bij.boehringer/database/migrations/2019_06_07_091804_add_contract_fields_to_orders_table.php" timestamp="1560842749954">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="18" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/facade/.env.example" timestamp="1560430394397">
         <mark key="[" line="23" column="0" />
@@ -334,7 +344,7 @@
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
       </file>
-      <file name="/PHP Console" timestamp="1560774807245">
+      <file name="/PHP Console" timestamp="1560842747592">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lungage-api/app/Http/Controllers/ResultsController.php" timestamp="1559034546049">
@@ -515,8 +525,8 @@
       <jump line="32" column="12" filename="$USER_HOME$/Projects/auth-ms/database/migrations/2019_05_29_125459_create_users_table.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
@@ -528,31 +538,31 @@
         <text>store</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChSb2xlVGFibGVTZWVkZXI6OmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdvcmRlcnMnLCBmdW5jdGlvbiAoQmx1ZXByaW50ICR0YWJsZSkgewogICAgICAgICAgICAkdGFibGUtPmRhdGUoJ2NvbnRyYWN0X3N0YXJ0JyktPm51bGxhYmxlKCktPmFmdGVyKCdxdWFudGl0eScpOwogICAgICAgICAgICAkdGFibGUtPmRhdGUoJ2NvbnRyYWN0X2VuZCcpLT5udWxsYWJsZSgpLT5hZnRlcignY29udHJhY3Rfc3RhcnQnKTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIFJhbXNleVxVdWlkXFV1aWQ7Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIGJvb2wKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldEluY3JlbWVudGluZygpCiAgICB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldEtleVR5cGUoKQogICAgewogICAgICAgIHJldHVybiAnc3RyaW5nJzsKICAgIH0K</text>
+        <text encoding="base64">dXNlIFJhbXNleVxVdWlkXFV1aWQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqCiAgICAgKi8K</text>
+        <text encoding="base64">CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIGJvb2wKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldEluY3JlbWVudGluZygpCiAgICB7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiBzdHJpbmcKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldEtleVR5cGUoKQogICAgewogICAgICAgIHJldHVybiAnc3RyaW5nJzsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZChSb2xlOjpmaXJzdE9yRmFpbCgpKTsK</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqCiAgICAgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OmJvb3QoKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBkZChSb2xlOjpmaXJzdE9yRmFpbCgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29udHJhY3RzXENhY2hlXFN0b3JlOwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OmJvb3QoKTsKCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -572,10 +582,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29udHJhY3RzXENhY2hlXFN0b3JlOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gYm9vdCgpCiAgICB7CiAgICAgICAgcGFyZW50Ojpib290KCk7CgogICAgICAgIHN0YXRpYzo6Y3JlYXRpbmcoZnVuY3Rpb24gKCRyZXNvdXJjZSkgewogICAgICAgICAgICBpZiAoISRyZXNvdXJjZS0+Z2V0S2V5KCkpIHsKICAgICAgICAgICAgICAgICRyZXNvdXJjZS0+eyRyZXNvdXJjZS0+Z2V0S2V5TmFtZSgpfSA9IChzdHJpbmcpVXVpZDo6dXVpZDQoKS0+Z2V0SGV4KCk7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3N0b3JlL3JvbGUvZw==</text>
