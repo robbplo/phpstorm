@@ -3,16 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/lungage-api/config/lungage.php" timestamp="1560328994836">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Http/Controllers/OfferController.php" timestamp="1560858247184">
         <mark key="[" line="41" column="43" />
         <mark key="]" line="41" column="43" />
         <mark key="^" line="39" column="35" />
         <mark key="." line="41" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Stores/Http/Controllers/StoreController.php" timestamp="1561453279568">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="3" />
+        <mark key="^" line="29" column="3" />
+        <mark key="." line="29" column="3" />
+      </file>
+      <file name="/a.dummy" timestamp="1561454918699">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Stores/Http/Resources/Store.php" timestamp="1561382047787" />
       <file name="$USER_HOME$/Projects/bij.boehringer/database/migrations/2019_06_18_072544_extend_contract_fields.php" timestamp="1560846701665">
@@ -52,16 +56,13 @@
         <mark key="." line="10" column="44" />
         <mark key="^" line="10" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/app/Providers/AppServiceProvider.php" timestamp="1559829305347">
-        <mark key="[" line="17" column="39" />
-        <mark key="]" line="17" column="39" />
-        <mark key="." line="17" column="39" />
-      </file>
       <file name="$USER_HOME$/Projects/pwh-api/database/seeds/ProductVendorTableSeeder.php" timestamp="1561385828377">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="83" />
       </file>
       <file name="$USER_HOME$/Projects/auth-ms/app/Providers/AppServiceProvider.php" timestamp="1560773108828" />
+      <file name="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" timestamp="1561453990670" />
+      <file name="$USER_HOME$/Projects/facade/vendor/illuminate/support/Arr.php" timestamp="1561452585199" />
       <file name="$USER_HOME$/Projects/bij.boehringer/api/File/Http/Requests/UploadProductFileRequest.php" timestamp="1561361461262" />
       <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Controllers/ProductTypeController.php" timestamp="1561387480213">
         <mark key="[" line="16" column="13" />
@@ -88,6 +89,18 @@
         <mark key="." line="17" column="90" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/serverless.yml" timestamp="1560516381051" />
+      <file name="$USER_HOME$/Projects/pwh-api/infrastructure/Traits/HasUuids.php" timestamp="1561454916696">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/facade/app/Services/Filemaker/Api/Session.php" timestamp="1561452754954">
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="37" column="11" />
+        <mark key="^" line="37" column="11" />
+        <mark key="." line="37" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Console/Commands/CacheProducts.php" timestamp="1559053602946">
         <mark key="[" line="51" column="35" />
         <mark key="]" line="51" column="32" />
@@ -107,11 +120,6 @@
         <mark key="^" line="49" column="37" />
         <mark key="." line="49" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Stores/Models/Store.php" timestamp="1561451700562">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="16" column="7" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Products/OverheadDoorOptions.php" timestamp="1561122069618">
         <mark key="[" line="31" column="4" />
         <mark key="]" line="28" column="17" />
@@ -124,11 +132,26 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-api/database/seeds/AuthorizerTableSeeder.php" timestamp="1561454282850">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="22" column="79" />
+      </file>
+      <file name="$USER_HOME$/Projects/facade/app/Services/Filemaker/Middleware/CreateSession.php" timestamp="1560433151759">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/Nicoud.php" timestamp="1559818966330">
         <mark key="[" line="89" column="45" />
         <mark key="]" line="91" column="39" />
         <mark key="^" line="91" column="39" />
         <mark key="." line="91" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/pwh-api/database/seeds/AccountSeeder.php" timestamp="1561454794857">
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="33" />
+        <mark key="." line="20" column="33" />
+        <mark key="^" line="20" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/config/hashids.php" timestamp="1561386725366">
         <mark key="[" line="46" column="39" />
@@ -172,6 +195,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-api/infrastructure/Traits/UsesUuid.php" timestamp="1561455246703">
+        <mark key="[" line="12" column="57" />
+        <mark key="]" line="12" column="57" />
+        <mark key="." line="12" column="57" />
+        <mark key="^" line="12" column="57" />
+      </file>
       <file name="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowInput.vue" timestamp="1560845233378">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="9" column="19" />
@@ -179,9 +208,9 @@
         <mark key="^" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/artisan" timestamp="1561449578249" />
-      <file name="$USER_HOME$/Projects/pwh-api/app/Http/Middleware/Authenticate.php" timestamp="1561383689762">
-        <mark key="[" line="14" column="43" />
-        <mark key="]" line="14" column="55" />
+      <file name="$USER_HOME$/Projects/pwh-api/app/Http/Middleware/Authenticate.php" timestamp="1561453897517">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="58" />
         <mark key="^" line="14" column="55" />
         <mark key="." line="14" column="55" />
       </file>
@@ -212,6 +241,11 @@
         <mark key="." line="10" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_05_08_300600_create_orders_table.php" timestamp="1561384404049" />
+      <file name="$USER_HOME$/Projects/finish-building/routes/web.php" timestamp="1560858261024">
+        <mark key="[" line="19" column="71" />
+        <mark key="]" line="19" column="71" />
+        <mark key="." line="19" column="71" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/database/seeds/ProductTypeTableSeeder.php" timestamp="1561385979056">
         <mark key="[" line="16" column="24" />
         <mark key="]" line="16" column="24" />
@@ -264,6 +298,22 @@
       <file name="$USER_HOME$/Projects/bij.boehringer/database/migrations/2019_06_07_091804_add_contract_fields_to_orders_table.php" timestamp="1560843423565">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="30" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/facade/.env.example" timestamp="1561378653717">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/pwh-api/app/Http/Kernel.php" timestamp="1561459017473">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="21" column="8" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page3.blade.php" timestamp="1561120888332">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/web.dockerfile" timestamp="1561447621957" />
       <file name="$USER_HOME$/Projects/materialen/database/migrations/2019_05_28_115545_add_sort_order_column_to_products-table.php" timestamp="1559047290161">
@@ -332,10 +382,8 @@
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Http/Controllers/OrderController.php" timestamp="1559826343032">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="71" column="44" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Products/Doors.php" timestamp="1561123447455">
+        <mark key="[" line="38" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/facade/bootstrap/app.php" timestamp="1560429993962">
         <mark key="[" line="99" column="28" />
@@ -343,10 +391,10 @@
         <mark key="." line="99" column="25" />
         <mark key="^" line="99" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/lungage-pwa/pages/lungage/what-does-this-mean.vue" timestamp="1560328219137">
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
+      <file name="$USER_HOME$/Projects/auth-ms/database/seeds/UserTableSeeder.php" timestamp="1560775003416">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/app/Enums/UserRole.php" timestamp="1561451172569">
         <mark key="[" line="10" column="10" />
@@ -361,17 +409,28 @@
         <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/webpack.config.js" timestamp="1560515785524" />
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Carts/Models/Cart.php" timestamp="1561459543132">
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="14" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/lungage-api/app/Http/Requests/DocumentRequest.php" timestamp="1559133027195">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="6" />
         <mark key="." line="6" column="6" />
         <mark key="^" line="26" column="68" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/database/seeds/DatabaseSeeder.php" timestamp="1561386571752">
-        <mark key="[" line="16" column="51" />
-        <mark key="]" line="16" column="49" />
-        <mark key="^" line="16" column="49" />
-        <mark key="." line="16" column="49" />
+      <file name="$USER_HOME$/Projects/pwh-api/database/seeds/DatabaseSeeder.php" timestamp="1561454401072">
+        <mark key="[" line="20" column="42" />
+        <mark key="]" line="20" column="40" />
+        <mark key="^" line="20" column="40" />
+        <mark key="." line="20" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Accounts/Http/Resources/Account.php" timestamp="1561454429970">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/lungage-api/config/pdf.php" timestamp="1560329023771">
         <mark key="[" line="3" column="70" />
@@ -379,22 +438,28 @@
         <mark key="^" line="3" column="79" />
         <mark key="." line="3" column="79" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Accounts/Models/Account.php" timestamp="1561459065158">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="29" />
+        <mark key="." line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/auth-ms/app/User.php" timestamp="1560779520170">
         <mark key="[" line="17" column="61" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="49" column="4" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/facade/.env" timestamp="1561379258668">
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/doc/public_html/policy.html" timestamp="1558975026591">
         <mark key="[" line="68" column="40" />
         <mark key="]" line="68" column="40" />
         <mark key="." line="68" column="40" />
         <mark key="^" line="65" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" timestamp="1560849742082">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" timestamp="1561451698711">
         <mark key="[" line="60" column="0" />
@@ -430,6 +495,11 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-api/app/Http/Middleware/ResolveAccount.php" timestamp="1561454228469">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/materialen/app/Observers/ImageObserver.php" timestamp="1560240430364">
         <mark key="[" line="11" column="42" />
         <mark key="]" line="11" column="41" />
@@ -450,14 +520,22 @@
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
       </file>
+      <file name="/PHP Console" timestamp="1560844173771">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/lungage-api/app/Http/Controllers/ResultsController.php" timestamp="1559034546049">
         <mark key="[" line="18" column="95" />
         <mark key="]" line="18" column="92" />
         <mark key="." line="18" column="92" />
         <mark key="^" line="18" column="92" />
       </file>
+      <file name="$USER_HOME$/Projects/auth-ms/database/migrations/2019_05_28_114508_create_stores_table.php" timestamp="1560773879036">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="35" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/app.dockerfile" timestamp="1561388214609" />
-      <file name="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/StoreController.php" timestamp="1561379418197">
+      <file name="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/StoreController.php" timestamp="1561453953773">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -475,11 +553,20 @@
         <mark key="^" line="26" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/nustar-meldpunt/api/Report/Http/Controllers/ReportController.php" timestamp="1561364287238" />
+      <file name="/Dummy.txt" timestamp="1561454885061">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_05_08_000000_create_stored_events_table.php" timestamp="1561386341018">
         <mark key="[" line="24" column="45" />
         <mark key="]" line="24" column="45" />
         <mark key="^" line="24" column="45" />
         <mark key="." line="24" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Carts/Http/Controllers/CartController.php" timestamp="1561459362564">
+        <mark key="[" line="26" column="5" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="26" column="4" />
+        <mark key="^" line="26" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/app/Http/Resources/Product.php" timestamp="1559053529616">
         <mark key="[" line="30" column="24" />
@@ -512,6 +599,9 @@
         <mark key="^" line="25" column="31" />
         <mark key="." line="25" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_05_08_300100_create_accounts_table.php" timestamp="1561458947290">
+        <mark key="[" line="28" column="39" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Models/ProductVendor.php" timestamp="1561449783084">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="10" column="3" />
@@ -519,6 +609,11 @@
         <mark key="." line="10" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/vendor/bugsnag/bugsnag/src/Client.php" timestamp="1560840649563" />
+      <file name="$USER_HOME$/Projects/auth-ms/database/seeds/DatabaseSeeder.php" timestamp="1560773934010">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/bij.boehringer/app/Order.php" timestamp="1560844075638">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
@@ -548,11 +643,6 @@
         <mark key="]" line="11" column="3" />
         <mark key="^" line="11" column="3" />
         <mark key="." line="11" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/bij.boehringer/app/Http/Controllers/HomeController.php" timestamp="1560844771456">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -659,43 +749,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGhlIGFjY2Vzc29ycyB0byBhcHBlbmQgdG8gdGhlIG1vZGVsJ3MgYXJyYXkgZm9ybS4KICAgICAqCiAgICAgKiBAdmFyIGFycmF5CiAgICAgKi8K</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZmlsbGFibGUgPSBbCiAgICAgICAgCiAgICBdCg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>OptionThree</text>
+        <text>ResolveAccountAlias</text>
       </register>
       <register name="/" type="4">
         <text>Kleur</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGhlIGFjY2Vzc29ycyB0byBhcHBlbmQgdG8gdGhlIG1vZGVsJ3MgYXJyYXkgZm9ybS4KICAgICAqCiAgICAgKiBAdmFyIGFycmF5CiAgICAgKi8K</text>
+        <text encoding="base64">bmFtZXNwYWNlIEluZnJhc3RydWN0dXJlXFRyYWl0czsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZFNtYWxsSW50ZWdlcigncm9sZScpLT5kZWZhdWx0KFUpOwo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZmlsbGFibGUgPSBbCiAgICAgICAgCiAgICBdCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGhlIGF0dHJpYnV0ZXMgdGhhdCBzaG91bGQgYmUgY2FzdCB0byBuYXRpdmUgdHlwZXMuCiAgICAgKgogICAgICogQHZhciBhcnJheQogICAgICovCiAgICBwcm90ZWN0ZWQgJGNhc3RzID0gWwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFZlbmRvcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3R5cGUnKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZW1wdHkoJGNhcnQpKSB7CiAgICAgICAgICAgICRjYXJ0ID0gQ2FydDo6Y3JlYXRlKCkKICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd0eXBlJyA9PiAneHl6JywK</text>
+      <register name="5" type="4">
+        <text>[
+                'account_id'
+            ]</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd0eXBlJyA9PiAneHl6JywK</text>
+        <text encoding="base64">dXNlICBhcyBSZXNvbHZlQWNjb3VudEFsaWFzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd0eXBlJyA9PiAneHl6JywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZ2VlbiBjYXJ0LCBnZWVmIGVycm9yCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -718,7 +810,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcm9kdWN0XycK</text>
+        <text encoding="base64">ICAgICAgICBkZCggJHJlcXVlc3QtPnVzZXIoKSwgJHJlcXVlc3QtPmFjY291bnQoKSApOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0tsZXVyL0tMRVVS</text>
