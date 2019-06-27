@@ -158,11 +158,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Webhooks/HookHandler.php" timestamp="1561634142001">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="16" column="20" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Webhooks/HookHandler.php" timestamp="1561635320596">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="12" />
+        <mark key="^" line="18" column="37" />
+        <mark key="." line="22" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page2.blade.php" timestamp="1560858666919">
         <mark key="'" line="49" column="50" />
@@ -1033,14 +1033,14 @@
       <jump line="48" column="43" filename="$USER_HOME$/Projects/pwh-api/config/webhook-client.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXExvZzsK</text>
+      <register name="&quot;" type="4">
+        <text>self::</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPndlYmhvb2tDYWxsLT5jb250ZW50cy0+cmVzb3VyY2U=</text>
+        <text>self::</text>
       </register>
       <register name="/" type="4">
         <text>sy</text>
