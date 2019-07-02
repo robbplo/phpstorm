@@ -697,6 +697,12 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-api/app/Providers/AppServiceProvider.php" timestamp="1562078793336">
+        <mark key="'" line="25" column="4" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/facade/app/Services/Filemaker/SchemaRepository.php" timestamp="1562072905045">
         <mark key="'" line="24" column="43" />
         <mark key="[" line="17" column="72" />
@@ -991,6 +997,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2014_10_01_000000_create_stored_events_table.php" timestamp="1562078733307" />
       <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_05_08_300100_create_accounts_table.php" timestamp="1562067689830">
         <mark key="[" line="16" column="39" />
         <mark key="]" line="16" column="39" />
@@ -1071,7 +1078,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="11" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
       <jump line="34" column="25" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
       <jump line="38" column="8" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
       <jump line="42" column="5" filename="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" />
@@ -1171,10 +1177,11 @@
       <jump line="144" column="9" filename="$USER_HOME$/Projects/facade/Envoy.blade.php" />
       <jump line="4" column="31" filename="$USER_HOME$/Projects/facade/Envoy.blade.php" />
       <jump line="28" column="21" filename="$USER_HOME$/Projects/pwh-api/database/migrations/2019_05_08_200200_create_products_table.php" />
+      <jump line="26" column="4" filename="$USER_HOME$/Projects/pwh-api/app/Providers/AppServiceProvider.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">SGFzQXBpVG9rZW5zLCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIFZpbmtsYVxIYXNoaWRzXEZhY2FkZXNcSGFzaGlkczsK</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
@@ -1189,28 +1196,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC0+bnVsbGFibGUoKS0+ZGVmYXVsdChudWxsKTsKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcUGFzc3BvcnRcSGFzQXBpVG9rZW5zOwo=</text>
+        <text encoding="base64">dXNlIFZpbmtsYVxIYXNoaWRzXEZhY2FkZXNcSGFzaGlkczsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgZnVuY3Rpb24gYm9vdCgpCiAgICB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+bnVsbGFibGUoKS0+ZGVmYXVsdChudWxsKTsK</text>
+        <text encoding="base64">ICAgIH0KICAgICAgICAvLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29udHJhY3RzXEF1dGhcTXVzdFZlcmlmeUVtYWlsOwo=</text>
+        <text encoding="base64">dXNlIExhcmF2ZWxcUGFzc3BvcnRcSGFzQXBpVG9rZW5zOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIEluZnJhc3RydWN0dXJlXFRyYWl0c1xIYXNoaWRhYmxlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+bnVsbGFibGUoKS0+ZGVmYXVsdChudWxsKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29udHJhY3RzXEF1dGhcTXVzdFZlcmlmeUVtYWlsOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1230,10 +1237,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQp1c2UgUmFtc2V5XFV1aWRcVXVpZDsKPj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">dXNlIEluZnJhc3RydWN0dXJlXFRyYWl0c1xIYXNoaWRhYmxlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2FwaS9mYWNhZGU=</text>
