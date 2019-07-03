@@ -255,11 +255,12 @@
         <mark key="." line="116" column="7" />
         <mark key="^" line="116" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Resources/Product.php" timestamp="1562144842907">
-        <mark key="[" line="22" column="63" />
-        <mark key="]" line="22" column="60" />
-        <mark key="." line="22" column="60" />
-        <mark key="^" line="22" column="60" />
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Resources/Product.php" timestamp="1562156622016">
+        <mark key="'" line="20" column="12" />
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="24" column="29" />
+        <mark key="." line="24" column="29" />
+        <mark key="^" line="24" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Sections/Roof.php" timestamp="1558950479565">
         <mark key="[" line="36" column="5" />
@@ -297,11 +298,11 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Controllers/ProductController.php" timestamp="1562144873754">
-        <mark key="[" line="29" column="14" />
-        <mark key="]" line="29" column="14" />
-        <mark key="^" line="17" column="58" />
-        <mark key="." line="29" column="14" />
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Controllers/ProductController.php" timestamp="1562156267493">
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="21" column="32" />
+        <mark key="^" line="21" column="32" />
+        <mark key="." line="21" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/app/Jobs/HookHandler.php" timestamp="1561633395372">
         <mark key="[" line="17" column="51" />
@@ -673,11 +674,12 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_06_27_200200_create_products_table.php" timestamp="1562153459715">
-        <mark key="[" line="24" column="12" />
-        <mark key="]" line="24" column="11" />
-        <mark key="." line="24" column="11" />
-        <mark key="^" line="24" column="11" />
+      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_06_27_200200_create_products_table.php" timestamp="1562154965382">
+        <mark key="'" line="23" column="12" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="56" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="11" />
       </file>
       <file name="$USER_HOME$/Downloads/doc/public_html/policy.html" timestamp="1558975026591">
         <mark key="[" line="68" column="40" />
@@ -751,11 +753,11 @@
         <mark key="^" line="11" column="41" />
         <mark key="." line="11" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Models/Product.php" timestamp="1562068101865">
-        <mark key="[" line="14" column="48" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Models/Product.php" timestamp="1562156860193">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/facade/app/Http/Controllers/GatewayController.php" timestamp="1562146400552" />
       <file name="$USER_HOME$/Projects/facade/app/Services/Filemaker/Schema/user.json" timestamp="1562054965862">
@@ -907,8 +909,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="14" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
       <jump line="212" column="0" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowCode.vue" />
       <jump line="37" column="0" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductList.vue" />
       <jump line="59" column="16" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductList.vue" />
@@ -1007,46 +1007,48 @@
       <jump line="384" column="51" filename="$USER_HOME$/Projects/facade/storage/logs/laravel-2019-07-03.log" />
       <jump line="515" column="0" filename="$USER_HOME$/Projects/facade/storage/logs/laravel-2019-07-03.log" />
       <jump line="5" column="46" filename="$USER_HOME$/Projects/facade/config/webhook-server.php" />
+      <jump line="23" column="12" filename="$USER_HOME$/Projects/pwh-api/database/migrations/2019_06_27_200200_create_products_table.php" />
+      <jump line="19" column="12" filename="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Resources/Product.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ3Byb2R1Y3RfdHlwZV9pZCcpCiAgICAgICAgICAgICAgICAtPm51bGxhYmxlKCktPmRlZmF1bHQobnVsbCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>database</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>boot</text>
+        <text>title</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+bnVsbGFibGUoKS0+ZGVmYXVsdChudWxsKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZpbHRlcjo6ZXhhY3QoJ2lkJyktPmlnbm9yZShudWxsKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ3Byb2R1Y3RfdHlwZV9pZCcpCiAgICAgICAgICAgICAgICAtPm51bGxhYmxlKCktPmRlZmF1bHQobnVsbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjb2xsZWN0aW9uKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmJlbG9uZ3NUbyhQcm9kdWN0Q29sbGVjdGlvbjo6Y2xhc3MsICdwcm9kdWN0X2NvbGxlY3Rpb25faWQnLCAnaWQnKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZpbHRlcjo6ZXhhY3QoJ2hlaWdodCcpLT5pZ25vcmUobnVsbCksCiAgICAgICAgICAgICAgICBGaWx0ZXI6OmV4YWN0KCd3aWR0aCcpLT5pZ25vcmUobnVsbCksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ3Byb2R1Y3RfY29sbGVjdGlvbl9pZCcpCiAgICAgICAgICAgICAgICAtPm51bGxhYmxlKCktPmRlZmF1bHQobnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Um91dGU6d2ViaG9va3MoJy8nKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NvbGxlY3Rpb25zJyA9PiAkdGhpcy0+d2hlbkxvYWRlZCgnY29sbGVjdGlvbicsIFskdGhpcy0+Y29sbGVjdGlvblsnaWQnXV0pLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY3JlZGVudGlhbHMpOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXERCOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1066,28 +1068,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ3Byb2R1Y3RfY29sbGVjdGlvbl9pZCcpCiAgICAgICAgICAgICAgICAtPm51bGxhYmxlKCktPmRlZmF1bHQobnVsbCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWlzX251bGwoJHRoaXMtPmF0dHJpYnV0ZXNbJ2NuYW1lJ10pKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ29ubGluZV9zdG9yZV9pZCcpCiAgICAgICAgICAgICAgICAtPm51bGxhYmxlKCktPmRlZmF1bHQobnVsbCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2FwaS9mYWNhZGU=</text>
+        <text>s/title/name/g</text>
       </register>
     </registers>
     <search>
-      <last-search>boot</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern>boot</last-pattern>
-      <last-replace>facade</last-replace>
-      <last-substitute>api</last-substitute>
+      <last-pattern>title</last-pattern>
+      <last-replace>name</last-replace>
+      <last-substitute>title</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Kleur</entry>
-        <entry>item</entry>
         <entry>inde</entry>
         <entry>count</entry>
         <entry>am</entry>
@@ -1106,10 +1106,10 @@
         <entry>api</entry>
         <entry>col</entry>
         <entry>boot</entry>
+        <entry>type</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
-        <entry>s/s:::::</entry>
-        <entry>s/s/:</entry>
         <entry encoding="base64">JzwsJz5zL251eHQtbGluay9h</entry>
         <entry>s/&quot;/'/g</entry>
         <entry>s/assign/flatten/g</entry>
@@ -1128,6 +1128,8 @@
         <entry encoding="base64">JzwsJz5zL2luZGV4L3N5bmM=</entry>
         <entry>s/vendor/type/g</entry>
         <entry encoding="base64">JzwsJz5zL2FwaS9mYWNhZGU=</entry>
+        <entry encoding="base64">JzwsJz5zL3R5cGUvdmVuZG9yL2c=</entry>
+        <entry>s/title/name/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
