@@ -6,12 +6,7 @@
       <file name="$USER_HOME$/Downloads/product_v4.json" timestamp="1562162630326">
         <mark key="'" line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Stores/Http/Controllers/StoreController.php" timestamp="1562143987847">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1562076590833">
+      <file name="/a.dummy" timestamp="1562228268926">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/bij.boehringer/database/migrations/2019_06_18_072544_extend_contract_fields.php" timestamp="1560846701665">
@@ -418,7 +413,7 @@
         <mark key="." line="13" column="47" />
         <mark key="^" line="13" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562140776484">
+      <file name="/Dummy.txt" timestamp="1562228266123">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Models/ProductVendor.php" timestamp="1562068045285">
@@ -521,11 +516,6 @@
         <mark key="." line="7" column="38" />
         <mark key="^" line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/routes/webhooks.php" timestamp="1562144114636">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Webhooks/HookHandler.php" timestamp="1562054262018">
         <mark key="'" line="24" column="30" />
         <mark key="[" line="28" column="48" />
@@ -563,11 +553,6 @@
         <mark key="]" line="28" column="17" />
         <mark key="." line="28" column="17" />
         <mark key="^" line="28" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Authorizers/Http/Controllers/BasicAuthorizerController.php" timestamp="1562143645700">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/materialen-pwa/pages/product/_slug.vue" timestamp="1559069209420">
         <mark key="[" line="150" column="0" />
@@ -836,12 +821,12 @@
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" timestamp="1562165774787">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="47" />
-        <mark key="]" line="22" column="11" />
-        <mark key="^" line="22" column="11" />
-        <mark key="." line="22" column="11" />
+      <file name="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" timestamp="1562228969046">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="24" column="30" />
+        <mark key="." line="24" column="30" />
+        <mark key="^" line="24" column="30" />
       </file>
       <file name="$USER_HOME$/Library/Application Support/iTerm2/Scripts/darkmode-switcher.py" timestamp="1561983527505">
         <mark key="[" line="12" column="79" />
@@ -946,8 +931,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="40" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
-      <jump line="241" column="23" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
       <jump line="242" column="51" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
       <jump line="249" column="23" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
       <jump line="253" column="65" filename="$USER_HOME$/Projects/bij.boehringer/resources/assets/js/components/ProductShowManual.vue" />
@@ -1046,46 +1029,50 @@
       <jump line="18" column="24" filename="$USER_HOME$/Projects/facade/.env" />
       <jump line="8" column="40" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" />
+      <jump line="81" column="27" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC0+IGFjY2Vzc29yeXNldA==</text>
+        <text>valid</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0+IGFjY2Vzc29yeXNldA==</text>
+        <text>valid</text>
       </register>
       <register name="/" type="4">
-        <text>sync</text>
+        <text>valid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHVpZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5mbGF0dGVuKDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlYWNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gLT5mbGF0dGVuKDEpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwcm9kdWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICA7CgogICAgICAgIGRkKCR4KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvZHVjdHNbMTIwMF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT50YWtlKDE5KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkcmVzcG9uc2UgPSAkdGhpcy0+c2VydmljZS0+Z2V0KCdsYXlvdXRzL2N1c3RvbWVyL3JlY29yZHMnKTsKICAgICAgICAvLwogICAgICAgIC8vIHJldHVybiAkdGhpcy0+aG9vaygnY3VzdG9tZXJzLnN5bmMnLCAkcmVzcG9uc2VbJ2RhdGEnXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5wbHVjawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZChjb3VudCgkcHJvZHVjdHMpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5tYXAtPnBsdWNrKCdpdGVtcycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzaG93KFJlcXVlc3QgJHJlcXVlc3QsIGludCAkY3VzdG9tZXJJZCkKICAgIHsKICAgICAgICAkcmVzcG9uc2UgPSAkdGhpcy0+c2VydmljZS0+Z2V0KCJsYXlvdXRzL2N1c3RvbWVyL3JlY29yZHMvJGN1c3RvbWVySWQiKTsKCiAgICAgICAgcmV0dXJuICR0aGlzLT5ob29rKCdjdXN0b21lcnMuc3luYy4nLCAkcmVzcG9uc2VbJ2RhdGEnXSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbmFtZScK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>[
+            ''
+        ]</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1105,27 +1092,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29sbGVjdCgkc2V0KS0+bWFwKGZ1bmN0aW9uICgpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text />
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>s/accessory/attribute/g</text>
       </register>
     </registers>
     <search>
-      <last-search>sync</last-search>
+      <last-search>valid</last-search>
       <last-offset />
-      <last-pattern>sync</last-pattern>
+      <last-pattern>valid</last-pattern>
       <last-replace>attribute</last-replace>
       <last-substitute>accessory</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>to</entry>
         <entry>mapp</entry>
         <entry>sy</entry>
         <entry>name</entry>
@@ -1145,6 +1131,7 @@
         <entry>Customer</entry>
         <entry>accessory</entry>
         <entry>sync</entry>
+        <entry>valid</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N1YnNjcmliZXIvc3ViL2c=</entry>
