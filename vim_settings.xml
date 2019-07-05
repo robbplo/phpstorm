@@ -87,6 +87,13 @@
         <mark key="." line="24" column="29" />
         <mark key="^" line="24" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/BuildingDimensions.php" timestamp="1562317691378">
+        <mark key="'" line="140" column="0" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="^" line="141" column="44" />
+        <mark key="." line="140" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/vesca/resources/views/pdf/pages/object_credentials.blade.php" timestamp="1562243159891">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="74" column="14" />
@@ -98,10 +105,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/domain/Sections/Roof.php" timestamp="1562316889194">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Projects/finish-building/domain/Sections/Roof.php" timestamp="1562317695064">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Controllers/ProductController.php" timestamp="1562161247618">
         <mark key="[" line="12" column="6" />
@@ -186,8 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="41" filename="$USER_HOME$/Projects/pwh-api/domain/Carts/Models/Cart.php" />
-      <jump line="4" column="13" filename="$USER_HOME$/Projects/pwh-api/domain/Carts/Models/Cart.php" />
       <jump line="43" column="0" filename="$USER_HOME$/Projects/pwh-api/domain/Carts/Models/Cart.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-06-25.log" />
       <jump line="1419" column="0" filename="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-06-25.log" />
@@ -286,16 +292,18 @@
       <jump line="202" column="0" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
       <jump line="49" column="31" filename="$USER_HOME$/Projects/vesca/app/Http/Controllers/PdfController.php" />
       <jump line="37" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/routes/api.php" />
+      <jump line="140" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/BuildingDimensions.php" />
+      <jump line="26" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Sections/Roof.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnREaXJlY3RvcnlFeGlzdHMoKQo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXExvZzsK</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>Wall</text>
+        <text>getGutterHeight</text>
       </register>
       <register name="/" type="4">
         <text>W</text>
@@ -304,25 +312,25 @@
         <text encoding="base64">ICAgICAgICAnd2FsbCcgPT4gJHBsYXRpbmdPcHRpb25zLT5nZXRXYWxsUGxhdGluZ0lkKCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnREaXJlY3RvcnlFeGlzdHMoKQo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXExvZzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnREaXJlY3RvcnlFeGlzdHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgdGhyb3cgbmV3IFxodHRwXEV4Y2VwdGlvblxJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24oJ21hbmQnKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBMb2c6OmluZm8oJHBhbmVsTGVuZ3RoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnREaXJlY3RvcnlFeGlzdHMoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRwbGF0aW5nT3B0aW9ucyA9IG5ldyBQbGF0aW5nT3B0aW9ucygkYnVpbGRpbmcpOwogICAgLy8gZGQoWwogICAgLy8gICAgICd3YWxsJyA9PiAkcGxhdGluZ09wdGlvbnMtPmdldFdhbGxQbGF0aW5nSWQoKSwKICAgIC8vICAgICAncm9vZicgPT4gJHBsYXRpbmdPcHRpb25zLT5nZXRSb29mUGxhdGluZ0lkKCksCiAgICAvLyBdKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnREaXJlY3RvcnlFeGlzdHMoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIERvbWFpblxCdWlsZGluZ3NcQnVpbGRpbmc7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgdGhyb3cgbmV3IFxodHRwXEV4Y2VwdGlvblxJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24oJ21hbmQnKTsKCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -345,10 +353,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICR3YWxsVmFsaWQgPSBQbGF0aW5nT3B0aW9uczoKICAgIGlmICgkZGF0YVsnJ10pCg==</text>
+        <text encoding="base64">ICAgICRwbGF0aW5nT3B0aW9ucyA9IG5ldyBQbGF0aW5nT3B0aW9ucygkYnVpbGRpbmcpOwogICAgLy8gZGQoWwogICAgLy8gICAgICd3YWxsJyA9PiAkcGxhdGluZ09wdGlvbnMtPmdldFdhbGxQbGF0aW5nSWQoKSwKICAgIC8vICAgICAncm9vZicgPT4gJHBsYXRpbmdPcHRpb25zLT5nZXRSb29mUGxhdGluZ0lkKCksCiAgICAvLyBdKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGlmICgkZGF0YSkgewoKICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">dXNlIERvbWFpblxCdWlsZGluZ3NcQnVpbGRpbmc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/accessory/attribute/g</text>
