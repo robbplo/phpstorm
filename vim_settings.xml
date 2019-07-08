@@ -99,12 +99,11 @@
         <mark key="]" line="74" column="14" />
         <mark key="." line="44" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" timestamp="1562570415045">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="44" column="53" />
+      <file name="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" timestamp="1562574341866">
+        <mark key="'" line="26" column="80" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/domain/Sections/Roof.php" timestamp="1562317695064">
         <mark key="'" line="25" column="0" />
@@ -202,9 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/Projects/pwh-api/domain/Carts/Models/Cart.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-06-25.log" />
-      <jump line="1419" column="0" filename="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-06-25.log" />
       <jump line="58" column="19" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
       <jump line="28" column="4" filename="$USER_HOME$/Projects/pwh-api/domain/Carts/Http/Controllers/CartController.php" />
       <jump line="31" column="34" filename="$USER_HOME$/Projects/pwh-api/domain/Carts/Http/Controllers/CartController.php" />
@@ -288,7 +284,6 @@
       <jump line="49" column="54" filename="$USER_HOME$/Projects/facade/.env" />
       <jump line="18" column="24" filename="$USER_HOME$/Projects/facade/.env" />
       <jump line="8" column="40" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" />
       <jump line="81" column="27" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" />
       <jump line="115" column="12" filename="$USER_HOME$/Projects/vesca/routes/web.php" />
@@ -302,46 +297,50 @@
       <jump line="26" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Sections/Roof.php" />
       <jump line="19" column="183146" filename="$USER_HOME$/Projects/pwh-api/database/seeds/ProductTableSeeder.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/database/seeds/ProductTableSeeder.php" />
+      <jump line="86" column="45" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" />
+      <jump line="30" column="13" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" />
+      <jump line="26" column="80" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>getGutterHeight</text>
+        <text>$string</text>
       </register>
       <register name="/" type="4">
-        <text>W</text>
+        <text>up</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnd2FsbCcgPT4gJHBsYXRpbmdPcHRpb25zLT5nZXRXYWxsUGxhdGluZ0lkKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZ3JvdXAnID0+ICRpdGVtWydncm91cCddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXExvZzsK</text>
+        <text encoding="base64">ICAgICAgICAvLyA/YWNjZXNzb3J5c2V0CgogICAgICAgIC8vIFsxMjZdIGhhcyBib3RoIGFjY2Vzc29yeXNldCBhbmQgYXR0cmlidXRlc2V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb2c6OmluZm8oJHBhbmVsTGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyAkeCA9ICRwcm9kdWN0cwogICAgICAgIC8vICAgICAtPnBsdWNrKCdhY2Nlc3NvcnlzZXQnKQogICAgICAgIC8vICAgICAtPmZpbHRlcigpCiAgICAgICAgLy8gICAgIC0+ZmxhdHRlbigxKQogICAgICAgIC8vICAgICAtPmZpbHRlcihmdW5jdGlvbiAoJHgpIHsKICAgICAgICAvLyAgICAgICAgIHJldHVybiBlbXB0eSgkeFsnaXRlbXMnXSk7CiAgICAgICAgLy8gICAgIH0pCiAgICAgICAgLy8gICAgIC0+ZGQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnREaXJlY3RvcnlFeGlzdHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnREaXJlY3RvcnlFeGlzdHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgdGhyb3cgbmV3IFxodHRwXEV4Y2VwdGlvblxJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24oJ21hbmQnKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -361,27 +360,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXExvZzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRwbGF0aW5nT3B0aW9ucyA9IG5ldyBQbGF0aW5nT3B0aW9ucygkYnVpbGRpbmcpOwogICAgLy8gZGQoWwogICAgLy8gICAgICd3YWxsJyA9PiAkcGxhdGluZ09wdGlvbnMtPmdldFdhbGxQbGF0aW5nSWQoKSwKICAgIC8vICAgICAncm9vZicgPT4gJHBsYXRpbmdPcHRpb25zLT5nZXRSb29mUGxhdGluZ0lkKCksCiAgICAvLyBdKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>s/accessory/attribute/g</text>
+        <text>s/up/upId/g</text>
       </register>
     </registers>
     <search>
-      <last-search>W</last-search>
+      <last-search>up</last-search>
       <last-offset />
-      <last-pattern>W</last-pattern>
-      <last-replace>attribute</last-replace>
-      <last-substitute>accessory</last-substitute>
+      <last-pattern>up</last-pattern>
+      <last-replace>upId</last-replace>
+      <last-substitute>up</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sy</entry>
         <entry>name</entry>
         <entry>'</entry>
         <entry>in</entry>
@@ -401,9 +399,9 @@
         <entry>sync</entry>
         <entry>valid</entry>
         <entry>W</entry>
+        <entry>up</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3N1YnNjcmliZXIvc3ViL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3N0b3JlL3JvbGUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2JpZ19udW1iZXIvcGhvbmVfbnVtYmVyL2c=</entry>
         <entry>s/phone_number/contact_person/g</entry>
@@ -423,6 +421,7 @@
         <entry encoding="base64">JzwsJz5zL2N1c3RvbWVyL3Byb2R1Y3QvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0N1c3RvbWVyL1Byb2R1Y3QvZw==</entry>
         <entry>s/accessory/attribute/g</entry>
+        <entry>s/up/upId/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
