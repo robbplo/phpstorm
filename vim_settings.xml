@@ -42,12 +42,12 @@
         <mark key="." line="49" column="45" />
         <mark key="^" line="49" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/database/seeds/ProductTableSeeder.php" timestamp="1562569437372">
+      <file name="$USER_HOME$/Projects/pwh-api/database/seeds/ProductTableSeeder.php" timestamp="1562585677413">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="62" />
-        <mark key="]" line="21" column="61" />
-        <mark key="^" line="21" column="61" />
-        <mark key="." line="21" column="61" />
+        <mark key="[" line="19" column="214982" />
+        <mark key="]" line="19" column="214981" />
+        <mark key="^" line="19" column="214981" />
+        <mark key="." line="19" column="214981" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/routes/web.php" timestamp="1562242078406">
         <mark key="'" line="134" column="12" />
@@ -99,7 +99,7 @@
         <mark key="]" line="210" column="36" />
         <mark key="." line="62" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/facade/.env" timestamp="1562164193839">
+      <file name="$USER_HOME$/Projects/facade/.env" timestamp="1562585491835">
         <mark key="'" line="18" column="24" />
         <mark key="[" line="18" column="17" />
         <mark key="]" line="18" column="24" />
@@ -169,12 +169,12 @@
         <mark key="]" line="74" column="14" />
         <mark key="." line="44" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" timestamp="1562584111889">
+      <file name="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" timestamp="1562585571750">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="34" column="77" />
-        <mark key="]" line="34" column="77" />
-        <mark key="." line="34" column="77" />
-        <mark key="^" line="15" column="34" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/product_v4.json" timestamp="1562577406176" />
       <file name="$USER_HOME$/Projects/finish-building/domain/Sections/Roof.php" timestamp="1562317695064">
@@ -248,7 +248,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/.env" />
       <jump line="48" column="24" filename="$USER_HOME$/Projects/facade/.env.example" />
       <jump line="40" column="0" filename="$USER_HOME$/Projects/pwh-api/database/seeds/ProductTableSeeder.php" />
-      <jump line="52" column="0" filename="$USER_HOME$/Projects/pwh-api/database/seeds/ProductTableSeeder.php" />
       <jump line="10" column="29" filename="$USER_HOME$/Downloads/product_v4.json" />
       <jump line="24" column="4" filename="$USER_HOME$/Projects/facade/routes/web.php" />
       <jump line="22" column="25" filename="$USER_HOME$/Projects/facade/routes/web.php" />
@@ -269,8 +268,6 @@
       <jump line="37" column="12" filename="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/routes/api.php" />
       <jump line="140" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/BuildingDimensions.php" />
       <jump line="26" column="0" filename="$USER_HOME$/Projects/finish-building/domain/Sections/Roof.php" />
-      <jump line="19" column="183146" filename="$USER_HOME$/Projects/pwh-api/database/seeds/ProductTableSeeder.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/database/seeds/ProductTableSeeder.php" />
       <jump line="86" column="45" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" />
       <jump line="30" column="13" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" />
@@ -305,16 +302,19 @@
       <jump line="85" column="2" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" />
       <jump line="82" column="0" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" />
+      <jump line="19" column="8303" filename="$USER_HOME$/Projects/pwh-api/database/seeds/ProductTableSeeder.php" />
+      <jump line="52" column="0" filename="$USER_HOME$/Projects/pwh-api/database/seeds/ProductTableSeeder.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/database/seeds/ProductTableSeeder.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID8/IFtd</text>
+        <text />
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID8/IFtd</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>sa</text>
@@ -322,29 +322,29 @@
       <register name="0" type="4">
         <text>string $resource, Collection $data</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgICAgICdmaWQnID0+ICRwcm9kdWN0Wyd1aWQnXSwKICAgICAgICAgICAgICAgICduYW1lJyA9PiAkcHJvZHVjdFsnZGVzY3JpcHRpb24nXSwKICAgICAgICAgICAgICAgICd0eXBlJyA9PiAkcHJvZHVjdFsndHlwZSddLAogICAgICAgICAgICAgICAgJ2VvbCcgPT4gKGJvb2wpICRwcm9kdWN0Wydlb2wnXSwKICAgICAgICAgICAgICAgICdvZW0nID0+ICRwcm9kdWN0WydvZW1udW1iZXInXSwKICAgICAgICAgICAgICAgICd2ZW5kb3InID0+IFsKICAgICAgICAgICAgICAgICAgICAnZmlkJyA9PiAkcHJvZHVjdFsndmVuZG9yJ11bJ2JyYW5kSWQnXSwKICAgICAgICAgICAgICAgICAgICAnbmFtZScgPT4gJHByb2R1Y3RbJ3ZlbmRvciddWydicmFuZCddLAogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICdhY2Nlc3Nvcmllc2V0JyA9PiAkdGhpcy0+bWFwQWNjZXNzb3J5U2V0KCRwcm9kdWN0WydhY2Nlc3NvcnlzZXQnXSA/PyBbXSksCiAgICAgICAgICAgICAgICAnYXR0cmlidXRlc2V0JyA9PiAkdGhpcy0+bWFwQXR0cmlidXRlU2V0KCRwcm9kdWN0WydhdHRyaWJ1dGVzZXQnXSA/PyBbXSksCiAgICAgICAgICAgIF07</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxKb2JzXE1hc3NQcm9kdWN0SW1wb3J0Owo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzaG93KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2NoZW1hID0gJ3Byb2R1Y3QnOwoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgICAgICdmaWQnID0+ICRwcm9kdWN0Wyd1aWQnXSwKICAgICAgICAgICAgICAgICduYW1lJyA9PiAkcHJvZHVjdFsnZGVzY3JpcHRpb24nXSwKICAgICAgICAgICAgICAgICd0eXBlJyA9PiAkcHJvZHVjdFsndHlwZSddLAogICAgICAgICAgICAgICAgJ2VvbCcgPT4gKGJvb2wpICRwcm9kdWN0Wydlb2wnXSwKICAgICAgICAgICAgICAgICdvZW0nID0+ICRwcm9kdWN0WydvZW1udW1iZXInXSwKICAgICAgICAgICAgICAgICd2ZW5kb3InID0+IFsKICAgICAgICAgICAgICAgICAgICAnZmlkJyA9PiAkcHJvZHVjdFsndmVuZG9yJ11bJ2JyYW5kSWQnXSwKICAgICAgICAgICAgICAgICAgICAnbmFtZScgPT4gJHByb2R1Y3RbJ3ZlbmRvciddWydicmFuZCddLAogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICdhY2Nlc3Nvcmllc2V0JyA9PiAkdGhpcy0+bWFwQWNjZXNzb3J5U2V0KCRwcm9kdWN0WydhY2Nlc3NvcnlzZXQnXSA/PyBbXSksCiAgICAgICAgICAgICAgICAnYXR0cmlidXRlc2V0JyA9PiAkdGhpcy0+bWFwQXR0cmlidXRlU2V0KCRwcm9kdWN0WydhdHRyaWJ1dGVzZXQnXSA/PyBbXSksCiAgICAgICAgICAgIF07</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBXZWJob29rQ2FsbDo6Y3JlYXRlKCkKICAgICAgICAgICAgICAgIC0+dXJsKGNvbmZpZygnZmFjYWRlLmdhdGV3YXkuZW5kcG9pbnQnKSkKICAgICAgICAgICAgICAgIC0+cGF5bG9hZChbCiAgICAgICAgICAgICAgICAgICAgJ3Jlc291cmNlJyA9PiAkcmVzb3VyY2UsCiAgICAgICAgICAgICAgICAgICAgJ2RhdGEnID0+ICRtYXBwZWREYXRhLAogICAgICAgICAgICAgICAgXSkKICAgICAgICAgICAgICAgIC0+d2l0aEhlYWRlcnMoWydjb250ZW50LXR5cGUnID0+ICdhcHBsaWNhdGlvbi9qc29uJ10pCiAgICAgICAgICAgICAgICAtPnVzZVNlY3JldChjb25maWcoJ2ZhY2FkZS5nYXRld2F5LnNlY3JldCcpKQogICAgICAgICAgICAgICAgLT5kaXNwYXRjaCgpOwoKICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlKCktPmpzb24obnVsbCwgMjAwKTsKICAgICAgICB9IGNhdGNoIChcRXhjZXB0aW9uICRleGNlcHRpb24pIHsKICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlKCktPmpzb24obnVsbCwgNDAwKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxKb2JzXE1hc3NQcm9kdWN0SW1wb3J0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIHNhbml0aXplU3RyaW5nKCRzdHJpbmcpCiAgICB7CiAgICAgICAgZGQocHJlZ19yZXBsYWNlKCcvXHMvJywgJycsICLCoG1hbmQiKSk7CiAgICAgICAgZGQodHJpbSgiIG1hbmQiKSk7CiAgICAgICAgZGQodHJpbSh1cmxkZWNvZGUoaHRtbF9lbnRpdHlfZGVjb2RlKCLCoExFRUciKSkpKTsKICAgICAgICAvLyBkZCh0cmltKGh0bWxfZW50aXR5X2RlY29kZSgkc3RyaW5nKSkpOwogICAgICAgIHJldHVybiBwcmVnX2ZpbHRlcignL1xzLycsICcnLCBodG1sX2VudGl0eV9kZWNvZGUoJHN0cmluZykpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2NoZW1hID0gJ3Byb2R1Y3QnOwoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -364,10 +364,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCh0cmltKCIgbWFuZCIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JHByb2R1Y3RzWycwJ11bJ3ZlbmRvciddOwoKICAgICAgICAvLyAkcHJvZHVjdHMtPmVhY2goZnVuY3Rpb24gKCRwcm9kdWN0KSB7CiAgICAgICAgLy8gICAgZGlzcGF0Y2gobmV3IE1hc3NQcm9kdWN0SW1wb3J0KCkpOwogICAgICAgIC8vIH0pOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
