@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Accessories/Models/Accessory.php" timestamp="1562752480053">
-        <mark key="[" line="12" column="52" />
-        <mark key="]" line="12" column="52" />
-        <mark key="^" line="12" column="52" />
-        <mark key="." line="12" column="52" />
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Accessories/Models/Accessory.php" timestamp="1562759375962">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="11" column="3" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="11" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Stores/Http/Controllers/StoreController.php" timestamp="1562143987847">
         <mark key="[" line="29" column="0" />
@@ -37,11 +37,11 @@
         <mark key="." line="45" column="56" />
         <mark key="^" line="45" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_091023_create_accessories_table.php" timestamp="1562751350072">
-        <mark key="[" line="33" column="39" />
-        <mark key="]" line="33" column="36" />
-        <mark key="^" line="33" column="36" />
-        <mark key="." line="33" column="36" />
+      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_091023_create_accessories_table.php" timestamp="1562759509741">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="32" column="36" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php" timestamp="1562675606668">
         <mark key="[" line="16" column="0" />
@@ -111,11 +111,11 @@
         <mark key="." line="17" column="17" />
         <mark key="^" line="17" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Accessories/Models/AccessorySet.php" timestamp="1562752506512">
-        <mark key="[" line="12" column="47" />
-        <mark key="]" line="12" column="47" />
-        <mark key="^" line="12" column="47" />
-        <mark key="." line="12" column="47" />
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Accessories/Models/AccessorySet.php" timestamp="1562759298089">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="14" column="1" />
+        <mark key="." line="14" column="1" />
+        <mark key="^" line="14" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/resources/views/report/_pages/cover.blade.php" timestamp="1562242232125">
         <mark key="[" line="4" column="0" />
@@ -171,6 +171,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Models/Product.php" timestamp="1562760240817">
+        <mark key="[" line="60" column="15" />
+        <mark key="]" line="60" column="15" />
+        <mark key="." line="60" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/facade/app/Providers/TelescopeServiceProvider.php" timestamp="1562663689210">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -209,12 +214,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Webhooks/Handlers/ProductSync.php" timestamp="1562753996066">
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Webhooks/Handlers/ProductSync.php" timestamp="1562759244881">
         <mark key="'" line="49" column="20" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="61" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="47" column="54" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Webhooks/WebhookProfile.php" timestamp="1562675551206">
         <mark key="[" line="15" column="34" />
@@ -228,11 +232,11 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_091013_create_accessory_sets_table.php" timestamp="1562750096917">
-        <mark key="[" line="20" column="40" />
-        <mark key="]" line="21" column="29" />
-        <mark key="." line="21" column="29" />
-        <mark key="^" line="21" column="29" />
+      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_091013_create_accessory_sets_table.php" timestamp="1562760418413">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="40" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="20" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -339,45 +343,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncG9zaXRpb24nID0+ICRhY2Nlc3NvcnlEYXRhWydwb3NpdGlvbiddLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdwb3NpdGlvbicpOwo=</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>fid</text>
+        <text encoding="base64">KGJvb2wpIA==</text>
       </register>
       <register name="/" type="4">
         <text>position</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncG9zaXRpb24nID0+ICRhY2Nlc3NvcnlEYXRhWydwb3NpdGlvbiddLAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAkdHJhbnNsYXRhYmxlID0gWwogICAgICAgICduYW1lJywK</text>
       </register>
-      <register name="1" type="4">
-        <text>Or(function () {
-                    return nu
-                })</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdwb3NpdGlvbicpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZGVmYXVsdCcgPT4gKGJvb2wpICRzZXRbJ2RlZmF1bHQnXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ2ZpZCcpLT51bmlxdWUoKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdkZWZhdWx0JyA9PiAoYm9vbCkgJHNldFsnZGVmYXVsdCddLAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyAkdHJhbnNsYXRhYmxlID0gWwogICAgICAgICduYW1lJyw=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJyA9PiAkc2V0WyduYW1lJ10sCg==</text>
+        <text encoding="base64">aGFzdWlkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdncm91cCcgPT4gJHNldFsnZ3JvdXAnXSwKICAgICAgICAgICAgICAgICdncm91cElkJyA9PiAkc2V0Wydncm91cElkJ10sCg==</text>
+        <text encoding="base64">ICAgIGhhc3VpZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdncm91cCcgPT4gJHNldFsnZ3JvdXAnXSwKICAgICAgICAgICAgICAgICdncm91cElkJyA9PiAkc2V0Wydncm91cElkJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoWwogICAgICAgICAgICAgICAgJ25hbWUnID0+ICRzZXREYXRhWyduYW1lJ10sCiAgICAgICAgICAgICAgICAncG9zaXRpb24nID0+ICRzZXREYXRhWydwb3NpdGlvbiddLAogICAgICAgICAgICBdKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZ3JvdXAnID0+ICRpdGVtWydncm91cCddLAogICAgICAgICAgICAgICAgICAgICdncm91cElkJyA9PiAkaXRlbVsnZ3JvdXBJZCddLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGFjY2Vzc29yeVNldCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -397,10 +399,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHNldERhdGFbJ3Bvc2l0aW9uJ10pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNldERhdGEgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>s/position/default/g</text>
