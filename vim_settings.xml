@@ -10,11 +10,24 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_130453_create_accessory_set_product_table.php" timestamp="1562837991550">
+        <mark key="'" line="26" column="12" />
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+        <mark key="^" line="26" column="81" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Accessories/Models/Accessory.php" timestamp="1562762353130">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="14" column="6" />
         <mark key="^" line="11" column="3" />
         <mark key="." line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_130459_create_attribute_set_product_table.php" timestamp="1562838003295">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="26" column="81" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Stores/Http/Controllers/StoreController.php" timestamp="1562143987847">
         <mark key="[" line="29" column="0" />
@@ -36,7 +49,7 @@
         <mark key="]" line="24" column="46" />
         <mark key="." line="24" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1562765885321">
+      <file name="/a.dummy" timestamp="1562837910193">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Webhooks/EloquentHookHandler.php" timestamp="1562681884443">
@@ -89,14 +102,11 @@
         <mark key="]" line="74" column="14" />
         <mark key="." line="44" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" timestamp="1562768688750">
-        <mark key="[" line="72" column="57" />
-        <mark key="]" line="72" column="56" />
-        <mark key="^" line="72" column="56" />
-        <mark key="." line="72" column="56" />
-      </file>
-      <file name="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/product_v4.json" timestamp="1562752700536">
-        <mark key="'" line="156218" column="13" />
+      <file name="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" timestamp="1562838187859">
+        <mark key="[" line="45" column="41" />
+        <mark key="]" line="45" column="38" />
+        <mark key="^" line="45" column="38" />
+        <mark key="." line="45" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Attributes/Models/Attribute.php" timestamp="1562762980606">
         <mark key="[" line="21" column="52" />
@@ -108,18 +118,17 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_091023_create_accessories_table.php" timestamp="1562767009430">
-        <mark key="[" line="28" column="51" />
-        <mark key="]" line="28" column="49" />
-        <mark key="^" line="28" column="49" />
-        <mark key="." line="28" column="49" />
+      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_091023_create_accessories_table.php" timestamp="1562838289348">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="56" />
+        <mark key="^" line="29" column="49" />
+        <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_124000_create_attributes_table.php" timestamp="1562766995031">
+      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_124000_create_attributes_table.php" timestamp="1562838020920">
         <mark key="'" line="23" column="12" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="59" />
-        <mark key="." line="24" column="55" />
-        <mark key="^" line="24" column="55" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1562762271622">
         <mark key="[" line="0" column="0" />
@@ -134,12 +143,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Webhooks/Handlers/ProductSync.php" timestamp="1562765110094">
-        <mark key="'" line="42" column="16" />
-        <mark key="[" line="89" column="62" />
-        <mark key="]" line="89" column="60" />
-        <mark key="." line="89" column="60" />
-        <mark key="^" line="89" column="60" />
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Webhooks/Handlers/ProductSync.php" timestamp="1562838367765">
+        <mark key="'" line="57" column="20" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="53" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="90" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/routes/webhooks.php" timestamp="1562144114636">
         <mark key="[" line="1" column="0" />
@@ -151,9 +160,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_091013_create_accessory_sets_table.php" timestamp="1562762415409">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="18" column="46" />
+      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_091013_create_accessory_sets_table.php" timestamp="1562838285230">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="56" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="29" />
       </file>
@@ -167,13 +176,12 @@
         <mark key="]" line="17" column="45" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_123949_create_attribute_sets_table.php" timestamp="1562766980560">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="52" />
-        <mark key="^" line="34" column="48" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_123949_create_attribute_sets_table.php" timestamp="1562837565248">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_130453_create_product_accessory_set_table.php" timestamp="1562765216466">
+      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_130453_create_product_accessory_set_table.php" timestamp="1562837865431">
         <mark key="'" line="22" column="16" />
         <mark key="[" line="15" column="45" />
         <mark key="]" line="15" column="45" />
@@ -191,7 +199,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_130459_create_product_attribute_set_table.php" timestamp="1562765236798">
+      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_130459_create_product_attribute_set_table.php" timestamp="1562837870691">
         <mark key="'" line="26" column="12" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -211,8 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="43" filename="$USER_HOME$/Projects/facade/app/Services/Filemaker/SchemaRepository.php" />
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/CustomerController.php" />
       <jump line="20" column="65" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/CustomerController.php" />
       <jump line="18" column="74" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/UserController.php" />
       <jump line="16" column="16" filename="$USER_HOME$/Projects/facade/storage/logs/laravel-2019-07-01.log" />
@@ -311,46 +317,48 @@
       <jump line="22" column="16" filename="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_130453_create_product_accessory_set_table.php" />
       <jump line="26" column="12" filename="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_130459_create_product_attribute_set_table.php" />
       <jump line="42" column="16" filename="$USER_HOME$/Projects/pwh-api/domain/Webhooks/Handlers/ProductSync.php" />
+      <jump line="26" column="12" filename="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_130453_create_accessory_set_product_table.php" />
+      <jump line="57" column="20" filename="$USER_HOME$/Projects/pwh-api/domain/Webhooks/Handlers/ProductSync.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+b25EZWxldGUoJ2Nhc2NhZGUnKS0+b25VcGRhdGUoJ2Nhc2NhZGUnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbmFtZScgPT4gJGFjY2Vzc29yeURhdGFbJ25hbWUnXSwK</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>Product</text>
       </register>
       <register name="/" type="4">
-        <text>accessory</text>
+        <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+b25EZWxldGUoJ2Nhc2NhZGUnKS0+b25VcGRhdGUoJ2Nhc2NhZGUnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbmFtZScgPT4gJGFjY2Vzc29yeURhdGFbJ25hbWUnXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkZGF0YSA9ICRkYXRhLT50YWtlKDE1MCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbmFtZScgPT4gJGFjY2Vzc29yeURhdGFbJ25hbWUnXSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYWNjZXNzb3J5X3NldF9pZCcgPT4gJGFjY2Vzc29yeVNldC0+aWQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ3Byb2R1Y3RfaWQnKS0+aW5kZXgoKTsKICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCdwcm9kdWN0X2lkJykKICAgICAgICAgICAgICAgIC0+cmVmZXJlbmNlcygnaWQnKS0+b24oJ3Byb2R1Y3RzJykKICAgICAgICAgICAgICAgIC0+b25EZWxldGUoJ2Nhc2NhZGUnKS0+b25VcGRhdGUoJ2Nhc2NhZGUnKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdhdHRyaWJ1dGVzJywgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wRm9yZWlnbignZmtfYXR0cl9hdHRyX3NldCcpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5iaWdJbmNyZW1lbnRzKCdpZCcpOwogICAgICAgICAgICAkdGFibGUtPnRpbWVzdGFtcHMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ3Byb2R1Y3RfaWQnKS0+aW5kZXgoKTsKICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCdwcm9kdWN0X2lkJykKICAgICAgICAgICAgICAgIC0+cmVmZXJlbmNlcygnaWQnKS0+b24oJ3Byb2R1Y3RzJykKICAgICAgICAgICAgICAgIC0+b25EZWxldGUoJ2Nhc2NhZGUnKS0+b25VcGRhdGUoJ2Nhc2NhZGUnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXBzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wRm9yZWlnbignZmtfYWNjX2FjY19zZXQnKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -369,29 +377,27 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ly8gJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ3N0b3JlX2lkJyktPmluZGV4KCk7CiAgICAgICAgICAgIC8vICR0YWJsZS0+Zm9yZWlnbignc3RvcmVfaWQnKQogICAgICAgICAgICAvLyAgICAgLT5yZWZlcmVuY2VzKCdpZCcpLT5vbignc3RvcmVzJykKICAgICAgICAgICAgLw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ3N0b3JlX2lkJyktPmluZGV4KCk7CiAgICAgICAgICAgIC8vICR0YWJsZS0+Zm9yZWlnbignc3RvcmVfaWQnKQogICAgICAgICAgICAvLyAgICAgLT5yZWZlcmVuY2VzKCdpZCcpLT5vbignc3RvcmVzJykKICAgICAgICAgICAgLy8gICAgIC0+b25EZWxldGUoJ2Nhc2NhZGUnKS0+b25VcGRhdGUoJ2Nhc2NhZGUnKTsK</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdhdHRyaWJ1dGVzJywgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgJHRhYmxlLT5kcm9wRm9yZWlnbignZmtfYXR0cl9hdHRyX3NldCcpOwogICAgICAgICAgICAkdGFibGUtPmRyb3BGb3JlaWduKCdma19hY2NfYWNjX3NldCcpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2FjY2Vzc29yeS9hdHRyaWJ1dGUvZw==</text>
+        <text>s/name/fid/g</text>
       </register>
     </registers>
     <search>
-      <last-search>accessory</last-search>
+      <last-search>name</last-search>
       <last-offset />
-      <last-pattern>accessory</last-pattern>
-      <last-replace>attribute</last-replace>
-      <last-substitute>accessory</last-substitute>
+      <last-pattern>name</last-pattern>
+      <last-replace>fid</last-replace>
+      <last-substitute>name</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>boot</entry>
-        <entry>title</entry>
         <entry>F</entry>
         <entry>Customer</entry>
         <entry>sync</entry>
@@ -410,9 +416,10 @@
         <entry>product</entry>
         <entry>ys</entry>
         <entry>accessory</entry>
+        <entry>,</entry>
+        <entry>name</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2NvdW50L2Ftb3VudC9n</entry>
         <entry encoding="base64">JzwsJz5zL3N0b3JlL2FkZA==</entry>
         <entry encoding="base64">JzwsJz5zL2Rlc3Ryb3kvcmVtb3ZlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2Ftb3VudC9xdHkvZw==</entry>
@@ -432,6 +439,7 @@
         <entry>s/position/default/g</entry>
         <entry encoding="base64">JzwsJz5zL3Byb2R1Y3QvYWNjZXNzb3J5L2c=</entry>
         <entry encoding="base64">JzwsJz5zL2FjY2Vzc29yeS9hdHRyaWJ1dGUvZw==</entry>
+        <entry>s/name/fid/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
