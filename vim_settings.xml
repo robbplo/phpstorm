@@ -45,12 +45,11 @@
         <mark key="." line="37" column="15" />
         <mark key="^" line="37" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Accessories/Http/Resources/AccessorySet.php" timestamp="1563183023442">
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Accessories/Http/Resources/AccessorySet.php" timestamp="1563190672470">
         <mark key="'" line="24" column="89" />
-        <mark key="[" line="24" column="38" />
-        <mark key="]" line="24" column="45" />
-        <mark key="^" line="24" column="45" />
-        <mark key="." line="24" column="45" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/config/app.php" timestamp="1562678693287">
         <mark key="[" line="175" column="0" />
@@ -62,6 +61,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Handlers/ProductSync.php" timestamp="1563192554083">
+        <mark key="[" line="75" column="44" />
+        <mark key="]" line="75" column="44" />
+        <mark key="." line="75" column="44" />
+        <mark key="^" line="75" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/webpack.mix.js" timestamp="1562918696591">
         <mark key="[" line="23" column="0" />
@@ -144,10 +149,11 @@
         <mark key="]" line="17" column="45" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_123949_create_attribute_sets_table.php" timestamp="1562837565248">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_123949_create_attribute_sets_table.php" timestamp="1563192507912">
+        <mark key="[" line="23" column="48" />
+        <mark key="]" line="23" column="48" />
+        <mark key="." line="23" column="48" />
+        <mark key="^" line="23" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_130453_create_product_accessory_set_table.php" timestamp="1562837865431">
         <mark key="'" line="22" column="16" />
@@ -200,7 +206,7 @@
         <mark key="^" line="26" column="81" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/config/webhooks.php" timestamp="1563187583235" />
-      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_130459_create_attribute_set_product_table.php" timestamp="1562838003295">
+      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_130459_create_attribute_set_product_table.php" timestamp="1563192434324">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="6" column="31" />
         <mark key="." line="6" column="24" />
@@ -474,43 +480,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>accessories</text>
+        <text>productId</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>accessories</text>
+        <text>productId</text>
       </register>
       <register name="/" type="4">
         <text>with</text>
       </register>
-      <register name="0" type="4">
-        <text>'accessory_sets.accessories'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkcHJvZHVjdC0+YXR0cmlidXRlU2V0cygpLT5zeW5jKCRyZWxhdGVkQXR0cmlidXRlU2V0cyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEZpbHRlcjo6ZXhhY3QoJ2hlaWdodCcpLT5pZ25vcmUobnVsbCksCiAgICAgICAgICAgICAgICBGaWx0ZXI6OmV4YWN0KCd3aWR0aCcpLT5pZ25vcmUobnVsbCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYWNjZXNzb3J5X3NldCBpbmNsdWRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uJyA9PiAkdGhpcy0+ZGVzY3JpcHRpb24sCiAgICAgICAgICAgICd0YWdzJyA9PiAkdGhpcy0+dGFncywKICAgICAgICAgICAgJ29lbScgPT4gJHRoaXMtPm9lbSwKICAgICAgICAgICAgJ3ByaWNlJyA9PiAkdGhpcy0+YWN0aXZlX3ByaWNlLAogICAgICAgICAgICAndmVuZG9yJyA9PiAkdGhpcy0+d2hlbkxvYWRlZCgndmVuZG9yJywgJHRoaXMtPnZlbmRvclsndWlkJ10pLAogICAgICAgICAgICAndHlwZScgPT4gJHRoaXMtPndoZW5Mb2FkZWQoJ3R5cGUnLCAkdGhpcy0+dHlwZVsndWlkJ10pLAogICAgICAgICAgICAnZW9sJyA9PiAkdGhpcy0+ZW9sLA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcXVlc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBQcm9kdWN0ICRwcm9kdWN0ICovCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -530,10 +536,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvZHVjdHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcHJvZHVjdC0+YXR0cmlidXRlU2V0cygpLT5NYW55Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZGlzcGF0Y2gobmV3ICRoYW5kbGVyLT5jbGFzcygkZGF0YSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcHJvZHVjdC0+YXR0cmlidXRlU2V0cygpLT5jcgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
