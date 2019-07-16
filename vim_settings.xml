@@ -20,6 +20,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" timestamp="1563269130437">
+        <mark key="[" line="214" column="36" />
+        <mark key="]" line="214" column="35" />
+        <mark key="^" line="214" column="35" />
+        <mark key="." line="214" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Webhooks/EloquentHookHandler.php" timestamp="1562681884443">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -41,12 +47,6 @@
         <mark key="]" line="20" column="44" />
         <mark key="." line="20" column="44" />
         <mark key="^" line="20" column="44" />
-      </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Accessories/Http/Resources/AccessorySet.php" timestamp="1563196050052">
-        <mark key="'" line="22" column="89" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/config/app.php" timestamp="1562678693287">
         <mark key="[" line="175" column="0" />
@@ -111,6 +111,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-pwa/package.json" timestamp="1563268446529">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/routes/webhooks.php" timestamp="1562144114636">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -167,6 +172,12 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/pwh-pwa/nuxt.config.js" timestamp="1563268881242">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Accessories/Http/Resources/Accessory.php" timestamp="1563196559149">
         <mark key="[" line="20" column="79" />
@@ -246,12 +257,6 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Resources/Product.php" timestamp="1563195361433">
-        <mark key="'" line="28" column="67" />
-        <mark key="[" line="28" column="85" />
-        <mark key="]" line="28" column="86" />
-        <mark key="." line="28" column="86" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/resources/views/pdf/pages/object_credentials.blade.php" timestamp="1562243159891">
         <mark key="[" line="50" column="0" />
@@ -445,14 +450,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/database/seeds/ProductTableSeeder.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>rand(1,10000),</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text>when</text>
@@ -461,28 +466,28 @@
         <text encoding="base64">JHRoaXMtPndoZW5Mb2FkZWQoJ2F0dHJpYnV0ZV9zZXRzJyk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hbGxvd2VkSW5jbHVkZXMoJ3ZlbmRvcicsICdjb2xsZWN0aW9ucycsICd0eXBlJykKPj4+Pj4+PiBkZXZlbG9wCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KCiAgICAgICAgUm91dGU6Omdyb3VwKFsncHJlZml4JyA9PiAnY29sbGVjdGlvbnMnXSwgZnVuY3Rpb24oKSB7CiAgICAgICAgICAgIFJvdXRlOjpnZXQoJy8nLCBbXERvbWFpblxQcm9kdWN0c1xIdHRwXENvbnRyb2xsZXJzXFByb2R1Y3RDb2xsZWN0aW9uQ29udHJvbGxlcjo6Y2xhc3MsICdpbmRleCddKQogICAgICAgICAgICAgICAgLT5uYW1lKCdhcGkucHJvZHVjdHMuY29sbGVjdGlvbnMuaW5kZXgnKTsKICAgICAgICAgICAgUm91dGU6OmdldCgne3Byb2R1Y3RfY29sbGVjdGlvbn0nLCBbXERvbWFpblxQcm9kdWN0c1xIdHRwXENvbnRyb2xsZXJzXFByb2R1Y3RDb2xsZWN0aW9uQ29udHJvbGxlcjo6Y2xhc3MsICdzaG93J10pCiAgICAgICAgICAgICAgICAtPm5hbWUoJ2FwaS5wcm9kdWN0cy5jb2xsZWN0aW9ucy5zaG93Jyk7CiAgICAgICAgfSk7CgogICAgICAgIFJvdXRlOjpnZXQoJ3tpZH0nLCBbXERvbWFpblxQcm9kdWN0c1xIdHRwXENvbnRyb2xsZXJzXFByb2R1Y3RDb250cm9sbGVyOjpjbGFzcywgJ3Nob3cnXSkKICAgICAgICAgICAgLT5uYW1lKCdhcGkucHJvZHVjdHMuc2hvdycpOwo+Pj4+Pj4+IGRldmVsb3AK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJwppbXBvcnQgd2VicGFjayBmcm9tICd3ZWJwYWNrJwppbXBvcnQgcGtnIGZyb20gJy4vcGFja2FnZScK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJudXh0LWVkZ2UiOiAibGF0ZXN0IiwK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIERvbWFpblxTdG9yZXNcTW9kZWxzXFN0b3JlOwp1c2UgSWxsdW1pbmF0ZVxTdXBwb3J0XEZhY2FkZXNcUmVxdWVzdDsK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIERvbWFpblxTdG9yZXNcTW9kZWxzXFN0b3JlOwp1c2UgSWxsdW1pbmF0ZVxTdXBwb3J0XEZhY2FkZXNcUmVxdWVzdDsK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -502,10 +507,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnVzZSBEb21haW5cU3RvcmVzXE1vZGVsc1xTdG9yZTsKdXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFJlcXVlc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hbGxvd2VkSW5jbHVkZXMoJ3ZlbmRvcicsICdjb2xsZWN0aW9ucycsICd0eXBlJykKPj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgUmVxdWVzdDo6bWFjcm8oJ3N0b3JlJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICByZXR1cm4gU3RvcmU6OmZpbmRCeVVpZCgkdGhpcy0+aGVhZGVyKCd4LXN0b3JlLWlkJykpOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KCiAgICAgICAgUm91dGU6Omdyb3VwKFsncHJlZml4JyA9PiAnY29sbGVjdGlvbnMnXSwgZnVuY3Rpb24oKSB7CiAgICAgICAgICAgIFJvdXRlOjpnZXQoJy8nLCBbXERvbWFpblxQcm9kdWN0c1xIdHRwXENvbnRyb2xsZXJzXFByb2R1Y3RDb2xsZWN0aW9uQ29udHJvbGxlcjo6Y2xhc3MsICdpbmRleCddKQogICAgICAgICAgICAgICAgLT5uYW1lKCdhcGkucHJvZHVjdHMuY29sbGVjdGlvbnMuaW5kZXgnKTsKICAgICAgICAgICAgUm91dGU6OmdldCgne3Byb2R1Y3RfY29sbGVjdGlvbn0nLCBbXERvbWFpblxQcm9kdWN0c1xIdHRwXENvbnRyb2xsZXJzXFByb2R1Y3RDb2xsZWN0aW9uQ29udHJvbGxlcjo6Y2xhc3MsICdzaG93J10pCiAgICAgICAgICAgICAgICAtPm5hbWUoJ2FwaS5wcm9kdWN0cy5jb2xsZWN0aW9ucy5zaG93Jyk7CiAgICAgICAgfSk7CgogICAgICAgIFJvdXRlOjpnZXQoJ3tpZH0nLCBbXERvbWFpblxQcm9kdWN0c1xIdHRwXENvbnRyb2xsZXJzXFByb2R1Y3RDb250cm9sbGVyOjpjbGFzcywgJ3Nob3cnXSkKICAgICAgICAgICAgLT5uYW1lKCdhcGkucHJvZHVjdHMuc2hvdycpOwo+Pj4+Pj4+IGRldmVsb3AK</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
