@@ -19,12 +19,17 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" timestamp="1563277741169">
-        <mark key="'" line="256" column="0" />
-        <mark key="[" line="47" column="60" />
-        <mark key="]" line="48" column="58" />
-        <mark key="^" line="48" column="58" />
-        <mark key="." line="48" column="58" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" timestamp="1563288136326">
+        <mark key="'" line="160" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="48" column="33" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1563282719569">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Webhooks/EloquentHookHandler.php" timestamp="1562681884443">
         <mark key="[" line="21" column="0" />
@@ -189,12 +194,11 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" timestamp="1563278774725">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="34" column="95" />
-        <mark key="]" line="34" column="95" />
-        <mark key="." line="34" column="95" />
-        <mark key="^" line="34" column="95" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" timestamp="1563288065513">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="7" column="5" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Accessories/Http/Resources/Accessory.php" timestamp="1563196559149">
         <mark key="[" line="20" column="79" />
@@ -372,8 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="15" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
-      <jump line="48" column="41" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
       <jump line="49" column="39" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
       <jump line="50" column="41" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
       <jump line="51" column="7" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
@@ -470,48 +472,50 @@
       <jump line="207" column="6" filename="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" />
       <jump line="27" column="0" filename="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" />
       <jump line="255" column="0" filename="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" />
-      <jump line="11" column="113" filename="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" />
+      <jump line="167" column="0" filename="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" />
+      <jump line="160" column="0" filename="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" />
+      <jump line="11" column="37" filename="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2LW9uOnVwZGF0ZTpzZWxlY3RlZD0icHJvZHVjdC5zZWxlY3RlZEF0dHJpYnV0ZXMgPSAkZXZlbnQiCg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>Adapter</text>
+        <text>sync</text>
       </register>
       <register name="/" type="4">
-        <text>items</text>
+        <text>value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlhdHRyaWJ1dGVTZXRzOiBBcnJheQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2LW1vZGVsPSJwcm9kdWN0LnNlbGVjdGVkQXR0cmlidXRlcyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2LW9uOnVwZGF0ZTpzZWxlY3RlZD0icHJvZHVjdC5zZWxlY3RlZEF0dHJpYnV0ZXMgPSAkZXZlbnQiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCTxkaXYgY2xhc3M9InB3LXByb2R1Y3RDb25maWd1cmF0b3Itb3B0aW9uIHVrLXBhZGRpbmctc21hbGwgdWstZmxleCB1ay1mbGV4LWNvbHVtbiB1ay1mbGV4LWJldHdlZW4iIHVrLXRvZ2dsZT0iY2xzOiB1ay1hY3RpdmUiPgoJCQkJCTxkaXY+CgkJCQkJCTxpbWcgY2xhc3M9InVrLWFsaWduLWNlbnRlciIgZGF0YS1zcmM9Ii9pbWcvZGVtby9tb3VzZS5qcGciIHN0eWxlPSJ3aWR0aDogNDElOyIgdWstaW1nLz4KCQkJCQk8L2Rpdj4KCQkJCQk8ZGl2PjxwIGNsYXNzPSJ1ay10ZXh0LWNlbnRlciI+QXBwbGUgTWFnaWMgTW91c2UgMjwvcD48L2Rpdj4KCQkJCQk8ZGl2IGNsYXNzPSJ1ay10ZXh0LXJpZ2h0Ij4KCQkJCQkJPGJ1dHRvbiBjbGFzcz0idWstYnV0dG9uIHVrLWJ1dHRvbi1wcmltYXJ5Ij5TZWxlY3Q8L2J1dHRvbj4KCQkJCQk8L2Rpdj4KCQkJCTwvZGl2PgoJCQk8L2Rpdj4KCgkJCTxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHByZT57e3Byb2R1Y3Quc2VsZWN0ZWRBdHRyaWJ1dGVzfX08L3ByZT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlAY2xpY2sucHJldmVudD0ic2VsZWN0KGF0dHJpYnV0ZSkiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJPGRpdj4KCQkJCTxkaXYgY2xhc3M9InB3LXByb2R1Y3RDb25maWd1cmF0b3Itb3B0aW9uIHVrLXBhZGRpbmctc21hbGwgdWstZmxleCB1ay1mbGV4LWNvbHVtbiB1ay1mbGV4LWJldHdlZW4iIHVrLXRvZ2dsZT0iY2xzOiB1ay1hY3RpdmUiPgoJCQkJCTxkaXY+CgkJCQkJCTxpbWcgY2xhc3M9InVrLWFsaWduLWNlbnRlciIgIHNyYz0iL2ltZy9kZW1vL25ldHdvcmsucG5nIiBzdHlsZT0id2lkdGg6IDcwJTsiPgoJCQkJCTwvZGl2PgoJCQkJCTxkaXY+PHAgY2xhc3M9InVrLXRleHQtY2VudGVyIj5OZXR3ZXJrIFVTQi1DIG5hYXIgZ2lnYWJpdDwvcD48L2Rpdj4KCQkJCQk8ZGl2IGNsYXNzPSJ1ay10ZXh0LXJpZ2h0Ij4KCQkJCQkJPGJ1dHRvbiBjbGFzcz0idWstYnV0dG9uIHVrLWJ1dHRvbi1wcmltYXJ5Ij5TZWxlY3Q8L2J1dHRvbj4KCQkJCQk8L2Rpdj4KCQkJCTwvZGl2PgoJCQk8L2Rpdj4K</text>
+        <text encoding="base64">CQkJCQk6Y2xhc3M9InsndWstYWN0aXZlJzogdmFsdWVbc2V0SW5kZXhdID09PSBhdHRyaWJ1dGVJbmRleH0iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CjwhLS0JCTxkaXYgY2xhc3M9InVrLWgzIj5HZWhldWdlbjwvZGl2Pi0tPgoKCjwhLS0JCTxkaXYgIHVrLXN3aXRjaGVyPSJ0YXJnZXQ6ID4gLnB3LXByb2R1Y3RDb25maWd1cmF0b3Itb3B0aW9uOyBjbHM6IHVrLWFjdGl2ZSI+LS0+CjwhLS0JCQk8ZGl2IGNsYXNzPSJwdy1wcm9kdWN0Q29uZmlndXJhdG9yLW9wdGlvbiI+LS0+CjwhLS0JCQkJPGRpdiB1ay1ncmlkPi0tPgo8IS0tCQkJCQk8ZGl2IGNsYXNzPSJ1ay13aWR0aC1leHBhbmQiPi0tPgo8IS0tCQkJCQkJPHNwYW4gY2xhc3M9InB3LXByb2R1Y3RDb25maWd1cmF0b3ItdGV4dCI+MTYgR0IgMjQwMOKAkU1IeiBERFI0LWdlaGV1Z2VuPC9zcGFuPi0tPgo8IS0tCQkJCQk8L2Rpdj4tLT4KPCEtLQkJCQkJPGRpdj48c3BhbiBjbGFzcz0icHctcHJvZHVjdENvbmZpZ3VyYXRvci1wcmljZSI+U3RhbmRhcmQ8L3NwYW4+PC9kaXY+LS0+CjwhLS0JCQkJPC9kaXY+LS0+CjwhLS0JCQk8L2Rpdj4tLT4KCjwhLS0JCQk8ZGl2IGNsYXNzPSJwdy1wcm9kdWN0Q29uZmlndXJhdG9yLW9wdGlvbiI+LS0+CjwhLS0JCQkJPGRpdiB1ay1ncmlkPi0tPgo8IS0tCQkJCQk8ZGl2IGNsYXNzPSJ1ay13aWR0aC1leHBhbmQiPi0tPgo8IS0tCQkJCQkJPHNwYW4gY2xhc3M9InB3LXByb2R1Y3RDb25maWd1cmF0b3ItdGV4dCI+MzIgR0IgMjQwMOKAkU1IeiBERFI0LWdlaGV1Z2VuPC9zcGFuPi0tPgo8IS0tCQkJCQk8L2Rpdj4tLT4KPCEtLQkJCQkJPGRpdiBjbGFzcz0idWstd2lkdGgtYXV0byI+LS0+CjwhLS0JCQkJCQk8c3BhbiBjbGFzcz0icHctcHJvZHVjdENvbmZpZ3VyYXRvci1wcmljZSI+KyAmZXVybzsgNDgwLDAwPC9zcGFuPi0tPgo8IS0tCQkJCQk8L2Rpdj4tLT4KPCEtLQkJCQk8L2Rpdj4tLT4KPCEtLQkJCTwvZGl2Pi0tPgoKPCEtLQkJPC9kaXY+LS0+Cgo8IS0tCQk8ZGl2IGNsYXNzPSJ1ay1oMyI+SGFyZGUgc2NoaWpmPC9kaXY+LS0+Cgo8IS0tCQk8ZGl2ICB1ay1zd2l0Y2hlcj0idGFyZ2V0OiA+IC5wdy1wcm9kdWN0Q29uZmlndXJhdG9yLW9wdGlvbjsgY2xzOiB1ay1hY3RpdmUiPi0tPgo8IS0tCQkJPGRpdiBjbGFzcz0icHctcHJvZHVjdENvbmZpZ3VyYXRvci1vcHRpb24iPi0tPgo8IS0tCQkJCTxkaXYgdWstZ3JpZD4tLT4KPCEtLQkJCQkJPGRpdiBjbGFzcz0idWstd2lkdGgtZXhwYW5kIj4tLT4KPCEtLQkJCQkJCTxzcGFuIGNsYXNzPSJwdy1wcm9kdWN0Q29uZmlndXJhdG9yLXRleHQiPjI1NiBHQiBTU0TigJFvcHNsYWc8L3NwYW4+LS0+CjwhLS0JCQkJCTwvZGl2Pi0tPgo8IS0tCQkJCQk8ZGl2PjxzcGFuIGNsYXNzPSJwdy1wcm9kdWN0Q29uZmlndXJhdG9yLXByaWNlIj5TdGFuZGFyZDwvc3Bhbj48L2Rpdj4tLT4KPCEtLQkJCQk8L2Rpdj4tLT4KPCEtLQkJCTwvZGl2Pi0tPgoKCjwhLS0JCQk8ZGl2IGNsYXNzPSJwdy1wcm9kdWN0Q29uZmlndXJhdG9yLW9wdGlvbiI+LS0+CjwhLS0JCQkJPGRpdiB1ay1ncmlkPi0tPgo8IS0tCQkJCQk8ZGl2IGNsYXNzPSJ1ay13aWR0aC1leHBhbmQiPi0tPgo8IS0tCQkJCQkJPHNwYW4gY2xhc3M9InB3LXByb2R1Y3RDb25maWd1cmF0b3ItdGV4dCI+NTEyIEdCIFNTROKAkW9wc2xhZzwvc3Bhbj4tLT4KPCEtLQkJCQkJPC9kaXY+LS0+CjwhLS0JCQkJCTxkaXYgY2xhc3M9InVrLXdpZHRoLWF1dG8iPi0tPgo8IS0tCQkJCQkJPHNwYW4gY2xhc3M9InB3LXByb2R1Y3RDb25maWd1cmF0b3ItcHJpY2UiPisgJmV1cm87IDI0MCwwMDwvc3Bhbj4tLT4KPCEtLQkJCQkJPC9kaXY+LS0+CjwhLS0JCQkJPC9kaXY+LS0+CjwhLS0JCQk8L2Rpdj4tLT4KCgo8IS0tCQkJPGRpdiBjbGFzcz0icHctcHJvZHVjdENvbmZpZ3VyYXRvci1vcHRpb24iPi0tPgo8IS0tCQkJCTxkaXYgdWstZ3JpZD4tLT4KPCEtLQkJCQkJPGRpdiBjbGFzcz0idWstd2lkdGgtZXhwYW5kIj4tLT4KPCEtLQkJCQkJCTxzcGFuIGNsYXNzPSJwdy1wcm9kdWN0Q29uZmlndXJhdG9yLXRleHQiPjEgVEIgU1NE4oCRb3BzbGFnPC9zcGFuPi0tPgo8IS0tCQkJCQk8L2Rpdj4tLT4KPCEtLQkJCQkJPGRpdiBjbGFzcz0idWstd2lkdGgtYXV0byI+LS0+CjwhLS0JCQkJCQk8c3BhbiBjbGFzcz0icHctcHJvZHVjdENvbmZpZ3VyYXRvci1wcmljZSI+KyAmZXVybzsgNzIwLDAwPC9zcGFuPi0tPgo8IS0tCQkJCQk8L2Rpdj4tLT4KPCEtLQkJCQk8L2Rpdj4tLT4KPCEtLQkJCTwvZGl2Pi0tPgoKCgo8IS0tCQkJPGRpdiBjbGFzcz0icHctcHJvZHVjdENvbmZpZ3VyYXRvci1vcHRpb24iPi0tPgo8IS0tCQkJCTxkaXYgdWstZ3JpZD4tLT4KPCEtLQkJCQkJPGRpdiBjbGFzcz0idWstd2lkdGgtZXhwYW5kIj4tLT4KPCEtLQkJCQkJCTxzcGFuIGNsYXNzPSJwdy1wcm9kdWN0Q29uZmlndXJhdG9yLXRleHQiPjIgVEIgU1NE4oCRb3BzbGFnPC9zcGFuPi0tPgo8IS0tCQkJCQk8L2Rpdj4tLT4KPCEtLQkJCQkJPGRpdiBjbGFzcz0idWstd2lkdGgtYXV0byI+LS0+CjwhLS0JCQkJCQk8c3BhbiBjbGFzcz0icHctcHJvZHVjdENvbmZpZ3VyYXRvci1wcmljZSI+KyAmZXVybzsgMS40NDAsMDA8L3NwYW4+LS0+CjwhLS0JCQkJCTwvZGl2Pi0tPgo8IS0tCQkJCTwvZGl2Pi0tPgo8IS0tCQkJPC9kaXY+LS0+CgoKPCEtLQkJCTxkaXYgY2xhc3M9InB3LXByb2R1Y3RDb25maWd1cmF0b3Itb3B0aW9uIj4tLT4KPCEtLQkJCQk8ZGl2IHVrLWdyaWQ+LS0+CjwhLS0JCQkJCTxkaXYgY2xhc3M9InVrLXdpZHRoLWV4cGFuZCI+LS0+CjwhLS0JCQkJCQk8c3BhbiBjbGFzcz0icHctcHJvZHVjdENvbmZpZ3VyYXRvci10ZXh0Ij40IFRCIFNTROKAkW9wc2xhZzwvc3Bhbj4tLT4KPCEtLQkJCQkJPC9kaXY+LS0+CjwhLS0JCQkJCTxkaXYgY2xhc3M9InVrLXdpZHRoLWF1dG8iPi0tPgo8IS0tCQkJCQkJPHNwYW4gY2xhc3M9InB3LXByb2R1Y3RDb25maWd1cmF0b3ItcHJpY2UiPisgJmV1cm87IDMuNjAwLDAwPC9zcGFuPi0tPgo8IS0tCQkJCQk8L2Rpdj4tLT4KPCEtLQkJCQk8L2Rpdj4tLT4KPCEtLQkJCTwvZGl2Pi0tPgoKPCEtLQkJPC9kaXY+LS0+Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2LW9uOnVwZGF0ZTpzZWxlY3RlZD0icHJvZHVjdC5zZWxlY3RlZEF0dHJpYnV0ZXMgPSAkZXZlbnQiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCEtLQkJCQk8ZGl2IGNsYXNzPSJwdy1wcm9kdWN0Q29uZmlndXJhdG9yLW9wdGlvbiI+LS0+CjwhLS0JCQkJCTxkaXYgdWstZ3JpZD4tLT4KPCEtLQkJCQkJCTxkaXYgY2xhc3M9InVrLXdpZHRoLWV4cGFuZCI+LS0+CjwhLS0JCQkJCQkJPHNwYW4gY2xhc3M9InB3LXByb2R1Y3RDb25maWd1cmF0b3ItdGV4dCI+Miw54oCRR0h6IDYtY29yZSBJbnRlbCBDb3JlIGk5LXByb2Nlc3NvciB2YW4gZGUgOGUgZ2VuZXJhdGllLCBUdXJibyBCb29zdCB0b3QgNCw4IEdIejwvc3Bhbj4tLT4KPCEtLQkJCQkJCTwvZGl2Pi0tPgo8IS0tCQkJCQkJPGRpdiBjbGFzcz0idWstd2lkdGgtYXV0byI+LS0+CjwhLS0JCQkJCQkJPHNwYW4gY2xhc3M9InB3LXByb2R1Y3RDb25maWd1cmF0b3ItcHJpY2UiPisgJmV1cm87IDQ4MCwwMDwvc3Bhbj4tLT4KPCEtLQkJCQkJCTwvZGl2Pi0tPgo8IS0tCQkJCQk8L2Rpdj4tLT4KPCEtLQkJCQk8L2Rpdj4tLT4K</text>
+        <text encoding="base64">ICBtb2RlbDogewoJICBwcm9wOiAndmFsdWUnLAogICAgZXZlbnQ6ICdjaGFuZ2UnLAogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkgIGNvbnN0IGZhbSA9ICcnCiAgICAgIEBmYW17CiAgICAgICAgCiAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -531,27 +535,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8ZGl2IGNsYXNzPSJ1ay1oMyI+UHJvY2Vzc29yPC9kaXY+CgkJPGRpdiAgdWstc3dpdGNoZXI9InRhcmdldDogPiAucHctcHJvZHVjdENvbmZpZ3VyYXRvci1vcHRpb247IGNsczogdWstYWN0aXZlIj4KCQkJPGRpdiBjbGFzcz0icHctcHJvZHVjdENvbmZpZ3VyYXRvci1vcHRpb24iPgoJCQkJPGRpdiB1ay1ncmlkPgoJCQkJCTxkaXYgY2xhc3M9InVrLXdpZHRoLWV4cGFuZCAiPgoJCQkJCQk8c3BhbiBjbGFzcz0icHctcHJvZHVjdENvbmZpZ3VyYXRvci10ZXh0Ij4yLDLigJFHSHogNuKAkWNvcmUgSW50ZWwgQ29yZSBpNy1wcm9jZXNzb3IgdmFuIGRlIDhlIGdlbmVyYXRpZSwgVHVyYm8gQm9vc3QgdG90IDQsMSBHSHo8L3NwYW4+CgkJCQkJPC9kaXY+CgkJCQkJPGRpdj48c3BhbiBjbGFzcz0icHctcHJvZHVjdENvbmZpZ3VyYXRvci1wcmljZSI+U3RhbmRhcmQ8L3NwYW4+PC9kaXY+CgkJCQk8L2Rpdj4KCQkJPC9kaXY+CgkJCTxkaXYgY2xhc3M9InB3LXByb2R1Y3RDb25maWd1cmF0b3Itb3B0aW9uIj4KCQkJCTxkaXYgdWstZ3JpZD4KCQkJCQk8ZGl2IGNsYXNzPSJ1ay13aWR0aC1leHBhbmQiPgoJCQkJCQk8c3BhbiBjbGFzcz0icHctcHJvZHVjdENvbmZpZ3VyYXRvci10ZXh0Ij4yLDnigJFHSHogNi1jb3JlIEludGVsIENvcmUgaTktcHJvY2Vzc29yIHZhbiBkZSA4ZSBnZW5lcmF0aWUsIFR1cmJvIEJvb3N0IHRvdCA0LDggR0h6PC9zcGFuPgoJCQkJCTwvZGl2PgoJCQkJCTxkaXYgY2xhc3M9InVrLXdpZHRoLWF1dG8iPgoJCQkJCQk8c3BhbiBjbGFzcz0icHctcHJvZHVjdENvbmZpZ3VyYXRvci1wcmljZSI+KyAmZXVybzsgNDgwLDAwPC9zcGFuPgoJCQkJCTwvZGl2PgoJCQkJPC9kaXY+CgkJCTwvZGl2PgoJCTwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFjY2Vzc29yaWVzOiBlbnRyeS5hY2Nlc3NvcmllcywK</text>
+        <text encoding="base64">CQkJPGRpdiA+IC5wdy1wcm9kdWN0Q29uZmlndXJhdG9yLW9wdGlvbjsgY2xzOiB1ay1hY3RpdmUiPgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/attributes/accessories/g</text>
       </register>
     </registers>
     <search>
-      <last-search>items</last-search>
+      <last-search>value</last-search>
       <last-offset />
-      <last-pattern>items</last-pattern>
+      <last-pattern>value</last-pattern>
       <last-replace>accessories</last-replace>
       <last-substitute>attributes</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>name</entry>
         <entry>data</entry>
         <entry>references</entry>
         <entry>todo</entry>
@@ -571,6 +574,7 @@
         <entry>au</entry>
         <entry>attributes</entry>
         <entry>items</entry>
+        <entry>value</entry>
       </history-search>
       <history-cmd>
         <entry>s/vendor/type/g</entry>
