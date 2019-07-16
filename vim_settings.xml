@@ -20,11 +20,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" timestamp="1563269130437">
-        <mark key="[" line="214" column="36" />
-        <mark key="]" line="214" column="35" />
-        <mark key="^" line="214" column="35" />
-        <mark key="." line="214" column="35" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" timestamp="1563274025231">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="26" column="32" />
+        <mark key="^" line="26" column="32" />
+        <mark key="." line="26" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Webhooks/EloquentHookHandler.php" timestamp="1562681884443">
         <mark key="[" line="21" column="0" />
@@ -348,9 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="12" filename="$USER_HOME$/Projects/vesca/routes/web.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/vesca/.env" />
-      <jump line="4" column="23" filename="$USER_HOME$/Projects/vesca/config/app.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/vesca/.env.example" />
       <jump line="202" column="0" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
       <jump line="49" column="31" filename="$USER_HOME$/Projects/vesca/app/Http/Controllers/PdfController.php" />
@@ -448,46 +445,49 @@
       <jump line="28" column="67" filename="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Resources/Product.php" />
       <jump line="19" column="37" filename="$USER_HOME$/Projects/pwh-api/database/seeds/ProductTableSeeder.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/database/seeds/ProductTableSeeder.php" />
+      <jump line="72" column="29" filename="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" />
+      <jump line="81" column="57" filename="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" />
+      <jump line="26" column="22" filename="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHYtZm9yPSIodGFnKSBpbiBwcm9kdWN0LnRhZyIK</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text encoding="base64">PC9zcGFuPg==</text>
       </register>
       <register name="/" type="4">
-        <text>when</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPndoZW5Mb2FkZWQoJ2F0dHJpYnV0ZV9zZXRzJyk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHYtZm9yPSIodGFnKSBpbiBwcm9kdWN0LnRhZyIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHYtZm9yPSIodGFnKSBpbiBwcm9kdWN0LnRhZyI+e3t0YWd9fTwvc3Bhbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdi1pZj0icHJvZHVjdC5wcmljZS5wcmV2aW91cyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJwppbXBvcnQgd2VicGFjayBmcm9tICd3ZWJwYWNrJwppbXBvcnQgcGtnIGZyb20gJy4vcGFja2FnZScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ9InByb2R1Y3QtMSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJudXh0LWVkZ2UiOiAibGF0ZXN0IiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdWstaWNvbj0iaWNvbjogbWludXM7IHJhdGlvOiAuNzUiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdWstaWNvbj0iaWNvbjogcGx1czsgcmF0aW86IC43NSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ9InByb2R1Y3QtMSIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -507,19 +507,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hbGxvd2VkSW5jbHVkZXMoJ3ZlbmRvcicsICdjb2xsZWN0aW9ucycsICd0eXBlJykKPj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdi1tb2RlbD0ib3JkZXJBbW1vdW50Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KCiAgICAgICAgUm91dGU6Omdyb3VwKFsncHJlZml4JyA9PiAnY29sbGVjdGlvbnMnXSwgZnVuY3Rpb24oKSB7CiAgICAgICAgICAgIFJvdXRlOjpnZXQoJy8nLCBbXERvbWFpblxQcm9kdWN0c1xIdHRwXENvbnRyb2xsZXJzXFByb2R1Y3RDb2xsZWN0aW9uQ29udHJvbGxlcjo6Y2xhc3MsICdpbmRleCddKQogICAgICAgICAgICAgICAgLT5uYW1lKCdhcGkucHJvZHVjdHMuY29sbGVjdGlvbnMuaW5kZXgnKTsKICAgICAgICAgICAgUm91dGU6OmdldCgne3Byb2R1Y3RfY29sbGVjdGlvbn0nLCBbXERvbWFpblxQcm9kdWN0c1xIdHRwXENvbnRyb2xsZXJzXFByb2R1Y3RDb2xsZWN0aW9uQ29udHJvbGxlcjo6Y2xhc3MsICdzaG93J10pCiAgICAgICAgICAgICAgICAtPm5hbWUoJ2FwaS5wcm9kdWN0cy5jb2xsZWN0aW9ucy5zaG93Jyk7CiAgICAgICAgfSk7CgogICAgICAgIFJvdXRlOjpnZXQoJ3tpZH0nLCBbXERvbWFpblxQcm9kdWN0c1xIdHRwXENvbnRyb2xsZXJzXFByb2R1Y3RDb250cm9sbGVyOjpjbGFzcywgJ3Nob3cnXSkKICAgICAgICAgICAgLT5uYW1lKCdhcGkucHJvZHVjdHMuc2hvdycpOwo+Pj4+Pj4+IGRldmVsb3AK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdi1tb2RlbD0ib3JkZXJBbW1vdW50Igo=</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>when</last-search>
+      <last-search encoding="base64">Pg==</last-search>
       <last-offset />
-      <last-pattern>when</last-pattern>
+      <last-pattern encoding="base64">Pg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -527,8 +527,6 @@
     </search>
     <history>
       <history-search>
-        <entry>col</entry>
-        <entry>datab</entry>
         <entry>type</entry>
         <entry>item</entry>
         <entry>valid</entry>
@@ -547,6 +545,8 @@
         <entry>A</entry>
         <entry>with</entry>
         <entry>when</entry>
+        <entry>?</entry>
+        <entry encoding="base64">Pg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2Ftb3VudC9xdHkvZw==</entry>
