@@ -39,10 +39,11 @@
         <mark key="^" line="40" column="51" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/infrastructure/Traits/HasUid.php" timestamp="1562761255406">
-        <mark key="[" line="21" column="88" />
-        <mark key="]" line="21" column="89" />
-        <mark key="." line="21" column="88" />
+      <file name="$USER_HOME$/Projects/pwh-api/infrastructure/Traits/HasUid.php" timestamp="1563263891986">
+        <mark key="[" line="20" column="30" />
+        <mark key="]" line="20" column="44" />
+        <mark key="." line="20" column="44" />
+        <mark key="^" line="20" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Accessories/Http/Resources/AccessorySet.php" timestamp="1563196050052">
         <mark key="'" line="22" column="89" />
@@ -124,6 +125,11 @@
         <mark key="[" line="35" column="8" />
         <mark key="]" line="94" column="15" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/pwh-api/app/Providers/AppServiceProvider.php" timestamp="1563264105117">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/nova-components/OfferManager/routes/api.php" timestamp="1562314121219">
         <mark key="[" line="25" column="0" />
@@ -264,6 +270,11 @@
         <mark key="." line="62" column="94" />
         <mark key="^" line="62" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Users/Models/User.php" timestamp="1563263318934">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Attributes/Models/Attribute.php" timestamp="1563194853291">
         <mark key="[" line="18" column="28" />
         <mark key="]" line="18" column="27" />
@@ -290,7 +301,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/app/Http/Middleware/TenantMiddleware.php" timestamp="1563199140878">
+      <file name="$USER_HOME$/Projects/pwh-api/app/Http/Middleware/TenantMiddleware.php" timestamp="1563263089998">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
@@ -434,13 +445,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgUm91dGU6Omdyb3VwKFsncHJlZml4JyA9PiAnY29sbGVjdGlvbnMnXSwgZnVuY3Rpb24oKSB7CiAgICAgICAgICAgIFJvdXRlOjpnZXQoJy8nLCBbXERvbWFpblxQcm9kdWN0c1xIdHRwXENvbnRyb2xsZXJzXFByb2R1Y3RDb2xsZWN0aW9uQ29udHJvbGxlcjo6Y2xhc3MsICdpbmRleCddKQogICAgICAgICAgICAgICAgLT5uYW1lKCdhcGkucHJvZHVjdHMuY29sbGVjdGlvbnMuaW5kZXgnKTsKICAgICAgICAgICAgUm91dGU6OmdldCgne3Byb2R1Y3RfY29sbGVjdGlvbn0nLCBbXERvbWFpblxQcm9kdWN0c1xIdHRwXENvbnRyb2xsZXJzXFByb2R1Y3RDb2xsZWN0aW9uQ29udHJvbGxlcjo6Y2xhc3MsICdzaG93J10pCiAgICAgICAgICAgICAgICAtPm5hbWUoJ2FwaS5wcm9kdWN0cy5jb2xsZWN0aW9ucy5zaG93Jyk7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">dXNlIERvbWFpblxTdG9yZXNcTW9kZWxzXFN0b3JlOwp1c2UgSWxsdW1pbmF0ZVxTdXBwb3J0XEZhY2FkZXNcUmVxdWVzdDsK</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPnByb2R1Y3RbJ3VpZCddID8/IG51bGws</text>
+        <text>store</text>
       </register>
       <register name="/" type="4">
         <text>when</text>
@@ -449,28 +460,28 @@
         <text encoding="base64">JHRoaXMtPndoZW5Mb2FkZWQoJ2F0dHJpYnV0ZV9zZXRzJyk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgUm91dGU6Omdyb3VwKFsncHJlZml4JyA9PiAnY29sbGVjdGlvbnMnXSwgZnVuY3Rpb24oKSB7CiAgICAgICAgICAgIFJvdXRlOjpnZXQoJy8nLCBbXERvbWFpblxQcm9kdWN0c1xIdHRwXENvbnRyb2xsZXJzXFByb2R1Y3RDb2xsZWN0aW9uQ29udHJvbGxlcjo6Y2xhc3MsICdpbmRleCddKQogICAgICAgICAgICAgICAgLT5uYW1lKCdhcGkucHJvZHVjdHMuY29sbGVjdGlvbnMuaW5kZXgnKTsKICAgICAgICAgICAgUm91dGU6OmdldCgne3Byb2R1Y3RfY29sbGVjdGlvbn0nLCBbXERvbWFpblxQcm9kdWN0c1xIdHRwXENvbnRyb2xsZXJzXFByb2R1Y3RDb2xsZWN0aW9uQ29udHJvbGxlcjo6Y2xhc3MsICdzaG93J10pCiAgICAgICAgICAgICAgICAtPm5hbWUoJ2FwaS5wcm9kdWN0cy5jb2xsZWN0aW9ucy5zaG93Jyk7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">dXNlIERvbWFpblxTdG9yZXNcTW9kZWxzXFN0b3JlOwp1c2UgSWxsdW1pbmF0ZVxTdXBwb3J0XEZhY2FkZXNcUmVxdWVzdDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXERCOwo=</text>
+        <text encoding="base64">dXNlIERvbWFpblxTdG9yZXNcTW9kZWxzXFN0b3JlOwp1c2UgSWxsdW1pbmF0ZVxTdXBwb3J0XEZhY2FkZXNcUmVxdWVzdDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIFNwYXRpZVxRdWVyeUJ1aWxkZXJcRmlsdGVyOwo=</text>
+        <text encoding="base64">CnVzZSBEb21haW5cU3RvcmVzXE1vZGVsc1xTdG9yZTsKdXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFJlcXVlc3Q7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RlZmF1bHQnID0+ICR0aGlzLT5kZWZhdWx0LAo=</text>
+        <text encoding="base64">CiAgICAgICAgUmVxdWVzdDo6bWFjcm8oJ3N0b3JlJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICByZXR1cm4gU3RvcmU6OmZpbmRCeVVpZCgkdGhpcy0+aGVhZGVyKCd4LXN0b3JlLWlkJykpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2R1Y3RfaWQnID0+ICR0aGlzLT5wcm9kdWN0X2lkLAo=</text>
+        <text encoding="base64">dXNlIEluZnJhc3RydWN0dXJlXFRyYWl0c1xIYXNoaWRhYmxlOwp1c2UgUmFtc2V5XFV1aWRcVXVpZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgUm91dGU6Omdyb3VwKFsncHJlZml4JyA9PiAnY29sbGVjdGlvbnMnXSwgZnVuY3Rpb24oKSB7CiAgICAgICAgICAgIFJvdXRlOjpnZXQoJy8nLCBbXERvbWFpblxQcm9kdWN0c1xIdHRwXENvbnRyb2xsZXJzXFByb2R1Y3RDb2xsZWN0aW9uQ29udHJvbGxlcjo6Y2xhc3MsICdpbmRleCddKQogICAgICAgICAgICAgICAgLT5uYW1lKCdhcGkucHJvZHVjdHMuY29sbGVjdGlvbnMuaW5kZXgnKTsKICAgICAgICAgICAgUm91dGU6OmdldCgne3Byb2R1Y3RfY29sbGVjdGlvbn0nLCBbXERvbWFpblxQcm9kdWN0c1xIdHRwXENvbnRyb2xsZXJzXFByb2R1Y3RDb2xsZWN0aW9uQ29udHJvbGxlcjo6Y2xhc3MsICdzaG93J10pCiAgICAgICAgICAgICAgICAtPm5hbWUoJ2FwaS5wcm9kdWN0cy5jb2xsZWN0aW9ucy5zaG93Jyk7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkZCgkdGhpcy0+d2hlbkxvYWRlZCgnYXR0cmlidXRlU2V0cycpKTsK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXERCOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -490,10 +501,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dXNlIFNwYXRpZVxRdWVyeUJ1aWxkZXJcRmlsdGVyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+d2hlbigpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RlZmF1bHQnID0+ICR0aGlzLT5kZWZhdWx0LAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
