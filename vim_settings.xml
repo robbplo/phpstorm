@@ -194,12 +194,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" timestamp="1563352311070">
-        <mark key="'" line="71" column="39" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="69" column="34" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" timestamp="1563367650194">
+        <mark key="'" line="70" column="39" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="68" column="34" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Accessories/Http/Resources/Accessory.php" timestamp="1563196559149">
         <mark key="[" line="20" column="79" />
@@ -373,11 +373,11 @@
         <mark key="^" line="45" column="44" />
         <mark key="." line="45" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-cart/sidebar.vue" timestamp="1563365484105">
-        <mark key="[" line="47" column="122" />
-        <mark key="]" line="47" column="114" />
-        <mark key="." line="47" column="114" />
-        <mark key="^" line="47" column="114" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-cart/sidebar.vue" timestamp="1563367784188">
+        <mark key="[" line="24" column="82" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/store/modules/cart.js" timestamp="1563365426161">
         <mark key="'" line="117" column="0" />
@@ -495,13 +495,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>product</text>
+        <text>_</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>product</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
@@ -510,28 +510,28 @@
         <text>matchingConfig.quantity + quantity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">CQkJCQkJCQkJCQk8ZGl2IGNsYXNzPSJ1ay10ZXh0LW1ldGEgdWstdGV4dC14c21hbGwiPnt7aXRlbS5pZH19OiB7e2l0ZW0ucHJvZHVjdC5zZWxlY3RlZEF0dHJpYnV0ZXMuam9pbignLCcpfX08L2Rpdj4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">CQk8cHJlPnt7c2VsZWN0ZWR9fTwvcHJlPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coImFkZCBpdGVtIHRvIGNhcnQiLCBpdGVtKTsK</text>
+        <text encoding="base64">ICAgICAgY29udGludWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gY29uc3QgdXVpZHY0ID0gcmVxdWlyZSgndXVpZC92NCcpOwo=</text>
+        <text encoding="base64">ICAgICAgY29udGludWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coImFkZCBpdGVtIHRvIGNhcnQiLCBpdGVtKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -551,10 +551,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsKICAgICAgbmV3Q29uZmlnOiBwcm9kdWN0LnNlbGVjdGVkQXR0cmlidXRlcywKICAgICAgZXhpc3RpbmdDb25maWc6IGV4aXN0aW5nUHJvZHVjdC5wcm9kdWN0LnNlbGVjdGVkQXR0cmlidXRlcywKICAgICAgbWF0Y2hpbmdDb25maWc6IGV4aXN0aW5nUHJvZHVjdCwKICAgICAgcXVhbnRpdHksCiAgICAgICduZXdRdWFudGl0eSc6IGV4aXN0aW5nUHJvZHVjdC5xdWFudGl0eSArIHF1YW50aXR5LAogICAgfSkK</text>
+        <text encoding="base64">Ly8gY29uc3QgdXVpZHY0ID0gcmVxdWlyZSgndXVpZC92NCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coewogICAgICAgIG5ld0NvbmZpZzogcHJvZHVjdC5zZWxlY3RlZEF0dHJpYnV0ZXMsCiAgICAgICAgZXhpc3RpbmdDb25maWc6IGV4aXN0aW5nUHJvZHVjdC5wcm9kdWN0LnNlbGVjdGVkQXR0cmlidXRlcywKICAgICAgICBtYXRjaGluZ0NvbmZpZzogZXhpc3RpbmdQcm9kdWN0LAogICAgICAgIHF1YW50aXR5LAogICAgICAgICduZXdRdWFudGl0eSc6IGV4aXN0aW5nUHJvZHVjdC5xdWFudGl0eSArIHF1YW50aXR5LAogICAgICB9KQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>s/attributes/accessories/g</text>
