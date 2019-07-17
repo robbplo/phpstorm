@@ -373,17 +373,17 @@
         <mark key="^" line="45" column="44" />
         <mark key="." line="45" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-cart/sidebar.vue" timestamp="1563361063838">
-        <mark key="[" line="39" column="108" />
-        <mark key="]" line="39" column="108" />
-        <mark key="." line="39" column="108" />
-        <mark key="^" line="39" column="107" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-cart/sidebar.vue" timestamp="1563365484105">
+        <mark key="[" line="47" column="122" />
+        <mark key="]" line="47" column="114" />
+        <mark key="." line="47" column="114" />
+        <mark key="^" line="47" column="114" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/store/modules/cart.js" timestamp="1563363071715">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-        <mark key="^" line="118" column="46" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/store/modules/cart.js" timestamp="1563365426161">
+        <mark key="'" line="117" column="0" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Users/Events/UserSynced.php" timestamp="1562937530158">
         <mark key="[" line="0" column="0" />
@@ -392,8 +392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="3" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
-      <jump line="7" column="3" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
       <jump line="8" column="3" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
       <jump line="10" column="14" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
@@ -492,46 +490,48 @@
       <jump line="71" column="39" filename="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" />
       <jump line="48" column="33" filename="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" />
       <jump line="90" column="18" filename="$USER_HOME$/Projects/pwh-pwa/store/modules/cart.js" />
+      <jump line="94" column="13" filename="$USER_HOME$/Projects/pwh-pwa/store/modules/cart.js" />
+      <jump line="118" column="0" filename="$USER_HOME$/Projects/pwh-pwa/store/modules/cart.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>product</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>, product: product</text>
+        <text>product</text>
       </register>
       <register name="/" type="4">
-        <text>qua</text>
+        <text>debug</text>
       </register>
       <register name="0" type="4">
         <text>matchingConfig.quantity + quantity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsKICAgICAgbmV3Q29uZmlnOiBwcm9kdWN0LnNlbGVjdGVkQXR0cmlidXRlcywKICAgICAgZXhpc3RpbmdDb25maWc6IGV4aXN0aW5nUHJvZHVjdC5wcm9kdWN0LnNlbGVjdGVkQXR0cmlidXRlcywKICAgICAgbWF0Y2hpbmdDb25maWc6IGV4aXN0aW5nUHJvZHVjdCwKICAgICAgcXVhbnRpdHksCiAgICAgICduZXdRdWFudGl0eSc6IGV4aXN0aW5nUHJvZHVjdC5xdWFudGl0eSArIHF1YW50aXR5LAogICAgfSkK</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coewogICAgICAgIG5ld0NvbmZpZzogcHJvZHVjdC5zZWxlY3RlZEF0dHJpYnV0ZXMsCiAgICAgICAgZXhpc3RpbmdDb25maWc6IGV4aXN0aW5nUHJvZHVjdC5wcm9kdWN0LnNlbGVjdGVkQXR0cmlidXRlcywKICAgICAgICBtYXRjaGluZ0NvbmZpZzogZXhpc3RpbmdQcm9kdWN0LAogICAgICAgIHF1YW50aXR5LAogICAgICAgICduZXdRdWFudGl0eSc6IGV4aXN0aW5nUHJvZHVjdC5xdWFudGl0eSArIHF1YW50aXR5LAogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgY29udGludWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgCiAgICAvLyBjb25zdCBleGlzdGluZ0NhcnRQcm9kdWN0ID0gXy5maW5kKHN0YXRlLmNvbnRlbnRzLCB7IF9pZDogcHJvZHVjdC5faWQgfSkKICAgIC8vIGlmIChleGlzdGluZ0NhcnRQcm9kdWN0ID09PSB1bmRlZmluZWQpIHsKICAgIC8vICAgcmV0dXJuIGRpc3BhdGNoKCdhZGQnLCB7cHJvZHVjdCwgcXVhbnRpdHl9KQogICAgLy8gfQogICAgLy8KICAgIC8vIHF1YW50aXR5ID0gZXhpc3RpbmdDYXJ0UHJvZHVjdC5xdWFudGl0eSArIHF1YW50aXR5CiAgICAvLyByZXR1cm4gZGlzcGF0Y2goJ3VwZGF0ZScsIHtwcm9kdWN0LCBxdWFudGl0eX0pCg==</text>
+        <text encoding="base64">ICAgICAgY29udGludWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coImFkZCBpdGVtIHRvIGNhcnQiLCBpdGVtKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIC8vIEB0b2RvIHN0b3JlIHByb2R1Y3Qgc2VwYXJhdGVseSBpZiBhdHRyaWJ1dGVzIGFyZSBkaWZmZXJlbnQK</text>
+        <text encoding="base64">Ly8gY29uc3QgdXVpZHY0ID0gcmVxdWlyZSgndXVpZC92NCcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -551,19 +551,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGV4aXN0aW5nQ2FydFByb2R1Y3RzLmZvckVhY2goZXhpc3RpbmdQcm9kdWN0ID0+IHsKICAgIC8vICAgY29uc3QgY29uZmlnSXNFcXVhbCA9IGV4aXN0aW5nUHJvZHVjdC5wcm9kdWN0LnNlbGVjdGVkQXR0cmlidXRlcy5sZW5ndGggPT09IHByb2R1Y3Quc2VsZWN0ZWRBdHRyaWJ1dGVzLmxlbmd0aAogICAgLy8gICAgICYmIGV4aXN0aW5nUHJvZHVjdC5wcm9kdWN0LnNlbGVjdGVkQXR0cmlidXRlcy5ldmVyeSgodmFsdWUsIGluZGV4KSA9PiB2YWx1ZSA9PT0gcHJvZHVjdC5zZWxlY3RlZEF0dHJpYnV0ZXNbaW5kZXhdKQogICAgLy8KICAgIC8vICAgY29uc29sZS5sb2coewogICAgLy8gICAgICdleGlzdGluZ0NvbmZpZyc6IGV4aXN0aW5nUHJvZHVjdC5wcm9kdWN0LnNlbGVjdGVkQXR0cmlidXRlcywKICAgIC8vICAgICAnbmV3Q29uZmlnJzogcHJvZHVjdC5zZWxlY3RlZEF0dHJpYnV0ZXMsCiAgICAvLyAgICAgY29uZmlnSXNFcXVhbCwKICAgIC8vICAgfSkKICAgIC8vCiAgICAvLyAgIGlmIChjb25maWdJc0VxdWFsKSB7CiAgICAvLyAgICAgcXVhbnRpdHkgPSBleGlzdGluZ1Byb2R1Y3QucXVhbnRpdHkgKyBxdWFudGl0eQogICAgLy8gICAgIHJldHVybiBkaXNwYXRjaCgndXBkYXRlJywge2V4aXN0aW5nUHJvZHVjdCwgcXVhbnRpdHl9KQogICAgLy8gICB9IGVsc2UgewogICAgLy8gICAgIHJldHVybiBkaXNwYXRjaCgnYWRkJywge3Byb2R1Y3QsIHF1YW50aXR5fSkKICAgIC8vICAgfQogICAgLy8gfSkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsKICAgICAgbmV3Q29uZmlnOiBwcm9kdWN0LnNlbGVjdGVkQXR0cmlidXRlcywKICAgICAgZXhpc3RpbmdDb25maWc6IGV4aXN0aW5nUHJvZHVjdC5wcm9kdWN0LnNlbGVjdGVkQXR0cmlidXRlcywKICAgICAgbWF0Y2hpbmdDb25maWc6IGV4aXN0aW5nUHJvZHVjdCwKICAgICAgcXVhbnRpdHksCiAgICAgICduZXdRdWFudGl0eSc6IGV4aXN0aW5nUHJvZHVjdC5xdWFudGl0eSArIHF1YW50aXR5LAogICAgfSkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGkucHJvZHVjdC5zZWxlY3RlZEF0dHJpYnV0ZXMubGVuZ3RoID09PSBwcm9kdWN0LnNlbGVjdGVkQXR0cmlidXRlcy5sZW5ndGgKICAgICAgICAmJiBpLnByb2R1Y3Quc2VsZWN0ZWRBdHRyaWJ1dGVzLmV2ZXJ5KCh2YWx1ZSwgaW5kZXgpID0+IHZhbHVlID09PSBwcm9kdWN0LnNlbGVjdGVkQXR0cmlidXRlc1tpbmRleF0pCiAgICB9KQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coewogICAgICAgIG5ld0NvbmZpZzogcHJvZHVjdC5zZWxlY3RlZEF0dHJpYnV0ZXMsCiAgICAgICAgZXhpc3RpbmdDb25maWc6IGV4aXN0aW5nUHJvZHVjdC5wcm9kdWN0LnNlbGVjdGVkQXR0cmlidXRlcywKICAgICAgICBtYXRjaGluZ0NvbmZpZzogZXhpc3RpbmdQcm9kdWN0LAogICAgICAgIHF1YW50aXR5LAogICAgICAgICduZXdRdWFudGl0eSc6IGV4aXN0aW5nUHJvZHVjdC5xdWFudGl0eSArIHF1YW50aXR5LAogICAgICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/attributes/accessories/g</text>
       </register>
     </registers>
     <search>
-      <last-search>qua</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>qua</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace>accessories</last-replace>
       <last-substitute>attributes</last-substitute>
       <last-dir>1</last-dir>
@@ -571,7 +571,6 @@
     </search>
     <history>
       <history-search>
-        <entry>filt</entry>
         <entry>A</entry>
         <entry>with</entry>
         <entry>when</entry>
@@ -591,6 +590,7 @@
         <entry>new</entry>
         <entry>log</entry>
         <entry>qua</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>s/vendor/type/g</entry>
