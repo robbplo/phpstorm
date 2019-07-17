@@ -19,11 +19,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" timestamp="1563351163007">
-        <mark key="'" line="160" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" timestamp="1563352133607">
+        <mark key="'" line="48" column="33" />
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
         <mark key="^" line="48" column="33" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1563282719569">
@@ -194,11 +194,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" timestamp="1563288065513">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="7" column="5" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" timestamp="1563352311070">
+        <mark key="'" line="71" column="39" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="69" column="34" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Accessories/Http/Resources/Accessory.php" timestamp="1563196559149">
         <mark key="[" line="20" column="79" />
@@ -376,18 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="39" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
-      <jump line="50" column="41" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
-      <jump line="51" column="7" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
-      <jump line="52" column="3" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
-      <jump line="54" column="41" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
-      <jump line="55" column="3" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
-      <jump line="56" column="42" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
-      <jump line="57" column="23" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
-      <jump line="58" column="7" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
-      <jump line="59" column="3" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
-      <jump line="2" column="9" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
-      <jump line="4" column="3" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
       <jump line="5" column="3" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
       <jump line="6" column="3" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
       <jump line="7" column="3" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
@@ -476,46 +465,58 @@
       <jump line="167" column="0" filename="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" />
       <jump line="160" column="0" filename="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" />
       <jump line="11" column="37" filename="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" />
+      <jump line="66" column="4" filename="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" />
+      <jump line="52" column="18" filename="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" />
+      <jump line="43" column="17" filename="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" />
+      <jump line="12" column="33" filename="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" />
+      <jump line="72" column="4" filename="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" />
+      <jump line="247" column="0" filename="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" />
+      <jump line="176" column="0" filename="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" />
+      <jump line="49" column="48" filename="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" />
+      <jump line="246" column="0" filename="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" />
+      <jump line="70" column="9" filename="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" />
+      <jump line="71" column="39" filename="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" />
+      <jump line="48" column="33" filename="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2LW9uOnVwZGF0ZTpzZWxlY3RlZD0icHJvZHVjdC5zZWxlY3RlZEF0dHJpYnV0ZXMgPSAkZXZlbnQiCg==</text>
+        <text encoding="base64">CQkJLy8gdGhpcy4kZW1pdCgndXBkYXRlOnNlbGVjdGVkJywgWzEsIDAsIDEsIDAsIDAsIDBdKQo=</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>sync</text>
+        <text>newSelected</text>
       </register>
       <register name="/" type="4">
-        <text>value</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2LW1vZGVsPSJwcm9kdWN0LnNlbGVjdGVkQXR0cmlidXRlcyIK</text>
+        <text encoding="base64">CQkJdGhpcy4kZW1pdCgndXBkYXRlOnNlbGVjdGVkJywgbmV3U2VsZWN0ZWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2LW9uOnVwZGF0ZTpzZWxlY3RlZD0icHJvZHVjdC5zZWxlY3RlZEF0dHJpYnV0ZXMgPSAkZXZlbnQiCg==</text>
+        <text encoding="base64">CQkJLy8gdGhpcy4kZW1pdCgndXBkYXRlOnNlbGVjdGVkJywgWzEsIDAsIDEsIDAsIDAsIDBdKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHByZT57e3Byb2R1Y3Quc2VsZWN0ZWRBdHRyaWJ1dGVzfX08L3ByZT4K</text>
+        <text encoding="base64">CQkJLy8gdGhpcy4kZW1pdCgndXBkYXRlOnNlbGVjdGVkJywgWzEsIDAsIDEsIDAsIDAsIDBdKQoJCX0sCgl9LAoJcHJvcHM6IHsKCQlzZWxlY3RlZDogQXJyYXksCgkJYXR0cmlidXRlU2V0czogQXJyYXksCgl9LAogIGNvbXB1dGVkOiB7CgkJaXNTZWxlY3RlZCgpIHsKCQkJcmV0dXJuIHRydWUKCQl9Cgl9Cn0KPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQlAY2xpY2sucHJldmVudD0ic2VsZWN0KGF0dHJpYnV0ZSkiCg==</text>
+        <text encoding="base64">ICAgIGxvZyh4KSB7CiAgICAgIGNvbnNvbGUubG9nKHgpCiAgICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQk6Y2xhc3M9InsndWstYWN0aXZlJzogdmFsdWVbc2V0SW5kZXhdID09PSBhdHRyaWJ1dGVJbmRleH0iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAdXBkYXRlOnNlbGVjdGVkPSJsb2coJGV2ZW50KTsgcHJvZHVjdC5zZWxlY3RlZEF0dHJpYnV0ZXMgPSAkZXZlbnQiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2LW9uOnVwZGF0ZTpzZWxlY3RlZD0icHJvZHVjdC5zZWxlY3RlZEF0dHJpYnV0ZXMgPSAkZXZlbnQiCg==</text>
+        <text encoding="base64">ICAgIHRlc3QoKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtb2RlbDogewoJICBwcm9wOiAndmFsdWUnLAogICAgZXZlbnQ6ICdjaGFuZ2UnLAogIH0K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ21hbmQnKQogICAgfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkgIGNvbnN0IGZhbSA9ICcnCiAgICAgIEBmYW17CiAgICAgICAgCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2LW9uOnVwZGF0ZTpzZWxlY3RlZD0icHJvZHVjdC5zZWxlY3RlZEF0dHJpYnV0ZXMgPSAkZXZlbnQiCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -535,19 +536,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHByZT57e3Byb2R1Y3Quc2VsZWN0ZWRBdHRyaWJ1dGVzfX08L3ByZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJPGRpdiA+IC5wdy1wcm9kdWN0Q29uZmlndXJhdG9yLW9wdGlvbjsgY2xzOiB1ay1hY3RpdmUiPgo=</text>
+        <text encoding="base64">CQkJCQlAY2xpY2sucHJldmVudD0ic2VsZWN0KGF0dHJpYnV0ZSkiCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/attributes/accessories/g</text>
       </register>
     </registers>
     <search>
-      <last-search>value</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>value</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>accessories</last-replace>
       <last-substitute>attributes</last-substitute>
       <last-dir>1</last-dir>
@@ -555,10 +556,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
-        <entry>references</entry>
-        <entry>todo</entry>
-        <entry>col-1</entry>
         <entry>'</entry>
         <entry>filt</entry>
         <entry>A</entry>
@@ -575,6 +572,10 @@
         <entry>attributes</entry>
         <entry>items</entry>
         <entry>value</entry>
+        <entry>select</entry>
+        <entry>meth</entry>
+        <entry>new</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>s/vendor/type/g</entry>
