@@ -373,7 +373,13 @@
         <mark key="^" line="45" column="44" />
         <mark key="." line="45" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/store/modules/cart.js" timestamp="1563353852730" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/store/modules/cart.js" timestamp="1563356702432">
+        <mark key="'" line="105" column="18" />
+        <mark key="[" line="85" column="8" />
+        <mark key="]" line="85" column="35" />
+        <mark key="." line="85" column="35" />
+        <mark key="^" line="85" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Users/Events/UserSynced.php" timestamp="1562937530158">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -381,7 +387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="3" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
       <jump line="6" column="3" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
       <jump line="7" column="3" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
       <jump line="8" column="3" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
@@ -481,46 +486,47 @@
       <jump line="70" column="9" filename="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" />
       <jump line="71" column="39" filename="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" />
       <jump line="48" column="33" filename="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" />
+      <jump line="90" column="18" filename="$USER_HOME$/Projects/pwh-pwa/store/modules/cart.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJLy8gdGhpcy4kZW1pdCgndXBkYXRlOnNlbGVjdGVkJywgWzEsIDAsIDEsIDAsIDAsIDBdKQo=</text>
+      <register name="&quot;" type="4">
+        <text>configIsEqual</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>newSelected</text>
+        <text>configIsEqual</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>qua</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJdGhpcy4kZW1pdCgndXBkYXRlOnNlbGVjdGVkJywgbmV3U2VsZWN0ZWQpCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGNvbmZpZ0lzRXF1YWwpIHsKICAgICAgICBxdWFudGl0eSA9IGV4aXN0aW5nUHJvZHVjdC5xdWFudGl0eSArIHF1YW50aXR5CiAgICAgICAgcmV0dXJuIGRpc3BhdGNoKCd1cGRhdGUnLCB7ZXhpc3RpbmdQcm9kdWN0LCBxdWFudGl0eX0pCiAgICAgIH0gZWxzZSB7CiAgICAgICAgcmV0dXJuIGRpc3BhdGNoKCdhZGQnLCB7cHJvZHVjdCwgcXVhbnRpdHl9KQogICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLy8gdGhpcy4kZW1pdCgndXBkYXRlOnNlbGVjdGVkJywgWzEsIDAsIDEsIDAsIDAsIDBdKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLy8gdGhpcy4kZW1pdCgndXBkYXRlOnNlbGVjdGVkJywgWzEsIDAsIDEsIDAsIDAsIDBdKQoJCX0sCgl9LAoJcHJvcHM6IHsKCQlzZWxlY3RlZDogQXJyYXksCgkJYXR0cmlidXRlU2V0czogQXJyYXksCgl9LAogIGNvbXB1dGVkOiB7CgkJaXNTZWxlY3RlZCgpIHsKCQkJcmV0dXJuIHRydWUKCQl9Cgl9Cn0KPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZyh4KSB7CiAgICAgIGNvbnNvbGUubG9nKHgpCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAdXBkYXRlOnNlbGVjdGVkPSJsb2coJGV2ZW50KTsgcHJvZHVjdC5zZWxlY3RlZEF0dHJpYnV0ZXMgPSAkZXZlbnQiCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coewogICAgICAgICdleGlzdGluZ0NvbmZpZyc6IGV4aXN0aW5nUHJvZHVjdC5wcm9kdWN0LnNlbGVjdGVkQXR0cmlidXRlcywKICAgICAgICAnbmV3Q29uZmlnJzogcHJvZHVjdC5zZWxlY3RlZEF0dHJpYnV0ZXMsCiAgICAgICAgCiAgICAgIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRlc3QoKSB7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ21hbmQnKQogICAgfSwK</text>
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2LW9uOnVwZGF0ZTpzZWxlY3RlZD0icHJvZHVjdC5zZWxlY3RlZEF0dHJpYnV0ZXMgPSAkZXZlbnQiCg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbGxlY3QgcHJvZHVjdHMgaW4gY2FydCB3aXRoIHRoZSBzYW1lIGlkIGFzIHByb2R1Y3QuCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -540,19 +546,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHByZT57e3Byb2R1Y3Quc2VsZWN0ZWRBdHRyaWJ1dGVzfX08L3ByZT4K</text>
+        <text encoding="base64">ICAgIC8vIGlmIG5vIHByb2R1Y3RzIG1hdGNoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlAY2xpY2sucHJldmVudD0ic2VsZWN0KGF0dHJpYnV0ZSkiCg==</text>
+        <text encoding="base64">ICAgICAgLy8gYWRkIHRvIGNhcnQgYXMgbmV3IHByb2R1Y3QK</text>
       </register>
       <register name=":" type="4">
         <text>s/attributes/accessories/g</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>qua</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>qua</last-pattern>
       <last-replace>accessories</last-replace>
       <last-substitute>attributes</last-substitute>
       <last-dir>1</last-dir>
@@ -560,7 +566,6 @@
     </search>
     <history>
       <history-search>
-        <entry>'</entry>
         <entry>filt</entry>
         <entry>A</entry>
         <entry>with</entry>
@@ -580,6 +585,7 @@
         <entry>meth</entry>
         <entry>new</entry>
         <entry>log</entry>
+        <entry>qua</entry>
       </history-search>
       <history-cmd>
         <entry>s/vendor/type/g</entry>
