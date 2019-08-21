@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/vesca/resources/sass/site.scss" timestamp="1562853931414">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Projects/vesca/resources/sass/site.scss" timestamp="1566374803899">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/vesca/app/Console/Commands/UpdateApplicationLimits.php" timestamp="1566375294245" />
       <file name="$USER_HOME$/Projects/pwh-api/domain/Accessories/Models/Accessory.php" timestamp="1563196533306">
         <mark key="[" line="23" column="17" />
         <mark key="]" line="23" column="17" />
@@ -55,6 +56,11 @@
         <mark key="." line="20" column="44" />
         <mark key="^" line="20" column="44" />
       </file>
+      <file name="$USER_HOME$/Projects/vesca/app/Http/Controllers/PdfController.php" timestamp="1566378247659">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/config/app.php" timestamp="1562678693287">
         <mark key="[" line="175" column="0" />
         <mark key="]" line="175" column="0" />
@@ -67,6 +73,12 @@
         <mark key="." line="14" column="32" />
         <mark key="^" line="14" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/vesca/storage/logs/laravel.log" timestamp="1566376859953">
+        <mark key="'" line="432" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Handlers/ProductSync.php" timestamp="1563193011864">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
@@ -78,10 +90,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/sass/shared.scss" timestamp="1562853979165">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Projects/vesca/resources/sass/_fonts.scss" timestamp="1566374451393" />
+      <file name="$USER_HOME$/Projects/vesca/resources/sass/shared.scss" timestamp="1566374815412">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_07_10_091023_create_accessories_table.php" timestamp="1562838289348">
         <mark key="[" line="17" column="0" />
@@ -110,9 +123,6 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/pwh-api/database/seeds/ProductTableSeeder.php" timestamp="1563265994313">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/routes/web.php" timestamp="1562935137609">
         <mark key="[" line="20" column="38" />
@@ -186,6 +196,17 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/vesca/resources/sass/app.scss" timestamp="1566374802080">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" timestamp="1566378422770">
+        <mark key="[" line="71" column="61" />
+        <mark key="]" line="72" column="7" />
+        <mark key="^" line="72" column="7" />
+        <mark key="." line="72" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/nuxt.config.js" timestamp="1563268881242">
         <mark key="[" line="33" column="0" />
@@ -397,9 +418,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="3" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
-      <jump line="10" column="14" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" />
       <jump line="85" column="2" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" />
       <jump line="82" column="0" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/ProductController.php" />
@@ -497,46 +515,49 @@
       <jump line="90" column="18" filename="$USER_HOME$/Projects/pwh-pwa/store/modules/cart.js" />
       <jump line="94" column="13" filename="$USER_HOME$/Projects/pwh-pwa/store/modules/cart.js" />
       <jump line="118" column="0" filename="$USER_HOME$/Projects/pwh-pwa/store/modules/cart.js" />
+      <jump line="1390" column="32" filename="$USER_HOME$/Projects/vesca/storage/logs/laravel.log" />
+      <jump line="1575" column="0" filename="$USER_HOME$/Projects/vesca/storage/logs/laravel.log" />
+      <jump line="432" column="0" filename="$USER_HOME$/Projects/vesca/storage/logs/laravel.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGRmLT5nZW5lcmF0ZWQgPSB0cnVlOwogICAgICAgICR0aGlzLT5wZGYtPnNhdmUoKTsK</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">JHRoaXMtPmZpbGVfcGF0aA==</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
       </register>
-      <register name="0" type="4">
-        <text>matchingConfig.quantity + quantity</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGRmLT5nZW5lcmF0ZWQgPSB0cnVlOwogICAgICAgICR0aGlzLT5wZGYtPnNhdmUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQk8ZGl2IGNsYXNzPSJ1ay10ZXh0LW1ldGEgdWstdGV4dC14c21hbGwiPnt7aXRlbS5pZH19OiB7e2l0ZW0ucHJvZHVjdC5zZWxlY3RlZEF0dHJpYnV0ZXMuam9pbignLCcpfX08L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGRmLT5nZW5lcmF0ZWQgPSB0cnVlOwogICAgICAgICR0aGlzLT5wZGYtPnNhdmUoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk8cHJlPnt7c2VsZWN0ZWR9fTwvcHJlPgo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXVpZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXVpZCk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICBkZCgkcGF0aHNbJ2ZpbGUnXSk7CiAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICAvLyAtPnNhdmVQZGYoJHRoaXMtPmZpbGVfcGF0aCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zYXZlUGRmKCdleGFtcGxlLnBkZicpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coImFkZCBpdGVtIHRvIGNhcnQiLCBpdGVtKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgnbWFuZCcpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -556,10 +577,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gY29uc3QgdXVpZHY0ID0gcmVxdWlyZSgndXVpZC92NCcpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogU2VuZCBhIG5vdGlmaWNhdGlvbiB0byB0aGUgdXNlcgogICAgICoKICAgICAqLwogICAgcHJpdmF0ZSBmdW5jdGlvbiBzZW5kTm90aWZpY2F0aW9uKCkKICAgIHsKICAgICAgICBpZiAoJHVzZXIgPSAkdGhpcy0+cGRmLT51c2VyKSB7CiAgICAgICAgICAgICR1c2VyLT5ub3RpZnkobmV3IFJhcHBvcnREb25lKCR0aGlzLT5wZGYpKTsKICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyAkdGhpcy0+cXVlcnlTYWxlc0luZGljZXMoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/attributes/accessories/g</text>
