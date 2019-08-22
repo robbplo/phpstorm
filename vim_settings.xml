@@ -39,6 +39,9 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-api/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php" timestamp="1566480577166">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/vesca/app/Http/Controllers/PdfController.php" timestamp="1566378247659">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
@@ -133,7 +136,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/.env" timestamp="1562936369917">
+      <file name="$USER_HOME$/Projects/pwh-api/.env" timestamp="1566480541693">
         <mark key="[" line="45" column="16" />
         <mark key="]" line="45" column="16" />
         <mark key="." line="45" column="0" />
@@ -277,6 +280,11 @@
         <mark key="]" line="16" column="1" />
         <mark key="." line="16" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-pwa/.env" timestamp="1566480436188">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Users/Events/UserSynced.php" timestamp="1562937530158">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -284,7 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$USER_HOME$/Projects/pwh-api/database/seeds/ProductTableSeeder.php" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/pwh-api/domain/Webhooks/Handlers/ProductSync.php" />
       <jump line="59" column="7" filename="$USER_HOME$/Projects/pwh-api/domain/Webhooks/HookHandler.php" />
       <jump line="33" column="17" filename="$USER_HOME$/Projects/pwh-api/domain/Webhooks/HookHandler.php" />
@@ -384,16 +391,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/materialen/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/UpdateStock.php" />
       <jump line="28" column="13" filename="$USER_HOME$/Projects/materialen/.env" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_prod</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QVBJX1RPS0VOPQo=</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>_prod</text>
+        <text>cockpit.smit.dev</text>
       </register>
       <register name="/" type="4">
         <text>comm</text>
@@ -402,28 +410,28 @@
         <text encoding="base64">ICAgICAgICA8aW1nIHNyYz0ie3tzdG9yYWdlX3BhdGgoICdhcHAvJyAuICRzdGF0aWNfbWFwcyApfX0iPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIGh0dHBcRXhjZXB0aW9uXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">QVBJX1RPS0VOPQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcVmFsaWRhdGlvblxVbmF1dGhvcml6ZWRFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">dXNlIGh0dHBcRXhjZXB0aW9uXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIFJhbXNleVxVdWlkXFV1aWQ7Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcVmFsaWRhdGlvblxVbmF1dGhvcml6ZWRFeGNlcHRpb247Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIFJhbXNleVxVdWlkXFV1aWQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBCdWdzbmFnXEJ1Z3NuYWdMYXJhdmVsXEZhY2FkZXNcQnVnc25hZzo6Y2xhc3MsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBAZW5kaWYK</text>
+        <text encoding="base64">ICAgICAgICBCdWdzbmFnXEJ1Z3NuYWdMYXJhdmVsXEZhY2FkZXNcQnVnc25hZzo6Y2xhc3MsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBAaQogICAgICAgICAgICA8cD5SZWZlcmVuPC9wPgogICAgICAgIEBlbHMK</text>
+        <text encoding="base64">ICAgICAgICBAZW5kaWYK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -443,10 +451,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1nIHNyYz0ie3tzdG9yYWdlX3BhdGgoICdhcHAvJyAuICRzdGF0aWNfbWFwcyApfX0iPgo=</text>
+        <text encoding="base64">ICAgICAgICBAaQogICAgICAgICAgICA8cD5SZWZlcmVuPC9wPgogICAgICAgIEBlbHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7e3N0b3JhZ2VfcGF0aCggJ2FwcC8nIC4gJHN0YXRpY19tYXBzICl9fQo=</text>
+        <text encoding="base64">ICAgICAgICA8aW1nIHNyYz0ie3tzdG9yYWdlX3BhdGgoICdhcHAvJyAuICRzdGF0aWNfbWFwcyApfX0iPgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/attributes/accessories/g</text>
