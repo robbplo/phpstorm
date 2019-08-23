@@ -14,11 +14,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" timestamp="1563352133607">
+      <file name="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" timestamp="1566548028960">
         <mark key="'" line="48" column="33" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
+        <mark key="[" line="72" column="23" />
+        <mark key="]" line="72" column="23" />
+        <mark key="." line="72" column="23" />
         <mark key="^" line="48" column="33" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1563282719569">
@@ -47,6 +47,13 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-pwa/pages/products/_category/_subcategory/_slug/_id/index.vue" timestamp="1566548036345">
+        <mark key="'" line="50" column="46" />
+        <mark key="[" line="46" column="23" />
+        <mark key="]" line="46" column="24" />
+        <mark key="." line="46" column="24" />
+        <mark key="^" line="46" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/config/app.php" timestamp="1562678693287">
         <mark key="[" line="175" column="0" />
         <mark key="]" line="175" column="0" />
@@ -58,12 +65,6 @@
         <mark key="]" line="14" column="32" />
         <mark key="." line="14" column="32" />
         <mark key="^" line="14" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/vesca/storage/logs/laravel.log" timestamp="1566376859953">
-        <mark key="'" line="432" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/webpack.mix.js" timestamp="1562918696591">
         <mark key="[" line="23" column="0" />
@@ -186,6 +187,12 @@
         <mark key="]" line="190" column="0" />
         <mark key="." line="190" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-pwa/nuxt.config.js" timestamp="1566547465803">
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/events-api/subscriptions/handlers/getSubscriberExport.js" timestamp="1566478381318">
         <mark key="[" line="88" column="90" />
       </file>
@@ -221,6 +228,7 @@
         <mark key="]" line="145" column="23" />
         <mark key="." line="145" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-pwa/pages/products.vue" timestamp="1566547784266" />
       <file name="$USER_HOME$/Projects/facade/config/facade.php" timestamp="1562590797504">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -280,6 +288,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-cart/sidebar.vue" timestamp="1566547473677">
+        <mark key="[" line="34" column="46" />
+        <mark key="]" line="34" column="46" />
+        <mark key="." line="34" column="46" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Users/Events/UserSynced.php" timestamp="1562937530158">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -287,7 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/Projects/pwh-api/domain/Webhooks/Handlers/ProductSync.php" />
       <jump line="59" column="7" filename="$USER_HOME$/Projects/pwh-api/domain/Webhooks/HookHandler.php" />
       <jump line="33" column="17" filename="$USER_HOME$/Projects/pwh-api/domain/Webhooks/HookHandler.php" />
       <jump line="22" column="12" filename="$USER_HOME$/Projects/pwh-api/domain/Webhooks/HookHandler.php" />
@@ -387,16 +399,17 @@
       <jump line="13" column="0" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/UpdateStock.php" />
       <jump line="28" column="13" filename="$USER_HOME$/Projects/materialen/.env" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php" />
+      <jump line="50" column="46" filename="$USER_HOME$/Projects/pwh-pwa/pages/products/_category/_subcategory/_slug/_id/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QVBJX1RPS0VOPQo=</text>
+      <register name="&quot;" type="4">
+        <text>show</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>cockpit.smit.dev</text>
+        <text>show</text>
       </register>
       <register name="/" type="4">
         <text>comm</text>
@@ -405,28 +418,28 @@
         <text encoding="base64">ICAgICAgICA8aW1nIHNyYz0ie3tzdG9yYWdlX3BhdGgoICdhcHAvJyAuICRzdGF0aWNfbWFwcyApfX0iPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QVBJX1RPS0VOPQo=</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIGh0dHBcRXhjZXB0aW9uXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgJ0BiYWJlbC9wbHVnaW4tcHJvcG9zYWwtb3B0aW9uYWwtY2hhaW5pbmcnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcVmFsaWRhdGlvblxVbmF1dGhvcml6ZWRFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">QVBJX1RPS0VOPQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIFJhbXNleVxVdWlkXFV1aWQ7Cg==</text>
+        <text encoding="base64">dXNlIGh0dHBcRXhjZXB0aW9uXEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcVmFsaWRhdGlvblxVbmF1dGhvcml6ZWRFeGNlcHRpb247Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCdWdzbmFnXEJ1Z3NuYWdMYXJhdmVsXEZhY2FkZXNcQnVnc25hZzo6Y2xhc3MsCg==</text>
+        <text encoding="base64">dXNlIFJhbXNleVxVdWlkXFV1aWQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBAZW5kaWYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -446,10 +459,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBAaQogICAgICAgICAgICA8cD5SZWZlcmVuPC9wPgogICAgICAgIEBlbHMK</text>
+        <text encoding="base64">ICAgICAgICBCdWdzbmFnXEJ1Z3NuYWdMYXJhdmVsXEZhY2FkZXNcQnVnc25hZzo6Y2xhc3MsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1nIHNyYz0ie3tzdG9yYWdlX3BhdGgoICdhcHAvJyAuICRzdGF0aWNfbWFwcyApfX0iPgo=</text>
+        <text encoding="base64">ICAgICAgICBAZW5kaWYK</text>
       </register>
       <register name=":" type="4">
         <text>s/attributes/accessories/g</text>
