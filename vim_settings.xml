@@ -9,6 +9,12 @@
         <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/app/Console/Commands/UpdateApplicationLimits.php" timestamp="1566375294245" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/pages/checkout.vue" timestamp="1566552689099">
+        <mark key="[" line="180" column="44" />
+        <mark key="]" line="183" column="11" />
+        <mark key="^" line="183" column="11" />
+        <mark key="." line="183" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Stores/Http/Controllers/StoreController.php" timestamp="1562143987847">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -295,6 +301,7 @@
         <mark key="." line="17" column="64" />
         <mark key="^" line="17" column="64" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-pwa/.editorconfig" timestamp="1566551873974" />
       <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-cart/sidebar.vue" timestamp="1566547473677">
         <mark key="[" line="34" column="46" />
         <mark key="]" line="34" column="46" />
@@ -415,14 +422,14 @@
       <jump line="13" column="0" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>AddressController::</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>AddressController::</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>comm</text>
@@ -431,28 +438,30 @@
         <text>\Domain\Addresses\Http\Controllers\AddressController::class,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIERvbWFpblxBZGRyZXNzZXNcSHR0cFxDb250cm9sbGVyc1xBZGRyZXNzQ29udHJvbGxlcjsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkYWRkcmVzc2VzID0gQWRkcmVzczo6d2hlcmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBtb3VudGVkKCkgewogICAgICAgICAgICB0aGlzLnNldEFjdGl2ZSgpOwogICAgICAgIH0sCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>() {
+                this.setActive();
+            },</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb3VudGVkKCkgewogICAgICAgICAgICB0aGlzLnNldEFjdGl2ZSgpOwogICAgICAgIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiAK</text>
+        <text encoding="base64">ICAgICAgICB9IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXENhY2hlOwp1c2UgU3BhdGllXFF1ZXJ5QnVpbGRlclxRdWVyeUJ1aWxkZXI7Cg==</text>
+        <text encoding="base64">dXNlIERvbWFpblxBZGRyZXNzZXNcSHR0cFxDb250cm9sbGVyc1xBZGRyZXNzQ29udHJvbGxlcjsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owp1c2UgU3BhdGllXFF1ZXJ5QnVpbGRlclxTb3J0Owp1c2UgU3BhdGllXFF1ZXJ5QnVpbGRlclxGaWx0ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYWRkcmVzc2VzID0gQWRkcmVzczo6d2hlcmUoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -472,10 +481,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJ0BiYWJlbC9wbHVnaW4tcHJvcG9zYWwtb3B0aW9uYWwtY2hhaW5pbmcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/attributes/accessories/g</text>
