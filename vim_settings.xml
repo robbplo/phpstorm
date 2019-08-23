@@ -38,12 +38,6 @@
         <mark key="]" line="175" column="0" />
         <mark key="." line="175" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/storage/logs/laravel.log" timestamp="1566376859953">
-        <mark key="'" line="432" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Handlers/ProductSync.php" timestamp="1563193011864">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
@@ -56,11 +50,12 @@
         <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/resources/sass/_fonts.scss" timestamp="1566374451393" />
-      <file name="$USER_HOME$/Projects/pwh-pwa/pages/checkout/index.vue" timestamp="1566567149598">
-        <mark key="'" line="239" column="15" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="18" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/pages/checkout/index.vue" timestamp="1566570161799">
+        <mark key="'" line="243" column="15" />
+        <mark key="[" line="24" column="72" />
+        <mark key="]" line="24" column="72" />
+        <mark key="." line="24" column="72" />
+        <mark key="^" line="25" column="83" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/resources/views/report/index.blade.php" timestamp="1562919175890">
         <mark key="[" line="15" column="0" />
@@ -601,44 +596,44 @@
       <jump line="227" column="15" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/index.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Kies een afleveradres</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>class= uk-grid</text>
+        <text>Kies een afleveradres</text>
       </register>
       <register name="/" type="4">
         <text>uk</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NhbHV0YXRpb24nID0+IFsncmVxdWlyZWQnLCAnaW46MSwyJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstZmxleCB1ay1mbGV4LWNvbHVtbiB1ay13aWR0aC0xLTIiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9InVrLXdpZHRoLTEtMiI+CiAgICAgICAgICAgIDxidXR0b24gY2xhc3M9InVrLWJ1dHRvbiB1ay1idXR0b24tcHJpbWFyeSIgdHlwZT0iYnV0dG9uIiB1ay10b2dnbGU9InRhcmdldDogI21vZGFsLWFkZHJlc3MiPktpZXMgZWVuIGFmbGV2ZXJhZHJlczwvYnV0dG9uPgogICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJ1ay1idXR0b24gdWstYnV0dG9uLXByaW1hcnkiIHR5cGU9ImJ1dHRvbiIgdWstdG9nZ2xlPSJ0YXJnZXQ6ICNtb2RhbC1hZGRyZXNzIj5LaWVzIGVlbiBhZmxldmVyYWRyZXM8L2J1dHRvbj4KICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aHIgY2xhc3M9InVrLWRpdmlkZXItdmVydGljYWwiPgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CjwhLS0gICAgICAgICAgICA8cD57e2FkZHJlc3N9fTwvcD4tLT4K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aHIgY2xhc3M9InVrLWRpdmlkZXItdmVydGljYWwiPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CjwhLS0gICAgICAgICAgICA8cD57e2FkZHJlc3N9fTwvcD4tLT4K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstZmxleCB1ay1mbGV4LWNvbHVtbiB1ay13aWR0aC0yLTMiPgogICAgICAgICAgICAgICAgPHNwYW4+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gdi1pZj0iYWRkcmVzcy5zYWx1dGF0aW9uID09PSAxIj57eyAkdCgnY2hlY2tvdXQuc2hpcHBpbmcuc2FsdXRhdGlvbi5tcicpIH19PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDxzcGFuIHYtZWxzZT57eyAkdCgnY2hlY2tvdXQuc2hpcHBpbmcuc2FsdXRhdGlvbi5tcicpIH19PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDxzcGFuPnt7IGFkZHJlc3MuaW5pdGlhbHMgfX0ge3sgYWRkcmVzcy5zdXJuYW1lIH19PC9zcGFuPgogICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgPHNwYW4+e3sgYWRkcmVzcy5zdHJlZXQgfX0ge3sgYWRkcmVzcy5ob3VzZV9udW1iZXIgfX08L3NwYW4+CiAgICAgICAgICAgICAgICA8c3Bhbj57eyBhZGRyZXNzLnppcGNvZGUgfX0ge3sgYWRkcmVzcy5jaXR5IH19PC9zcGFuPgoKICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay13aWR0aC0xLTMiPgogICAgICAgICAgICAgICAga3JhbnQKICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxociB2LWlmPSJpbmRleCArIDEgIT09IGFkZHJlc3Nlcy5sZW5ndGgiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstZmxleCB1ay1mbGV4LWNvbHVtbiB1ay13aWR0aC0yLTMiPgogICAgICAgICAgICAgICAgPHNwYW4+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gdi1pZj0iYWRkcmVzcy5zYWx1dGF0aW9uID09PSAxIj57eyAkdCgnY2hlY2tvdXQuc2hpcHBpbmcuc2FsdXRhdGlvbi5tcicpIH19PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDxzcGFuIHYtZWxzZT57eyAkdCgnY2hlY2tvdXQuc2hpcHBpbmcuc2FsdXRhdGlvbi5tcicpIH19PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDxzcGFuPnt7IGFkZHJlc3MuaW5pdGlhbHMgfX0ge3sgYWRkcmVzcy5zdXJuYW1lIH19PC9zcGFuPgogICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgPHNwYW4+e3sgYWRkcmVzcy5zdHJlZXQgfX0ge3sgYWRkcmVzcy5ob3VzZV9udW1iZXIgfX08L3NwYW4+CiAgICAgICAgICAgICAgICA8c3Bhbj57eyBhZGRyZXNzLnppcGNvZGUgfX0ge3sgYWRkcmVzcy5jaXR5IH19PC9zcGFuPgoKICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay13aWR0aC0xLTMiPgogICAgICAgICAgICAgICAga3JhbnQKICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -658,10 +653,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdj48L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxociB2LWlmPSJpbmRleCArIDEgIT09IGFkZHJlc3Nlcy5sZW5ndGgiPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7aW5kZXh9fSB7e2FkZHJlc3Nlcy5sZW5ndGh9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdj48L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>s/attributes/accessories/g</text>
