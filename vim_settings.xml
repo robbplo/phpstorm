@@ -78,10 +78,10 @@
         <mark key="." line="20" column="49" />
         <mark key="^" line="20" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/pages/checkout/confirm.vue" timestamp="1566984113245">
-        <mark key="[" line="62" column="14" />
-        <mark key="]" line="62" column="14" />
-        <mark key="." line="62" column="14" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/pages/checkout/confirm.vue" timestamp="1566985447854">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
         <mark key="^" line="62" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/resources/views/report/_pages/credentials.blade.php" timestamp="1562846402962">
@@ -127,12 +127,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" timestamp="1566982415506">
-        <mark key="'" line="367" column="82" />
-        <mark key="[" line="367" column="73" />
-        <mark key="]" line="367" column="71" />
-        <mark key="^" line="367" column="71" />
-        <mark key="." line="367" column="71" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" timestamp="1566987549513">
+        <mark key="'" line="403" column="23" />
+        <mark key="[" line="97" column="96" />
+        <mark key="]" line="97" column="95" />
+        <mark key="^" line="97" column="95" />
+        <mark key="." line="97" column="95" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Users/Http/Handlers/UserSync.php" timestamp="1562937631248">
         <mark key="[" line="34" column="0" />
@@ -183,7 +183,7 @@
         <mark key="." line="12" column="41" />
         <mark key="^" line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/pages/checkout/billing.vue" timestamp="1566983996141">
+      <file name="$USER_HOME$/Projects/pwh-pwa/pages/checkout/billing.vue" timestamp="1566985372371">
         <mark key="'" line="181" column="37" />
         <mark key="[" line="205" column="0" />
         <mark key="k" line="13" column="39" />
@@ -251,11 +251,11 @@
         <mark key="." line="60" column="59" />
         <mark key="^" line="60" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/nuxt.config.js" timestamp="1566547465803">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
-        <mark key="^" line="33" column="0" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/nuxt.config.js" timestamp="1566985592989">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="55" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Accessories/Http/Resources/Accessory.php" timestamp="1563196559149">
         <mark key="[" line="20" column="79" />
@@ -299,6 +299,12 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-pwa/plugins/vee-validate.js" timestamp="1566987878835">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Addresses/Http/Controllers/AddressController.php" timestamp="1566822735630">
         <mark key="'" line="30" column="34" />
         <mark key="[" line="36" column="48" />
@@ -313,9 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="432" column="0" filename="$USER_HOME$/Projects/vesca/storage/logs/laravel.log" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/materialen/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php" />
-      <jump line="13" column="0" filename="$USER_HOME$/Projects/materialen/app/Console/Commands/UpdateStock.php" />
       <jump line="28" column="13" filename="$USER_HOME$/Projects/materialen/.env" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php" />
       <jump line="50" column="46" filename="$USER_HOME$/Projects/pwh-pwa/pages/products/_category/_subcategory/_slug/_id/index.vue" />
@@ -413,46 +416,54 @@
       <jump line="181" column="37" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/billing.vue" />
       <jump line="367" column="82" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" />
       <jump line="53" column="0" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/index.vue" />
+      <jump line="365" column="37" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" />
+      <jump line="392" column="23" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/pwh-pwa/plugins/vee-validate.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzaGlwcGluZycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>shipping</text>
+        <text>label</text>
       </register>
       <register name="/" type="4">
-        <text>SHIP</text>
+        <text>en</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCF0aGlzLnNoaXBwaW5nU2VsZWN0ZWQpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLiRyb3V0ZXIucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgcGF0aDogdGhpcy5sb2NhbGVQYXRoKHsKICAgICAgICAgICAgICAgICAgICAgICAgbmFtZTogJ2NoZWNrb3V0JwogICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGVuIGZyb20gJ3ZlZS12YWxpZGF0ZS9kaXN0L2xvY2FsZS9lbicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzaGlwcGluZycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhKCkgewogICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgICAgZm9ybTogewogICAgICAgICAgICAgICAgICAgIG5vdGVzOiAnJywKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfTsKICAgICAgICB9LAogICAgICAgIG1ldGhvZHM6IHsKICAgICAgICAgICAgY29uZmlybSgpIHsKCiAgICAgICAgICAgIH0sCiAgICAgICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVidWdnZXIK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>{
+    dictionary: {
+        en,
+        nl,
+    }
+}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3t9fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vdGVzOiAnJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3ZhbGlkYXRpb24tcHJvdmlkZXI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpdGxlOiAnQ2hlY2tvdXQgLSBDb25maXJtIE9yZGVyIHwgJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dmFsaWRhdGlvbi1wcm92aWRlciBydWxlcz0icmVxdWlyZWQiIHYtc2xvdD0ieyBlcnJvcnMgfSI+Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -472,28 +483,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hlY2tvdXQuc2hpcHBpbmcubWVzc2FnZS5wbGFjZWhvbGRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlybSgpIHsKICAgICAgICAgICAgICAgIC8vIHJldHVybiB0aGlzLiRyb3V0ZXIucHVzaCh7cGF0aDogdGhpcy5sb2NhbGVQYXRoKHtuYW1lOiAnY2hlY2tvdXQtcGF5bWVudCd9KX0pOwogICAgICAgICAgICAgICAgcmV0dXJuIHRoaXMuJGF4aW9zLiRnZXQoJ3Rlc3RzL21vbGxpZS1wYXltZW50JykKICAgICAgICAgICAgICAgICAgICAudGhlbigoZGF0YSkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICB0aGlzLiRyb3V0ZXIucmVwbGFjZShkYXRhLnJlZGlyZWN0KTsKICAgICAgICAgICAgICAgICAgICB9KS5jYXRjaCgoZXJyb3IpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ21vbGxpZS5wYXltZW50JywgZXJyb3IpOwogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHZhbGlkYXRpb24tcHJvdmlkZXIgcnVsZXM9IiI+PC92YWxpZGF0aW9uLXByb3ZpZGVyPgo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3Jlc3BvbnNlL3Jlcy9n</text>
+        <text>s/en/nl/g</text>
       </register>
     </registers>
     <search>
-      <last-search>SHIP</last-search>
+      <last-search>en</last-search>
       <last-offset />
-      <last-pattern>SHIP</last-pattern>
-      <last-replace>res</last-replace>
-      <last-substitute>response</last-substitute>
+      <last-pattern>en</last-pattern>
+      <last-replace>nl</last-replace>
+      <last-substitute>en</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>selectA</entry>
-        <entry>subm</entry>
         <entry>sub</entry>
         <entry>tr</entry>
         <entry>bew</entry>
@@ -512,10 +521,10 @@
         <entry>po</entry>
         <entry>sh</entry>
         <entry>SHIP</entry>
+        <entry>checkout</entry>
+        <entry>en</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0N1c3RvbWVyL1Byb2R1Y3QvZw==</entry>
-        <entry>s/accessory/attribute/g</entry>
         <entry>s/up/upId/g</entry>
         <entry encoding="base64">JzwsJz5zL2N1c3RvbWVyL3Byb2R1Y3QvZw==</entry>
         <entry>s/type/vendor/g</entry>
@@ -534,6 +543,8 @@
         <entry>s/'/&quot;/g</entry>
         <entry>response</entry>
         <entry encoding="base64">JzwsJz5zL3Jlc3BvbnNlL3Jlcy9n</entry>
+        <entry encoding="base64">JzwsJz5zL2NoZWNrb3V0Ly9n</entry>
+        <entry>s/en/nl/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
