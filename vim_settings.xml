@@ -160,12 +160,13 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" timestamp="1567061957399">
-        <mark key="k" line="403" column="17" />
-        <mark key="[" line="81" column="39" />
-        <mark key="]" line="84" column="59" />
-        <mark key="." line="84" column="59" />
-        <mark key="^" line="84" column="59" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" timestamp="1567063654151">
+        <mark key="'" line="368" column="41" />
+        <mark key="k" line="407" column="17" />
+        <mark key="[" line="72" column="43" />
+        <mark key="]" line="72" column="69" />
+        <mark key="." line="72" column="69" />
+        <mark key="^" line="72" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Users/Http/Handlers/UserSync.php" timestamp="1562937631248">
         <mark key="[" line="34" column="0" />
@@ -235,6 +236,14 @@
         <mark key="]" line="12" column="41" />
         <mark key="." line="12" column="41" />
         <mark key="^" line="12" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/pwh-pwa/pages/checkout/billing.vue" timestamp="1566985372371">
+        <mark key="'" line="181" column="37" />
+        <mark key="[" line="205" column="0" />
+        <mark key="k" line="13" column="39" />
+        <mark key="]" line="211" column="13" />
+        <mark key="^" line="212" column="11" />
+        <mark key="." line="215" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_08_28_124611_modify_addresses_table.php" timestamp="1566996474474">
         <mark key="[" line="17" column="40" />
@@ -410,7 +419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/index.vue" />
       <jump line="37" column="1" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/index.vue" />
       <jump line="39" column="59" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/index.vue" />
       <jump line="40" column="0" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/index.vue" />
@@ -441,7 +449,6 @@
       <jump line="336" column="15" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" />
       <jump line="86" column="8" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/index.vue" />
       <jump line="197" column="33" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" />
-      <jump line="368" column="16" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" />
       <jump line="376" column="35" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" />
       <jump line="407" column="0" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" />
       <jump line="10" column="20" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" />
@@ -510,16 +517,18 @@
       <jump line="257" column="55" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/pwh-api/domain/Orders/Http/Requests/CreateOrderWithCartRequest.php" />
       <jump line="322" column="33" filename="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" />
+      <jump line="27" column="0" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" />
+      <jump line="368" column="41" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nuxt-edge</text>
+        <text>checkout.shipping.company</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>nuxt-edge</text>
+        <text>checkout.shipping.company</text>
       </register>
       <register name="/" type="4">
         <text>data</text>
@@ -528,28 +537,28 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2NvbmZpZ3VyYXRpb24uKicgPT4gJ2V4aXN0czphdHRyaWJ1dGVzLHVpZCcsCiAgICAgICAgICAgICdhY2Nlc3Nvcmllcy4qLmlkJyA9PiAnZXhpc3RzOmFjY2Vzc29yaWVzLHVpZCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFkcmVzIHRvZXZvZWdlbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcXVhbnRpdHkgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcXVhbnRpdHkgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coewogICAgICAgIG5ld0NvbmZpZzogcHJvZHVjdC5zZWxlY3RlZEF0dHJpYnV0ZXMsCiAgICAgICAgZXhpc3RpbmdDb25maWc6IGV4aXN0aW5nUHJvZHVjdC5wcm9kdWN0LnNlbGVjdGVkQXR0cmlidXRlcywKICAgICAgICBleGlzdGluZ1Byb2R1Y3QsCiAgICAgICAgcXVhbnRpdHksCiAgICAgICAgJ25ld1F1YW50aXR5JzogZXhpc3RpbmdQcm9kdWN0LnF1YW50aXR5ICsgcXVhbnRpdHksCiAgICAgICAgJ2lkJzogZXhpc3RpbmdQcm9kdWN0LmlkCiAgICAgIH0pOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coewogICAgICAgIG5ld0NvbmZpZzogcHJvZHVjdC5zZWxlY3RlZEF0dHJpYnV0ZXMsCiAgICAgICAgZXhpc3RpbmdDb25maWc6IGV4aXN0aW5nUHJvZHVjdC5wcm9kdWN0LnNlbGVjdGVkQXR0cmlidXRlcywKICAgICAgICBleGlzdGluZ1Byb2R1Y3QsCiAgICAgICAgcXVhbnRpdHksCiAgICAgICAgJ25ld1F1YW50aXR5JzogZXhpc3RpbmdQcm9kdWN0LnF1YW50aXR5ICsgcXVhbnRpdHksCiAgICAgICAgJ2lkJzogZXhpc3RpbmdQcm9kdWN0LmlkCiAgICAgIH0pOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHJldHVybiB0aGlzLiRheGlvcy4kcG9zdCgnL2FwaS9vcmRlcnMnLCB7CiAgICAgICAgICAgICAgICAvLyAgICAgcmVmZXJlbmNlOiAneHl6JywKICAgICAgICAgICAgICAgIC8vICAgICBub3RlczogdGhpcy5ub3RlcywKICAgICAgICAgICAgICAgIC8vICAgICBjdXN0b21lcl9pZDogJ2JhYTQ2ODBkNjExODRjZjBiOGNlMzdjMmJkZTI4ZDE5JywKICAgICAgICAgICAgICAgIC8vICAgICBzaGlwcGluZ19hZGRyZXNzX2lkOiB0aGlzLnNoaXBwaW5nX2FkZHJlc3NfaWQsCiAgICAgICAgICAgICAgICAvLyAgICAgYmlsbGluZ19hZGRyZXNzX2lkOiB0aGlzLnNoaXBwaW5nX2FkZHJlc3NfaWQsCiAgICAgICAgICAgICAgICAvLyAgICAgc3RvcmVfaWQ6IHByb2Nlc3MuZW52LlNUT1JFX0lELAogICAgICAgICAgICAgICAgLy8gfSkKICAgICAgICAgICAgICAgIC8vICAgICAudGhlbihvcmRlclJlc3BvbnNlID0+IHsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgdGhpcy4kcm91dGVyLnB1c2goewogICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgcGF0aDogdGhpcy5sb2NhbGVQYXRoKHsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICBuYW1lOiAnY2hlY2tvdXQtYmlsbGluZycKICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAvLyAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgLy8gICAgIH0pCiAgICAgICAgICAgICAgICAvLyAgICAgLmNhdGNoKChlcnJvcikgPT4gewogICAgICAgICAgICAgICAgLy8gICAgICAgICBjb25zb2xlLmxvZygnYXBpL29yZGVycycsIGVycm9yKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICB9KTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -569,10 +578,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGNhcnQgPSB0aGlzLiRzdG9yZS5zdGF0ZS5jYXJ0LmNvbnRlbnRzLm1hcChpdGVtID0+IHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgICAgICAgICAgICBwcm9kdWN0X2lkOiBpdGVtLnByb2R1Y3QuX2lkLAogICAgICAgICAgICAgICAgICAgICAgICBxdHk6IGl0ZW0ucXVhbnRpdHksCgogICAgICAgICAgICAgICAgICAgICAgICAvLyAnY29uZmlndXJhdGlvbi4qJyA9PiAnZXhpc3RzOmF0dHJpYnV0ZXMsdWlkJywKICAgICAgICAgICAgICAgICAgICAgICAgLy8gJ2FjY2Vzc29yaWVzLiouaWQnID0+ICdleGlzdHM6YWNjZXNzb3JpZXMsdWlkJwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHJldHVybiB0aGlzLiRheGlvcy4kcG9zdCgnL2FwaS9vcmRlcnMnLCB7CiAgICAgICAgICAgICAgICAvLyAgICAgcmVmZXJlbmNlOiAneHl6JywKICAgICAgICAgICAgICAgIC8vICAgICBub3RlczogdGhpcy5ub3RlcywKICAgICAgICAgICAgICAgIC8vICAgICBjdXN0b21lcl9pZDogJ2JhYTQ2ODBkNjExODRjZjBiOGNlMzdjMmJkZTI4ZDE5JywKICAgICAgICAgICAgICAgIC8vICAgICBzaGlwcGluZ19hZGRyZXNzX2lkOiB0aGlzLnNoaXBwaW5nX2FkZHJlc3NfaWQsCiAgICAgICAgICAgICAgICAvLyAgICAgYmlsbGluZ19hZGRyZXNzX2lkOiB0aGlzLnNoaXBwaW5nX2FkZHJlc3NfaWQsCiAgICAgICAgICAgICAgICAvLyAgICAgc3RvcmVfaWQ6IHByb2Nlc3MuZW52LlNUT1JFX0lELAogICAgICAgICAgICAgICAgLy8gfSkKICAgICAgICAgICAgICAgIC8vICAgICAudGhlbihvcmRlclJlc3BvbnNlID0+IHsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgdGhpcy4kcm91dGVyLnB1c2goewogICAgICAgICAgICAgICAgLy8gICAgICAgICAgICAgcGF0aDogdGhpcy5sb2NhbGVQYXRoKHsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICBuYW1lOiAnY2hlY2tvdXQtYmlsbGluZycKICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAvLyAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgLy8gICAgIH0pCiAgICAgICAgICAgICAgICAvLyAgICAgLmNhdGNoKChlcnJvcikgPT4gewogICAgICAgICAgICAgICAgLy8gICAgICAgICBjb25zb2xlLmxvZygnYXBpL29yZGVycycsIGVycm9yKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGF4X2lkOiAwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGNhcnQgPSB0aGlzLiRzdG9yZS5zdGF0ZS5jYXJ0LmNvbnRlbnRzLm1hcChpdGVtID0+IHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgICAgICAgICAgICBwcm9kdWN0X2lkOiBpdGVtLnByb2R1Y3QuX2lkLAogICAgICAgICAgICAgICAgICAgICAgICBxdHk6IGl0ZW0ucXVhbnRpdHksCgogICAgICAgICAgICAgICAgICAgICAgICAvLyAnY29uZmlndXJhdGlvbi4qJyA9PiAnZXhpc3RzOmF0dHJpYnV0ZXMsdWlkJywKICAgICAgICAgICAgICAgICAgICAgICAgLy8gJ2FjY2Vzc29yaWVzLiouaWQnID0+ICdleGlzdHM6YWNjZXNzb3JpZXMsdWlkJwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/en/nl/g</text>
