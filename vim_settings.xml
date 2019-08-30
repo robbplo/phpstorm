@@ -248,10 +248,12 @@
         <mark key="]" line="177" column="0" />
         <mark key="." line="177" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/routes/web.php" timestamp="1567173065888">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Projects/materialen/routes/web.php" timestamp="1567175860421">
+        <mark key="'" line="21" column="15" />
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="22" column="39" />
+        <mark key="." line="22" column="39" />
+        <mark key="^" line="22" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Webhooks/EloquentHookHandler.php" timestamp="1562681884443">
         <mark key="[" line="21" column="0" />
@@ -283,11 +285,11 @@
         <mark key="." line="22" column="14" />
         <mark key="^" line="73" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/infrastructure/AuthClient.php" timestamp="1567173246610">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="3" />
-        <mark key="." line="14" column="3" />
-        <mark key="^" line="14" column="3" />
+      <file name="$USER_HOME$/Projects/materialen/infrastructure/AuthClient.php" timestamp="1567175517030">
+        <mark key="[" line="16" column="56" />
+        <mark key="]" line="16" column="48" />
+        <mark key="." line="16" column="48" />
+        <mark key="^" line="16" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/resources/sass/shared.scss" timestamp="1566374815412">
         <mark key="[" line="0" column="0" />
@@ -300,7 +302,7 @@
         <mark key="." line="17" column="40" />
         <mark key="^" line="17" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/api/v1/Middleware/SmitAuth.php" timestamp="1567172969199">
+      <file name="$USER_HOME$/Projects/materialen/api/v1/Middleware/SmitAuth.php" timestamp="1567175431121">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="49" />
@@ -401,12 +403,12 @@
         <mark key="^" line="68" column="34" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/auth.smit/routes/api.php" timestamp="1567172625523">
+      <file name="$USER_HOME$/Projects/auth.smit/routes/api.php" timestamp="1567175553008">
         <mark key="'" line="9" column="10" />
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="12" column="3" />
-        <mark key="." line="12" column="3" />
-        <mark key="^" line="12" column="3" />
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="10" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/auth.smit/api/v1/Account/Resources/UserResource.php" timestamp="1567172409587" />
       <file name="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" timestamp="1562313014588">
@@ -524,7 +526,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="389" column="40" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" />
       <jump line="411" column="23" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" />
       <jump line="27" column="52" filename="$USER_HOME$/Projects/pwh-api/domain/Addresses/Http/Requests/UpdateAddressRequest.php" />
       <jump line="130" column="39" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
@@ -624,46 +625,49 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/materialen/.env.example" />
       <jump line="63" column="43" filename="$USER_HOME$/Projects/materialen/api/v1/Middleware/SmitAuth.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/materialen/api/v1/Middleware/SmitAuth.php" />
+      <jump line="21" column="15" filename="$USER_HOME$/Projects/materialen/routes/web.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$token</text>
+        <text>['access_token'];</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>$token</text>
+        <text>['access_token'];</text>
       </register>
       <register name="/" type="4">
-        <text>a</text>
+        <text>map</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Jhc2VfdXJpJyA9PiBjb25maWcoJ2FwcC5hdXRoX3VybCcpLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbl9kZWNvZGUoKHN0cmluZykgJHJlc3BvbnNlLT5nZXRCb2R5KCksIHRydWUpWydhY2Nlc3NfdG9rZW4nXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBqc29uX2RlY29kZSgoc3RyaW5nKSAkcmVzcG9uc2UtPmdldEJvZHkoKSwgdHJ1ZSlbJ2FjY2Vzc190b2tlbiddOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZ3V6emxlID0gbmV3IENsaWVudCgpOwogICAgCiAgICAgICAgJHJlc3BvbnNlID0gJGd1enpsZS0+cG9zdChjb25maWcoJ2FwcC5hdXRoX3VybCcpIC4gJ3Rva2VuJywgWwogICAgICAgICAgICAnZm9ybV9wYXJhbXMnID0+IFsKICAgICAgICAgICAgICAgICdncmFudF90eXBlJyA9PiAnY2xpZW50X2NyZWRlbnRpYWxzJywKICAgICAgICAgICAgICAgICdjbGllbnRfaWQnID0+IGVudignQVVUSF9FWFBPUlRfQ0xJRU5UX0lEJyksCiAgICAgICAgICAgICAgICAnY2xpZW50X3NlY3JldCcgPT4gZW52KCdBVVRIX0VYUE9SVF9DTElFTlRfU0VDUkVUJyksCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICd2ZXJpZnknID0+IGZhbHNlLAogICAgICAgIF0pOwogICAgCiAgICAgICAgJHRva2VuID0ganNvbl9kZWNvZGUoKHN0cmluZykgJHJlc3BvbnNlLT5nZXRCb2R5KCksIHRydWUpWydhY2Nlc3NfdG9rZW4nXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Jhc2VfdXJpJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAvLyBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoKQogICAgLy8gewogICAgLy8gfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gJ3Njb3BlJyA9PiAneW91ci1zY29wZScsCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiBuZXcgcGFyZW50KCk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>[
+
+        ]</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAvLyAtPmdldCgnL3VzZXJzP1tpZF09b3NkaWZqYXNpb2RmLGFvc2tkb2Frc2RvLGRhb3NrZGFva3NkbycpCgogICAgICAgIC8vIGlmICghcmVxdWVzdCgpLT5oYXNIZWFkZXIoJ0F1dGhvcml6YXRpb24nKSkgewogICAgICAgIC8vICAgICB0aHJvdyBuZXcgVW5hdXRob3JpemVkRXhjZXB0aW9uKCk7CiAgICAgICAgLy8gfQogICAgICAgIC8vCiAgICAgICAgLy8gWyR0eXBlLCAkdG9rZW5dID0gZXhwbG9kZSgnICcsIHJlcXVlc3QoKS0+aGVhZGVyKCdBdXRob3JpemF0aW9uJykpOwogICAgICAgIC8vCiAgICAgICAgLy8gaWYgKCR0eXBlICE9PSAnQmVhcmVyJykgewogICAgICAgIC8vICAgICB0aHJvdyBuZXcgVW5hdXRob3JpemVkRXhjZXB0aW9uKCk7CiAgICAgICAgLy8gfSAgICA=</text>
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2hlYWRlcnMnID0+IFsKICAgICAgICAgICAgICAgICAgICAnQXV0aG9yaXphdGlvbicgPT4gIkJlYXJlciB7JHRva2VufSIsCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgIF0=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgICRndXp6bGUgPSBuZXcgR3V6emxlSHR0cFxDbGllbnQ7CgogICAgJHJlc3BvbnNlID0gJGd1enpsZS0+cG9zdChjb25maWcoJ2FwcC5hdXRoX3VybCcpIC4gJ3Rva2VuJywgWwogICAgICAgICdmb3JtX3BhcmFtcycgPT4gWwogICAgICAgICAgICAnZ3JhbnRfdHlwZScgPT4gJ2NsaWVudF9jcmVkZW50aWFscycsCiAgICAgICAgICAgICdjbGllbnRfaWQnID0+IGVudignQVVUSF9FWFBPUlRfQ0xJRU5UX0lEJyksCiAgICAgICAgICAgICdjbGllbnRfc2VjcmV0JyA9PiBlbnYoJ0FVVEhfRVhQT1JUX0NMSUVOVF9TRUNSRVQnKSwKICAgICAgICAgICAgLy8gJ3Njb3BlJyA9PiAneW91ci1zY29wZScsCiAgICAgICAgXSwKICAgICAgICAndmVyaWZ5JyA9PiBmYWxzZSwKICAgIF0pOwoKICAgIHJldHVybiBqc29uX2RlY29kZSgoc3RyaW5nKSAkcmVzcG9uc2UtPmdldEJvZHkoKSwgdHJ1ZSlbJ2FjY2Vzc190b2tlbiddOw==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgJHRva2VuID0gQ2FjaGU6OnJlbWVtYmVyKCdhdXRoX2NsaWVudF9jcmVkZW50aWFscycsIDM2MDAsIGZ1bmN0aW9uICgpIHsKICAgICAgICAvLyAgICAgICAgIHJldHVybiAkdGhpcy0+Y3JlYXRlQWNjZXNzVG9rZW4oKTsKICAgICAgICAvLyAgICAgfSk7CiAgICAgICAgLy8KICAgICAgICAvLyAgICAgcmV0dXJuIG5ldyBwYXJlbnQoWwogICAgICAgIC8vICAgICAgICAgJ2hlYWRlcnMnID0+IFsKICAgICAgICAvLyAgICAgICAgICAgICAnQXV0aG9yaXphdGlvbicgPT4gIkJlYXJlciB7JHRva2VufSIsCiAgICAgICAgLy8gICAgICAgICBdCiAgICAgICAgLy8gICAgIF0pOw==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -683,19 +687,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdiYXNlX3VyaScgPT4gCg==</text>
+        <text encoding="base64">ICAgIC8vICAgICAkdG9rZW4gPSBDYWNoZTo6cmVtZW1iZXIoJ2F1dGhfY2xpZW50X2NyZWRlbnRpYWxzJywgMzYwMCwgZnVuY3Rpb24gKCkgewogICAgLy8gICAgICAgICByZXR1cm4gJHRoaXMtPmNyZWF0ZUFjY2Vzc1Rva2VuKCk7CiAgICAvLyAgICAgfSk7CiAgICAvLwogICAgLy8gICAgIHJldHVybiBuZXcgcGFyZW50KFsKICAgIC8vICAgICAgICAgJ2hlYWRlcnMnID0+IFsKICAgIC8vICAgICAgICAgICAgICdBdXRob3JpemF0aW9uJyA9PiAiQmVhcmVyIHskdG9rZW59IiwKICAgIC8vICAgICAgICAgXQogICAgLy8gICAgIF0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcVmFsaWRhdGlvblxVbmF1dGhvcml6ZWRFeGNlcHRpb247Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL19wYXJjZWwvL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>a</last-search>
+      <last-search>map</last-search>
       <last-offset />
-      <last-pattern>a</last-pattern>
+      <last-pattern>map</last-pattern>
       <last-replace />
       <last-substitute>_parcel</last-substitute>
       <last-dir>1</last-dir>
@@ -703,8 +707,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SHIP</entry>
-        <entry>en</entry>
         <entry>3</entry>
         <entry>legen</entry>
         <entry>init</entry>
@@ -723,6 +725,8 @@
         <entry>me</entry>
         <entry>re</entry>
         <entry>a</entry>
+        <entry>po</entry>
+        <entry>map</entry>
       </history-search>
       <history-cmd>
         <entry>s/valid/position/g</entry>
