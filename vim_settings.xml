@@ -168,12 +168,12 @@
         <mark key="." line="22" column="39" />
         <mark key="^" line="22" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/routes/api.php" timestamp="1567409461357">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="87" column="11" />
-        <mark key="]" line="88" column="7" />
-        <mark key="." line="88" column="7" />
-        <mark key="^" line="88" column="7" />
+      <file name="$USER_HOME$/Projects/pwh-api/routes/api.php" timestamp="1567412725770">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Accessories/Http/Handlers/AccessorySync.php" timestamp="1567411696755">
         <mark key="'" line="28" column="39" />
@@ -200,6 +200,7 @@
         <mark key="." line="16" column="48" />
         <mark key="^" line="16" column="48" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Handlers/ProductCategorySync.php" timestamp="1567412517065" />
       <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_08_28_124611_modify_addresses_table.php" timestamp="1566996474474">
         <mark key="[" line="17" column="40" />
         <mark key="]" line="17" column="63" />
@@ -325,10 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="346" column="25" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" />
-      <jump line="200" column="19" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/billing.vue" />
-      <jump line="15" column="8" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/billing.vue" />
-      <jump line="366" column="0" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" />
       <jump line="12" column="35" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/index.vue" />
       <jump line="43" column="20" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/index.vue" />
       <jump line="337" column="7" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" />
@@ -415,7 +412,6 @@
       <jump line="108" column="29" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
       <jump line="80" column="3" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
       <jump line="112" column="28" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
       <jump line="107" column="0" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
       <jump line="114" column="0" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
       <jump line="12" column="15" filename="$USER_HOME$/Projects/pwh-api/.env" />
@@ -425,10 +421,15 @@
       <jump line="48" column="0" filename="$USER_HOME$/Projects/pwh-api/.env" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/StockController.php" />
       <jump line="28" column="39" filename="$USER_HOME$/Projects/pwh-api/domain/Accessories/Http/Handlers/AccessorySync.php" />
+      <jump line="98" column="7" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
+      <jump line="110" column="0" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkbGlzdCk7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="e" type="4">
         <text>warnings.email</text>
@@ -443,28 +444,28 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbl9kZWNvZGUoKHN0cmluZykgJHJlc3BvbnNlLT5nZXRCb2R5KCksIHRydWUpWydhY2Nlc3NfdG9rZW4nXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkbGlzdCk7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSb3V0ZTo6cHJlZml4KCcvcHJvZHVjdHMnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBSb3V0ZTo6cHJlZml4KCd0eXBlcycpLT5ncm91cChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgIFJvdXRlOjpnZXQoJy8nLCAnUHJvZHVjdFR5cGVDb250cm9sbGVyQGluZGV4JyktPm5hbWUoJ2FwaS5wcm9kdWN0cy50eXBlcy5pbmRleCcpOwogICAgICAgICAgICBSb3V0ZTo6Z2V0KCd7cHJvZHVjdF90eXBlfScsICdQcm9kdWN0VHlwZUNvbnRyb2xsZXJAc2hvdycpLT5uYW1lKCdhcGkucHJvZHVjdHMudHlwZXMuc2hvdycpOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Um91dGU6Om1pZGRsZXdhcmUoJ2d1ZXN0JyktPm5hbWVzcGFjZSgnXERvbWFpblxBdXRob3JpemVyc1xIdHRwXENvbnRyb2xsZXJzJyktPmdyb3VwKGZ1bmN0aW9uICgpIHsKICAgIFJvdXRlOjpwb3N0KCdwYXNzd29yZC9lbWFpbCcsICdGb3Jnb3RQYXNzd29yZENvbnRyb2xsZXJAc2VuZFJlc2V0TGlua0VtYWlsJyk7CiAgICBSb3V0ZTo6cG9zdCgncGFzc3dvcmQvcmVzZXQnLCAnUmVzZXRQYXNzd29yZENvbnRyb2xsZXJAcmVzZXQnKS0+bmFtZSgncGFzc3dvcmQucmVzZXQnKTsKICAgIFJvdXRlOjpwb3N0KCdyZWdpc3RlcicsICdSZWdpc3RlckNvbnRyb2xsZXJAcmVnaXN0ZXInKTsKfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBSb3V0ZTo6cHJlZml4KCd0eXBlcycpLT5ncm91cChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgIFJvdXRlOjpnZXQoJy8nLCAnUHJvZHVjdFR5cGVDb250cm9sbGVyQGluZGV4JyktPm5hbWUoJ2FwaS5wcm9kdWN0cy50eXBlcy5pbmRleCcpOwogICAgICAgICAgICBSb3V0ZTo6Z2V0KCd7cHJvZHVjdF90eXBlfScsICdQcm9kdWN0VHlwZUNvbnRyb2xsZXJAc2hvdycpLT5uYW1lKCdhcGkucHJvZHVjdHMudHlwZXMuc2hvdycpOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFJvdXRlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBSb3V0ZTo6cHJlZml4KCd0eXBlcycpLT5ncm91cChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgIFJvdXRlOjpnZXQoJy8nLCAnUHJvZHVjdFR5cGVDb250cm9sbGVyQGluZGV4JyktPm5hbWUoJ2FwaS5wcm9kdWN0cy50eXBlcy5pbmRleCcpOwogICAgICAgICAgICBSb3V0ZTo6Z2V0KCd7cHJvZHVjdF90eXBlfScsICdQcm9kdWN0VHlwZUNvbnRyb2xsZXJAc2hvdycpLT5uYW1lKCdhcGkucHJvZHVjdHMudHlwZXMuc2hvdycpOwogICAgICAgIH0pOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkbGlzdCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -484,10 +485,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBSb3V0ZTo6cHJlZml4KCcvcHJvZHVjdHMnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBqc29uX2RlY29kZSgoc3RyaW5nKSAkcmVzcG9uc2UtPmdldEJvZHkoKSwgdHJ1ZSlbJ2FjY2Vzc190b2tlbiddOwo=</text>
+        <text encoding="base64">ICAgICAgICBSb3V0ZTo6cHJlZml4KCd0eXBlcycpLT5ncm91cChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgIFJvdXRlOjpnZXQoJy8nLCAnUHJvZHVjdFR5cGVDb250cm9sbGVyQGluZGV4JyktPm5hbWUoJ2FwaS5wcm9kdWN0cy50eXBlcy5pbmRleCcpOwogICAgICAgICAgICBSb3V0ZTo6Z2V0KCd7cHJvZHVjdF90eXBlfScsICdQcm9kdWN0VHlwZUNvbnRyb2xsZXJAc2hvdycpLT5uYW1lKCdhcGkucHJvZHVjdHMudHlwZXMuc2hvdycpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL19wYXJjZWwvL2c=</text>
