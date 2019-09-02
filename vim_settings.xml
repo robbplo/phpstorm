@@ -3,20 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" timestamp="1567058883998">
-        <mark key="'" line="322" column="33" />
-        <mark key="[" line="72" column="23" />
-        <mark key="]" line="72" column="23" />
-        <mark key="." line="72" column="23" />
-        <mark key="^" line="48" column="33" />
-      </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/pages/products/_category/_subcategory/_slug/_id/index.vue" timestamp="1566548036345">
-        <mark key="'" line="50" column="46" />
-        <mark key="[" line="46" column="23" />
-        <mark key="]" line="46" column="24" />
-        <mark key="." line="46" column="24" />
-        <mark key="^" line="46" column="24" />
-      </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/store/modules/checkout.js" timestamp="1566997513080">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="49" column="0" />
@@ -59,6 +45,16 @@
       <file name="$USER_HOME$/Projects/pwh-api/database/seeds/ProductTableSeeder.php" timestamp="1563265994313">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-pwa/pages/checkout/payment.vue" timestamp="1566983823202">
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="40" column="14" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Filters.vue" timestamp="1567157399490">
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="189" column="0" />
+        <mark key="." line="189" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/.env" timestamp="1567410654271">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="47" column="47" />
@@ -71,12 +67,10 @@
         <mark key="^" line="24" column="45" />
         <mark key="." line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/app/Console/Commands/UpdateStock.php" timestamp="1566472369968">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="45" column="20" />
-        <mark key="]" line="45" column="18" />
-        <mark key="." line="45" column="18" />
-        <mark key="^" line="45" column="18" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/store/modules/addresses.js" timestamp="1566978531402">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" timestamp="1567158573497">
         <mark key="'" line="244" column="38" />
@@ -103,13 +97,6 @@
         <mark key="]" line="7" column="32" />
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/auth.smit/api/v1/Account/Controllers/UserController.php" timestamp="1567172372935">
-        <mark key="'" line="23" column="4" />
-        <mark key="[" line="16" column="37" />
-        <mark key="]" line="16" column="35" />
-        <mark key="." line="16" column="35" />
-        <mark key="^" line="16" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Addresses/Http/Resources/Address.php" timestamp="1566819172461">
         <mark key="[" line="20" column="0" />
@@ -168,25 +155,18 @@
         <mark key="." line="22" column="39" />
         <mark key="^" line="22" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/routes/api.php" timestamp="1567412725770">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Projects/pwh-api/routes/api.php" timestamp="1567417401064">
+        <mark key="'" line="134" column="22" />
+        <mark key="[" line="134" column="22" />
+        <mark key="]" line="134" column="21" />
+        <mark key="." line="134" column="21" />
+        <mark key="^" line="134" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Accessories/Http/Handlers/AccessorySync.php" timestamp="1567411696755">
         <mark key="'" line="28" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php" timestamp="1566480577166">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/pwh-api/config/cors.php" timestamp="1563275943653">
-        <mark key="'" line="9" column="22" />
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="32" />
-        <mark key="." line="14" column="32" />
-        <mark key="^" line="14" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/resources/js/components/tabs/components/property/dimensions/HouseDimensions.vue" timestamp="1567159275147">
         <mark key="[" line="22" column="14" />
@@ -201,8 +181,8 @@
         <mark key="^" line="16" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Handlers/ProductCategorySync.php" timestamp="1567412517065" />
-      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_08_28_124611_modify_addresses_table.php" timestamp="1566996474474">
-        <mark key="[" line="17" column="40" />
+      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_08_28_124611_modify_addresses_table.php" timestamp="1567417676230">
+        <mark key="[" line="12" column="7" />
         <mark key="]" line="17" column="63" />
         <mark key="." line="17" column="40" />
         <mark key="^" line="17" column="39" />
@@ -226,6 +206,11 @@
         <mark key="^" line="96" column="39" />
         <mark key="." line="111" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/vesca/resources/js/store/modules/filters.js" timestamp="1567156175891">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/package.json" timestamp="1567061781729">
         <mark key="[" line="28" column="5" />
         <mark key="]" line="28" column="12" />
@@ -238,24 +223,22 @@
         <mark key="." line="55" column="11" />
         <mark key="^" line="55" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-api/app/Providers/AppServiceProvider.php" timestamp="1567416613214">
+        <mark key="'" line="10" column="24" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Orders/Http/Requests/CreateOrderRequest.php" timestamp="1566910078088">
         <mark key="[" line="28" column="32" />
         <mark key="]" line="28" column="32" />
         <mark key="." line="28" column="32" />
         <mark key="^" line="28" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/app/Providers/RouteServiceProvider.php" timestamp="1566822701745">
-        <mark key="[" line="55" column="8" />
-        <mark key="]" line="55" column="60" />
-        <mark key="^" line="55" column="60" />
-        <mark key="." line="55" column="60" />
-      </file>
-      <file name="$USER_HOME$/Projects/materialen/.env" timestamp="1567172931582">
-        <mark key="'" line="19" column="18" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="20" />
-        <mark key="^" line="43" column="21" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Projects/pwh-api/app/Providers/RouteServiceProvider.php" timestamp="1567417073715">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/plugins/axios.js" timestamp="1566982138350">
         <mark key="[" line="51" column="40" />
@@ -268,13 +251,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="55" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" timestamp="1563367650194">
-        <mark key="'" line="70" column="39" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="68" column="34" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/auth.smit/routes/api.php" timestamp="1567175553008">
         <mark key="'" line="9" column="10" />
@@ -297,11 +273,37 @@
         <mark key="^" line="28" column="46" />
         <mark key="." line="28" column="46" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Controllers/ProductCategoryController.php" timestamp="1567416472549">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/pwh-pwa/store/modules/authentication.js" timestamp="1567414578825">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
+        <mark key="^" line="101" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/pwh-api/app/Http/Middleware/TenantMiddleware.php" timestamp="1567416633184">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/vesca/resources/views/report/_partials/legend.blade.php" timestamp="1567154257434">
         <mark key="[" line="4" column="36" />
         <mark key="]" line="4" column="35" />
         <mark key="^" line="4" column="35" />
         <mark key="." line="4" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/pwh-pwa/.env" timestamp="1567412806728">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/pwh-pwa/plugins/vee-validate.js" timestamp="1566990829778">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Addresses/Http/Controllers/AddressController.php" timestamp="1566822735630">
         <mark key="'" line="30" column="34" />
@@ -317,24 +319,13 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="44" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/materialen/.env.example" timestamp="1567172856574">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="42" column="8" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-cart/sidebar.vue" timestamp="1566980789380">
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="35" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/index.vue" />
-      <jump line="43" column="20" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/index.vue" />
-      <jump line="337" column="7" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" />
-      <jump line="47" column="15" filename="$USER_HOME$/Projects/pwh-pwa/store/modules/checkout.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/Projects/pwh-pwa/store/modules/checkout.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/billing.vue" />
-      <jump line="219" column="18" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/billing.vue" />
-      <jump line="221" column="60" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/billing.vue" />
-      <jump line="181" column="37" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/billing.vue" />
       <jump line="367" column="82" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" />
       <jump line="53" column="0" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/index.vue" />
       <jump line="365" column="37" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" />
@@ -422,10 +413,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/StockController.php" />
       <jump line="28" column="39" filename="$USER_HOME$/Projects/pwh-api/domain/Accessories/Http/Handlers/AccessorySync.php" />
       <jump line="98" column="7" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
       <jump line="110" column="0" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
       <jump line="20" column="0" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
+      <jump line="23" column="0" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
+      <jump line="76" column="44" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
+      <jump line="71" column="52" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
+      <jump line="10" column="24" filename="$USER_HOME$/Projects/pwh-api/app/Providers/AppServiceProvider.php" />
+      <jump line="141" column="32" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
+      <jump line="148" column="0" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
+      <jump line="134" column="22" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -435,13 +435,13 @@
         <text>warnings.email</text>
       </register>
       <register name="-" type="4">
-        <text>['access_token'];</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>prod</text>
+        <text encoding="base64">PDw8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ganNvbl9kZWNvZGUoKHN0cmluZykgJHJlc3BvbnNlLT5nZXRCb2R5KCksIHRydWUpWydhY2Nlc3NfdG9rZW4nXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJHJvdXRlci5wdXNoKHJlZGlyZWN0VG8pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
@@ -450,22 +450,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgICAgICAka2V5ID0gJG1vZGVsOjpnZXRSb3V0ZUNhY2hlS2V5Rm9ySW5jbHVkZXMoKTsKICAgICAgICAgICAgICAgIHJldHVybiBDYWNoZTo6cmVtZW1iZXIoJGtleSwgMTgwMCwgZnVuY3Rpb24gKCkgdXNlICgkY29udHJvbGxlciwgJG1vZGVsLCAkdmFsdWUpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gUXVlcnlCdWlsZGVyOjpmb3IoJG1vZGVsKQogICAgICAgICAgICAgICAgICAgICAgICAtPndoZXJlKCd1aWQnLCAkdmFsdWUpCiAgICAgICAgICAgICAgICAgICAgICAgIC0+YWxsb3dlZEluY2x1ZGVzKCRjb250cm9sbGVyOjokYXZhaWxhYmxlSW5jbHVkZXMpCiAgICAgICAgICAgICAgICAgICAgICAgIC0+Zmlyc3RPckZhaWwoKTsKICAgICAgICAgICAgICAgIH0pOwo9PT09PT09Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Um91dGU6Om1pZGRsZXdhcmUoJ2d1ZXN0JyktPm5hbWVzcGFjZSgnXERvbWFpblxBdXRob3JpemVyc1xIdHRwXENvbnRyb2xsZXJzJyktPmdyb3VwKGZ1bmN0aW9uICgpIHsKICAgIFJvdXRlOjpwb3N0KCdwYXNzd29yZC9lbWFpbCcsICdGb3Jnb3RQYXNzd29yZENvbnRyb2xsZXJAc2VuZFJlc2V0TGlua0VtYWlsJyk7CiAgICBSb3V0ZTo6cG9zdCgncGFzc3dvcmQvcmVzZXQnLCAnUmVzZXRQYXNzd29yZENvbnRyb2xsZXJAcmVzZXQnKS0+bmFtZSgncGFzc3dvcmQucmVzZXQnKTsKICAgIFJvdXRlOjpwb3N0KCdyZWdpc3RlcicsICdSZWdpc3RlckNvbnRyb2xsZXJAcmVnaXN0ZXInKTsKfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRrZXkgPSAkbW9kZWw6OmdldFJvdXRlQ2FjaGVLZXlGb3JJbmNsdWRlcygpOwogICAgICAgICAgICAgICAgcmV0dXJuIENhY2hlOjpyZW1lbWJlcigka2V5LCAxODAwLCBmdW5jdGlvbiAoKSB1c2UgKCRjb250cm9sbGVyLCAkbW9kZWwsICR2YWx1ZSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBRdWVyeUJ1aWxkZXI6OmZvcigkbW9kZWwpCiAgICAgICAgICAgICAgICAgICAgICAgIC0+d2hlcmUoJ3VpZCcsICR2YWx1ZSkKICAgICAgICAgICAgICAgICAgICAgICAgLT5hbGxvd2VkSW5jbHVkZXMoJGNvbnRyb2xsZXI6OiRhdmFpbGFibGVJbmNsdWRlcykKICAgICAgICAgICAgICAgICAgICAgICAgLT5maXJzdE9yRmFpbCgpOwogICAgICAgICAgICAgICAgfSk7Cj09PT09PT0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFJvdXRlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Um91dGU6Omdyb3VwKFsncHJlZml4JyA9PiAnc2Vzc2lvbnMnXSwgZnVuY3Rpb24gKCkgewogICAgUm91dGU6OnB1dCgnLycsIFtcRG9tYWluXEF1dGhvcml6ZXJzXEh0dHBcQ29udHJvbGxlcnNcUmVmcmVzaFRva2VuQ29udHJvbGxlcjo6Y2xhc3MsICdzdG9yZSddKQogICAgICAgIC0+bmFtZSgnYXBpLnNlc3Npb25zLnJlZnJlc2gnKTsKCiAgICBSb3V0ZTo6Z3JvdXAoWydtaWRkbGV3YXJlJyA9PiAnYXV0aCddLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgUm91dGU6OmRlbGV0ZSgnLycsIFtcRG9tYWluXEF1dGhvcml6ZXJzXEh0dHBcQ29udHJvbGxlcnNcTG9nb3V0Q29udHJvbGxlcjo6Y2xhc3MsICdzdG9yZSddKQogICAgICAgICAgICAtPm5hbWUoJ2FwaS5zZXNzaW9ucy5sb2dvdXQnKTsKCiAgICB9KTsKICAgIAp9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIFJvdXRlOjpncm91cChbJ3ByZWZpeCcgPT4gJ2FkZHJlc3NlcyddLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgUm91dGU6OnBvc3QoJy8nLCBbXERvbWFpblxBZGRyZXNzZXNcSHR0cFxDb250cm9sbGVyc1xBZGRyZXNzQ29udHJvbGxlcjo6Y2xhc3MsICdzdG9yZSddKQogICAgICAgICAgICAtPm5hbWUoJ2FwaS5hZGRyZXNzZXMuc3RvcmUnKTsKICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkbGlzdCk7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -485,22 +485,22 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSb3V0ZTo6cHJlZml4KCcvcHJvZHVjdHMnKQo=</text>
+        <text encoding="base64">ICAgIFJvdXRlOjpncm91cChbJ3ByZWZpeCcgPT4gJ29yZGVycyddLCBmdW5jdGlvbiAoKSB7CiAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSb3V0ZTo6cHJlZml4KCd0eXBlcycpLT5ncm91cChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgIFJvdXRlOjpnZXQoJy8nLCAnUHJvZHVjdFR5cGVDb250cm9sbGVyQGluZGV4JyktPm5hbWUoJ2FwaS5wcm9kdWN0cy50eXBlcy5pbmRleCcpOwogICAgICAgICAgICBSb3V0ZTo6Z2V0KCd7cHJvZHVjdF90eXBlfScsICdQcm9kdWN0VHlwZUNvbnRyb2xsZXJAc2hvdycpLT5uYW1lKCdhcGkucHJvZHVjdHMudHlwZXMuc2hvdycpOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBSb3V0ZTo6Z2V0KCcvJywgW1xEb21haW5cT3JkZXJzXEh0dHBcQ29udHJvbGxlcnNcT3JkZXJDb250cm9sbGVyOjpjbGFzcywgJ2luZGV4J10pCiAgICAgICAgICAgIC0+bmFtZSgnYXBpLm9yZGVycy5pbmRleCcpOwogICAgICAgIFJvdXRlOjpnZXQoJ3tvcmRlcn0nLCBbXERvbWFpblxPcmRlcnNcSHR0cFxDb250cm9sbGVyc1xPcmRlckNvbnRyb2xsZXI6OmNsYXNzLCAnc2hvdyddKQogICAgICAgICAgICAtPm5hbWUoJ2FwaS5vcmRlcnMuc2hvdycpOwogICAgICAgIFJvdXRlOjpwb3N0KCcvJywgW1xEb21haW5cT3JkZXJzXEh0dHBcQ29udHJvbGxlcnNcT3JkZXJDb250cm9sbGVyOjpjbGFzcywgJ3N0b3JlJ10pCiAgICAgICAgICAgIC0+bmFtZSgnYXBpLm9yZGVycy5zdG9yZScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL19wYXJjZWwvL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>prod</last-search>
+      <last-search encoding="base64">PDw8</last-search>
       <last-offset />
-      <last-pattern>prod</last-pattern>
+      <last-pattern encoding="base64">PDw8</last-pattern>
       <last-replace />
       <last-substitute>_parcel</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -523,8 +523,8 @@
         <entry>a</entry>
         <entry>po</entry>
         <entry>map</entry>
-        <entry encoding="base64">PDw8</entry>
         <entry>prod</entry>
+        <entry encoding="base64">PDw8</entry>
       </history-search>
       <history-cmd>
         <entry>s/valid/position/g</entry>
