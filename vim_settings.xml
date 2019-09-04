@@ -81,6 +81,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="73" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-pwa/assets/less/sdv-shop/components/_import.less" timestamp="1567584055938">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="449" column="0" />
+        <mark key="]" line="449" column="0" />
+        <mark key="." line="449" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/pages/checkout/payment.vue" timestamp="1567501480098">
         <mark key="[" line="26" column="8" />
         <mark key="]" line="40" column="14" />
@@ -567,18 +573,15 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="44" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-cart/sidebar.vue" timestamp="1567501795619">
+      <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-cart/sidebar.vue" timestamp="1567583523000">
         <mark key="'" line="26" column="27" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="73" column="86" />
+        <mark key="[" line="71" column="93" />
+        <mark key="]" line="71" column="93" />
+        <mark key="." line="71" column="93" />
+        <mark key="^" line="71" column="76" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
-      <jump line="20" column="0" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
-      <jump line="23" column="0" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
       <jump line="76" column="44" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
       <jump line="71" column="52" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
@@ -676,10 +679,13 @@
       <jump line="135" column="32" filename="$USER_HOME$/Projects/pwh-pwa/store/modules/cart.js" />
       <jump line="1" column="38" filename="$USER_HOME$/Projects/pwh-pwa/store/modules/cart.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-pwa/store/modules/cart.js" />
+      <jump line="442" column="7" filename="$USER_HOME$/Projects/pwh-pwa/assets/less/sdv-shop/components/_import.less" />
+      <jump line="38" column="1" filename="$USER_HOME$/Projects/pwh-pwa/assets/less/sdv-shop/components/_import.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-pwa/assets/less/sdv-shop/components/_import.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>specifications</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vYm9yZGVyLWxlZnQ6IHRyYW5zcGFyZW50OwogICAgLy8mOmhvdmVyIHsKICAgIC8vICBib3JkZXItbGVmdDogI2U1ZTVlNTsKICAgIC8vfQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -714,37 +720,37 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>specifications</text>
+        <text>right</text>
       </register>
       <register name="/" type="4">
         <text>quan</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzcGVjaWZpY2F0aW9uczogbWFwU3BlY2lmaWNhdGlvbnMocHJvZHVjdCksCg==</text>
+      <register name="0" type="4">
+        <text>sdv-cart-button-minus&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwcm9kdWN0LnNwZWNpZmljYXRpb25zID0gbWFwU3BlY2lmaWNhdGlvbnMocHJvZHVjdCkK</text>
+        <text encoding="base64">ICAgIC8vYm9yZGVyLWxlZnQ6IHRyYW5zcGFyZW50OwogICAgLy8mOmhvdmVyIHsKICAgIC8vICBib3JkZXItbGVmdDogI2U1ZTVlNTsKICAgIC8vfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzcGVjaWZpY2F0aW9uczogbWFwU3BlY2lmaWNhdGlvbnMocHJvZHVjdCksCiAgICAgICAgLy8gc3BlY2lmaWNhdGlvbnMgewogICAgICAgIC8vICAgICByZXR1cm4gbWFwU3BlY2lmaWNhdGlvbnMocHJvZHVjdCk7CiAgICAgICAgLy8gfSwK</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uIHJlbGF0aXZlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRTcGVjaWZpY2F0aW9ucygpIHsKICAgICAgICAgICAgcmV0dXJuIG1hcFNwZWNpZmljYXRpb25zKHRoaXMpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMucHJvZHVjdC5nZXRTcGVjaWZpY2F0aW9ucygpKQo=</text>
+        <text encoding="base64">ICAgIC5jYXJ0LWJ1dHRvbi1taW51cyB7CiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4IDAgMCA0cHg7CiAgICB9CiAgICAuY2FydC1idXR0b24tcGx1cyB7CiAgICAgICAgYm9yZGVyLXJhZGl1czogMCA0cHggNHB4IDA7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY29uZmlnSWQ6ICcgKyBjb25maWdJZCkK</text>
+        <text encoding="base64">PC9zdHlsZT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
+        <text encoding="base64">PHN0eWxlIHNjb3BlZD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -767,11 +773,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Xy5tYXAocHJvZHVjdC5hdHRyaWJ1dGVfc2V0cywgKGF0dHJpYnV0ZVNldCwgYXR0cmlidXRlU2V0SW5kZXgpID0+IHsKICAgICAgICBjb25zdCBjb25maWdJZCA9IHNlbGVjdGVkQXR0cmlidXRlc1thdHRyaWJ1dGVTZXRJbmRleF07CiAgICAgICAgY29uc29sZS5sb2coJ2NvbmZpZ0lkOiAnICsgY29uZmlnSWQpCiAgICAgICAgY29uc3QgYXR0cmlidXRlID0gcHJvZHVjdC5hdHRyaWJ1dGVfc2V0c1thdHRyaWJ1dGVTZXRJbmRleF0uYXR0cmlidXRlcwogICAgICAgICAgICAuZmluZCh4ID0+IHguY29uZmlnX2lkID09PSBjb25maWdJZCkKICAgICAgICBjb25zb2xlLmxvZygpCgogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgIG5hbWU6IGF0dHJpYnV0ZVNldC5uYW1lLAogICAgICAgICAgICBkZXNjcmlwdGlvbjogYXR0cmlidXRlLm5hbWUsCiAgICAgICAgICAgIHByaWNlOiArYXR0cmlidXRlLnByaWNlLAogICAgICAgICAgICB2YWx1ZTogYXR0cmlidXRlLmlkLAogICAgICAgICAgICBkZWZhdWx0OiBhdHRyaWJ1dGUuZGVmYXVsdCwKICAgICAgICB9OwogICAgfSk7</text>
+      <register name="8" type="2">
+        <text encoding="base64">YQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG1hcFNwZWNpZmljYXRpb25zKHByb2R1Y3QpIHsKICAgIAp9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL19wYXJjZWwvL2c=</text>
