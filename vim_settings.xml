@@ -8,11 +8,12 @@
         <mark key="]" line="82" column="35" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" timestamp="1567521929781">
-        <mark key="[" line="267" column="66" />
-        <mark key="]" line="267" column="66" />
-        <mark key="." line="267" column="66" />
-        <mark key="^" line="204" column="69" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" timestamp="1567687026302">
+        <mark key="'" line="13" column="34" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+        <mark key="^" line="200" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/routes/api.php" timestamp="1567598763847">
         <mark key="[" line="45" column="0" />
@@ -95,11 +96,11 @@
         <mark key="." line="44" column="43" />
         <mark key="^" line="44" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/pages/products/_category/index.vue" timestamp="1567681464785">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="15" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/pages/products/_category/index.vue" timestamp="1567686460380">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="18" column="46" />
+        <mark key="." line="18" column="46" />
+        <mark key="^" line="18" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/facade/app/Services/Filemaker/Model/Session.php" timestamp="1567602095687">
         <mark key="'" line="13" column="57" />
@@ -120,11 +121,6 @@
         <mark key="]" line="53" column="44" />
         <mark key="." line="53" column="44" />
         <mark key="^" line="53" column="44" />
-      </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/nuxt.config.js" timestamp="1567669816757">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" timestamp="1567510408708">
         <mark key="[" line="12" column="66" />
@@ -245,7 +241,7 @@
         <mark key="^" line="16" column="66" />
         <mark key="." line="16" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/pages/products/index.vue" timestamp="1567685071005">
+      <file name="$USER_HOME$/Projects/pwh-pwa/pages/products/index.vue" timestamp="1567685744923">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -273,11 +269,11 @@
       <file name="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-09-04.log" timestamp="1567600854697">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-cart/sidebar.vue" timestamp="1567587735757">
+      <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-cart/sidebar.vue" timestamp="1567687057185">
         <mark key="'" line="65" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="69" column="25" />
-        <mark key="." line="67" column="59" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
         <mark key="^" line="67" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/store/modules/cart.js" timestamp="1567588088554">
@@ -292,7 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="6" filename="$USER_HOME$/Projects/pwh-api/domain/Carts/Http/Requests/RemoveFromCartRequest.php" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/pwh-api/database/migrations/2019_09_04_094633_add_order_id_to_carts_table.php" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/pwh-api/domain/Carts/Models/Cart.php" />
       <jump line="31" column="8" filename="$USER_HOME$/Projects/pwh-api/domain/Orders/Events/OrderUpserted.php" />
@@ -392,10 +387,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/Projects/facade/app/Console/Commands/FireWebhookCommand.php" />
       <jump line="51" column="1" filename="$USER_HOME$/Projects/facade/.env" />
       <jump line="48" column="17" filename="$USER_HOME$/Projects/facade/.env" />
+      <jump line="13" column="34" filename="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb21wb25lbnRzOiB7fSwK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -430,7 +426,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>product.action.add-to-cart</text>
       </register>
       <register name="/" type="4">
         <text>comp</text>
@@ -439,28 +435,28 @@
         <text encoding="base64">ICAgICAgICBkdW1wKCdTZW5kaW5nIHRvIGZpbGVtYWtlcjonKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb21wb25lbnRzOiB7fSwK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGFzZAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkamZpYW9zago=</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJ1ay1idXR0b24gdWstYnV0dG9uLXNtYWxsIHVrLWJ1dHRvbi1kZWZhdWx0IiB1ay1pY29uPSJpY29uOiBtaW51czsgcmF0aW86IC41NSIKICAgICAgICAgICAgICAgICAgICAgICAgICA6dWstdG9vbHRpcD0iJ3RpdGxlOicrJHQoJ2NhcnQuYWN0aW9uLnJlbW92ZV9vbmUnKSsnO3BvczogbGVmdCciCiAgICAgICAgICAgICAgICAgICAgICAgICAgQGNsaWNrLnByZXZlbnQ9InVwZGF0ZUl0ZW0oe2lkOiBpdGVtLmlkLCBxdWFudGl0eTogaXRlbS5xdWFudGl0eSAtIDF9KSI+PC9idXR0b24+CgogICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJ1ay1idXR0b24gdWstYnV0dG9uLXNtYWxsIHVrLWJ1dHRvbi1kZWZhdWx0IiB1ay1pY29uPSJpY29uOiBwbHVzOyByYXRpbzogLjU1IgogICAgICAgICAgICAgICAgICAgICAgICAgIDp1ay10b29sdGlwPSIndGl0bGU6JyskdCgnY2FydC5hY3Rpb24uYWRkX29uZScpKyc7cG9zOiBsZWZ0JyIKICAgICAgICAgICAgICAgICAgICAgICAgICBAY2xpY2sucHJldmVudD0idXBkYXRlSXRlbSh7aWQ6IGl0ZW0uaWQsIHF1YW50aXR5OiBpdGVtLnF1YW50aXR5ICsgMX0pIj48L2J1dHRvbj4KPj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKGpzb25fZW5jb2RlKCRldmVudC0+ZGF0YSkpOwogICAgICAgIGR1bXAoJ1NlbmRpbmcgdG8gZmlsZW1ha2VyOicpOwoK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRldmVudC0+ZGF0YSk7Cg==</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgJHQoJycpIH19Cj4+Pj4+Pj4gZGV2ZWxvcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay13aWR0aC0xLTEiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6Y2xhc3M9InsgJ3VrLWNoaWxkLXdpZHRoLTEtMkBtJzogaGFzQXR0cmlidXRlcywgJ3VrLWNoaWxkLXdpZHRoLTEtMSc6ICFoYXNBdHRyaWJ1dGVzIH0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJ1ay1ncmlkLXNtYWxsIiB1ay1ncmlkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9InVrLXdpZHRoLTEtMSB1ay1idXR0b24gdWstYnV0dG9uLXByaW1hcnkiIEBjbGljaz0iYWRkVG9DYXJ0Ij4KPDw8PDw8PCBIRUFECiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgdi1pZj0iY2FydExvYWRpbmciIDpkaXNhYmxlZD0iY2FydExvYWRpbmciIHVrLXNwaW5uZXIgY2xhc3M9InVrLWljb24iPjwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiB2LWVsc2U+e3skdCgncHJvZHVjdC5hY3Rpb24uYWRkLXRvLWNhcnQnKX19PC9zcGFuPgo9PT09PT09CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyAkdCgncHJvZHVjdC5hY3Rpb24uYWRkX3RvX2NhcnQnKSB9fQo+Pj4+Pj4+IGRldmVsb3AKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgdi1zaG93PSJoYXNBdHRyaWJ1dGVzIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0idWstd2lkdGgtMS0xIHVrLWJ1dHRvbiB1ay1idXR0b24tc2Vjb25kYXJ5IiBocmVmPSIjY29uZmlndXJlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVrLXNjcm9sbD0ib2Zmc2V0OiAxNjAiPnt7JHQoJ3Byb2R1Y3QuYWN0aW9uLmNvbmZpZ3VyZScpfX08L2E+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -490,10 +486,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRkYXRhKTsK</text>
+        <text encoding="base64">ICBjb21wb25lbnRzOiB7fSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhWydzaGlwcGluZ19hZGRyZXNzJ11bJ2VtYWlsJ10gPSAnbWFuZCc7Cg==</text>
+        <text encoding="base64">ICAgICAgZGFzZAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/user/cart/g</text>
