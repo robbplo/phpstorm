@@ -171,7 +171,12 @@
         <mark key="[" line="72" column="36" />
         <mark key="^" line="162" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Models/Product.php" timestamp="1567681196190" />
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Models/Product.php" timestamp="1567688293997">
+        <mark key="[" line="128" column="48" />
+        <mark key="]" line="128" column="47" />
+        <mark key="^" line="128" column="47" />
+        <mark key="." line="128" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/facade/storage/logs/laravel-2019-09-04.log" timestamp="1567606207738">
         <mark key="'" line="0" column="0" />
       </file>
@@ -216,6 +221,9 @@
         <mark key="[" line="27" column="54" />
         <mark key="]" line="27" column="55" />
         <mark key="." line="27" column="55" />
+      </file>
+      <file name="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-09-05.log" timestamp="1567688311748">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-product/index.vue" timestamp="1567684567041">
         <mark key="[" line="122" column="0" />
@@ -276,6 +284,7 @@
         <mark key="." line="88" column="0" />
         <mark key="^" line="67" column="59" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2014_10_11_100100_create_stores_table.php" timestamp="1567688643446" />
       <file name="$USER_HOME$/Projects/pwh-pwa/store/modules/cart.js" timestamp="1567588088554">
         <mark key="'" line="53" column="13" />
         <mark key="[" line="76" column="0" />
@@ -288,8 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/Projects/pwh-api/database/migrations/2019_09_04_094633_add_order_id_to_carts_table.php" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/pwh-api/domain/Carts/Models/Cart.php" />
       <jump line="31" column="8" filename="$USER_HOME$/Projects/pwh-api/domain/Orders/Events/OrderUpserted.php" />
       <jump line="5" column="7" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/index.vue" />
       <jump line="307" column="40" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-addressPicker/index.vue" />
@@ -388,6 +395,8 @@
       <jump line="51" column="1" filename="$USER_HOME$/Projects/facade/.env" />
       <jump line="48" column="17" filename="$USER_HOME$/Projects/facade/.env" />
       <jump line="13" column="34" filename="$USER_HOME$/Projects/pwh-pwa/pages/product/_id/_slug.vue" />
+      <jump line="18" column="51" filename="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-09-05.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-09-05.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
