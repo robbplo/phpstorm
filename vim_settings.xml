@@ -122,6 +122,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/vesca/resources/views/report/_pages/cover.blade.php" timestamp="1568376709683">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="2" column="39" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Addresses/Models/Address.php" timestamp="1567672033878">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -330,11 +336,11 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/views/report/_pages/introduction.blade.php" timestamp="1568365029930">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="61" />
-        <mark key="." line="10" column="36" />
-        <mark key="^" line="10" column="38" />
+      <file name="$USER_HOME$/Projects/vesca/resources/views/report/_pages/introduction.blade.php" timestamp="1568377950861">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="10" column="41" />
+        <mark key="." line="10" column="41" />
+        <mark key="^" line="10" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/pages/products/_category/index.vue" timestamp="1568105462310">
         <mark key="[" line="13" column="65" />
@@ -418,12 +424,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" timestamp="1568369171977">
-        <mark key="'" line="423" column="32" />
-        <mark key="[" line="419" column="18" />
-        <mark key="]" line="419" column="18" />
-        <mark key="." line="419" column="18" />
-        <mark key="^" line="414" column="20" />
+      <file name="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" timestamp="1568377417628">
+        <mark key="'" line="238" column="19" />
+        <mark key="[" line="313" column="0" />
+        <mark key="]" line="313" column="0" />
+        <mark key="." line="313" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/facade/storage/logs/laravel-2019-09-05.log" timestamp="1567668397810">
         <mark key="[" line="0" column="0" />
@@ -505,8 +510,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="85" filename="$USER_HOME$/Projects/pwh-api/domain/Orders/Listeners/ProcessOrderListener.php" />
-      <jump line="55" column="55" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Gateway/OrderController.php" />
       <jump line="77" column="55" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Gateway/OrderController.php" />
       <jump line="46" column="0" filename="$USER_HOME$/Projects/facade/app/Jobs/SendOrderToFilemaker.php" />
       <jump line="188" column="56" filename="$USER_HOME$/Projects/pwh-api/database/seeds/MessageTableSeeder.php" />
@@ -605,6 +608,8 @@
       <jump line="11" column="0" filename="$USER_HOME$/Projects/vesca/resources/views/report/_pages/reference_images.blade.php" />
       <jump line="428" column="4" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
       <jump line="426" column="32" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
+      <jump line="247" column="22" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
+      <jump line="238" column="19" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -643,13 +648,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>['transaction_price']</text>
+        <text encoding="base64">VmVzY2Eg</text>
       </register>
       <register name="/" type="4">
-        <text>va</text>
+        <text>30</text>
       </register>
-      <register name="0" type="4">
-        <text>$location['building']['transaction_price']</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC5pbnRyb2R1Y3Rpb24gLmNvbXBhbnlfbG9nbyB7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -658,22 +663,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">e3stLSAgICAgICAgICAgICAgICAgICAgQHRvZG8tLX19Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cHJlPgogICAgICAgICAgICAgICAgICAgICAgICB7eyBwcmludF9yKCRsb2NhdGlvblsnYnVpbGRpbmcnXSwgdHJ1ZSkgfX0KICAgICAgICAgICAgICAgICAgICA8L3ByZT4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7e319Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXItbGVmdDogMnB4IHNvbGlkIHdoaXRlOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBoZWlnaHQ6IDE1MHB4OwogICAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC5pbnRyb2R1Y3Rpb24gLmxvZ29fd3JhcHBlciB7CiAgICAgICAgaGVpZ2h0OiAxNTBweDsKICAgICAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICAgICAgbWFyZ2luLWxlZnQ6IDUwcHg7CiAgICAgICAgZGlzcGxheTogZmxleDsKICAgICAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogICAgICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtYXJvdW5kOwogICAgfQoK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5yZWZlcmVuY2UgLnJlZmVyZW5jZS1hdHRyaWJ1dGU6Zmlyc3Qtb2YtdHlwZSB7CiAgICAgICAgYm9yZGVyLXRvcDogMnB4IHNvbGlkIHdoaXRlOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nLWxlZnQ6IDg3cHg7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -703,19 +708,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tbGVmdDogMTIwcHg7CiAgICAgICAgbWFyZ2luLXRvcDogNjBweDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBibG9jazsK</text>
+        <text encoding="base64">ICAgICAgICA8aW1nIGNsYXNzPSJjb21wYW55X2xvZ28iIHNyYz0ie3sgdXJsKCcvaW1nL2xvZ28tYmx1ZS5wbmcnKSB9fSIgYWx0PSJWZXNjYSIvPgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2NsZWFyL2VtcHR5L2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>va</last-search>
+      <last-search>30</last-search>
       <last-offset />
-      <last-pattern>va</last-pattern>
+      <last-pattern>30</last-pattern>
       <last-replace>empty</last-replace>
       <last-substitute>clear</last-substitute>
       <last-dir>1</last-dir>
@@ -723,7 +728,6 @@
     </search>
     <history>
       <history-search>
-        <entry>form.</entry>
         <entry>set</entry>
         <entry>ar</entry>
         <entry>form</entry>
@@ -743,6 +747,7 @@
         <entry>price</entry>
         <entry>refe</entry>
         <entry>va</entry>
+        <entry>30</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2FjY2Vzc29yeS9hdHRyaWJ1dGUvZw==</entry>
