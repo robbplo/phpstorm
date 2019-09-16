@@ -116,10 +116,10 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="20" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/pages/checkout/confirm.vue" timestamp="1568623229162">
-        <mark key="'" line="147" column="25" />
-        <mark key="[" line="86" column="37" />
-        <mark key="]" line="86" column="37" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/pages/checkout/confirm.vue" timestamp="1568624166474">
+        <mark key="'" line="91" column="30" />
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="63" />
         <mark key="." line="86" column="37" />
         <mark key="^" line="152" column="33" />
       </file>
@@ -393,8 +393,12 @@
         <mark key="]" line="1" column="61" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/pages/checkout/complete.vue" timestamp="1568619906988">
+      <file name="$USER_HOME$/Projects/pwh-pwa/pages/checkout/complete.vue" timestamp="1568624217306">
         <mark key="'" line="53" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="43" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/store/modules/authentication.js" timestamp="1568622545555">
         <mark key="^" line="64" column="86" />
@@ -454,7 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-09-05.log" />
       <jump line="69" column="37" filename="$USER_HOME$/Projects/vesca/resources/views/layouts/site.blade.php" />
       <jump line="31" column="9" filename="$USER_HOME$/Projects/pwh-api/database/seeds/MessageTableSeeder.php" />
       <jump line="202" column="78" filename="$USER_HOME$/Projects/pwh-api/database/seeds/MessageTableSeeder.php" />
@@ -554,10 +557,11 @@
       <jump line="93" column="17" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/confirm.vue" />
       <jump line="152" column="20" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/confirm.vue" />
       <jump line="147" column="25" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/confirm.vue" />
+      <jump line="91" column="30" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/confirm.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -592,37 +596,37 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
         <text>ref</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmaWVsZCB3aWR0aD0iMS0xQHMiCiAgICAgICAgICAgICAgICAgICAgICAgdi1tb2RlbD0iZm9ybS5hZGRyZXNzLmVtYWlsIgogICAgICAgICAgICAgICAgICAgICAgIG5hbWU9ImVtYWlsIgogICAgICAgICAgICAgICAgICAgICAgIDpsYWJlbD0iJHQoJ2FkZHJlc3MuZm9ybS5lbWFpbCcpIgogICAgICAgICAgICAgICAgICAgICAgIDpwbGFjZWhvbGRlcj0iJHQoJ2FkZHJlc3MuZm9ybS5lbWFpbC5wbGFjZWhvbGRlcicpIgogICAgICAgICAgICAgICAgICAgICAgIHYtdmFsaWRhdGU9IidyZXF1aXJlZCciCiAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgICAgICAgICAgICAgICA6ZXJyb3I9ImVycm9ycy5maXJzdCgnZW1haWwnKSIKICAgICAgICAgICAgICAgIC8+Cg==</text>
+      <register name="0" type="4">
+        <text>{{ $t('checkout.complete.title') }}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
+        <text encoding="base64">PCEtLSAgICAgICAgPGRpdj4tLT4KPCEtLSAgICAgICAgICAgIDxoMSBjbGFzcz0idWstaDIiPnt7ICR0KCdjaGVja291dC5jb25maXJtLnRpdGxlJykgfX08L2gxPi0tPgo8IS0tICAgICAgICAgICAgPHAgdi1odG1sPSIkdCgnY2hlY2tvdXQuY29uZmlybS5pbnRyb2R1Y3Rpb24nKSI+PC9wPi0tPgoKPCEtLSAgICAgICAgICAgIDxoci8+LS0+Cgo8IS0tICAgICAgICAgICAgPHAgdi1odG1sPSIkdCgnY2hlY2tvdXQuY29uZmlybS5ib2R5JykiPjwvcD4tLT4KCjwhLS0gICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay1tYXJnaW4iPi0tPgo8IS0tICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9InNoaXBwaW5nX21lc3NhZ2UiIGNsYXNzPSJ1ay1mb3JtLWxhYmVsIj4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAge3sgJHQoJ2NoZWNrb3V0LmNvbmZpcm0ubWVzc2FnZScpIH19LS0+CjwhLS0gICAgICAgICAgICAgICAgPC9sYWJlbD4tLT4KPCEtLSAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay1mb3JtLWNvbnRyb2xzIj4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgPHRleHRhcmVhIGlkPSJzaGlwcGluZ19tZXNzYWdlIi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9InVrLXRleHRhcmVhIi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdi1tb2RlbD0iZm9ybS5ub3RlcyItLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpwbGFjZWhvbGRlcj0iJHQoJ2NoZWNrb3V0LmNvbmZpcm0ubWVzc2FnZS5wbGFjZWhvbGRlcicpIi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICA+PC90ZXh0YXJlYT4tLT4KPCEtLSAgICAgICAgICAgICAgICA8L2Rpdj4tLT4KPCEtLSAgICAgICAgICAgIDwvZGl2Pi0tPgoKPCEtLSAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLWZvcm0tc3RhY2tlZCI+LS0+CjwhLS0gICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstbWFyZ2luIHVrLXRleHQtcmlnaHQiPi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICA8bnV4dC1saW5rIDp0bz0ibG9jYWxlUGF0aCh7bmFtZTonY2hlY2tvdXQtYmlsbGluZyd9KSItLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0YWc9ImJ1dHRvbiItLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0idWstYnV0dG9uIHVrLWJ1dHRvbi1kZWZhdWx0IHVrLWJ1dHRvbi1sYXJnZSItLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgPi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICAgICAge3sgJHQoJ2NoZWNrb3V0LmJ1dHRvbi5wcmV2aW91c19zdGVwJykgfX0tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgPC9udXh0LWxpbms+LS0+CjwhLS0gICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9InVrLWJ1dHRvbiB1ay1idXR0b24tcHJpbWFyeSB1ay1idXR0b24tbGFyZ2UiLS0+CjwhLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgQGNsaWNrLnByZXZlbnQ9ImNvbmZpcm0iLS0+CjwhLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgOmRpc2FibGVkPSJsb2FkaW5nIi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICA+LS0+CjwhLS0gICAgICAgICAgICAgICAgICAgICAgICB7eyAkdCgnY2hlY2tvdXQuYnV0dG9uLmNvbmZpcm0nKSB9fS0tPgo8IS0tICAgICAgICAgICAgICAgICAgICA8L2J1dHRvbj4tLT4KPCEtLSAgICAgICAgICAgICAgICA8L2Rpdj4tLT4KPCEtLSAgICAgICAgICAgIDwvZGl2Pi0tPgo8IS0tICAgICAgICA8L2Rpdj4tLT4KICAgIDwvc2VjdGlvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FydEVtcHR5KCkgewogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy4kc3RvcmUuc3RhdGUuY2FydC5jb250ZW50cy5sZW5ndGggPT09IDAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLiRzdG9yZS5zdGF0ZS5jYXJ0LmNvbnRlbnRzLmxlbmd0aCA9PT0gMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FydEVtcHR5KCkgewogICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FydEVtcHR5KCkgewogICAgICAgICAgICAgICAgcmV0dXJuIHRoaXMuJHN0b3JlLnN0YXRlLmNhcnQuY29udGVudHMubGVuZ3RoID4gMAogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy4kc3RvcmUuc3RhdGUuY2FydC5jb250ZW50cy5sZW5ndGggPT09IDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FydEVtcHR5KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLiRzdG9yZS5zdGF0ZS5jYXJ0LmNvbnRlbnRzLmxlbmd0aCA9PT0gMAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -652,10 +656,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FydEVtcHR5KCkgewogICAgICAgICAgICAgICAgcmV0dXJuIHRoaXMuJHN0b3JlLnN0YXRlLmNhcnQuY29udGVudHMubGVuZ3RoID4gMAogICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FydEVtcHR5KCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2VtYWlsL3JlZmVyZW5jZS9n</text>
