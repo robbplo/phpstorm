@@ -10,7 +10,7 @@
         <mark key="." line="50" column="73" />
         <mark key="^" line="50" column="73" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/routes/api.php" timestamp="1568100523836">
+      <file name="$USER_HOME$/Projects/pwh-api/routes/api.php" timestamp="1568712372144">
         <mark key="'" line="77" column="36" />
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -127,12 +127,12 @@
         <mark key="." line="21" column="39" />
         <mark key="^" line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Carts/Models/Cart.php" timestamp="1568191518931">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="29" column="45" />
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Carts/Models/Cart.php" timestamp="1568712039701">
+        <mark key="'" line="80" column="77" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="77" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/app/Exceptions/Handler.php" timestamp="1568126075303">
         <mark key="[" line="51" column="0" />
@@ -487,7 +487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="9" filename="$USER_HOME$/Projects/pwh-api/database/seeds/MessageTableSeeder.php" />
       <jump line="202" column="78" filename="$USER_HOME$/Projects/pwh-api/database/seeds/MessageTableSeeder.php" />
       <jump line="114" column="41" filename="$USER_HOME$/Projects/pwh-api/database/seeds/MessageTableSeeder.php" />
       <jump line="14" column="39" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/billing.vue" />
@@ -587,10 +586,11 @@
       <jump line="147" column="25" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/confirm.vue" />
       <jump line="91" column="30" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/confirm.vue" />
       <jump line="43" column="23" filename="$USER_HOME$/Projects/pwh-api/domain/Products/Models/ProductStock.php" />
+      <jump line="81" column="77" filename="$USER_HOME$/Projects/pwh-api/domain/Carts/Models/Cart.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Uid</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -625,16 +625,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Uid</text>
+        <text>$properties['product_id']</text>
       </register>
       <register name="/" type="4">
-        <text>uid</text>
+        <text>I</text>
       </register>
       <register name="0" type="4">
         <text>{{ $t('checkout.complete.title') }}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -643,19 +643,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRBdHRyaWJ1dGVzQXR0cmlidXRlKCkKICAgIHsKICAgICAgICByZXR1cm4gQXR0cmlidXRlOjp3aGVyZUluKCdpZCcsICR0aGlzLT5jb25maWd1cmF0aW9uKS0+Z2V0KCk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRBdHRyaWJ1dGVzQXR0cmlidXRlKCkKICAgIHsKICAgICAgICByZXR1cm4gQXR0cmlidXRlOjp3aGVyZUluKCdpZCcsICR0aGlzLT5jb25maWd1cmF0aW9uKS0+Z2V0KCk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRGaWRDb25maWd1cmF0aW9uKCkKICAgIHsKICAgICAgICByZXR1cm4gQXR0cmlidXRlOjp3aGVyZUluKCdpZCcsICR0aGlzLT5jb25maWd1cmF0aW9uKS0+Z2V0KCktPnBsdWNrKCdmaWQnKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHN0b2NrcykK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRGaWRDb25maWd1cmF0aW9uKCkKICAgIHsKICAgICAgICByZXR1cm4gQXR0cmlidXRlOjp3aGVyZUluKCdpZCcsICR0aGlzLT5jb25maWd1cmF0aW9uKS0+Z2V0KCktPnBsdWNrKCdmaWQnKTsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHN0b2NrcykK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -685,27 +685,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgPGRpdj4tLT4KPCEtLSAgICAgICAgICAgIDxoMSBjbGFzcz0idWstaDIiPnt7ICR0KCdjaGVja291dC5jb25maXJtLnRpdGxlJykgfX08L2gxPi0tPgo8IS0tICAgICAgICAgICAgPHAgdi1odG1sPSIkdCgnY2hlY2tvdXQuY29uZmlybS5pbnRyb2R1Y3Rpb24nKSI+PC9wPi0tPgoKPCEtLSAgICAgICAgICAgIDxoci8+LS0+Cgo8IS0tICAgICAgICAgICAgPHAgdi1odG1sPSIkdCgnY2hlY2tvdXQuY29uZmlybS5ib2R5JykiPjwvcD4tLT4KCjwhLS0gICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay1tYXJnaW4iPi0tPgo8IS0tICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9InNoaXBwaW5nX21lc3NhZ2UiIGNsYXNzPSJ1ay1mb3JtLWxhYmVsIj4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAge3sgJHQoJ2NoZWNrb3V0LmNvbmZpcm0ubWVzc2FnZScpIH19LS0+CjwhLS0gICAgICAgICAgICAgICAgPC9sYWJlbD4tLT4KPCEtLSAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay1mb3JtLWNvbnRyb2xzIj4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgPHRleHRhcmVhIGlkPSJzaGlwcGluZ19tZXNzYWdlIi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9InVrLXRleHRhcmVhIi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdi1tb2RlbD0iZm9ybS5ub3RlcyItLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpwbGFjZWhvbGRlcj0iJHQoJ2NoZWNrb3V0LmNvbmZpcm0ubWVzc2FnZS5wbGFjZWhvbGRlcicpIi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICA+PC90ZXh0YXJlYT4tLT4KPCEtLSAgICAgICAgICAgICAgICA8L2Rpdj4tLT4KPCEtLSAgICAgICAgICAgIDwvZGl2Pi0tPgoKPCEtLSAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLWZvcm0tc3RhY2tlZCI+LS0+CjwhLS0gICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstbWFyZ2luIHVrLXRleHQtcmlnaHQiPi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICA8bnV4dC1saW5rIDp0bz0ibG9jYWxlUGF0aCh7bmFtZTonY2hlY2tvdXQtYmlsbGluZyd9KSItLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0YWc9ImJ1dHRvbiItLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0idWstYnV0dG9uIHVrLWJ1dHRvbi1kZWZhdWx0IHVrLWJ1dHRvbi1sYXJnZSItLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgPi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICAgICAge3sgJHQoJ2NoZWNrb3V0LmJ1dHRvbi5wcmV2aW91c19zdGVwJykgfX0tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgPC9udXh0LWxpbms+LS0+CjwhLS0gICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9InVrLWJ1dHRvbiB1ay1idXR0b24tcHJpbWFyeSB1ay1idXR0b24tbGFyZ2UiLS0+CjwhLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgQGNsaWNrLnByZXZlbnQ9ImNvbmZpcm0iLS0+CjwhLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgOmRpc2FibGVkPSJsb2FkaW5nIi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICA+LS0+CjwhLS0gICAgICAgICAgICAgICAgICAgICAgICB7eyAkdCgnY2hlY2tvdXQuYnV0dG9uLmNvbmZpcm0nKSB9fS0tPgo8IS0tICAgICAgICAgICAgICAgICAgICA8L2J1dHRvbj4tLT4KPCEtLSAgICAgICAgICAgICAgICA8L2Rpdj4tLT4KPCEtLSAgICAgICAgICAgIDwvZGl2Pi0tPgo8IS0tICAgICAgICA8L2Rpdj4tLT4KICAgIDwvc2VjdGlvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">PCEtLSAgICAgICAgPGRpdj4tLT4KPCEtLSAgICAgICAgICAgIDxoMSBjbGFzcz0idWstaDIiPnt7ICR0KCdjaGVja291dC5jb25maXJtLnRpdGxlJykgfX08L2gxPi0tPgo8IS0tICAgICAgICAgICAgPHAgdi1odG1sPSIkdCgnY2hlY2tvdXQuY29uZmlybS5pbnRyb2R1Y3Rpb24nKSI+PC9wPi0tPgoKPCEtLSAgICAgICAgICAgIDxoci8+LS0+Cgo8IS0tICAgICAgICAgICAgPHAgdi1odG1sPSIkdCgnY2hlY2tvdXQuY29uZmlybS5ib2R5JykiPjwvcD4tLT4KCjwhLS0gICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay1tYXJnaW4iPi0tPgo8IS0tICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9InNoaXBwaW5nX21lc3NhZ2UiIGNsYXNzPSJ1ay1mb3JtLWxhYmVsIj4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAge3sgJHQoJ2NoZWNrb3V0LmNvbmZpcm0ubWVzc2FnZScpIH19LS0+CjwhLS0gICAgICAgICAgICAgICAgPC9sYWJlbD4tLT4KPCEtLSAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay1mb3JtLWNvbnRyb2xzIj4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgPHRleHRhcmVhIGlkPSJzaGlwcGluZ19tZXNzYWdlIi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9InVrLXRleHRhcmVhIi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdi1tb2RlbD0iZm9ybS5ub3RlcyItLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpwbGFjZWhvbGRlcj0iJHQoJ2NoZWNrb3V0LmNvbmZpcm0ubWVzc2FnZS5wbGFjZWhvbGRlcicpIi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICA+PC90ZXh0YXJlYT4tLT4KPCEtLSAgICAgICAgICAgICAgICA8L2Rpdj4tLT4KPCEtLSAgICAgICAgICAgIDwvZGl2Pi0tPgoKPCEtLSAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLWZvcm0tc3RhY2tlZCI+LS0+CjwhLS0gICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstbWFyZ2luIHVrLXRleHQtcmlnaHQiPi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICA8bnV4dC1saW5rIDp0bz0ibG9jYWxlUGF0aCh7bmFtZTonY2hlY2tvdXQtYmlsbGluZyd9KSItLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0YWc9ImJ1dHRvbiItLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0idWstYnV0dG9uIHVrLWJ1dHRvbi1kZWZhdWx0IHVrLWJ1dHRvbi1sYXJnZSItLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgPi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICAgICAge3sgJHQoJ2NoZWNrb3V0LmJ1dHRvbi5wcmV2aW91c19zdGVwJykgfX0tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgPC9udXh0LWxpbms+LS0+CjwhLS0gICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9InVrLWJ1dHRvbiB1ay1idXR0b24tcHJpbWFyeSB1ay1idXR0b24tbGFyZ2UiLS0+CjwhLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgQGNsaWNrLnByZXZlbnQ9ImNvbmZpcm0iLS0+CjwhLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgOmRpc2FibGVkPSJsb2FkaW5nIi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICA+LS0+CjwhLS0gICAgICAgICAgICAgICAgICAgICAgICB7eyAkdCgnY2hlY2tvdXQuYnV0dG9uLmNvbmZpcm0nKSB9fS0tPgo8IS0tICAgICAgICAgICAgICAgICAgICA8L2J1dHRvbj4tLT4KPCEtLSAgICAgICAgICAgICAgICA8L2Rpdj4tLT4KPCEtLSAgICAgICAgICAgIDwvZGl2Pi0tPgo8IS0tICAgICAgICA8L2Rpdj4tLT4KICAgIDwvc2VjdGlvbj4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2VtYWlsL3JlZmVyZW5jZS9n</text>
       </register>
     </registers>
     <search>
-      <last-search>uid</last-search>
+      <last-search>I</last-search>
       <last-offset />
-      <last-pattern>uid</last-pattern>
+      <last-pattern>I</last-pattern>
       <last-replace>reference</last-replace>
       <last-substitute>email</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>comp</entry>
         <entry>cool</entry>
         <entry>checkout.shipping</entry>
         <entry>A</entry>
@@ -725,6 +724,7 @@
         <entry>xyz</entry>
         <entry>ref</entry>
         <entry>uid</entry>
+        <entry>I</entry>
       </history-search>
       <history-cmd>
         <entry>s/name/fid/g</entry>
