@@ -34,10 +34,16 @@
         <mark key="^" line="74" column="41" />
         <mark key="." line="74" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Resources/ProductStock.php" timestamp="1568807321709">
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Resources/ProductStock.php" timestamp="1568811931158">
         <mark key="[" line="21" column="41" />
         <mark key="]" line="21" column="41" />
         <mark key="." line="21" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/pwh-pwa/pages/products/_category/_subcategory/_slug/_id/index.vue" timestamp="1568812642153">
+        <mark key="[" line="262" column="24" />
+        <mark key="]" line="264" column="19" />
+        <mark key="." line="264" column="19" />
+        <mark key="^" line="264" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/i18n-selector/index.vue" timestamp="1568105967894">
         <mark key="[" line="36" column="0" />
@@ -102,7 +108,7 @@
         <mark key="^" line="38" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/facade/app/Console/Commands/FireWebhookCommand.php" timestamp="1568800005421" />
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Models/ProductStock.php" timestamp="1568808189911">
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Models/ProductStock.php" timestamp="1568811922716">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -456,12 +462,12 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="16" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" timestamp="1568794852112">
+      <file name="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" timestamp="1568808646576">
         <mark key="'" line="1" column="60" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="65" column="0" />
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="7" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/facade/app/Jobs/FilemakerImportJob.php" timestamp="1568730201858">
         <mark key="'" line="34" column="13" />
@@ -503,9 +509,9 @@
         <mark key="." line="23" column="41" />
         <mark key="^" line="23" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-api/database/seeds/MessageTableSeeder.php" timestamp="1568812680282" />
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/domain/Carts/Models/Cart.php" />
       <jump line="77" column="36" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
       <jump line="115" column="5" filename="$USER_HOME$/Projects/pwh-pwa/store/modules/cart.js" />
@@ -605,10 +611,11 @@
       <jump line="5" column="0" filename="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Handlers/StockSync.php" />
       <jump line="50" column="11" filename="$USER_HOME$/Projects/pwh-api/domain/Products/Models/ProductStock.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/domain/Products/Models/ProductStock.php" />
+      <jump line="153" column="36" filename="$USER_HOME$/Projects/pwh-pwa/pages/products/_category/_subcategory/_slug/_id/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>!</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -643,37 +650,37 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>nu</text>
+        <text>sta</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjpyZW5kZXIoJHJlcXVlc3QsICRleGNlcHRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiB2LWlmPSJwcm9kdWN0LmlzQ29uZmlndXJlZCgpIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgJHQoJ3Byb2R1Y3Quc3RvY2sucHJlY29uZmlndXJlZCcpIH19OgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHN0b2NrLmNvbmZpZ3VyYXRpb24uZXZlcnkoeCA9PiBzZWxlY3RlZC5pbmNsdWRlcyh4KSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IHsKICAgICAgICAgICAgCiAgICAgICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gc3RvY2suY29uZmlndXJhdGlvbi5ldmVyeSh4ID0+IHNlbGVjdGVkLmluY2x1ZGVzKHgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAoaXNfbnVsbCgkdGhpcy0+Y29ubmZpZ3VyYXRpb24pKSB7CiAgICAgICAgLy8gICAgIHJldHVybiBbXTsKICAgICAgICAvLyB9Cgo=</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhbmRhYXJkIC8gcHJlY29uZmlndXJlZC0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRGaWRDb25maWd1cmF0aW9uKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmdldENvbmZpZ3VyYXRpb24oKS0+cGx1Y2soJ2ZpZCcpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgJHQoJ3Byb2R1Y3Quc3RvY2sucHJlY29uZmlndXJlZCcpIH19Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjpyZW5kZXIoJHJlcXVlc3QsICRleGNlcHRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgJHQoJ3Byb2R1Y3Quc3RvY2suc3RhbmRhcmQnKSB9fToK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -702,23 +709,20 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>else {
-        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgJHQoJ3Byb2R1Y3Quc3RvY2sucHJlY29uZmlndXJlZCcpIH19Ogo=</text>
       </register>
-      <register name="9" type="4">
-        <text>else {
-        }
-        ret</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgJHQoJ3Byb2R1Y3Quc3RvY2suc3RhbmRhcmQnKSB9fToK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2VtYWlsL3JlZmVyZW5jZS9n</text>
       </register>
     </registers>
     <search>
-      <last-search>nu</last-search>
+      <last-search>sta</last-search>
       <last-offset />
-      <last-pattern>nu</last-pattern>
+      <last-pattern>sta</last-pattern>
       <last-replace>reference</last-replace>
       <last-substitute>email</last-substitute>
       <last-dir>1</last-dir>
@@ -726,7 +730,6 @@
     </search>
     <history>
       <history-search>
-        <entry>with</entry>
         <entry>line</entry>
         <entry>pag</entry>
         <entry>h3</entry>
@@ -746,6 +749,7 @@
         <entry>respon</entry>
         <entry>respond</entry>
         <entry>nu</entry>
+        <entry>sta</entry>
       </history-search>
       <history-cmd>
         <entry>s/name/fid/g</entry>
