@@ -208,8 +208,8 @@
         <mark key="." line="28" column="15" />
         <mark key="^" line="28" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Handlers/StockSync.php" timestamp="1568212122788">
-        <mark key="[" line="33" column="40" />
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Handlers/StockSync.php" timestamp="1568795362940">
+        <mark key="[" line="23" column="50" />
         <mark key="]" line="33" column="39" />
         <mark key="." line="33" column="39" />
         <mark key="^" line="33" column="39" />
@@ -382,12 +382,7 @@
         <mark key="." line="122" column="0" />
         <mark key="^" line="102" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/facade/app/Services/Filemaker/Mappers/StockMapper.php" timestamp="1568795187569">
-        <mark key="[" line="17" column="101" />
-        <mark key="]" line="17" column="100" />
-        <mark key="^" line="17" column="100" />
-        <mark key="." line="17" column="100" />
-      </file>
+      <file name="$USER_HOME$/Projects/facade/app/Services/Filemaker/Mappers/StockMapper.php" timestamp="1568796719882" />
       <file name="$USER_HOME$/Projects/vesca/resources/views/frontend/benefits.blade.php" timestamp="1567774648957">
         <mark key="[" line="98" column="38" />
         <mark key="]" line="99" column="19" />
@@ -595,7 +590,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -630,37 +625,37 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>icrotime</text>
+        <text encoding="base64">JHRoaXMtPg==</text>
       </register>
       <register name="/" type="4">
         <text>respond</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUuZXJyb3IoZXJyb3IpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">LT5maWx0ZXIoZnVuY3Rpb24gKCRsaXN0KSB7CiAgICAgICAgLy8gICAgIHJldHVybiBjb3VudCgkbGlzdFsncG9ydGFsRGF0YSddWydzdG9jayddKSA+IDA7CiAgICAgICAgLy8gfSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICghKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsZXQgdGhlbiAgPSBuZXcgRGF0ZTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmICghKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhub3cgLSB0aGVuKQo=</text>
+        <text encoding="base64">ICBsZXQgdGhlbiAgPSBuZXcgRGF0ZTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -690,10 +685,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbm93ICA9IG5ldyBEYXRlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCB0aGVuID0gbmV3IERhdGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhub3cgLSB0aGVuKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2VtYWlsL3JlZmVyZW5jZS9n</text>
