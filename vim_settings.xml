@@ -16,6 +16,11 @@
         <mark key="^" line="28" column="50" />
         <mark key="." line="28" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Resources/ProductStock.php" timestamp="1568811931158">
+        <mark key="[" line="21" column="41" />
+        <mark key="]" line="21" column="41" />
+        <mark key="." line="21" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/pages/products/_category/_subcategory/_slug/_id/index.vue" timestamp="1568812642153">
         <mark key="[" line="262" column="24" />
         <mark key="]" line="264" column="19" />
@@ -26,6 +31,11 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/facade/app/Http/Controllers/Filemaker/StockController.php" timestamp="1568817157757">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/storage/logs/laravel.log" timestamp="1568878651881">
         <mark key="'" line="0" column="0" />
@@ -49,6 +59,11 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
         <mark key="^" line="50" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/facade/app/Http/Controllers/FilemakerController.php" timestamp="1568730221895">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/pages/checkout/index.vue" timestamp="1568620681966">
         <mark key="[" line="13" column="34" />
@@ -159,6 +174,11 @@
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Resources/Product.php" timestamp="1568895387213">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/resources/views/report/_pages/taxation.blade.php" timestamp="1568365085233">
         <mark key="[" line="3" column="0" />
@@ -422,12 +442,18 @@
         <mark key="]" line="45" column="34" />
         <mark key="." line="45" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Models/Product.php" timestamp="1568814478741">
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Models/Product.php" timestamp="1568896092972">
         <mark key="'" line="23" column="89" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="23" column="78" />
+        <mark key="[" line="97" column="33" />
+        <mark key="]" line="98" column="19" />
+        <mark key="." line="98" column="19" />
+        <mark key="^" line="98" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/pwh-api/app/Notifications/NotifyProWarehouseSlackChannel.php" timestamp="1568895021356">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="35" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/api/V1/Search/Http/Controllers/BuildingObjectController.php" timestamp="1568879231765">
         <mark key="[" line="12" column="0" />
@@ -507,17 +533,16 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-api/app/Http/Middleware/TenantMiddleware.php" timestamp="1568807095633">
+        <mark key="[" line="31" column="61" />
+        <mark key="]" line="31" column="61" />
+        <mark key="." line="31" column="61" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-product/index.vue" timestamp="1567684567041">
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
         <mark key="^" line="102" column="58" />
-      </file>
-      <file name="$USER_HOME$/Projects/facade/app/Services/Filemaker/Mappers/StockMapper.php" timestamp="1568817962233">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="14" />
-        <mark key="." line="6" column="14" />
-        <mark key="^" line="6" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/app/Http/Middleware/SetLastActivity.php" timestamp="1568892998776">
         <mark key="[" line="18" column="0" />
@@ -686,8 +711,8 @@
       <jump line="29" column="11" filename="$USER_HOME$/Projects/vesca/routes/web.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>calc(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcTm90aWZpY2F0aW9uc1xNZXNzYWdlc1xTbGFja01lc3NhZ2U7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -722,7 +747,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>calc(</text>
+        <text>SlackMessage</text>
       </register>
       <register name="/" type="4">
         <text>compa</text>
@@ -731,28 +756,28 @@
         <text encoding="base64">ICAgICAgICBcQXBwXEh0dHBcTWlkZGxld2FyZVxTZXRMYXN0QWN0aXZpdHk6OmNsYXNzLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+dXNlcigpKTsK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcTm90aWZpY2F0aW9uc1xNZXNzYWdlc1xTbGFja01lc3NhZ2U7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBcQXBwXEh0dHBcTWlkZGxld2FyZVxTZXRMYXN0QWN0aXZpdHk6OmNsYXNzLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJ3VwZGF0ZScpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllKCd1cGRhdGUnKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+dXNlcigpKTsK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBcQXBwXEh0dHBcTWlkZGxld2FyZVxTZXRMYXN0QWN0aXZpdHk6OmNsYXNzLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJ3VwZGF0ZScpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGllKCd1cGRhdGUnKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+dXNlcigpKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -782,10 +807,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBcQXBwXEh0dHBcTWlkZGxld2FyZVxTZXRMYXN0QWN0aXZpdHk6OmNsYXNzLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBcQXBwXEh0dHBcTWlkZGxld2FyZVxTZXRMYXN0QWN0aXZpdHk6OmNsYXNzLAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyB3aWR0aD0iNTAlIi8vZw==</text>
