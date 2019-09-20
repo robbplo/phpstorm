@@ -121,6 +121,12 @@
         <mark key="." line="28" column="15" />
         <mark key="^" line="28" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/ObjectPhoto.vue" timestamp="1568981960815">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="5" />
+        <mark key="^" line="3" column="5" />
+        <mark key="." line="3" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Handlers/StockSync.php" timestamp="1568806281309">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="39" column="14" />
@@ -169,11 +175,12 @@
         <mark key="." line="86" column="37" />
         <mark key="^" line="152" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/views/report/_pages/credentials.blade.php" timestamp="1568892119970">
+      <file name="$USER_HOME$/Projects/vesca/resources/views/report/_pages/credentials.blade.php" timestamp="1568983092994">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Resources/Product.php" timestamp="1568895387213">
         <mark key="[" line="41" column="0" />
@@ -306,7 +313,7 @@
         <mark key="." line="26" column="34" />
         <mark key="^" line="26" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/app/Http/Controllers/PdfController.php" timestamp="1568901670052">
+      <file name="$USER_HOME$/Projects/vesca/app/Http/Controllers/PdfController.php" timestamp="1568982434623">
         <mark key="[" line="30" column="52" />
         <mark key="]" line="50" column="36" />
         <mark key="." line="50" column="36" />
@@ -397,9 +404,9 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/views/report/_pages/introduction.blade.php" timestamp="1568881238782">
-        <mark key="[" line="8" column="45" />
-        <mark key="]" line="15" column="27" />
+      <file name="$USER_HOME$/Projects/vesca/resources/views/report/_pages/introduction.blade.php" timestamp="1568982450382">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="106" />
         <mark key="." line="15" column="24" />
         <mark key="^" line="15" column="23" />
       </file>
@@ -443,11 +450,12 @@
         <mark key="]" line="2" column="61" />
         <mark key="." line="2" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" timestamp="1568896208031">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="36" column="0" />
+      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" timestamp="1568982047810">
+        <mark key="'" line="122" column="22" />
+        <mark key="[" line="36" column="10" />
+        <mark key="]" line="36" column="9" />
+        <mark key="." line="36" column="9" />
+        <mark key="^" line="36" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Models/Product.php" timestamp="1568896092972">
         <mark key="'" line="23" column="89" />
@@ -616,7 +624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21516" column="77" filename="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-09-11.log" />
       <jump line="1316" column="12" filename="$USER_HOME$/Projects/pwh-api/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/app/Nova/OrderLine.php" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/pwh-api/domain/Orders/Models/OrderLine.php" />
@@ -716,10 +723,11 @@
       <jump line="83" column="0" filename="$USER_HOME$/Projects/vesca/app/Http/Kernel.php" />
       <jump line="40" column="0" filename="$USER_HOME$/Projects/vesca/app/Http/Kernel.php" />
       <jump line="29" column="11" filename="$USER_HOME$/Projects/vesca/routes/web.php" />
+      <jump line="117" column="22" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YVsnb2JqZWN0X3Bob3RvJ10gPT4gJHJlcXVlc3QtPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -754,37 +762,37 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>SlackMessage</text>
+        <text>class=&quot;horizontal-align company_logo dyn&quot;</text>
       </register>
       <register name="/" type="4">
         <text>compa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBcQXBwXEh0dHBcTWlkZGxld2FyZVxTZXRMYXN0QWN0aXZpdHk6OmNsYXNzLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJob3Jpem9udGFsLWFsaWduIGNvbXBhbnlfbG9nbyBkeW4iIHNyYz0ie3sgJGRhdGFbJ2NvbXBhbnlfbG9nb19mdWxsJ10gfX0iPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YVsnb2JqZWN0X3Bob3RvJ10gPT4gJHJlcXVlc3QtPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxIdHRwXFJlcXVlc3RzOwp1c2UgSWxsdW1pbmF0ZVxTdXBwb3J0XEZhY2FkZXNcQXBwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIEB1cGRhdGU6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owp1c2UgQXBwXEh0dHBcUmVxdWVzdHM7Cg==</text>
+        <text encoding="base64">ICAgICAgdi1tb2RlbD0iZmlsZSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxCdWlsZGluZ09iamVjdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIEFwcFxCdWlsZGluZ1R5cGU7Cg==</text>
+        <text encoding="base64">PHN0eWxlIHNjb3BlZD4KCjwvc3R5bGU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcTm90aWZpY2F0aW9uc1xNZXNzYWdlc1xTbGFja01lc3NhZ2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsgbGFiZWw6ICdPYmplY3Rmb3RvJyB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+dXNlcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YVsnb2JqZWN0X3Bob3RvJ10gPT4gJHJlcXVlc3QtPgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -814,10 +822,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBcQXBwXEh0dHBcTWlkZGxld2FyZVxTZXRMYXN0QWN0aXZpdHk6OmNsYXNzLAo=</text>
+        <text encoding="base64">dXNlIEFwcFxIdHRwXFJlcXVlc3RzOwp1c2UgSWxsdW1pbmF0ZVxTdXBwb3J0XEZhY2FkZXNcQXBwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJ3VwZGF0ZScpOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owp1c2UgQXBwXEh0dHBcUmVxdWVzdHM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyB3aWR0aD0iNTAlIi8vZw==</text>
