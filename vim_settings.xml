@@ -109,8 +109,8 @@
         <mark key="." line="53" column="44" />
         <mark key="^" line="53" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" timestamp="1568879571218">
-        <mark key="'" line="75" column="0" />
+      <file name="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" timestamp="1569236335525">
+        <mark key="'" line="85" column="61" />
         <mark key="[" line="195" column="0" />
         <mark key="]" line="202" column="9" />
         <mark key="." line="202" column="9" />
@@ -319,11 +319,11 @@
         <mark key="." line="26" column="34" />
         <mark key="^" line="26" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/app/Http/Controllers/PdfController.php" timestamp="1569232341189">
-        <mark key="[" line="40" column="74" />
-        <mark key="]" line="41" column="8" />
-        <mark key="." line="41" column="8" />
-        <mark key="^" line="41" column="8" />
+      <file name="$USER_HOME$/Projects/vesca/app/Http/Controllers/PdfController.php" timestamp="1569236639555">
+        <mark key="[" line="30" column="79" />
+        <mark key="]" line="30" column="79" />
+        <mark key="^" line="31" column="11" />
+        <mark key="." line="30" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Carts/Http/Requests/RemoveFromCartRequest.php" timestamp="1568726496247">
         <mark key="[" line="27" column="52" />
@@ -452,12 +452,12 @@
         <mark key="]" line="2" column="61" />
         <mark key="." line="2" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" timestamp="1569234411650">
-        <mark key="'" line="148" column="25" />
-        <mark key="[" line="148" column="48" />
-        <mark key="]" line="148" column="46" />
-        <mark key="." line="148" column="46" />
-        <mark key="^" line="148" column="46" />
+      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" timestamp="1569235404945">
+        <mark key="'" line="150" column="25" />
+        <mark key="[" line="151" column="14" />
+        <mark key="]" line="151" column="13" />
+        <mark key="." line="151" column="13" />
+        <mark key="^" line="151" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Models/Product.php" timestamp="1568896092972">
         <mark key="'" line="23" column="89" />
@@ -498,6 +498,11 @@
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="6" />
         <mark key="." line="6" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/vesca/composer.json" timestamp="1569236221347">
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="4" />
+        <mark key="." line="34" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/storage/logs/laravel.log" timestamp="1568125939063">
         <mark key="[" line="0" column="0" />
@@ -629,8 +634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="41" filename="$USER_HOME$/Projects/pwh-api/domain/Orders/Models/Order.php" />
-      <jump line="42" column="65" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Gateway/OrderController.php" />
       <jump line="29568" column="17" filename="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-09-11.log" />
       <jump line="29828" column="11" filename="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-09-11.log" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-09-11.log" />
@@ -729,10 +732,12 @@
       <jump line="35" column="18" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" />
       <jump line="182" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" />
       <jump line="147" column="25" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" />
+      <jump line="202" column="0" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
+      <jump line="85" column="61" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new FormData();</text>
+        <text>values()</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -767,7 +772,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>new FormData();</text>
+        <text>values()</text>
       </register>
       <register name="/" type="4">
         <text>impo</text>
@@ -782,22 +787,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgZm9yIChsZXQgW2tleSwgdmFsdWVdIG9mIE9iamVjdC5lbnRyaWVzKGRhdGEpKSB7CiAgICAgICAgICBmb3JtRGF0YS5hcHBlbmQoa2V5LCB2YWx1ZSkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LT5bJ2RhdGEnLCAnb2JqZWN0UGhvdG8nXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3QuZW50cmllcyhkYXRhKS5mb3JFYWNoKCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3QuZW50cmllcyhkYXRhKS5mb3JFYWNoKCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICAgICAgZm9yIChsZXQgW2tleSwgdmFsdWVdIG9mIE9iamVjdC5lbnRyaWVzKGRhdGEpKSB7CiAgICAgICAgICBmb3JtRGF0YS5hcHBlbmQoa2V5LCB2YWx1ZSkKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBPYmplY3QuZW50cmllcyhkYXRhKS5mb3JFYWNoKCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBPYmplY3QuZW50cmllcyhkYXRhKS5mb3JFYWNoKCkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcGRmLT5hZGRNZWRpYSgnJykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -827,10 +832,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDpmaWxlPSJpbmZvLm9iamVjdFBob3RvIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN1Ym1pdCgpIHsKICAgICAgdGhpcy5vblN1Ym1pdCgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkcGRmLT5hZGRNZWRpYSgnJykK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyB3aWR0aD0iNTAlIi8vZw==</text>
