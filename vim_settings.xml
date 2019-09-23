@@ -121,11 +121,11 @@
         <mark key="." line="28" column="15" />
         <mark key="^" line="28" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/ObjectPhoto.vue" timestamp="1569226271916">
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="14" column="24" />
-        <mark key="^" line="14" column="24" />
-        <mark key="." line="14" column="24" />
+      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/ObjectPhoto.vue" timestamp="1569231553220">
+        <mark key="[" line="25" column="20" />
+        <mark key="]" line="25" column="20" />
+        <mark key="." line="25" column="20" />
+        <mark key="^" line="32" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Handlers/StockSync.php" timestamp="1568806281309">
         <mark key="'" line="5" column="0" />
@@ -224,6 +224,11 @@
         <mark key="^" line="54" column="83" />
         <mark key="." line="56" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/vesca/app/Pdf.php" timestamp="1569232359626">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/vesca/resources/views/frontend/benefits.blade.php" timestamp="1567774648957">
         <mark key="[" line="98" column="38" />
         <mark key="]" line="99" column="19" />
@@ -314,11 +319,11 @@
         <mark key="." line="26" column="34" />
         <mark key="^" line="26" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/app/Http/Controllers/PdfController.php" timestamp="1568982434623">
-        <mark key="[" line="30" column="52" />
-        <mark key="]" line="50" column="36" />
-        <mark key="." line="50" column="36" />
-        <mark key="^" line="50" column="36" />
+      <file name="$USER_HOME$/Projects/vesca/app/Http/Controllers/PdfController.php" timestamp="1569232341189">
+        <mark key="[" line="40" column="74" />
+        <mark key="]" line="41" column="8" />
+        <mark key="." line="41" column="8" />
+        <mark key="^" line="41" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Carts/Http/Requests/RemoveFromCartRequest.php" timestamp="1568726496247">
         <mark key="[" line="27" column="52" />
@@ -447,12 +452,12 @@
         <mark key="]" line="2" column="61" />
         <mark key="." line="2" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" timestamp="1569226302233">
-        <mark key="'" line="182" column="0" />
-        <mark key="[" line="1" column="37" />
-        <mark key="]" line="1" column="36" />
-        <mark key="." line="1" column="36" />
-        <mark key="^" line="1" column="36" />
+      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" timestamp="1569234411650">
+        <mark key="'" line="148" column="25" />
+        <mark key="[" line="148" column="48" />
+        <mark key="]" line="148" column="46" />
+        <mark key="." line="148" column="46" />
+        <mark key="^" line="148" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Models/Product.php" timestamp="1568896092972">
         <mark key="'" line="23" column="89" />
@@ -549,6 +554,10 @@
         <mark key="]" line="31" column="61" />
         <mark key="." line="31" column="61" />
       </file>
+      <file name="$USER_HOME$/Projects/vesca/resources/js/components/results/partials/generate/ModelMarketValue.vue" timestamp="1569231401709">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="36" column="10" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-product/index.vue" timestamp="1567684567041">
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="0" />
@@ -620,7 +629,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/pwh-api/domain/Orders/Models/OrderLine.php" />
       <jump line="66" column="41" filename="$USER_HOME$/Projects/pwh-api/domain/Orders/Models/Order.php" />
       <jump line="42" column="65" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Gateway/OrderController.php" />
       <jump line="29568" column="17" filename="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-09-11.log" />
@@ -720,10 +728,11 @@
       <jump line="117" column="22" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" />
       <jump line="35" column="18" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" />
       <jump line="182" column="0" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" />
+      <jump line="147" column="25" filename="$USER_HOME$/Projects/vesca/resources/js/components/results/Generate.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hasReferences</text>
+        <text>new FormData();</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -758,13 +767,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>hasReferences</text>
+        <text>new FormData();</text>
       </register>
       <register name="/" type="4">
-        <text>compa</text>
+        <text>impo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJob3Jpem9udGFsLWFsaWduIGNvbXBhbnlfbG9nbyBkeW4iIHNyYz0ie3sgJGRhdGFbJ2NvbXBhbnlfbG9nb19mdWxsJ10gfX0iPgo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC14cy0xMiB0ZXh0LWNlbnRlciBzdGVwLWFjdGlvbiI+CiAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4taW5mbyBidG4tbGciIEBjbGljay5wcmV2ZW50PSJzdWJtaXQiPgogICAgICAgIFZvbGdlbmRlIHN0YXAKICAgICAgICA8ZGl2IGNsYXNzPSJpb24taWNvbiBpb24tY2hldnJvbi1yaWdodCI+PC9kaXY+CiAgICAgIDwvYnV0dG9uPgogICAgPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -773,22 +782,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIEB1cGRhdGU6Cg==</text>
+        <text encoding="base64">CiAgICAgICAgZm9yIChsZXQgW2tleSwgdmFsdWVdIG9mIE9iamVjdC5lbnRyaWVzKGRhdGEpKSB7CiAgICAgICAgICBmb3JtRGF0YS5hcHBlbmQoa2V5LCB2YWx1ZSkKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdi1tb2RlbD0iZmlsZSIK</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3QuZW50cmllcyhkYXRhKS5mb3JFYWNoKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3QuZW50cmllcyhkYXRhKS5mb3JFYWNoKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PHN0eWxlIHNjb3BlZD4KCjwvc3R5bGU+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsgbGFiZWw6ICdPYmplY3Rmb3RvJyB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YVsnb2JqZWN0X3Bob3RvJ10gPT4gJHJlcXVlc3QtPgo=</text>
+        <text encoding="base64">ICAgICAgICAkcGRmLT5hZGRNZWRpYSgnJykK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -818,27 +827,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFwcFxIdHRwXFJlcXVlc3RzOwp1c2UgSWxsdW1pbmF0ZVxTdXBwb3J0XEZhY2FkZXNcQXBwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDpmaWxlPSJpbmZvLm9iamVjdFBob3RvIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owp1c2UgQXBwXEh0dHBcUmVxdWVzdHM7Cg==</text>
+        <text encoding="base64">ICAgIHN1Ym1pdCgpIHsKICAgICAgdGhpcy5vblN1Ym1pdCgpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyB3aWR0aD0iNTAlIi8vZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>compa</last-search>
+      <last-search>impo</last-search>
       <last-offset />
-      <last-pattern>compa</last-pattern>
+      <last-pattern>impo</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IHdpZHRoPSI1MCUi</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pro</entry>
         <entry>p</entry>
         <entry>respon</entry>
         <entry>respond</entry>
@@ -858,6 +866,7 @@
         <entry>\.left</entry>
         <entry>right</entry>
         <entry>compa</entry>
+        <entry>impo</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2FkZHJlc3Mvc2VsZWN0ZWRBZGRyZXNzL2c=</entry>
