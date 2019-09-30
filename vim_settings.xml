@@ -50,10 +50,22 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/vesca/storage/logs/laravel.log" timestamp="1568878651881">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-09-10.log" timestamp="1568125884866">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/vesca/app/Http/Kernel.php" timestamp="1568893032621">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Carts/Http/Resources/Cart.php" timestamp="1568726138641">
         <mark key="[" line="44" column="0" />
@@ -110,9 +122,11 @@
         <mark key="." line="53" column="44" />
         <mark key="^" line="53" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" timestamp="1569239196933">
-        <mark key="'" line="85" column="61" />
-        <mark key="[" line="124" column="68" />
+      <file name="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" timestamp="1569842865431">
+        <mark key="'" line="296" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/facade/app/Services/Filemaker/Mappers/PriceMapper.php" timestamp="1568190209267">
         <mark key="[" line="28" column="13" />
@@ -281,6 +295,12 @@
         <mark key="]" line="27" column="69" />
         <mark key="." line="27" column="69" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-09-17.log" timestamp="1568716702721">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/footer.blade.php" timestamp="1569835764399">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -376,6 +396,11 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
         <mark key="^" line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/vesca/app/DeleteMe.php" timestamp="1569842983234">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page4.blade.php" timestamp="1569836145769">
         <mark key="'" line="61" column="85" />
@@ -687,8 +712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="419" column="34" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
-      <jump line="11" column="0" filename="$USER_HOME$/Projects/vesca/resources/views/report/_pages/reference_images.blade.php" />
       <jump line="428" column="4" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
       <jump line="426" column="32" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
       <jump line="247" column="22" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
@@ -787,10 +810,12 @@
       <jump line="20" column="16" filename="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Types/QuotationBrands.php" />
       <jump line="22" column="31" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page6.blade.php" />
       <jump line="61" column="85" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page4.blade.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
+      <jump line="296" column="0" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIEFwcFxTZXJ2aWNlc1xGaWxlbWFrZXJcQXBpOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxOb3RpZmljYXRpb25zXFJhcHBvcnREb25lOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -834,28 +859,28 @@
         <text encoding="base64">bmFtZXNwYWNlIEFwcFxTZXJ2aWNlc1xGaWxlbWFrZXJcQXBpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNlIEFwcFxOb3RpZmljYXRpb25zXFJhcHBvcnREb25lOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgk8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+CgkJLy8gZG9jdW1lbnQud3JpdGUoJycpCgkJLy8gZG9jdW1lbnQucXVlcnlTZWxlY3RvcigiLmluaXRpYWxzIikuY2xhc3NMaXN0LmFkZCgiaGlkZSIpOwoJPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29udHJhY3RzXFF1ZXVlXFNob3VsZFF1ZXVlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbHQ9IkZpbmlzaCBCdWlsZGluZyBsb2dvIgo=</text>
+        <text encoding="base64">dXNlIEFwcFxCdWlsZGluZ09iamVjdDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJyA9CiAgICAgICAgICAgICAgICAgICAgJ2ZpbmlzaF9idWlsZGluZycgPT4gWwo=</text>
+        <text encoding="base64">dXNlIEFwcFxCdWlsZGluZ09iamVjdDsKdXNlIEFwcFxQZGY7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgogICAgICAgIC8vICRicmFuZHNbJ3Fsb29kcyddID0gbmV3IFF1b3RhdGlvbkJyYW5kKAogICAgICAgIC8vICAgICAnUSBMb29kcycsCiAgICAgICAgLy8gICAgIHB1YmxpY19wYXRoKCcvcXVvdGF0aW9uX2hlYWRlcl9xbG9vZHMnKQogICAgICAgIC8v</text>
+      <register name="5" type="2">
+        <text encoding="base64">dXNlIEFwcFxOb3RpZmljYXRpb25zXFJhcHBvcnREb25lOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkYnJhbmRzWydmaW5pc2hfYnVpbGRpbmcnXSA9IG5ldyBRdW90YXRpb25CcmFuZCgKICAgICAgICAgICAgJ0ZpbmlzaCBCdWlsZGluZycsCiAgICAgICAgICAgIHB1YmxpY19wYXRoKCcvcXVvdGF0aW9uX2hlYWRlci5wbmcnKSwKICAgICAgICAgICAgJ3d3dy5maW5pc2gtYnVpbGRpbmcubmwnLAogICAgICAgICAgICAnaW5mb0BmaW5pc2gtYnVpbGRpbmcubmwnLAogICAgICAgICAgICAnVCArMzEgKDApMjk5IDQ1IDEyIDQzJwogICAgICAgICk7Cg==</text>
+        <text encoding="base64">Cgk8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+CgkJLy8gZG9jdW1lbnQud3JpdGUoJycpCgkJLy8gZG9jdW1lbnQucXVlcnlTZWxlY3RvcigiLmluaXRpYWxzIikuY2xhc3NMaXN0LmFkZCgiaGlkZSIpOwoJPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -885,10 +910,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYnJhbmRzID0gW107Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbHQ9IkZpbmlzaCBCdWlsZGluZyBsb2dvIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJyA9CiAgICAgICAgICAgICAgICAgICAgJ2ZpbmlzaF9idWlsZGluZycgPT4gWwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyB3aWR0aD0iNTAlIi8vZw==</text>
