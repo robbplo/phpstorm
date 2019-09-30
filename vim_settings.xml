@@ -12,9 +12,9 @@
       <file name="/a.dummy" timestamp="1569848113488">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Generator.php" timestamp="1569831331111">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="30" />
+      <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Generator.php" timestamp="1569849628644">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Resources/ProductStock.php" timestamp="1568811931158">
         <mark key="[" line="21" column="41" />
@@ -98,6 +98,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/app/Nova/Actions/DownloadQuotation.php" timestamp="1569850805947" />
       <file name="$USER_HOME$/Projects/pwh-api/domain/Addresses/Models/Address.php" timestamp="1567672033878">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -123,10 +124,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page6.blade.php" timestamp="1569847864738">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="20" column="7" />
+      <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page6.blade.php" timestamp="1569849015402">
+        <mark key="[" line="6" column="194" />
+        <mark key="]" line="6" column="194" />
+        <mark key="." line="6" column="194" />
         <mark key="^" line="22" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/pages/products/_category.vue" timestamp="1567681505414">
@@ -143,6 +144,12 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/app/Offer.php" timestamp="1569850294251">
+        <mark key="[" line="76" column="39" />
+        <mark key="]" line="76" column="39" />
+        <mark key="^" line="76" column="39" />
+        <mark key="." line="76" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/database/factories/CartFactory.php" timestamp="1568627206046">
         <mark key="[" line="27" column="69" />
@@ -180,6 +187,11 @@
         <mark key="]" line="27" column="53" />
         <mark key="." line="27" column="53" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/.env" timestamp="1569849781676">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="17" />
+        <mark key="." line="21" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/components/layout/footerCopyright.vue" timestamp="1568105833955">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -204,26 +216,46 @@
         <mark key="." line="2" column="76" />
         <mark key="^" line="39" column="66" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Manager.php" timestamp="1569849325111">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="28" column="8" />
+        <mark key="^" line="28" column="8" />
+        <mark key="." line="28" column="8" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/app/Providers/RouteServiceProvider.php" timestamp="1568115659911">
         <mark key="[" line="49" column="13" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/PdfManager.php" timestamp="1569850173558">
+        <mark key="'" line="34" column="26" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="83" />
+        <mark key="^" line="42" column="20" />
+        <mark key="." line="42" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Types/QuotationBrand.php" timestamp="1569834210621">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Jobs/GenerateOfferPdfs.php" timestamp="1569848113002">
-        <mark key="[" line="39" column="49" />
-        <mark key="]" line="39" column="48" />
-        <mark key="." line="39" column="48" />
-        <mark key="^" line="39" column="48" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Jobs/GenerateOfferPdfs.php" timestamp="1569849358017">
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="36" column="24" />
+        <mark key="." line="36" column="24" />
+        <mark key="^" line="36" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/infrastructure/Traits/HasPrices.php" timestamp="1568208308456">
         <mark key="[" line="10" column="55" />
         <mark key="]" line="10" column="55" />
         <mark key="." line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/app/Console/Commands/RegeneratePdfs.php" timestamp="1569850232878">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="44" column="34" />
+        <mark key="]" line="44" column="31" />
+        <mark key="." line="44" column="31" />
+        <mark key="^" line="44" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/categorySlider.vue" timestamp="1568105533208">
         <mark key="[" line="2" column="61" />
@@ -273,7 +305,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569832311465">
+      <file name="/Dummy.txt" timestamp="1569849150274">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/resources/views/report/_pages/table_of_contents.blade.php" timestamp="1568284653751">
@@ -315,9 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/Projects/pwh-pwa/store/modules/cart.js" />
-      <jump line="41" column="65" filename="$USER_HOME$/Projects/pwh-api/domain/Orders/Listeners/ProcessOrderListener.php" />
-      <jump line="45" column="62" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout.vue" />
       <jump line="93" column="23" filename="$USER_HOME$/Projects/pwh-pwa/store/modules/authentication.js" />
       <jump line="92" column="32" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/confirm.vue" />
       <jump line="93" column="17" filename="$USER_HOME$/Projects/pwh-pwa/pages/checkout/confirm.vue" />
@@ -415,10 +444,13 @@
       <jump line="11" column="44" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page1.blade.php" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page1.blade.php" />
       <jump line="58" column="0" filename="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Quotation.php" />
+      <jump line="34" column="26" filename="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/PdfManager.php" />
+      <jump line="45" column="10" filename="$USER_HOME$/Projects/finish-building/app/Console/Commands/RegeneratePdfs.php" />
+      <jump line="23" column="0" filename="$USER_HOME$/Projects/finish-building/app/Console/Commands/RegeneratePdfs.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGZpbGUK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -453,37 +485,37 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>'finish_building'</text>
+        <text>Clear all generated pdfs and generate them again for every offer</text>
       </register>
       <register name="/" type="4">
         <text>L</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQk8ZGl2IGNsYXNzPSJmLWxpbmUtMSI+PHNwYW4+e3sgJGJyYW5kWydrdmsnXSB9fTwvc3Bhbj48c3Bhbj57eyAkYnJhbmRbJ2J0dyddIH19PC9zcGFuPjxzcGFuPnt7ICRicmFuZFsnaWJhbiddIH19PC9zcGFuPjxzcGFuPnt7ICRicmFuZFsnYmljJ10gfX08L3NwYW4+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZmlsZXMgPSBTdG9yYWdlOjpkaXNrKCdsb2NhbCcpLT5hbGxGaWxlcygkdGhpcy0+b2ZmZXItPmdldFBkZkRpcmVjdG9yeSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGZpbGUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkZmlsZXMgPSBTdG9yYWdlOjpkaXNrKCdsb2NhbCcpLT5hbGxGaWxlcygkdGhpcy0+b2ZmZXItPmdldFBkZkRpcmVjdG9yeSgpKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAobmV3IFF1b3RhdGlvbigkdGhpcy0+b2ZmZXIsIHRydWUpKS0+c3RvcmVQZGYoKTsKICAgICAgICAobmV3IFF1b3RhdGlvbigkdGhpcy0+b2ZmZXIsIGZhbHNlKSktPnN0b3JlUGRmKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPZmZlcjo6YWxsKCktPmVhY2goZnVuY3Rpb24gKE9mZmVyICRvZmZlcikgewogICAgICAgICAgICBQZGZNYW5hZ2VyOjptYWtlKCRvZmZlcikKICAgICAgICAgICAgICAgIC0+Y2xlYXIoKQogICAgICAgICAgICAgICAgLT5nZW5lcmF0ZSgpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAkcmV0dXJuID0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24ga2V5cygpCg==</text>
+        <text encoding="base64">CiAgICAgICAgLy8gU3RvcmFnZTo6ZGlzaygnbG9jYWwnKS0+cHV0KCR0aGlzLT5nZXRQZGZQYXRoKCksICRwZGYpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dXNlIEluZnJhc3RydWN0dXJlXFBkZnNcUGFydHNMaXN0Owp1c2UgSW5mcmFzdHJ1Y3R1cmVcUGRmc1xRdW90YXRpb247CnVzZSBJbmZyYXN0cnVjdHVyZVxQZGZzXFR5cGVzXFF1b3RhdGlvbkJyYW5kczsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -513,10 +545,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMYXJzIEJha2tlcjxicj5GaW5pc2ggQnVpbGRpbmc8YnI+T25kZXJkZWVsIHZhbiBGaW5pc2ggUHJvZmlsZXMgQlYK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAobmV3IFBhcnRzTGlzdCgkdGhpcy0+b2ZmZXIpKS0+c3RvcmVQZGYoKTsKCiAgICAgICAgZm9yZWFjaCAoUXVvdGF0aW9uQnJhbmRzOjprZXlzKCkgYXMgJGJyYW5kS2V5KSB7CiAgICAgICAgICAgIChuZXcgUXVvdGF0aW9uKCR0aGlzLT5vZmZlciwgdHJ1ZSwgJGJyYW5kS2V5KSktPnN0b3JlUGRmKCk7CiAgICAgICAgICAgIChuZXcgUXVvdGF0aW9uKCR0aGlzLT5vZmZlciwgZmFsc2UsICRicmFuZEtleSkpLT5zdG9yZVBkZigpOwogICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyB3aWR0aD0iNTAlIi8vZw==</text>
