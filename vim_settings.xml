@@ -541,6 +541,11 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="44" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" timestamp="1569934059984">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Observers/OfferObserver.php" timestamp="1569916132137">
         <mark key="[" line="30" column="21" />
         <mark key="]" line="30" column="21" />
@@ -594,6 +599,13 @@
         <mark key="[" line="10" column="304" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/domain/Buildings/Building.php" timestamp="1569934265648">
+        <mark key="'" line="235" column="16" />
+        <mark key="[" line="235" column="0" />
+        <mark key="]" line="235" column="0" />
+        <mark key="." line="235" column="0" />
+        <mark key="^" line="235" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Orders/Listeners/ProcessOrderListener.php" timestamp="1569926625603">
         <mark key="[" line="77" column="88" />
@@ -686,6 +698,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/finish-building/database/factories/OfferFactory.php" timestamp="1569933693364">
+        <mark key="[" line="51" column="22" />
+        <mark key="]" line="51" column="22" />
+        <mark key="^" line="51" column="22" />
+        <mark key="." line="51" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/database/migrations/2019_09_05_082116_add_address_additions_to_orders_table.php" timestamp="1567671716164">
         <mark key="[" line="16" column="65" />
         <mark key="]" line="16" column="66" />
@@ -749,11 +767,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="40" filename="$USER_HOME$/Projects/facade/app/Jobs/FilemakerImportJob.php" />
-      <jump line="50" column="0" filename="$USER_HOME$/Projects/facade/app/Jobs/FilemakerImportJob.php" />
-      <jump line="44" column="51" filename="$USER_HOME$/Projects/facade/app/Jobs/FilemakerImportJob.php" />
-      <jump line="41" column="13" filename="$USER_HOME$/Projects/facade/app/Jobs/FilemakerImportJob.php" />
-      <jump line="39" column="19" filename="$USER_HOME$/Projects/facade/app/Jobs/FilemakerImportJob.php" />
       <jump line="36" column="13" filename="$USER_HOME$/Projects/facade/app/Jobs/FilemakerImportJob.php" />
       <jump line="34" column="13" filename="$USER_HOME$/Projects/facade/app/Jobs/FilemakerImportJob.php" />
       <jump line="7" column="6" filename="$USER_HOME$/Projects/facade/app/Services/DispatchesWebhooks.php" />
@@ -849,10 +862,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/facade/storage/logs/laravel-2019-10-01.log" />
       <jump line="69" column="0" filename="$USER_HOME$/Projects/facade/storage/logs/laravel-2019-10-01.log" />
       <jump line="54" column="76" filename="$USER_HOME$/Projects/facade/app/Http/Controllers/Gateway/OrderController.php" />
+      <jump line="232" column="65" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Building.php" />
+      <jump line="52" column="35" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Building.php" />
+      <jump line="28" column="20" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Building.php" />
+      <jump line="68" column="14" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Building.php" />
+      <jump line="235" column="16" filename="$USER_HOME$/Projects/finish-building/domain/Buildings/Building.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(int) $line['orderable']['fdb_id'] ?? (int) $line['orderable']['fid'],</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkdW1wKCR4KTsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -887,37 +905,37 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>(int) $line['orderable']['fdb_id'] ?? (int) $line['orderable']['fid'],</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
-        <text>Key</text>
+        <text>off</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdvcmRlckxpbmU6OnByb2R1Y3RJZCcgICAgICAgICAgID0+IChpbnQpICRsaW5lWydvcmRlcmFibGUnXVsnZmRiX2lkJ10gPz8gKGludCkgJGxpbmVbJ29yZGVyYWJsZSddWydmaWQnXSwK</text>
+        <text encoding="base64">ICAgICAgICAnZ3V0dGVyX3R5cGUnID0+IDEsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKGludCkgJGxpbmVbJ29yZGVyYWJsZSddWydmZGJfaWQnXSA/PyAoaW50KSAkbGluZVsnb3JkZXJhYmxlJ11bJ2ZpZCddCg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCR4KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRjb25maWd1cmF0aW9uID0gQXR0cmlidXRlOjp3aGVyZUluKCdpZCcsICRsaW5lWydjb25maWd1cmF0aW9uJ10pCiAgICAgICAgICAgICAgICAgICAgLT5wbHVjaygnY29uZmlnX2lkJykKICAgICAgICAgICAgICAgICAgICAtPnNvcnQoKQogICAgICAgICAgICAgICAgICAgIC0+dmFsdWVzKCkKICAgICAgICAgICAgICAgICAgICAtPnRvQXJyYXkoKTsKICAgICAgICAgICAgICAgICRsaW5lRGF0YVsnY29uZmlndXJhdGlvbiddID0gJGNvbmZpZ3VyYXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHJldHVybiBDYWNoZTo6cmVtZW1iZXJGb3JldmVyKCJvZmZlcl9wcmljZV97JHRoaXMtPmlkfSIsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgIC8vIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gJ+KCrCAnIC4gbW9uZXlfZm9ybWF0KCclPS4hbicsICR0aGlzLT5nZXRCdWlsZGluZygpLT5nZXRQcmljZSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRsaW5lRGF0YVsnY29uZmlndXJhdGlvbiddID0gJGNvbmZpZ3VyYXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKGludCkgJGxpbmVbJ29yZGVyYWJsZSddWydmZGJfaWQnXSA/PyAoaW50KSAkbGluZVsnb3JkZXJhYmxlJ11bJ2ZpZCddCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRjb25maWd1cmF0aW9uID0gQXR0cmlidXRlOjp3aGVyZUluKCdpZCcsICRsaW5lWydjb25maWd1cmF0aW9uJ10pCiAgICAgICAgICAgICAgICAgICAgLT5wbHVjaygnY29uZmlnX2lkJykKICAgICAgICAgICAgICAgICAgICAtPnNvcnQoKQogICAgICAgICAgICAgICAgICAgIC0+dmFsdWVzKCkKICAgICAgICAgICAgICAgICAgICAtPnRvQXJyYXkoKTsKICAgICAgICAgICAgICAgICRsaW5lRGF0YVsnY29uZmlndXJhdGlvbiddID0gJGNvbmZpZ3VyYXRpb247Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -947,27 +965,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZm9yIGVhY2ggYXR0cmlidXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZm9yIGVhY2ggYXR0cmlidXRlCiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRsaW5lRGF0YVsnY29uZmlndXJhdGlvbiddID0gJGNvbmZpZ3VyYXRpb247Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyB3aWR0aD0iNTAlIi8vZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>Key</last-search>
+      <last-search>off</last-search>
       <last-offset />
-      <last-pattern>Key</last-pattern>
+      <last-pattern>off</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IHdpZHRoPSI1MCUi</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">IHdpZHRoPSI1MCUi</entry>
         <entry>this</entry>
         <entry>data</entry>
         <entry>h2</entry>
@@ -987,6 +1004,7 @@
         <entry>Pd</entry>
         <entry>io</entry>
         <entry>Key</entry>
+        <entry>off</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2FkZHJlc3Mvc2VsZWN0ZWRBZGRyZXNzL2c=</entry>
