@@ -500,11 +500,12 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/app/Jobs/TableOfContents.php" timestamp="1570092423678">
-        <mark key="[" line="26" column="38" />
-        <mark key="]" line="24" column="18" />
-        <mark key="." line="24" column="18" />
-        <mark key="^" line="24" column="18" />
+      <file name="$USER_HOME$/Projects/vesca/app/Jobs/TableOfContents.php" timestamp="1570103168173">
+        <mark key="'" line="27" column="11" />
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="26" column="22" />
+        <mark key="." line="26" column="22" />
+        <mark key="^" line="26" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" timestamp="1569934059984">
         <mark key="[" line="129" column="0" />
@@ -616,9 +617,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/views/report/_pages/table_of_contents.blade.php" timestamp="1570091548234">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="61" />
+      <file name="$USER_HOME$/Projects/vesca/resources/views/report/_pages/table_of_contents.blade.php" timestamp="1570102773214">
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="14" column="70" />
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/app/Http/Middleware/Authenticate.php" timestamp="1568893039482">
@@ -712,7 +713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="462" column="0" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
       <jump line="43" column="8" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
       <jump line="53" column="8" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
       <jump line="61" column="15" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
@@ -812,10 +812,11 @@
       <jump line="33" column="20" filename="$USER_HOME$/Projects/vesca/resources/views/report/_pages/reference_images.blade.php" />
       <jump line="107" column="11" filename="$USER_HOME$/Projects/vesca/app/DeleteMe.php" />
       <jump line="23" column="10" filename="$USER_HOME$/Projects/vesca/app/Jobs/TableOfContents.php" />
+      <jump line="27" column="11" filename="$USER_HOME$/Projects/vesca/app/Jobs/TableOfContents.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>toArray</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIkdlZ2V2ZW5zIHZhbiBkZSB3b25pbmciID0+IDIsCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -853,34 +854,34 @@
         <text>toArray</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGVhbSA9ICRwZGYtPnVzZXItPmN1cnJlbnRUZWFtOwo=</text>
+      <register name="0" type="4">
+        <text>De getaxeerde Modelmarktwaarde</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIkdlZ2V2ZW5zIHZhbiBkZSB3b25pbmciID0+IDIsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2xhYmVsJyA9Pg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2xhYmVsJyA9Pg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">WwogICAgICAgICAgICAnbGFiZWwnID0+ICJPdmVyIHskdGVhbS0+bmFtZX0iLAogICAgICAgICAgICAncGFnZXMnID0+IDEsCiAgICAgICAgXQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAvLyAKCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAkY29tcGFueU5hbWUgPSAkdGhpcy0+cGRmLT5kYXRhWydjb21wYW55X25hbWUnXTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+cGRmLT5kYXRhKTsK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+cGRmLT5kYXRhKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -910,27 +911,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkY29tcGFueU5hbWUgPSAnbWFuZCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgICAkY29tcGFueU5hbWUgPSAnbWFuZCc7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/'/&quot;/g</text>
+        <text>s/&quot;/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>impo</entry>
         <entry>AT</entry>
         <entry>hs</entry>
         <entry>get</entry>
@@ -950,9 +950,9 @@
         <entry>data</entry>
         <entry>T</entry>
         <entry>'</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2NoZWNrb3V0Ly9n</entry>
         <entry>s/checkout.shipping/address.form/g</entry>
         <entry encoding="base64">JzwsJz5zL19wYXJjZWwvZw==</entry>
         <entry encoding="base64">JzwsJz5zL19wYXJjZWwvL2c=</entry>
@@ -972,6 +972,7 @@
         <entry encoding="base64">JzwsJz5zL2RyaXZlci9kcml2ZXJzL2c=</entry>
         <entry>S/'/&quot;</entry>
         <entry>s/'/&quot;/g</entry>
+        <entry>s/&quot;/'/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
