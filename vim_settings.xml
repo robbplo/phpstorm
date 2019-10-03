@@ -22,7 +22,7 @@
         <mark key="^" line="28" column="50" />
         <mark key="." line="28" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Generator.php" timestamp="1570081098118">
+      <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Generator.php" timestamp="1570082465518">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
@@ -171,11 +171,11 @@
         <mark key="^" line="17" column="13" />
         <mark key="." line="17" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/app/Nova/Actions/DownloadQuotation.php" timestamp="1569915707522">
-        <mark key="[" line="57" column="24" />
-        <mark key="]" line="57" column="22" />
-        <mark key="." line="57" column="22" />
-        <mark key="^" line="57" column="22" />
+      <file name="$USER_HOME$/Projects/finish-building/app/Nova/Actions/DownloadQuotation.php" timestamp="1570083041086">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="40" column="21" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Addresses/Models/Address.php" timestamp="1567672033878">
         <mark key="[" line="19" column="0" />
@@ -222,7 +222,7 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/routes/web.php" timestamp="1570004246484">
+      <file name="$USER_HOME$/Projects/finish-building/routes/web.php" timestamp="1570082959045">
         <mark key="'" line="19" column="121" />
         <mark key="[" line="19" column="94" />
         <mark key="]" line="19" column="94" />
@@ -762,7 +762,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRyb3V0ZSwgJGZpZWxkcy0+ZGlzcGxheV9icmFuZGluZyk7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -797,37 +797,37 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>$response</text>
+        <text>'The quotation is not ready yet, please wait a minute.'</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkZXh0ZW5zaW9ucyA9IFsKICAgICAgICAgICAgJ0Blc2EubmwnLAogICAgICAgICAgICAnQHNtaXQubmV0JywKICAgICAgICBdOwogICAgICAgICR0aGlzLT5zdG9yZS0+cHJlZmVyZW5jZXMoKQogICAgICAgICAgICAtPnNldCgnYWxsb3dlZF9lbWFpbF9leHRlbnNpb25zJywgJGV4dGVuc2lvbnMpCiAgICAgICAgICAgIC0+c2F2ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEFjdGlvbjo6ZGFuZ2VyKCdUaGUgcXVvdGF0aW9uIGlzIG5vdCByZWFkeSB5ZXQsIHBsZWFzZSB3YWl0IGEgbWludXRlLicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRyb3V0ZSwgJGZpZWxkcy0+ZGlzcGxheV9icmFuZGluZyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcXVlc3QtPnN0b3JlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRyb3V0ZSwgJCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnbWFuZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEFjdGlvbjo6ZGFuZ2VyKCRicmFuZEtleSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnbWFuZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0BzbWl0Lm5ldCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcXVlc3QtPnN0b3JlKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgnbWFuZCcpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -857,10 +857,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXhwZWN0RXhjZXB0aW9uKFZhbGlkYXRpb25FeGNlcHRpb246OmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgnbWFuZCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXhwZWN0RXhjZXB0aW9uKFZhbGlkYXRpb25FeGNlcHRpb246OmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
