@@ -16,6 +16,9 @@
         <mark key="." line="9" column="47" />
         <mark key="^" line="9" column="47" />
       </file>
+      <file name="/a.dummy" timestamp="1570027352564">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/vesca/database/migrations/2019_09_19_132249_add_activity_column_to_users_table.php" timestamp="1568892249706">
         <mark key="[" line="28" column="50" />
         <mark key="]" line="28" column="50" />
@@ -55,10 +58,13 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/vendor/laravel/framework/src/Illuminate/Pagination/AbstractPaginator.php" timestamp="1570077802766">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/pwh-api/config/app.php" timestamp="1570035520113" />
+      <file name="$USER_HOME$/Projects/vesca/storage/logs/laravel.log" timestamp="1568878651881">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/tests/Feature/UserInviteEndpointTest.php" timestamp="1570077636760">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
@@ -69,6 +75,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/vesca/app/Http/Kernel.php" timestamp="1568893032621">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Carts/Http/Resources/Cart.php" timestamp="1568726138641">
         <mark key="[" line="44" column="0" />
@@ -126,11 +138,12 @@
         <mark key="." line="53" column="44" />
         <mark key="^" line="53" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" timestamp="1570087540797">
+      <file name="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" timestamp="1570091857388">
         <mark key="'" line="296" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="40" />
+        <mark key="." line="166" column="36" />
+        <mark key="^" line="166" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/tests/Feature/UsersEndpointTest.php" timestamp="1570077684127">
         <mark key="[" line="21" column="0" />
@@ -196,11 +209,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/views/report/_pages/taxation.blade.php" timestamp="1568365085233">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="1" column="60" />
+      <file name="$USER_HOME$/Projects/vesca/resources/views/report/_pages/taxation.blade.php" timestamp="1570090777533">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="67" column="20" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="65" column="84" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Users/Models/User.php" timestamp="1570076739668">
         <mark key="[" line="72" column="5" />
@@ -226,16 +239,13 @@
         <mark key="^" line="18" column="46" />
         <mark key="." line="18" column="94" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/.env.example" timestamp="1570010963869">
-        <mark key="'" line="11" column="11" />
-      </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Orders/Http/Controllers/OrderController.php" timestamp="1567604950110">
         <mark key="[" line="54" column="61" />
         <mark key="]" line="56" column="0" />
         <mark key="^" line="54" column="83" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/app/Pdf.php" timestamp="1569232359626">
+      <file name="$USER_HOME$/Projects/vesca/app/Pdf.php" timestamp="1570088275746">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -291,8 +301,11 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/tests/TestCase.php" timestamp="1570034737369">
+      <file name="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-09-17.log" timestamp="1568716702721">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/footer.blade.php" timestamp="1570005835127">
         <mark key="'" line="79" column="49" />
@@ -300,9 +313,6 @@
         <mark key="]" line="90" column="72" />
         <mark key="." line="90" column="72" />
         <mark key="^" line="90" column="105" />
-      </file>
-      <file name="$USER_HOME$/Projects/pwh-api/app/Http/Kernel.php" timestamp="1570077752878">
-        <mark key="'" line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/database/seeds/MessageTableSeeder.php" timestamp="1570035908191" />
       <file name="$USER_HOME$/Projects/facade/app/Jobs/ProductCategoryIndexJob.php" timestamp="1568799985949">
@@ -361,7 +371,8 @@
         <mark key="^" line="30" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/materialen/infrastructure/Api/FulfilmentInterface.php" timestamp="1570085141719" />
-      <file name="$USER_HOME$/Projects/vesca/app/DeleteMe.php" timestamp="1569842983234">
+      <file name="$USER_HOME$/Projects/vesca/app/DeleteMe.php" timestamp="1570089756486">
+        <mark key="'" line="107" column="11" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -373,8 +384,12 @@
         <mark key="." line="61" column="85" />
         <mark key="^" line="61" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/facade/storage/logs/laravel-2019-10-01.log" timestamp="1569927871668">
-        <mark key="'" line="69" column="0" />
+      <file name="$USER_HOME$/Projects/vesca/routes/web.php" timestamp="1570091779051">
+        <mark key="'" line="34" column="11" />
+        <mark key="[" line="17" column="46" />
+        <mark key="]" line="17" column="44" />
+        <mark key="." line="17" column="44" />
+        <mark key="^" line="17" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/app/Enums/PaymentDriver.php" timestamp="1570035643863">
         <mark key="[" line="11" column="10" />
@@ -485,6 +500,12 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/vesca/app/Jobs/TableOfContents.php" timestamp="1570092423678">
+        <mark key="[" line="26" column="38" />
+        <mark key="]" line="24" column="18" />
+        <mark key="." line="24" column="18" />
+        <mark key="^" line="24" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/app/Nova/Offer.php" timestamp="1569934059984">
         <mark key="[" line="129" column="0" />
         <mark key="]" line="129" column="0" />
@@ -569,11 +590,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Quotation.php" timestamp="1570004135460">
-        <mark key="'" line="26" column="8" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" timestamp="1570089449056">
+        <mark key="'" line="138" column="21" />
+        <mark key="[" line="435" column="4" />
+        <mark key="]" line="435" column="4" />
+        <mark key="." line="435" column="4" />
+        <mark key="^" line="431" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/facade/storage/logs/laravel-2019-09-05.log" timestamp="1567668397810">
         <mark key="[" line="0" column="0" />
@@ -586,7 +608,15 @@
         <mark key="." line="34" column="26" />
         <mark key="^" line="34" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/views/report/_pages/table_of_contents.blade.php" timestamp="1568284653751">
+      <file name="/Dummy.txt" timestamp="1570091234242">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php" timestamp="1570089097081">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/vesca/resources/views/report/_pages/table_of_contents.blade.php" timestamp="1570091548234">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="61" />
         <mark key="." line="1" column="0" />
@@ -664,8 +694,15 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/storage/framework/views/f26f3e093b989d0454fdb9412526dbf857f6d5f8.php" timestamp="1570006286512">
-        <mark key="'" line="116" column="9" />
+      <file name="$USER_HOME$/Projects/vesca/resources/views/report/_pages/reference_images.blade.php" timestamp="1570089429359">
+        <mark key="'" line="32" column="20" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/vesca/resources/views/report/_partials/footer.blade.php" timestamp="1568886625871">
+        <mark key="[" line="23" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/app/User.php" timestamp="1568892994601">
         <mark key="[" line="43" column="9" />
@@ -675,11 +712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="37" filename="$USER_HOME$/Projects/vesca/resources/views/report/_pages/select_criteria.blade.php" />
-      <jump line="92" column="0" filename="$USER_HOME$/Projects/vesca/resources/views/report/_pages/select_criteria.blade.php" />
-      <jump line="72" column="11" filename="$USER_HOME$/Projects/vesca/resources/views/report/_pages/select_criteria.blade.php" />
-      <jump line="71" column="0" filename="$USER_HOME$/Projects/vesca/resources/views/report/_pages/select_criteria.blade.php" />
-      <jump line="141" column="0" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
       <jump line="462" column="0" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
       <jump line="43" column="8" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
       <jump line="53" column="8" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
@@ -775,10 +807,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/app/Http/Kernel.php" />
       <jump line="84" column="0" filename="$USER_HOME$/Projects/pwh-api/app/Http/Kernel.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/vendor/laravel/framework/src/Illuminate/Pagination/AbstractPaginator.php" />
+      <jump line="27" column="111" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php" />
+      <jump line="26" column="20" filename="$USER_HOME$/Projects/vesca/resources/views/report/_pages/reference_images.blade.php" />
+      <jump line="33" column="20" filename="$USER_HOME$/Projects/vesca/resources/views/report/_pages/reference_images.blade.php" />
+      <jump line="107" column="11" filename="$USER_HOME$/Projects/vesca/app/DeleteMe.php" />
+      <jump line="23" column="10" filename="$USER_HOME$/Projects/vesca/app/Jobs/TableOfContents.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc3RvY2spOwo=</text>
+      <register name="&quot;" type="4">
+        <text>toArray</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -813,37 +850,37 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>'The quotation is not ready yet, please wait a minute.'</text>
+        <text>toArray</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEFjdGlvbjo6ZGFuZ2VyKCdUaGUgcXVvdGF0aW9uIGlzIG5vdCByZWFkeSB5ZXQsIHBsZWFzZSB3YWl0IGEgbWludXRlLicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGVhbSA9ICRwZGYtPnVzZXItPmN1cnJlbnRUZWFtOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc3RvY2spOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRyb3V0ZSwgJGZpZWxkcy0+ZGlzcGxheV9icmFuZGluZyk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2xhYmVsJyA9Pg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRyb3V0ZSwgJCk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAnbGFiZWwnID0+ICJPdmVyIHskdGVhbS0+bmFtZX0iLAogICAgICAgICAgICAncGFnZXMnID0+IDEsCiAgICAgICAgXQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEFjdGlvbjo6ZGFuZ2VyKCRicmFuZEtleSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY29tcGFueU5hbWUgPSAkdGhpcy0+cGRmLT5kYXRhWydjb21wYW55X25hbWUnXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+cGRmLT5kYXRhKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcXVlc3QtPnN0b3JlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -873,19 +910,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnbWFuZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkY29tcGFueU5hbWUgPSAnbWFuZCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnbWFuZCcpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>'</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -893,7 +930,6 @@
     </search>
     <history>
       <history-search>
-        <entry>compa</entry>
         <entry>impo</entry>
         <entry>AT</entry>
         <entry>hs</entry>
@@ -911,8 +947,9 @@
         <entry>payment_driver</entry>
         <entry>default</entry>
         <entry>driver</entry>
-        <entry>'</entry>
         <entry>data</entry>
+        <entry>T</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NoZWNrb3V0Ly9n</entry>
