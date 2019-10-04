@@ -67,12 +67,11 @@
         <mark key="[" line="58" column="18" />
         <mark key="]" line="58" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/app/Http/Controllers/PdfController.php" timestamp="1570197745636">
+      <file name="$USER_HOME$/Projects/vesca/app/Http/Controllers/PdfController.php" timestamp="1570199111881">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="60" column="39" />
-        <mark key="]" line="60" column="39" />
-        <mark key="^" line="82" column="16" />
-        <mark key="." line="60" column="39" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/tests/Feature/UserInviteEndpointTest.php" timestamp="1570077636760">
         <mark key="[" line="68" column="0" />
@@ -617,8 +616,8 @@
       <jump line="118" column="32" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -653,7 +652,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Storage::get($pdfPath)</text>
       </register>
       <register name="/" type="4">
         <text>red</text>
@@ -662,28 +661,28 @@
         <text encoding="base64">ICAgICAgICAgICAgPGltZyBjbGFzcz0icGluIiBzcmM9Int7IGFzc2V0KCcvaW1nL3JlZF9waW4ucG5nJykgfX0iPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGZpbGVfcGF0aAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEB2YXIKICAgICAqLwogICAgcHVibGljICRmaWxlX3BhdGg7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGZpbGVfcGF0aAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZmlsZV9wYXRoID0gJGZpbGVfcGF0aDsK</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEB2YXIKICAgICAqLwogICAgcHVibGljICRmaWxlX3BhdGg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGltZyBjbGFzcz0icGluIiBzcmM9Ii9pbWcvYmx1ZV9waW4ucG5nIj4K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZmlsZV9wYXRoID0gJGZpbGVfcGF0aDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC5yZWZlcmVuY2UtbWFwcyAucGluIHsKICAgICAgICBoZWlnaHQ6IDM2cHg7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGltZyBjbGFzcz0icGluIiBzcmM9Ii9pbWcvYmx1ZV9waW4ucG5nIj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5yZWZlcmVuY2UtbWFwcyAucGluIHsKICAgICAgICBoZWlnaHQ6IDM2cHg7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -713,10 +712,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0ibGVnZW5kLWl0ZW0iPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImxlZ2VuZC1pdGVtIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0ibGVnZW5kLWl0ZW0iPgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2xhYmVsL3RpdGxl</text>
