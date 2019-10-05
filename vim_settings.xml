@@ -136,6 +136,7 @@
         <mark key="." line="14" column="45" />
         <mark key="^" line="14" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/ht/tailwind.config.js" timestamp="1570286092367" />
       <file name="$USER_HOME$/Projects/pwh-api/domain/Orders/Http/Requests/CreateOrderRequest.php" timestamp="1568116123657">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -351,6 +352,7 @@
         <mark key="." line="77" column="95" />
         <mark key="^" line="77" column="95" />
       </file>
+      <file name="$USER_HOME$/Projects/ht/public/index.html" timestamp="1570285309837" />
       <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Traits/HasActivePrice.php" timestamp="1568814554041">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -404,6 +406,13 @@
         <mark key="]" line="64" column="64" />
         <mark key="." line="64" column="64" />
         <mark key="^" line="65" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/ht/src/views/Home.vue" timestamp="1570286914015">
+        <mark key="'" line="54" column="10" />
+        <mark key="[" line="52" column="28" />
+        <mark key="]" line="54" column="16" />
+        <mark key="." line="54" column="16" />
+        <mark key="^" line="54" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page6.blade.php" timestamp="1570006241664">
         <mark key="'" line="6" column="194" />
@@ -495,7 +504,6 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/views/report/_pages/reference_images.blade.php" timestamp="1570192237140" />
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/footer.blade.php" timestamp="1570190992012">
         <mark key="'" line="79" column="49" />
         <mark key="[" line="84" column="0" />
@@ -514,10 +522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="8" filename="$USER_HOME$/Projects/finish-building/app/Nova/Actions/DownloadQuotation.php" />
-      <jump line="41" column="9" filename="$USER_HOME$/Projects/finish-building/app/Http/Controllers/OfferController.php" />
-      <jump line="19" column="121" filename="$USER_HOME$/Projects/finish-building/routes/web.php" />
-      <jump line="39" column="0" filename="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Types/QuotationBrands.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Types/QuotationBrands.php" />
       <jump line="33" column="0" filename="$USER_HOME$/Projects/pwh-api/domain/Products/Models/Product.php" />
       <jump line="53" column="46" filename="$USER_HOME$/Projects/pwh-api/domain/Orders/Models/OrderLine.php" />
@@ -614,10 +618,14 @@
       <jump line="454" column="18" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
       <jump line="9" column="12" filename="$USER_HOME$/Projects/vesca/resources/views/report/_pages/reference_maps.blade.php" />
       <jump line="118" column="32" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
+      <jump line="22" column="34" filename="$USER_HOME$/Projects/ht/src/views/Home.vue" />
+      <jump line="23" column="36" filename="$USER_HOME$/Projects/ht/src/views/Home.vue" />
+      <jump line="24" column="0" filename="$USER_HOME$/Projects/ht/src/views/Home.vue" />
+      <jump line="54" column="10" filename="$USER_HOME$/Projects/ht/src/views/Home.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXRlbSk7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -652,37 +660,37 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Storage::get($pdfPath)</text>
+        <text>weight</text>
       </register>
       <register name="/" type="4">
-        <text>red</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGltZyBjbGFzcz0icGluIiBzcmM9Int7IGFzc2V0KCcvaW1nL3JlZF9waW4ucG5nJykgfX0iPgo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InByaWNlLWNvbHVtbiI+CiAgICAgIDxkaXYgY2xhc3M9ImZsZXggZmxleC1jb2wgaXRlbXMtY2VudGVyIGZsZXgtc2hyaW5rIGZsb2F0LWxlZnQiPgogICAgICAgIDxkaXYgY2xhc3M9ImZsZXggZmxleC1jb2wgaXRlbXMtY2VudGVyIiB2LWZvcj0id2VlZCBpbiBkYXRhLndlZWRzIiA6a2V5PSJ3ZWVkLm5hbWUiPgogICAgICAgICAgPHNwYW4+e3sgd2VlZC5wcmljZSB9fTwvc3Bhbj4KICAgICAgICAgIDxzcGFuIGNsYXNzPSJ3LWZ1bGwgYm9yZGVyLXNvbGlkIGJvcmRlci0yIGJvcmRlci1ncmF5LTgwMCI+PC9zcGFuPgogICAgICAgICAgPHNwYW4+e3sgd2VlZC53ZWlnaHQgfX08L3NwYW4+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXRlbSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGZpbGVfcGF0aAo=</text>
+        <text encoding="base64">ICAgIHNlY29uZFByaWNlU3R5bGUoKSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgJ3Zpc2liaWxpdHk6aGlkZGVuOyc6IAogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEB2YXIKICAgICAqLwogICAgcHVibGljICRmaWxlX3BhdGg7Cg==</text>
+        <text encoding="base64">ICAgICAgPGQKICAgICAgICA8c3Bhbj57eyB3ZWVkLnByaWNlIH19PC9zcGFuPgogICAgICAgIDxzcGFuIGNsYXNzPSJ3LWZ1bGwgYm9yZGVyLXNvbGlkIGJvcmRlci0yIGJvcmRlci1ncmF5LTgwMCI+PC9zcGFuPgogICAgICAgIDxzcGFuPnt7IHdlZWQud2VpZ2h0IH19PC9zcGFuPgogICAgICA8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZmlsZV9wYXRoID0gJGZpbGVfcGF0aDsK</text>
+        <text encoding="base64">ICAgICAgICA8c3Bhbj57eyB3ZWVkLndlaWdodCB9fTwvc3Bhbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGltZyBjbGFzcz0icGluIiBzcmM9Ii9pbWcvYmx1ZV9waW4ucG5nIj4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC5yZWZlcmVuY2UtbWFwcyAucGluIHsKICAgICAgICBoZWlnaHQ6IDM2cHg7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -712,19 +720,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0ibGVnZW5kLWl0ZW0iPgo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdHJpbmcgJGZpbGVfcGF0aAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2xhYmVsL3RpdGxl</text>
       </register>
     </registers>
     <search>
-      <last-search>red</last-search>
+      <last-search encoding="base64">IA==</last-search>
       <last-offset />
-      <last-pattern>red</last-pattern>
+      <last-pattern encoding="base64">IA==</last-pattern>
       <last-replace>title</last-replace>
       <last-substitute>label</last-substitute>
       <last-dir>1</last-dir>
@@ -732,7 +740,6 @@
     </search>
     <history>
       <history-search>
-        <entry>locale'</entry>
         <entry>payment_driver</entry>
         <entry>default</entry>
         <entry>driver</entry>
@@ -752,6 +759,7 @@
         <entry>Sto</entry>
         <entry>img</entry>
         <entry>red</entry>
+        <entry encoding="base64">IA==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL19wYXJjZWwvL2c=</entry>
