@@ -213,10 +213,17 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/finish-building/Envoy.blade.php" timestamp="1570696222631" />
+      <file name="$USER_HOME$/Projects/finish-building/database/seeds/UsersTableSeeder.php" timestamp="1570699852117">
+        <mark key="[" line="19" column="89" />
+        <mark key="]" line="19" column="94" />
+        <mark key="." line="19" column="94" />
+        <mark key="^" line="19" column="94" />
+      </file>
+      <file name="$USER_HOME$/Projects/finish-building/Envoy.blade.php" timestamp="1570699725509">
+        <mark key="'" line="192" column="9" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="111" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php" />
       <jump line="26" column="20" filename="$USER_HOME$/Projects/vesca/resources/views/report/_pages/reference_images.blade.php" />
       <jump line="33" column="20" filename="$USER_HOME$/Projects/vesca/resources/views/report/_pages/reference_images.blade.php" />
       <jump line="107" column="11" filename="$USER_HOME$/Projects/vesca/app/DeleteMe.php" />
@@ -316,10 +323,11 @@
       <jump line="31" column="43" filename="$USER_HOME$/Projects/vesca/resources/views/report/_pages/results.blade.php" />
       <jump line="559" column="0" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/vesca/routes/web.php" />
+      <jump line="192" column="9" filename="$USER_HOME$/Projects/finish-building/Envoy.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>pass1234</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -354,7 +362,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>pdfPath</text>
+        <text>pass1234</text>
       </register>
       <register name="/" type="4">
         <text>pdf</text>
