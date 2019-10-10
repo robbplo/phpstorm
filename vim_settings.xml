@@ -17,6 +17,7 @@
       <file name="$USER_HOME$/Projects/pwh-api/app/Nova/Product.php" timestamp="1570629606779">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/vesca/app/Http/Controllers/Admin/TeamController.php" timestamp="1570700219372" />
       <file name="$USER_HOME$/Projects/pwh-api/tests/Unit/SendOrderToFacadeTest.php" timestamp="1570620063735">
         <mark key="'" line="67" column="0" />
         <mark key="[" line="37" column="5" />
@@ -24,6 +25,7 @@
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/vesca/resources/views/admin/users/edit.blade.php" timestamp="1570700072430" />
       <file name="$USER_HOME$/Projects/pwh-api/domain/Carts/Http/Resources/Cart.php" timestamp="1570632945380">
         <mark key="'" line="5" column="67" />
         <mark key="[" line="51" column="57" />
@@ -36,18 +38,6 @@
         <mark key="]" line="79" column="0" />
         <mark key="^" line="85" column="71" />
         <mark key="." line="79" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Models/ProductStock.php" timestamp="1570623585888">
-        <mark key="[" line="58" column="60" />
-        <mark key="]" line="58" column="65" />
-        <mark key="^" line="58" column="65" />
-        <mark key="." line="58" column="65" />
-      </file>
-      <file name="$USER_HOME$/Projects/ht/src/App.vue" timestamp="1570293942944">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="1" column="39" />
-        <mark key="." line="1" column="39" />
-        <mark key="^" line="1" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/tests/Feature/OrdersEndpointTest.php" timestamp="1570614191368">
         <mark key="[" line="42" column="0" />
@@ -71,12 +61,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Webhooks/HookHandler.php" timestamp="1570615321184">
-        <mark key="[" line="27" column="56" />
-        <mark key="]" line="27" column="55" />
-        <mark key="^" line="27" column="55" />
-        <mark key="." line="27" column="55" />
-      </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Carts/Models/Cart.php" timestamp="1570631512054">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="41" column="0" />
@@ -98,24 +82,13 @@
         <mark key="]" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/views/report/_pages/results.blade.php" timestamp="1570697774360">
+      <file name="$USER_HOME$/Projects/vesca/resources/views/report/_pages/results.blade.php" timestamp="1570700041772">
         <mark key="'" line="31" column="43" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Orders/Models/OrderLine.php" timestamp="1570454067559">
-        <mark key="[" line="48" column="23" />
-        <mark key="]" line="48" column="23" />
-        <mark key="^" line="40" column="44" />
-        <mark key="." line="48" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Stores/Models/Store.php" timestamp="1570440798808">
-        <mark key="[" line="116" column="14" />
-        <mark key="]" line="116" column="13" />
-        <mark key="^" line="116" column="13" />
-        <mark key="." line="116" column="13" />
-      </file>
+      <file name="$USER_HOME$/Projects/vesca/app/Http/Controllers/Admin/UserController.php" timestamp="1570700309304" />
       <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Handlers/StockSync.php" timestamp="1570617657554">
         <mark key="[" line="39" column="1" />
         <mark key="]" line="39" column="1" />
@@ -134,12 +107,6 @@
         <mark key="." line="50" column="53" />
         <mark key="^" line="50" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/typescript/src/types/Todo.ts" timestamp="1570527721487">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="11" />
-        <mark key="^" line="1" column="11" />
-        <mark key="." line="1" column="11" />
-      </file>
       <file name="$USER_HOME$/Projects/pwh-api/tests/Unit/ProcessOrderTest.php" timestamp="1570619968699" />
       <file name="$USER_HOME$/Projects/pwh-api/tests/Mocks/stocks.sync.json" timestamp="1570617815583">
         <mark key="[" line="0" column="111" />
@@ -151,12 +118,6 @@
         <mark key="[" line="0" column="61" />
         <mark key="]" line="0" column="61" />
         <mark key="." line="20" column="35" />
-      </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Authorizers/Http/Controllers/BasicAuthorizerController.php" timestamp="1570611956027">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="21" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Models/Product.php" timestamp="1570631326124">
         <mark key="[" line="88" column="0" />
@@ -193,12 +154,6 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Users/Http/Handlers/UserSync.php" timestamp="1570615332565">
-        <mark key="[" line="34" column="38" />
-        <mark key="]" line="34" column="37" />
-        <mark key="." line="34" column="37" />
-        <mark key="^" line="34" column="37" />
-      </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" timestamp="1570633171843">
         <mark key="'" line="0" column="19" />
         <mark key="[" line="45" column="0" />
@@ -207,12 +162,6 @@
         <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/database/factories/CartFactory.php" timestamp="1570613724213" />
-      <file name="$USER_HOME$/Projects/pwh-api/tests/TestCase.php" timestamp="1570449785702">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="11" column="47" />
-      </file>
       <file name="$USER_HOME$/Projects/finish-building/database/seeds/UsersTableSeeder.php" timestamp="1570699852117">
         <mark key="[" line="19" column="89" />
         <mark key="]" line="19" column="94" />
