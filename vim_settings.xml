@@ -8,6 +8,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1570707193934">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/vesca/app/Http/Controllers/PdfController.php" timestamp="1570698578297">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="67" column="0" />
@@ -18,6 +21,13 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/app/Http/Controllers/Admin/TeamController.php" timestamp="1570700219372" />
+      <file name="$USER_HOME$/Projects/mail/index.php" timestamp="1570708288316">
+        <mark key="'" line="5" column="5" />
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/tests/Unit/SendOrderToFacadeTest.php" timestamp="1570620063735">
         <mark key="'" line="67" column="0" />
         <mark key="[" line="37" column="5" />
@@ -124,6 +134,12 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.php" timestamp="1570707491900">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/vesca/api/V1/Search/Http/Controllers/BuildingObjectController.php" timestamp="1570114437363">
+        <mark key="[" line="831" column="108" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/store/cart.js" timestamp="1570633240795">
         <mark key="[" line="124" column="57" />
         <mark key="]" line="126" column="7" />
@@ -141,6 +157,9 @@
         <mark key="]" line="561" column="19" />
         <mark key="^" line="561" column="19" />
         <mark key="." line="561" column="19" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1570449783725">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/phpunit.xml" timestamp="1570612546641">
         <mark key="[" line="38" column="39" />
@@ -168,16 +187,14 @@
         <mark key="." line="19" column="94" />
         <mark key="^" line="19" column="94" />
       </file>
+      <file name="$USER_HOME$/Projects/vesca/resources/views/report/_partials/footer.blade.php" timestamp="1568886625871">
+        <mark key="[" line="23" column="42" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/Envoy.blade.php" timestamp="1570699725509">
         <mark key="'" line="192" column="9" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="20" filename="$USER_HOME$/Projects/vesca/resources/views/report/_pages/reference_images.blade.php" />
-      <jump line="33" column="20" filename="$USER_HOME$/Projects/vesca/resources/views/report/_pages/reference_images.blade.php" />
-      <jump line="107" column="11" filename="$USER_HOME$/Projects/vesca/app/DeleteMe.php" />
-      <jump line="23" column="10" filename="$USER_HOME$/Projects/vesca/app/Jobs/TableOfContents.php" />
-      <jump line="27" column="11" filename="$USER_HOME$/Projects/vesca/app/Jobs/TableOfContents.php" />
       <jump line="33" column="12" filename="$USER_HOME$/Projects/vesca/app/Jobs/TableOfContents.php" />
       <jump line="5" column="15" filename="$USER_HOME$/Projects/vesca/resources/views/report/_pages/table_of_contents.blade.php" />
       <jump line="22" column="44" filename="$USER_HOME$/Projects/vesca/resources/views/report/_pages/table_of_contents.blade.php" />
@@ -273,10 +290,15 @@
       <jump line="559" column="0" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/vesca/routes/web.php" />
       <jump line="192" column="9" filename="$USER_HOME$/Projects/finish-building/Envoy.blade.php" />
+      <jump line="19" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.php" />
+      <jump line="33" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.php" />
+      <jump line="22" column="11" filename="$USER_HOME$/Projects/mail/index.php" />
+      <jump line="25" column="48" filename="$USER_HOME$/Projects/mail/index.php" />
+      <jump line="5" column="5" filename="$USER_HOME$/Projects/mail/index.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pass1234</text>
+        <text>Mail stuk @jeroen</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -311,37 +333,37 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>pass1234</text>
+        <text>Mail stuk @jeroen</text>
       </register>
       <register name="/" type="4">
-        <text>pdf</text>
+        <text>head</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoU3RvcmFnZTo6ZGlzaygncHVibGljJyktPmdldCgkcGRmUGF0aCksIDIwMCwgWwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIC8vIHNlbmQgc2xhY2sgbWVzc2FnZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHt7LS0gICAgPGRpdiBjbGFzcz0iYm94Ij4tLX19CiAgICB7ey0tICAgICAgICA8ZGl2IGNsYXNzPSJzdWJ0eXBlcyI+LS19fQogICAge3stLSAgICAgICAgICAgIEBmb3JlYWNoICgkc3VidHlwZXMgYXMgJHN1YnR5cGUpLS19fQogICAge3stLSAgICAgICAgICAgIDxkaXYgY2xhc3M9InN1YnR5cGUiPi0tfX0KICAgIHt7LS0gICAgICAgICAgICAgICAgPHNwYW4+LS19fQogICAge3stLSAgICAgICAgICAgICAgICAgICAgPGltZyBjbGFzcz0ic3VidHlwZS1pbWFnZSIgc3JjPSJ7e2Fzc2V0KCcvaW1nL3R5cGVfJy5zdHJfc2x1Zygkc3VidHlwZSwiIikuJ19hbHQzLnN2ZycpIH19Ii0tfX0KICAgIHt7LS0gICAgICAgICAgICAgICAgPC9zcGFuPi0tfX0KICAgIHt7LS0gICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InN1YnR5cGUtbGFiZWwiPnt7ICRzdWJ0eXBlIH19PC9zcGFuPi0tfX0KICAgIHt7LS0gICAgICAgICAgICA8L2Rpdj4tLX19CiAgICB7ey0tICAgICAgICAgICAgQGVuZGZvcmVhY2gtLX19CiAgICB7ey0tICAgICAgICA8L2Rpdj4tLX19CgogICAge3stLSAgICAgICAgPGRpdiBjbGFzcz0iYXZlcmFnZXMiPi0tfX0KICAgIHt7LS0gICAgICAgICAgICA8ZGl2IGNsYXNzPSJhYm92ZS1hdmVyYWdlIj4tLX19CiAgICB7ey0tICAgICAgICAgICAgICAgICZldXJvOyAxMjMgQm92ZW5nZW1pZGRlbGQtLX19CiAgICB7ey0tICAgICAgICAgICAgPC9kaXY+LS19fQogICAge3stLSAgICAgICAgICAgIDxkaXYgY2xhc3M9ImJlbG93LWF2ZXJhZ2UiPi0tfX0KICAgIHt7LS0gICAgICAgICAgICAgICAgJmV1cm87IDEyMyBPbmRlcmdlbWlkZGVsZC0tfX0KICAgIHt7LS0gICAgICAgICAgICA8L2Rpdj4tLX19CiAgICB7ey0tICAgICAgICA8L2Rpdj4tLX19CgogICAge3stLSAgICAgICAgPGRpdiBzdHlsZT0iY2xlYXI6Ym90aDsiPjwvZGl2Pi0tfX0KICAgIHt7LS0gICAgPC9kaXY+LS19fQo=</text>
+        <text encoding="base64">ICAgICNjdXJsIC1YIFBPU1QgLUggJ0NvbnRlbnQtdHlwZTogYXBwbGljYXRpb24vanNvbicgLS1kYXRhICd7InRleHQiOiJIZWxsbywgV29ybGQhIn0nIGh0dHBzOi8vaG9va3Muc2xhY2suY29tL3NlcnZpY2VzL1RGTTdXSDY5Vy9CTlgzVk01NkYvR0FDZTl2Wk5LS3BuWkRyUFdiejVzczFXCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoLCAyMDAsIFsK</text>
+        <text encoding="base64">CiAgICAvLyBzZXQgcG9zdCBmaWVsZHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGRmKTsK</text>
+        <text encoding="base64">ICAgICRoZWFkZXJzID0gWwogICAgICAgICdDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24nLAogICAgXTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGRmKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZsb2F0LWRlZmVyLWNvbHVtbjogOwo=</text>
+        <text encoding="base64">ICAgICgkY2gpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -371,19 +393,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LnJlc3VsdHMtbGVnZW5kIC5zdWJ0eXBlLWxhYmVsIHsKICAgIC8qbWFyZ2luOiAtMTVweCAwIDAgLTdweDsqLwp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAtNHB4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/&quot;/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>pdf</last-search>
+      <last-search>head</last-search>
       <last-offset />
-      <last-pattern>pdf</last-pattern>
+      <last-pattern>head</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -391,10 +413,6 @@
     </search>
     <history>
       <history-search>
-        <entry>st</entry>
-        <entry>,</entry>
-        <entry>date</entry>
-        <entry>this</entry>
         <entry>margins</entry>
         <entry>Stor</entry>
         <entry>Sto</entry>
@@ -411,6 +429,10 @@
         <entry>s</entry>
         <entry>i</entry>
         <entry>pdf</entry>
+        <entry>u</entry>
+        <entry>arra</entry>
+        <entry>arr</entry>
+        <entry>head</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL19wYXJjZWwvL2c=</entry>
