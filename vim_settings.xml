@@ -433,6 +433,12 @@
         <mark key="." line="19" column="94" />
         <mark key="^" line="19" column="94" />
       </file>
+      <file name="$USER_HOME$/Projects/vesca/app/Nova/Team.php" timestamp="1570795247145">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="26" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="73" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/footer.blade.php" timestamp="1570190992012">
         <mark key="'" line="79" column="49" />
         <mark key="[" line="84" column="0" />
@@ -458,10 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="23" filename="$USER_HOME$/Projects/vesca/app/Pdf.php" />
-      <jump line="28" column="17" filename="$USER_HOME$/Projects/vesca/app/Pdf.php" />
-      <jump line="29" column="14" filename="$USER_HOME$/Projects/vesca/app/Pdf.php" />
-      <jump line="30" column="19" filename="$USER_HOME$/Projects/vesca/app/Pdf.php" />
       <jump line="31" column="18" filename="$USER_HOME$/Projects/vesca/app/Pdf.php" />
       <jump line="32" column="17" filename="$USER_HOME$/Projects/vesca/app/Pdf.php" />
       <jump line="33" column="17" filename="$USER_HOME$/Projects/vesca/app/Pdf.php" />
@@ -558,10 +560,14 @@
       <jump line="10705" column="35" filename="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-10-11.log" />
       <jump line="11322" column="116" filename="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-10-11.log" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-10-11.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/vesca/app/Nova/Team.php" />
+      <jump line="65" column="13" filename="$USER_HOME$/Projects/vesca/app/Nova/Team.php" />
+      <jump line="66" column="16" filename="$USER_HOME$/Projects/vesca/app/Nova/Team.php" />
+      <jump line="63" column="0" filename="$USER_HOME$/Projects/vesca/app/Nova/Team.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignbWFuZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2tldGNoKCkK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -596,37 +602,37 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>sketch</text>
       </register>
       <register name="/" type="4">
         <text>price</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMudG9kb3MgPSA8VG9kb1tdPmpzb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2tldGNoKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignbWFuZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignbWFuZCcpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRyZXNwb25zZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -656,10 +662,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ2FjaGU6OnJlbWVtYmVyRm9yZXZlcigib2ZmZXJQcmljZV97JHRoaXMtPm9mZmVySWR9IiwgZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcGRkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL25hbWUvdGl0bGU=</text>
