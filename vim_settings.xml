@@ -15,9 +15,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1570707193934">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/pages/page1.blade.php" timestamp="1569847774785">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="22" column="51" />
@@ -91,9 +88,6 @@
         <mark key="]" line="59" column="40" />
         <mark key="." line="59" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/typescript/tsconfig.json" timestamp="1570714152514">
-        <mark key="[" line="11" column="41" />
-      </file>
       <file name="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" timestamp="1570198149190">
         <mark key="'" line="111" column="32" />
         <mark key="[" line="64" column="58" />
@@ -132,11 +126,11 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="48" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/store/cart.js" timestamp="1570633240795">
-        <mark key="[" line="124" column="57" />
-        <mark key="]" line="126" column="7" />
-        <mark key="^" line="126" column="7" />
-        <mark key="." line="126" column="7" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/store/cart.js" timestamp="1571046275996">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="128" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-10-11.log" timestamp="1570786978034">
         <mark key="'" line="0" column="0" />
@@ -338,6 +332,11 @@
         <mark key="." line="48" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/infrastructure/Traits/HasPrices.php" timestamp="1570629829172" />
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Attributes/Http/Resources/Attribute.php" timestamp="1571045474205">
+        <mark key="[" line="16" column="52" />
+        <mark key="]" line="16" column="54" />
+        <mark key="." line="16" column="54" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Orders/Listeners/SendOrderToFacadeListener.php" timestamp="1570627033525">
         <mark key="[" line="50" column="53" />
         <mark key="]" line="50" column="53" />
@@ -398,9 +397,6 @@
         <mark key="]" line="49" column="35" />
         <mark key="." line="49" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/api/V1/Search/Http/Controllers/BuildingObjectController.php" timestamp="1570114437363">
-        <mark key="[" line="831" column="108" />
-      </file>
       <file name="$USER_HOME$/Projects/typescript/src/shims-tsx.d.ts" timestamp="1570781132835">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -425,9 +421,6 @@
         <mark key="^" line="561" column="19" />
         <mark key="." line="561" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1570449783725">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/vesca/resources/views/report/_partials/legend.blade.php" timestamp="1570698739901">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -441,6 +434,14 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" timestamp="1571046238738">
+        <mark key="'" line="45" column="11" />
+        <mark key="[" line="52" column="36" />
+        <mark key="m" line="48" column="0" />
+        <mark key="]" line="52" column="34" />
+        <mark key="." line="52" column="34" />
+        <mark key="^" line="52" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/facade/app/Jobs/FilemakerImportJob.php" timestamp="1570787787118">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -450,9 +451,6 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="19" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/vesca/resources/views/report/_partials/footer.blade.php" timestamp="1568886625871">
-        <mark key="[" line="23" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/Envoy.blade.php" timestamp="1570781969237">
         <mark key="'" line="192" column="9" />
@@ -469,7 +467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="18" filename="$USER_HOME$/Projects/vesca/app/Pdf.php" />
       <jump line="32" column="17" filename="$USER_HOME$/Projects/vesca/app/Pdf.php" />
       <jump line="33" column="17" filename="$USER_HOME$/Projects/vesca/app/Pdf.php" />
       <jump line="102" column="9" filename="$USER_HOME$/Projects/vesca/app/Pdf.php" />
@@ -569,10 +566,11 @@
       <jump line="65" column="13" filename="$USER_HOME$/Projects/vesca/app/Nova/Team.php" />
       <jump line="66" column="16" filename="$USER_HOME$/Projects/vesca/app/Nova/Team.php" />
       <jump line="63" column="0" filename="$USER_HOME$/Projects/vesca/app/Nova/Team.php" />
+      <jump line="45" column="11" filename="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZGQoJHJlc291cmNlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBwcm9kdWN0LnNlbGVjdGVkQXR0cmlidXRlcyA9IHJvdy5jb25maWd1cmF0aW9uCgo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -607,37 +605,37 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">LmZpbmQoYXR0cmlidXRlID0+</text>
       </register>
       <register name="/" type="4">
-        <text>price</text>
+        <text>att</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2tldGNoKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZGQoJHJlc291cmNlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBwcm9kdWN0LnNlbGVjdGVkQXR0cmlidXRlcyA9IHJvdy5jb25maWd1cmF0aW9uCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignYXNkZm9haXMnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc29kZmsgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZGQoJ21hbmQnKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZGQoJ21hbmQnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBhdHRyaWJ1dGUgPSBwcm9kdWN0LmF0dHJpYnV0ZV9zZXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBhdHRyaWJ1dGUK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -667,19 +665,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignbWFuZCcpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IHsKICAgICAgICAgICAgCiAgICAgICAgICAgIHJldHVybiBhdHRyaWJ1dGUuYXR0cmlidXRlX3NldF9pZCA9PT0gCiAgICAgICAgfSk7</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL25hbWUvdGl0bGU=</text>
       </register>
     </registers>
     <search>
-      <last-search>price</last-search>
+      <last-search>att</last-search>
       <last-offset />
-      <last-pattern>price</last-pattern>
+      <last-pattern>att</last-pattern>
       <last-replace>title</last-replace>
       <last-substitute>name</last-substitute>
       <last-dir>1</last-dir>
@@ -687,7 +685,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bar</entry>
         <entry>&quot;</entry>
         <entry>A</entry>
         <entry>acc</entry>
@@ -707,6 +704,7 @@
         <entry>at</entry>
         <entry>name</entry>
         <entry>price</entry>
+        <entry>att</entry>
       </history-search>
       <history-cmd>
         <entry>s/user/cart/g</entry>
