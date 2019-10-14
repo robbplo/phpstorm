@@ -147,16 +147,17 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Controllers/ProductStockController.php" timestamp="1571072617667">
-        <mark key="[" line="24" column="38" />
-        <mark key="]" line="24" column="47" />
-        <mark key="." line="24" column="47" />
-        <mark key="^" line="24" column="47" />
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Controllers/ProductStockController.php" timestamp="1571074400027">
+        <mark key="[" line="28" column="25" />
+        <mark key="]" line="28" column="24" />
+        <mark key="." line="28" column="24" />
+        <mark key="^" line="28" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Controllers/ProductController.php" timestamp="1571044538421">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Controllers/ProductController.php" timestamp="1571074694736">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="2" />
+        <mark key="." line="37" column="2" />
+        <mark key="^" line="37" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/finish-building/routes/web.php" timestamp="1570083945354">
         <mark key="'" line="18" column="121" />
@@ -400,10 +401,12 @@
         <mark key="." line="44" column="31" />
         <mark key="^" line="44" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Models/Product.php" timestamp="1570784898685">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Models/Product.php" timestamp="1571074159022">
+        <mark key="'" line="18" column="85" />
+        <mark key="[" line="63" column="74" />
+        <mark key="]" line="64" column="44" />
+        <mark key="." line="64" column="44" />
+        <mark key="^" line="64" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/app/Console/Commands/RegeneratePdf.php" timestamp="1570197668670">
         <mark key="[" line="49" column="36" />
@@ -496,7 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="17" filename="$USER_HOME$/Projects/vesca/app/Pdf.php" />
       <jump line="26" column="18" filename="$USER_HOME$/Projects/vesca/app/Pdf.php" />
       <jump line="25" column="29" filename="$USER_HOME$/Projects/vesca/app/Pdf.php" />
       <jump line="24" column="26" filename="$USER_HOME$/Projects/vesca/app/Pdf.php" />
@@ -596,10 +598,11 @@
       <jump line="24" column="72" filename="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/tests/Mocks/stocks.sync.json" />
       <jump line="29" column="109" filename="$USER_HOME$/Projects/pwh-api/routes/api.php" />
+      <jump line="18" column="85" filename="$USER_HOME$/Projects/pwh-api/domain/Products/Models/Product.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcHJvZHVjdCB1aWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJywKICAgICAgICAgICAgICAgICd0YWdzJwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -634,37 +637,37 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIEB0b2RvIGFueW9uZSB3YW50cyB0byBmaXggdGhpcz8/</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>prod</text>
+        <text>stock</text>
       </register>
       <register name="0" type="4">
         <text>\Domain\Products\Http\Controllers\ProductController::class, 'show'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcHJvZHVjdCB1aWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJywKICAgICAgICAgICAgICAgICd0YWdzJwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hbGxvd2VkU29ydHMoQWxsb3dlZFNvcnQ6OmZpZWxkKCdwb3NpdGlvbicpKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZGQoJHJlc291cmNlcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcHJvZHVjdCB1aWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgLT5uYW1lKCdhcGkucHJvZHVjdHMuc3RvY2suaW5kZXgnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hbGxvd2VkU29ydHMoQWxsb3dlZFNvcnQ6OmZpZWxkKCdwb3NpdGlvbicpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUm91dGU6OmdldCgnL2NvbmZpZ3VyZWQnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBSb3V0ZTo6Z2V0KCcvc3RvY2snLCBbXERvbWFpblxQcm9kdWN0c1xIdHRwXENvbnRyb2xsZXJzXFByb2R1Y3RDb250cm9sbGVyOjpjbGFzcywgJ3N0b2NrJ10pCg==</text>
+        <text encoding="base64">CiAgICAgICAgLT5uYW1lKCdhcGkucHJvZHVjdHMuc3RvY2suaW5kZXgnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFJvdXRlOjpncm91cChbJ3ByZWZpeCcgPT4gJ3N0b2NrcyddLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgUm91dGU6OmdldCgnL2NvbmZpZ3VyZWQnKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUm91dGU6OmdldCgnL2NvbmZpZ3VyZWQnKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -694,19 +697,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBSb3V0ZTo6Z2V0KCcvc3RvY2snLCBbXERvbWFpblxQcm9kdWN0c1xIdHRwXENvbnRyb2xsZXJzXFByb2R1Y3RDb250cm9sbGVyOjpjbGFzcywgJ3N0b2NrJ10pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJvdXRlOjpncm91cChbJ3ByZWZpeCcgPT4gJ3N0b2NrcyddLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgUm91dGU6OmdldCgnL2NvbmZpZ3VyZWQnKTsKICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL25hbWUvdGl0bGU=</text>
       </register>
     </registers>
     <search>
-      <last-search>prod</last-search>
+      <last-search>stock</last-search>
       <last-offset />
-      <last-pattern>prod</last-pattern>
+      <last-pattern>stock</last-pattern>
       <last-replace>title</last-replace>
       <last-substitute>name</last-substitute>
       <last-dir>1</last-dir>
@@ -714,7 +717,6 @@
     </search>
     <history>
       <history-search>
-        <entry>A</entry>
         <entry>acc</entry>
         <entry>prop</entry>
         <entry>deb</entry>
@@ -734,6 +736,7 @@
         <entry>price</entry>
         <entry>att</entry>
         <entry>prod</entry>
+        <entry>stock</entry>
       </history-search>
       <history-cmd>
         <entry>s/user/cart/g</entry>
