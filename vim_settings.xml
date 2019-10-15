@@ -307,11 +307,10 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/mail/index.php" timestamp="1570711094453" />
-      <file name="$USER_HOME$/Projects/pwh-pwa/pages/stock.vue" timestamp="1571121992852">
-        <mark key="[" line="94" column="26" />
-        <mark key="]" line="94" column="26" />
-        <mark key="." line="94" column="26" />
-        <mark key="^" line="94" column="26" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/pages/stock.vue" timestamp="1571123372401">
+        <mark key="[" line="97" column="20" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/resources/views/admin/users/edit.blade.php" timestamp="1570700072430" />
       <file name="$USER_HOME$/Projects/pwh-api/domain/Carts/Http/Requests/AddToCartRequest.php" timestamp="1570438798685">
@@ -673,8 +672,8 @@
       <jump line="18" column="85" filename="$USER_HOME$/Projects/pwh-api/domain/Products/Models/Product.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJywKICAgICAgICAgICAgICAgICd0YWdzJwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgdGhpcw==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -717,29 +716,29 @@
       <register name="0" type="4">
         <text>\Domain\Products\Http\Controllers\ProductController::class, 'show'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJywKICAgICAgICAgICAgICAgICd0YWdzJwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgdGhpcw==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZGQoJHJlc291cmNlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBpbmRpdmlkdWFsSXRlbXMgPSB4LmRhdGEubWFwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcHJvZHVjdCB1aWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB0aGlzLnByb2R1Y3RNZXRhID0geC5tZXRhCiAgICAgICAgICAgICAgICAgICAgLy8gdGhpcy5wcm9kdWN0RW50cmllcyA9IHguZGF0YQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hbGxvd2VkU29ydHMoQWxsb3dlZFNvcnQ6OmZpZWxkKCdwb3NpdGlvbicpKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZyh4KQogICAgICAgICAgICAgICAgICAgIC8vIHRoaXMuYXBpRGF0YSA9IHg=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICduYW1lJywKICAgICAgICAgICAgICAgICd0YWdzJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgLT5uYW1lKCdhcGkucHJvZHVjdHMuc3RvY2suaW5kZXgnKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZGQoJHJlc291cmNlcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUm91dGU6OmdldCgnL2NvbmZpZ3VyZWQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcHJvZHVjdCB1aWQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -769,10 +768,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSb3V0ZTo6Z2V0KCcvc3RvY2snLCBbXERvbWFpblxQcm9kdWN0c1xIdHRwXENvbnRyb2xsZXJzXFByb2R1Y3RDb250cm9sbGVyOjpjbGFzcywgJ3N0b2NrJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hbGxvd2VkU29ydHMoQWxsb3dlZFNvcnQ6OmZpZWxkKCdwb3NpdGlvbicpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJvdXRlOjpncm91cChbJ3ByZWZpeCcgPT4gJ3N0b2NrcyddLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgUm91dGU6OmdldCgnL2NvbmZpZ3VyZWQnKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL25hbWUvdGl0bGU=</text>
