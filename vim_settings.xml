@@ -116,6 +116,12 @@
         <mark key="^" line="64" column="34" />
         <mark key="." line="64" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-api/public/index.php" timestamp="1571132253586">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/finish-building/infrastructure/Pdfs/Types/QuotationBrands.php" timestamp="1570081507047">
         <mark key="'" line="61" column="4" />
         <mark key="[" line="41" column="44" />
@@ -583,8 +589,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="12" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
-      <jump line="14" column="32" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
       <jump line="63" column="62" filename="$USER_HOME$/Projects/vesca/app/Pdf.php" />
       <jump line="222" column="43" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
       <jump line="454" column="18" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
@@ -683,10 +687,12 @@
       <jump line="30" column="17" filename="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Controllers/ProductController.php" />
       <jump line="31" column="17" filename="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Controllers/ProductController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/config/telescope.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/pwh-api/public/index.php" />
+      <jump line="51" column="0" filename="$USER_HOME$/Projects/pwh-api/public/index.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oJ2Rhc2QnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -721,7 +727,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>$e ) {</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
@@ -730,28 +736,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+YXR0cmlidXRlU2V0cygpLT53aXRoKFsnb3ZlcnJpZGVzJ10pLT5nZXQoKS0+cmVqZWN0KGZ1bmN0aW9uICgkc2V0KSB1c2UgKCRjYXRlZ29yeSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oJ2Rhc2QnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignZGFzZCcpOwo=</text>
+        <text encoding="base64">dHJ5IHsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGRkKCR0aGlzKTsK</text>
+        <text encoding="base64">dHJ5IHsKCiRrZXJuZWwgPSAkYXBwLT5tYWtlKElsbHVtaW5hdGVcQ29udHJhY3RzXEh0dHBcS2VybmVsOjpjbGFzcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">fSBjYXRjaCAoXEV4Y2VwdGlvbiAKICAgIGRpZShwcmludF9yKCRlKSk7Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZGQoJHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oJ2Rhc2QnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbignZGFzZCcpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -781,10 +787,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGRkKCRlbnRyeSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGRkKCR0aGlzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+YXR0cmlidXRlU2V0cygpLT53aXRoKFsnb3ZlcnJpZGVzJ10pLT5nZXQoKS0+cmVqZWN0KGZ1bmN0aW9uICgkc2V0KSB1c2UgKCRjYXRlZ29yeSkgewo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL25hbWUvdGl0bGU=</text>
