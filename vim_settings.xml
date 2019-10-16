@@ -262,12 +262,6 @@
         <mark key="." line="19" column="94" />
         <mark key="^" line="19" column="94" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/app/Nova/Team.php" timestamp="1570795247145">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="26" />
-        <mark key="." line="76" column="0" />
-        <mark key="^" line="73" column="17" />
-      </file>
       <file name="$USER_HOME$/Projects/finish-building/resources/views/quotation/footer.blade.php" timestamp="1570190992012">
         <mark key="'" line="79" column="49" />
         <mark key="[" line="84" column="0" />
@@ -519,6 +513,13 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/vesca/composer.json" timestamp="1571214084270">
+        <mark key="'" line="47" column="18" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="45" column="41" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" timestamp="1570698354286">
         <mark key="'" line="560" column="0" />
         <mark key="[" line="561" column="19" />
@@ -592,7 +593,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="62" filename="$USER_HOME$/Projects/vesca/app/Pdf.php" />
       <jump line="222" column="43" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
       <jump line="454" column="18" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
       <jump line="9" column="12" filename="$USER_HOME$/Projects/vesca/resources/views/report/_pages/reference_maps.blade.php" />
@@ -692,10 +692,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/config/telescope.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/pwh-api/public/index.php" />
       <jump line="51" column="0" filename="$USER_HOME$/Projects/pwh-api/public/index.php" />
+      <jump line="47" column="18" filename="$USER_HOME$/Projects/vesca/composer.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIERvbWFpblxBdHRyaWJ1dGVzXEh0dHBcUmVzb3VyY2VzXEF0dHJpYnV0ZTsK</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -739,28 +740,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICYmIHJlcXVlc3QoKS0+cm91dGVJcygnYXBpLnByb2R1Y3RzLionKSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIERvbWFpblxBdHRyaWJ1dGVzXEh0dHBcUmVzb3VyY2VzXEF0dHJpYnV0ZTsK</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXENhY2hlOwoK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIERvbWFpblxBdHRyaWJ1dGVzXEh0dHBcUmVzb3VyY2VzXEF0dHJpYnV0ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnbWFuZCcsIGZ1bmN0aW9uICgpIHsKICAgICRpID0gMDsKCiAgICBDYWNoZTo6cHV0KCdtYW5kJywgJ21hbmQnLCAxMDAwMCk7CiAgICB3aGlsZSAoJGkgPCAwKSB7CiAgICAgICAgQ2FjaGU6OmdldCgnbWFuZCcpOwogICAgICAgICRpKys7CiAgICB9CgogICAgcmV0dXJuIHJlc3BvbnNlKDIwMCk7Cn0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRmlsZXN5c3RlbVxDYWNoZTsK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXENhY2hlOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIENhY2hlOjpwdXQoY2MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -790,10 +791,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciAoJGkgPSAwOyAkaWNjJCkK</text>
+        <text encoding="base64">Um91dGU6OmdldCgnbWFuZCcsIGZ1bmN0aW9uICgpIHsKICAgICRpID0gMDsKCiAgICBDYWNoZTo6cHV0KCdtYW5kJywgJ21hbmQnLCAxMDAwMCk7CiAgICB3aGlsZSAoJGkgPCAwKSB7CiAgICAgICAgQ2FjaGU6OmdldCgnbWFuZCcpOwogICAgICAgICRpKys7CiAgICB9CgogICAgcmV0dXJuIHJlc3BvbnNlKDIwMCk7Cn0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRmlsZXN5c3RlbVxDYWNoZTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL25hbWUvdGl0bGU=</text>
