@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/productList2.vue" timestamp="1571743597247">
+        <mark key="'" line="81" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/auth.smit/app/Providers/AppServiceProvider.php" timestamp="1571217897382">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
@@ -24,6 +27,13 @@
         <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/.env" timestamp="1571730152674" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/productList.vue" timestamp="1571743715686">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="81" column="50" />
+        <mark key="." line="82" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Resources/ProductStock.php" timestamp="1571658370588">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="20" column="38" />
@@ -191,12 +201,12 @@
         <mark key="." line="85" column="29" />
         <mark key="^" line="85" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/pages/stock/_productId.vue" timestamp="1571739118160">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="121" column="49" />
-        <mark key="]" line="121" column="25" />
-        <mark key="." line="121" column="25" />
-        <mark key="^" line="141" column="4" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/pages/stock/_productId.vue" timestamp="1571743963527">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="123" column="22" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1570626970554">
         <mark key="[" line="0" column="61" />
@@ -273,12 +283,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" timestamp="1571738389458">
-        <mark key="'" line="126" column="9" />
-        <mark key="[" line="32" column="71" />
-        <mark key="]" line="33" column="11" />
-        <mark key="." line="33" column="11" />
-        <mark key="^" line="33" column="11" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" timestamp="1571743442540">
+        <mark key="'" line="131" column="0" />
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="16" />
+        <mark key="." line="10" column="16" />
+        <mark key="^" line="10" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/typescript/src/components/Todo.vue" timestamp="1570525417015">
         <mark key="[" line="10" column="0" />
@@ -305,9 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="11" filename="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-10-09.log" />
-      <jump line="41" column="0" filename="$USER_HOME$/Projects/pwh-api/domain/Carts/Models/Cart.php" />
-      <jump line="5" column="67" filename="$USER_HOME$/Projects/pwh-api/domain/Carts/Http/Resources/Cart.php" />
       <jump line="427" column="18" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
       <jump line="563" column="0" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
       <jump line="571" column="24" filename="$USER_HOME$/Projects/vesca/resources/views/report/style.blade.php" />
@@ -387,7 +394,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" />
       <jump line="39" column="12" filename="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" />
       <jump line="29" column="72" filename="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" />
-      <jump line="128" column="72" filename="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" />
       <jump line="38" column="0" filename="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" />
       <jump line="29" column="24" filename="$USER_HOME$/Projects/vesca/Envoy.blade.php" />
       <jump line="28" column="5" filename="$USER_HOME$/Projects/pwh-api/domain/Products/Models/ProductStock.php" />
@@ -405,10 +411,14 @@
       <jump line="118" column="9" filename="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" />
       <jump line="43" column="0" filename="$USER_HOME$/Projects/pwh-pwa/store/products.js" />
       <jump line="101" column="0" filename="$USER_HOME$/Projects/pwh-pwa/pages/stock/_productId.vue" />
+      <jump line="69" column="0" filename="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" />
+      <jump line="128" column="0" filename="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" />
+      <jump line="82" column="0" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/productList.vue" />
+      <jump line="81" column="15" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/productList2.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this.apiData.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmtleT0icHJvZHVjdC5faWQiCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -443,7 +453,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>this.apiData.</text>
+        <text>_id</text>
       </register>
       <register name="/" type="4">
         <text>q</text>
@@ -452,25 +462,25 @@
         <text encoding="base64">ICAgICAgZW5kcG9pbnQgPSBgJHtlbmRwb2ludH0mZmlsdGVyW25hbWVdPSR7cXVlcnl9YDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwRW50cmllcyhlbnRyaWVzKSB7CiAgICAgICAgICAgICAgICBjb25zdCBwcm9kdWN0cyA9IHRoaXMuYXBpRGF0YS5lbnRyaWVzLm1hcChwcm9kdWN0ID0+IHsKICAgICAgICAgICAgICAgICAgICBjb25zdCBzdG9ja3MgPSBwcm9kdWN0LnN0b2Nrcy5maWx0ZXIoIXN0b2NrSXNEZWZhdWx0KQogICAgICAgICAgICAgICAgICAgIHJldHVybiBzdG9ja3MubWFwKHN0b2NrID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgcHJvZHVjdCA9IG1hcFByb2R1Y3QocHJvZHVjdCkKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHByb2R1Y3QuY29uZmlndXJlRnJvbVN0b2NrKHN0b2NrKQogICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICB9KQoKICAgICAgICAgICAgICAgIGRlYnVnZ2VyCgogICAgICAgICAgICAgICAgLy8gdm9vciBlbGsgcHJvZHVjdAoKICAgICAgICAgICAgICAgIC8vIHN0b2NrcyA9IHByb2R1Y3QtPnN0b2NrIHdhYXIgY29uZmlnICE9PSBkZWZhdWx0CgogICAgICAgICAgICAgICAgLy8gdm9vciBvdmVyZ2VibGV2ZW4gc3RvY2tzID0+IHN0b2NrCgogICAgICAgICAgICAgICAgLy8gcHJvZHVjdCA9IG1hcFByb2R1Y3QocHJvZHVjdCkKICAgICAgICAgICAgICAgIC8vIHJldHVybiBwcm9kdWN0LmNvbmZpZ3VyZUZyb21TdG9jayhzdG9jayludHJpZXMpIHsKCiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmtleT0icHJvZHVjdC5faWQiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9kdWN0SWQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXRlZ29yeUlkOiBudWxsLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCB7bWFwR2V0dGVyc30gZnJvbSAndnVleCc7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9kdWN0cyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmljZVdpdGhBdHRyaWJ1dGVzKCkgewo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -485,8 +495,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHByb2R1Y3RzID0gdGhpcy5hcGlEYXRhLmVudHJpZXMKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgLy8gdm9vciBlbGsgcHJvZHVjdAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAvLyBzdG9ja3MgPSBwcm9kdWN0LT5zdG9jayB3YWFyIGNvbmZpZyAhPT0gZGVmYXVsdAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAvLyB2b29yIG92ZXJnZWJsZXZlbiBzdG9ja3MgPT4gc3RvY2sKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgLy8gcHJvZHVjdCA9IG1hcFByb2R1Y3QgcHJvZHVjdAogICAgICAgICAgICAgICAgLy8gcmV0dXJuIHByb2R1Y3QuY29uZmlndXJlRnJvbVN0b2NrKHN0b2NrKQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -516,10 +526,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHN0b2NrSXNEZWZhdWx0KHN0b2NrKSB7CiAgICByZXR1cm4gc3RvY2suYXR0cmlidXRlcyA9PT0gbnVsbCB8fCBzdG9jay5hdHRyaWJ1dGVzLmV2ZXJ5KGF0dCA9PiBhdHQuZGVmYXVsdCkKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLi4ubWFwR2V0dGVycyh7CiAgICAgICAgICAgICAgICAvLyBtZXRhOiAncHJvZHVjdHMvbWV0YScsCiAgICAgICAgICAgICAgICAvLyBwcm9kdWN0czogJ3Byb2R1Y3RzL2dldCcsCiAgICAgICAgICAgICAgICAvLyBzZWxlY3RlZENhdGVnb3J5OiAnY2F0ZWdvcmllcy9nZXRTZWxlY3RlZCcsCiAgICAgICAgICAgICAgICAvLyBzZWxlY3RlZFN1YkNhdGVnb3J5OiAnY2F0ZWdvcmllcy9nZXRTZWxlY3RlZFN1YicKICAgICAgICAgICAgfSksCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2F0dHJpYnV0ZS9wcm9kdWN0X3N0b2NrL2c=</text>
