@@ -29,6 +29,7 @@
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/vesca/.env" timestamp="1571730152674" />
       <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Resources/ProductStock.php" timestamp="1571658370588">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="20" column="38" />
@@ -235,6 +236,13 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/vesca/Envoy.blade.php" timestamp="1571729891732">
+        <mark key="'" line="29" column="24" />
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="22" />
+        <mark key="^" line="193" column="21" />
+        <mark key="." line="16" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/tests/Mocks/customers.sync.json" timestamp="1571053584155">
         <mark key="[" line="1" column="0" />
@@ -479,7 +487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="453" column="0" filename="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-10-09.log" />
       <jump line="24" column="11" filename="$USER_HOME$/Projects/facade/storage/logs/laravel-2019-10-01.log" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-10-09.log" />
       <jump line="421" column="55" filename="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-10-09.log" />
@@ -579,6 +586,7 @@
       <jump line="29" column="72" filename="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" />
       <jump line="128" column="72" filename="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" />
       <jump line="38" column="0" filename="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" />
+      <jump line="29" column="24" filename="$USER_HOME$/Projects/vesca/Envoy.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -620,7 +628,7 @@
         <text>onst</text>
       </register>
       <register name="/" type="4">
-        <text>fi</text>
+        <text>3</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGV0IHN0b2NrcyA9IHRoaXMuc3RvY2tzLmZpbHRlcihzdG9jayA9PiBzdG9ja0lzRGVmYXVsdChzdG9jaykpCg==</text>
@@ -700,17 +708,16 @@
       </register>
     </registers>
     <search>
-      <last-search>fi</last-search>
+      <last-search>3</last-search>
       <last-offset />
-      <last-pattern>fi</last-pattern>
+      <last-pattern>3</last-pattern>
       <last-replace>product_stock</last-replace>
       <last-substitute>attribute</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>head</entry>
         <entry>dates</entry>
         <entry>dateT</entry>
         <entry>DateT</entry>
@@ -730,6 +737,7 @@
         <entry>stock</entry>
         <entry>===</entry>
         <entry>fi</entry>
+        <entry>3</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NsZWFyL2VtcHR5L2c=</entry>
