@@ -260,6 +260,11 @@
         <mark key="." line="28" column="41" />
         <mark key="^" line="28" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-pwa/plugins/axios.js" timestamp="1571831761214">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productConfigurator/index.vue" timestamp="1571820903550">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -319,12 +324,12 @@
         <mark key="." line="15" column="7" />
         <mark key="^" line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" timestamp="1571820205580">
+      <file name="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" timestamp="1571831919872">
         <mark key="'" line="131" column="0" />
-        <mark key="[" line="18" column="63" />
-        <mark key="]" line="20" column="41" />
-        <mark key="." line="20" column="41" />
-        <mark key="^" line="20" column="41" />
+        <mark key="[" line="117" column="40" />
+        <mark key="]" line="117" column="40" />
+        <mark key="." line="117" column="40" />
+        <mark key="^" line="61" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/vesca/app/User.php" timestamp="1570711324775">
         <mark key="[" line="54" column="22" />
@@ -334,8 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/vesca/routes/web.php" />
-      <jump line="192" column="9" filename="$USER_HOME$/Projects/finish-building/Envoy.blade.php" />
       <jump line="19" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.php" />
       <jump line="33" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.php" />
       <jump line="22" column="11" filename="$USER_HOME$/Projects/mail/index.php" />
@@ -434,10 +437,12 @@
       <jump line="7" column="46" filename="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productSpecifications/index.vue" />
       <jump line="1" column="23" filename="$USER_HOME$/Projects/pwh-pwa/components/prowarehouse/pw-productSpecifications/index.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-10-23.log" />
+      <jump line="61" column="32" filename="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" />
+      <jump line="131" column="0" filename="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJpY2UgPSAtMTA7CiAgICAgICAgJGludmFsaWQgPSBbCiAgICAgICAgcHJlZ19tYXRjaCgnLy0/W14wLTkuXS8nLCAoc3RyaW5nKSAkcHJpY2UpICE9PSAwLAogICAgICAgICAgICBwcmVnX21hdGNoKCcvWzAtOV0vJywgKHN0cmluZykgJHByaWNlKSAhPT0gMSwKICAgICAgICAgICAgc3Vic3RyX2NvdW50KCRwcmljZSwgJy4nKSA+IDEKICAgICAgICAgICAgXTsKICAgICAgICBkZCgoc3RyaW5nKSAkcHJpY2UpOwogICAgICAgIGRkKCRpbnZhbGlkKTsK</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -472,34 +477,34 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>valid</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>uk</text>
+        <text>null</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3Vic3RyX2NvdW50KCRwcmljZSwgJy4nKSA+IDEgfHwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJpY2UgPSAtMTA7CiAgICAgICAgJGludmFsaWQgPSBbCiAgICAgICAgcHJlZ19tYXRjaCgnLy0/W14wLTkuXS8nLCAoc3RyaW5nKSAkcHJpY2UpICE9PSAwLAogICAgICAgICAgICBwcmVnX21hdGNoKCcvWzAtOV0vJywgKHN0cmluZykgJHByaWNlKSAhPT0gMSwKICAgICAgICAgICAgc3Vic3RyX2NvdW50KCRwcmljZSwgJy4nKSA+IDEKICAgICAgICAgICAgXTsKICAgICAgICBkZCgoc3RyaW5nKSAkcHJpY2UpOwogICAgICAgIGRkKCRpbnZhbGlkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISR0aGlzLT5oYXNQcmljZSgpKSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0KCiAgICAgICAgaWYgKCR0aGlzLT5pc1N1YmplY3RUb0FjdGlvblByaWNpbmcoKSkgewogICAgICAgICAgICByZXR1cm4gJHRoaXMtPnByaWNlLT5hY3Rpb247CiAgICAgICAgfQoKICAgICAgICBpZiAoJHRoaXMtPmlzU3ViamVjdFRvTGVkZ2VyUHJpY2luZygpKSB7CiAgICAgICAgICAgIHJldHVybiAkdGhpcy0+Z2V0Q2FsY3VsYXRlZFByaWNlRm9yTGVkZ2VyKCk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJHRoaXMtPmdldENhbGN1bGF0ZWRQcmljZUZvckN1c3RvbWVyKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICByZXR1cm4gJHRoaXMtPmdldEFjdGl2ZVByaWNlQXR0cmlidXRlKCk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgIGRkZCgkdGhpcyk7CiAgICAgICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE86ICJTdG9yZSBJRCIgc2hvdWxkIGJlIHJlc29sdmVkIGZyb20gIkhvc3RuYW1lIiAvICJSZWZlcmVyIgogICAgLy8gVE9ETzogIlN0b3JlIElEIiBzaG91bGQgbWF0Y2ggIklTUyIgd2l0aGluICIgV2ViIFRva2VuIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5oZWFkZXJzLmNvbW1vblsnWC1TdG9yZS1JRCddID0gcHJvY2Vzcy5lbnYuU1RPUkVfSUQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmdldEFjdGl2ZVByaWNlQXR0cmlidXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcHJpY2UgPSAtMTA7CiAgICAgICAgJGludmFsaWQgPSBbCiAgICAgICAgcHJlZ19tYXRjaCgnLy0/W14wLTkuXS8nLCAoc3RyaW5nKSAkcHJpY2UpICE9PSAwLAogICAgICAgICAgICBwcmVnX21hdGNoKCcvWzAtOV0vJywgKHN0cmluZykgJHByaWNlKSAhPT0gMSwKICAgICAgICAgICAgc3Vic3RyX2NvdW50KCRwcmljZSwgJy4nKSA+IDEKICAgICAgICAgICAgXTsKICAgICAgICBkZCgoc3RyaW5nKSAkcHJpY2UpOwogICAgICAgIGRkKCRpbnZhbGlkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISR0aGlzLT5oYXNQcmljZSgpKSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0KCiAgICAgICAgaWYgKCR0aGlzLT5pc1N1YmplY3RUb0FjdGlvblByaWNpbmcoKSkgewogICAgICAgICAgICByZXR1cm4gJHRoaXMtPnByaWNlLT5hY3Rpb247CiAgICAgICAgfQoKICAgICAgICBpZiAoJHRoaXMtPmlzU3ViamVjdFRvTGVkZ2VyUHJpY2luZygpKSB7CiAgICAgICAgICAgIHJldHVybiAkdGhpcy0+Z2V0Q2FsY3VsYXRlZFByaWNlRm9yTGVkZ2VyKCk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJHRoaXMtPmdldENhbGN1bGF0ZWRQcmljZUZvckN1c3RvbWVyKCk7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -514,8 +519,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkYnJva2VuID0gW107CiAgICAgICAgJHJlc291cmNlcy0+ZWFjaChmdW5jdGlvbiAoJGl0ZW0pIHVzZSAoJiRicm9rZW4pIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGVjaG8gUmVzb3VyY2U6OmNvbGxlY3Rpb24oY29sbGVjdCgkaXRlbSkpOwogICAgICAgICAgICB9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgICAgICAkYnJva2VuW10gPSAkaXRlbS0+aWQ7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsKICAgICAgICBpZiAoJGJyb2tlbikgewogICAgICAgICAgICBkZGQoJGJyb2tlbik7CiAgICAgICAgfQogICAgICAgIGRkZCgnbWFuZCcpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICByZXR1cm4gJHRoaXMtPmdldEFjdGl2ZVByaWNlQXR0cmlidXRlKCk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgIGRkZCgkdGhpcyk7CiAgICAgICAgfQ==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -545,27 +550,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJGl0ZW0tPmFjdGl2ZVByaWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkZCgkZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmdldEFjdGl2ZVByaWNlQXR0cmlidXRlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2F0dHJpYnV0ZS9wcm9kdWN0X3N0b2NrL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>uk</last-search>
+      <last-search>null</last-search>
       <last-offset />
-      <last-pattern>uk</last-pattern>
+      <last-pattern>null</last-pattern>
       <last-replace>product_stock</last-replace>
       <last-substitute>attribute</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>prod</entry>
         <entry>meta</entry>
         <entry encoding="base64">IA==</entry>
         <entry>attribute</entry>
@@ -585,6 +589,7 @@
         <entry>q</entry>
         <entry>compo</entry>
         <entry>uk</entry>
+        <entry>null</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NsZWFyL2VtcHR5L2c=</entry>
