@@ -132,12 +132,6 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-api/domain/Stores/Models/Store.php" timestamp="1570440798808">
-        <mark key="[" line="116" column="14" />
-        <mark key="]" line="116" column="13" />
-        <mark key="^" line="116" column="13" />
-        <mark key="." line="116" column="13" />
-      </file>
       <file name="$USER_HOME$/Projects/pwh-api/domain/Products/Http/Handlers/StockSync.php" timestamp="1571663677799">
         <mark key="[" line="47" column="44" />
         <mark key="]" line="47" column="55" />
@@ -218,6 +212,12 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/pwh-api/domain/Stores/Preferences/StorePreferences.php" timestamp="1571930697092">
+        <mark key="[" line="63" column="41" />
+        <mark key="]" line="63" column="42" />
+        <mark key="." line="63" column="42" />
+        <mark key="^" line="63" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-api/database/factories/ProductStockFactory.php" timestamp="1571643449812">
         <mark key="[" line="19" column="0" />
@@ -414,8 +414,8 @@
       <jump line="17" column="48" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtaWRkbGVfbmFtZTogbnVsbCwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IG51bGw=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -450,7 +450,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text encoding="base64">IG51bGw=</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
