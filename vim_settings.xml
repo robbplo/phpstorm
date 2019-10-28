@@ -76,15 +76,11 @@
         <mark key="]" line="15" column="12" />
         <mark key="." line="15" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/vesca/routes/web.php" timestamp="1572251118152" />
       <file name="$USER_HOME$/Projects/pwh-api/storage/logs/laravel-2019-10-23.log" timestamp="1571821464647">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/pwh-api/app/Providers/AppServiceProvider.php" timestamp="1571921282842">
-        <mark key="]" line="51" column="25" />
-        <mark key="." line="51" column="25" />
-        <mark key="^" line="51" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/mnist/train.py" timestamp="1572073269804" />
       <file name="$USER_HOME$/Projects/pwh-api/.env" timestamp="1571920896870">
@@ -117,6 +113,13 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" timestamp="1571918107187">
+        <mark key="'" line="61" column="31" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="^" line="61" column="31" />
+        <mark key="." line="104" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/layouts/authenticate.vue" timestamp="1571924076856">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="11" />
@@ -128,11 +131,19 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" timestamp="1572249496952">
+      <file name="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" timestamp="1572251280797">
+        <mark key="'" line="100" column="36" />
         <mark key="[" line="101" column="42" />
         <mark key="]" line="100" column="49" />
         <mark key="^" line="100" column="49" />
         <mark key="." line="100" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/pwh-pwa/nuxt.config.js" timestamp="1571910142185">
+        <mark key="'" line="143" column="11" />
+        <mark key="[" line="105" column="20" />
+        <mark key="]" line="105" column="21" />
+        <mark key="." line="105" column="21" />
+        <mark key="^" line="105" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/pwh-pwa/pages/register.vue" timestamp="1571924579039">
         <mark key="[" line="29" column="17" />
@@ -153,9 +164,15 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/pwh-pwa/store/products.js" timestamp="1571907836313">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="55" column="37" />
+        <mark key="]" line="55" column="37" />
+        <mark key="^" line="55" column="58" />
+        <mark key="." line="55" column="37" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/vesca/app/Nova/Team.php" />
       <jump line="65" column="13" filename="$USER_HOME$/Projects/vesca/app/Nova/Team.php" />
       <jump line="66" column="16" filename="$USER_HOME$/Projects/vesca/app/Nova/Team.php" />
       <jump line="63" column="0" filename="$USER_HOME$/Projects/vesca/app/Nova/Team.php" />
@@ -255,6 +272,7 @@
       <jump line="35" column="3" filename="$USER_HOME$/Projects/mnist/index.html" />
       <jump line="41" column="20" filename="$USER_HOME$/Projects/mnist/index.html" />
       <jump line="77" column="5" filename="$USER_HOME$/Projects/mnist/index.html" />
+      <jump line="100" column="36" filename="$USER_HOME$/Projects/vesca/app/Jobs/CreatePdf.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -296,7 +314,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>context</text>
+        <text>view</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGltZyBjbGFzcz0iY29tcGFueS1sb2dvIiBzcmM9Int7IGFzc2V0KCJzdG9yYWdlL3skZGF0YVsnY29tcGFueV9sb2dvX3RodW1iJ119IikgPz8gYXNzZXQoJ3BkZi9pbWcvbG9nby5naWYnKSB9fSI+Cg==</text>
@@ -424,9 +442,9 @@
       </register>
     </registers>
     <search>
-      <last-search>context</last-search>
+      <last-search>view</last-search>
       <last-offset />
-      <last-pattern>context</last-pattern>
+      <last-pattern>view</last-pattern>
       <last-replace>inputCtx</last-replace>
       <last-substitute>context</last-substitute>
       <last-dir>1</last-dir>
@@ -434,7 +452,6 @@
     </search>
     <history>
       <history-search>
-        <entry>===</entry>
         <entry>fi</entry>
         <entry>3</entry>
         <entry>methids</entry>
@@ -454,6 +471,7 @@
         <entry>Cl</entry>
         <entry>this</entry>
         <entry>context</entry>
+        <entry>view</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyB3aWR0aD0iNTAlIi9n</entry>
