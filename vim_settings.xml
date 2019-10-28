@@ -32,12 +32,12 @@
         <mark key="." line="44" column="42" />
         <mark key="^" line="35" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" timestamp="1572269643217">
-        <mark key="'" line="221" column="11" />
-        <mark key="[" line="226" column="27" />
-        <mark key="]" line="226" column="27" />
-        <mark key="." line="226" column="49" />
-        <mark key="^" line="225" column="44" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" timestamp="1572271830409">
+        <mark key="'" line="285" column="11" />
+        <mark key="[" line="303" column="12" />
+        <mark key="]" line="303" column="11" />
+        <mark key="^" line="303" column="11" />
+        <mark key="." line="303" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/mnist/index.html" timestamp="1572024358090">
         <mark key="'" line="75" column="5" />
@@ -141,12 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="72" filename="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/Projects/pwh-pwa/helpers/products.js" />
-      <jump line="29" column="24" filename="$USER_HOME$/Projects/vesca/Envoy.blade.php" />
-      <jump line="28" column="5" filename="$USER_HOME$/Projects/pwh-api/domain/Products/Models/ProductStock.php" />
-      <jump line="167" column="71" filename="$USER_HOME$/Projects/pwh-pwa/pages/products/_category/_subcategory/_slug/_id/index.vue" />
-      <jump line="242" column="8" filename="$USER_HOME$/Projects/pwh-pwa/pages/products/_category/_subcategory/_slug/_id/index.vue" />
       <jump line="264" column="0" filename="$USER_HOME$/Projects/pwh-pwa/pages/products/_category/_subcategory/_slug/_id/index.vue" />
       <jump line="66" column="0" filename="$USER_HOME$/Projects/pwh-pwa/pages/stock/_productId.vue" />
       <jump line="244" column="0" filename="$USER_HOME$/Projects/pwh-pwa/pages/products/_category/_subcategory/_slug/_id/index.vue" />
@@ -220,7 +214,6 @@
       <jump line="169" column="0" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" />
       <jump line="156" column="10" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" />
       <jump line="204" column="3" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" />
-      <jump line="264" column="0" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" />
       <jump line="1" column="37" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/sdv-field/index.vue" />
       <jump line="15" column="14" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" />
       <jump line="25" column="14" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" />
@@ -241,10 +234,17 @@
       <jump line="208" column="12" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" />
       <jump line="219" column="9" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" />
       <jump line="221" column="11" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" />
+      <jump line="235" column="11" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" />
+      <jump line="248" column="11" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" />
+      <jump line="258" column="11" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" />
+      <jump line="265" column="11" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" />
+      <jump line="264" column="0" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" />
+      <jump line="275" column="11" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" />
+      <jump line="285" column="11" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>KVK nummer</text>
+        <text>Straatnaam</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -279,34 +279,34 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>KVK nummer</text>
+        <text>Straatnaam</text>
       </register>
       <register name="/" type="4">
-        <text>coc</text>
+        <text>street</text>
       </register>
       <register name="0" type="4">
-        <text>Huisnummer factuuradres</text>
+        <text>E-mailadres bezorgadres</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSAgICAgIGludm9pY2VfY29tcGFueV9uYW1lOiBudWxsLC0tPgogICAgICA8IS0tICAgICAgaW52b2ljZV9lbWFpbDogbnVsbCwtLT4KICAgICAgPCEtLSAgICAgIGludm9pY2Vfc3RyZWV0OiBudWxsLC0tPgo=</text>
+        <text encoding="base64">CiAgICAgIDwhLS0gICAgICBzaGlwcGluZ19jb21wYW55X25hbWU6IG51bGwsLS0+CiAgICAgIDwhLS0gICAgICBzaGlwcGluZ19lbWFpbDogbnVsbCwtLT4KICAgICAgPCEtLSAgICAgIHNoaXBwaW5nX3N0cmVldDogbnVsbCwtLT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgdi12YWxpZGF0ZT0iJ3JlcXVpcmVkJyIKICAgICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgICAgICAgOmVycm9yPSJlcnJvcnMuZmlyc3QoJ2ludm9pY2VfZW1haWwnKSIK</text>
+        <text encoding="base64">ICAgICAgPCEtLSAgICAgIHNoaXBwaW5nX2NvbXBhbnlfbmFtZTogbnVsbCwtLT4KICAgICAgPCEtLSAgICAgIHNoaXBwaW5nX2VtYWlsOiBudWxsLC0tPgogICAgICA8IS0tICAgICAgc2hpcHBpbmdfc3RyZWV0OiBudWxsLC0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCEtLSAgICAgIEtvcDogZmFjdHV1cmFkcmVkLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgdi12YWxpZGF0ZT0iJ3JlcXVpcmVkJyIKICAgICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgICAgICAgOmVycm9yPSJlcnJvcnMuZmlyc3QoJ3NoaXBwaW5nX3N0cmVldCcpIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgdi12YWxpZGF0ZT0iJ3JlcXVpcmVkJyIKICAgICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgICAgICAgOmVycm9yPSJlcnJvcnMuZmlyc3QoJ3NoaXBwaW5nX2NvbXBhbnlfbmFtZScpIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgb29vbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgOmVycm9yPSJlcnJvcnMuZmlyc3QoJ3NoaXBwaW5nX2VtYWlsJykiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0idWstbWFyZ2luIiB2LWlmPSIhaXNEaXNhYmxlZCgnd2Vic2l0ZScpIj4KICAgICAgICA8bGFiZWwgY2xhc3M9ImZvcm0tbGFiZWwiIGZvcj0id2Vic2l0ZSI+V2Vic2l0ZTwvbGFiZWw+CiAgICAgICAgPGRpdiBjbGFzcz0idWstZm9ybS1jb250cm9scyI+CiAgICAgICAgICA8aW5wdXQgY2xhc3M9InVrLWlucHV0IgogICAgICAgICAgICAgICAgIDpjbGFzcz0ieyd1ay1mb3JtLWRhbmdlcic6IGVycm9ycy5oYXMoJ3dlYnNpdGUnKX0iCiAgICAgICAgICAgICAgICAgaWQ9IndlYnNpdGUiCiAgICAgICAgICAgICAgICAgbmFtZT0id2Vic2l0ZSIKICAgICAgICAgICAgICAgICB0eXBlPSJ0ZXh0IgogICAgICAgICAgICAgICAgIHYtbW9kZWw9ImZvcm0ud2Vic2l0ZSIKICAgICAgICAgID4KICAgICAgICAgIDxzcGFuIGNsYXNzPSJ1ay10ZXh0LWRhbmdlciI+e3sgZXJyb3JzLmZpcnN0KCd3ZWJzaXRlJykgfX08L3NwYW4+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgdi12YWxpZGF0ZT0iJ3JlcXVpcmVkJyIKICAgICAgICAgICAgICAgcmVxdWlyZWQK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -322,7 +322,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgdi12YWxpZGF0ZT0iJ3JlcXVpcmVkJyIKICAgICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgICAgICAgOmVycm9yPSJlcnJvcnMuZmlyc3QoJ3dlYnNpdGUnKSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -352,27 +352,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgdi12YWxpZGF0ZT0iJ3JlcXVpcmVkJyIKICAgICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgICAgICAgOmVycm9yPSJlcnJvcnMuZmlyc3QoJ21pZGRsZV9uYW1lJykiCg==</text>
+        <text encoding="base64">ICAgICAgPCEtLSAgICAgIGRpZmZlcmVudF9zaGlwcGluZ19hZGRyZXNzOiBmYWxzZSwtLT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgICAgICAgOmVycm9yPSJlcnJvcnMuZmlyc3QoJ21pZGRsZV9uYW1lJykiCg==</text>
+        <text encoding="base64">CiAgICAgIDwhLS0gICAgICBkaWZmZXJlbnRfc2hpcHBpbmdfYWRkcmVzczogZmFsc2UsLS0+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2NvYy9pbnZvaWNlX2NpdHk=</text>
+        <text encoding="base64">JzwsJz5zL3N0cmVldC96aXBjb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>coc</last-search>
+      <last-search>street</last-search>
       <last-offset />
-      <last-pattern>coc</last-pattern>
-      <last-replace>invoice_city</last-replace>
-      <last-substitute>coc</last-substitute>
+      <last-pattern>street</last-pattern>
+      <last-replace>zipcode</last-replace>
+      <last-substitute>street</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>compo</entry>
         <entry>uk</entry>
         <entry>null</entry>
         <entry>stort</entry>
@@ -392,15 +391,9 @@
         <entry>K</entry>
         <entry>vat</entry>
         <entry>coc</entry>
+        <entry>street</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2NvYy9lbWFpbA==</entry>
-        <entry encoding="base64">JzwsJz5zL2NvYy9tb2JpbGU=</entry>
-        <entry encoding="base64">JzwsJz5zL2NvYy93ZWJzaXRl</entry>
-        <entry encoding="base64">JzwsJz5zL2NvYy92YXRfbnVtYmVy</entry>
-        <entry encoding="base64">JzwsJz5zL2NvYy9jb21wYW55X25hbWUvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL2NvYy9pbml0aWFscy9n</entry>
-        <entry encoding="base64">JzwsJz5zL2NvYy9maXJzdF9uYW1l</entry>
         <entry encoding="base64">JzwsJz5zL2NvYy9taWRkbGVfbmFtZS9n</entry>
         <entry encoding="base64">JzwsJz5zL2NvYy9sYXN0X25hbWUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2NvYy9lbWFpbC9n</entry>
@@ -414,6 +407,13 @@
         <entry encoding="base64">JzwsJz5zL2NvYy9pbnZvaWNlX2hvdXNlX251bWJlcl9leHRlbnNpb24=</entry>
         <entry encoding="base64">JzwsJz5zL2NvYy9pbnZvaWNlX3ppcGNvZGU=</entry>
         <entry encoding="base64">JzwsJz5zL2NvYy9pbnZvaWNlX2NpdHk=</entry>
+        <entry encoding="base64">JzwsJz5zL2NvYy9zaGlwcGluZ19jb21wYW55X25hbWU=</entry>
+        <entry encoding="base64">JzwsJz5zL2NvYy9zaGlwcGluZ19lbWFpbA==</entry>
+        <entry encoding="base64">JzwsJz5zL2NvYy9zaGlwcGluZ19zdHJlZXQ=</entry>
+        <entry encoding="base64">JzwsJz5zL3N0cmVldC9jb21wYW55X25hbWU=</entry>
+        <entry encoding="base64">JzwsJz5zL3N0cmVldC9ob3VzZV9udW1iZXI=</entry>
+        <entry encoding="base64">JzwsJz5zL3N0cmVldC9ob3VzZV9udW1iZXJfZXh0ZW5zaW9u</entry>
+        <entry encoding="base64">JzwsJz5zL3N0cmVldC96aXBjb2Rl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
