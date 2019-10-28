@@ -32,12 +32,12 @@
         <mark key="." line="44" column="42" />
         <mark key="^" line="35" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" timestamp="1572271830409">
-        <mark key="'" line="285" column="11" />
-        <mark key="[" line="303" column="12" />
-        <mark key="]" line="303" column="11" />
-        <mark key="^" line="303" column="11" />
-        <mark key="." line="303" column="11" />
+      <file name="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" timestamp="1572273161982">
+        <mark key="'" line="293" column="5" />
+        <mark key="[" line="304" column="31" />
+        <mark key="]" line="309" column="11" />
+        <mark key="." line="309" column="11" />
+        <mark key="^" line="309" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/mnist/index.html" timestamp="1572024358090">
         <mark key="'" line="75" column="5" />
@@ -141,7 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="0" filename="$USER_HOME$/Projects/pwh-pwa/pages/products/_category/_subcategory/_slug/_id/index.vue" />
       <jump line="66" column="0" filename="$USER_HOME$/Projects/pwh-pwa/pages/stock/_productId.vue" />
       <jump line="244" column="0" filename="$USER_HOME$/Projects/pwh-pwa/pages/products/_category/_subcategory/_slug/_id/index.vue" />
       <jump line="34" column="73" filename="$USER_HOME$/Projects/pwh-pwa/pages/stock/_productId.vue" />
@@ -241,10 +240,11 @@
       <jump line="264" column="0" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" />
       <jump line="275" column="11" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" />
       <jump line="285" column="11" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" />
+      <jump line="295" column="5" filename="$USER_HOME$/Projects/pwh-pwa/components/sdv-shop/block/register.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Straatnaam</text>
+        <text>Factuuradres</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -279,34 +279,34 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Straatnaam</text>
+        <text>Factuuradres</text>
       </register>
       <register name="/" type="4">
         <text>street</text>
       </register>
-      <register name="0" type="4">
-        <text>E-mailadres bezorgadres</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgPGgzPkZhY3R1dXJhZHJlczwvaDM+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgIDwhLS0gICAgICBzaGlwcGluZ19jb21wYW55X25hbWU6IG51bGwsLS0+CiAgICAgIDwhLS0gICAgICBzaGlwcGluZ19lbWFpbDogbnVsbCwtLT4KICAgICAgPCEtLSAgICAgIHNoaXBwaW5nX3N0cmVldDogbnVsbCwtLT4K</text>
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSAgICAgIHNoaXBwaW5nX2NvbXBhbnlfbmFtZTogbnVsbCwtLT4KICAgICAgPCEtLSAgICAgIHNoaXBwaW5nX2VtYWlsOiBudWxsLC0tPgogICAgICA8IS0tICAgICAgc2hpcHBpbmdfc3RyZWV0OiBudWxsLC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ1ay1tYXJnaW4iPgogICAgICAgICAgPGZpZWxkIHdpZHRoPSIxLTFAcyIKICAgICAgICAgICAgICAgICB2LW1vZGVsPSJmb3JtLnNoaXBwaW5nX2VtYWlsIgogICAgICAgICAgICAgICAgIG5hbWU9InNoaXBwaW5nX2VtYWlsIgogICAgICAgICAgICAgICAgIGxhYmVsPSJFLW1haWxhZHJlcyBiZXpvcmdhZHJlcyIKICAgICAgICAgICAgICAgICBkYXRhLXZ2LWFzPSJFLW1haWxhZHJlcyBiZXpvcmdhZHJlcyIKICAgICAgICAgICAgICAgICB2LWlmPSIhaXNEaXNhYmxlZCgnc2hpcHBpbmdfZW1haWwnKSIKICAgICAgICAgID48L2ZpZWxkPgogICAgICAgIDwvZGl2PgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgdi12YWxpZGF0ZT0iJ3JlcXVpcmVkJyIKICAgICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgICAgICAgOmVycm9yPSJlcnJvcnMuZmlyc3QoJ3NoaXBwaW5nX3N0cmVldCcpIgo=</text>
+        <text encoding="base64">ICAgICAgICBzaGlwcGluZ19lbWFpbDogbnVsbCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgdi12YWxpZGF0ZT0iJ3JlcXVpcmVkJyIKICAgICAgICAgICAgICAgcmVxdWlyZWQKICAgICAgICAgICAgICAgOmVycm9yPSJlcnJvcnMuZmlyc3QoJ3NoaXBwaW5nX2NvbXBhbnlfbmFtZScpIgo=</text>
+        <text encoding="base64">ICAgICAgPCEtLSAgICAgIGRpZmZlcmVudF9zaGlwcGluZ19hZGRyZXNzOiBmYWxzZSwtLT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgOmVycm9yPSJlcnJvcnMuZmlyc3QoJ3NoaXBwaW5nX2VtYWlsJykiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgdi12YWxpZGF0ZT0iJ3JlcXVpcmVkJyIKICAgICAgICAgICAgICAgcmVxdWlyZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -322,7 +322,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -352,20 +352,20 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPCEtLSAgICAgIGRpZmZlcmVudF9zaGlwcGluZ19hZGRyZXNzOiBmYWxzZSwtLT4K</text>
+        <text encoding="base64">ICAgICAgICAgIDxsYWJlbD48aW5wdXQgY2xhc3M9InVrLWNoZWNrYm94IiB0eXBlPSJjaGVja2JveCI+IEI8L2xhYmVsPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgIDwhLS0gICAgICBkaWZmZXJlbnRfc2hpcHBpbmdfYWRkcmVzczogZmFsc2UsLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3N0cmVldC96aXBjb2Rl</text>
+        <text encoding="base64">JzwsJz5zL3N0cmVldC9jaXR5</text>
       </register>
     </registers>
     <search>
       <last-search>street</last-search>
       <last-offset />
       <last-pattern>street</last-pattern>
-      <last-replace>zipcode</last-replace>
+      <last-replace>city</last-replace>
       <last-substitute>street</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
@@ -394,7 +394,6 @@
         <entry>street</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2NvYy9taWRkbGVfbmFtZS9n</entry>
         <entry encoding="base64">JzwsJz5zL2NvYy9sYXN0X25hbWUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2NvYy9lbWFpbC9n</entry>
         <entry encoding="base64">JzwsJz5zL2NvYy9waG9uZV9udW1iZXI=</entry>
@@ -414,6 +413,7 @@
         <entry encoding="base64">JzwsJz5zL3N0cmVldC9ob3VzZV9udW1iZXI=</entry>
         <entry encoding="base64">JzwsJz5zL3N0cmVldC9ob3VzZV9udW1iZXJfZXh0ZW5zaW9u</entry>
         <entry encoding="base64">JzwsJz5zL3N0cmVldC96aXBjb2Rl</entry>
+        <entry encoding="base64">JzwsJz5zL3N0cmVldC9jaXR5</entry>
       </history-cmd>
       <history-expr />
       <history-input />
