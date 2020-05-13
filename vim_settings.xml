@@ -1,6 +1,60 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>3</entry>
+        <entry>data</entry>
+        <entry>address</entry>
+        <entry>-</entry>
+        <entry>pe_</entry>
+        <entry>pe</entry>
+        <entry>file</entry>
+        <entry>'</entry>
+        <entry>y</entry>
+        <entry>severity_id</entry>
+        <entry>fetch</entry>
+        <entry>`</entry>
+        <entry>1</entry>
+        <entry>fff</entry>
+        <entry>header</entry>
+        <entry>re</entry>
+        <entry>File</entry>
+        <entry>comp</entry>
+        <entry>import</entry>
+        <entry>bug</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zL2FjdGl2aXR5L3Blcm1pdC9n</entry>
+        <entry encoding="base64">JzwsJz5zL0NvbXBhbnlTdGF0aXN0aWNzL21hbmQvZw==</entry>
+        <entry>s/mand/PartStatistics/g</entry>
+        <entry encoding="base64">JzwsJz5zL2FkZHJlc3MvdGhpcy9n</entry>
+        <entry encoding="base64">JzwsJz5zL3RoaXMvc3RhdGUvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3N0cmluZy9zdHJpbmd8bnVsbC9n</entry>
+        <entry>s/&quot;/'/g</entry>
+        <entry>s/Shipping/Billing/g</entry>
+        <entry>s/0/1/g</entry>
+        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
+        <entry encoding="base64">JzwsJz5zL3N0cmluZyB8Ly8=</entry>
+        <entry>s/'/`/g</entry>
+        <entry>w</entry>
+        <entry>s/shipping/billing/g</entry>
+        <entry>s/1/0/g</entry>
+        <entry>s/-/_/g</entry>
+        <entry>s/'/&quot;/g</entry>
+        <entry encoding="base64">JzwsJz5zL3NldmVyaXR5X2lkL2NvbXBvbmVudC9n</entry>
+        <entry>s/`/'/g</entry>
+        <entry encoding="base64">JzwsJz5zLzEvMg==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
@@ -33,9 +87,263 @@
         <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="false" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/projects/bij.boehringer/resources/views/layouts/app.blade.php" timestamp="1589290469990">
+        <mark key="[" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/bij.boehringer/resources/views/layouts/master.blade.php" timestamp="1589362817809" />
+      <file name="$USER_HOME$/projects/SmitAuth/action.default.php" timestamp="1586520107652">
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="72" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="24" column="58" />
+      </file>
+      <file name="$USER_HOME$/projects/vetclass/app/Http/Controllers/Backend/Subscription/ListController.php" timestamp="1589288317333">
+        <mark key="[" line="137" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/resources/documentation/participants.md" timestamp="1589289026039">
+        <mark key="[" line="37" column="10" />
+        <mark key="]" line="37" column="10" />
+        <mark key="." line="37" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/vetclass/app/Console/Commands/FetchBroadcastsWebinargeek.php" timestamp="1589283309861">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="147" column="20" />
+        <mark key="]" line="145" column="16" />
+        <mark key="^" line="145" column="16" />
+        <mark key="." line="145" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/materialenservice/app/Nova/Actions/ExportOrdersFastlions.php" timestamp="1586861457909">
+        <mark key="[" line="127" column="44" />
+        <mark key="]" line="127" column="45" />
+        <mark key="." line="127" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/SmitAuth/action.save_settings.php" timestamp="1586519918999">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="64" />
+        <mark key="^" line="7" column="64" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/materialenservice/app/Console/Kernel.php" timestamp="1589359192589">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/SmitAuth/action.admin_settings.php" timestamp="1586520153432">
+        <mark key="[" line="14" column="62" />
+        <mark key="]" line="14" column="62" />
+        <mark key="^" line="14" column="62" />
+        <mark key="." line="14" column="62" />
+      </file>
+      <file name="$USER_HOME$/projects/SmitAuth/lang/en_US.php" timestamp="1586519834329">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="14" column="60" />
+      </file>
+      <file name="$USER_HOME$/projects/materialenservice/app/Policies/TenantPolicy.php" timestamp="1589359803054">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/SmitAuth/templates/settings.tpl" timestamp="1586519878920">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="41" column="3" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/resources/documentation/meetings.md" timestamp="1589289060042">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/vesca/routes/web.php" timestamp="1589289464843">
+        <mark key="[" line="45" column="50" />
+        <mark key="]" line="45" column="51" />
+        <mark key="." line="45" column="51" />
+      </file>
+      <file name="$USER_HOME$/projects/vetclass/.env" timestamp="1589358110245">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/SmitAuth/templates/_authenticate.tpl" timestamp="1586514121008">
+        <mark key="^" line="2" column="78" />
+      </file>
+      <file name="$USER_HOME$/projects/SmitAuth/SmitAuth.module.php" timestamp="1586513899801">
+        <mark key="[" line="67" column="63" />
+        <mark key="]" line="67" column="63" />
+        <mark key="." line="67" column="63" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="213" column="111" filename="$USER_HOME$/projects/vesca/app/Http/Controllers/Admin/UserController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/vesca/.env.example" />
+      <jump line="37" column="1" filename="$USER_HOME$/projects/werkplaats/public/css/deal.css" />
+      <jump line="47" column="17" filename="$USER_HOME$/projects/werkplaats/public/css/deal.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/werkplaats/public/css/deal.css" />
+      <jump line="51" column="8" filename="$USER_HOME$/projects/werkplaats/public/css/deal.css" />
+      <jump line="201" column="71" filename="$USER_HOME$/projects/werkplaats/vendor/spatie/browsershot/src/Browsershot.php" />
+      <jump line="105" column="28" filename="$USER_HOME$/projects/werkplaats/resources/views/portal/pdf/deal.blade.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/werkplaats/resources/views/portal/pdf/header.blade.php" />
+      <jump line="1" column="3" filename="$USER_HOME$/projects/werkplaats/resources/views/portal/pdf/header.blade.php" />
+      <jump line="53" column="17" filename="$USER_HOME$/projects/werkplaats/resources/views/portal/pdf/deal.blade.php" />
+      <jump line="86" column="16" filename="$USER_HOME$/projects/werkplaats/resources/views/portal/pdf/deal.blade.php" />
+      <jump line="120" column="47" filename="$USER_HOME$/projects/werkplaats/resources/views/portal/pdf/deal.blade.php" />
+      <jump line="44" column="2537" filename="$USER_HOME$/projects/werkplaats/resources/views/portal/pdf/deal.blade.php" />
+      <jump line="115" column="2537" filename="$USER_HOME$/projects/werkplaats/resources/views/portal/pdf/deal.blade.php" />
+      <jump line="13" column="1974" filename="$USER_HOME$/projects/werkplaats/resources/views/portal/pdf/deal.blade.php" />
+      <jump line="12" column="17" filename="$USER_HOME$/projects/werkplaats/public/css/deal.css" />
+      <jump line="27" column="75" filename="$USER_HOME$/projects/werkplaats/resources/views/portal/pdf/deal.blade.php" />
+      <jump line="51" column="18" filename="$USER_HOME$/projects/werkplaats/resources/views/portal/pdf/deal.blade.php" />
+      <jump line="121" column="24" filename="$USER_HOME$/projects/werkplaats/resources/views/portal/pdf/deal.blade.php" />
+      <jump line="12" column="17" filename="$USER_HOME$/projects/werkplaats/resources/views/portal/pdf/deal.blade.php" />
+      <jump line="15" column="18" filename="$USER_HOME$/projects/werkplaats/resources/views/portal/pdf/deal.blade.php" />
+      <jump line="52" column="15" filename="$USER_HOME$/projects/werkplaats/public/css/deal.css" />
+      <jump line="33" column="0" filename="$USER_HOME$/projects/werkplaats/public/css/deal.css" />
+      <jump line="24" column="64" filename="$USER_HOME$/projects/werkplaats/resources/views/portal/pdf/deal.blade.php" />
+      <jump line="63" column="0" filename="$USER_HOME$/projects/werkplaats/public/css/deal.css" />
+      <jump line="60" column="0" filename="$USER_HOME$/projects/werkplaats/public/css/deal.css" />
+      <jump line="0" column="26" filename="$USER_HOME$/projects/smc-web-eed/quasar.conf.js" />
+      <jump line="83" column="0" filename="$USER_HOME$/projects/smc-web-eed/src/components/leaks/leak-details.vue" />
+      <jump line="13" column="24" filename="$USER_HOME$/projects/smc-web-eed/src/components/leaks/leak-details.vue" />
+      <jump line="146" column="6" filename="$USER_HOME$/projects/smc-web-eed/src/components/leaks/leak-details.vue" />
+      <jump line="136" column="0" filename="$USER_HOME$/projects/smc-web-eed/src/components/leaks/leak-details.vue" />
+      <jump line="41" column="54" filename="$USER_HOME$/projects/smc-web-api/api/Image/Http/Controllers/ImageController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/smc-web-api/api/Image/Http/Controllers/ImageController.php" />
+      <jump line="6" column="38" filename="$USER_HOME$/projects/smc-web-eed/src/components/leaks/leak-image.vue" />
+      <jump line="17" column="29" filename="$USER_HOME$/projects/smc-web-eed/src/components/leaks/leak-details.vue" />
+      <jump line="160" column="21" filename="$USER_HOME$/projects/smc-web-eed/src/components/leaks/leak-details.vue" />
+      <jump line="91" column="14" filename="$USER_HOME$/projects/smc-web-eed/src/pages/leaks/show.vue" />
+      <jump line="31" column="43" filename="$USER_HOME$/projects/smc-web-eed/src/components/leaks/leak-details.vue" />
+      <jump line="5" column="26" filename="$USER_HOME$/projects/smc-web-eed/src/components/companies/company-image.vue" />
+      <jump line="7" column="25" filename="$USER_HOME$/projects/smc-web-eed/cypress/integration/leak_workflow.spec.js" />
+      <jump line="394" column="23" filename="$USER_HOME$/projects/ubnudnlogin/index.php" />
+      <jump line="128" column="29" filename="$USER_HOME$/projects/ubnudnlogin/index.php" />
+      <jump line="393" column="29" filename="$USER_HOME$/projects/ubnudnlogin/index.php" />
+      <jump line="35" column="15" filename="$USER_HOME$/projects/smc-web-eed/src/pages/leaks/show.vue" />
+      <jump line="57" column="28" filename="$USER_HOME$/projects/smc-web-eed/src/pages/leaks/show.vue" />
+      <jump line="60" column="2" filename="$USER_HOME$/projects/smc-web-eed/src/pages/leaks/show.vue" />
+      <jump line="80" column="64" filename="$USER_HOME$/projects/smc-web-eed/src/pages/leaks/show.vue" />
+      <jump line="40" column="19" filename="$USER_HOME$/projects/smc-web-eed/src/pages/leaks/show.vue" />
+      <jump line="59" column="18" filename="$USER_HOME$/projects/smc-web-eed/src/pages/leaks/show.vue" />
+      <jump line="13" column="9" filename="$USER_HOME$/projects/smc-web-eed/src/pages/leaks/show.vue" />
+      <jump line="68" column="84" filename="$USER_HOME$/projects/smc-web-eed/src/pages/leaks/show.vue" />
+      <jump line="10" column="17" filename="$USER_HOME$/projects/smc-web-eed/src/components/ImageUpload.vue" />
+      <jump line="39" column="25" filename="$USER_HOME$/projects/smc-web-eed/src/components/leaks/leak-image.vue" />
+      <jump line="32" column="17" filename="$USER_HOME$/projects/smc-web-eed/src/components/ImageUpload.vue" />
+      <jump line="66" column="41" filename="$USER_HOME$/projects/smc-web-eed/src/components/ImageUpload.vue" />
+      <jump line="6" column="22" filename="$USER_HOME$/projects/smc-web-eed/src/pages/leaks/show.vue" />
+      <jump line="38" column="19" filename="$USER_HOME$/projects/smc-web-eed/src/pages/leaks/show.vue" />
+      <jump line="47" column="61" filename="$USER_HOME$/projects/smc-web-eed/src/components/generic/ImageUpload.vue" />
+      <jump line="12" column="23" filename="$USER_HOME$/projects/smc-web-eed/src/pages/leaks/show.vue" />
+      <jump line="29" column="24" filename="$USER_HOME$/projects/smc-web-eed/src-cordova/config.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/smc-web-eed/src-cordova/config.xml" />
+      <jump line="119" column="23" filename="$USER_HOME$/projects/smc-web-eed/src/pages/leaks/show.vue" />
+      <jump line="102" column="11" filename="$USER_HOME$/projects/smc-web-eed/src/components/leaks/leak-show-offline.vue" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/smc-web-eed/src/components/leaks/leak-show-offline.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/smc-web-eed/src/components/leaks/leak-show-offline.vue" />
+      <jump line="55" column="12" filename="$USER_HOME$/projects/smc-web-eed/src/components/leaks/leak-show-offline.vue" />
+      <jump line="32" column="22" filename="$USER_HOME$/projects/smc-web-eed/src/components/generic/ImageUpload.vue" />
+      <jump line="43" column="0" filename="$USER_HOME$/projects/smc-web-eed/src/components/generic/ImageUpload.vue" />
+      <jump line="13" column="24" filename="$USER_HOME$/projects/smc-web-eed/src/components/generic/ImageUpload.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/smc-web-eed/src/components/generic/ImageUpload.vue" />
+      <jump line="68" column="40" filename="$USER_HOME$/projects/smc-web-eed/src/components/generic/ImageUpload.vue" />
+      <jump line="64" column="14" filename="$USER_HOME$/projects/smc-web-eed/src/components/leaks/leak-show-offline.vue" />
+      <jump line="174" column="28" filename="$USER_HOME$/projects/smc-web-eed/src/components/leaks/leak-details.vue" />
+      <jump line="125" column="36" filename="$USER_HOME$/projects/smc-web-eed/src/components/leaks/leak-show-offline.vue" />
+      <jump line="98" column="20" filename="$USER_HOME$/projects/smc-web-eed/src/components/leaks/leak-show-offline.vue" />
+      <jump line="127" column="35" filename="$USER_HOME$/projects/smc-web-eed/src/components/leaks/leak-create.vue" />
+      <jump line="21" column="21" filename="$USER_HOME$/projects/smc-web-eed/src/components/leaks/leak-details.vue" />
+      <jump line="186" column="36" filename="$USER_HOME$/projects/smc-web-eed/src/components/audits/audit-offline-leaks.vue" />
+      <jump line="34" column="26" filename="$USER_HOME$/projects/smc-web-eed/src/app/offline/leaks.js" />
+      <jump line="141" column="10" filename="$USER_HOME$/projects/smc-web-eed/src/components/leaks/leak-details.vue" />
+      <jump line="191" column="18" filename="$USER_HOME$/projects/smc-web-eed/src/components/audits/audit-offline-leaks.vue" />
+      <jump line="72" column="35" filename="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" />
+      <jump line="56" column="28" filename="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" />
+      <jump line="15" column="4" filename="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" />
+      <jump line="63" column="22" filename="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" />
+      <jump line="109" column="36" filename="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" />
+      <jump line="2" column="87" filename="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" />
+      <jump line="117" column="25" filename="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" />
+      <jump line="115" column="7" filename="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" />
+      <jump line="8" column="20" filename="$USER_HOME$/projects/SmitAuth/action.user.php" />
+      <jump line="22" column="4" filename="$USER_HOME$/projects/materialenservice/app/Console/Commands/RefreshProductStock.php" />
+      <jump line="66" column="0" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/OrderController.php" />
+      <jump line="1" column="15" filename="$USER_HOME$/projects/materialenservice/resources/documentation/1_introduction.md" />
+      <jump line="56" column="0" filename="$USER_HOME$/projects/materialenservice-pwa/store/modules/auth.js" />
+      <jump line="61" column="53" filename="$USER_HOME$/projects/materialenservice-pwa/store/modules/auth.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/vetclass/app/Console/Commands/FetchBroadcastsWebinargeek.php" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>s</text>
+      </register>
+      <register name="/" type="4">
+        <text>bug</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">JHRoaXMtPmdldFByZWZlcmVuY2UoJ3VuYXV0aG9yaXplZF9wYWdlX2lkJyk=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PT09PT09PQogICAgICAgIGlmICghIENhY2hlOjpoYXMoJHRlbmFudC0+Z2V0Q2FydENhY2hlS2V5KHJlcXVlc3QoKS0+Y2FydFVzZXJJZCgpKSkpIHsKICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KGNvbmZpZygnYXBwLndlYnNob3BfdXJsJykpOwo+Pj4+Pj4+IGRldmVsb3AK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkc2NoZWR1bGUtPmNvbW1hbmQoJ29yZGVyczpzeW5jJyktPmRhaWx5QXQoJzAzOjAwJyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Tk9WQV9ET1dOTE9BRF9FTUFJTD0KTk9WQV9ET1dOTE9BRF9QQVNTV09SRD0KTk9WQV9QUklWQVRFX1JFUE9fUkVNT1RFPWdpdEBnaXRsYWIuY29tOnBpZXRlcnNtaXRtZWRpYWJ2L2xhcmF2ZWwtbm92YS5naXQKTk9WQV9FTkFCTEVfUFVTSD10cnVlCgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgZGllKCdubyBlbnRyeScpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAogICAgCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zLzEvMg==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>bug</last-search>
+      <last-offset />
+      <last-pattern>bug</last-pattern>
+      <last-replace>2</last-replace>
+      <last-substitute>1</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
