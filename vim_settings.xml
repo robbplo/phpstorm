@@ -106,9 +106,9 @@
         <mark key="." line="7" column="12" />
         <mark key="^" line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/auth.smit/app/Nova/Lenses/UserConsentsLens.php" timestamp="1589527131857">
-        <mark key="'" line="14" column="22" />
-        <mark key="[" line="80" column="41" />
+      <file name="$USER_HOME$/projects/auth.smit/app/Nova/Lenses/UserConsentsLens.php" timestamp="1589528670299">
+        <mark key="'" line="82" column="8" />
+        <mark key="[" line="14" column="22" />
       </file>
       <file name="$USER_HOME$/projects/auth.smit/app/Nova/Filters/UserMissingConsent.php" timestamp="1589527109875">
         <mark key="[" line="7" column="24" />
@@ -142,11 +142,12 @@
       <file name="$USER_HOME$/projects/vetclass/app/Http/Controllers/Backend/Subscription/ListController.php" timestamp="1589288317333">
         <mark key="[" line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/auth.smit/app/Nova/Actions/ExportUsers.php" timestamp="1589527663225">
-        <mark key="'" line="75" column="31" />
-        <mark key="[" line="75" column="83" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="75" column="0" />
+      <file name="$USER_HOME$/projects/auth.smit/app/Nova/Actions/ExportUsers.php" timestamp="1589528773246">
+        <mark key="'" line="69" column="31" />
+        <mark key="[" line="54" column="23" />
+        <mark key="]" line="54" column="24" />
+        <mark key="." line="54" column="23" />
+        <mark key="^" line="54" column="24" />
       </file>
       <file name="$USER_HOME$/projects/auth.smit/app/Nova/Filters/UserEmailVerificationFilter.php" timestamp="1589527220555">
         <mark key="'" line="28" column="9" />
@@ -162,11 +163,12 @@
         <mark key="." line="1" column="6" />
         <mark key="^" line="1" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/auth.smit/app/Nova/Lenses/UserConsents.php" timestamp="1589527089064">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="79" column="35" />
-        <mark key="^" line="77" column="16" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/projects/auth.smit/app/Nova/Lenses/UserConsents.php" timestamp="1589528719762">
+        <mark key="'" line="14" column="17" />
+        <mark key="[" line="81" column="43" />
+        <mark key="]" line="81" column="37" />
+        <mark key="^" line="81" column="37" />
+        <mark key="." line="81" column="36" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/app/Console/Kernel.php" timestamp="1589359192589">
         <mark key="[" line="30" column="0" />
@@ -191,8 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="71" filename="$USER_HOME$/projects/werkplaats/vendor/spatie/browsershot/src/Browsershot.php" />
-      <jump line="105" column="28" filename="$USER_HOME$/projects/werkplaats/resources/views/portal/pdf/deal.blade.php" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/werkplaats/resources/views/portal/pdf/header.blade.php" />
       <jump line="1" column="3" filename="$USER_HOME$/projects/werkplaats/resources/views/portal/pdf/header.blade.php" />
       <jump line="53" column="17" filename="$USER_HOME$/projects/werkplaats/resources/views/portal/pdf/deal.blade.php" />
@@ -291,12 +291,14 @@
       <jump line="18" column="0" filename="$USER_HOME$/projects/auth.smit/app/Nova/User.php" />
       <jump line="13" column="22" filename="$USER_HOME$/projects/auth.smit/app/Nova/Lenses/UserConsentsLens.php" />
       <jump line="28" column="9" filename="$USER_HOME$/projects/auth.smit/app/Nova/Filters/UserEmailVerificationFilter.php" />
+      <jump line="82" column="8" filename="$USER_HOME$/projects/auth.smit/app/Nova/Lenses/UserConsentsLens.php" />
+      <jump line="14" column="17" filename="$USER_HOME$/projects/auth.smit/app/Nova/Lenses/UserConsents.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbF90b19zdHJpbmcoJHVzZXItPmNvbnNlbnRzKCktPndoZXJlKCdjb25zZW50X3R5cGUnLCAnMScpLT5jb3VudCgpKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>Has v</text>
@@ -308,34 +310,34 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRxdWVyeS0+d2hlcmVOb3ROdWxsKCdlbWFpbF92ZXJpZmllZF9hdCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbF90b19zdHJpbmcoJHVzZXItPmNvbnNlbnRzKCktPndoZXJlKCdjb25zZW50X3R5cGUnLCAnMScpLT5jb3VudCgpKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Rlcm1zX29mX3NlcnZpY2UnLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Rlcm1zX29mX3NlcnZpY2UnLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBnZXRDb25zZW50VmFsdWVzKCR1c2VyKTogYXJyYXkKICAgIHsKICAgICAgICAkY29uc2VudHMgPSAkdXNlci0+Y29uc2VudHM7CiAgICAgICAgcmV0dXJuIGFycmF5X21hcChmdW5jdGlvbiAoJGNvbnNlbnRLZXkpIHVzZSAoJGNvbnNlbnRzKSB7CiAgICAgICAgICAgIHJldHVybiBib29sX3RvX3N0cmluZygkY29uc2VudHMtPndoZXJlKCdjb25zZW50X3R5cGUnLCBDb25zZW50VHlwZTo6Z2V0VmFsdWUoJGNvbnNlbnRLZXkpKS0+Y291bnQoKSk7CiAgICAgICAgfSwgQ29uc2VudFR5cGU6OmdldEtleXMoKSk7CiAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRxdWVyeS0+d2hlcmVOb3ROdWxsKCdlbWFpbF92ZXJpZmllZF9hdCcpOwo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBnZXRDb25zZW50SGVhZGluZ3MoKTogYXJyYXkKICAgIHsKICAgICAgICByZXR1cm4gYXJyYXlfbWFwKCdzdHJ0b2xvd2VyJywgQ29uc2VudFR5cGU6OmdldEtleXMoKSk7CiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmdldENvbnNlbnRIZWFkaW5ncygpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmdldENvbnNlbnRWYWx1ZXMoJHVzZXIpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbF90b19zdHJpbmcoJHVzZXItPmNvbnNlbnRzKCktPndoZXJlKCdjb25zZW50X3R5cGUnLCAnMScpLT5jb3VudCgpKSwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3Rlcm1zX29mX3NlcnZpY2UnLAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHF1ZXJ5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Rlcm1zX29mX3NlcnZpY2UnLAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEvMg==</text>
