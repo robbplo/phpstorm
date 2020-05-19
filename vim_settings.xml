@@ -91,20 +91,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1589540288912">
-        <mark key="[" line="0" column="11" />
+      <file name="/a.dummy" timestamp="1589872686646">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/orisflex/cms-module/action.detail.php" timestamp="1589791973824">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/StepOne.vue" timestamp="1589534101313">
-        <mark key="'" line="205" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
+      <file name="$USER_HOME$/projects/vetclass/database/migrations/2018_05_02_132445_remove_unnecessary_columns_from_users_table.php" timestamp="1589872442199" />
       <file name="$USER_HOME$/projects/orisflex/cms-module/Connexys.module.php" timestamp="1589809587250" />
       <file name="$USER_HOME$/projects/bij.boehringer/api/Order/Http/Requests/StoreManualRequest.php" timestamp="1589541579840">
         <mark key="[" line="9" column="11" />
@@ -129,11 +124,17 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vetclass/.env" timestamp="1589786992428">
-        <mark key="'" line="41" column="21" />
-        <mark key="[" line="24" column="23" />
-        <mark key="]" line="21" column="23" />
-        <mark key="." line="21" column="22" />
+      <file name="$USER_HOME$/projects/vetclass/app/Jobs/SendCkrdAccreditation.php" timestamp="1589872723117">
+        <mark key="[" line="87" column="35" />
+        <mark key="]" line="87" column="35" />
+        <mark key="^" line="87" column="43" />
+        <mark key="." line="87" column="35" />
+      </file>
+      <file name="$USER_HOME$/projects/vetclass/.env" timestamp="1589872377382">
+        <mark key="'" line="38" column="5" />
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="15" />
+        <mark key="." line="15" column="15" />
         <mark key="^" line="21" column="23" />
       </file>
       <file name="$USER_HOME$/projects/bij.boehringer/app/Order.php" timestamp="1589540591318">
@@ -171,11 +172,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/bij.boehringer/api/Order/Http/Requests/StoreOrderRequest.php" timestamp="1589540296499">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="14" />
-      </file>
       <file name="$USER_HOME$/projects/orisflex/connexys-client/src/Models/Position.php" timestamp="1589808078071">
         <mark key="[" line="94" column="8" />
         <mark key="]" line="95" column="0" />
@@ -189,7 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="24" filename="$USER_HOME$/projects/smc-web-eed/src/components/generic/ImageUpload.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/smc-web-eed/src/components/generic/ImageUpload.vue" />
       <jump line="68" column="40" filename="$USER_HOME$/projects/smc-web-eed/src/components/generic/ImageUpload.vue" />
       <jump line="64" column="14" filename="$USER_HOME$/projects/smc-web-eed/src/components/leaks/leak-show-offline.vue" />
@@ -289,21 +284,22 @@
       <jump line="187" column="27" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" />
       <jump line="227" column="12" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" />
       <jump line="41" column="21" filename="$USER_HOME$/projects/vetclass/.env" />
+      <jump line="38" column="5" filename="$USER_HOME$/projects/vetclass/.env" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGZvcm0=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JHBvc2l0aW9uID0gUG9zaXRpb25SZXBvc2l0b3J5OjpnZXRCeUludGVybmFsSWQoJHBhcmFtc1sncGlkJ10pOwoKLy8gQHRvZG8gNDA0IGlmIG5vIHBvc2l0aW9uCgokZGVmYXVsdCA9IENtc0xheW91dFRlbXBsYXRlOjpsb2FkX2RmbHRfYnlfdHlwZSgnQ29ubmV4eXM6OmRldGFpbCcpOwppZiggIWlzX29iamVjdCgkZGVmYXVsdCkgKSB7CiAgICBhdWRpdCgnJywgJHRoaXMtPkdldE5hbWUoKSwgJ05vIGRlZmF1bHQgZGV0YWlsIHRlbXBsYXRlIGZvdW5kJyk7CiAgICByZXR1cm47Cn0KJHRlbXBsYXRlID0gJGRlZmF1bHQtPmdldF9uYW1lKCk7CiRjYWNoZV9pZCA9ICdjeHMnIC4gbWQ1KHNlcmlhbGl6ZSgkcGFyYW1zKSk7CiRjb21waWxlX2lkID0gJyc7CgokdHBsID0gJHNtYXJ0eS0+Q3JlYXRlVGVtcGxhdGUoJHRoaXMtPkdldFRlbXBsYXRlUmVzb3VyY2UoJHRlbXBsYXRlKSwgJGNhY2hlX2lkLCAkY29tcGlsZV9pZCwgJHNtYXJ0eSk7CgokdHBsLT5hc3NpZ24oJ3Bvc2l0aW9uJywgJHBvc2l0aW9uKTsKCiR0cGwtPmRpc3BsYXkoKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGV2ZW50LT5hdHRlbXB0c19ja3JkIDw9IDEyNykgewo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAkZmlsdGVyZWQgPSBhcnJheV9maWx0ZXIoJHRoaXMtPmRhdGFbJ2NyaXRlcmlhJ10sIGZ1bmN0aW9uICgkY3JpdGVyaXVtKSB1c2UgKCRrZXkpIHsKICAgICAgICAgICAgcmV0dXJuICRjcml0ZXJpdW1bJ2tleSddID09PSAka2V5OwogICAgICAgIH0pOwo=</text>
