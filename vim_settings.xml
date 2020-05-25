@@ -91,9 +91,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589887155914">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/SmitAuth/lib/vendor/smit/smit-sdk-php/src/Helpers/HttpRedirects.php" timestamp="1590403421116">
         <mark key="[" line="46" column="8" />
         <mark key="]" line="47" column="0" />
@@ -124,6 +121,12 @@
         <mark key="." line="9" column="6" />
       </file>
       <file name="$USER_HOME$/projects/vesca/app/Traits/Metable.php" timestamp="1590417034229" />
+      <file name="$USER_HOME$/projects/vesca/app/Admin.php" timestamp="1590417696166">
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="38" />
+        <mark key="^" line="6" column="39" />
+      </file>
       <file name="$USER_HOME$/projects/vetclass/app/Http/Controllers/Frontend/User/ProfileController.php" timestamp="1589888202540">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -278,10 +281,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>function getM</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>function getM</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PGZvcm0=</text>
@@ -290,34 +293,35 @@
         <text encoding="base64">ICAgICAgICAvLyAkcmVzcG9uc2VbJ3N0YXR1cyddWydzdWNjZXNzJ10gPz8gZmFsc2UgPT09IHRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBleGl0KHZhcl9kdW1wKGhlYWRlcnNfc2VudCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>{
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgZXhpdCh2YXJfZHVtcChoZWFkZXJzX3NlbnQoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBleGl0KHZhcl9kdW1wKGhlYWRlcnNfc2VudCgpKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUodmFyX2R1bXAoaGVhZGVyc19zZW50KCkpKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICAgICAgZXhpdCh2YXJfZHVtcChoZWFkZXJzX3NlbnQoKSkpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRpZSh2YXJfZHVtcChzcHJpbnRmKCdMb2NhdGlvbjogJXMnLCAkdGhpcy0+Z2V0UmVkaXJlY3RVcmwoKSkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkaWUodmFyX2R1bXAoaGVhZGVyc19zZW50KCkpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUodmFyX2R1bXAoJHRoaXMtPmdldFN0YXRlKCdyZXR1cm5fdG8nKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoJHRoaXMtPmdldFN0YXRlKCdyZXR1cm5fdG8nKSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRpZSh2YXJfZHVtcChzcHJpbnRmKCdMb2NhdGlvbjogJXMnLCAkdGhpcy0+Z2V0UmVkaXJlY3RVcmwoKSkpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUodmFyX2R1bXAoJHRoaXMtPmdldEN1cnJlbnRVcmwoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkaWUodmFyX2R1bXAoJHRoaXMtPmdldFN0YXRlKCdyZXR1cm5fdG8nKSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEvMg==</text>
