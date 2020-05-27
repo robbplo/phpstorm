@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>-</entry>
-        <entry>pe_</entry>
-        <entry>pe</entry>
         <entry>file</entry>
         <entry>'</entry>
         <entry>y</entry>
@@ -27,6 +24,9 @@
         <entry>form</entry>
         <entry encoding="base64">Zm9ybT4=</entry>
         <entry encoding="base64">PGZvcm0=</entry>
+        <entry>tog</entry>
+        <entry>click</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2FjdGl2aXR5L3Blcm1pdC9n</entry>
@@ -35,7 +35,6 @@
         <entry encoding="base64">JzwsJz5zL2FkZHJlc3MvdGhpcy9n</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMvc3RhdGUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3N0cmluZy9zdHJpbmd8bnVsbC9n</entry>
-        <entry>s/&quot;/'/g</entry>
         <entry>s/Shipping/Billing/g</entry>
         <entry>s/0/1/g</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
@@ -49,6 +48,7 @@
         <entry encoding="base64">JzwsJz5zL3NldmVyaXR5X2lkL2NvbXBvbmVudC9n</entry>
         <entry>s/`/'/g</entry>
         <entry encoding="base64">JzwsJz5zLzEvMg==</entry>
+        <entry>s/&quot;/'/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -91,15 +91,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/materialenservice/config/cors.php" timestamp="1590566232739">
+        <mark key="[" line="46" column="32" />
+        <mark key="]" line="46" column="31" />
+        <mark key="^" line="46" column="31" />
+        <mark key="." line="46" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/SmitAuth/lib/vendor/smit/smit-sdk-php/src/Helpers/HttpRedirects.php" timestamp="1590403421116">
         <mark key="[" line="46" column="8" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/api/v1/Controllers/CatalogController.php" timestamp="1590477970337">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/projects/materialenservice/api/v1/Controllers/CatalogController.php" timestamp="1590563303109">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/api/v1/Requests/ShowCatalogRequest.php" timestamp="1590478022530">
         <mark key="[" line="32" column="0" />
@@ -112,10 +118,11 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice-pwa/store/modules/auth.js" timestamp="1590480136678">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/projects/materialenservice-pwa/store/modules/auth.js" timestamp="1590566551062">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+        <mark key="^" line="101" column="24" />
       </file>
       <file name="$USER_HOME$/projects/bij.boehringer/routes/web.php" timestamp="1589963272803">
         <mark key="[" line="36" column="0" />
@@ -125,23 +132,17 @@
       <file name="$USER_HOME$/projects/vesca/app/Http/Kernel.php" timestamp="1589965932264">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/bij.boehringer/api/Order/Http/Requests/StoreManualRequest.php" timestamp="1589963139737">
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="6" />
-        <mark key="^" line="9" column="6" />
-        <mark key="." line="9" column="6" />
-      </file>
       <file name="$USER_HOME$/projects/vesca/app/Admin.php" timestamp="1590417696166">
         <mark key="[" line="6" column="38" />
         <mark key="]" line="6" column="39" />
         <mark key="." line="6" column="38" />
         <mark key="^" line="6" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/bij.boehringer/api/Order/Http/Controllers/OrderController.php" timestamp="1589963114678">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="13" column="27" />
-        <mark key="." line="13" column="26" />
-        <mark key="^" line="13" column="27" />
+      <file name="$USER_HOME$/projects/materialenservice/infrastructure/Cors/TenancyCorsProfile.php" timestamp="1590563745471">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="20" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice-pwa/server/index.js" timestamp="1590479585977">
         <mark key="[" line="21" column="62" />
@@ -153,18 +154,20 @@
         <mark key="]" line="43" column="45" />
         <mark key="." line="43" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/.env" timestamp="1590478206864">
-        <mark key="[" line="6" column="11" />
+      <file name="$USER_HOME$/projects/materialenservice/.env" timestamp="1590564293089">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
       </file>
       <file name="$USER_HOME$/projects/vesca/resources/sass/app.scss" timestamp="1589965533684">
         <mark key="'" line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" timestamp="1589963212308">
-        <mark key="'" line="227" column="32" />
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="227" column="33" />
-        <mark key="." line="227" column="32" />
-        <mark key="^" line="227" column="33" />
+      <file name="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" timestamp="1590567786495">
+        <mark key="'" line="77" column="130" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="77" column="116" />
       </file>
       <file name="$USER_HOME$/projects/SmitAuth/lib/vendor/smit/smit-sdk-php/src/Auth/Auth.php" timestamp="1590403858204">
         <mark key="[" line="378" column="0" />
@@ -177,28 +180,25 @@
         <mark key="." line="207" column="57" />
         <mark key="^" line="139" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/public/index.php" timestamp="1590479211346">
+      <file name="$USER_HOME$/projects/materialenservice/public/index.php" timestamp="1590563296145">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/materialenservice-pwa/store/modules/products.js" timestamp="1590567553306">
+        <mark key="'" line="174" column="13" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/materialenservice-pwa/pages/index.vue" timestamp="1590566507204">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="42" />
+        <mark key="." line="23" column="41" />
+        <mark key="^" line="23" column="42" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="35" filename="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" />
-      <jump line="56" column="28" filename="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" />
-      <jump line="15" column="4" filename="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" />
-      <jump line="53" column="0" filename="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" />
-      <jump line="63" column="22" filename="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" />
-      <jump line="109" column="36" filename="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" />
-      <jump line="2" column="87" filename="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" />
-      <jump line="117" column="25" filename="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" />
-      <jump line="64" column="0" filename="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" />
-      <jump line="115" column="7" filename="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" />
-      <jump line="8" column="20" filename="$USER_HOME$/projects/SmitAuth/action.user.php" />
-      <jump line="22" column="4" filename="$USER_HOME$/projects/materialenservice/app/Console/Commands/RefreshProductStock.php" />
-      <jump line="66" column="0" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/OrderController.php" />
-      <jump line="1" column="15" filename="$USER_HOME$/projects/materialenservice/resources/documentation/1_introduction.md" />
       <jump line="56" column="0" filename="$USER_HOME$/projects/materialenservice-pwa/store/modules/auth.js" />
       <jump line="61" column="53" filename="$USER_HOME$/projects/materialenservice-pwa/store/modules/auth.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/vetclass/app/Console/Commands/FetchBroadcastsWebinargeek.php" />
@@ -284,66 +284,80 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/vesca/resources/sass/app.scss" />
       <jump line="64" column="0" filename="$USER_HOME$/projects/vesca/resources/sass/app.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/vesca/app/Http/Kernel.php" />
+      <jump line="76" column="94" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
+      <jump line="184" column="18" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
+      <jump line="152" column="15" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
+      <jump line="48" column="13" filename="$USER_HOME$/projects/materialenservice-pwa/store/modules/products.js" />
+      <jump line="107" column="2" filename="$USER_HOME$/projects/materialenservice-pwa/store/modules/auth.js" />
+      <jump line="94" column="2" filename="$USER_HOME$/projects/materialenservice-pwa/store/modules/products.js" />
+      <jump line="82" column="0" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
+      <jump line="192" column="2" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
+      <jump line="193" column="2" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
+      <jump line="189" column="5" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
+      <jump line="30" column="29" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
+      <jump line="62" column="23" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
+      <jump line="77" column="130" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
+      <jump line="176" column="13" filename="$USER_HOME$/projects/materialenservice-pwa/store/modules/products.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB1c2VySXNJbnRlcm5hbChzdGF0ZSkgewogICAgCiAgfSwK</text>
+        <text encoding="base64">ICAgICAgICA8cHJlPnt7ZGlzcGxheWluZ0V4dGVybmFsQ2F0YWxvZ319PC9wcmU+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.prevent</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PGZvcm0=</text>
+        <text>&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB1c2VySXNJbnRlcm5hbChzdGF0ZSkgewo=</text>
+      <register name="0" type="4">
+        <text>rootGetters['auth/userIsInternal']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB1c2VySXNJbnRlcm5hbChzdGF0ZSkgewogICAgCiAgfSwK</text>
+        <text encoding="base64">ICAgICAgICA8cHJlPnt7ZGlzcGxheWluZ0V4dGVybmFsQ2F0YWxvZ319PC9wcmU+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGllKHBocGluZm8oKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJvb3RHZXR0ZXJzWydhdXRoL3VzZXJJc0ludGVybmFsJ10pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbgo=</text>
+        <text encoding="base64">ICAgIGRpc3BsYXlpbmdFeHRlcm5hbENhdGFsb2coKSB7CiAgICAgIHJldHVybiB0aGlzLiRzdG9yZS5zdGF0ZS5wcm9kdWN0cy5kaXNwbGF5RXh0ZXJuYWxDYXRhbG9nOwogICAgfSwK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIAogICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICB0aGlzLiRzdG9yZS5kaXNwYXRjaCgicHJvZHVjdHMvZmV0Y2giKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBhdHRyaWJ1dGVzKCkKICAgIHsKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAnZGF0YS4qLmlkJyA9PiAnSGV0IHByb2R1Y3QnLAogICAgICAgICAgICAnZGF0YS4qLmFtb3VudCcgPT4gJ0hldCBhYW50YWwnLAogICAgICAgIF07Cg==</text>
+        <text encoding="base64">ICAgICgpIHsKICAgICAgdGhpcy4kc3RvcmUuY29tbWl0KCdhdXRoL1NFVF9ESVNQTEFZX0VYVEVSTkFMX0NBVEFMT0cnLCAhdGhpcy5kaXNwbGF5RXh0ZXJuYWxDYXRhbG9nKQogICAgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RhdGEuKi5pZCcgPT4gWwogICAgICAgICAgICAgICAgJ3JlcXVpcmVkJywKICAgICAgICAgICAgICAgIFJ1bGU6OmV4aXN0cygncHJvZHVjdHMnLCAnaWQnKQogICAgICAgICAgICAgICAgICAgIC0+d2hlcmUoJ3RlbmFudF9pZCcsIHNlc3Npb24oJ3RlbmFudCcpLT5pZCkKICAgICAgICAgICAgXSwKICAgICAgICAgICAgJ2RhdGEuKi5hbW91bnQnID0+ICdyZXF1aXJlZHxudW1lcmljfGJldHdlZW46MSw1MCcsCg==</text>
+        <text encoding="base64">ICAgICgpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIAo=</text>
+        <text encoding="base64">ICAgIHN0YXRlLmRpc3BsYXlFeHRlcm5hbENhdGFsb2cgPSA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzEvMg==</text>
+        <text>s/&quot;/'/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">PGZvcm0=</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PGZvcm0=</last-pattern>
-      <last-replace>2</last-replace>
-      <last-substitute>1</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
