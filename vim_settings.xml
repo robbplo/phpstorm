@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>'</entry>
         <entry>y</entry>
         <entry>severity_id</entry>
         <entry>fetch</entry>
@@ -27,6 +26,7 @@
         <entry>click</entry>
         <entry>&quot;</entry>
         <entry>order</entry>
+        <entry>Pa</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0NvbXBhbnlTdGF0aXN0aWNzL21hbmQvZw==</entry>
@@ -91,48 +91,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/materialenservice/config/cors.php" timestamp="1590569502923">
-        <mark key="[" line="46" column="13" />
-        <mark key="]" line="46" column="31" />
-        <mark key="^" line="46" column="31" />
-        <mark key="." line="46" column="31" />
-      </file>
-      <file name="$USER_HOME$/projects/materialenservice/api/v1/Controllers/CatalogController.php" timestamp="1590569596525">
+      <file name="$USER_HOME$/projects/materialenservice/api/v1/Controllers/CatalogController.php" timestamp="1590758712201">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="29" column="15" />
         <mark key="^" line="25" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/api/v1/Requests/ShowCatalogRequest.php" timestamp="1590478022530">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/materialenservice-pwa/store/modules/auth.js" timestamp="1590566551062">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-        <mark key="^" line="101" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/attendance/.env" timestamp="1590757703576" />
-      <file name="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" timestamp="1590568656730">
-        <mark key="[" line="17" column="96" />
-        <mark key="]" line="17" column="96" />
-        <mark key="." line="17" column="96" />
-      </file>
-      <file name="$USER_HOME$/projects/vesca/app/Admin.php" timestamp="1590417696166">
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="6" column="39" />
-        <mark key="." line="6" column="38" />
-        <mark key="^" line="6" column="39" />
-      </file>
-      <file name="$USER_HOME$/projects/materialenservice/infrastructure/Cors/TenancyCorsProfile.php" timestamp="1590563745471">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="21" />
-        <mark key="^" line="11" column="21" />
-        <mark key="." line="11" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/materialenservice-pwa/server/index.js" timestamp="1590479585977">
-        <mark key="[" line="21" column="62" />
-        <mark key="]" line="21" column="62" />
-        <mark key="." line="21" column="62" />
+      <file name="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" timestamp="1590761016186">
+        <mark key="'" line="24" column="25" />
+        <mark key="[" line="54" column="70" />
+        <mark key="]" line="54" column="69" />
+        <mark key="^" line="54" column="69" />
+        <mark key="." line="54" column="68" />
       </file>
       <file name="/PHP Console" timestamp="1590655331708">
         <mark key="[" line="0" column="0" />
@@ -148,15 +117,6 @@
         <mark key="." line="182" column="42" />
         <mark key="^" line="182" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/auth.smit/app/Nova/OAuthScope.php" timestamp="1590757930957">
-        <mark key="'" line="113" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/vesca/resources/js/components/results/Table.vue" timestamp="1590416076955">
-        <mark key="[" line="207" column="56" />
-        <mark key="]" line="207" column="57" />
-        <mark key="." line="207" column="57" />
-        <mark key="^" line="139" column="25" />
-      </file>
       <file name="$USER_HOME$/projects/materialenservice/public/index.php" timestamp="1590563296145">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -167,6 +127,46 @@
         <mark key="[" line="140" column="43" />
         <mark key="]" line="140" column="43" />
         <mark key="." line="140" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/werkplaats/config/browsershot.php" timestamp="1590757399981" />
+      <file name="$USER_HOME$/projects/materialenservice/config/cors.php" timestamp="1590569502923">
+        <mark key="[" line="46" column="13" />
+        <mark key="]" line="46" column="31" />
+        <mark key="^" line="46" column="31" />
+        <mark key="." line="46" column="31" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590758902264">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/materialenservice-pwa/store/modules/auth.js" timestamp="1590566551062">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+        <mark key="^" line="101" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/domain/SmitAuth.php" timestamp="1590758777556">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="81" column="63" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/.env" timestamp="1590757703576" />
+      <file name="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" timestamp="1590568656730">
+        <mark key="[" line="17" column="96" />
+        <mark key="]" line="17" column="96" />
+        <mark key="." line="17" column="96" />
+      </file>
+      <file name="$USER_HOME$/projects/materialenservice/infrastructure/Cors/TenancyCorsProfile.php" timestamp="1590563745471">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/materialenservice-pwa/server/index.js" timestamp="1590479585977">
+        <mark key="[" line="21" column="62" />
+        <mark key="]" line="21" column="62" />
+        <mark key="." line="21" column="62" />
+      </file>
+      <file name="$USER_HOME$/projects/auth.smit/app/Nova/OAuthScope.php" timestamp="1590757930957">
+        <mark key="'" line="113" column="0" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice-pwa/pages/index.vue" timestamp="1590567983933">
         <mark key="[" line="25" column="4" />
@@ -181,13 +181,8 @@
         <mark key="^" line="133" column="58" />
         <mark key="." line="133" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/werkplaats/config/browsershot.php" timestamp="1590757399981" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/vetclass/app/Console/Commands/FetchBroadcastsWebinargeek.php" />
-      <jump line="23" column="6" filename="$USER_HOME$/projects/bij.boehringer/resources/views/product.blade.php" />
-      <jump line="83" column="31" filename="$USER_HOME$/projects/auth.smit/app/Nova/Actions/ExportUsers.php" />
-      <jump line="176" column="0" filename="$USER_HOME$/projects/auth.smit/app/Nova/User.php" />
       <jump line="18" column="0" filename="$USER_HOME$/projects/auth.smit/app/Nova/User.php" />
       <jump line="13" column="22" filename="$USER_HOME$/projects/auth.smit/app/Nova/Lenses/UserConsentsLens.php" />
       <jump line="28" column="9" filename="$USER_HOME$/projects/auth.smit/app/Nova/Filters/UserEmailVerificationFilter.php" />
@@ -284,51 +279,55 @@
       <jump line="176" column="13" filename="$USER_HOME$/projects/materialenservice-pwa/store/modules/products.js" />
       <jump line="122" column="8" filename="$USER_HOME$/projects/materialenservice/app/Nova/Actions/ExportOrders.php" />
       <jump line="113" column="0" filename="$USER_HOME$/projects/auth.smit/app/Nova/OAuthScope.php" />
+      <jump line="32" column="39" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
+      <jump line="59" column="48" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
+      <jump line="23" column="25" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUGFydGljaXBhbnQ6OndoZXJlRXh0ZXJuYWxBdXRoSWQoJGV4dGVybmFsQXV0aElkKQogICAgICAgICAgICAgICAgLT5maXJzdE9yRmFpbCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>order</text>
+        <text>Pa</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYXJyYXlfa2V5X2V4aXN0cygnb3JkZXInLCAkcmVzcG9uc2UpKSB7CiAgICAgICAgICAgICRkYXRhID0gJHJlc3BvbnNlWydvcmRlciddOwogICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">bmV3IENsaWVudChbCiAgICAgICAgICAgICdiYXNlX3VyaScgPT4gJ2h0dHBzOi8vJyAuIGNvbmZpZygnYXV0aC5zbWl0LmRvbWFpbicpLAogICAgICAgIF0pOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSA9ICRyZXNwb25zZVsnZGF0YSddID8/IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGFydGljaXBhbnQ6OndoZXJlRXh0ZXJuYWxBdXRoSWQoJGV4dGVybmFsQXV0aElkKQogICAgICAgICAgICAgICAgLT5maXJzdE9yRmFpbCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdmFsdWUgPSAkcmVzcG9uc2VbJ29yZGVyJ10gPz8gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT50b0FycmF5KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5nZXQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAkdG9rZW4gPSAKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ1ay1mb3JtLWNvbnRyb2wiPgo=</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50ID0gbmV3IENsaWVudChbCiAgICAgICAgICAgICdiYXNlX3VyaScgPT4gJ2h0dHBzOi8vJyAuIGNvbmZpZygnYXV0aC5zbWl0LmRvbWFpbicpLAogICAgICAgIF0pOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFiZWwgY2xhc3M9InVrLWZvcm0tbGFiZWwiIGZvcj0iZGlzcGxheS1leHRlcm5hbCI+RXh0ZXJuZSBzaG9wIHRvbmVuPC9sYWJlbD4KICAgICAgICA8aW5wdXQgY2xhc3M9InVrLWNoZWNrYm94IiBpZD0iZGlzcGxheS1leHRlcm5hbCIgdHlwZT0iY2hlY2tib3giIDpjaGVja2VkPSJkaXNwbGF5aW5nRXh0ZXJuYWxDYXRhbG9nIiBAY2xpY2s9InRvZ2dsZURpc3BsYXlFeHRlcm5hbENhdGFsb2ciPgo=</text>
+        <text encoding="base64">CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKGpzb25fZW5jb2RlKCR1c2VySWRzKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2JvZHknID0+ICdbICI3MTVmOTcyMDJkNjMxMWVhODVlMDY1ZGQ4ODQ5MTYwMCIsICIwM2FjNWRjYzNiOTAxMWVhOTgzNWZiYTZlMDljMGQ3OCIgXScsCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL29yZGVyL2RhdGE=</text>
@@ -337,9 +336,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>order</last-search>
+      <last-search>Pa</last-search>
       <last-offset />
-      <last-pattern>order</last-pattern>
+      <last-pattern>Pa</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>order</last-substitute>
       <last-dir>1</last-dir>
