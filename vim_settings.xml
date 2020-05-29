@@ -97,11 +97,6 @@
         <mark key="^" line="46" column="31" />
         <mark key="." line="46" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/SmitAuth/lib/vendor/smit/smit-sdk-php/src/Helpers/HttpRedirects.php" timestamp="1590403421116">
-        <mark key="[" line="46" column="8" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/materialenservice/api/v1/Controllers/CatalogController.php" timestamp="1590569596525">
         <mark key="^" line="25" column="47" />
       </file>
@@ -110,18 +105,13 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/SmitAuth/action.default.php" timestamp="1590406014415">
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="21" />
-        <mark key="^" line="13" column="21" />
-        <mark key="." line="13" column="20" />
-      </file>
       <file name="$USER_HOME$/projects/materialenservice-pwa/store/modules/auth.js" timestamp="1590566551062">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
         <mark key="^" line="101" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/attendance/.env" timestamp="1590757703576" />
       <file name="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" timestamp="1590568656730">
         <mark key="[" line="17" column="96" />
         <mark key="]" line="17" column="96" />
@@ -144,11 +134,6 @@
         <mark key="]" line="21" column="62" />
         <mark key="." line="21" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Jobs/SyncOrder.php" timestamp="1590393289451">
-        <mark key="[" line="43" column="45" />
-        <mark key="]" line="43" column="45" />
-        <mark key="." line="43" column="45" />
-      </file>
       <file name="/PHP Console" timestamp="1590655331708">
         <mark key="[" line="0" column="0" />
       </file>
@@ -163,10 +148,8 @@
         <mark key="." line="182" column="42" />
         <mark key="^" line="182" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/SmitAuth/lib/vendor/smit/smit-sdk-php/src/Auth/Auth.php" timestamp="1590403858204">
-        <mark key="[" line="378" column="0" />
-        <mark key="]" line="378" column="0" />
-        <mark key="." line="378" column="0" />
+      <file name="$USER_HOME$/projects/auth.smit/app/Nova/OAuthScope.php" timestamp="1590757930957">
+        <mark key="'" line="113" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vesca/resources/js/components/results/Table.vue" timestamp="1590416076955">
         <mark key="[" line="207" column="56" />
@@ -198,9 +181,9 @@
         <mark key="^" line="133" column="58" />
         <mark key="." line="133" column="57" />
       </file>
+      <file name="$USER_HOME$/projects/werkplaats/config/browsershot.php" timestamp="1590757399981" />
     </filemarks>
     <jumps>
-      <jump line="61" column="53" filename="$USER_HOME$/projects/materialenservice-pwa/store/modules/auth.js" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/vetclass/app/Console/Commands/FetchBroadcastsWebinargeek.php" />
       <jump line="23" column="6" filename="$USER_HOME$/projects/bij.boehringer/resources/views/product.blade.php" />
       <jump line="83" column="31" filename="$USER_HOME$/projects/auth.smit/app/Nova/Actions/ExportUsers.php" />
@@ -300,6 +283,7 @@
       <jump line="77" column="130" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
       <jump line="176" column="13" filename="$USER_HOME$/projects/materialenservice-pwa/store/modules/products.js" />
       <jump line="122" column="8" filename="$USER_HOME$/projects/materialenservice/app/Nova/Actions/ExportOrders.php" />
+      <jump line="113" column="0" filename="$USER_HOME$/projects/auth.smit/app/Nova/OAuthScope.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
