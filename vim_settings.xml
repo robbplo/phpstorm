@@ -99,6 +99,12 @@
       <file name="/a.dummy" timestamp="1591093069752">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/accreditation/.env" timestamp="1591094376435">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" timestamp="1591083811993">
         <mark key="'" line="24" column="25" />
         <mark key="[" line="61" column="0" />
@@ -122,6 +128,7 @@
         <mark key="]" line="19" column="16" />
         <mark key="." line="19" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/accreditation/app/Http/Controllers/CourseCompletionController.php" timestamp="1591094045895" />
       <file name="$USER_HOME$/projects/attendance/app/Attendance.php" timestamp="1591084847122">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="24" column="32" />
@@ -135,14 +142,13 @@
         <mark key="." line="43" column="56" />
         <mark key="^" line="43" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591088972518">
+      <file name="/Dummy.txt" timestamp="1591094999079">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/attendance/domain/SmitAuth.php" timestamp="1591083412410">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="30" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/.env" timestamp="1590757703576" />
       <file name="$USER_HOME$/projects/attendance/app/Enums/AttendanceStatus.php" timestamp="1591084345463">
         <mark key="[" line="12" column="20" />
         <mark key="]" line="11" column="27" />
@@ -161,19 +167,16 @@
         <mark key="^" line="52" column="31" />
         <mark key="." line="52" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/smit-sdk-php/src/Accreditation/Accreditation.php" timestamp="1591093081109">
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="13" column="5" />
-        <mark key="^" line="13" column="5" />
-        <mark key="." line="13" column="4" />
+      <file name="$USER_HOME$/projects/smit-sdk-php/src/Accreditation/Accreditation.php" timestamp="1591093974651">
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="17" column="8" />
+        <mark key="^" line="17" column="8" />
+        <mark key="." line="17" column="7" />
       </file>
       <file name="$USER_HOME$/projects/auth.smit/api/v1/Admin/Sync/Controllers/AttributeController.php" timestamp="1591082751905">
         <mark key="[" line="2" column="37" />
         <mark key="]" line="2" column="37" />
         <mark key="." line="2" column="37" />
-      </file>
-      <file name="$USER_HOME$/projects/auth.smit/app/Nova/OAuthScope.php" timestamp="1590757930957">
-        <mark key="'" line="113" column="0" />
       </file>
       <file name="$USER_HOME$/projects/attendance/tests/Feature/MeetingExporterTest.php" timestamp="1591084685679">
         <mark key="[" line="28" column="51" />
@@ -288,10 +291,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICRjb25maWc=</text>
+        <text>laravel</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICRjb25maWc=</text>
+        <text>laravel</text>
       </register>
       <register name="/" type="4">
         <text>Pa</text>
