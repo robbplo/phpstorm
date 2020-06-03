@@ -91,31 +91,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/materialenservice/api/v1/Controllers/CatalogController.php" timestamp="1590758712201">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="29" column="15" />
-        <mark key="^" line="25" column="47" />
-      </file>
       <file name="/a.dummy" timestamp="1591093069752">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/accreditation/.env" timestamp="1591094376435">
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" timestamp="1591083811993">
-        <mark key="'" line="24" column="25" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/projects/accreditation/app/Services/Accreditation/PeOnline/PeOnline.php" timestamp="1591089627670">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="3" />
         <mark key="." line="8" column="2" />
         <mark key="^" line="8" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/accreditation/app/Course.php" timestamp="1591180285412">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/accreditation/.env" timestamp="1591094376435">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/projects/attendance/app/Nova/Attendance.php" timestamp="1591086845761">
         <mark key="[" line="90" column="43" />
@@ -129,6 +122,12 @@
         <mark key="." line="19" column="16" />
       </file>
       <file name="$USER_HOME$/projects/accreditation/app/Http/Controllers/CourseCompletionController.php" timestamp="1591094045895" />
+      <file name="$USER_HOME$/projects/smit-sdk-php/src/Accreditation/Course.php" timestamp="1591181670870">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="8" column="10" />
+        <mark key="." line="6" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/attendance/app/Attendance.php" timestamp="1591084847122">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="24" column="32" />
@@ -142,41 +141,33 @@
         <mark key="." line="43" column="56" />
         <mark key="^" line="43" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591094999079">
+      <file name="/Dummy.txt" timestamp="1591181724280">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/domain/SmitAuth.php" timestamp="1591083412410">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="30" column="15" />
+      <file name="$USER_HOME$/projects/smit-sdk-php/tests/Accreditation/CourseFactoryTest.php" timestamp="1591181028570">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Enums/AttendanceStatus.php" timestamp="1591084345463">
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="11" column="27" />
-        <mark key="^" line="11" column="27" />
-        <mark key="." line="11" column="26" />
+      <file name="$USER_HOME$/projects/smit-sdk-php/src/Accreditation/CourseFactory.php" timestamp="1591181516618">
+        <mark key="u" line="13" column="33" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="30" column="53" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Nova/Product.php" timestamp="1591084065059">
-        <mark key="[" line="161" column="36" />
-        <mark key="]" line="162" column="80" />
-        <mark key="^" line="162" column="80" />
-        <mark key="." line="162" column="79" />
+      <file name="$USER_HOME$/projects/smit-sdk-php/src/Accreditation/AccreditationService.php" timestamp="1591181805668">
+        <mark key="[" line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Console/Kernel.php" timestamp="1591082438482">
-        <mark key="[" line="52" column="31" />
-        <mark key="]" line="52" column="31" />
-        <mark key="^" line="52" column="31" />
-        <mark key="." line="52" column="30" />
+      <file name="$USER_HOME$/projects/smit-sdk-php/src/AccreditationService.php" timestamp="1591181732801">
+        <mark key="[" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/smit-sdk-php/src/Accreditation/Accreditation.php" timestamp="1591103463117">
-        <mark key="[" line="17" column="39" />
-        <mark key="]" line="17" column="39" />
-        <mark key="^" line="5" column="8" />
-        <mark key="." line="17" column="39" />
-      </file>
-      <file name="$USER_HOME$/projects/auth.smit/api/v1/Admin/Sync/Controllers/AttributeController.php" timestamp="1591082751905">
-        <mark key="[" line="2" column="37" />
-        <mark key="]" line="2" column="37" />
-        <mark key="." line="2" column="37" />
+      <file name="$USER_HOME$/projects/smit-sdk-php/src/Accreditation/Accreditation.php" timestamp="1591181640886">
+        <mark key="[" line="66" column="37" />
+        <mark key="]" line="66" column="45" />
+        <mark key="^" line="66" column="45" />
+        <mark key="." line="66" column="44" />
       </file>
       <file name="$USER_HOME$/projects/attendance/tests/Feature/MeetingExporterTest.php" timestamp="1591084685679">
         <mark key="[" line="28" column="51" />
@@ -291,46 +282,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>gaia</text>
+        <text>protected</text>
       </register>
       <register name="-" type="4">
-        <text>gaia</text>
+        <text>protected</text>
       </register>
       <register name="/" type="4">
         <text>Pa</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEF0dGVuZGFuY2VTdGF0dXM6OkNSRURJVEVEX01BTlVBTExZID0+ICdncmVlbicsCg==</text>
+      <register name="0" type="4">
+        <text>companyApiKey</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgUGVPbmxpbmUgZXh0ZW5zIEFjY3JlZGl0YXRpb25TZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dG9rZW4gPSAkdG9rZW47Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgKG5ldyBBdHRlbXB0QWNjcmVkaXRhdGlvbiktPmNhblJ1bihmdW5jdGlvbiAoUmVxdWVzdCAkcmVxdWVzdCwgJGF0dGVuZGFuY2UpIHsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgIHJldHVybiAkYXR0ZW5kYW5jZS0+c3RhdHVzID09PSBBdHRlbmRhbmNlU3RhdHVzOjpQUkVTRU5UOwogICAgICAgICAgICAgICAgLy8gICAgICAgICAgICB9KSwK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkdG9rZW47Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAobmV3IEF0dGVtcHRBY2NyZWRpdGF0aW9uKS0+Y2FuUnVuKGZ1bmN0aW9uIChSZXF1ZXN0ICRyZXF1ZXN0LCAkYXR0ZW5kYW5jZSkgewovLyAgICAgICAgICAgICAgICByZXR1cm4gJGF0dGVuZGFuY2UtPnN0YXR1cyA9PT0gQXR0ZW5kYW5jZVN0YXR1czo6UFJFU0VOVDsKLy8gICAgICAgICAgICB9KSwK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZG9tYWluOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHByZXNlbnQgPSAoCiAgICAgICAgICAgICAgICAkYXR0ZW5kYW5jZS0+c3RhdHVzID09PSBBdHRlbmRhbmNlU3RhdHVzOjpQUkVTRU5UIHx8CiAgICAgICAgICAgICAgICAkYXR0ZW5kYW5jZS0+c3RhdHVzID09PSBBdHRlbmRhbmNlU3RhdHVzOjpDUkVESVRFRF9NQU5VQUxMWQogICAgICAgICAgICApID8gJ0phJyA6ICdOZWUnOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZG9tYWluID0gJGRvbWFpbjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHByZXNlbnQgPSAoCiAgICAgICAgICAgICAgICAkYXR0ZW5kYW5jZS0+c3RhdHVzID09PSBBdHRlbmRhbmNlU3RhdHVzOjpQUkVTRU5UIHx8CiAgICAgICAgICAgICAgICAkYXR0ZW5kYW5jZS0+c3RhdHVzID09PSBBdHRlbmRhbmNlU3RhdHVzOjpDUkVESVRFRF9NQU5VQUxMWQogICAgICAgICAgICApID8gJ0phJyA6ICdOZWUnOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1gtQ291cnNlLURvbWFpbicgPT4gJHRoaXMtPmRvbWFpbiwK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkcmVzcG9uc2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlckF0dHJpYnV0ZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL29yZGVyL2RhdGE=</text>
