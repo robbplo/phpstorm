@@ -91,17 +91,52 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591686239979">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/auth.smit/api/v1/Account/Controllers/AddressController.php" timestamp="1591686302963">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="10" />
-        <mark key="^" line="6" column="10" />
-        <mark key="." line="6" column="9" />
+      <file name="$USER_HOME$/projects/auth.smit/app/Enums/AddressType.php" timestamp="1591686525575">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="8" column="17" />
       </file>
       <file name="/a.dummy" timestamp="1591093069752">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/accreditation/.env" timestamp="1591094376435">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/address-picker/src/types/index.ts" timestamp="1591686425718">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/smit-sdk-php/src/Accreditation/Course.php" timestamp="1591259906585">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="39" column="8" />
+        <mark key="^" line="39" column="8" />
+        <mark key="." line="39" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/address-picker/tests/unit/AddressPicker.spec.ts" timestamp="1591688183558">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="24" />
+        <mark key="^" line="27" column="18" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/auth.smit/domain/Tenant/Authentication/Controllers/Register/Iqvia/AddressRegisterController.php" timestamp="1591687615068" />
+      <file name="$USER_HOME$/projects/accreditation/app/Course.php" timestamp="1591180285412">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="16" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591686239979">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/auth.smit/api/v1/Account/Controllers/AddressController.php" timestamp="1591688253285">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="10" column="8" />
+        <mark key="^" line="10" column="8" />
+        <mark key="." line="10" column="7" />
       </file>
       <file name="$USER_HOME$/projects/smit-sdk-php/tests/Accreditation/CourseFactoryTest.php" timestamp="1591181028570">
         <mark key="[" line="8" column="1" />
@@ -115,18 +150,6 @@
         <mark key="^" line="175" column="2" />
         <mark key="." line="175" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/accreditation/.env" timestamp="1591094376435">
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/accreditation/app/Services/Accreditation/PeOnline/PeOnline.php" timestamp="1591089627670">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="3" />
-        <mark key="." line="8" column="2" />
-        <mark key="^" line="8" column="3" />
-      </file>
       <file name="$USER_HOME$/projects/smit-sdk-php/src/Accreditation/CourseFactory.php" timestamp="1591259513011">
         <mark key="u" line="13" column="33" />
         <mark key="[" line="10" column="0" />
@@ -134,59 +157,32 @@
         <mark key="^" line="30" column="53" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Nova/Attendance.php" timestamp="1591086845761">
-        <mark key="[" line="90" column="43" />
-        <mark key="]" line="90" column="56" />
-        <mark key="." line="90" column="55" />
-        <mark key="^" line="90" column="56" />
-      </file>
       <file name="$USER_HOME$/projects/smit-sdk-php/src/Accreditation/AccreditationService.php" timestamp="1591254571363">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="4" />
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/address-picker/src/types/index.ts" timestamp="1591686425718">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="16" column="31" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/smit-sdk-php/composer.json" timestamp="1591088466387">
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="16" />
-        <mark key="." line="19" column="16" />
-      </file>
       <file name="$USER_HOME$/projects/smit-sdk-php/src/AccreditationService.php" timestamp="1591181732801">
         <mark key="[" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/auth.smit/routes/api.php" timestamp="1591686225105">
-        <mark key="[" line="16" column="36" />
+      <file name="$USER_HOME$/projects/auth.smit/routes/api.php" timestamp="1591687942225">
+        <mark key="[" line="16" column="40" />
         <mark key="]" line="16" column="34" />
         <mark key="^" line="16" column="34" />
         <mark key="." line="16" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/smit-sdk-php/src/Accreditation/Course.php" timestamp="1591259906585">
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="39" column="8" />
-        <mark key="^" line="39" column="8" />
-        <mark key="." line="39" column="7" />
+      <file name="$USER_HOME$/projects/address-picker/tests/unit/DisplayAddress.spec.ts" timestamp="1591688185722">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="16" />
       </file>
       <file name="$USER_HOME$/projects/smit-sdk-php/src/Accreditation/Accreditation.php" timestamp="1591259639802">
         <mark key="[" line="66" column="45" />
         <mark key="]" line="66" column="55" />
         <mark key="^" line="66" column="55" />
         <mark key="." line="66" column="54" />
-      </file>
-      <file name="$USER_HOME$/projects/address-picker/tests/unit/AddressPicker.spec.ts" timestamp="1591686412476">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="27" column="18" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/accreditation/app/Course.php" timestamp="1591180285412">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/app/Nova/Actions/ExportOrders.php" timestamp="1591189581241">
         <mark key="'" line="132" column="8" />
@@ -302,10 +298,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBhZGRyZXNzOiBzdHJpbmcgfCBudWxsOwo=</text>
+        <text encoding="base64">ICAgIHNoaXBwaW5nTWV0aG9kOiAiUE9TVE5MIiwKICAgIHBpY2t1cFBvaW50SWQ6IG51bGwsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>token</text>
+        <text>TERMS_OF_SERVICE</text>
       </register>
       <register name="/" type="4">
         <text>Pa</text>
@@ -314,34 +310,34 @@
         <text encoding="base64">ICAgIHNoaXBwaW5nTWV0aG9kOiAiUE9TVE5MIiwKICAgIHBpY2t1cFBvaW50SWQ6IG51bGwsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhZGRyZXNzOiBzdHJpbmcgfCBudWxsOwo=</text>
+        <text encoding="base64">ICBhZGRyZXNzOiAiUmlqa3N3ZWcgODYiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFkZHJlc3M6ICJBbmtlcndlZyAyIiwK</text>
+        <text encoding="base64">ICBhZGRyZXNzOiBzdHJpbmcgfCBudWxsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFkZHJlc3M6ICJSaWprc3dlZyA4NiIsCg==</text>
+        <text encoding="base64">ICAgIGFkZHJlc3M6ICJBbmtlcndlZyAyIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0cmVldDogIkFua2Vyd2VnIiwK</text>
+        <text encoding="base64">ICAgIGFkZHJlc3M6ICJSaWprc3dlZyA4NiIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0cmVldDogIlJpamtzd2VnIiwK</text>
+        <text encoding="base64">ICAgIHN0cmVldDogIkFua2Vyd2VnIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdHJlZXQ6IHN0cmluZyB8IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIHN0cmVldDogIlJpamtzd2VnIiwK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICBzdHJlZXQ6IHN0cmluZyB8IG51bGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBQaWNrdXBQcm92aWRlcgo=</text>
+        <text encoding="base64">ICBzdHJlZXQ6IHN0cmluZyB8IG51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBudWxsCiAgICAgKi8K</text>
+        <text encoding="base64">ICAvLyBQaWNrdXBQcm92aWRlcgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL29yZGVyL2RhdGE=</text>
