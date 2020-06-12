@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>severity_id</entry>
-        <entry>fetch</entry>
         <entry>`</entry>
         <entry>1</entry>
         <entry>fff</entry>
@@ -27,6 +25,8 @@
         <entry>order</entry>
         <entry>Pa</entry>
         <entry>contactperson</entry>
+        <entry>details</entry>
+        <entry>contact</entry>
       </history-search>
       <history-cmd>
         <entry>s/mand/PartStatistics/g</entry>
@@ -107,17 +107,17 @@
       <file name="/a.dummy" timestamp="1591944526954">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" timestamp="1591962734524">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="92" column="128" />
-        <mark key="]" line="92" column="128" />
-        <mark key="." line="92" column="128" />
-        <mark key="^" line="89" column="154" />
+      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" timestamp="1591964783041">
+        <mark key="'" line="25" column="37" />
+        <mark key="[" line="61" column="55" />
+        <mark key="]" line="61" column="55" />
+        <mark key="." line="61" column="55" />
+        <mark key="^" line="61" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout.blade.php" timestamp="1591948547407">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="77" column="26" />
-        <mark key="." line="35" column="24" />
+      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout.blade.php" timestamp="1591964804926">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/app/Http/Middleware/RedirectToShopWithoutCartMiddleware.php" timestamp="1591943789888">
         <mark key="[" line="18" column="0" />
@@ -155,12 +155,11 @@
         <mark key="^" line="10" column="41" />
         <mark key="." line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" timestamp="1591960606018">
+      <file name="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" timestamp="1591965345732">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="111" column="39" />
-        <mark key="^" line="111" column="39" />
-        <mark key="." line="111" column="39" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/routes/web.php" timestamp="1591945282393">
         <mark key="[" line="18" column="7" />
@@ -171,11 +170,12 @@
       <file name="$USER_HOME$/projects/auth.smit/vendor/league/oauth2-server/src/AuthorizationServer.php" timestamp="1591693931356">
         <mark key="'" line="190" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Http/Requests/OrderContactDetailsRequest.php" timestamp="1591944488524">
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="25" column="16" />
-        <mark key="." line="25" column="15" />
-        <mark key="^" line="25" column="16" />
+      <file name="$USER_HOME$/projects/materialenservice/app/Http/Requests/OrderContactDetailsRequest.php" timestamp="1591965402936">
+        <mark key="'" line="33" column="45" />
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="33" column="27" />
+        <mark key="." line="33" column="27" />
+        <mark key="^" line="33" column="46" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/resources/views/layouts/checkout.blade.php" timestamp="1591949574419">
         <mark key="[" line="33" column="29" />
@@ -198,13 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="85" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
-      <jump line="46" column="27" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
-      <jump line="47" column="57" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
-      <jump line="55" column="27" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
-      <jump line="56" column="58" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
-      <jump line="64" column="27" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
-      <jump line="65" column="57" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
       <jump line="81" column="31" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
       <jump line="82" column="64" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
       <jump line="91" column="31" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
@@ -298,51 +291,58 @@
       <jump line="9" column="11" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/delivery_options.blade.php" />
       <jump line="101" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/delivery_options.blade.php" />
       <jump line="71" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
+      <jump line="37" column="80" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
+      <jump line="49" column="89" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
+      <jump line="61" column="55" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
+      <jump line="22" column="54" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
+      <jump line="24" column="63" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
+      <jump line="25" column="37" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
+      <jump line="33" column="45" filename="$USER_HOME$/projects/materialenservice/app/Http/Requests/OrderContactDetailsRequest.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Bestelling ophalen bij PostNL afhaalpunt</text>
+        <text>Bezorgingsmethode</text>
       </register>
       <register name="-" type="4">
-        <text>Bestelling ophalen bij PostNL afhaalpunt</text>
+        <text>Bezorgingsmethode</text>
       </register>
       <register name="/" type="4">
-        <text>contactperson</text>
+        <text>contact</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cHJlPgogICAgICAgICAgICAgICAgICAgICAgICB7e29sZCgnZGVsaXZlcnknKX19CiAgICAgICAgICAgICAgICAgICAgPC9wcmU+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstZm9ybS1jb250cm9scyI+CgogICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">e3stLSAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0idWstaW5wdXR7eyAkZXJyb3JzLT5oYXMoJ2NvbnRhY3RfZGV0YWlscy5uYW1lJykgPyAnIHVrLWZvcm0tZGFuZ2VyJyA6ICcnIH19IiBpZD0ib3JnX25hbWUiLS19fQp7ey0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGR1c2s9Im5hbWUiIG5hbWU9ImNvbnRhY3RfZGV0YWlsc1tuYW1lXSIgdHlwZT0idGV4dCItLX19Cnt7LS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9Int7ICRhZGRyZXNzWydvcmdhbml6YXRpb24nXSA/PyBvbGQoJ2NvbnRhY3RfZGV0YWlscy5uYW1lJykgfX0iPi0tfX0Ke3stLSAgICAgICAgICAgICAgICAgICAgICAgIEBpZiAoJGVycm9ycy0+aGFzKCdjb250YWN0X2RldGFpbHMubmFtZScpKS0tfX0Ke3stLSAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay10ZXh0LWRhbmdlciI+e3sgJGVycm9ycy0+Zmlyc3QoJ2NvbnRhY3RfZGV0YWlscy5uYW1lJykgfX08L2Rpdj4tLX19Cnt7LS0gICAgICAgICAgICAgICAgICAgICAgICBAZW5kaWYtLX19Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uKCktPmdldE9sZElucHV0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoT2xkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InJhZGlvIiBuYW1lPSJkZWxpdmVyeSIgdmFsdWU9InBpY2t1cCIgY2hlY2tlZD4gQmVzdGVsbGluZyBvcGhhbGVuIGJpaiBQb3N0TkwgYWZoYWFscHVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cHJlPgogICAgICAgICAgICAgICAgICAgICAgICB7e29sZCgnZGVsaXZlcnknKX19CiAgICAgICAgICAgICAgICAgICAgPC9wcmU+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstZm9ybS1jb250cm9scyI+CgogICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">e3stLSAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0idWstaW5wdXR7eyAkZXJyb3JzLT5oYXMoJ2NvbnRhY3RfZGV0YWlscy5uYW1lJykgPyAnIHVrLWZvcm0tZGFuZ2VyJyA6ICcnIH19IiBpZD0ib3JnX25hbWUiLS19fQp7ey0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGR1c2s9Im5hbWUiIG5hbWU9ImNvbnRhY3RfZGV0YWlsc1tuYW1lXSIgdHlwZT0idGV4dCItLX19Cnt7LS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9Int7ICRhZGRyZXNzWydvcmdhbml6YXRpb24nXSA/PyBvbGQoJ2NvbnRhY3RfZGV0YWlscy5uYW1lJykgfX0iPi0tfX0Ke3stLSAgICAgICAgICAgICAgICAgICAgICAgIEBpZiAoJGVycm9ycy0+aGFzKCdjb250YWN0X2RldGFpbHMubmFtZScpKS0tfX0Ke3stLSAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay10ZXh0LWRhbmdlciI+e3sgJGVycm9ycy0+Zmlyc3QoJ2NvbnRhY3RfZGV0YWlscy5uYW1lJykgfX08L2Rpdj4tLX19Cnt7LS0gICAgICAgICAgICAgICAgICAgICAgICBAZW5kaWYtLX19Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstbWFyZ2luLXNtYWxsIj4KICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0idWstZm9ybS1sYWJlbCIgZm9yPSJjb250YWN0X25hbWUiPkNvbnRhY3RwZXJzb29uPHNwYW4gY2xhc3M9InJlcXVpcmVkIj4qPC9zcGFuPjwvbGFiZWw+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay1mb3JtLWNvbnRyb2xzIj4KICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9InVrLWlucHV0e3sgJGVycm9ycy0+aGFzKCdjb250YWN0X2RldGFpbHMuY29udGFjdHBlcnNvbicpID8gJyB1ay1mb3JtLWRhbmdlcicgOiAnJyB9fSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgZHVzaz0iY29udGFjdHBlcnNvbiIgaWQ9ImNvbnRhY3RfbmFtZSIgbmFtZT0iY29udGFjdF9kZXRhaWxzW2NvbnRhY3RwZXJzb25dIiB0eXBlPSJ0ZXh0IgogICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT0ie3sgJHVzZXItPmdldE5hbWUoKSA/PyBvbGQoJ2NvbnRhY3RfZGV0YWlscy5jb250YWN0cGVyc29uJykgfX0iPgogICAgICAgICAgICAgICAgICAgIEBpZiAoJGVycm9ycy0+aGFzKCdjb250YWN0X2RldGFpbHMuY29udGFjdHBlcnNvbicpKQogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay10ZXh0LWRhbmdlciI+e3sgJGVycm9ycy0+Zmlyc3QoJ2NvbnRhY3RfZGV0YWlscy5jb250YWN0cGVyc29uJykgfX08L2Rpdj4KICAgICAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLW1hcmdpbi1zbWFsbCI+CiAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9InVrLWZvcm0tbGFiZWwiIGZvcj0icGhvbmUiPlRlbGVmb29ubnVtbWVyPHNwYW4gY2xhc3M9InJlcXVpcmVkIj4qPC9zcGFuPjwvbGFiZWw+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay1mb3JtLWNvbnRyb2xzIj4KICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9InVrLWlucHV0e3sgJGVycm9ycy0+aGFzKCdjb250YWN0X2RldGFpbHMucGhvbmVfbnVtYmVyJykgPyAnIHVrLWZvcm0tZGFuZ2VyJyA6ICcnIH19IgogICAgICAgICAgICAgICAgICAgICAgICAgICBpZD0icGhvbmUiIGR1c2s9InBob25lX251bWJlciIgbmFtZT0iY29udGFjdF9kZXRhaWxzW3Bob25lX251bWJlcl0iIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPSJ7eyBvbGQoJ2NvbnRhY3RfZGV0YWlscy5waG9uZV9udW1iZXInKSB9fSI+CiAgICAgICAgICAgICAgICAgICAgQGlmICgkZXJyb3JzLT5oYXMoJ2NvbnRhY3RfZGV0YWlscy5waG9uZV9udW1iZXInKSkKICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstdGV4dC1kYW5nZXIiPnt7ICRlcnJvcnMtPmZpcnN0KCdjb250YWN0X2RldGFpbHMucGhvbmVfbnVtYmVyJykgfX08L2Rpdj4KICAgICAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InJhZGlvIiBuYW1lPSJkZWxpdmVyeSIgdmFsdWU9InBpY2t1cCIgY2hlY2tlZD4gQmVzdGVsbGluZyBvcGhhbGVuIGJpaiBQb3N0TkwgYWZoYWFscHVudAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstbWFyZ2luLXNtYWxsIj4KICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0idWstZm9ybS1sYWJlbCIgZm9yPSJtb2JpbGVfcGhvbmUiPk1vYmllbCB0ZWxlZm9vbm51bW1lcjwvbGFiZWw+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay1mb3JtLWNvbnRyb2xzIj4KICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9InVrLWlucHV0e3sgJGVycm9ycy0+aGFzKCdjb250YWN0X2RldGFpbHMubW9iaWxlX251bWJlcicpID8gJyB1ay1mb3JtLWRhbmdlcicgOiAnJyB9fSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ9Im1vYmlsZV9waG9uZSIgZHVzaz0ibW9iaWxlX251bWJlciIgbmFtZT0iY29udGFjdF9kZXRhaWxzW21vYmlsZV9udW1iZXJdIiB0eXBlPSJ0ZXh0IgogICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT0ie3sgb2xkKCdjb250YWN0X2RldGFpbHMubW9iaWxlX251bWJlcicpIH19Ij4KICAgICAgICAgICAgICAgICAgICBAaWYgKCRlcnJvcnMtPmhhcygnY29udGFjdF9kZXRhaWxzLm1vYmlsZV9udW1iZXInKSkKICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstdGV4dC1kYW5nZXIiPnt7ICRlcnJvcnMtPmZpcnN0KCdjb250YWN0X2RldGFpbHMubW9iaWxlX251bWJlcicpIH19PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay1tYXJnaW4tc21hbGwiPgogICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJ1ay1mb3JtLWxhYmVsIiBmb3I9ImVtYWlsIj5FLW1haWxhZHJlczxzcGFuIGNsYXNzPSJyZXF1aXJlZCI+Kjwvc3Bhbj48L2xhYmVsPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstZm9ybS1jb250cm9scyI+CiAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJ1ay1pbnB1dHt7ICRlcnJvcnMtPmhhcygnY29udGFjdF9kZXRhaWxzLmVtYWlsJykgPyAnIHVrLWZvcm0tZGFuZ2VyJyA6ICcnIH19IiBpZD0iZW1haWwiCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGR1c2s9ImVtYWlsIiBuYW1lPSJjb250YWN0X2RldGFpbHNbZW1haWxdIiB0eXBlPSJlbWFpbCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9Int7ICR1c2VyLT5nZXRFbWFpbCgpID8/IG9sZCgnY29udGFjdF9kZXRhaWxzLmVtYWlsJykgfX0iPgogICAgICAgICAgICAgICAgICAgIEBpZiAoJGVycm9ycy0+aGFzKCdjb250YWN0X2RldGFpbHMuZW1haWwnKSkKICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstdGV4dC1kYW5nZXIiPnt7ICRlcnJvcnMtPmZpcnN0KCdjb250YWN0X2RldGFpbHMuZW1haWwnKSB9fTwvZGl2PgogICAgICAgICAgICAgICAgICAgIEBlbmRpZgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstbWFyZ2luLXNtYWxsIj4KICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0idWstZm9ybS1sYWJlbCIgZm9yPSJtZW1vX3RleHQiPk9wbWVya2luZ2VuPC9sYWJlbD4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLWZvcm0tY29udHJvbHMiPgogICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0idWstaW5wdXR7eyAkZXJyb3JzLT5oYXMoJ21lbW9fdGV4dCcpID8gJyB1ay1mb3JtLWRhbmdlcicgOiAnJyB9fSIgaWQ9Im1lbW9fdGV4dCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgZHVzaz0ibWVtb190ZWtzdCIgbmFtZT0ibWVtb190ZXh0IiB0eXBlPSJ0ZXh0IiB2YWx1ZT0ie3sgb2xkKCdtZW1vX3RleHQnKSB9fSI+CiAgICAgICAgICAgICAgICAgICAgQGlmICgkZXJyb3JzLT5oYXMoJ21lbW9fdGV4dCcpKQogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay10ZXh0LWRhbmdlciI+e3sgJGVycm9ycy0+Zmlyc3QoJ21lbW9fdGV4dCcpIH19PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2NvbnRhY3RwZXJzb24vcGhvbmVfbnVtYmVy</text>
@@ -351,9 +351,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>contactperson</last-search>
+      <last-search>contact</last-search>
       <last-offset />
-      <last-pattern>contactperson</last-pattern>
+      <last-pattern>contact</last-pattern>
       <last-replace>phone_number</last-replace>
       <last-substitute>contactperson</last-substitute>
       <last-dir>1</last-dir>
