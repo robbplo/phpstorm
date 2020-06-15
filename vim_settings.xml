@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>`</entry>
         <entry>1</entry>
         <entry>fff</entry>
         <entry>header</entry>
@@ -27,6 +26,7 @@
         <entry>contactperson</entry>
         <entry>details</entry>
         <entry>contact</entry>
+        <entry>if</entry>
       </history-search>
       <history-cmd>
         <entry>s/mand/PartStatistics/g</entry>
@@ -91,6 +91,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" timestamp="1592212442267">
+        <mark key="'" line="14" column="21" />
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+      </file>
       <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/postnl.blade.php" timestamp="1591705845708">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
@@ -110,25 +116,26 @@
         <mark key="." line="33" column="28" />
         <mark key="^" line="33" column="29" />
       </file>
-      <file name="/a.dummy" timestamp="1591944526954">
+      <file name="/a.dummy" timestamp="1592212656229">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" timestamp="1592206243444">
+      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" timestamp="1592213053183">
         <mark key="'" line="25" column="37" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="93" column="28" />
-        <mark key="." line="61" column="55" />
-        <mark key="^" line="61" column="50" />
+        <mark key="[" line="100" column="12" />
+        <mark key="]" line="98" column="8" />
+        <mark key="." line="98" column="7" />
+        <mark key="^" line="98" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/materialenservice/app/Http/Requests/OrderDeliveryOptionsRequest.php" timestamp="1592211449964">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="13" column="30" />
+        <mark key="^" line="13" column="30" />
+        <mark key="." line="13" column="29" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout.blade.php" timestamp="1592205428436">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" timestamp="1591695998243">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/app/Http/Middleware/RedirectToShopWithoutCartMiddleware.php" timestamp="1591943789888">
         <mark key="[" line="18" column="0" />
@@ -142,13 +149,19 @@
         <mark key="." line="19" column="12" />
         <mark key="^" line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/delivery_options.blade.php" timestamp="1592209323494">
-        <mark key="'" line="9" column="0" />
-        <mark key="k" line="118" column="52" />
-        <mark key="[" line="121" column="17" />
-        <mark key="]" line="123" column="18" />
-        <mark key="^" line="123" column="18" />
-        <mark key="." line="123" column="17" />
+      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" timestamp="1592212351323">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/delivery_options.blade.php" timestamp="1592211095358">
+        <mark key="'" line="10" column="0" />
+        <mark key="k" line="117" column="52" />
+        <mark key="[" line="114" column="72" />
+        <mark key="]" line="114" column="90" />
+        <mark key="." line="114" column="89" />
+        <mark key="^" line="114" column="90" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/app/Providers/AppServiceProvider.php" timestamp="1591945553726">
         <mark key="[" line="121" column="64" />
@@ -162,27 +175,24 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="96" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/.env" timestamp="1591694668361">
-        <mark key="[" line="10" column="42" />
-        <mark key="]" line="10" column="41" />
-        <mark key="^" line="10" column="41" />
-        <mark key="." line="10" column="40" />
+      <file name="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" timestamp="1592212633654">
+        <mark key="'" line="42" column="45" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="98" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" timestamp="1592209292943">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="62" column="27" />
-        <mark key="]" line="62" column="67" />
-        <mark key="." line="62" column="66" />
-        <mark key="^" line="62" column="67" />
+      <file name="$USER_HOME$/projects/materialenservice/routes/web.php" timestamp="1592212421882">
+        <mark key="[" line="33" column="71" />
+        <mark key="]" line="33" column="71" />
+        <mark key="." line="33" column="71" />
+        <mark key="^" line="26" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/routes/web.php" timestamp="1591945282393">
-        <mark key="[" line="18" column="7" />
-        <mark key="]" line="18" column="7" />
-        <mark key="." line="18" column="6" />
-        <mark key="^" line="18" column="7" />
-      </file>
-      <file name="$USER_HOME$/projects/auth.smit/vendor/league/oauth2-server/src/AuthorizationServer.php" timestamp="1591693931356">
-        <mark key="'" line="190" column="31" />
+      <file name="$USER_HOME$/projects/materialenservice/app/Http/Requests/OrderPickupPointRequest.php" timestamp="1592211615927">
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="21" column="10" />
+        <mark key="." line="21" column="9" />
+        <mark key="^" line="21" column="10" />
       </file>
       <file name="$USER_HOME$/projects/auth.smit/storage/app/tenancy/tenants/914f5bb1dd924fd6a408b294c8931dc7/logs/debug_2020-06-09.log" timestamp="1591696988096">
         <mark key="[" line="0" column="0" />
@@ -201,25 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="31" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
-      <jump line="101" column="76" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
-      <jump line="112" column="31" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
-      <jump line="113" column="57" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
-      <jump line="122" column="31" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
-      <jump line="123" column="64" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
-      <jump line="134" column="31" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
-      <jump line="135" column="63" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
-      <jump line="144" column="31" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
-      <jump line="149" column="34" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
-      <jump line="227" column="16" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
-      <jump line="228" column="23" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
-      <jump line="18" column="0" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/StepOne.vue" />
-      <jump line="206" column="0" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/StepOne.vue" />
-      <jump line="45" column="23" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" />
-      <jump line="46" column="53" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" />
-      <jump line="54" column="23" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" />
-      <jump line="55" column="54" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" />
-      <jump line="63" column="23" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" />
       <jump line="64" column="53" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" />
       <jump line="80" column="27" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" />
       <jump line="81" column="60" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" />
@@ -301,21 +292,40 @@
       <jump line="106" column="11" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/delivery_options.blade.php" />
       <jump line="5" column="12" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/delivery_options.blade.php" />
       <jump line="9" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/delivery_options.blade.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/delivery_options.blade.php" />
+      <jump line="5" column="5" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
+      <jump line="15" column="21" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
+      <jump line="17" column="24" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
+      <jump line="29" column="25" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
+      <jump line="31" column="28" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
+      <jump line="45" column="25" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
+      <jump line="48" column="28" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
+      <jump line="59" column="21" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
+      <jump line="61" column="24" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
+      <jump line="72" column="21" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
+      <jump line="74" column="24" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
+      <jump line="83" column="21" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
+      <jump line="85" column="24" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
+      <jump line="102" column="21" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
+      <jump line="91" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
+      <jump line="106" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
+      <jump line="42" column="45" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Vivant Johan Huizinglaan 73, Amsterdam</text>
+        <text>input</text>
       </register>
       <register name="-" type="4">
-        <text>Vivant Johan Huizinglaan 73, Amsterdam</text>
+        <text>input</text>
       </register>
       <register name="/" type="4">
-        <text>contact</text>
+        <text>if</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdpZCcgPT4gMTIzLAogICAgICAgICAgICAgICAgJ25hbWUnID0+ICdWaXZhbnQgSm9oYW4gSHVpemluZ2xhYW4gNzMsIEFtc3RlcmRhbScsCiAgICAgICAgICAgICAgICAnZGlzdGFuY2UnID0+IDEzMywK</text>
+      <register name="0" type="4">
+        <text>postShippingAddress</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -324,28 +334,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBpZihmYWxzZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBlbHNlCgogICAgICAgIDxmaWVsZHNldCBjbGFzcz0idWstZmllbGRzZXQiPgogICAgICAgICAgICA8bGVnZW5kIGNsYXNzPSJ1ay1sZWdlbmQgdWstaDMiPk9waGFhbHB1bnQ8L2xlZ2VuZD4KICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstbWFyZ2luLXNtYWxsIj4KICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0idWstZm9ybS1sYWJlbCIgZm9yPSJkZWxpdmVyeV9kYXRlIj5HZXdlbnN0ZSBsZXZlcmRhdHVtICA8c3BhbiBjbGFzcz0icmVxdWlyZWQiPio8L3NwYW4+PC9sYWJlbD4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLWZvcm0tY29udHJvbHMiPgogICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0idWstaW5wdXR7eyAkZXJyb3JzLT5oYXMoJ2RlbGl2ZXJ5X2RhdGUnKSA/ICcgdWstZm9ybS1kYW5nZXInIDogJycgfX0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGR1c2s9InN0cmVldCIgbmFtZT0iZGVsaXZlcnlfZGF0ZSIgaWQ9ImRlbGl2ZXJ5X2RhdGUiIHR5cGU9ImRhdGUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPSJ7eyBvbGQoJ2RlbGl2ZXJ5X2RhdGUnKSB9fSI+CiAgICAgICAgICAgICAgICAgICAgQGlmICgkZXJyb3JzLT5oYXMoJ3NoaXBwaW5nX2FkZHJlc3Muc3RyZWV0JykpCiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLXRleHQtZGFuZ2VyIj57eyAkZXJyb3JzLT5maXJzdCgnc2hpcHBpbmdfYWRkcmVzcy5zdHJlZXQnKSB9fTwvZGl2PgogICAgICAgICAgICAgICAgICAgIEBlbmRpZgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgoKCiAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLW1hcmdpbi1zbWFsbCI+CiAgICAgICAgICAgIEBpZihjb3VudCgkcGlja3VwUG9pbnRzKSkKICAgICAgICAgICAgICAgIEBmb3JlYWNoKCRwaWNrdXBQb2ludHMgYXMgJHBpY2t1cFBvaW50KQogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0idWstZmxleCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIvaW1nL2xvZ29fcG9zdG5sLnBuZyIgc3R5bGU9ImhlaWdodDogMzJweDsiPgogICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InBpY2t1cF9wb2ludCIgdmFsdWU9Int7ICRwaWNrdXBQb2ludFsnaWQnXSB9fSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyAkcGlja3VwUG9pbnRbJ25hbWUnXSB9fQogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgICAgICAgQGVuZGZvcmVhY2gKICAgICAgICAgICAgQGVsc2UKICAgICAgICAgICAgICAgIEVyIHppam4gZ2VlbiBvcGhhYWxwdW50ZW4gZ2V2b25kZW4sIGdhIHRlcnVnCiAgICAgICAgICAgIEBlbmRpZjwvZGl2PgoKICAgICAgICA8L2ZpZWxkc2V0PgogICAgQGVuZGlmCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXREZWxpdmVyeU9wdGlvbnMoKQogICAgewogICAgICAgIGlmICghIHNlc3Npb24oKS0+aGFzKCdvcmRlcl9jb250YWN0X2RldGFpbHMnKSkgewogICAgICAgICAgICByZXR1cm4gcmVkaXJlY3QoKS0+cm91dGUoJ2NoZWNrb3V0LmdldENvbnRhY3REZXRhaWxzJyk7CiAgICAgICAgfQoKICAgICAgICAkdGhpcy0+c2V0dXAoKTsKCiAgICAgICAgJGFkZHJlc3MgPSAkdGhpcy0+dXNlci0+Z2V0QWRkcmVzc2VzKClbMF0gPz8gW107CgogICAgICAgIHJldHVybiB2aWV3KCdjaGVja291dC5kZWxpdmVyeV9vcHRpb25zJykKICAgICAgICAgICAgLT53aXRoQWRkcmVzcygkYWRkcmVzcykKICAgICAgICAgICAgLT53aXRoVXNlcigkdGhpcy0+dXNlcikKICAgICAgICAgICAgLT53aXRoUHJvZHVjdHMoJHRoaXMtPnByb2R1Y3RzKTsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gcG9zdERlbGl2ZXJ5T3B0aW9ucygpCiAgICB7CiAgICAgICAgaWYgKCEgc2Vzc2lvbigpLT5oYXMoJ29yZGVyX2NvbnRhY3RfZGV0YWlscycpKSB7CiAgICAgICAgICAgIHJldHVybiByZWRpcmVjdCgpLT5yb3V0ZSgnY2hlY2tvdXQuZ2V0Q29udGFjdERldGFpbHMnKTsKICAgICAgICB9CgogICAgICAgICR0aGlzLT5zZXR1cCgpOwoKCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2lkJyA9PiAxMjMK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstbWFyZ2luLXNtYWxsIj4KICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0idWstZm9ybS1sYWJlbCIgZm9yPSJwb3N0Y29kZSI+UG9zdGNvZGU8L2xhYmVsPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstZm9ybS1jb250cm9scyI+CiAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJ1ay1pbnB1dCIgZHVzaz0icG9zdGNvZGUiIG5hbWU9InBvc3Rjb2RlIiBpZD0icG9zdGNvZGUiIHR5cGU9InRleHQiPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoUGlja3VwUG9pbnRzKCRwaWNrdXBQb2ludHMpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkcGlja3VwUG9pbnRzID0gWwogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnaWQnID0+IDEyMywKICAgICAgICAgICAgICAgICduYW1lJyA9PiAnVml2YW50IEpvaGFuIEh1aXppbmdsYWFuIDczLCBBbXN0ZXJkYW0nLAogICAgICAgICAgICAgICAgJ2Rpc3RhbmNlJyA9PiAxMzMsCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICdpZCcgPT4gMzIxLAogICAgICAgICAgICAgICAgJ25hbWUnID0+ICdWaXZhbnQgSm9oYW4gSHVpemluZ2xhYW4gNzMsIEFtc3RlcmRhbScsCiAgICAgICAgICAgICAgICAnZGlzdGFuY2UnID0+IDc2MywKICAgICAgICAgICAgXQogICAgICAgIF07Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZHJlcyByZWdlbHM8YnI+CiAgICAgICAgICAgICAgICAgICAgMTIzCg==</text>
+        <text encoding="base64">ICAgIEBlbmRpZgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIvaW1nL2xvZ29fcG9zdG5sLnBuZyIgc3R5bGU9ImhlaWdodDogMzJweDsiPgo=</text>
+        <text encoding="base64">ICAgIEBpZihmYWxzZSkKICAgICAgICA8ZmllbGRzZXQgY2xhc3M9InVrLWZpZWxkc2V0Ij4KICAgICAgICAgICAgPGxlZ2VuZCBjbGFzcz0idWstbGVnZW5kIHVrLWgzIj5MZXZlcmluZ3NhZHJlczwvbGVnZW5kPgoKICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstbWFyZ2luLXNtYWxsIj4KICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0idWstZm9ybS1sYWJlbCIgZm9yPSJzdHJlZXQiPlN0cmFhdG5hYW08c3BhbiBjbGFzcz0icmVxdWlyZWQiPio8L3NwYW4+PC9sYWJlbD4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLWZvcm0tY29udHJvbHMiPgogICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0idWstaW5wdXR7eyAkZXJyb3JzLT5oYXMoJ3NoaXBwaW5nX2FkZHJlc3Muc3RyZWV0JykgPyAnIHVrLWZvcm0tZGFuZ2VyJyA6ICcnIH19IgogICAgICAgICAgICAgICAgICAgICAgICAgICBkdXNrPSJzdHJlZXQiIG5hbWU9InNoaXBwaW5nX2FkZHJlc3Nbc3RyZWV0XSIgaWQ9InN0cmVldCIgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9Int7ICRhZGRyZXNzWydzdHJlZXQnXSA/PyBvbGQoJ3NoaXBwaW5nX2FkZHJlc3Muc3RyZWV0JykgfX0iPgogICAgICAgICAgICAgICAgICAgIEBpZiAoJGVycm9ycy0+aGFzKCdzaGlwcGluZ19hZGRyZXNzLnN0cmVldCcpKQogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay10ZXh0LWRhbmdlciI+e3sgJGVycm9ycy0+Zmlyc3QoJ3NoaXBwaW5nX2FkZHJlc3Muc3RyZWV0JykgfX08L2Rpdj4KICAgICAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLWdyaWQtc21hbGwiIHVrLWdyaWQ+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay13aWR0aC0xLTIiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0idWstZm9ybS1sYWJlbCIgZm9yPSJzdHJlZXRfbnVtYmVyIj5IdWlzbnVtbWVyPHNwYW4gY2xhc3M9InJlcXVpcmVkIj4qPC9zcGFuPjwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstZm9ybS1jb250cm9scyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9InVrLWlucHV0e3sgJGVycm9ycy0+aGFzKCdzaGlwcGluZ19hZGRyZXNzLnN0cmVldF9udW1iZXInKSA/ICcgdWstZm9ybS1kYW5nZXInIDogJycgfX0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkdXNrPSJzdHJlZXRfbnVtYmVyIiBuYW1lPSJzaGlwcGluZ19hZGRyZXNzW3N0cmVldF9udW1iZXJdIiBpZD0ic3RyZWV0X251bWJlciIgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPSJ7eyAkYWRkcmVzc1snbnVtYmVyJ10gPz8gb2xkKCdzaGlwcGluZ19hZGRyZXNzLnN0cmVldF9udW1iZXInKSB9fSI+CiAgICAgICAgICAgICAgICAgICAgICAgIEBpZiAoJGVycm9ycy0+aGFzKCdzaGlwcGluZ19hZGRyZXNzLnN0cmVldF9udW1iZXInKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLXRleHQtZGFuZ2VyIj57eyAkZXJyb3JzLT5maXJzdCgnc2hpcHBpbmdfYWRkcmVzcy5zdHJlZXRfbnVtYmVyJykgfX08L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay13aWR0aC0xLTIiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0idWstZm9ybS1sYWJlbCIgZm9yPSJzdHJlZXRfbnVtYmVyX2V4dGVuc2lvbiI+PHNwYW4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJ1ay12aXNpYmxlQHMiPkh1aXNudW1tZXI8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIHRvZXZvZWdpbmc8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLWZvcm0tY29udHJvbHMiPgogICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJ1ay1pbnB1dHt7ICRlcnJvcnMtPmhhcygnc2hpcHBpbmdfYWRkcmVzcy5zdHJlZXRfbnVtYmVyX2V4dGVuc2lvbicpID8gJyB1ay1mb3JtLWRhbmdlcicgOiAnJyB9fSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGR1c2s9InN0cmVldF9udW1iZXJfZXh0ZW5zaW9uIiBuYW1lPSJzaGlwcGluZ19hZGRyZXNzW3N0cmVldF9udW1iZXJfZXh0ZW5zaW9uXSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlkPSJzdHJlZXRfbnVtYmVyX2V4dGVuc2lvbiIgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPSJ7eyAkYWRkcmVzc1snbGV0dGVyJ10gPz8gb2xkKCdzaGlwcGluZ19hZGRyZXNzLnN0cmVldF9udW1iZXJfZXh0ZW5zaW9uJykgfX0iPgogICAgICAgICAgICAgICAgICAgICAgICBAaWYgKCRlcnJvcnMtPmhhcygnc2hpcHBpbmdfYWRkcmVzcy5zdHJlZXRfbnVtYmVyX2V4dGVuc2lvbicpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJ1ay10ZXh0LWRhbmdlciI+e3sgJGVycm9ycy0+Zmlyc3QoJ3NoaXBwaW5nX2FkZHJlc3Muc3RyZWV0X251bWJlcl9leHRlbnNpb24nKSB9fTwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLW1hcmdpbi1zbWFsbCI+CiAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9InVrLWZvcm0tbGFiZWwiIGZvcj0iemlwY29kZSI+UG9zdGNvZGU8c3BhbiBjbGFzcz0icmVxdWlyZWQiPio8L3NwYW4+PC9sYWJlbD4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLWZvcm0tY29udHJvbHMiPgogICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0idWstaW5wdXR7eyAkZXJyb3JzLT5oYXMoJ3NoaXBwaW5nX2FkZHJlc3MuemlwY29kZScpID8gJyB1ay1mb3JtLWRhbmdlcicgOiAnJyB9fSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ9InppcGNvZGUiIGR1c2s9InppcGNvZGUiIG5hbWU9InNoaXBwaW5nX2FkZHJlc3NbemlwY29kZV0iIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPSJ7eyAkYWRkcmVzc1sncG9zdGNvZGUnXSA/PyBvbGQoJ3NoaXBwaW5nX2FkZHJlc3MuemlwY29kZScpIH19Ij4KICAgICAgICAgICAgICAgICAgICBAaWYgKCRlcnJvcnMtPmhhcygnc2hpcHBpbmdfYWRkcmVzcy56aXBjb2RlJykpCiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLXRleHQtZGFuZ2VyIj57eyAkZXJyb3JzLT5maXJzdCgnc2hpcHBpbmdfYWRkcmVzcy56aXBjb2RlJykgfX08L2Rpdj4KICAgICAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLW1hcmdpbi1zbWFsbCI+CiAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9InVrLWZvcm0tbGFiZWwiIGZvcj0iY2l0eSI+UGxhYXRzbmFhbTxzcGFuIGNsYXNzPSJyZXF1aXJlZCI+Kjwvc3Bhbj48L2xhYmVsPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstZm9ybS1jb250cm9scyI+CiAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJ1ay1pbnB1dHt7ICRlcnJvcnMtPmhhcygnc2hpcHBpbmdfYWRkcmVzcy5jaXR5JykgPyAnIHVrLWZvcm0tZGFuZ2VyJyA6ICcnIH19IgogICAgICAgICAgICAgICAgICAgICAgICAgICBpZD0iY2l0eSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgZHVzaz0iY2l0eSIgbmFtZT0ic2hpcHBpbmdfYWRkcmVzc1tjaXR5XSIgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9Int7ICRhZGRyZXNzWydjaXR5J10gPz8gb2xkKCdzaGlwcGluZ19hZGRyZXNzLmNpdHknKSB9fSI+CiAgICAgICAgICAgICAgICAgICAgQGlmICgkZXJyb3JzLT5oYXMoJ3NoaXBwaW5nX2FkZHJlc3MuY2l0eScpKQogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay10ZXh0LWRhbmdlciI+e3sgJGVycm9ycy0+Zmlyc3QoJ3NoaXBwaW5nX2FkZHJlc3MuY2l0eScpIH19PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1ay1tYXJnaW4tc21hbGwiPgogICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJ1ay1mb3JtLWxhYmVsIiBmb3I9Im1lbW9fdGV4dCI+T3BtZXJraW5nZW48L2xhYmVsPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstZm9ybS1jb250cm9scyI+CiAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJ1ay1pbnB1dHt7ICRlcnJvcnMtPmhhcygnbWVtb190ZXh0JykgPyAnIHVrLWZvcm0tZGFuZ2VyJyA6ICcnIH19IiBpZD0ibWVtb190ZXh0IgogICAgICAgICAgICAgICAgICAgICAgICAgICBkdXNrPSJtZW1vX3Rla3N0IiBuYW1lPSJtZW1vX3RleHQiIHR5cGU9InRleHQiIHZhbHVlPSJ7eyBvbGQoJ21lbW9fdGV4dCcpIH19Ij4KICAgICAgICAgICAgICAgICAgICBAaWYgKCRlcnJvcnMtPmhhcygnbWVtb190ZXh0JykpCiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLXRleHQtZGFuZ2VyIj57eyAkZXJyb3JzLT5maXJzdCgnbWVtb190ZXh0JykgfX08L2Rpdj4KICAgICAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9InNoaXBwaW5nX2FkZHJlc3NbY291bnRyeV0iIHZhbHVlPSJOTCI+CgogICAgICAgIDwvZmllbGRzZXQ+CiAgICBAZWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2NvbnRhY3RwZXJzb24vcGhvbmVfbnVtYmVy</text>
@@ -354,9 +364,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>contact</last-search>
+      <last-search>if</last-search>
       <last-offset />
-      <last-pattern>contact</last-pattern>
+      <last-pattern>if</last-pattern>
       <last-replace>phone_number</last-replace>
       <last-substitute>contactperson</last-substitute>
       <last-dir>1</last-dir>
