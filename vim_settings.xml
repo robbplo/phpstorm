@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>1</entry>
         <entry>fff</entry>
         <entry>header</entry>
         <entry>re</entry>
@@ -20,16 +19,16 @@
         <entry encoding="base64">PGZvcm0=</entry>
         <entry>tog</entry>
         <entry>click</entry>
-        <entry>&quot;</entry>
         <entry>order</entry>
         <entry>Pa</entry>
         <entry>contactperson</entry>
         <entry>details</entry>
         <entry>contact</entry>
         <entry>if</entry>
+        <entry>&quot;</entry>
+        <entry>pickup</entry>
       </history-search>
       <history-cmd>
-        <entry>s/mand/PartStatistics/g</entry>
         <entry encoding="base64">JzwsJz5zL2FkZHJlc3MvdGhpcy9n</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMvc3RhdGUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3N0cmluZy9zdHJpbmd8bnVsbC9n</entry>
@@ -46,9 +45,10 @@
         <entry encoding="base64">JzwsJz5zL3NldmVyaXR5X2lkL2NvbXBvbmVudC9n</entry>
         <entry>s/`/'/g</entry>
         <entry encoding="base64">JzwsJz5zLzEvMg==</entry>
-        <entry>s/&quot;/'/g</entry>
         <entry encoding="base64">JzwsJz5zL29yZGVyL2RhdGE=</entry>
         <entry encoding="base64">JzwsJz5zL2NvbnRhY3RwZXJzb24vcGhvbmVfbnVtYmVy</entry>
+        <entry>s/&quot;/'/g</entry>
+        <entry>s/pickup/delivery/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -91,11 +91,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" timestamp="1592212442267">
-        <mark key="'" line="14" column="21" />
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="23" />
+      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" timestamp="1592223054251">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="32" column="56" />
+        <mark key="]" line="32" column="56" />
+        <mark key="." line="32" column="55" />
+        <mark key="^" line="32" column="56" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/postnl.blade.php" timestamp="1591705845708">
         <mark key="[" line="3" column="4" />
@@ -110,21 +111,20 @@
         <mark key="." line="50" column="7" />
         <mark key="^" line="50" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/resources/views/layouts/checkout.blade.php" timestamp="1591949574419">
-        <mark key="[" line="33" column="29" />
-        <mark key="]" line="33" column="29" />
-        <mark key="." line="33" column="28" />
-        <mark key="^" line="33" column="29" />
+      <file name="$USER_HOME$/projects/materialenservice/resources/views/layouts/checkout.blade.php" timestamp="1592220321120">
+        <mark key="[" line="72" column="1" />
+        <mark key="]" line="72" column="6" />
+        <mark key="." line="72" column="5" />
+        <mark key="^" line="72" column="6" />
       </file>
-      <file name="/a.dummy" timestamp="1592212656229">
-        <mark key="[" line="0" column="0" />
+      <file name="/a.dummy" timestamp="1592220716924">
+        <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" timestamp="1592218884589">
-        <mark key="'" line="25" column="37" />
-        <mark key="[" line="100" column="63" />
-        <mark key="]" line="100" column="63" />
-        <mark key="." line="100" column="63" />
-        <mark key="^" line="95" column="16" />
+      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" timestamp="1592221618806">
+        <mark key="[" line="102" column="54" />
+        <mark key="]" line="102" column="54" />
+        <mark key="^" line="102" column="54" />
+        <mark key="." line="102" column="53" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/app/Http/Requests/OrderDeliveryOptionsRequest.php" timestamp="1592211449964">
         <mark key="[" line="9" column="5" />
@@ -149,11 +149,12 @@
         <mark key="." line="19" column="12" />
         <mark key="^" line="19" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" timestamp="1592212351323">
-        <mark key="'" line="106" column="0" />
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="23" />
+      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" timestamp="1592223031618">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="5" column="4" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/delivery_options.blade.php" timestamp="1592211095358">
         <mark key="'" line="10" column="0" />
@@ -169,56 +170,49 @@
         <mark key="^" line="120" column="15" />
         <mark key="." line="121" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Http/Requests/StoreOrderRequest.php" timestamp="1591943426306">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
+      <file name="$USER_HOME$/projects/materialenservice/app/Http/Requests/StoreOrderRequest.php" timestamp="1592223499010">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="80" column="49" />
         <mark key="." line="44" column="0" />
         <mark key="^" line="96" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" timestamp="1592212633654">
-        <mark key="'" line="42" column="45" />
+      <file name="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" timestamp="1592223470993">
+        <mark key="'" line="146" column="0" />
         <mark key="[" line="72" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="98" column="42" />
+        <mark key="]" line="75" column="8" />
+        <mark key="." line="75" column="7" />
+        <mark key="^" line="75" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/routes/web.php" timestamp="1592212421882">
-        <mark key="[" line="33" column="71" />
-        <mark key="]" line="33" column="71" />
-        <mark key="." line="33" column="71" />
-        <mark key="^" line="26" column="60" />
+      <file name="$USER_HOME$/projects/materialenservice/routes/web.php" timestamp="1592223341829">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="37" column="8" />
+        <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Http/Requests/OrderPickupPointRequest.php" timestamp="1592211615927">
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="21" column="10" />
-        <mark key="." line="21" column="9" />
-        <mark key="^" line="21" column="10" />
+      <file name="$USER_HOME$/projects/materialenservice/app/Http/Requests/OrderPickupPointRequest.php" timestamp="1592222154532">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="16" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/auth.smit/storage/app/tenancy/tenants/914f5bb1dd924fd6a408b294c8931dc7/logs/debug_2020-06-09.log" timestamp="1591696988096">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Http/Requests/OrderContactDetailsRequest.php" timestamp="1591965402936">
-        <mark key="'" line="33" column="45" />
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="33" column="27" />
-        <mark key="." line="33" column="27" />
-        <mark key="^" line="33" column="46" />
+      <file name="$USER_HOME$/projects/materialenservice/app/Http/Requests/OrderContactDetailsRequest.php" timestamp="1592223429882">
+        <mark key="'" line="38" column="45" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="20" column="31" />
       </file>
       <file name="/Clipboard.txt" timestamp="1591774239556">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/materialenservice/app/Http/Requests/OrderShippingAddressRequest.php" timestamp="1592223507812">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="11" column="13" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="53" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" />
-      <jump line="80" column="27" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" />
-      <jump line="81" column="60" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" />
-      <jump line="90" column="27" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" />
-      <jump line="91" column="63" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" />
-      <jump line="99" column="27" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" />
-      <jump line="100" column="72" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" />
-      <jump line="111" column="27" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" />
       <jump line="112" column="53" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" />
       <jump line="121" column="27" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" />
       <jump line="122" column="60" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" />
@@ -311,64 +305,72 @@
       <jump line="5" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
       <jump line="106" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
       <jump line="42" column="45" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" />
+      <jump line="112" column="51" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
+      <jump line="114" column="45" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
+      <jump line="96" column="43" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
+      <jump line="129" column="12" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
+      <jump line="18" column="13" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
+      <jump line="51" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
+      <jump line="144" column="0" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>email</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>email</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>if</text>
+        <text>pickup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLW1hcmdpbi1zbWFsbCI+CiAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJ1ay1mb3JtLWxhYmVsIiBmb3I9ImVtYWlsIj5FLW1haWxhZHJlczxzcGFuIGNsYXNzPSJyZXF1aXJlZCI+Kjwvc3Bhbj48L2xhYmVsPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLWZvcm0tY29udHJvbHMiPgogICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9InVrLWlucHV0e3sgJGVycm9ycy0+aGFzKCdlbWFpbCcpID8gJyB1ay1mb3JtLWRhbmdlcicgOiAnJyB9fSIgaWQ9ImVtYWlsIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZHVzaz0iZW1haWwiIG5hbWU9ImVtYWlsIiB0eXBlPSJlbWFpbCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPSJ7eyAkdXNlci0+Z2V0RW1haWwoKSA/PyBvbGQoJ2VtYWlsJykgfX0iPgogICAgICAgICAgICAgICAgICAgICAgICBAaWYgKCRlcnJvcnMtPmhhcygnZW1haWwnKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLXRleHQtZGFuZ2VyIj57eyAkZXJyb3JzLT5maXJzdCgnZW1haWwnKSB9fTwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3NoaXBwaW5nX2FkZHJlc3Muc3RyZWV0JyA9PiAnU3RyYWF0bmFhbScsCiAgICAgICAgICAgICdzaGlwcGluZ19hZGRyZXNzLnN0cmVldF9udW1iZXInID0+ICdIdWlzbnVtbWVyJywKICAgICAgICAgICAgJ3NoaXBwaW5nX2FkZHJlc3Muc3RyZWV0X251bWJlcl9leHRlbnNpb24nID0+ICdIdWlzbnVtbWVyIHRvZXZvZWdpbmcnLAogICAgICAgICAgICAnc2hpcHBpbmdfYWRkcmVzcy56aXBjb2RlJyA9PiAnUG9zdGNvZGUnLAogICAgICAgICAgICAnc2hpcHBpbmdfYWRkcmVzcy5jaXR5JyA9PiAnUGxhYXRzbmFhbScsCiAgICAgICAgICAgICdzaGlwcGluZ19hZGRyZXNzLmNvdW50cnknID0+ICdMYW5kJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9InVrLWlucHV0IiB0eXBlPSJ0ZXh0Ij4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3NoaXBwaW5nX2FkZHJlc3MuY291bnRyeScgPT4gJ0xhbmQnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBpZihmYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NvdW50cnknID0+ICdyZXF1aXJlZHxpbjpOTCcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBlbHNlCgogICAgICAgIDxmaWVsZHNldCBjbGFzcz0idWstZmllbGRzZXQiPgogICAgICAgICAgICA8bGVnZW5kIGNsYXNzPSJ1ay1sZWdlbmQgdWstaDMiPk9waGFhbHB1bnQ8L2xlZ2VuZD4KICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstbWFyZ2luLXNtYWxsIj4KICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0idWstZm9ybS1sYWJlbCIgZm9yPSJkZWxpdmVyeV9kYXRlIj5HZXdlbnN0ZSBsZXZlcmRhdHVtICA8c3BhbiBjbGFzcz0icmVxdWlyZWQiPio8L3NwYW4+PC9sYWJlbD4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLWZvcm0tY29udHJvbHMiPgogICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0idWstaW5wdXR7eyAkZXJyb3JzLT5oYXMoJ2RlbGl2ZXJ5X2RhdGUnKSA/ICcgdWstZm9ybS1kYW5nZXInIDogJycgfX0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGR1c2s9InN0cmVldCIgbmFtZT0iZGVsaXZlcnlfZGF0ZSIgaWQ9ImRlbGl2ZXJ5X2RhdGUiIHR5cGU9ImRhdGUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPSJ7eyBvbGQoJ2RlbGl2ZXJ5X2RhdGUnKSB9fSI+CiAgICAgICAgICAgICAgICAgICAgQGlmICgkZXJyb3JzLT5oYXMoJ3NoaXBwaW5nX2FkZHJlc3Muc3RyZWV0JykpCiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLXRleHQtZGFuZ2VyIj57eyAkZXJyb3JzLT5maXJzdCgnc2hpcHBpbmdfYWRkcmVzcy5zdHJlZXQnKSB9fTwvZGl2PgogICAgICAgICAgICAgICAgICAgIEBlbmRpZgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgoKCiAgICAgICAgICAgIDxkaXYgY2xhc3M9InVrLW1hcmdpbi1zbWFsbCI+CiAgICAgICAgICAgIEBpZihjb3VudCgkcGlja3VwUG9pbnRzKSkKICAgICAgICAgICAgICAgIEBmb3JlYWNoKCRwaWNrdXBQb2ludHMgYXMgJHBpY2t1cFBvaW50KQogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0idWstZmxleCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIvaW1nL2xvZ29fcG9zdG5sLnBuZyIgc3R5bGU9ImhlaWdodDogMzJweDsiPgogICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InBpY2t1cF9wb2ludCIgdmFsdWU9Int7ICRwaWNrdXBQb2ludFsnaWQnXSB9fSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyAkcGlja3VwUG9pbnRbJ25hbWUnXSB9fQogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgICAgICAgQGVuZGZvcmVhY2gKICAgICAgICAgICAgQGVsc2UKICAgICAgICAgICAgICAgIEVyIHppam4gZ2VlbiBvcGhhYWxwdW50ZW4gZ2V2b25kZW4sIGdhIHRlcnVnCiAgICAgICAgICAgIEBlbmRpZjwvZGl2PgoKICAgICAgICA8L2ZpZWxkc2V0PgogICAgQGVuZGlmCg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcVmFsaWRhdGlvblxSdWxlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXREZWxpdmVyeU9wdGlvbnMoKQogICAgewogICAgICAgIGlmICghIHNlc3Npb24oKS0+aGFzKCdvcmRlcl9jb250YWN0X2RldGFpbHMnKSkgewogICAgICAgICAgICByZXR1cm4gcmVkaXJlY3QoKS0+cm91dGUoJ2NoZWNrb3V0LmdldENvbnRhY3REZXRhaWxzJyk7CiAgICAgICAgfQoKICAgICAgICAkdGhpcy0+c2V0dXAoKTsKCiAgICAgICAgJGFkZHJlc3MgPSAkdGhpcy0+dXNlci0+Z2V0QWRkcmVzc2VzKClbMF0gPz8gW107CgogICAgICAgIHJldHVybiB2aWV3KCdjaGVja291dC5kZWxpdmVyeV9vcHRpb25zJykKICAgICAgICAgICAgLT53aXRoQWRkcmVzcygkYWRkcmVzcykKICAgICAgICAgICAgLT53aXRoVXNlcigkdGhpcy0+dXNlcikKICAgICAgICAgICAgLT53aXRoUHJvZHVjdHMoJHRoaXMtPnByb2R1Y3RzKTsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gcG9zdERlbGl2ZXJ5T3B0aW9ucygpCiAgICB7CiAgICAgICAgaWYgKCEgc2Vzc2lvbigpLT5oYXMoJ29yZGVyX2NvbnRhY3RfZGV0YWlscycpKSB7CiAgICAgICAgICAgIHJldHVybiByZWRpcmVjdCgpLT5yb3V0ZSgnY2hlY2tvdXQuZ2V0Q29udGFjdERldGFpbHMnKTsKICAgICAgICB9CgogICAgICAgICR0aGlzLT5zZXR1cCgpOwoKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAkYXR0cmlidXRlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogRGV0ZXJtaW5lIGlmIHRoZSB1c2VyIGlzIGF1dGhvcml6ZWQgdG8gbWFrZSB0aGlzIHJlcXVlc3QuCiAgICAgKgogICAgICogQHJldHVybiBib29sCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBhdXRob3JpemUoKQogICAgewogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCiAgICAvKioKICAgICAqIEdldCB0aGUgdmFsaWRhdGlvbiBydWxlcyB0aGF0IGFwcGx5IHRvIHRoZSByZXF1ZXN0LgogICAgICoKICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoUGlja3VwUG9pbnRzKCRwaWNrdXBQb2ludHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcGlja3VwUG9pbnRzID0gWwogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnaWQnID0+IDEyMywKICAgICAgICAgICAgICAgICduYW1lJyA9PiAnVml2YW50IEpvaGFuIEh1aXppbmdsYWFuIDczLCBBbXN0ZXJkYW0nLAogICAgICAgICAgICAgICAgJ2Rpc3RhbmNlJyA9PiAxMzMsCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICdpZCcgPT4gMzIxLAogICAgICAgICAgICAgICAgJ25hbWUnID0+ICdWaXZhbnQgSm9oYW4gSHVpemluZ2xhYW4gNzMsIEFtc3RlcmRhbScsCiAgICAgICAgICAgICAgICAnZGlzdGFuY2UnID0+IDc2MywKICAgICAgICAgICAgXQogICAgICAgIF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBlbmRpZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2NvbnRhY3RwZXJzb24vcGhvbmVfbnVtYmVy</text>
+        <text>s/pickup/delivery/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>if</last-search>
+      <last-search>pickup</last-search>
       <last-offset />
-      <last-pattern>if</last-pattern>
-      <last-replace>phone_number</last-replace>
-      <last-substitute>contactperson</last-substitute>
+      <last-pattern>pickup</last-pattern>
+      <last-replace>delivery</last-replace>
+      <last-substitute>pickup</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
