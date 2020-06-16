@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>import</entry>
         <entry>bug</entry>
         <entry>form</entry>
         <entry encoding="base64">Zm9ybT4=</entry>
@@ -27,9 +26,9 @@
         <entry>fed</entry>
         <entry>def</entry>
         <entry>delivery_date</entry>
+        <entry>button</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3N0cmluZyB8Ly8=</entry>
         <entry>s/'/`/g</entry>
         <entry>w</entry>
         <entry>s/shipping/billing/g</entry>
@@ -49,6 +48,7 @@
         <entry>s/name/mobile_number/g</entry>
         <entry>s/name/email/g</entry>
         <entry encoding="base64">JzwsJz5zL2RlbGl2ZXJ5X2RhdGUvcGlja3VwX3BvaW50L2c=</entry>
+        <entry>s/button/element/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -91,12 +91,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" timestamp="1592300149502">
-        <mark key="'" line="45" column="47" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="24" column="62" />
+      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" timestamp="1592310283442">
+        <mark key="'" line="82" column="18" />
+        <mark key="[" line="99" column="16" />
+        <mark key="]" line="99" column="16" />
+        <mark key="." line="99" column="16" />
+        <mark key="^" line="98" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1592299072145">
         <mark key="[" line="0" column="0" />
@@ -162,11 +162,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" timestamp="1592299045734">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
+      <file name="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" timestamp="1592310575347">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
         <mark key="^" line="114" column="100" />
-        <mark key="." line="116" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/.env" timestamp="1592298508900">
         <mark key="[" line="17" column="0" />
@@ -204,8 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/projects/vetclass/app/Http/Controllers/Frontend/Content/SearchController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/vetclass/domain/MailchimpSync.php" />
       <jump line="2" column="94" filename="$USER_HOME$/projects/vetclass/storage/logs/laravel-2020-05-19.log" />
       <jump line="456" column="0" filename="$USER_HOME$/projects/vetclass/storage/logs/laravel-2020-05-19.log" />
       <jump line="184" column="4" filename="$USER_HOME$/projects/vetclass/resources/views/frontend/user/profile/edit.blade.php" />
@@ -304,64 +302,66 @@
       <jump line="28" column="29" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
       <jump line="32" column="47" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
+      <jump line="91" column="17" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
+      <jump line="81" column="18" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>show</text>
       </register>
       <register name="-" type="4">
-        <text>if('')</text>
+        <text>show</text>
       </register>
       <register name="/" type="4">
-        <text>delivery_date</text>
+        <text>button</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7ICRwaWNrdXBQb2ludFsnRGlzdGFuY2UnXSB9fSBtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hvd01vcmVCdXR0b24uYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICBoaWRkZW5QaWNrdXBQb2ludHMuZm9yRWFjaChmdW5jdGlvbiAocGlja3VwUG9pbnQpIHsKICAgICAgICAgICAgICAgICAgICBzaG93KHBpY2t1cFBvaW50KQogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIGhpZGUoc2hvd01vcmVCdXR0b24pCiAgICAgICAgICAgICAgICBzaG93KHNob3dMZXNzQnV0dG9uKQogICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgago=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7eyRpbmRleH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hvd0xlc3NCdXR0b24oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwcmU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBlbGVtZW50LmNsYXNzTmFtZSA9IGVsZW1lbnQuY2xhc3NOYW1lLnJlcGxhY2UoJyB1ay1oaWRkZW4nLCAnJykK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Cnt7LS0gICAgICAgICAgICAgICAgICAgIHt7IHByaW50X3IoJHBpY2t1cFBvaW50c1swXSkgfX0tLX19CiAgICAgICAgICAgICAgICA8L3ByZT4=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi5jbGFzc05hbWUgPSBidXR0b24uY2xhc3NOYW1lICsgJyB1ay1oaWRkZW4nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJ1ay1mbGV4LWxhc3QiPjwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudWstZm9ybS0K</text>
+        <text encoding="base64">ICAgICAgICB9KSgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2RlbGl2ZXJ5X2RhdGUvcGlja3VwX3BvaW50L2c=</text>
+        <text>s/button/element/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>delivery_date</last-search>
+      <last-search>button</last-search>
       <last-offset />
-      <last-pattern>delivery_date</last-pattern>
-      <last-replace>pickup_point</last-replace>
-      <last-substitute>delivery_date</last-substitute>
+      <last-pattern>button</last-pattern>
+      <last-replace>element</last-replace>
+      <last-substitute>button</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
