@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>bug</entry>
-        <entry>form</entry>
         <entry encoding="base64">Zm9ybT4=</entry>
         <entry encoding="base64">PGZvcm0=</entry>
         <entry>tog</entry>
@@ -27,6 +25,8 @@
         <entry>def</entry>
         <entry>delivery_date</entry>
         <entry>button</entry>
+        <entry>Lo</entry>
+        <entry>set</entry>
       </history-search>
       <history-cmd>
         <entry>s/'/`/g</entry>
@@ -91,26 +91,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" timestamp="1592310283442">
-        <mark key="'" line="82" column="18" />
+      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" timestamp="1592380376475">
+        <mark key="'" line="22" column="1" />
         <mark key="[" line="99" column="16" />
         <mark key="]" line="99" column="16" />
         <mark key="." line="99" column="16" />
         <mark key="^" line="98" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1592230893262">
-        <mark key="[" line="0" column="5" />
+      <file name="/a.dummy" timestamp="1592380841600">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" timestamp="1592296998295">
         <mark key="[" line="98" column="73" />
         <mark key="]" line="98" column="78" />
         <mark key="." line="98" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Http/Requests/OrderDeliveryOptionsRequest.php" timestamp="1592211449964">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="13" column="30" />
-        <mark key="^" line="13" column="30" />
-        <mark key="." line="13" column="29" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/app/Http/Middleware/RedirectToShopWithoutCartMiddleware.php" timestamp="1592296738788">
         <mark key="[" line="19" column="0" />
@@ -124,24 +120,17 @@
         <mark key="." line="85" column="33" />
         <mark key="^" line="85" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/delivery_options.blade.php" timestamp="1592211095358">
-        <mark key="'" line="10" column="0" />
-        <mark key="k" line="117" column="52" />
-        <mark key="[" line="114" column="72" />
-        <mark key="]" line="114" column="90" />
-        <mark key="." line="114" column="89" />
-        <mark key="^" line="114" column="90" />
-      </file>
       <file name="$USER_HOME$/projects/materialenservice/app/Http/Requests/StoreOrderRequest.php" timestamp="1592230017811">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" timestamp="1592310575347">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="^" line="114" column="100" />
-        <mark key="." line="115" column="0" />
+      <file name="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" timestamp="1592381243432">
+        <mark key="'" line="75" column="8" />
+        <mark key="[" line="117" column="43" />
+        <mark key="]" line="117" column="40" />
+        <mark key="." line="117" column="39" />
+        <mark key="^" line="117" column="40" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/.env" timestamp="1592298508900">
         <mark key="[" line="17" column="0" />
@@ -164,8 +153,8 @@
       <file name="/Dummy.txt" timestamp="1592299072145">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/infrastructure/Api/DeliveryOptions/PickupLocations.php" timestamp="1592312052986">
-        <mark key="[" line="11" column="60" />
+      <file name="$USER_HOME$/projects/materialenservice/infrastructure/Api/DeliveryOptions/PickupLocations.php" timestamp="1592380195161">
+        <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="8" />
         <mark key="^" line="13" column="8" />
         <mark key="." line="13" column="7" />
@@ -176,13 +165,24 @@
         <mark key="." line="72" column="5" />
         <mark key="^" line="72" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Order.php" timestamp="1592231735948">
-        <mark key="[" line="28" column="21" />
-        <mark key="]" line="28" column="20" />
-        <mark key="^" line="28" column="20" />
-        <mark key="." line="28" column="19" />
+      <file name="$USER_HOME$/projects/materialenservice/database/migrations/2020_06_17_080824_add_pickup_location_and_delivery_date_columns_to_orders_table.php" timestamp="1592381395962">
+        <mark key="[" line="17" column="41" />
+        <mark key="]" line="17" column="54" />
+        <mark key="^" line="17" column="54" />
+        <mark key="." line="17" column="53" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/infrastructure/Api/DeliveryOptions/PostNL.php" timestamp="1592312070629">
+      <file name="$USER_HOME$/projects/materialenservice/app/Http/Requests/CheckoutShippingAddressRequest.php" timestamp="1592381218267">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="15" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/materialenservice/app/Order.php" timestamp="1592381409334">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="18" column="24" />
+        <mark key="." line="18" column="23" />
+        <mark key="^" line="18" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/materialenservice/infrastructure/Api/DeliveryOptions/PostNL.php" timestamp="1592380201793">
         <mark key="[" line="20" column="30" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/app/Http/Requests/OrderPickupPointRequest.php" timestamp="1592222154532">
@@ -203,13 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="94" filename="$USER_HOME$/projects/vetclass/storage/logs/laravel-2020-05-19.log" />
-      <jump line="456" column="0" filename="$USER_HOME$/projects/vetclass/storage/logs/laravel-2020-05-19.log" />
-      <jump line="184" column="4" filename="$USER_HOME$/projects/vetclass/resources/views/frontend/user/profile/edit.blade.php" />
-      <jump line="134" column="141" filename="$USER_HOME$/projects/vetclass/resources/views/frontend/user/profile/edit.blade.php" />
-      <jump line="226" column="32" filename="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductOrderForm/index.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/vesca/resources/sass/app.scss" />
-      <jump line="64" column="0" filename="$USER_HOME$/projects/vesca/resources/sass/app.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/vesca/app/Http/Kernel.php" />
       <jump line="76" column="94" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
       <jump line="184" column="18" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
@@ -303,51 +296,58 @@
       <jump line="32" column="47" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
       <jump line="91" column="17" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
       <jump line="81" column="18" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
+      <jump line="95" column="66" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
+      <jump line="22" column="1" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
+      <jump line="107" column="18" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" />
+      <jump line="75" column="8" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" />
+      <jump line="28" column="22" filename="$USER_HOME$/projects/materialenservice/app/Order.php" />
+      <jump line="18" column="22" filename="$USER_HOME$/projects/materialenservice/app/Order.php" />
+      <jump line="65" column="0" filename="$USER_HOME$/projects/materialenservice/app/Order.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>show</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnZGVsaXZlcnlfZGF0ZSdBZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>show</text>
+        <text encoding="base64">JHJlcXVlc3QtPnZhbGlkYXRlZCgp</text>
       </register>
       <register name="/" type="4">
-        <text>button</text>
+        <text>set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvd01vcmVCdXR0b24uYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICBoaWRkZW5QaWNrdXBQb2ludHMuZm9yRWFjaChmdW5jdGlvbiAocGlja3VwUG9pbnQpIHsKICAgICAgICAgICAgICAgICAgICBzaG93KHBpY2t1cFBvaW50KQogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIGhpZGUoc2hvd01vcmVCdXR0b24pCiAgICAgICAgICAgICAgICBzaG93KHNob3dMZXNzQnV0dG9uKQogICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3N0cmVldCcgPT4gJ3JlcXVpcmVkfG1heDoxOTEnLAogICAgICAgICAgICAnc3RyZWV0X251bWJlcicgPT4gJ3JlcXVpcmVkfG1heDoxOTEnLAogICAgICAgICAgICAnc3RyZWV0X251bWJlcl9leHRlbnNpb24nID0+ICdudWxsYWJsZXxtYXg6MTkxJywKICAgICAgICAgICAgJ3ppcGNvZGUnID0+IFsncmVxdWlyZWQnLCAnbWF4OjE5MScsICdyZWdleDovXlsxLTldWzAtOV17M31ccz8oPyFzYXxzZHxzcylbYS16XXsyfSQvaSddLAogICAgICAgICAgICAnY2l0eScgPT4gJ3JlcXVpcmVkfG1heDoxOTEnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgago=</text>
+        <text encoding="base64">ICAgICAgICAnZGVsaXZlcnlfZGF0ZSdBZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvd0xlc3NCdXR0b24oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBlbGVtZW50LmNsYXNzTmFtZSA9IGVsZW1lbnQuY2xhc3NOYW1lLnJlcGxhY2UoJyB1ay1oaWRkZW4nLCAnJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgago=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hvd0xlc3NCdXR0b24oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBlbGVtZW50LmNsYXNzTmFtZSA9IGVsZW1lbnQuY2xhc3NOYW1lLnJlcGxhY2UoJyB1ay1oaWRkZW4nLCAnJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi5jbGFzc05hbWUgPSBidXR0b24uY2xhc3NOYW1lICsgJyB1ay1oaWRkZW4nCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIKCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi5jbGFzc05hbWUgPSBidXR0b24uY2xhc3NOYW1lICsgJyB1ay1oaWRkZW4nCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9KSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIKCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/button/element/g</text>
@@ -356,9 +356,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>button</last-search>
+      <last-search>set</last-search>
       <last-offset />
-      <last-pattern>button</last-pattern>
+      <last-pattern>set</last-pattern>
       <last-replace>element</last-replace>
       <last-substitute>button</last-substitute>
       <last-dir>1</last-dir>
