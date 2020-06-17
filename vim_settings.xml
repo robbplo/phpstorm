@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">Zm9ybT4=</entry>
         <entry encoding="base64">PGZvcm0=</entry>
         <entry>tog</entry>
         <entry>click</entry>
@@ -27,9 +26,9 @@
         <entry>button</entry>
         <entry>Lo</entry>
         <entry>set</entry>
+        <entry>$pickupLocation</entry>
       </history-search>
       <history-cmd>
-        <entry>s/'/`/g</entry>
         <entry>w</entry>
         <entry>s/shipping/billing/g</entry>
         <entry>s/1/0/g</entry>
@@ -49,6 +48,7 @@
         <entry>s/name/email/g</entry>
         <entry encoding="base64">JzwsJz5zL2RlbGl2ZXJ5X2RhdGUvcGlja3VwX3BvaW50L2c=</entry>
         <entry>s/button/element/g</entry>
+        <entry encoding="base64">JzwsJz5zLyRwaWNrdXBMb2NhdGlvbi8kcGlja3VwTG9jYXRpb25bJ0FkZHJlc3MnXS9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,12 +125,12 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" timestamp="1592381643288">
-        <mark key="'" line="116" column="51" />
-        <mark key="[" line="143" column="89" />
-        <mark key="]" line="143" column="45" />
-        <mark key="." line="143" column="44" />
-        <mark key="^" line="143" column="45" />
+      <file name="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" timestamp="1592384675030">
+        <mark key="'" line="118" column="38" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="72" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="157" column="47" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/.env" timestamp="1592298508900">
         <mark key="[" line="17" column="0" />
@@ -150,6 +150,18 @@
         <mark key="]" line="18" column="46" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/materialenservice/app/Console/Commands/ExportOrders.php" timestamp="1592384273293">
+        <mark key="[" line="75" column="31" />
+        <mark key="]" line="75" column="56" />
+        <mark key="^" line="75" column="56" />
+        <mark key="." line="75" column="55" />
+      </file>
+      <file name="$USER_HOME$/projects/materialenservice/app/Http/Requests/CheckoutPickupLocationRequest.php" timestamp="1592384649453">
+        <mark key="[" line="14" column="61" />
+        <mark key="]" line="14" column="62" />
+        <mark key="^" line="14" column="62" />
+        <mark key="." line="14" column="61" />
+      </file>
       <file name="/Dummy.txt" timestamp="1592299072145">
         <mark key="[" line="0" column="0" />
       </file>
@@ -159,17 +171,11 @@
         <mark key="^" line="13" column="8" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/resources/views/layouts/checkout.blade.php" timestamp="1592220321120">
-        <mark key="[" line="72" column="1" />
-        <mark key="]" line="72" column="6" />
-        <mark key="." line="72" column="5" />
-        <mark key="^" line="72" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/materialenservice/database/migrations/2020_06_17_080824_add_pickup_location_and_delivery_date_columns_to_orders_table.php" timestamp="1592381395962">
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="17" column="54" />
-        <mark key="^" line="17" column="54" />
-        <mark key="." line="17" column="53" />
+      <file name="$USER_HOME$/projects/materialenservice/database/migrations/2020_06_17_080824_add_pickup_location_and_delivery_date_columns_to_orders_table.php" timestamp="1592383984275">
+        <mark key="[" line="29" column="68" />
+        <mark key="]" line="29" column="69" />
+        <mark key="^" line="29" column="69" />
+        <mark key="." line="29" column="68" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/app/Http/Requests/CheckoutShippingAddressRequest.php" timestamp="1592381218267">
         <mark key="[" line="11" column="0" />
@@ -185,21 +191,12 @@
       <file name="$USER_HOME$/projects/materialenservice/infrastructure/Api/DeliveryOptions/PostNL.php" timestamp="1592380201793">
         <mark key="[" line="20" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Http/Requests/OrderPickupPointRequest.php" timestamp="1592222154532">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="16" />
-        <mark key="." line="10" column="15" />
-        <mark key="^" line="10" column="16" />
-      </file>
       <file name="$USER_HOME$/projects/materialenservice/.env.example" timestamp="1592298492032">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Http/Requests/OrderShippingAddressRequest.php" timestamp="1592223507812">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="11" column="13" />
+      <file name="$USER_HOME$/projects/materialenservice/tests/Feature/CatalogEndpointTest.php" timestamp="1592384718401">
+        <mark key="[" line="28" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -302,65 +299,65 @@
       <jump line="18" column="22" filename="$USER_HOME$/projects/materialenservice/app/Order.php" />
       <jump line="65" column="0" filename="$USER_HOME$/projects/materialenservice/app/Order.php" />
       <jump line="113" column="43" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" />
-      <jump line="116" column="51" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" />
+      <jump line="116" column="38" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>$pickupLocation[''],</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkb3JkZXIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>$pickupLocation[''],</text>
+        <text>json_encode(</text>
       </register>
       <register name="/" type="4">
-        <text>set</text>
+        <text>$pickupLocation</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0cmVldCcgPT4gJ3JlcXVpcmVkfG1heDoxOTEnLAogICAgICAgICAgICAnc3RyZWV0X251bWJlcicgPT4gJ3JlcXVpcmVkfG1heDoxOTEnLAogICAgICAgICAgICAnc3RyZWV0X251bWJlcl9leHRlbnNpb24nID0+ICdudWxsYWJsZXxtYXg6MTkxJywKICAgICAgICAgICAgJ3ppcGNvZGUnID0+IFsncmVxdWlyZWQnLCAnbWF4OjE5MScsICdyZWdleDovXlsxLTldWzAtOV17M31ccz8oPyFzYXxzZHxzcylbYS16XXsyfSQvaSddLAogICAgICAgICAgICAnY2l0eScgPT4gJ3JlcXVpcmVkfG1heDoxOTEnLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkaXJlY3QoKS0+cm91dGUoJ2NoZWNrb3V0LmNvbXBsZXRlJywgY29tcGFjdCgnb3JkZXInKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGlja3VwTG9jYXRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkb3JkZXIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnZGVsaXZlcnlfZGF0ZSdBZAo=</text>
+        <text encoding="base64">CiAgICAgICAgZGQoJG9yZGVyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+ZGVsaXZlcnlfZGF0ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgago=</text>
+        <text encoding="base64">ICAgICAgICAvLyBkaXNwbGF5IGVycm9yIGFuZCBnbyBiYWNrIGlmIG5vIHBpY2t1cCBwb2ludCBpcyBmb3VuZAovLyAgICAgICAgeyJjaXR5IjogIkJveG1lZXIiLCAic3RyZWV0IjogIkJ1cmdlbWVlc3RlciBWZXJrdWlqbHN0cmFhdCIsICJjb3VudHJ5IjogIk5MIiwgInppcGNvZGUiOiAiNTgzMUVMIiwgInN0cmVldF9udW1iZXIiOiAiNzAiLCAic3RyZWV0X251bWJlcl9leHRlbnNpb24iOiBudWxsfQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvd0xlc3NCdXR0b24oKQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAnc3RyZWV0JyA9PiAkcGlja3VwTG9jYXRpb25bJ1N0cmVldCddLAogICAgICAgICAgICAnc3RyZWV0X251bWJlcicgPT4gJHBpY2t1cExvY2F0aW9uWydIb3VzZU5yJ10sCiAgICAgICAgICAgICdzdHJlZXRfbnVtYmVyX2V4dGVuc2lvbicgPT4gbnVsbCwKICAgICAgICAgICAgJ3ppcGNvZGUnID0+ICRwaWNrdXBMb2NhdGlvblsnWmlwY29kZSddLAogICAgICAgICAgICAnY2l0eScgPT4gJHBpY2t1cExvY2F0aW9uWydDaXR5J10sCiAgICAgICAgXQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBlbGVtZW50LmNsYXNzTmFtZSA9IGVsZW1lbnQuY2xhc3NOYW1lLnJlcGxhY2UoJyB1ay1oaWRkZW4nLCAnJykK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcGlja3VwTG9jYXRpb24pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnZGVsaXZlcnlfZGF0ZSdBZAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1dHRvbi5jbGFzc05hbWUgPSBidXR0b24uY2xhc3NOYW1lICsgJyB1ay1oaWRkZW4nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgago=</text>
       </register>
       <register name=":" type="4">
-        <text>s/button/element/g</text>
+        <text encoding="base64">JzwsJz5zLyRwaWNrdXBMb2NhdGlvbi8kcGlja3VwTG9jYXRpb25bJ0FkZHJlc3MnXS9n</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>set</last-search>
+      <last-search>$pickupLocation</last-search>
       <last-offset />
-      <last-pattern>set</last-pattern>
-      <last-replace>element</last-replace>
-      <last-substitute>button</last-substitute>
+      <last-pattern>$pickupLocation</last-pattern>
+      <last-replace>$pickupLocation['Address']</last-replace>
+      <last-substitute>$pickupLocation</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
