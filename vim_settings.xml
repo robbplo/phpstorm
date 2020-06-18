@@ -103,6 +103,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/materialenservice/infrastructure/Api/Nicoud.php" timestamp="1592466430952">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="100" column="9" />
+        <mark key="^" line="99" column="64" />
+        <mark key="." line="99" column="63" />
+      </file>
       <file name="/a.dummy" timestamp="1592380841600">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="14" />
@@ -117,13 +123,6 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" timestamp="1592231834131">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="87" column="21" />
-        <mark key="." line="85" column="33" />
-        <mark key="^" line="85" column="69" />
       </file>
       <file name="/PHP Console" timestamp="1592399094562">
         <mark key="[" line="0" column="0" />
@@ -171,11 +170,8 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="15" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Order.php" timestamp="1592381409334">
+      <file name="$USER_HOME$/projects/materialenservice/app/Order.php" timestamp="1592466432025">
         <mark key="'" line="65" column="0" />
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="18" column="24" />
-        <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="24" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/infrastructure/Api/DeliveryOptions/PostNL.php" timestamp="1592400028594">
@@ -307,16 +303,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ci8vICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJG9yZGVyLT5kZWxpdmVyeV9kYXRlICE9PSBudWxsKSB7CiAgICAgICAgICAgICRwYXlsb2FkWydkZWxpdmVyeV9kYXRlJ10gPSAkb3JkZXItPmRlbGl2ZXJ5X2RhdGUtPmZvcm1hdCgnWS1tLWQnKTsKICAgICAgICB9CgogICAgICAgIGlmICgkb3JkZXItPnBpY2t1cF9sb2NhdGlvbiAhPT0gbnVsbCkgewogICAgICAgICAgICAkcGF5bG9hZFsncGlja191cF9wb2ludCddID0gJG9yZGVyLT5waWNrdXBfbG9jYXRpb247CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT53aXRoRXJyb3JzKCd0ZXN0Jyk7</text>
+        <text>point</text>
       </register>
       <register name="/" type="4">
         <text>$pickupLocation</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">bm93KCktPmFkZERheXMoMSktPmZvcm1hdCgnZC1tLVknKQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJG9yZGVyLT5kZWxpdmVyeV9kYXRlICE9PSBudWxsKSB7CiAgICAgICAgICAgICRwYXlsb2FkWydkZWxpdmVyeV9kYXRlJ10gPSAkb3JkZXItPmRlbGl2ZXJ5X2RhdGUtPmZvcm1hdCgnWS1tLWQnKTsKICAgICAgICB9CgogICAgICAgIGlmICgkb3JkZXItPnBpY2t1cF9sb2NhdGlvbiAhPT0gbnVsbCkgewogICAgICAgICAgICAkcGF5bG9hZFsncGlja191cF9wb2ludCddID0gJG9yZGVyLT5waWNrdXBfbG9jYXRpb247CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ci8vICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0Cg==</text>
