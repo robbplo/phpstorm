@@ -112,7 +112,13 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="/PHP Console" timestamp="1592399094562">
+      <file name="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" timestamp="1592553837335">
+        <mark key="[" line="51" column="79" />
+        <mark key="]" line="52" column="8" />
+        <mark key="^" line="52" column="8" />
+        <mark key="." line="52" column="7" />
+      </file>
+      <file name="/PHP Console" timestamp="1592554068806">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" timestamp="1592400146648">
@@ -166,10 +172,6 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/materialenservice/.env.example" timestamp="1592298492032">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="11" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/tests/Feature/CatalogEndpointTest.php" timestamp="1592384721816">
         <mark key="[" line="28" column="17" />
@@ -292,10 +294,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJG9yZGVyLT5kZWxpdmVyeV9kYXRlICE9PSBudWxsKSB7CiAgICAgICAgICAgICRwYXlsb2FkWydkZWxpdmVyeV9kYXRlJ10gPSAkb3JkZXItPmRlbGl2ZXJ5X2RhdGUtPmZvcm1hdCgnWS1tLWQnKTsKICAgICAgICB9CgogICAgICAgIGlmICgkb3JkZXItPnBpY2t1cF9sb2NhdGlvbiAhPT0gbnVsbCkgewogICAgICAgICAgICAkcGF5bG9hZFsncGlja191cF9wb2ludCddID0gJG9yZGVyLT5waWNrdXBfbG9jYXRpb247CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkc3luY0pzb24gPSBqc29uX2RlY29kZSgkc3luY1Jlc3BvbnNlLT5nZXRCb2R5KCktPmdldENvbnRlbnRzKCksIHRydWUpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>point</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>$pickupLocation</text>
@@ -304,34 +306,34 @@
         <text encoding="base64">ICAgICAgICBpZiAoJG9yZGVyLT5kZWxpdmVyeV9kYXRlICE9PSBudWxsKSB7CiAgICAgICAgICAgICRwYXlsb2FkWydkZWxpdmVyeV9kYXRlJ10gPSAkb3JkZXItPmRlbGl2ZXJ5X2RhdGUtPmZvcm1hdCgnWS1tLWQnKTsKICAgICAgICB9CgogICAgICAgIGlmICgkb3JkZXItPnBpY2t1cF9sb2NhdGlvbiAhPT0gbnVsbCkgewogICAgICAgICAgICAkcGF5bG9hZFsncGlja191cF9wb2ludCddID0gJG9yZGVyLT5waWNrdXBfbG9jYXRpb247CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci8vICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc3luY0pzb24gPSBqc29uX2RlY29kZSgkc3luY1Jlc3BvbnNlLT5nZXRCb2R5KCktPmdldENvbnRlbnRzKCksIHRydWUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBmaW5kQnlMb2NhdGlvbkNvZGUoc3RyaW5nICRsb2NhdGlvbkNvZGUpCiAgICB7CgogICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZmFpbCBpZiBubyBwaWNrdXBsb2NhdGlvbiBpcyBmb3VuZAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcGlja3VwTG9jYXRpb24gPSBudWxsOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBmaW5kQnlMb2NhdGlvbkNvZGUoc3RyaW5nICRsb2NhdGlvbkNvZGUpCiAgICB7CgogICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZmFpbCBpZiBubyBwaWNrdXBsb2NhdGlvbiBpcyBmb3VuZAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkcGlja3VwTG9jYXRpb24gPSBudWxsOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmYWlsIGlmIG5vIHBpY2t1cGxvY2F0aW9uIGlzIGZvdW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIFNNSVRcU0RLXEF1dGhcTW9kZWxzXFVzZXJNb2RlbDsKCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBmYWlsIGlmIG5vIHBpY2t1cGxvY2F0aW9uIGlzIGZvdW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxDb2xsZWN0aW9uOwo=</text>
+        <text encoding="base64">dXNlIFNNSVRcU0RLXEF1dGhcTW9kZWxzXFVzZXJNb2RlbDsKCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyRwaWNrdXBMb2NhdGlvbi8kcGlja3VwTG9jYXRpb25bJ0FkZHJlc3MnXS9n</text>
