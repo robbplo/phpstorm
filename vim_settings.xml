@@ -100,8 +100,8 @@
       <file name="$USER_HOME$/projects/materialenservice/infrastructure/Api/Nicoud.php" timestamp="1592475512548">
         <mark key="[" line="94" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1592380841600">
-        <mark key="[" line="0" column="14" />
+      <file name="/a.dummy" timestamp="1592560196963">
+        <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
@@ -150,10 +150,6 @@
         <mark key="^" line="29" column="69" />
         <mark key="." line="29" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Http/Requests/CheckoutShippingAddressRequest.php" timestamp="1592381218267">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="15" column="41" />
-      </file>
       <file name="$USER_HOME$/projects/materialenservice/app/Order.php" timestamp="1592466432025">
         <mark key="'" line="65" column="0" />
         <mark key="^" line="18" column="24" />
@@ -166,7 +162,12 @@
       <file name="$USER_HOME$/projects/materialenservice/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php" timestamp="1592554447825">
         <mark key="'" line="82" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Nova/Order.php" timestamp="1592554801634" />
+      <file name="$USER_HOME$/projects/materialenservice/app/Nova/Order.php" timestamp="1592561080778">
+        <mark key="[" line="62" column="55" />
+        <mark key="]" line="62" column="55" />
+        <mark key="." line="62" column="55" />
+        <mark key="^" line="62" column="55" />
+      </file>
       <file name="$USER_HOME$/projects/materialenservice/tests/Feature/CatalogEndpointTest.php" timestamp="1592384721816">
         <mark key="[" line="28" column="17" />
         <mark key="]" line="28" column="22" />
@@ -183,9 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="2" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
-      <jump line="193" column="2" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
-      <jump line="189" column="5" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
       <jump line="30" column="29" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
       <jump line="62" column="23" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
@@ -283,15 +281,18 @@
       <jump line="62" column="0" filename="$USER_HOME$/projects/materialenservice/api/v1/Controllers/CatalogController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/materialenservice/api/v1/Controllers/CatalogController.php" />
       <jump line="82" column="55" filename="$USER_HOME$/projects/materialenservice/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php" />
+      <jump line="61" column="75" filename="$USER_HOME$/projects/materialenservice/app/Nova/Order.php" />
+      <jump line="134" column="0" filename="$USER_HOME$/projects/materialenservice/app/Nova/Order.php" />
+      <jump line="160" column="0" filename="$USER_HOME$/projects/materialenservice/app/Nova/Order.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkc3luY0pzb24gPSBqc29uX2RlY29kZSgkc3luY1Jlc3BvbnNlLT5nZXRCb2R5KCktPmdldENvbnRlbnRzKCksIHRydWUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LT5leGNlcHRPbkZvcm1zKCk=</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text encoding="base64">LT5leGNlcHRPbkZvcm1zKCk=</text>
       </register>
       <register name="/" type="4">
         <text>$pickupLocation</text>
@@ -299,35 +300,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoJG9yZGVyLT5kZWxpdmVyeV9kYXRlICE9PSBudWxsKSB7CiAgICAgICAgICAgICRwYXlsb2FkWydkZWxpdmVyeV9kYXRlJ10gPSAkb3JkZXItPmRlbGl2ZXJ5X2RhdGUtPmZvcm1hdCgnWS1tLWQnKTsKICAgICAgICB9CgogICAgICAgIGlmICgkb3JkZXItPnBpY2t1cF9sb2NhdGlvbiAhPT0gbnVsbCkgewogICAgICAgICAgICAkcGF5bG9hZFsncGlja191cF9wb2ludCddID0gJG9yZGVyLT5waWNrdXBfbG9jYXRpb247CiAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkc3luY0pzb24gPSBqc29uX2RlY29kZSgkc3luY1Jlc3BvbnNlLT5nZXRCb2R5KCktPmdldENvbnRlbnRzKCksIHRydWUpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gJHRoaXMtPnV1aWQ7CiAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ci8vICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFsKLy8gICAgICAgIF0gICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBmaW5kQnlMb2NhdGlvbkNvZGUoc3RyaW5nICRsb2NhdGlvbkNvZGUpCiAgICB7CgogICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAnZGVsaXZlcnlfZGF0ZScgPT4gKHN0cmluZykgJHRoaXMtPmRlbGl2ZXJ5X2RhdGUsCi8vICAgICAgICAgICAgJ3BpY2t1cF9sb2NhdGlvbicgPT4gJHRoaXMtPnBpY2t1cF9sb2NhdGlvbiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZmFpbCBpZiBubyBwaWNrdXBsb2NhdGlvbiBpcyBmb3VuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLT5jb25jYXQoKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcGlja3VwTG9jYXRpb24gPSBudWxsOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2RlbGl2ZXJ5X2RhdGUnID0+IChzdHJpbmcpICR0aGlzLT5kZWxpdmVyeV9kYXRlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3BpY2t1cF9sb2NhdGlvbicgPT4gJHRoaXMtPnBpY2t1cF9sb2NhdGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgXQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGdldFNoaXBwaW5nRmllbGRzKCkKICAgIHsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmYWlsIGlmIG5vIHBpY2t1cGxvY2F0aW9uIGlzIGZvdW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAkYXJyYXkgPSBhcnJheV9tZXJnZSgkdGhpcy0+c2hpcHBpbmdfYWRkcmVzcywgWwogICAgICAgICAgICAnZGVsaXZlcnlfZGF0ZScgPT4gKHN0cmluZykgJHRoaXMtPmRlbGl2ZXJ5X2RhdGUsCiAgICAgICAgICAgICdwaWNrdXBfbG9jYXRpb24nID0+ICR0aGlzLT5waWNrdXBfbG9jYXRpb24sCiAgICAgICAgXSk7CgogICAgICAgIHJldHVybiAkdGhpcy0+ZmllbGRzRnJvbUFycmF5KCRhcnJheSwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFNNSVRcU0RLXEF1dGhcTW9kZWxzXFVzZXJNb2RlbDsKCg==</text>
+        <text encoding="base64">ICAgICAgICAkc3luY0pzb24gPSBqc29uX2RlY29kZSgkc3luY1Jlc3BvbnNlLT5nZXRCb2R5KCktPmdldENvbnRlbnRzKCksIHRydWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyRwaWNrdXBMb2NhdGlvbi8kcGlja3VwTG9jYXRpb25bJ0FkZHJlc3MnXS9n</text>
