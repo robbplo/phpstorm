@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">PGZvcm0=</entry>
-        <entry>tog</entry>
         <entry>click</entry>
         <entry>order</entry>
         <entry>Pa</entry>
@@ -27,6 +25,8 @@
         <entry>Lo</entry>
         <entry>set</entry>
         <entry>$pickupLocation</entry>
+        <entry>part</entry>
+        <entry>where</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -105,18 +105,23 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" timestamp="1592571584316">
-        <mark key="'" line="98" column="41" />
-        <mark key="[" line="53" column="10" />
-        <mark key="]" line="53" column="45" />
-        <mark key="." line="53" column="44" />
-        <mark key="^" line="53" column="45" />
+      <file name="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" timestamp="1592574136386">
+        <mark key="[" line="49" column="29" />
+        <mark key="]" line="49" column="29" />
+        <mark key="^" line="73" column="28" />
+        <mark key="." line="49" column="29" />
       </file>
       <file name="$USER_HOME$/projects/attendance/database/migrations/2020_06_19_143840_add_onekey_column_to_participants_table.php" timestamp="1592570448183">
         <mark key="[" line="28" column="43" />
         <mark key="]" line="28" column="43" />
         <mark key="^" line="28" column="43" />
         <mark key="." line="28" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/app/Exports/FutureAttendancesExport.php" timestamp="1592574222357">
+        <mark key="[" line="65" column="23" />
+        <mark key="]" line="65" column="24" />
+        <mark key="." line="65" column="23" />
+        <mark key="^" line="65" column="24" />
       </file>
       <file name="/PHP Console" timestamp="1592568751274">
         <mark key="[" line="0" column="0" />
@@ -134,11 +139,11 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Http/Requests/CheckoutPickupLocationRequest.php" timestamp="1592399194452">
-        <mark key="[" line="14" column="27" />
-        <mark key="]" line="14" column="60" />
-        <mark key="^" line="14" column="62" />
-        <mark key="." line="14" column="61" />
+      <file name="$USER_HOME$/projects/attendance/domain/MeetingExporter.php" timestamp="1592574197171">
+        <mark key="[" line="48" column="24" />
+        <mark key="]" line="48" column="23" />
+        <mark key="^" line="48" column="23" />
+        <mark key="." line="48" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1592570116214">
         <mark key="[" line="0" column="0" />
@@ -167,20 +172,8 @@
         <mark key="^" line="62" column="55" />
       </file>
       <file name="$USER_HOME$/projects/SmitAuth/lib/vendor/smit/smit-sdk-php/src/Auth/Auth.php" timestamp="1592553289165" />
-      <file name="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_location.blade.php" timestamp="1592399720931">
-        <mark key="'" line="75" column="17" />
-        <mark key="[" line="23" column="33" />
-        <mark key="]" line="23" column="54" />
-        <mark key="^" line="23" column="54" />
-        <mark key="." line="23" column="53" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="29" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
-      <jump line="62" column="23" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
-      <jump line="77" column="130" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
-      <jump line="176" column="13" filename="$USER_HOME$/projects/materialenservice-pwa/store/modules/products.js" />
-      <jump line="122" column="8" filename="$USER_HOME$/projects/materialenservice/app/Nova/Actions/ExportOrders.php" />
       <jump line="113" column="0" filename="$USER_HOME$/projects/auth.smit/app/Nova/OAuthScope.php" />
       <jump line="32" column="39" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
@@ -276,51 +269,56 @@
       <jump line="134" column="0" filename="$USER_HOME$/projects/materialenservice/app/Nova/Order.php" />
       <jump line="160" column="0" filename="$USER_HOME$/projects/materialenservice/app/Nova/Order.php" />
       <jump line="67" column="41" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
+      <jump line="33" column="26" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
+      <jump line="63" column="62" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
+      <jump line="123" column="0" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
+      <jump line="92" column="27" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2MK</text>
       </register>
       <register name="-" type="4">
-        <text>RegistrationAttributes</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>$pickupLocation</text>
+        <text>where</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlckF0dHJpYnV0ZXMgPSBjb2xsZWN0KCRzeW5jSnNvbikK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGFydGljaXBhbnRzLT53aGVyZSgnZXh0ZXJuYWxfYXV0aF9pZCcsICRleHRlcm5hbEF1dGhJZCkKICAgICAgICAgICAgLT5maXJzdCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2MK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9uZWtleQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICRudW1iZXJUeXBlcyA9IGNvbGxlY3QoWwovLyAgICAgICAgICAgICdiaWdfbnVtYmVyJywKLy8gICAgICAgICAgICAnbnZ2cG9fbnVtYmVyJywKLy8gICAgICAgICAgICAndm52bl9udW1iZXInLAovLyAgICAgICAgICAgICduYXBhX251bWJlcicsCi8vICAgICAgICAgICAgJ2thYml6X251bWJlcicsCi8vICAgICAgICBdKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGFycmF5OjEgWwovLyAgICAgICAgIjcxNWY5NzIwMmQ2MzExZWE4NWUwNjVkZDg4NDkxNjAwIiA9PiBhcnJheToyIFsKLy8gICAgICAgICAgICAib25la2V5X2lkIiA9PiAiMTIzNDU2Nzg5MTAiCi8vICAgICAgICAgICAgImJpZ19udW1iZXIiID0+ICIxMjM0NTY3ODkxMCIKLy8gICAgICAgICAgXQovLyAgICAgICAgXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc3kpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgXSk7Ci8vICAgICAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgovLyAgICAgICAgJHVzZXJBdHRyaWJ1dGVzID0gY29sbGVjdCgkc3luY0pzb24pCi8vICAgICAgICAgICAgLT5tYXBXaXRoS2V5cyhmdW5jdGlvbiAoJGF0dHJpYnV0ZXMsICR1c2VySWQpIHVzZSAoJG51bWJlclR5cGVzKSB7Ci8vICAgICAgICAgICAgICAgICRmaWx0ZXJlZEF0dHJpYnV0ZXMgPSBjb2xsZWN0KCRhdHRyaWJ1dGVzKQovLyAgICAgICAgICAgICAgICAgICAgLT5maWx0ZXIoZnVuY3Rpb24gKCR2YWx1ZSwgJGtleSkgdXNlICgkbnVtYmVyVHlwZXMpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gJG51bWJlclR5cGVzLT5jb250YWlucygka2V5KTsKLy8gICAgICAgICAgICAgICAgICAgIH0pLT50b0FycmF5KCk7Ci8vICAgICAgICAgICAgICAgIHJldHVybiBbCi8vICAgICAgICAgICAgICAgICAgICAkdXNlcklkID0+ICRmaWx0ZXJlZEF0dHJpYnV0ZXMKLy8gICAgICAgICAgICAgICAgXTsKLy8gICAgICAgICAgICB9KS0+ZmlsdGVyKCk7Ci8vCi8vICAgICAgICAkdXNlckF0dHJpYnV0ZXMtPmVhY2goZnVuY3Rpb24gKCRhdHRyaWJ1dGVzLCAkZXh0ZXJuYWxBdXRoSWQpIHVzZSAoJHBhcnRpY2lwYW50cykgewovLyAgICAgICAgICAgIGlmIChjb3VudCgkYXR0cmlidXRlcykgPT09IDApIHsKLy8gICAgICAgICAgICAgICAgJHJlZ2lzdHJhdGlvblR5cGUgPSBudWxsOwovLyAgICAgICAgICAgICAgICAkcmVnaXN0cmF0aW9uTnVtYmVyID0gbnVsbDsKLy8gICAgICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgICAgICAkcmVnaXN0cmF0aW9uVHlwZSA9IGFycmF5X2tleXMoJGF0dHJpYnV0ZXMpWzBdOwovLyAgICAgICAgICAgICAgICAkcmVnaXN0cmF0aW9uTnVtYmVyID0gYXJyYXlfdmFsdWVzKCRhdHRyaWJ1dGVzKVswXTsKLy8gICAgICAgICAgICB9Ci8vCi8vICAgICAgICAgICAgJHBhcnRpY2lwYW50cy0+d2hlcmUoJ2V4dGVybmFsX2F1dGhfaWQnLCAkZXh0ZXJuYWxBdXRoSWQpCi8vICAgICAgICAgICAgICAgIC0+Zmlyc3QoKQovLyAgICAgICAgICAgICAgICAtPnVwZGF0ZShbCi8vICAgICAgICAgICAgICAgICAgICAncmVnaXN0cmF0aW9uX3R5cGUnID0+ICRyZWdpc3RyYXRpb25UeXBlLAovLyAgICAgICAgICAgICAgICAgICAgJ3JlZ2lzdHJhdGlvbl9udW1iZXInID0+ICRyZWdpc3RyYXRpb25OdW1iZXIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR1cGRhdGVzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFydGljaXBhbnRzID0gUGFydGljaXBhbnQ6OmFsbCgpLT50YWtlKDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGtleSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkbnVtYmVyVHlwZXMgPSBjb2xsZWN0KFsKICAgICAgICAgICAgJ2JpZ19udW1iZXInLAogICAgICAgICAgICAnbnZ2cG9fbnVtYmVyJywKICAgICAgICAgICAgJ3Zudm5fbnVtYmVyJywKICAgICAgICAgICAgJ25hcGFfbnVtYmVyJywKICAgICAgICAgICAgJ2thYml6X251bWJlcicsCiAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlcklkcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyRwaWNrdXBMb2NhdGlvbi8kcGlja3VwTG9jYXRpb25bJ0FkZHJlc3MnXS9n</text>
@@ -329,12 +327,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>$pickupLocation</last-search>
+      <last-search>where</last-search>
       <last-offset />
-      <last-pattern>$pickupLocation</last-pattern>
+      <last-pattern>where</last-pattern>
       <last-replace>$pickupLocation['Address']</last-replace>
       <last-substitute>$pickupLocation</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
