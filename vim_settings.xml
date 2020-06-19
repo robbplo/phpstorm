@@ -118,7 +118,7 @@
         <mark key="^" line="52" column="8" />
         <mark key="." line="52" column="7" />
       </file>
-      <file name="/PHP Console" timestamp="1592554068806">
+      <file name="/PHP Console" timestamp="1592554487616">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" timestamp="1592400146648">
@@ -128,8 +128,8 @@
         <mark key="." line="90" column="46" />
         <mark key="^" line="90" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/.env" timestamp="1592298508900">
-        <mark key="[" line="17" column="0" />
+      <file name="$USER_HOME$/projects/materialenservice/.env" timestamp="1592554664702">
+        <mark key="[" line="23" column="34" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="17" column="0" />
@@ -145,9 +145,6 @@
         <mark key="]" line="14" column="60" />
         <mark key="^" line="14" column="62" />
         <mark key="." line="14" column="61" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592299072145">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/infrastructure/Api/DeliveryOptions/PickupLocations.php" timestamp="1592400025908">
         <mark key="[" line="10" column="0" />
@@ -173,6 +170,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/materialenservice/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php" timestamp="1592554447825">
+        <mark key="'" line="82" column="55" />
+      </file>
       <file name="$USER_HOME$/projects/materialenservice/tests/Feature/CatalogEndpointTest.php" timestamp="1592384721816">
         <mark key="[" line="28" column="17" />
         <mark key="]" line="28" column="22" />
@@ -189,7 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
       <jump line="192" column="2" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
       <jump line="193" column="2" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
       <jump line="189" column="5" filename="$USER_HOME$/projects/materialenservice-pwa/layouts/default.vue" />
@@ -289,6 +288,7 @@
       <jump line="54" column="4" filename="$USER_HOME$/projects/materialenservice/api/v1/Controllers/CatalogController.php" />
       <jump line="62" column="0" filename="$USER_HOME$/projects/materialenservice/api/v1/Controllers/CatalogController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/materialenservice/api/v1/Controllers/CatalogController.php" />
+      <jump line="82" column="55" filename="$USER_HOME$/projects/materialenservice/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
