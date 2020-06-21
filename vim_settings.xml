@@ -139,6 +139,18 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/pitchbitch/src/App.vue" timestamp="1592771799238">
+        <mark key="[" line="11" column="41" />
+        <mark key="]" line="11" column="41" />
+        <mark key="^" line="11" column="58" />
+        <mark key="." line="11" column="41" />
+      </file>
+      <file name="$USER_HOME$/projects/pitchbitch/src/data/notes.js" timestamp="1592770271246">
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="19" column="30" />
+        <mark key="." line="19" column="29" />
+        <mark key="^" line="19" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/attendance/domain/MeetingExporter.php" timestamp="1592574197171">
         <mark key="[" line="48" column="24" />
         <mark key="]" line="48" column="23" />
@@ -148,19 +160,9 @@
       <file name="/Dummy.txt" timestamp="1592570116214">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/infrastructure/Api/DeliveryOptions/PickupLocations.php" timestamp="1592400025908">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/materialenservice/app/Order.php" timestamp="1592466432025">
         <mark key="'" line="65" column="0" />
         <mark key="^" line="18" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/materialenservice/infrastructure/Api/DeliveryOptions/PostNL.php" timestamp="1592400028594">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php" timestamp="1592554447825">
         <mark key="'" line="82" column="55" />
@@ -174,7 +176,6 @@
       <file name="$USER_HOME$/projects/SmitAuth/lib/vendor/smit/smit-sdk-php/src/Auth/Auth.php" timestamp="1592553289165" />
     </filemarks>
     <jumps>
-      <jump line="113" column="0" filename="$USER_HOME$/projects/auth.smit/app/Nova/OAuthScope.php" />
       <jump line="32" column="39" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
       <jump line="59" column="48" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
@@ -274,51 +275,52 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
       <jump line="123" column="0" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
       <jump line="92" column="27" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
+      <jump line="7" column="0" filename="$USER_HOME$/projects/pitchbitch/src/data/notes.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2MK</text>
+      <register name="&quot;" type="4">
+        <text>notes.getRandom()</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>notes.getRandom()</text>
       </register>
       <register name="/" type="4">
         <text>where</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGFydGljaXBhbnRzLT53aGVyZSgnZXh0ZXJuYWxfYXV0aF9pZCcsICRleHRlcm5hbEF1dGhJZCkKICAgICAgICAgICAgLT5maXJzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm9zY2lsbGF0b3Iuc3RvcCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2MK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRudW1iZXJUeXBlcyA9IGNvbGxlY3QoWwovLyAgICAgICAgICAgICdiaWdfbnVtYmVyJywKLy8gICAgICAgICAgICAnbnZ2cG9fbnVtYmVyJywKLy8gICAgICAgICAgICAndm52bl9udW1iZXInLAovLyAgICAgICAgICAgICduYXBhX251bWJlcicsCi8vICAgICAgICAgICAgJ2thYml6X251bWJlcicsCi8vICAgICAgICBdKTsKCg==</text>
+        <text encoding="base64">ICAiQSI6IDQ0MCwKICAiQSMgLyBCYiI6IDQ2Ni4xNjQsCiAgIkIiOiA0OTMuODgzLAogICJDIjogNTIzLjI1MSwKICAiQyMgLyBEYiI6IDU1NC4zNjUsCiAgIkQiOiA1ODcuMzMsCiAgIkQjIC8gRWIiOiA2MjIuMjU0LAogICJFIjogNjU5LjI1NSwKICAiRiI6IDY5OC40NTYsCiAgIkYjIC8gR2IiOiA3MzkuOTg5LAogICJHIjogNzgzLjk5MSwKICAiRyMgLyBBYiI6IDgzMC42MDksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFycmF5OjEgWwovLyAgICAgICAgIjcxNWY5NzIwMmQ2MzExZWE4NWUwNjVkZDg4NDkxNjAwIiA9PiBhcnJheToyIFsKLy8gICAgICAgICAgICAib25la2V5X2lkIiA9PiAiMTIzNDU2Nzg5MTAiCi8vICAgICAgICAgICAgImJpZ19udW1iZXIiID0+ICIxMjM0NTY3ODkxMCIKLy8gICAgICAgICAgXQovLyAgICAgICAgXQo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgXSk7Ci8vICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBvc2NpbGxhdG9yLnN0b3AoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgovLyAgICAgICAgJHVzZXJBdHRyaWJ1dGVzID0gY29sbGVjdCgkc3luY0pzb24pCi8vICAgICAgICAgICAgLT5tYXBXaXRoS2V5cyhmdW5jdGlvbiAoJGF0dHJpYnV0ZXMsICR1c2VySWQpIHVzZSAoJG51bWJlclR5cGVzKSB7Ci8vICAgICAgICAgICAgICAgICRmaWx0ZXJlZEF0dHJpYnV0ZXMgPSBjb2xsZWN0KCRhdHRyaWJ1dGVzKQovLyAgICAgICAgICAgICAgICAgICAgLT5maWx0ZXIoZnVuY3Rpb24gKCR2YWx1ZSwgJGtleSkgdXNlICgkbnVtYmVyVHlwZXMpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gJG51bWJlclR5cGVzLT5jb250YWlucygka2V5KTsKLy8gICAgICAgICAgICAgICAgICAgIH0pLT50b0FycmF5KCk7Ci8vICAgICAgICAgICAgICAgIHJldHVybiBbCi8vICAgICAgICAgICAgICAgICAgICAkdXNlcklkID0+ICRmaWx0ZXJlZEF0dHJpYnV0ZXMKLy8gICAgICAgICAgICAgICAgXTsKLy8gICAgICAgICAgICB9KS0+ZmlsdGVyKCk7Ci8vCi8vICAgICAgICAkdXNlckF0dHJpYnV0ZXMtPmVhY2goZnVuY3Rpb24gKCRhdHRyaWJ1dGVzLCAkZXh0ZXJuYWxBdXRoSWQpIHVzZSAoJHBhcnRpY2lwYW50cykgewovLyAgICAgICAgICAgIGlmIChjb3VudCgkYXR0cmlidXRlcykgPT09IDApIHsKLy8gICAgICAgICAgICAgICAgJHJlZ2lzdHJhdGlvblR5cGUgPSBudWxsOwovLyAgICAgICAgICAgICAgICAkcmVnaXN0cmF0aW9uTnVtYmVyID0gbnVsbDsKLy8gICAgICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgICAgICAkcmVnaXN0cmF0aW9uVHlwZSA9IGFycmF5X2tleXMoJGF0dHJpYnV0ZXMpWzBdOwovLyAgICAgICAgICAgICAgICAkcmVnaXN0cmF0aW9uTnVtYmVyID0gYXJyYXlfdmFsdWVzKCRhdHRyaWJ1dGVzKVswXTsKLy8gICAgICAgICAgICB9Ci8vCi8vICAgICAgICAgICAgJHBhcnRpY2lwYW50cy0+d2hlcmUoJ2V4dGVybmFsX2F1dGhfaWQnLCAkZXh0ZXJuYWxBdXRoSWQpCi8vICAgICAgICAgICAgICAgIC0+Zmlyc3QoKQovLyAgICAgICAgICAgICAgICAtPnVwZGF0ZShbCi8vICAgICAgICAgICAgICAgICAgICAncmVnaXN0cmF0aW9uX3R5cGUnID0+ICRyZWdpc3RyYXRpb25UeXBlLAovLyAgICAgICAgICAgICAgICAgICAgJ3JlZ2lzdHJhdGlvbl9udW1iZXInID0+ICRyZWdpc3RyYXRpb25OdW1iZXIsCg==</text>
+        <text encoding="base64">ICAgICAgb3NjaWxsYXRvcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR1cGRhdGVzKTsK</text>
+        <text encoding="base64">ICAgICAgb3NjaWxsYXRvcjogbnVsbCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGtleSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm9zY2lsbGF0b3Iuc3RvcCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlcklkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm9zY2lsbGF0b3Iuc3RvcCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyRwaWNrdXBMb2NhdGlvbi8kcGlja3VwTG9jYXRpb25bJ0FkZHJlc3MnXS9n</text>
