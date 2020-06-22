@@ -91,40 +91,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/materialenservice/api/v1/Controllers/CatalogController.php" timestamp="1592495081758">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/materialenservice/infrastructure/Api/Nicoud.php" timestamp="1592475512548">
-        <mark key="[" line="94" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1592560196963">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
-      </file>
-      <file name="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" timestamp="1592574136386">
-        <mark key="[" line="49" column="29" />
-        <mark key="]" line="49" column="29" />
-        <mark key="^" line="73" column="28" />
-        <mark key="." line="49" column="29" />
-      </file>
-      <file name="$USER_HOME$/projects/attendance/database/migrations/2020_06_19_143840_add_onekey_column_to_participants_table.php" timestamp="1592570448183">
-        <mark key="[" line="28" column="43" />
-        <mark key="]" line="28" column="43" />
-        <mark key="^" line="28" column="43" />
-        <mark key="." line="28" column="42" />
       </file>
       <file name="$USER_HOME$/projects/attendance/app/Exports/FutureAttendancesExport.php" timestamp="1592574222357">
         <mark key="[" line="65" column="23" />
         <mark key="]" line="65" column="24" />
         <mark key="." line="65" column="23" />
         <mark key="^" line="65" column="24" />
-      </file>
-      <file name="/PHP Console" timestamp="1592568751274">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/.env" timestamp="1592554664702">
         <mark key="[" line="23" column="34" />
@@ -145,6 +121,35 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="21" column="22" />
       </file>
+      <file name="$USER_HOME$/projects/SmitAuth/lib/vendor/smit/smit-sdk-php/src/Auth/Auth.php" timestamp="1592553289165" />
+      <file name="$USER_HOME$/projects/pitchbitch/src/data/oscillator.js" timestamp="1592811540606">
+        <mark key="'" line="29" column="13" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/materialenservice/api/v1/Controllers/CatalogController.php" timestamp="1592495081758">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/prj-klv-occasion-viewer/src/main.js" timestamp="1592811822566" />
+      <file name="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" timestamp="1592574136386">
+        <mark key="[" line="49" column="29" />
+        <mark key="]" line="49" column="29" />
+        <mark key="^" line="73" column="28" />
+        <mark key="." line="49" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/database/migrations/2020_06_19_143840_add_onekey_column_to_participants_table.php" timestamp="1592570448183">
+        <mark key="[" line="28" column="43" />
+        <mark key="]" line="28" column="43" />
+        <mark key="^" line="28" column="43" />
+        <mark key="." line="28" column="42" />
+      </file>
+      <file name="/PHP Console" timestamp="1592568751274">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/attendance/domain/MeetingExporter.php" timestamp="1592574197171">
         <mark key="[" line="48" column="24" />
         <mark key="]" line="48" column="23" />
@@ -153,10 +158,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1592570116214">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Order.php" timestamp="1592466432025">
-        <mark key="'" line="65" column="0" />
-        <mark key="^" line="18" column="24" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php" timestamp="1592554447825">
         <mark key="'" line="82" column="55" />
@@ -167,14 +168,7 @@
         <mark key="." line="62" column="55" />
         <mark key="^" line="62" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/SmitAuth/lib/vendor/smit/smit-sdk-php/src/Auth/Auth.php" timestamp="1592553289165" />
-      <file name="$USER_HOME$/projects/pitchbitch/src/data/oscillator.js" timestamp="1592811529970">
-        <mark key="'" line="29" column="13" />
-        <mark key="[" line="31" column="11" />
-        <mark key="]" line="24" column="27" />
-        <mark key="." line="24" column="26" />
-        <mark key="^" line="24" column="27" />
-      </file>
+      <file name="$USER_HOME$/projects/prj-klv-occasion-viewer/src/components/OccasionViewer.vue" timestamp="1592812473471" />
     </filemarks>
     <jumps>
       <jump line="59" column="48" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
@@ -282,7 +276,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9zY2lsbGF0b3Iuc2V0Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -294,34 +288,34 @@
         <text encoding="base64">ICAgICAgb3NjaWxsYXRvci52b2x1bWUudmFsdWUgPSAtMjAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9zY2lsbGF0b3Iuc2V0Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3NjCg==</text>
+        <text encoding="base64">ICAgIG9zY2lsbGF0b3Iuc2V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobm90ZXMuZ2V0KCkpCiAgICAgIG9zY2lsbGF0b3Iudm9sdW1lLnZhbHVlID0gLTIwCg==</text>
+        <text encoding="base64">b3NjCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGE6ICgpID0+ICh7CiAgICB9KSwK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobm90ZXMuZ2V0KCkpCiAgICAgIG9zY2lsbGF0b3Iudm9sdW1lLnZhbHVlID0gLTIwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhdGE6ICgpID0+ICh7CiAgICB9KSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBzZXRGcmVxdWVuY3koKQo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBvc2NpbGxhdG9yID0gbmV3IFRvbmUuT3NjaWxsYXRvcig0NDAsICJzaW5lIikudG9NYXN0ZXIoKTsK</text>
+        <text encoding="base64">ICBjb25zdCBzZXRGcmVxdWVuY3koKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2tleS9ub3RlL2c=</text>
