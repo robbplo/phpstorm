@@ -168,7 +168,12 @@
         <mark key="." line="62" column="55" />
         <mark key="^" line="62" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/prj-klv-occasion-viewer/src/components/OccasionViewer.vue" timestamp="1592812473471" />
+      <file name="$USER_HOME$/projects/prj-klv-occasion-viewer/src/components/OccasionViewer.vue" timestamp="1592814332258">
+        <mark key="[" line="256" column="27" />
+        <mark key="]" line="256" column="27" />
+        <mark key="." line="256" column="27" />
+        <mark key="^" line="244" column="33" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="59" column="48" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
@@ -275,11 +280,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+      <register name="&quot;" type="4">
+        <text>displayedOccasions</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>displayedOccasions</text>
       </register>
       <register name="/" type="4">
         <text>key</text>
