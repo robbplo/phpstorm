@@ -7,13 +7,11 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>click</entry>
         <entry>order</entry>
         <entry>Pa</entry>
         <entry>contactperson</entry>
         <entry>details</entry>
         <entry>if</entry>
-        <entry>&quot;</entry>
         <entry>pickup</entry>
         <entry>contact</entry>
         <entry>name</entry>
@@ -27,10 +25,10 @@
         <entry>$pickupLocation</entry>
         <entry>part</entry>
         <entry>where</entry>
+        <entry>&quot;</entry>
+        <entry>key</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
-        <entry>s/shipping/billing/g</entry>
         <entry>s/1/0/g</entry>
         <entry>s/-/_/g</entry>
         <entry>s/'/&quot;/g</entry>
@@ -49,6 +47,8 @@
         <entry encoding="base64">JzwsJz5zL2RlbGl2ZXJ5X2RhdGUvcGlja3VwX3BvaW50L2c=</entry>
         <entry>s/button/element/g</entry>
         <entry encoding="base64">JzwsJz5zLyRwaWNrdXBMb2NhdGlvbi8kcGlja3VwTG9jYXRpb25bJ0FkZHJlc3MnXS9n</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry encoding="base64">JzwsJz5zL2tleS9ub3RlL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -126,30 +126,24 @@
       <file name="/PHP Console" timestamp="1592568751274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" timestamp="1592400146648">
-        <mark key="'" line="122" column="8" />
-        <mark key="[" line="90" column="53" />
-        <mark key="]" line="90" column="47" />
-        <mark key="." line="90" column="46" />
-        <mark key="^" line="90" column="47" />
-      </file>
       <file name="$USER_HOME$/projects/materialenservice/.env" timestamp="1592554664702">
         <mark key="[" line="23" column="34" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pitchbitch/src/App.vue" timestamp="1592771799238">
-        <mark key="[" line="11" column="41" />
-        <mark key="]" line="11" column="41" />
-        <mark key="^" line="11" column="58" />
-        <mark key="." line="11" column="41" />
-      </file>
-      <file name="$USER_HOME$/projects/pitchbitch/src/data/notes.js" timestamp="1592806384476">
-        <mark key="[" line="17" column="5" />
+      <file name="$USER_HOME$/projects/pitchbitch/src/App.vue" timestamp="1592811350608">
+        <mark key="[" line="20" column="28" />
         <mark key="]" line="20" column="27" />
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="27" />
+      </file>
+      <file name="$USER_HOME$/projects/pitchbitch/src/data/notes.js" timestamp="1592811051396">
+        <mark key="'" line="13" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="21" column="22" />
       </file>
       <file name="$USER_HOME$/projects/attendance/domain/MeetingExporter.php" timestamp="1592574197171">
         <mark key="[" line="48" column="24" />
@@ -174,10 +168,15 @@
         <mark key="^" line="62" column="55" />
       </file>
       <file name="$USER_HOME$/projects/SmitAuth/lib/vendor/smit/smit-sdk-php/src/Auth/Auth.php" timestamp="1592553289165" />
+      <file name="$USER_HOME$/projects/pitchbitch/src/data/oscillator.js" timestamp="1592811529970">
+        <mark key="'" line="29" column="13" />
+        <mark key="[" line="31" column="11" />
+        <mark key="]" line="24" column="27" />
+        <mark key="." line="24" column="26" />
+        <mark key="^" line="24" column="27" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="39" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
-      <jump line="5" column="0" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
       <jump line="59" column="48" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
       <jump line="23" column="25" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/attendance/app/Attendance.php" />
@@ -276,64 +275,66 @@
       <jump line="123" column="0" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
       <jump line="92" column="27" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
       <jump line="7" column="0" filename="$USER_HOME$/projects/pitchbitch/src/data/notes.js" />
+      <jump line="14" column="12" filename="$USER_HOME$/projects/pitchbitch/src/data/notes.js" />
+      <jump line="27" column="13" filename="$USER_HOME$/projects/pitchbitch/src/data/oscillator.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Random</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG9zY2lsbGF0b3Iuc2V0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Random</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>where</text>
+        <text>key</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9zY2lsbGF0b3Iuc3RvcCgpCg==</text>
+        <text encoding="base64">ICAgICAgb3NjaWxsYXRvci52b2x1bWUudmFsdWUgPSAtMjAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG9zY2lsbGF0b3Iuc2V0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">b3NjCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiQSI6IDQ0MCwKICAiQSMgLyBCYiI6IDQ2Ni4xNjQsCiAgIkIiOiA0OTMuODgzLAogICJDIjogNTIzLjI1MSwKICAiQyMgLyBEYiI6IDU1NC4zNjUsCiAgIkQiOiA1ODcuMzMsCiAgIkQjIC8gRWIiOiA2MjIuMjU0LAogICJFIjogNjU5LjI1NSwKICAiRiI6IDY5OC40NTYsCiAgIkYjIC8gR2IiOiA3MzkuOTg5LAogICJHIjogNzgzLjk5MSwKICAiRyMgLyBBYiI6IDgzMC42MDksCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobm90ZXMuZ2V0KCkpCiAgICAgIG9zY2lsbGF0b3Iudm9sdW1lLnZhbHVlID0gLTIwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgIGRhdGE6ICgpID0+ICh7CiAgICB9KSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvc2NpbGxhdG9yLnN0b3AoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgb3NjaWxsYXRvcgo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgb3NjaWxsYXRvcjogbnVsbCwK</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9zY2lsbGF0b3Iuc3RvcCgpCg==</text>
+        <text encoding="base64">ICBjb25zdCBzZXRGcmVxdWVuY3koKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9zY2lsbGF0b3Iuc3RvcCgpCg==</text>
+        <text encoding="base64">ICBjb25zdCBvc2NpbGxhdG9yID0gbmV3IFRvbmUuT3NjaWxsYXRvcig0NDAsICJzaW5lIikudG9NYXN0ZXIoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyRwaWNrdXBMb2NhdGlvbi8kcGlja3VwTG9jYXRpb25bJ0FkZHJlc3MnXS9n</text>
+        <text encoding="base64">JzwsJz5zL2tleS9ub3RlL2c=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>where</last-search>
+      <last-search>key</last-search>
       <last-offset />
-      <last-pattern>where</last-pattern>
-      <last-replace>$pickupLocation['Address']</last-replace>
-      <last-substitute>$pickupLocation</last-substitute>
+      <last-pattern>key</last-pattern>
+      <last-replace>note</last-replace>
+      <last-substitute>key</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
