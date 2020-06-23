@@ -163,7 +163,7 @@
       <file name="/Dummy.txt" timestamp="1592570116214">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/domain/SmitAuth.php" timestamp="1592901587949">
+      <file name="$USER_HOME$/projects/attendance/domain/SmitAuth.php" timestamp="1592901733917">
         <mark key="[" line="42" column="49" />
         <mark key="]" line="42" column="57" />
         <mark key="." line="42" column="56" />
@@ -181,14 +181,15 @@
         <mark key="^" line="28" column="39" />
         <mark key="." line="28" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/prj-klv-occasion-viewer/src/components/OccasionViewer.vue" timestamp="1592827385753">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/projects/prj-klv-occasion-viewer/src/components/OccasionViewer.vue" timestamp="1592902104789">
+        <mark key="'" line="359" column="21" />
+        <mark key="[" line="4" column="54" />
+        <mark key="]" line="4" column="55" />
+        <mark key="." line="4" column="54" />
+        <mark key="^" line="4" column="55" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="31" filename="$USER_HOME$/projects/auth.smit/vendor/league/oauth2-server/src/AuthorizationServer.php" />
       <jump line="80" column="0" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/OrderController.php" />
       <jump line="8" column="106" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
       <jump line="33" column="16" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
@@ -288,6 +289,7 @@
       <jump line="42" column="9" filename="$USER_HOME$/projects/vetclass/app/Http/Controllers/Frontend/User/EvaluationController.php" />
       <jump line="28" column="4" filename="$USER_HOME$/projects/attendance/app/Participant.php" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/attendance/app/Exports/FutureAttendancesExport.php" />
+      <jump line="359" column="21" filename="$USER_HOME$/projects/prj-klv-occasion-viewer/src/components/OccasionViewer.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -351,7 +353,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
