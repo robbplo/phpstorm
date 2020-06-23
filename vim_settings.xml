@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>order</entry>
         <entry>Pa</entry>
         <entry>contactperson</entry>
         <entry>details</entry>
@@ -27,9 +26,9 @@
         <entry>where</entry>
         <entry>&quot;</entry>
         <entry>key</entry>
+        <entry>result</entry>
       </history-search>
       <history-cmd>
-        <entry>s/1/0/g</entry>
         <entry>s/-/_/g</entry>
         <entry>s/'/&quot;/g</entry>
         <entry encoding="base64">JzwsJz5zL3NldmVyaXR5X2lkL2NvbXBvbmVudC9n</entry>
@@ -49,6 +48,7 @@
         <entry encoding="base64">JzwsJz5zLyRwaWNrdXBMb2NhdGlvbi8kcGlja3VwTG9jYXRpb25bJ0FkZHJlc3MnXS9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zL2tleS9ub3RlL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3Jlc3VsdC9lbGVhcm5pbmcvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -150,6 +150,12 @@
       <file name="/PHP Console" timestamp="1592568751274">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/vetclass/app/Http/Controllers/Frontend/User/EvaluationController.php" timestamp="1592896719123">
+        <mark key="'" line="40" column="9" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/attendance/domain/MeetingExporter.php" timestamp="1592574197171">
         <mark key="[" line="48" column="24" />
         <mark key="]" line="48" column="23" />
@@ -158,9 +164,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1592570116214">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/materialenservice/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php" timestamp="1592554447825">
-        <mark key="'" line="82" column="55" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/app/Nova/Order.php" timestamp="1592561223533">
         <mark key="[" line="62" column="55" />
@@ -175,7 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="25" filename="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/attendance/app/Attendance.php" />
       <jump line="34" column="24" filename="$USER_HOME$/projects/auth.smit/vendor/league/oauth2-server/src/AuthorizationServer.php" />
       <jump line="190" column="31" filename="$USER_HOME$/projects/auth.smit/vendor/league/oauth2-server/src/AuthorizationServer.php" />
@@ -275,64 +277,65 @@
       <jump line="14" column="12" filename="$USER_HOME$/projects/pitchbitch/src/data/notes.js" />
       <jump line="27" column="13" filename="$USER_HOME$/projects/pitchbitch/src/data/oscillator.js" />
       <jump line="54" column="22" filename="$USER_HOME$/projects/prj-klv-occasion-viewer/src/components/OccasionViewer.vue" />
+      <jump line="42" column="9" filename="$USER_HOME$/projects/vetclass/app/Http/Controllers/Frontend/User/EvaluationController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgIDxkaXYgY2xhc3M9InVrLXdpZHRoLTEtMSB1ay1tYXJnaW4tc21hbGwiPgogICAgICAgIDxkaXYgY2xhc3M9InVrLWFsaWduLXJpZ2h0IHVrLW1hcmdpbi1yaWdodCI+CiAgICAgICAgICA8c3Bhbj5Tb3J0ZXJlbiBvcDogPC9zcGFuPgogICAgICAgICAgPHNwYW4gY2xhc3M9InVrLWJ1dHRvbiB1ay1idXR0b24tbGluayI+cHJpanMgPC9zcGFuPgogICAgICAgICAgCiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgoKCg==</text>
+        <text encoding="base64">ICAgICAgICAkZWxlYXJuaW5nID0gJHRoaXMtPmlzQWxyZWFkeUV2YWx1YXRlZCgkdG9rZW4pOwoK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHVrLXBhZGRpbmc=</text>
       </register>
       <register name="/" type="4">
-        <text>key</text>
+        <text>result</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgb3NjaWxsYXRvci52b2x1bWUudmFsdWUgPSAtMjAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgIDxkaXYgY2xhc3M9InVrLXdpZHRoLTEtMSB1ay1tYXJnaW4tc21hbGwiPgogICAgICAgIDxkaXYgY2xhc3M9InVrLWFsaWduLXJpZ2h0IHVrLW1hcmdpbi1yaWdodCI+CiAgICAgICAgICA8c3Bhbj5Tb3J0ZXJlbiBvcDogPC9zcGFuPgogICAgICAgICAgPHNwYW4gY2xhc3M9InVrLWJ1dHRvbiB1ay1idXR0b24tbGluayI+cHJpanMgPC9zcGFuPgogICAgICAgICAgCiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgoKCg==</text>
+        <text encoding="base64">ICAgICAgICAkZWxlYXJuaW5nID0gJHRoaXMtPmlzQWxyZWFkeUV2YWx1YXRlZCgkdG9rZW4pOwoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gT25saW5lTGVhcm5pbmc6OndoZXJlSWQoJHRva2VuKQogICAgICAgICAgICAtPndoZXJlVXNlcklkKGFjY2VzcygpLT51c2VyKCktPmlkKQogICAgICAgICAgICAtPndoZXJlTnVsbCgnZXZhbHVhdGVkX2F0JykKICAgICAgICAgICAgLT5maXJzdCgpOwoKICAgICAgICBpZiAoZW1wdHkoJHJlc3VsdCkpIHsKICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCktPnJvdXRlKCdmcm9udGVuZC51c2VyLmVsZWFybmluZ3MuZXZhbHVhdGUuaW5kZXgnKQogICAgICAgICAgICAgICAgLT53aXRoRmxhc2hEYW5nZXIoJ0RlemUgZS1sZWFybmluZyBoZWVmdCB1IG1vZ2VsaWprIGFsIGVlcmRlciBnZcOrdmFsdWVlcmQnKQogICAgICAgICAgICAgICAgLT5zZW5kKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">CiAgICAgIDxkaXYgY2xhc3M9InVrLXdpZHRoLTEtMSB1ay1tYXJnaW4tc21hbGwiPgogICAgICAgIDxkaXYgY2xhc3M9InVrLWFsaWduLXJpZ2h0IHVrLW1hcmdpbi1yaWdodCI+CiAgICAgICAgICA8c3Bhbj5Tb3J0ZXJlbiBvcDogPC9zcGFuPgogICAgICAgICAgPHNwYW4gY2xhc3M9InVrLWJ1dHRvbiB1ay1idXR0b24tbGluayI+cHJpanMgPC9zcGFuPgogICAgICAgICAgCiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgoKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8c3Bhbj5Tb3J0ZXJlbiBvcDogPC9zcGFuPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">QXV0b21hdGlzY2ggY29tcGlsZW4gbWV0IGhvdCBtb2R1bGUgcmVsb2FkaW5nOgoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+CgogICAgICA8ZGl2Pgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvZGl2PgogICAgCiAgICA8ZGl2Pgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8c3Bhbj5Tb3J0ZXJlbiBvcDogPC9zcGFuPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QXV0b21hdGlzY2ggY29tcGlsZW4gbWV0IGhvdCBtb2R1bGUgcmVsb2FkaW5nOgoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgPC9kaXY+CgogICAgICA8ZGl2Pgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDwvZGl2PgogICAgCiAgICA8ZGl2Pgo=</text>
+      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2tleS9ub3RlL2c=</text>
+        <text encoding="base64">JzwsJz5zL3Jlc3VsdC9lbGVhcm5pbmcvZw==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>key</last-search>
+      <last-search>result</last-search>
       <last-offset />
-      <last-pattern>key</last-pattern>
-      <last-replace>note</last-replace>
-      <last-substitute>key</last-substitute>
+      <last-pattern>result</last-pattern>
+      <last-replace>elearning</last-replace>
+      <last-substitute>result</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
