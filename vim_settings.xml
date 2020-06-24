@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Pa</entry>
         <entry>contactperson</entry>
         <entry>details</entry>
         <entry>if</entry>
@@ -27,9 +26,9 @@
         <entry>&quot;</entry>
         <entry>key</entry>
         <entry>result</entry>
+        <entry>pe_online_id</entry>
       </history-search>
       <history-cmd>
-        <entry>s/-/_/g</entry>
         <entry>s/'/&quot;/g</entry>
         <entry encoding="base64">JzwsJz5zL3NldmVyaXR5X2lkL2NvbXBvbmVudC9n</entry>
         <entry>s/`/'/g</entry>
@@ -49,6 +48,7 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zL2tleS9ub3RlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3Jlc3VsdC9lbGVhcm5pbmcvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3BlX29ubGluZV9pZC92ZWV2YV9pZC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -103,13 +103,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/pitchbitch/src/data/notes.js" timestamp="1592811051396">
-        <mark key="'" line="13" column="12" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="21" column="22" />
-      </file>
+      <file name="$USER_HOME$/projects/attendance/app/Policies/AttendancePolicy.php" timestamp="1592985369453" />
       <file name="$USER_HOME$/projects/prj-klv-occasion-viewer/README.md" timestamp="1592826070892">
         <mark key="[" line="2" column="48" />
         <mark key="]" line="2" column="47" />
@@ -130,21 +124,12 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vetclass/app/Http/Controllers/Backend/Accreditation/AccreditationController.php" timestamp="1592816061173" />
-      <file name="$USER_HOME$/projects/attendance/database/migrations/2020_06_19_143840_add_onekey_column_to_participants_table.php" timestamp="1592570448183">
-        <mark key="[" line="28" column="43" />
-        <mark key="]" line="28" column="43" />
-        <mark key="^" line="28" column="43" />
-        <mark key="." line="28" column="42" />
-      </file>
       <file name="$USER_HOME$/projects/attendance/app/Participant.php" timestamp="1592899248513">
         <mark key="'" line="32" column="4" />
         <mark key="[" line="30" column="42" />
         <mark key="]" line="30" column="42" />
         <mark key="." line="30" column="41" />
         <mark key="^" line="30" column="42" />
-      </file>
-      <file name="/PHP Console" timestamp="1592568751274">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vetclass/app/Http/Controllers/Frontend/User/EvaluationController.php" timestamp="1592897036375">
         <mark key="'" line="40" column="9" />
@@ -159,20 +144,18 @@
         <mark key="^" line="49" column="58" />
         <mark key="." line="49" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592570116214">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/attendance/domain/SmitAuth.php" timestamp="1592909463963">
         <mark key="[" line="42" column="49" />
         <mark key="]" line="42" column="57" />
         <mark key="." line="42" column="56" />
         <mark key="^" line="42" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/app/Nova/Order.php" timestamp="1592561223533">
-        <mark key="[" line="62" column="55" />
-        <mark key="]" line="62" column="55" />
-        <mark key="." line="62" column="55" />
-        <mark key="^" line="62" column="55" />
+      <file name="$USER_HOME$/projects/attendance/app/Nova/Meeting.php" timestamp="1592985798946">
+        <mark key="'" line="76" column="55" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="72" column="56" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/projects/attendance/database/migrations/2020_06_23_094158_add_address_column_to_participants_table.php" timestamp="1592898260594">
         <mark key="[" line="28" column="41" />
@@ -180,6 +163,7 @@
         <mark key="^" line="28" column="39" />
         <mark key="." line="28" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/attendance/app/Policies/MeetingPolicy.php" timestamp="1592985295389" />
       <file name="$USER_HOME$/projects/prj-klv-occasion-viewer/src/components/OccasionViewer.vue" timestamp="1592902104789">
         <mark key="'" line="359" column="21" />
         <mark key="[" line="4" column="54" />
@@ -189,7 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="0" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/OrderController.php" />
       <jump line="8" column="106" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
       <jump line="33" column="16" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
       <jump line="21" column="0" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" />
@@ -289,64 +272,65 @@
       <jump line="28" column="4" filename="$USER_HOME$/projects/attendance/app/Participant.php" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/attendance/app/Exports/FutureAttendancesExport.php" />
       <jump line="359" column="21" filename="$USER_HOME$/projects/prj-klv-occasion-viewer/src/components/OccasionViewer.vue" />
+      <jump line="77" column="55" filename="$USER_HOME$/projects/attendance/app/Nova/Meeting.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+cnVsZXMoJ3VuaXF1ZTptZWV0aW5ncyx2ZWV2YV9pZCcpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JHRoaXMtPmFkZHJlc3MgPT09IG51bGw=</text>
       </register>
       <register name="/" type="4">
-        <text>result</text>
+        <text>pe_online_id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGVsZWFybmluZyA9PT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+Y3JlYXRpb25SdWxlcyhbCiAgICAgICAgICAgICAgICAgICAgJ3JlcXVpcmVkJywKICAgICAgICAgICAgICAgICAgICBSdWxlOjp1bmlxdWUoJ21lZXRpbmdzJywgJ3BlX29ubGluZV9pZCcpLAogICAgICAgICAgICAgICAgXSktPnVwZGF0ZVJ1bGVzKFsKICAgICAgICAgICAgICAgICAgICAncmVxdWlyZWQnLAogICAgICAgICAgICAgICAgICAgIFJ1bGU6OnVuaXF1ZSgnbWVldGluZ3MnLCAncGVfb25saW5lX2lkJykKICAgICAgICAgICAgICAgICAgICAgICAgLT5pZ25vcmUoJHRoaXMtPnBlX29ubGluZV9pZCwgJ3BlX29ubGluZV9pZCcpLAogICAgICAgICAgICAgICAgXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+cnVsZXMoJ3VuaXF1ZTptZWV0aW5ncyx2ZWV2YV9pZCcpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">a2trCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+cmVxdWlyZWQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gZGVidWdnZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHN0eWxlPgo=</text>
+        <text encoding="base64">a2trCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cjwvc3R5bGU+Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">PHN0eWxlPgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS0gICAgPHNjcmlwdCBzcmM9Imh0dHBzOi8vdW5wa2cuY29tL0B3ZWJjb21wb25lbnRzL3dlYmNvbXBvbmVudHNqc0BeMi93ZWJjb21wb25lbnRzLWJ1bmRsZS5qcyI+PC9zY3JpcHQ+LS0+Cg==</text>
+        <text encoding="base64">Cjwvc3R5bGU+Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJhbmRvbUluZGV4KTsK</text>
+        <text encoding="base64">ICAgIDwhLS0gICAgPHNjcmlwdCBzcmM9Imh0dHBzOi8vdW5wa2cuY29tL0B3ZWJjb21wb25lbnRzL3dlYmNvbXBvbmVudHNqc0BeMi93ZWJjb21wb25lbnRzLWJ1bmRsZS5qcyI+PC9zY3JpcHQ+LS0+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3Jlc3VsdC9lbGVhcm5pbmcvZw==</text>
+        <text encoding="base64">JzwsJz5zL3BlX29ubGluZV9pZC92ZWV2YV9pZC9n</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>result</last-search>
+      <last-search>pe_online_id</last-search>
       <last-offset />
-      <last-pattern>result</last-pattern>
-      <last-replace>elearning</last-replace>
-      <last-substitute>result</last-substitute>
+      <last-pattern>pe_online_id</last-pattern>
+      <last-replace>veeva_id</last-replace>
+      <last-substitute>pe_online_id</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
