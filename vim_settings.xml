@@ -116,6 +116,11 @@
       <file name="$USER_HOME$/projects/attendance/app/Meeting.php" timestamp="1593083755230">
         <mark key="'" line="82" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/attendance/.env" timestamp="1593089342215">
+        <mark key="[" line="26" column="10" />
+        <mark key="]" line="26" column="10" />
+        <mark key="." line="26" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/attendance/tests/Feature/CreditAttendanceTest.php" timestamp="1593085448758">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="71" column="48" />
@@ -146,7 +151,7 @@
         <mark key="^" line="8" column="6" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1593083863098">
+      <file name="/PHP Console" timestamp="1593089088142">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/attendance/app/Exceptions/AccreditationException.php" timestamp="1593084461032">
@@ -186,12 +191,6 @@
         <mark key="]" line="155" column="0" />
         <mark key="^" line="227" column="17" />
         <mark key="." line="155" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/vetclass/resources/views/frontend/content/contact.blade.php" timestamp="1593072597961">
-        <mark key="[" line="48" column="20" />
-        <mark key="]" line="65" column="43" />
-        <mark key="." line="65" column="42" />
-        <mark key="^" line="65" column="43" />
       </file>
     </filemarks>
     <jumps>
@@ -299,11 +298,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0.0.0.0</text>
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text>0.0.0.0</text>
       </register>
       <register name="/" type="4">
         <text>dr</text>
