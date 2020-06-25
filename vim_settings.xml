@@ -106,12 +106,12 @@
       </file>
       <file name="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" timestamp="1593074776099" />
       <file name="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowCode.vue" timestamp="1593073591414" />
-      <file name="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" timestamp="1593086069634">
-        <mark key="'" line="49" column="168" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="49" column="85" />
+      <file name="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" timestamp="1593087461132">
+        <mark key="'" line="54" column="168" />
+        <mark key="[" line="57" column="23" />
+        <mark key="]" line="57" column="23" />
+        <mark key="^" line="57" column="23" />
+        <mark key="." line="57" column="22" />
       </file>
       <file name="$USER_HOME$/projects/attendance/app/Meeting.php" timestamp="1593083755230">
         <mark key="'" line="82" column="0" />
@@ -139,10 +139,12 @@
         <mark key="^" line="21" column="46" />
         <mark key="." line="21" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/resources/views/mail/attendance/confirmation.blade.php" timestamp="1593086050915">
+      <file name="$USER_HOME$/projects/attendance/resources/views/mail/attendance/confirmation.blade.php" timestamp="1593087493049">
         <mark key="'" line="7" column="49" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="92" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="6" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1593083863098">
         <mark key="[" line="0" column="0" />
@@ -298,10 +300,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>// @todo: conditioneel maken indien mails verstuurd moeten worden zonder accreditatie</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>dr</text>
@@ -310,7 +312,7 @@
         <text encoding="base64">e3stLSBAdG9kbzogY29uZGl0aW9uZWVsIG1ha2VuIGluZGllbiBtYWlscyB2ZXJzdHV1cmQgbW9ldGVuIHdvcmRlbiB6b25kZXIgYWNjcmVkaXRhdGllIC0tfX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -328,28 +330,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISR0aGlzLT5tZWV0aW5nLT5oYXNfYWNjcmVkaXRhdGlvbikgewogICAgICAgICAgICB0aHJvdyBuZXcgQWNjcmVkaXRhdGlvbkV4Y2VwdGlvbigkdGhpcy0+bWVldGluZywgJ01lZXRpbmcgaGFzIG5vIGFjY3JlZGl0YXRpb24nKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">e3stLSBAdG9kbzogY29uZGl0aW9uZWVsIG1ha2VuIGluZGllbiBtYWlscyB2ZXJzdHV1cmQgbW9ldGVuIHdvcmRlbiB6b25kZXIgYWNjcmVkaXRhdGllIC0tfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQm9vbGVhbjo6bWFrZSgnSGFzIGFjY3JlZGl0YXRpb24nKQogICAgICAgICAgICAgICAgLT53aXRoTWV0YShbJ3ZhbHVlJyA9PiB0cnVlXSkKICAgICAgICAgICAgICAgIC0+aGlkZVdoZW5VcGRhdGluZygpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZUhhc0FjY3JlZGl0YXRpb24odHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISR0aGlzLT5tZWV0aW5nLT5oYXNfYWNjcmVkaXRhdGlvbikgewogICAgICAgICAgICB0aHJvdyBuZXcgQWNjcmVkaXRhdGlvbkV4Y2VwdGlvbigkdGhpcy0+bWVldGluZywgJ01lZXRpbmcgaGFzIG5vIGFjY3JlZGl0YXRpb24nKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQm9vbGVhbjo6bWFrZSgnSGFzIGFjY3JlZGl0YXRpb24nKQogICAgICAgICAgICAgICAgLT53aXRoTWV0YShbJ3ZhbHVlJyA9PiB0cnVlXSkKICAgICAgICAgICAgICAgIC0+aGlkZVdoZW5VcGRhdGluZygpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkbWVldGluZ3MgYXMgJG1lZXRpbmcpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZUhhc0FjY3JlZGl0YXRpb24odHJ1ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBdOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkbWVldGluZ3MgYXMgJG1lZXRpbmcpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkbWVldGluZ3MgPSBbCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>s/first/second/g</text>
