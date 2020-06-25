@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>contactperson</entry>
-        <entry>details</entry>
         <entry>if</entry>
         <entry>pickup</entry>
         <entry>contact</entry>
@@ -27,9 +25,10 @@
         <entry>key</entry>
         <entry>result</entry>
         <entry>pe_online_id</entry>
+        <entry>data</entry>
+        <entry>first</entry>
       </history-search>
       <history-cmd>
-        <entry>s/'/&quot;/g</entry>
         <entry encoding="base64">JzwsJz5zL3NldmVyaXR5X2lkL2NvbXBvbmVudC9n</entry>
         <entry>s/`/'/g</entry>
         <entry encoding="base64">JzwsJz5zLzEvMg==</entry>
@@ -49,6 +48,7 @@
         <entry encoding="base64">JzwsJz5zL2tleS9ub3RlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3Jlc3VsdC9lbGVhcm5pbmcvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3BlX29ubGluZV9pZC92ZWV2YV9pZC9n</entry>
+        <entry>s/first/second/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -91,6 +91,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/prj-klv-occasion-viewer/package.json" timestamp="1593078276852" />
       <file name="$USER_HOME$/projects/attendance/app/Exports/FutureAttendancesExport.php" timestamp="1592899049536">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="44" column="47" />
@@ -103,7 +104,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" timestamp="1593073580084" />
+      <file name="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowManual.vue" timestamp="1593074776099" />
       <file name="$USER_HOME$/projects/bij.boehringer/resources/js/components/ProductShowCode.vue" timestamp="1593073591414" />
       <file name="$USER_HOME$/projects/attendance/app/Policies/AttendancePolicy.php" timestamp="1592985369453" />
       <file name="$USER_HOME$/projects/pitchbitch/src/data/oscillator.js" timestamp="1592909757111">
@@ -114,12 +115,6 @@
       </file>
       <file name="$USER_HOME$/projects/materialenservice/infrastructure/Api/Nicoud.php" timestamp="1592987721163">
         <mark key="[" line="94" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" timestamp="1592898418423">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="27" column="8" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/projects/attendance/app/Participant.php" timestamp="1592899248513">
         <mark key="'" line="32" column="4" />
@@ -156,12 +151,12 @@
         <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/projects/attendance/app/Policies/MeetingPolicy.php" timestamp="1592985295389" />
-      <file name="$USER_HOME$/projects/prj-klv-occasion-viewer/src/components/OccasionViewer.vue" timestamp="1592902104789">
-        <mark key="'" line="359" column="21" />
-        <mark key="[" line="4" column="54" />
-        <mark key="]" line="4" column="55" />
-        <mark key="." line="4" column="54" />
-        <mark key="^" line="4" column="55" />
+      <file name="$USER_HOME$/projects/prj-klv-occasion-viewer/src/components/OccasionViewer.vue" timestamp="1593078325957">
+        <mark key="'" line="226" column="6" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="^" line="227" column="17" />
+        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/projects/vetclass/resources/views/frontend/content/contact.blade.php" timestamp="1593072597961">
         <mark key="[" line="48" column="20" />
@@ -171,12 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="106" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
-      <jump line="33" column="16" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" />
-      <jump line="101" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/delivery_options.blade.php" />
-      <jump line="71" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
-      <jump line="37" column="80" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
       <jump line="49" column="89" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
       <jump line="61" column="55" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
       <jump line="22" column="54" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
@@ -271,24 +260,30 @@
       <jump line="12" column="0" filename="$USER_HOME$/projects/attendance/app/Exports/FutureAttendancesExport.php" />
       <jump line="359" column="21" filename="$USER_HOME$/projects/prj-klv-occasion-viewer/src/components/OccasionViewer.vue" />
       <jump line="77" column="55" filename="$USER_HOME$/projects/attendance/app/Nova/Meeting.php" />
+      <jump line="59" column="0" filename="$USER_HOME$/projects/prj-klv-occasion-viewer/src/components/OccasionViewer.vue" />
+      <jump line="139" column="101" filename="$USER_HOME$/projects/prj-klv-occasion-viewer/src/components/OccasionViewer.vue" />
+      <jump line="140" column="101" filename="$USER_HOME$/projects/prj-klv-occasion-viewer/src/components/OccasionViewer.vue" />
+      <jump line="159" column="2" filename="$USER_HOME$/projects/prj-klv-occasion-viewer/src/components/OccasionViewer.vue" />
+      <jump line="195" column="11" filename="$USER_HOME$/projects/prj-klv-occasion-viewer/src/components/OccasionViewer.vue" />
+      <jump line="228" column="6" filename="$USER_HOME$/projects/prj-klv-occasion-viewer/src/components/OccasionViewer.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>pe_online_id</text>
+        <text>first</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+Y3JlYXRpb25SdWxlcyhbCiAgICAgICAgICAgICAgICAgICAgJ3JlcXVpcmVkJywKICAgICAgICAgICAgICAgICAgICBSdWxlOjp1bmlxdWUoJ21lZXRpbmdzJywgJ3BlX29ubGluZV9pZCcpLAogICAgICAgICAgICAgICAgXSktPnVwZGF0ZVJ1bGVzKFsKICAgICAgICAgICAgICAgICAgICAncmVxdWlyZWQnLAogICAgICAgICAgICAgICAgICAgIFJ1bGU6OnVuaXF1ZSgnbWVldGluZ3MnLCAncGVfb25saW5lX2lkJykKICAgICAgICAgICAgICAgICAgICAgICAgLT5pZ25vcmUoJHRoaXMtPnBlX29ubGluZV9pZCwgJ3BlX29ubGluZV9pZCcpLAogICAgICAgICAgICAgICAgXSkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cob2NjYXNpb25zLm1hcChhID0+IGEucHJpY2UpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -306,42 +301,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0ICd1bmZldGNoL3BvbHlmaWxsL2luZGV4LmpzJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBoYW5kbGUtY2FsbGJhY2stZXJyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAubWFwKGZ1bmN0aW9uIChvY2Nhc2lvbiwgaW5kZXgpIHsKICAgICAgICAgIHJldHVybiBPYmplY3QuYXNzaWduKHsgaW5kZXg6IGluZGV4IH0sIG9jY2FzaW9uKQogICAgICAgIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzZWNvbmRQcmljZSAtIGZpcnN0UHJpY2UgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmaXJzdFByaWNlIC0gc2Vjb25kUHJpY2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpY2UgPSBvY2Nhc2lvbi5wcmljZS5zbGljZShmaXJzdC5wcmljZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBob25lOiArMzEgNzIgNTY2IDI0MjQKICAgICAgICAgICAgICAgIEUgTWFpbDogIEZvciBxdWVyaWVzIHBsZWFzZSBjbGljayBoZXJlIG9yIHdyaXRlIHRvIHdlYm1hc3Rlci5ubEBib2VocmluZ2VyLWluZ2VsaGVpbS5jb20K</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG9jY2FzaW9uLnJlcGxhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3BlX29ubGluZV9pZC92ZWV2YV9pZC9n</text>
+        <text>s/first/second/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>pe_online_id</last-search>
+      <last-search>first</last-search>
       <last-offset />
-      <last-pattern>pe_online_id</last-pattern>
-      <last-replace>veeva_id</last-replace>
-      <last-substitute>pe_online_id</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern>first</last-pattern>
+      <last-replace>second</last-replace>
+      <last-substitute>first</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
