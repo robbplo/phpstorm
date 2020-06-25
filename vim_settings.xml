@@ -104,12 +104,6 @@
         <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/projects/attendance/app/Policies/AttendancePolicy.php" timestamp="1592985369453" />
-      <file name="$USER_HOME$/projects/prj-klv-occasion-viewer/README.md" timestamp="1592826070892">
-        <mark key="[" line="2" column="48" />
-        <mark key="]" line="2" column="47" />
-        <mark key="^" line="2" column="47" />
-        <mark key="." line="2" column="46" />
-      </file>
       <file name="$USER_HOME$/projects/pitchbitch/src/data/oscillator.js" timestamp="1592909757111">
         <mark key="'" line="26" column="13" />
         <mark key="[" line="20" column="0" />
@@ -179,6 +173,12 @@
         <mark key="]" line="4" column="55" />
         <mark key="." line="4" column="54" />
         <mark key="^" line="4" column="55" />
+      </file>
+      <file name="$USER_HOME$/projects/vetclass/resources/views/frontend/content/contact.blade.php" timestamp="1593071935607">
+        <mark key="[" line="48" column="20" />
+        <mark key="]" line="71" column="22" />
+        <mark key="." line="71" column="16" />
+        <mark key="^" line="71" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -286,11 +286,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ29yZ2FuaXphdGlvbicgPT4gJGFkZHJlc3MtPm9yZ19uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAncG9zdGNvZGUnID0+ICRhZGRyZXNzLT5wb3N0Y29kZSwKICAgICAgICAgICAgICAgICAgICAgICAgJ2FkZHJlc3MnID0+ICRhZGRyZXNzLT5hZGRyZXNzLAogICAgICAgICAgICAgICAgICAgICAgICAnc3RyZWV0JyA9PiAkYWRkcmVzcy0+c3RyZWV0LAogICAgICAgICAgICAgICAgICAgICAgICAnbnVtYmVyJyA9PiAkYWRkcmVzcy0+bnVtYmVyLAogICAgICAgICAgICAgICAgICAgICAgICAnbGV0dGVyJyA9PiAkYWRkcmVzcy0+bGV0dGVyLAogICAgICAgICAgICAgICAgICAgICAgICAnYWRkaXRpb24nID0+ICRhZGRyZXNzLT5hZGRpdGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgJ2NpdHknID0+ICRhZGRyZXNzLT5jaXR5LAogICAgICAgICAgICAgICAgICAgICAgICAnY291bnRyeScgPT4gJGFkZHJlc3MtPmNvdW50cnksCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPmFkZHJlc3MgPT09IG51bGw=</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="/" type="4">
         <text>pe_online_id</text>
@@ -299,34 +299,46 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC0+Y3JlYXRpb25SdWxlcyhbCiAgICAgICAgICAgICAgICAgICAgJ3JlcXVpcmVkJywKICAgICAgICAgICAgICAgICAgICBSdWxlOjp1bmlxdWUoJ21lZXRpbmdzJywgJ3BlX29ubGluZV9pZCcpLAogICAgICAgICAgICAgICAgXSktPnVwZGF0ZVJ1bGVzKFsKICAgICAgICAgICAgICAgICAgICAncmVxdWlyZWQnLAogICAgICAgICAgICAgICAgICAgIFJ1bGU6OnVuaXF1ZSgnbWVldGluZ3MnLCAncGVfb25saW5lX2lkJykKICAgICAgICAgICAgICAgICAgICAgICAgLT5pZ25vcmUoJHRoaXMtPnBlX29ubGluZV9pZCwgJ3BlX29ubGluZV9pZCcpLAogICAgICAgICAgICAgICAgXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ29yZ2FuaXphdGlvbicgPT4gJGFkZHJlc3MtPm9yZ19uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAncG9zdGNvZGUnID0+ICRhZGRyZXNzLT5wb3N0Y29kZSwKICAgICAgICAgICAgICAgICAgICAgICAgJ2FkZHJlc3MnID0+ICRhZGRyZXNzLT5hZGRyZXNzLAogICAgICAgICAgICAgICAgICAgICAgICAnc3RyZWV0JyA9PiAkYWRkcmVzcy0+c3RyZWV0LAogICAgICAgICAgICAgICAgICAgICAgICAnbnVtYmVyJyA9PiAkYWRkcmVzcy0+bnVtYmVyLAogICAgICAgICAgICAgICAgICAgICAgICAnbGV0dGVyJyA9PiAkYWRkcmVzcy0+bGV0dGVyLAogICAgICAgICAgICAgICAgICAgICAgICAnYWRkaXRpb24nID0+ICRhZGRyZXNzLT5hZGRpdGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgJ2NpdHknID0+ICRhZGRyZXNzLT5jaXR5LAogICAgICAgICAgICAgICAgICAgICAgICAnY291bnRyeScgPT4gJGFkZHJlc3MtPmNvdW50cnksCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
-        <text />
+        <keys>
+          <key char="65" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+cnVsZXMoJ3VuaXF1ZTptZWV0aW5ncyx2ZWV2YV9pZCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+cmVxdWlyZWQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">a2trCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHN0eWxlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cjwvc3R5bGU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFBob25lOiArMzEgNzIgNTY2IDI0MjQKICAgICAgICAgICAgICAgIEUgTWFpbDogIEZvciBxdWVyaWVzIHBsZWFzZSBjbGljayBoZXJlIG9yIHdyaXRlIHRvIHdlYm1hc3Rlci5ubEBib2VocmluZ2VyLWluZ2VsaGVpbS5jb20K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3BlX29ubGluZV9pZC92ZWV2YV9pZC9n</text>
