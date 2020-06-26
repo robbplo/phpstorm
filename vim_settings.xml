@@ -137,6 +137,12 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/bank/.env" timestamp="1593174501486">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/SmitAuth/action.vars.php" timestamp="1593165130866">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -177,13 +183,6 @@
         <mark key="]" line="104" column="37" />
         <mark key="^" line="99" column="47" />
         <mark key="." line="102" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/attendance/tests/Feature/CreditMeetingTest.php" timestamp="1593084872452">
-        <mark key="'" line="42" column="39" />
-        <mark key="[" line="53" column="39" />
-        <mark key="]" line="53" column="39" />
-        <mark key="." line="53" column="39" />
-        <mark key="^" line="54" column="50" />
       </file>
       <file name="$USER_HOME$/projects/SmitAuth/templates/_profile.tpl" timestamp="1593164926850">
         <mark key="[" line="0" column="15" />
@@ -303,11 +302,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>dr</text>
