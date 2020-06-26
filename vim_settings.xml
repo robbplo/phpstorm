@@ -91,11 +91,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1593084760309">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
       <file name="$USER_HOME$/projects/attendance/app/Exports/FutureAttendancesExport.php" timestamp="1593085390056">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="62" column="13" />
@@ -108,6 +103,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/SmitAuth/SmitAuth.module.php" timestamp="1593165164822">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" timestamp="1593087461132">
         <mark key="'" line="54" column="168" />
@@ -137,12 +137,10 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/database/factories/MeetingFactory.php" timestamp="1593084758950">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="31" />
-        <mark key="^" line="21" column="46" />
-        <mark key="." line="21" column="31" />
+      <file name="$USER_HOME$/projects/SmitAuth/action.vars.php" timestamp="1593165130866">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/projects/attendance/resources/views/mail/attendance/confirmation.blade.php" timestamp="1593087493049">
         <mark key="'" line="7" column="49" />
@@ -187,8 +185,10 @@
         <mark key="." line="53" column="39" />
         <mark key="^" line="54" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/SmitAuth/templates/_profile.tpl" timestamp="1593163642465">
-        <mark key="[" line="0" column="8" />
+      <file name="$USER_HOME$/projects/SmitAuth/templates/_profile.tpl" timestamp="1593164926850">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/projects/prj-klv-occasion-viewer/src/components/OccasionViewer.vue" timestamp="1593160069495">
         <mark key="'" line="166" column="10" />
@@ -304,10 +304,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcm91dGVzW10gPSBuZXcgQ21zUm91dGUoJycpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHt7b2NjYXNpb24uaW5kZXh9fQ==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>dr</text>
@@ -316,7 +316,7 @@
         <text encoding="base64">QVBQX0VOVj1kZXZlbG9wbWVudAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcm91dGVzW10gPSBuZXcgQ21zUm91dGUoJycpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -334,28 +334,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QVBQX0VOVj1kZXZlbG9wbWVudAo=</text>
+        <text encoding="base64">ICAgICdsb2dvdXRfdXJsJyA9PiAnJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJwbGF0Zm9ybSI6IHsKICAgIH0K</text>
+        <text encoding="base64">Ly99Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAicGhwIjogIj49Ny4yIiwK</text>
+        <text encoding="base64">Ly9pZiAoJGFjdGl2ZSAmJiAhJGlzTG9nZ2VkSW4pIHsKLy8gICAgcmV0dXJuICRjbGllbnQtPmxvZ2luKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAicGhwIjogIj49Ny4yIgo=</text>
+        <text encoding="base64">Ly8kYWN0aXZlID0gKGJvb2wpIGVuYWJsZWRfb25fcGFnZV9ieV9hbGlhcyhcY21zX3V0aWxzOjpnZXRfY3VycmVudF9hbGlhcygpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QVBQX0VOVj1wcm9kdWN0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9mdW5jdGlvbiBlbmFibGVkX29uX3BhZ2VfYnlfYWxpYXMoJGFsaWFzKSB7Ci8vCSRoaWVyYXJjaHkgPSBjbXNtcygpLT5HZXRIaWVyYXJjaHlNYW5hZ2VyKCk7Ci8vCi8vCWlmIChlbXB0eSgkYWxpYXMpKSB7Ci8vCQkkYWxpYXMgPSBcY21zX3V0aWxzOjpnZXRfY3VycmVudF9hbGlhcygpOwovLwl9Ci8vCi8vCSRzdGFjayA9IFtdOwovLwkkbm9kZSA9ICRoaWVyYXJjaHktPmZpbmRfYnlfdGFnKCdhbGlhcycsICRhbGlhcyk7Ci8vCXdoaWxlKCRub2RlICYmICRub2RlLT5nZXRfdGFnKCdpZCcpID4gMCkgIHsKLy8JCSRzdGFja1tdID0gJG5vZGU7Ci8vCQkkbm9kZSA9ICRub2RlLT5nZXRQYXJlbnQoKTsKLy8JfQovLwovLwlpZihjb3VudCgkc3RhY2spICE9PSAwKSB7Ci8vCQlyZXR1cm4gJHN0YWNrW2NvdW50KCRzdGFjayktMV0tPmdldENvbnRlbnQoKS0+R2V0UHJvcGVydHlWYWx1ZSgnZW5hYmxlZF9vbl9wYWdlJyk7Ci8vCX0KLy8KLy8JcmV0dXJuIG51bGw7Ci8vfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">e3stLSBAdG9kbzogY29uZGl0aW9uZWVsIG1ha2VuIGluZGllbiBtYWlscyB2ZXJzdHV1cmQgbW9ldGVuIHdvcmRlbiB6b25kZXIgYWNjcmVkaXRhdGllIC0tfX0K</text>
+        <text encoding="base64">QVBQX0VOVj1kZXZlbG9wbWVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/first/second/g</text>
