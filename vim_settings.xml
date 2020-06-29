@@ -91,12 +91,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/attendance/app/Exports/FutureAttendancesExport.php" timestamp="1593085390056">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="62" column="13" />
-        <mark key="]" line="62" column="31" />
-        <mark key="." line="62" column="30" />
-        <mark key="^" line="62" column="31" />
+      <file name="$USER_HOME$/projects/todo-es/app/Domain/Todo/Events/TodoCompleted.php" timestamp="1593422102518">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="32" />
+        <mark key="^" line="12" column="32" />
+        <mark key="." line="12" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/todo-es/.env" timestamp="1593421665347">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="11" column="19" />
       </file>
       <file name="$USER_HOME$/projects/amsterdambeautiful/.env" timestamp="1593161070328">
         <mark key="[" line="0" column="0" />
@@ -109,28 +114,16 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" timestamp="1593087461132">
-        <mark key="'" line="54" column="168" />
-        <mark key="[" line="57" column="23" />
-        <mark key="]" line="57" column="23" />
-        <mark key="^" line="57" column="23" />
-        <mark key="." line="57" column="22" />
+      <file name="$USER_HOME$/projects/todo-es/database/migrations/2020_06_29_090837_create_todos_table.php" timestamp="1593422638751">
+        <mark key="[" line="17" column="38" />
+        <mark key="]" line="17" column="39" />
+        <mark key="." line="17" column="38" />
+        <mark key="^" line="17" column="39" />
       </file>
       <file name="$USER_HOME$/projects/attendance/.env" timestamp="1593089342215">
         <mark key="[" line="26" column="10" />
         <mark key="]" line="26" column="10" />
         <mark key="." line="26" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/attendance/tests/Feature/CreditAttendanceTest.php" timestamp="1593085448758">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="71" column="48" />
-        <mark key="]" line="71" column="48" />
-        <mark key="." line="71" column="48" />
-      </file>
-      <file name="$USER_HOME$/projects/attendance/app/Jobs/CreditMeeting.php" timestamp="1593085804231">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="44" column="9" />
-        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/projects/bank/.env" timestamp="1593174501486">
         <mark key="[" line="4" column="15" />
@@ -138,33 +131,35 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/todo-es/app/Domain/Todo/Events/TodoCreated.php" timestamp="1593422044166">
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="11" column="51" />
+        <mark key="." line="11" column="50" />
+        <mark key="^" line="11" column="51" />
+      </file>
+      <file name="$USER_HOME$/projects/todo-es/resources/views/index.blade.php" timestamp="1593422166114">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="6" column="33" />
+      </file>
       <file name="$USER_HOME$/projects/SmitAuth/action.vars.php" timestamp="1593165130866">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/resources/views/mail/attendance/confirmation.blade.php" timestamp="1593087493049">
-        <mark key="'" line="7" column="49" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="6" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/projects/todo-es/app/Todo.php" timestamp="1593422547221">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="41" />
+        <mark key="^" line="11" column="41" />
+        <mark key="." line="11" column="40" />
       </file>
       <file name="$USER_HOME$/projects/amsterdambeautiful/src/Client.php" timestamp="1593161420922" />
-      <file name="/PHP Console" timestamp="1593089088142">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/amsterdambeautiful/definitions/RealEstatePropertySiteXchange (3).xsd" timestamp="1593161553937" />
       <file name="$USER_HOME$/projects/amsterdambeautiful/composer.json" timestamp="1593160987759">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/attendance/domain/MeetingExporter.php" timestamp="1593088658437">
-        <mark key="[" line="37" column="81" />
-        <mark key="]" line="38" column="12" />
-        <mark key="^" line="38" column="12" />
-        <mark key="." line="38" column="11" />
       </file>
       <file name="$USER_HOME$/projects/bank/database/migrations/2020_06_26_125110_create_accounts_table.php" timestamp="1593176176706">
         <mark key="[" line="18" column="38" />
@@ -178,12 +173,17 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Nova/Meeting.php" timestamp="1593085752147">
-        <mark key="'" line="76" column="55" />
-        <mark key="[" line="103" column="40" />
-        <mark key="]" line="104" column="37" />
-        <mark key="^" line="99" column="47" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/projects/todo-es/app/Domain/Todo/Projectors/TodoProjector.php" timestamp="1593422746552">
+        <mark key="[" line="26" column="44" />
+        <mark key="]" line="26" column="45" />
+        <mark key="." line="26" column="44" />
+        <mark key="^" line="26" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/todo-es/routes/web.php" timestamp="1593423041756">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="15" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="15" />
       </file>
       <file name="$USER_HOME$/projects/SmitAuth/templates/_profile.tpl" timestamp="1593164926850">
         <mark key="[" line="0" column="15" />
@@ -303,11 +303,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>localhost</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>middleware</text>
       </register>
       <register name="/" type="4">
         <text>dr</text>
@@ -316,7 +316,7 @@
         <text encoding="base64">QVBQX0VOVj1kZXZlbG9wbWVudAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -334,28 +334,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcm91dGVzW10gPSBuZXcgQ21zUm91dGUoJycpCg==</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdsb2dvdXRfdXJsJyA9PiAnJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly99Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9pZiAoJGFjdGl2ZSAmJiAhJGlzTG9nZ2VkSW4pIHsKLy8gICAgcmV0dXJuICRjbGllbnQtPmxvZ2luKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIEZvbnRzIC0tPgogICAgICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1OdW5pdG86MjAwLDYwMCIgcmVsPSJzdHlsZXNoZWV0Ij4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8kYWN0aXZlID0gKGJvb2wpIGVuYWJsZWRfb25fcGFnZV9ieV9hbGlhcyhcY21zX3V0aWxzOjpnZXRfY3VycmVudF9hbGlhcygpKTsK</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIFN0eWxlcyAtLT4KICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHN0eWxlPgogICAgICAgICAgICBodG1sLCBib2R5IHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNmZmY7CiAgICAgICAgICAgICAgICBjb2xvcjogIzYzNmI2ZjsKICAgICAgICAgICAgICAgIGZvbnQtZmFtaWx5OiAnTnVuaXRvJywgc2Fucy1zZXJpZjsKICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiAyMDA7CiAgICAgICAgICAgICAgICBoZWlnaHQ6IDEwMHZoOwogICAgICAgICAgICAgICAgbWFyZ2luOiAwOwogICAgICAgICAgICB9CgogICAgICAgICAgICAuZnVsbC1oZWlnaHQgewogICAgICAgICAgICAgICAgaGVpZ2h0OiAxMDB2aDsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLmZsZXgtY2VudGVyIHsKICAgICAgICAgICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7CiAgICAgICAgICAgICAgICBkaXNwbGF5OiBmbGV4OwogICAgICAgICAgICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC5wb3NpdGlvbi1yZWYgewogICAgICAgICAgICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwogICAgICAgICAgICB9CgogICAgICAgICAgICAudG9wLXJpZ2h0IHsKICAgICAgICAgICAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgICAgICAgICAgIHJpZ2h0OiAxMHB4OwogICAgICAgICAgICAgICAgdG9wOiAxOHB4OwogICAgICAgICAgICB9CgogICAgICAgICAgICAuY29udGVudCB7CiAgICAgICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC50aXRsZSB7CiAgICAgICAgICAgICAgICBmb250LXNpemU6IDg0cHg7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC5saW5rcyA+IGEgewogICAgICAgICAgICAgICAgY29sb3I6ICM2MzZiNmY7CiAgICAgICAgICAgICAgICBwYWRkaW5nOiAwIDI1cHg7CiAgICAgICAgICAgICAgICBmb250LXNpemU6IDEzcHg7CiAgICAgICAgICAgICAgICBmb250LXdlaWdodDogNjAwOwogICAgICAgICAgICAgICAgbGV0dGVyLXNwYWNpbmc6IC4xcmVtOwogICAgICAgICAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwogICAgICAgICAgICAgICAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLm0tYi1tZCB7CiAgICAgICAgICAgICAgICBtYXJnaW4tYm90dG9tOiAzMHB4OwogICAgICAgICAgICB9CiAgICAgICAgPC9zdHlsZT4=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9mdW5jdGlvbiBlbmFibGVkX29uX3BhZ2VfYnlfYWxpYXMoJGFsaWFzKSB7Ci8vCSRoaWVyYXJjaHkgPSBjbXNtcygpLT5HZXRIaWVyYXJjaHlNYW5hZ2VyKCk7Ci8vCi8vCWlmIChlbXB0eSgkYWxpYXMpKSB7Ci8vCQkkYWxpYXMgPSBcY21zX3V0aWxzOjpnZXRfY3VycmVudF9hbGlhcygpOwovLwl9Ci8vCi8vCSRzdGFjayA9IFtdOwovLwkkbm9kZSA9ICRoaWVyYXJjaHktPmZpbmRfYnlfdGFnKCdhbGlhcycsICRhbGlhcyk7Ci8vCXdoaWxlKCRub2RlICYmICRub2RlLT5nZXRfdGFnKCdpZCcpID4gMCkgIHsKLy8JCSRzdGFja1tdID0gJG5vZGU7Ci8vCQkkbm9kZSA9ICRub2RlLT5nZXRQYXJlbnQoKTsKLy8JfQovLwovLwlpZihjb3VudCgkc3RhY2spICE9PSAwKSB7Ci8vCQlyZXR1cm4gJHN0YWNrW2NvdW50KCRzdGFjayktMV0tPmdldENvbnRlbnQoKS0+R2V0UHJvcGVydHlWYWx1ZSgnZW5hYmxlZF9vbl9wYWdlJyk7Ci8vCX0KLy8KLy8JcmV0dXJuIG51bGw7Ci8vfQo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXNlcklkID0gJHVzZXJJZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGVzY3JpcHRpb24gPSAkZGVzY3JpcHRpb247Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/first/second/g</text>
