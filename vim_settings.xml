@@ -7,11 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>contact</entry>
-        <entry>name</entry>
-        <entry>ship</entry>
-        <entry>fed</entry>
-        <entry>def</entry>
         <entry>delivery_date</entry>
         <entry>button</entry>
         <entry>Lo</entry>
@@ -27,6 +22,11 @@
         <entry>first</entry>
         <entry>true</entry>
         <entry>dr</entry>
+        <entry>inde</entry>
+        <entry>Su</entry>
+        <entry>todo</entry>
+        <entry>cre</entry>
+        <entry>stri</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NldmVyaXR5X2lkL2NvbXBvbmVudC9n</entry>
@@ -91,117 +91,123 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/todo-es/app/Domain/Todo/Events/TodoCompleted.php" timestamp="1593422102518">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="32" />
-        <mark key="^" line="12" column="32" />
-        <mark key="." line="12" column="31" />
-      </file>
-      <file name="$USER_HOME$/projects/SmitAuth/SmitAuth.module.php" timestamp="1593170413517">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/bank/.env" timestamp="1593174501486">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="4" column="23" />
-        <mark key="^" line="4" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/todo-es/app/Domain/Todo/Events/TodoCreated.php" timestamp="1593422044166">
-        <mark key="[" line="11" column="40" />
-        <mark key="]" line="11" column="51" />
-        <mark key="." line="11" column="50" />
-        <mark key="^" line="11" column="51" />
-      </file>
-      <file name="$USER_HOME$/projects/todo-es/resources/views/index.blade.php" timestamp="1593422166114">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="33" />
-        <mark key="." line="6" column="32" />
-        <mark key="^" line="6" column="33" />
-      </file>
-      <file name="$USER_HOME$/projects/SmitAuth/action.vars.php" timestamp="1593165130866">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/amsterdambeautiful/definitions/RealEstatePropertySiteXchange (3).xsd" timestamp="1593161553937" />
-      <file name="$USER_HOME$/projects/amsterdambeautiful/composer.json" timestamp="1593160987759">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/amsterdambeautiful/.env.example" timestamp="1593161065657">
+      <file name="/a.dummy" timestamp="1593433266732">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="18" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/todo-es/app/Domain/Todo/Projectors/TodoProjector.php" timestamp="1593422746552">
-        <mark key="[" line="26" column="44" />
-        <mark key="]" line="26" column="45" />
-        <mark key="." line="26" column="44" />
-        <mark key="^" line="26" column="45" />
+      <file name="$USER_HOME$/projects/todo-es/database/migrations/2020_06_29_122330_create_todos_completed_table.php" timestamp="1593435421686">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="52" />
+        <mark key="^" line="16" column="25" />
+        <mark key="." line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/todo-es/routes/web.php" timestamp="1593423041756">
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="15" />
-        <mark key="." line="16" column="14" />
-        <mark key="^" line="16" column="15" />
+      <file name="$USER_HOME$/projects/todo-es/app/Domain/Todo/Events/TodoCompleted.php" timestamp="1593435427573">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+        <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/SmitAuth/templates/_profile.tpl" timestamp="1593164926850">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+      <file name="$USER_HOME$/projects/todo-es/app/Http/Requests/CreateTodoRequest.php" timestamp="1593432660997">
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="26" column="44" />
+        <mark key="." line="26" column="43" />
+        <mark key="^" line="26" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/todo-es/.env" timestamp="1593421665347">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="15" />
-        <mark key="." line="4" column="15" />
-        <mark key="^" line="11" column="19" />
+      <file name="$USER_HOME$/projects/todo-es/resources/views/home.blade.php" timestamp="1593434542428">
+        <mark key="[" line="38" column="40" />
+        <mark key="]" line="38" column="63" />
+        <mark key="." line="38" column="62" />
+        <mark key="^" line="38" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/amsterdambeautiful/.env" timestamp="1593161070328">
+      <file name="$USER_HOME$/projects/todo-es/app/Domain/Todo/Events/TodoCreated.php" timestamp="1593435435992">
+        <mark key="'" line="11" column="32" />
+        <mark key="[" line="11" column="53" />
+        <mark key="]" line="11" column="56" />
+        <mark key="." line="11" column="55" />
+        <mark key="^" line="11" column="56" />
+      </file>
+      <file name="$USER_HOME$/projects/todo-es/app/Domain/Todo/Projectors/TodoProjector.php" timestamp="1593435525627">
+        <mark key="[" line="30" column="30" />
+        <mark key="]" line="32" column="25" />
+        <mark key="." line="32" column="24" />
+        <mark key="^" line="32" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/todo-es/routes/web.php" timestamp="1593432452790">
+        <mark key="'" line="24" column="17" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="29" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/todo-es/app/Providers/AppServiceProvider.php" timestamp="1593435447690">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/todo-es/app/User.php" timestamp="1593435471619">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/todo-es/database/seeds/DatabaseSeeder.php" timestamp="1593432276606">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="38" />
+        <mark key="^" line="14" column="38" />
+        <mark key="." line="14" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/todo-es/app/Http/Controllers/TodoController.php" timestamp="1593434886536">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/todo-es/database/migrations/2020_06_29_090837_create_todos_table.php" timestamp="1593435418364">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="52" />
+        <mark key="." line="17" column="23" />
+        <mark key="^" line="17" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/todo-es/database/factories/UserFactory.php" timestamp="1593434183980">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="29" />
+        <mark key="^" line="21" column="11" />
+        <mark key="." line="21" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/todo-es/app/Todo.php" timestamp="1593435457601">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="22" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/todo-es/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1593435414383">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="25" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="16" column="25" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593433201196">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/todo-es/database/migrations/2020_06_29_090837_create_todos_table.php" timestamp="1593422638751">
-        <mark key="[" line="17" column="38" />
-        <mark key="]" line="17" column="39" />
-        <mark key="." line="17" column="38" />
-        <mark key="^" line="17" column="39" />
+      <file name="$USER_HOME$/projects/todo-es/app/TodosCompleted.php" timestamp="1593435474964">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="12" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/todo-es/app/Todo.php" timestamp="1593422547221">
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="11" column="41" />
-        <mark key="^" line="11" column="41" />
-        <mark key="." line="11" column="40" />
+      <file name="$USER_HOME$/projects/todo-es/database/seeds/UserSeeder.php" timestamp="1593434195995">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/amsterdambeautiful/src/Client.php" timestamp="1593161420922" />
-      <file name="$USER_HOME$/projects/bank/database/migrations/2020_06_26_125110_create_accounts_table.php" timestamp="1593176176706">
-        <mark key="[" line="18" column="38" />
-        <mark key="]" line="18" column="36" />
-        <mark key="^" line="18" column="36" />
-        <mark key="." line="18" column="35" />
-      </file>
-      <file name="$USER_HOME$/projects/todo-es/database/seeds/UserSeeder.php" timestamp="1593430277441">
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="17" column="33" />
-        <mark key="^" line="17" column="33" />
-        <mark key="." line="17" column="32" />
+      <file name="$USER_HOME$/projects/todo-es/app/Domain/Todo/Projectors/TodosCompletedProjector.php" timestamp="1593435593962">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="22" column="27" />
+        <mark key="." line="22" column="26" />
+        <mark key="^" line="22" column="27" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="11" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/delivery_options.blade.php" />
-      <jump line="5" column="12" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/delivery_options.blade.php" />
-      <jump line="9" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/delivery_options.blade.php" />
-      <jump line="10" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/delivery_options.blade.php" />
-      <jump line="5" column="5" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
-      <jump line="15" column="21" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
-      <jump line="17" column="24" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
-      <jump line="29" column="25" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
-      <jump line="31" column="28" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
       <jump line="45" column="25" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
       <jump line="48" column="28" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
       <jump line="59" column="21" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
@@ -293,24 +299,33 @@
       <jump line="6" column="49" filename="$USER_HOME$/projects/attendance/resources/views/mail/attendance/confirmation.blade.php" />
       <jump line="50" column="168" filename="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" />
       <jump line="166" column="10" filename="$USER_HOME$/projects/prj-klv-occasion-viewer/src/components/OccasionViewer.vue" />
+      <jump line="17" column="0" filename="$USER_HOME$/projects/todo-es/routes/web.php" />
+      <jump line="20" column="0" filename="$USER_HOME$/projects/todo-es/resources/views/home.blade.php" />
+      <jump line="27" column="23" filename="$USER_HOME$/projects/todo-es/routes/web.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/todo-es/routes/web.php" />
+      <jump line="21" column="22" filename="$USER_HOME$/projects/todo-es/routes/web.php" />
+      <jump line="24" column="17" filename="$USER_HOME$/projects/todo-es/routes/web.php" />
+      <jump line="26" column="0" filename="$USER_HOME$/projects/todo-es/app/Http/Controllers/TodoController.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/todo-es/app/Domain/Todo/Events/TodoCreated.php" />
+      <jump line="11" column="32" filename="$USER_HOME$/projects/todo-es/app/Domain/Todo/Events/TodoCreated.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2lkJyA9PiBTdHI6OnV1aWQoKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
-        <text>dr</text>
+        <text>stri</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QVBQX0VOVj1kZXZlbG9wbWVudAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiByZXNldFN0YXRlKCk6IHZvaWQKICAgIHsKICAgICAgICBUb2RvOjpxdWVyeSgpLT5kZWxldGUoKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2lkJyA9PiBTdHI6OnV1aWQoKSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -328,28 +343,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAka2V5VHlwZSA9ICdzdHJpbmcnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlCg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAka2V5VHlwZSA9ICdzdHJpbmcnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAka2V5VHlwZSA9ICdzdHJpbmcnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIEZvbnRzIC0tPgogICAgICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1OdW5pdG86MjAwLDYwMCIgcmVsPSJzdHlsZXNoZWV0Ij4K</text>
+        <text encoding="base64">ICAgICAgICBVc2VyOjpjcmVhdGluZyhmdW5jdGlvbiAoJHVzZXIpIHsKICAgICAgICAgICAgJHVzZXItPmlkID0gU3RyOjp1dWlkKCk7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIFN0eWxlcyAtLT4KICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2lkJyA9PiBTdHI6OnV1aWQoKSwK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PHN0eWxlPgogICAgICAgICAgICBodG1sLCBib2R5IHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNmZmY7CiAgICAgICAgICAgICAgICBjb2xvcjogIzYzNmI2ZjsKICAgICAgICAgICAgICAgIGZvbnQtZmFtaWx5OiAnTnVuaXRvJywgc2Fucy1zZXJpZjsKICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiAyMDA7CiAgICAgICAgICAgICAgICBoZWlnaHQ6IDEwMHZoOwogICAgICAgICAgICAgICAgbWFyZ2luOiAwOwogICAgICAgICAgICB9CgogICAgICAgICAgICAuZnVsbC1oZWlnaHQgewogICAgICAgICAgICAgICAgaGVpZ2h0OiAxMDB2aDsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLmZsZXgtY2VudGVyIHsKICAgICAgICAgICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7CiAgICAgICAgICAgICAgICBkaXNwbGF5OiBmbGV4OwogICAgICAgICAgICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC5wb3NpdGlvbi1yZWYgewogICAgICAgICAgICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwogICAgICAgICAgICB9CgogICAgICAgICAgICAudG9wLXJpZ2h0IHsKICAgICAgICAgICAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgICAgICAgICAgIHJpZ2h0OiAxMHB4OwogICAgICAgICAgICAgICAgdG9wOiAxOHB4OwogICAgICAgICAgICB9CgogICAgICAgICAgICAuY29udGVudCB7CiAgICAgICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC50aXRsZSB7CiAgICAgICAgICAgICAgICBmb250LXNpemU6IDg0cHg7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC5saW5rcyA+IGEgewogICAgICAgICAgICAgICAgY29sb3I6ICM2MzZiNmY7CiAgICAgICAgICAgICAgICBwYWRkaW5nOiAwIDI1cHg7CiAgICAgICAgICAgICAgICBmb250LXNpemU6IDEzcHg7CiAgICAgICAgICAgICAgICBmb250LXdlaWdodDogNjAwOwogICAgICAgICAgICAgICAgbGV0dGVyLXNwYWNpbmc6IC4xcmVtOwogICAgICAgICAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwogICAgICAgICAgICAgICAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLm0tYi1tZCB7CiAgICAgICAgICAgICAgICBtYXJnaW4tYm90dG9tOiAzMHB4OwogICAgICAgICAgICB9CiAgICAgICAgPC9zdHlsZT4=</text>
+      <register name="7" type="4">
+        <text>string $description;
+    public s</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXNlcklkID0gJHVzZXJJZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGVzY3JpcHRpb24gPSAkZGVzY3JpcHRpb247Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiByZXNldFN0YXRlKCk6IHZvaWQKICAgIHsKICAgICAgICBUb2Rvc0NvbXBsZXRlZDo6cXVlcnkoKS0+ZGVsZXRlKCk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/first/second/g</text>
@@ -358,9 +374,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>dr</last-search>
+      <last-search>stri</last-search>
       <last-offset />
-      <last-pattern>dr</last-pattern>
+      <last-pattern>stri</last-pattern>
       <last-replace>second</last-replace>
       <last-substitute>first</last-substitute>
       <last-dir>1</last-dir>
