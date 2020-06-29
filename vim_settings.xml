@@ -96,6 +96,12 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/todo-es/tests/Domain/Todo/Projectors/TodoProjectorTest.php" timestamp="1593437120364">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="15" />
+        <mark key="^" line="16" column="21" />
+        <mark key="." line="16" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/todo-es/database/migrations/2020_06_29_122330_create_todos_completed_table.php" timestamp="1593435421686">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="52" />
@@ -150,12 +156,6 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/todo-es/database/seeds/DatabaseSeeder.php" timestamp="1593432276606">
-        <mark key="[" line="14" column="39" />
-        <mark key="]" line="14" column="38" />
-        <mark key="^" line="14" column="38" />
-        <mark key="." line="14" column="37" />
-      </file>
       <file name="$USER_HOME$/projects/todo-es/app/Http/Controllers/TodoController.php" timestamp="1593434886536">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="14" column="0" />
@@ -186,7 +186,7 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593433201196">
+      <file name="/Dummy.txt" timestamp="1593437005761">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/todo-es/app/TodosCompleted.php" timestamp="1593435474964">
@@ -312,11 +312,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2lkJyA9PiBTdHI6OnV1aWQoKSwK</text>
+      <register name="&quot;" type="4">
+        <text>assert</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>assert</text>
       </register>
       <register name="/" type="4">
         <text>stri</text>
