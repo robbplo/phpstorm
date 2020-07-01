@@ -13,7 +13,6 @@
         <entry>$pickupLocation</entry>
         <entry>part</entry>
         <entry>where</entry>
-        <entry>&quot;</entry>
         <entry>key</entry>
         <entry>result</entry>
         <entry>pe_online_id</entry>
@@ -27,13 +26,13 @@
         <entry>cre</entry>
         <entry>stri</entry>
         <entry>row</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>s/`/'/g</entry>
         <entry encoding="base64">JzwsJz5zLzEvMg==</entry>
         <entry encoding="base64">JzwsJz5zL29yZGVyL2RhdGE=</entry>
         <entry encoding="base64">JzwsJz5zL2NvbnRhY3RwZXJzb24vcGhvbmVfbnVtYmVy</entry>
-        <entry>s/&quot;/'/g</entry>
         <entry>s/pickup/delivery/g</entry>
         <entry>s/contact/shipping/g</entry>
         <entry>s/name/contactperson/g</entry>
@@ -49,6 +48,7 @@
         <entry encoding="base64">JzwsJz5zL3BlX29ubGluZV9pZC92ZWV2YV9pZC9n</entry>
         <entry>s/first/second/g</entry>
         <entry encoding="base64">JzwsJz5zL3Jvdy9hdHRlbmRhbmNl</entry>
+        <entry>s/&quot;/'/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -119,29 +119,28 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/.env" timestamp="1593605741047">
-        <mark key="[" line="30" column="19" />
+      <file name="$USER_HOME$/projects/attendance/storage/logs/laravel-2020-07-01.log" timestamp="1593608933291" />
+      <file name="$USER_HOME$/projects/attendance/.env" timestamp="1593608861016">
+        <mark key="[" line="38" column="35" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="0" />
       </file>
       <file name="$USER_HOME$/projects/attendance/storage/logs/laravel.log" timestamp="1593605432424">
         <mark key="'" line="24" column="20" />
       </file>
       <file name="$USER_HOME$/projects/attendance/app/Http/Controllers/MeetingController.php" timestamp="1593605659646" />
-      <file name="$USER_HOME$/projects/todo-es/app/Domain/Todo/Projectors/TodoProjector.php" timestamp="1593435525627">
-        <mark key="[" line="30" column="30" />
-        <mark key="]" line="32" column="25" />
-        <mark key="." line="32" column="24" />
-        <mark key="^" line="32" column="25" />
+      <file name="$USER_HOME$/projects/mail/routes/web.php" timestamp="1593606062870">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="16" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/attendance/vendor/spatie/calendar-links/src/Generators/Ics.php" timestamp="1593609537618" />
       <file name="$USER_HOME$/projects/attendance/database/factories/ParticipantFactory.php" timestamp="1593591502133">
         <mark key="[" line="33" column="9" />
         <mark key="]" line="33" column="10" />
         <mark key="^" line="33" column="10" />
         <mark key="." line="33" column="9" />
-      </file>
-      <file name="$USER_HOME$/projects/todo-es/app/User.php" timestamp="1593435471619">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/projects/attendance/database/migrations/2019_08_13_000000_create_nova_settings_table.php" timestamp="1593593370186">
         <mark key="[" line="30" column="29" />
@@ -150,39 +149,30 @@
         <mark key="^" line="31" column="14" />
       </file>
       <file name="$USER_HOME$/projects/auth.smit/domain/Tenant/Authentication/Jobs/ProcessIqviaUserUpdate.php" timestamp="1593439566403" />
-      <file name="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" timestamp="1593605355885">
-        <mark key="'" line="57" column="168" />
-        <mark key="[" line="52" column="8" />
-        <mark key="]" line="52" column="8" />
-        <mark key="^" line="52" column="8" />
-        <mark key="." line="52" column="7" />
+      <file name="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" timestamp="1593609809458">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="48" column="46" />
       </file>
       <file name="$USER_HOME$/projects/attendance/app/Nova/Actions/DownloadAttendancesExcel.php" timestamp="1593591224007">
         <mark key="'" line="46" column="12" />
         <mark key="]" line="23" column="22" />
         <mark key="^" line="48" column="48" />
       </file>
+      <file name="$USER_HOME$/projects/attendance/routes/web.php" timestamp="1593607065991">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1593437005761">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/todo-es/app/TodosCompleted.php" timestamp="1593435474964">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="12" column="38" />
       </file>
       <file name="$USER_HOME$/projects/attendance/app/Notifications/WelcomeUserNotification.php" timestamp="1593605847411">
         <mark key="[" line="49" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/todo-es/app/Domain/Todo/Projectors/TodosCompletedProjector.php" timestamp="1593435593962">
-        <mark key="[" line="20" column="27" />
-        <mark key="]" line="22" column="27" />
-        <mark key="." line="22" column="26" />
-        <mark key="^" line="22" column="27" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="21" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
       <jump line="85" column="24" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
       <jump line="102" column="21" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
       <jump line="91" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
@@ -282,24 +272,25 @@
       <jump line="45" column="12" filename="$USER_HOME$/projects/attendance/app/Nova/Actions/DownloadAttendancesExcel.php" />
       <jump line="46" column="12" filename="$USER_HOME$/projects/attendance/app/Nova/Actions/DownloadAttendancesExcel.php" />
       <jump line="24" column="20" filename="$USER_HOME$/projects/attendance/storage/logs/laravel.log" />
+      <jump line="45" column="27" filename="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFydGljaXBhbnQtPm5vdGlmeShuZXcgXEFwcFxOb3RpZmljYXRpb25zXFNpZ25lZFVwTm90aWZpY2F0aW9uKCRtZWV0aW5nKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hdHRhY2goc3RvcmFnZV9wYXRoKCdhcHAvJyAuICR0aGlzLT5nZW5lcmF0ZUljcygpKSkKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>::__construct</text>
+        <text>$ics</text>
       </register>
       <register name="/" type="4">
-        <text>row</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcGFydGljaXBhbnQtPm5vdGlmeShuZXcgU2lnbmVkVXBOb3RpZmljYXRpb24oJG1lZXRpbmcpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFydGljaXBhbnQtPm5vdGlmeShuZXcgXEFwcFxOb3RpZmljYXRpb25zXFNpZ25lZFVwTm90aWZpY2F0aW9uKCRtZWV0aW5nKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hdHRhY2goc3RvcmFnZV9wYXRoKCdhcHAvJyAuICR0aGlzLT5nZW5lcmF0ZUljcygpKSkKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -317,41 +308,41 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIG5vdmEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5saW5lKCc8YSBocmVmPSInLiAgLiciPjwvYT4nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBub3ZhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAiY2l0eSI6ICJBbGttYWFyIiwKLy8gICAgICAgICAgICAgICAgICAiY291bnRyeSI6ICJOTCIsCi8vICAgICAgICAgICAgICAgICAgImxldHRlciI6IG51bGwsCi8vICAgICAgICAgICAgICAgICAgIm51bWJlciI6ICIxNyIsCi8vICAgICAgICAgICAgICAgICAgIm9yZ2FuaXphdGlvbiI6ICJTTUlULiBEaWdpdGFhbCB2YWttYW5zY2hhcCIsCi8vICAgICAgICAgICAgICAgICAgInBvc3Rjb2RlIjogIjE4MjNIUCIsCi8vICAgICAgICAgICAgICAgICAgInN0cmVldCI6ICJDYW5uZW5idXJnIgo=</text>
+        <text encoding="base64">ICAgICAgICAkZnJvbSA9ICR0aGlzLT5tZWV0aW5nLT5zdGFydGluZ0RhdGVUaW1lOwogICAgICAgICR0byA9ICRmcm9tLT5hZGRIb3VycygyKTsgLy8gQHRvZG8gdGlqZCBuYXZyYWdlbgoKICAgICAgICAkaWNzID0gTGluazo6Y3JlYXRlKCR0aGlzLT5tZWV0aW5nLT50aXRsZSwgJGZyb20sICR0byktPmljcygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAiYWRkaXRpb24iOiBudWxsLAovLyAgICAgICAgICAgICAgICAgICJhZGRyZXNzIjogIkNhbm5lbmJ1cmcgMTciLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hdHRhY2goJy9lcmdlbnMvYmVzdGFuZCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAtPmF0dGFjaERhdGEoJGljcywgJ2ludml0ZS5pY3MnLCBbJ21pbWUnID0+ICd0ZXh0L2NhbGVuZGFyJ10pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hdHRhY2hEYXRhKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRleHQ6Om1ha2UoJ0NpdHknLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5hZGRyZXNzWydjaXR5J10gPz8gJyc7CiAgICAgICAgICAgICAgICB9KSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRleHQ6Om1ha2UoJ0xldHRlcicsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gJHRoaXMtPmFkZHJlc3NbJ2xldHRlciddID8/ICcnOwogICAgICAgICAgICAgICAgfSksCg==</text>
+        <text encoding="base64">Um91dGU6OmdldCgnL21haWwnLCBmdW5jdGlvbiAoKSB7CiAgICAKfSkK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3Jvdy9hdHRlbmRhbmNl</text>
+        <text>s/&quot;/'/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>row</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>row</last-pattern>
-      <last-replace>attendance</last-replace>
-      <last-substitute>row</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
