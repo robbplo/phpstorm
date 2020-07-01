@@ -103,12 +103,6 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/todo-es/database/migrations/2020_06_29_122330_create_todos_completed_table.php" timestamp="1593435421686">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="52" />
-        <mark key="^" line="16" column="25" />
-        <mark key="." line="16" column="24" />
-      </file>
       <file name="$USER_HOME$/projects/todo-es/app/Domain/Todo/Events/TodoCompleted.php" timestamp="1593435427573">
         <mark key="[" line="10" column="32" />
         <mark key="]" line="10" column="35" />
@@ -130,6 +124,11 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/.env" timestamp="1593604577932">
+        <mark key="[" line="26" column="10" />
+        <mark key="]" line="26" column="10" />
+        <mark key="." line="26" column="10" />
       </file>
       <file name="$USER_HOME$/projects/todo-es/app/Domain/Todo/Events/TodoCreated.php" timestamp="1593435435992">
         <mark key="'" line="11" column="32" />
@@ -299,11 +298,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIG5vdmEK</text>
+      <register name="&quot;" type="4">
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>'null'</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>row</text>
