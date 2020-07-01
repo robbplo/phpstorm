@@ -135,7 +135,9 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/vendor/spatie/calendar-links/src/Generators/Ics.php" timestamp="1593609537618" />
+      <file name="$USER_HOME$/projects/attendance/vendor/spatie/calendar-links/src/Generators/Ics.php" timestamp="1593615359424">
+        <mark key="'" line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/attendance/database/factories/ParticipantFactory.php" timestamp="1593591502133">
         <mark key="[" line="33" column="9" />
         <mark key="]" line="33" column="10" />
@@ -164,17 +166,11 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/composer.json" timestamp="1593614924036">
-        <mark key="[" line="59" column="49" />
-        <mark key="]" line="59" column="49" />
-        <mark key="." line="59" column="49" />
-      </file>
       <file name="$USER_HOME$/projects/attendance/app/Notifications/WelcomeUserNotification.php" timestamp="1593605847411">
         <mark key="[" line="49" column="39" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="24" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
       <jump line="102" column="21" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
       <jump line="91" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
@@ -274,6 +270,7 @@
       <jump line="46" column="12" filename="$USER_HOME$/projects/attendance/app/Nova/Actions/DownloadAttendancesExcel.php" />
       <jump line="24" column="20" filename="$USER_HOME$/projects/attendance/storage/logs/laravel.log" />
       <jump line="45" column="27" filename="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" />
+      <jump line="15" column="0" filename="$USER_HOME$/projects/attendance/vendor/spatie/calendar-links/src/Generators/Ics.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
