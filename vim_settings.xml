@@ -97,7 +97,34 @@
         <mark key="." line="87" column="40" />
         <mark key="^" line="87" column="41" />
       </file>
-      <file name="$USER_HOME$/projects/auth.smit/domain/Tenant/Authentication/Adapters/Register/IQVIA.php" timestamp="1593502862777" />
+      <file name="$USER_HOME$/projects/attendance/database/migrations/2019_08_13_000000_create_nova_settings_table.php" timestamp="1593593370186">
+        <mark key="[" line="30" column="29" />
+        <mark key="]" line="31" column="14" />
+        <mark key="." line="31" column="13" />
+        <mark key="^" line="31" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/tests/Feature/CloseExpiredMeetingsCommandTest.php" timestamp="1593593232797">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/vendor/spatie/calendar-links/src/Generators/Ics.php" timestamp="1593615359424">
+        <mark key="'" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/.env" timestamp="1593616564438">
+        <mark key="[" line="38" column="35" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/app/Notifications/WelcomeUserNotification.php" timestamp="1593605847411">
+        <mark key="[" line="49" column="39" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/routes/web.php" timestamp="1593607065991">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/attendance/app/Exports/FutureAttendancesExport.php" timestamp="1593591211372">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="66" column="0" />
@@ -111,63 +138,39 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Console/Commands/ExportFutureAttendances.php" timestamp="1593509961681">
-        <mark key="'" line="24" column="6" />
-      </file>
-      <file name="$USER_HOME$/projects/attendance/tests/Feature/CloseExpiredMeetingsCommandTest.php" timestamp="1593593232797">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/attendance/storage/logs/laravel-2020-07-01.log" timestamp="1593608933291" />
-      <file name="$USER_HOME$/projects/attendance/.env" timestamp="1593608861016">
-        <mark key="[" line="38" column="35" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/attendance/storage/logs/laravel.log" timestamp="1593605432424">
-        <mark key="'" line="24" column="20" />
-      </file>
-      <file name="$USER_HOME$/projects/attendance/app/Http/Controllers/MeetingController.php" timestamp="1593605659646" />
-      <file name="$USER_HOME$/projects/mail/routes/web.php" timestamp="1593606062870">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="16" column="29" />
-      </file>
-      <file name="$USER_HOME$/projects/attendance/vendor/spatie/calendar-links/src/Generators/Ics.php" timestamp="1593615359424">
-        <mark key="'" line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/attendance/database/factories/ParticipantFactory.php" timestamp="1593591502133">
         <mark key="[" line="33" column="9" />
         <mark key="]" line="33" column="10" />
         <mark key="^" line="33" column="10" />
         <mark key="." line="33" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/database/migrations/2019_08_13_000000_create_nova_settings_table.php" timestamp="1593593370186">
-        <mark key="[" line="30" column="29" />
-        <mark key="]" line="31" column="14" />
-        <mark key="." line="31" column="13" />
-        <mark key="^" line="31" column="14" />
-      </file>
-      <file name="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" timestamp="1593609809458">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="48" column="46" />
-      </file>
       <file name="$USER_HOME$/projects/attendance/app/Nova/Actions/DownloadAttendancesExcel.php" timestamp="1593591224007">
         <mark key="'" line="46" column="12" />
         <mark key="]" line="23" column="22" />
         <mark key="^" line="48" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/routes/web.php" timestamp="1593607065991">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/projects/attendance/domain/CalendarLinks/IcsFileGenerator.php" timestamp="1593616351146">
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="58" />
+        <mark key="^" line="36" column="8" />
+        <mark key="." line="37" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Notifications/WelcomeUserNotification.php" timestamp="1593605847411">
-        <mark key="[" line="49" column="39" />
+      <file name="$USER_HOME$/projects/attendance/app/Console/Commands/ExportFutureAttendances.php" timestamp="1593509961681">
+        <mark key="'" line="24" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/storage/logs/laravel.log" timestamp="1593605432424">
+        <mark key="'" line="24" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/mail/routes/web.php" timestamp="1593606062870">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="16" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" timestamp="1593616441949">
+        <mark key="[" line="80" column="98" />
+        <mark key="]" line="80" column="96" />
+        <mark key="." line="80" column="95" />
+        <mark key="^" line="80" column="96" />
       </file>
     </filemarks>
     <jumps>
@@ -276,10 +279,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">LT5pY3MoKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">LT5pY3MoKTs=</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -288,7 +291,7 @@
         <text encoding="base64">ICAgICAgICAkcGFydGljaXBhbnQtPm5vdGlmeShuZXcgU2lnbmVkVXBOb3RpZmljYXRpb24oJG1lZXRpbmcpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KGNkICIkZCIgJiYgY29tcG9zZXIgaW5zdGFsbCAmJiB5YXJuIGluc3RhbGwgJiYgeWFybiBydW4gcHJvZCAtLXByb2dyZXNzIGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICBub3coKS0+Y2xvbgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -306,28 +309,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hdHRhY2goc3RvcmFnZV9wYXRoKCdhcHAvJyAuICR0aGlzLT5nZW5lcmF0ZUljcygpKSkKCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5saW5lKCc8YSBocmVmPSInLiAgLiciPjwvYT4nKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkZnJvbSA9ICR0aGlzLT5tZWV0aW5nLT5zdGFydGluZ0RhdGVUaW1lOwogICAgICAgICR0byA9ICRmcm9tLT5hZGRIb3VycygyKTsgLy8gQHRvZG8gdGlqZCBuYXZyYWdlbgoKICAgICAgICAkaWNzID0gTGluazo6Y3JlYXRlKCR0aGlzLT5tZWV0aW5nLT50aXRsZSwgJGZyb20sICR0byktPmljcygpOwo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAtPmFjdGlvbignVm9lZyB0b2UgYWFuIGthbGVuZGVyJywgJGljcykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">KGNkICIkZCIgJiYgY29tcG9zZXIgaW5zdGFsbCAmJiB5YXJuIGluc3RhbGwgJiYgeWFybiBydW4gcHJvZCAtLXByb2dyZXNzIGZhbHNlKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT5hdHRhY2goc3RvcmFnZV9wYXRoKCdhcHAvJyAuICR0aGlzLT5nZW5lcmF0ZUljcygpKSkKCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hdHRhY2goJy9lcmdlbnMvYmVzdGFuZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5saW5lKCc8YSBocmVmPSInLiAgLiciPjwvYT4nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPmF0dGFjaERhdGEoJGljcywgJ2ludml0ZS5pY3MnLCBbJ21pbWUnID0+ICd0ZXh0L2NhbGVuZGFyJ10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hdHRhY2hEYXRhKCkK</text>
+        <text encoding="base64">ICAgICAgICAkZnJvbSA9ICR0aGlzLT5tZWV0aW5nLT5zdGFydGluZ0RhdGVUaW1lOwogICAgICAgICR0byA9ICRmcm9tLT5hZGRIb3VycygyKTsgLy8gQHRvZG8gdGlqZCBuYXZyYWdlbgoKICAgICAgICAkaWNzID0gTGluazo6Y3JlYXRlKCR0aGlzLT5tZWV0aW5nLT50aXRsZSwgJGZyb20sICR0byktPmljcygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hdHRhY2goJy9lcmdlbnMvYmVzdGFuZCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/&quot;/'/g</text>
