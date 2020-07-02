@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Lo</entry>
-        <entry>set</entry>
-        <entry>$pickupLocation</entry>
-        <entry>part</entry>
         <entry>where</entry>
         <entry>key</entry>
         <entry>result</entry>
@@ -27,6 +23,10 @@
         <entry>row</entry>
         <entry>&quot;</entry>
         <entry>tit</entry>
+        <entry>mee</entry>
+        <entry>L</entry>
+        <entry>self</entry>
+        <entry>$this</entry>
       </history-search>
       <history-cmd>
         <entry>s/`/'/g</entry>
@@ -97,6 +97,12 @@
         <mark key="." line="87" column="40" />
         <mark key="^" line="87" column="41" />
       </file>
+      <file name="$USER_HOME$/projects/attendance/domain/MeetingExporter.php" timestamp="1593675569208">
+        <mark key="[" line="63" column="49" />
+        <mark key="]" line="63" column="62" />
+        <mark key="." line="63" column="61" />
+        <mark key="^" line="63" column="62" />
+      </file>
       <file name="$USER_HOME$/projects/attendance/database/migrations/2019_08_13_000000_create_nova_settings_table.php" timestamp="1593593370186">
         <mark key="[" line="30" column="29" />
         <mark key="]" line="31" column="14" />
@@ -110,6 +116,9 @@
       </file>
       <file name="$USER_HOME$/projects/attendance/vendor/spatie/calendar-links/src/Generators/Ics.php" timestamp="1593615359424">
         <mark key="'" line="15" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1593675035944">
+        <mark key="[" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/projects/attendance/.env" timestamp="1593673822549">
         <mark key="[" line="38" column="35" />
@@ -149,37 +158,41 @@
         <mark key="]" line="23" column="22" />
         <mark key="^" line="48" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/domain/CalendarLinks/IcsFileGenerator.php" timestamp="1593673336901">
-        <mark key="[" line="24" column="14" />
-        <mark key="]" line="24" column="14" />
-        <mark key="^" line="36" column="8" />
-        <mark key="." line="24" column="14" />
-      </file>
-      <file name="$USER_HOME$/projects/attendance/app/Console/Commands/ExportFutureAttendances.php" timestamp="1593509961681">
-        <mark key="'" line="24" column="6" />
+      <file name="$USER_HOME$/projects/attendance/domain/CalendarLinks/IcsFileGenerator.php" timestamp="1593674747942">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/attendance/storage/logs/laravel.log" timestamp="1593605432424">
         <mark key="'" line="24" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/domain/CalendarLinks/MeetingIcsGenerator.php" timestamp="1593675017524">
+        <mark key="'" line="20" column="21" />
+        <mark key="[" line="22" column="37" />
+        <mark key="]" line="22" column="48" />
+        <mark key="." line="22" column="37" />
+        <mark key="^" line="20" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/domain/CalendarLinks/MeetingInviteGenerator.php" timestamp="1593675270894">
+        <mark key="[" line="18" column="43" />
+        <mark key="]" line="18" column="60" />
+        <mark key="^" line="18" column="60" />
+        <mark key="." line="18" column="59" />
       </file>
       <file name="$USER_HOME$/projects/mail/routes/web.php" timestamp="1593606062870">
         <mark key="[" line="17" column="4" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" timestamp="1593673565435">
-        <mark key="'" line="80" column="11" />
-        <mark key="[" line="80" column="44" />
-        <mark key="]" line="80" column="58" />
-        <mark key="." line="80" column="57" />
-        <mark key="^" line="80" column="58" />
+      <file name="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" timestamp="1593675083852">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="42" column="61" />
+        <mark key="." line="41" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
-      <jump line="5" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
-      <jump line="106" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
-      <jump line="42" column="45" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" />
-      <jump line="112" column="51" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
       <jump line="114" column="45" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
       <jump line="96" column="43" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
       <jump line="129" column="12" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
@@ -275,24 +288,29 @@
       <jump line="45" column="27" filename="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" />
       <jump line="15" column="0" filename="$USER_HOME$/projects/attendance/vendor/spatie/calendar-links/src/Generators/Ics.php" />
       <jump line="80" column="11" filename="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" />
+      <jump line="9" column="3" filename="$USER_HOME$/projects/attendance/domain/CalendarLinks/IcsFileGenerator.php" />
+      <jump line="6" column="4" filename="$USER_HOME$/projects/attendance/domain/CalendarLinks/MeetingIcsGenerator.php" />
+      <jump line="20" column="21" filename="$USER_HOME$/projects/attendance/domain/CalendarLinks/MeetingIcsGenerator.php" />
+      <jump line="47" column="42" filename="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>title</text>
+        <text>cell</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>cell</text>
       </register>
       <register name="/" type="4">
-        <text>tit</text>
+        <text>$this</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFydGljaXBhbnQtPm5vdGlmeShuZXcgU2lnbmVkVXBOb3RpZmljYXRpb24oJG1lZXRpbmcpKTsK</text>
+      <register name="0" type="4">
+        <text>self::$path</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBub3coKS0+Y2xvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -310,28 +328,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZnJvbSA9ICR0aGlzLT5tZWV0aW5nLT5zdGFydGluZ0RhdGVUaW1lOwogICAgICAgICR0byA9ICRmcm9tLT5hZGRIb3VycygyKTsgLy8gQHRvZG8gdGlqZCBuYXZyYWdlbgoKICAgICAgICAkaWNzID0gTGluazo6Y3JlYXRlKCR0aGlzLT5tZWV0aW5nLT50aXRsZSwgJGZyb20sICR0byktPmljcygpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPmFjdGlvbignVm9lZyB0b2UgYWFuIGthbGVuZGVyJywgJGljcykK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">KGNkICIkZCIgJiYgY29tcG9zZXIgaW5zdGFsbCAmJiB5YXJuIGluc3RhbGwgJiYgeWFybiBydW4gcHJvZCAtLXByb2dyZXNzIGZhbHNlKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hdHRhY2goc3RvcmFnZV9wYXRoKCdhcHAvJyAuICR0aGlzLT5nZW5lcmF0ZUljcygpKSkKCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5saW5lKCc8YSBocmVmPSInLiAgLiciPjwvYT4nKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CgogICAgICAgIC8vIEB0b2RvIC5pY3MgdG9ldm9lZ2VuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIERvbWFpblxDYWxlbmRhckxpbmtzXEljc0ZpbGVHZW5lcmF0b3I7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFN0b3JhZ2U7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIFNwYXRpZVxDYWxlbmRhckxpbmtzXExpbms7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dXNlIE1lZXRpbmdJbnZpdGVHZW5lcmF0b3I7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZnJvbSA9ICR0aGlzLT5tZWV0aW5nLT5zdGFydGluZ0RhdGVUaW1lOwogICAgICAgICR0byA9ICRmcm9tLT5hZGRIb3VycygyKTsgLy8gQHRvZG8gdGlqZCBuYXZyYWdlbgoKICAgICAgICAkaWNzID0gTGluazo6Y3JlYXRlKCR0aGlzLT5tZWV0aW5nLT50aXRsZSwgJGZyb20sICR0byktPmljcygpOwo=</text>
+        <text encoding="base64">dXNlIERvbWFpblxDYWxlbmRhckxpbmtzXEljc0ZpbGVHZW5lcmF0b3I7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hdHRhY2goJy9lcmdlbnMvYmVzdGFuZCcpCg==</text>
+        <text encoding="base64">CiAgICAgICAgJHBhdGggPSAnaW52aXRlLmljcyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/&quot;/'/g</text>
@@ -340,9 +358,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>tit</last-search>
+      <last-search>$this</last-search>
       <last-offset />
-      <last-pattern>tit</last-pattern>
+      <last-pattern>$this</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
