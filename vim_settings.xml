@@ -91,11 +91,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/attendance/domain/MeetingExporter.php" timestamp="1593675569208">
-        <mark key="[" line="63" column="49" />
-        <mark key="]" line="63" column="62" />
-        <mark key="." line="63" column="61" />
-        <mark key="^" line="63" column="62" />
+      <file name="$USER_HOME$/projects/attendance/domain/MeetingExporter.php" timestamp="1593677790007">
+        <mark key="[" line="43" column="18" />
+        <mark key="]" line="44" column="39" />
+        <mark key="." line="44" column="38" />
+        <mark key="^" line="44" column="39" />
       </file>
       <file name="/Dummy.txt" timestamp="1593676698863">
         <mark key="[" line="0" column="0" />
@@ -106,16 +106,19 @@
         <mark key="." line="31" column="13" />
         <mark key="^" line="31" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/tests/Feature/CloseExpiredMeetingsCommandTest.php" timestamp="1593593232797">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/projects/attendance/app/Exports/AttendanceExport.php" timestamp="1593678035231">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="13" />
       </file>
       <file name="$USER_HOME$/projects/attendance/vendor/spatie/calendar-links/src/Generators/Ics.php" timestamp="1593615359424">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1593675035944">
-        <mark key="[" line="0" column="10" />
+      <file name="/a.dummy" timestamp="1593678046358">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/attendance/.env" timestamp="1593673822549">
         <mark key="[" line="38" column="35" />
@@ -131,12 +134,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Exports/FutureAttendancesExport.php" timestamp="1593591211372">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="67" column="22" />
-        <mark key="." line="38" column="30" />
-        <mark key="^" line="38" column="31" />
+      <file name="$USER_HOME$/projects/attendance/app/Exports/FutureAttendancesExport.php" timestamp="1593678079250">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="12" column="4" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice/.env" timestamp="1593613287446">
         <mark key="[" line="23" column="34" />
@@ -144,21 +147,27 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/database/factories/ParticipantFactory.php" timestamp="1593591502133">
-        <mark key="[" line="33" column="9" />
-        <mark key="]" line="33" column="10" />
-        <mark key="^" line="33" column="10" />
-        <mark key="." line="33" column="9" />
+      <file name="$USER_HOME$/projects/attendance/app/Nova/Actions/DownloadAttendancesExcel.php" timestamp="1593678102722">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Nova/Actions/DownloadAttendancesExcel.php" timestamp="1593591224007">
-        <mark key="'" line="46" column="12" />
-        <mark key="]" line="23" column="22" />
-        <mark key="^" line="48" column="48" />
-      </file>
-      <file name="$USER_HOME$/projects/attendance/domain/CalendarLinks/IcsFileGenerator.php" timestamp="1593674747942">
+      <file name="$USER_HOME$/projects/attendance/domain/CalendarLinks/IcsFileGenerator.php" timestamp="1593677471897">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/app/Exports/ExportsAttendances.php" timestamp="1593678155975">
+        <mark key="'" line="8" column="4" />
+        <mark key="[" line="19" column="46" />
+        <mark key="]" line="19" column="46" />
+        <mark key="." line="19" column="45" />
+        <mark key="^" line="19" column="46" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/app/Console/Commands/ExportFutureAttendances.php" timestamp="1593678341980">
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="27" />
       </file>
       <file name="$USER_HOME$/projects/attendance/storage/logs/laravel.log" timestamp="1593605432424">
         <mark key="'" line="24" column="20" />
@@ -181,18 +190,14 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" timestamp="1593675083852">
-        <mark key="'" line="5" column="0" />
+      <file name="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" timestamp="1593677647711">
+        <mark key="'" line="72" column="0" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
-        <mark key="^" line="42" column="61" />
         <mark key="." line="41" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="45" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
-      <jump line="96" column="43" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
-      <jump line="129" column="12" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/contact_details.blade.php" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
       <jump line="18" column="13" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
       <jump line="51" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
@@ -290,24 +295,27 @@
       <jump line="20" column="21" filename="$USER_HOME$/projects/attendance/domain/CalendarLinks/MeetingIcsGenerator.php" />
       <jump line="47" column="42" filename="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" />
+      <jump line="58" column="0" filename="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" />
+      <jump line="72" column="0" filename="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" />
+      <jump line="9" column="4" filename="$USER_HOME$/projects/attendance/app/Exports/ExportsAttendances.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>cell</text>
+        <text>'attendance:export-future'</text>
       </register>
       <register name="-" type="4">
-        <text>cell</text>
+        <text>'attendance:export-future'</text>
       </register>
       <register name="/" type="4">
         <text>$this</text>
       </register>
-      <register name="0" type="4">
-        <text>self::$path</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ01lZXRpbmcgaGVlZnQgYWNjcmVkaXRhdGllJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxFbnVtc1xBdHRlbmRhbmNlU3RhdHVzOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -325,28 +333,46 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgogICAgICAgIC8vIEB0b2RvIC5pY3MgdG9ldm9lZ2VuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIERvbWFpblxDYWxlbmRhckxpbmtzXEljc0ZpbGVHZW5lcmF0b3I7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFN0b3JhZ2U7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBtYXAoJGF0dGVuZGFuY2UpOiBhcnJheQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIFNwYXRpZVxDYWxlbmRhckxpbmtzXExpbms7Cg==</text>
+        <text encoding="base64">ewogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICRhdHRlbmRhbmNlLT5pZCwKICAgICAgICAgICAgJGF0dGVuZGFuY2UtPm1lZXRpbmctPnRyYWluaW5nLT5uYW1lLAogICAgICAgICAgICAkYXR0ZW5kYW5jZS0+bWVldGluZy0+cGVfb25saW5lX2lkLAogICAgICAgICAgICAkYXR0ZW5kYW5jZS0+bWVldGluZy0+ZGF0ZSwKICAgICAgICAgICAgJGF0dGVuZGFuY2UtPm1lZXRpbmctPnN0YXJ0aW5nX3RpbWUsCiAgICAgICAgICAgICRhdHRlbmRhbmNlLT5tZWV0aW5nLT5oYXNfYWNjcmVkaXRhdGlvbiA/ICdKYScgOiAnTmVlJywKICAgICAgICAgICAgJGF0dGVuZGFuY2UtPnBhcnRpY2lwYW50LT5uYW1lLAogICAgICAgICAgICAkYXR0ZW5kYW5jZS0+cGFydGljaXBhbnQtPmVtYWlsLAogICAgICAgICAgICBBdHRlbmRhbmNlU3RhdHVzOjpnZXREZXNjcmlwdGlvbigkYXR0ZW5kYW5jZS0+c3RhdHVzKSwKICAgICAgICAgICAgJGF0dGVuZGFuY2UtPnBhcnRpY2lwYW50LT5yZWdpc3RyYXRpb25fdHlwZSwKICAgICAgICAgICAgJGF0dGVuZGFuY2UtPnBhcnRpY2lwYW50LT5yZWdpc3RyYXRpb25fbnVtYmVyLAogICAgICAgICAgICAkYXR0ZW5kYW5jZS0+cGFydGljaXBhbnQtPm9uZWtleV9pZCwKICAgICAgICAgICAgJGF0dGVuZGFuY2UtPnBhcnRpY2lwYW50LT5nZXRBZGRyZXNzTGluZSgpLAogICAgICAgICAgICAkYXR0ZW5kYW5jZS0+Y3JlYXRlZF9hdCwKICAgICAgICAgICAgJGF0dGVuZGFuY2UtPnVwZGF0ZWRfYXQsCiAgICAgICAgXTsKICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIE1lZXRpbmdJbnZpdGVHZW5lcmF0b3I7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBoZWFkaW5ncygpOiBhcnJheQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIERvbWFpblxDYWxlbmRhckxpbmtzXEljc0ZpbGVHZW5lcmF0b3I7Cg==</text>
+        <text>{
+           return [
+            'Attendance ID',
+            'Training Name',
+            'PE-Online ID',
+            'Datum',
+            'Tijd',
+            'Meeting heeft accreditatie',
+            'Participant Name',
+            'Participant E-mail',
+            'Status',
+            'Registration type',
+            'Registration ID',
+            'Onekey ID',
+            'Address',
+            'Joined at',
+            'Updated at',
+        ];
+    }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgJHBhdGggPSAnaW52aXRlLmljcyc7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/&quot;/'/g</text>
