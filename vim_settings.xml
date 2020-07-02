@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>button</entry>
         <entry>Lo</entry>
         <entry>set</entry>
         <entry>$pickupLocation</entry>
@@ -27,6 +26,7 @@
         <entry>stri</entry>
         <entry>row</entry>
         <entry>&quot;</entry>
+        <entry>tit</entry>
       </history-search>
       <history-cmd>
         <entry>s/`/'/g</entry>
@@ -111,7 +111,7 @@
       <file name="$USER_HOME$/projects/attendance/vendor/spatie/calendar-links/src/Generators/Ics.php" timestamp="1593615359424">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/.env" timestamp="1593616564438">
+      <file name="$USER_HOME$/projects/attendance/.env" timestamp="1593673822549">
         <mark key="[" line="38" column="35" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
@@ -149,16 +149,15 @@
         <mark key="]" line="23" column="22" />
         <mark key="^" line="48" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/domain/CalendarLinks/IcsFileGenerator.php" timestamp="1593616351146">
-        <mark key="[" line="37" column="33" />
-        <mark key="]" line="37" column="58" />
+      <file name="$USER_HOME$/projects/attendance/domain/CalendarLinks/IcsFileGenerator.php" timestamp="1593673336901">
+        <mark key="[" line="24" column="14" />
+        <mark key="]" line="24" column="14" />
         <mark key="^" line="36" column="8" />
-        <mark key="." line="37" column="2" />
+        <mark key="." line="24" column="14" />
       </file>
       <file name="$USER_HOME$/projects/attendance/app/Console/Commands/ExportFutureAttendances.php" timestamp="1593509961681">
         <mark key="'" line="24" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice/Envoy.blade.php" timestamp="1593617103445" />
       <file name="$USER_HOME$/projects/attendance/storage/logs/laravel.log" timestamp="1593605432424">
         <mark key="'" line="24" column="20" />
       </file>
@@ -167,15 +166,15 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" timestamp="1593616441949">
-        <mark key="[" line="80" column="98" />
-        <mark key="]" line="80" column="96" />
-        <mark key="." line="80" column="95" />
-        <mark key="^" line="80" column="96" />
+      <file name="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" timestamp="1593673565435">
+        <mark key="'" line="80" column="11" />
+        <mark key="[" line="80" column="44" />
+        <mark key="]" line="80" column="58" />
+        <mark key="." line="80" column="57" />
+        <mark key="^" line="80" column="58" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="21" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
       <jump line="91" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
       <jump line="106" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
@@ -275,18 +274,19 @@
       <jump line="24" column="20" filename="$USER_HOME$/projects/attendance/storage/logs/laravel.log" />
       <jump line="45" column="27" filename="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" />
       <jump line="15" column="0" filename="$USER_HOME$/projects/attendance/vendor/spatie/calendar-links/src/Generators/Ics.php" />
+      <jump line="80" column="11" filename="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LT5pY3MoKTs=</text>
+        <text>title</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5pY3MoKTs=</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>tit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcGFydGljaXBhbnQtPm5vdGlmeShuZXcgU2lnbmVkVXBOb3RpZmljYXRpb24oJG1lZXRpbmcpKTsK</text>
@@ -340,9 +340,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>tit</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>tit</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
