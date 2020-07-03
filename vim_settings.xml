@@ -112,16 +112,16 @@
       <file name="$USER_HOME$/projects/amsterdambeautiful/.env" timestamp="1593685562582">
         <mark key="[" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Console/Commands/ExportFutureAttendances.php" timestamp="1593678341980">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="27" />
-        <mark key="." line="18" column="27" />
-      </file>
       <file name="$USER_HOME$/projects/amsterdambeautiful/index.php" timestamp="1593685572654">
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="26" />
         <mark key="^" line="37" column="21" />
         <mark key="." line="12" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/orisflex/cms-module/method.install.php" timestamp="1593779695377">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/amsterdambeautiful/data/3477875.xml" timestamp="1593685130064" />
       <file name="$USER_HOME$/projects/attendance/.env" timestamp="1593680881926">
@@ -156,19 +156,17 @@
         <mark key="^" line="23" column="54" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/database/migrations/2020_07_02_103116_add_duration_column_to_meetings_table.php" timestamp="1593679375496">
-        <mark key="[" line="28" column="42" />
-        <mark key="]" line="28" column="40" />
-        <mark key="^" line="28" column="40" />
-        <mark key="." line="28" column="39" />
-      </file>
       <file name="$USER_HOME$/projects/SmitAuth/templates/_authenticate.tpl" timestamp="1593692130274" />
+      <file name="$USER_HOME$/projects/orisflex/cms-module/lib/vendor/smit/connexys-client/src/Models/Position.php" timestamp="1593780209070">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="34" />
+      </file>
       <file name="$USER_HOME$/projects/amsterdambeautiful/data/3430866.xml" timestamp="1593685715160" />
-      <file name="$USER_HOME$/projects/attendance/domain/CalendarLinks/MeetingInviteGenerator.php" timestamp="1593679633536">
-        <mark key="[" line="15" column="60" />
-        <mark key="]" line="15" column="59" />
-        <mark key="^" line="15" column="59" />
-        <mark key="." line="15" column="58" />
+      <file name="$USER_HOME$/projects/orisflex/cms-module/lib/class.PositionRepository.php" timestamp="1593780367094">
+        <mark key="[" line="22" column="43" />
+        <mark key="]" line="22" column="44" />
+        <mark key="." line="22" column="44" />
+        <mark key="^" line="22" column="61" />
       </file>
     </filemarks>
     <jumps>
@@ -277,19 +275,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>getStartDate()</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ01lZXRpbmcgaGVlZnQgYWNjcmVkaXRhdGllJywK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRTdGFydERhdGUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -307,204 +305,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9tYXBzLmdvb2dsZWFwaXMuY29tL21hcHMvYXBpL2pzP2tleT1BSXphU3lDbWlHOUZ6VTFPX3NhbldvUlJVQktvX3htQ214cXNIUXMmY2FsbGJhY2s9aW5pdE1hcCZsaWJyYXJpZXM9JnY9d2Vla2x5IiBkZWZlcj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICBhcnJheV8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICJkZW5zaXR5IjogMAogICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>[
-        {
-          &quot;featureType&quot;: &quot;water&quot;,
-          &quot;elementType&quot;: &quot;geometry&quot;,
-          &quot;stylers&quot;: [
-            {
-              &quot;color&quot;: &quot;#e9e9e9&quot;
-            },
-            {
-              &quot;lightness&quot;: 17
-            }
-          ]
-        },
-        {
-          &quot;featureType&quot;: &quot;landscape&quot;,
-          &quot;elementType&quot;: &quot;geometry&quot;,
-          &quot;stylers&quot;: [
-            {
-              &quot;color&quot;: &quot;#f5f5f5&quot;
-            },
-            {
-              &quot;lightness&quot;: 20
-            }
-          ]
-        },
-        {
-          &quot;featureType&quot;: &quot;road.highway&quot;,
-          &quot;elementType&quot;: &quot;geometry.fill&quot;,
-          &quot;stylers&quot;: [
-            {
-              &quot;color&quot;: &quot;#ffffff&quot;
-            },
-            {
-              &quot;lightness&quot;: 17
-            }
-          ]
-        },
-        {
-          &quot;featureType&quot;: &quot;road.highway&quot;,
-          &quot;elementType&quot;: &quot;geometry.stroke&quot;,
-          &quot;stylers&quot;: [
-            {
-              &quot;color&quot;: &quot;#ffffff&quot;
-            },
-            {
-              &quot;lightness&quot;: 29
-            },
-            {
-              &quot;weight&quot;: 0.2
-            }
-          ]
-        },
-        {
-          &quot;featureType&quot;: &quot;road.arterial&quot;,
-          &quot;elementType&quot;: &quot;geometry&quot;,
-          &quot;stylers&quot;: [
-            {
-              &quot;color&quot;: &quot;#ffffff&quot;
-            },
-            {
-              &quot;lightness&quot;: 18
-            }
-          ]
-        },
-        {
-          &quot;featureType&quot;: &quot;road.local&quot;,
-          &quot;elementType&quot;: &quot;geometry&quot;,
-          &quot;stylers&quot;: [
-            {
-              &quot;color&quot;: &quot;#ffffff&quot;
-            },
-            {
-              &quot;lightness&quot;: 16
-            }
-          ]
-        },
-        {
-          &quot;featureType&quot;: &quot;poi&quot;,
-          &quot;elementType&quot;: &quot;geometry&quot;,
-          &quot;stylers&quot;: [
-            {
-              &quot;color&quot;: &quot;#f5f5f5&quot;
-            },
-            {
-              &quot;lightness&quot;: 21
-            }
-          ]
-        },
-        {
-          &quot;featureType&quot;: &quot;poi.park&quot;,
-          &quot;elementType&quot;: &quot;geometry&quot;,
-          &quot;stylers&quot;: [
-            {
-              &quot;color&quot;: &quot;#dedede&quot;
-            },
-            {
-              &quot;lightness&quot;: 21
-            }
-          ]
-        },
-        {
-          &quot;elementType&quot;: &quot;labels.text.stroke&quot;,
-          &quot;stylers&quot;: [
-            {
-              &quot;visibility&quot;: &quot;on&quot;
-            },
-            {
-              &quot;color&quot;: &quot;#ffffff&quot;
-            },
-            {
-              &quot;lightness&quot;: 16
-            }
-          ]
-        },
-        {
-          &quot;elementType&quot;: &quot;labels.text.fill&quot;,
-          &quot;stylers&quot;: [
-            {
-              &quot;saturation&quot;: 36
-            },
-            {
-              &quot;color&quot;: &quot;#333333&quot;
-            },
-            {
-              &quot;lightness&quot;: 40
-            }
-          ]
-        },
-        {
-          &quot;elementType&quot;: &quot;labels.icon&quot;,
-          &quot;stylers&quot;: [
-            {
-              &quot;visibility&quot;: &quot;off&quot;
-            }
-          ]
-        },
-        {
-          &quot;featureType&quot;: &quot;transit&quot;,
-          &quot;elementType&quot;: &quot;geometry&quot;,
-          &quot;stylers&quot;: [
-            {
-              &quot;color&quot;: &quot;#f2f2f2&quot;
-            },
-            {
-              &quot;lightness&quot;: 19
-            }
-          ]
-        },
-        {
-          &quot;featureType&quot;: &quot;administrative&quot;,
-          &quot;elementType&quot;: &quot;geometry.fill&quot;,
-          &quot;stylers&quot;: [
-            {
-              &quot;color&quot;: &quot;#fefefe&quot;
-            },
-            {
-              &quot;lightness&quot;: 20
-            }
-          ]
-        },
-        {
-          &quot;featureType&quot;: &quot;administrative&quot;,
-          &quot;elementType&quot;: &quot;geometry.stroke&quot;,
-          &quot;stylers&quot;: [
-            {
-              &quot;color&quot;: &quot;#fefefe&quot;
-            },
-            {
-              &quot;lightness&quot;: 17
-            },
-            {
-              &quot;weight&quot;: 1.2
-            }
-          ]
-        }
-      ]</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkcm93cyA9IFtdOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbWFwOiBtYXAK</text>
+        <text encoding="base64">ICAgIHN0YXJ0X2RhdGUgVCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YXIgbWFya2VyID0gbmV3IGdvb2dsZS5tYXBzLk1hcmtlcih7CiAgICBwb3NpdGlvbjogY29vcmRzLAogICAgdGl0bGU6ICJTTUlULiBEaWdpdGFhbCB2YWttYW5zY2hhcCIKICAgIG1hcDogbWFwCiAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXQgY29vcmRzID0geyBsYXQ6IDUyLjU2OTcwNjEsIGxuZzogNC42OTMyNjA1IH0K</text>
+        <text encoding="base64">ICAgICAgICAkcSAuPSAnJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBjb29yZHMgPSB7IGxhdDogNTIuNTY5NzA2MSwgbG5nOiA0LjY5MzI2MDUgfQo=</text>
+        <text encoding="base64">ICAgIGNyZWF0ZWRfYXQgVCBERUZUSU1FU1RBTVAsCg==</text>
       </register>
       <register name="9" type="4">
-        <text>.Map(document.getElementById(&quot;map&quot;), {
-      center: c</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/&quot;/'/g</text>
