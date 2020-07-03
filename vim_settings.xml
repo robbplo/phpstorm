@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>where</entry>
         <entry>key</entry>
         <entry>result</entry>
         <entry>pe_online_id</entry>
@@ -27,6 +26,7 @@
         <entry>L</entry>
         <entry>self</entry>
         <entry>$this</entry>
+        <entry>1</entry>
       </history-search>
       <history-cmd>
         <entry>s/`/'/g</entry>
@@ -143,11 +143,11 @@
         <mark key="^" line="136" column="51" />
         <mark key="." line="136" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/map/index.html" timestamp="1593688016341">
-        <mark key="[" line="8" column="115" />
-        <mark key="]" line="8" column="115" />
-        <mark key="." line="8" column="115" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/projects/map/index.html" timestamp="1593772765413">
+        <mark key="'" line="62" column="8" />
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="14" column="10" />
+        <mark key="." line="14" column="10" />
       </file>
       <file name="$USER_HOME$/projects/attendance/database/factories/ParticipantFactory.php" timestamp="1593681065403">
         <mark key="'" line="35" column="0" />
@@ -172,9 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="13" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
-      <jump line="51" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
-      <jump line="144" column="0" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" />
       <jump line="75" column="0" filename="$USER_HOME$/projects/materialenservice/app/Http/Requests/StoreOrderRequest.php" />
       <jump line="43" column="0" filename="$USER_HOME$/projects/materialenservice/app/Http/Requests/StoreOrderRequest.php" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/materialenservice/app/Http/Requests/OrderContactDetailsRequest.php" />
@@ -272,24 +269,27 @@
       <jump line="72" column="0" filename="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" />
       <jump line="9" column="4" filename="$USER_HOME$/projects/attendance/app/Exports/ExportsAttendances.php" />
       <jump line="35" column="0" filename="$USER_HOME$/projects/attendance/database/factories/ParticipantFactory.php" />
+      <jump line="15" column="6" filename="$USER_HOME$/projects/map/index.html" />
+      <jump line="18" column="30" filename="$USER_HOME$/projects/map/index.html" />
+      <jump line="62" column="8" filename="$USER_HOME$/projects/map/index.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
-        <text>$this</text>
+        <text>1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ01lZXRpbmcgaGVlZnQgYWNjcmVkaXRhdGllJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgoc3RyaW5nKSAkZ2FyYWdlcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -307,28 +307,204 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkaW5kZXggPSAkY2xpZW50LT5pbmRleCgpOwo=</text>
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9tYXBzLmdvb2dsZWFwaXMuY29tL21hcHMvYXBpL2pzP2tleT1BSXphU3lDbWlHOUZ6VTFPX3NhbldvUlJVQktvX3htQ214cXNIUXMmY2FsbGJhY2s9aW5pdE1hcCZsaWJyYXJpZXM9JnY9d2Vla2x5IiBkZWZlcj48L3NjcmlwdD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXIoJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICJkZW5zaXR5IjogMAogICAgICAgICAgICB9LAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXIoJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicpOwo=</text>
+      <register name="4" type="4">
+        <text>[
+        {
+          &quot;featureType&quot;: &quot;water&quot;,
+          &quot;elementType&quot;: &quot;geometry&quot;,
+          &quot;stylers&quot;: [
+            {
+              &quot;color&quot;: &quot;#e9e9e9&quot;
+            },
+            {
+              &quot;lightness&quot;: 17
+            }
+          ]
+        },
+        {
+          &quot;featureType&quot;: &quot;landscape&quot;,
+          &quot;elementType&quot;: &quot;geometry&quot;,
+          &quot;stylers&quot;: [
+            {
+              &quot;color&quot;: &quot;#f5f5f5&quot;
+            },
+            {
+              &quot;lightness&quot;: 20
+            }
+          ]
+        },
+        {
+          &quot;featureType&quot;: &quot;road.highway&quot;,
+          &quot;elementType&quot;: &quot;geometry.fill&quot;,
+          &quot;stylers&quot;: [
+            {
+              &quot;color&quot;: &quot;#ffffff&quot;
+            },
+            {
+              &quot;lightness&quot;: 17
+            }
+          ]
+        },
+        {
+          &quot;featureType&quot;: &quot;road.highway&quot;,
+          &quot;elementType&quot;: &quot;geometry.stroke&quot;,
+          &quot;stylers&quot;: [
+            {
+              &quot;color&quot;: &quot;#ffffff&quot;
+            },
+            {
+              &quot;lightness&quot;: 29
+            },
+            {
+              &quot;weight&quot;: 0.2
+            }
+          ]
+        },
+        {
+          &quot;featureType&quot;: &quot;road.arterial&quot;,
+          &quot;elementType&quot;: &quot;geometry&quot;,
+          &quot;stylers&quot;: [
+            {
+              &quot;color&quot;: &quot;#ffffff&quot;
+            },
+            {
+              &quot;lightness&quot;: 18
+            }
+          ]
+        },
+        {
+          &quot;featureType&quot;: &quot;road.local&quot;,
+          &quot;elementType&quot;: &quot;geometry&quot;,
+          &quot;stylers&quot;: [
+            {
+              &quot;color&quot;: &quot;#ffffff&quot;
+            },
+            {
+              &quot;lightness&quot;: 16
+            }
+          ]
+        },
+        {
+          &quot;featureType&quot;: &quot;poi&quot;,
+          &quot;elementType&quot;: &quot;geometry&quot;,
+          &quot;stylers&quot;: [
+            {
+              &quot;color&quot;: &quot;#f5f5f5&quot;
+            },
+            {
+              &quot;lightness&quot;: 21
+            }
+          ]
+        },
+        {
+          &quot;featureType&quot;: &quot;poi.park&quot;,
+          &quot;elementType&quot;: &quot;geometry&quot;,
+          &quot;stylers&quot;: [
+            {
+              &quot;color&quot;: &quot;#dedede&quot;
+            },
+            {
+              &quot;lightness&quot;: 21
+            }
+          ]
+        },
+        {
+          &quot;elementType&quot;: &quot;labels.text.stroke&quot;,
+          &quot;stylers&quot;: [
+            {
+              &quot;visibility&quot;: &quot;on&quot;
+            },
+            {
+              &quot;color&quot;: &quot;#ffffff&quot;
+            },
+            {
+              &quot;lightness&quot;: 16
+            }
+          ]
+        },
+        {
+          &quot;elementType&quot;: &quot;labels.text.fill&quot;,
+          &quot;stylers&quot;: [
+            {
+              &quot;saturation&quot;: 36
+            },
+            {
+              &quot;color&quot;: &quot;#333333&quot;
+            },
+            {
+              &quot;lightness&quot;: 40
+            }
+          ]
+        },
+        {
+          &quot;elementType&quot;: &quot;labels.icon&quot;,
+          &quot;stylers&quot;: [
+            {
+              &quot;visibility&quot;: &quot;off&quot;
+            }
+          ]
+        },
+        {
+          &quot;featureType&quot;: &quot;transit&quot;,
+          &quot;elementType&quot;: &quot;geometry&quot;,
+          &quot;stylers&quot;: [
+            {
+              &quot;color&quot;: &quot;#f2f2f2&quot;
+            },
+            {
+              &quot;lightness&quot;: 19
+            }
+          ]
+        },
+        {
+          &quot;featureType&quot;: &quot;administrative&quot;,
+          &quot;elementType&quot;: &quot;geometry.fill&quot;,
+          &quot;stylers&quot;: [
+            {
+              &quot;color&quot;: &quot;#fefefe&quot;
+            },
+            {
+              &quot;lightness&quot;: 20
+            }
+          ]
+        },
+        {
+          &quot;featureType&quot;: &quot;administrative&quot;,
+          &quot;elementType&quot;: &quot;geometry.stroke&quot;,
+          &quot;stylers&quot;: [
+            {
+              &quot;color&quot;: &quot;#fefefe&quot;
+            },
+            {
+              &quot;lightness&quot;: 17
+            },
+            {
+              &quot;weight&quot;: 1.2
+            }
+          ]
+        }
+      ]</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbWFwOiBtYXAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGFydGljaXBhbnRzID0gUGFydGljaXBhbnQ6OmFsbCgpOwo=</text>
+        <text encoding="base64">ICB2YXIgbWFya2VyID0gbmV3IGdvb2dsZS5tYXBzLk1hcmtlcih7CiAgICBwb3NpdGlvbjogY29vcmRzLAogICAgdGl0bGU6ICJTTUlULiBEaWdpdGFhbCB2YWttYW5zY2hhcCIKICAgIG1hcDogbWFwCiAgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgY29vcmRzID0geyBsYXQ6IDUyLjU2OTcwNjEsIGxuZzogNC42OTMyNjA1IH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBjb29yZHMgPSB7IGxhdDogNTIuNTY5NzA2MSwgbG5nOiA0LjY5MzI2MDUgfQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0VG9rZW4oKTsK</text>
+      <register name="9" type="4">
+        <text>.Map(document.getElementById(&quot;map&quot;), {
+      center: c</text>
       </register>
       <register name=":" type="4">
         <text>s/&quot;/'/g</text>
@@ -337,9 +513,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>$this</last-search>
+      <last-search>1</last-search>
       <last-offset />
-      <last-pattern>$this</last-pattern>
+      <last-pattern>1</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
