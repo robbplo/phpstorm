@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>pe_online_id</entry>
-        <entry>data</entry>
-        <entry>first</entry>
         <entry>true</entry>
         <entry>dr</entry>
         <entry>inde</entry>
@@ -27,9 +24,11 @@
         <entry>1</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>cou</entry>
+        <entry>fail</entry>
+        <entry>st</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
-        <entry>s/`/'/g</entry>
         <entry encoding="base64">JzwsJz5zLzEvMg==</entry>
         <entry encoding="base64">JzwsJz5zL29yZGVyL2RhdGE=</entry>
         <entry encoding="base64">JzwsJz5zL2NvbnRhY3RwZXJzb24vcGhvbmVfbnVtYmVy</entry>
@@ -49,6 +48,7 @@
         <entry>s/first/second/g</entry>
         <entry encoding="base64">JzwsJz5zL3Jvdy9hdHRlbmRhbmNl</entry>
         <entry>s/&quot;/'/g</entry>
+        <entry encoding="base64">JzwsJz5zL2ZhaWwvZXhpdC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -91,69 +91,75 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/accreditation/storage/logs/laravel-2020-07-06.log" timestamp="1594037616516" />
+      <file name="$USER_HOME$/projects/attendance/database/factories/AttendanceFactory.php" timestamp="1594041697248">
+        <mark key="'" line="37" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1594041424395">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/accreditation/app/Http/Requests/StoreCourseRequest.php" timestamp="1594038833788">
         <mark key="[" line="13" column="46" />
         <mark key="]" line="13" column="46" />
         <mark key="." line="13" column="45" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/accreditation/app/Http/Middleware/VerifyCompanyHeader.php" timestamp="1594038634222">
-        <mark key="[" line="17" column="46" />
-        <mark key="]" line="17" column="66" />
-        <mark key="^" line="17" column="66" />
-        <mark key="." line="17" column="65" />
+      <file name="$USER_HOME$/projects/attendance/app/Jobs/CreditAttendance.php" timestamp="1594042805609">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="m" line="48" column="16" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" timestamp="1594028366172">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/projects/attendance/app/Nova/Attendance.php" timestamp="1594043501855">
+        <mark key="[" line="142" column="49" />
+        <mark key="]" line="142" column="49" />
+        <mark key="." line="142" column="49" />
+        <mark key="^" line="141" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Jobs/CreditAttendance.php" timestamp="1594036969163">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="21" />
-        <mark key="m" line="47" column="16" />
-        <mark key="." line="43" column="20" />
-        <mark key="^" line="43" column="21" />
+      <file name="$USER_HOME$/projects/attendance/tests/Unit/SendPostMeetingNotificationsTest.php" timestamp="1594042766373">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/accreditation/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithContentTypes.php" timestamp="1594038748458" />
-      <file name="/PHP Console" timestamp="1594039085494">
+      <file name="/PHP Console" timestamp="1594043596331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Exceptions/AccreditationException.php" timestamp="1594029209828">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="27" column="1" />
+      <file name="$USER_HOME$/projects/attendance/app/Exceptions/AccreditationException.php" timestamp="1594041012311">
+        <mark key="[" line="25" column="91" />
+        <mark key="]" line="25" column="12" />
+        <mark key="^" line="25" column="12" />
+        <mark key="." line="25" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Jobs/RegisterMeetingWithAccreditationService.php" timestamp="1594038908756">
+      <file name="$USER_HOME$/projects/attendance/app/Jobs/RegisterMeetingWithAccreditationService.php" timestamp="1594040225958">
         <mark key="'" line="43" column="20" />
-        <mark key="[" line="39" column="25" />
-        <mark key="]" line="39" column="27" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
         <mark key="^" line="39" column="27" />
-        <mark key="." line="39" column="26" />
+        <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/config/accreditation_service.php" timestamp="1594035901559">
-        <mark key="[" line="3" column="53" />
-        <mark key="]" line="3" column="59" />
-        <mark key="^" line="3" column="59" />
-        <mark key="." line="3" column="58" />
+      <file name="$USER_HOME$/projects/attendance/app/Nova/Actions/SendAttendanceConfirmationEmail.php" timestamp="1594043766325">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="68" column="39" />
+        <mark key="]" line="68" column="40" />
+        <mark key="." line="68" column="40" />
+        <mark key="^" line="72" column="59" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Jobs/RegisterMeetingWithAccreditationServiceJob.php" timestamp="1594037405128">
-        <mark key="[" line="12" column="45" />
-        <mark key="]" line="12" column="45" />
-        <mark key="^" line="12" column="46" />
-        <mark key="." line="12" column="45" />
+      <file name="$USER_HOME$/projects/attendance/app/Traits/ValidatesAccreditation.php" timestamp="1594041988755">
+        <mark key="'" line="13" column="8" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="65" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="19" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/orisflex/cms-module/method.install.php" timestamp="1593782503805">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
+      <file name="$USER_HOME$/projects/attendance/app/Attendance.php" timestamp="1594043491380">
+        <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/.env.example" timestamp="1594035858818">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="35" />
-        <mark key="^" line="6" column="16" />
-        <mark key="." line="6" column="15" />
+      <file name="/Dummy.txt" timestamp="1594041078139">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/storage/logs/laravel-2020-07-06.log" timestamp="1594043479701">
+        <mark key="'" line="21" column="138" />
       </file>
       <file name="$USER_HOME$/projects/attendance/.env" timestamp="1594039098609">
         <mark key="'" line="54" column="0" />
@@ -162,14 +168,12 @@
         <mark key="." line="21" column="17" />
         <mark key="^" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/accreditation/app/Http/Controllers/CourseController.php" timestamp="1594038651949">
-        <mark key="[" line="9" column="1" />
-        <mark key="]" line="9" column="1" />
-        <mark key="^" line="9" column="1" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="/" timestamp="1594038229997">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/attendance/app/Nova/Meeting.php" timestamp="1594040501848">
+        <mark key="'" line="220" column="0" />
+        <mark key="[" line="104" column="17" />
+        <mark key="]" line="105" column="16" />
+        <mark key="." line="105" column="15" />
+        <mark key="^" line="105" column="16" />
       </file>
       <file name="$USER_HOME$/projects/attendance/app/Observers/MeetingObserver.php" timestamp="1594039020712">
         <mark key="[" line="22" column="60" />
@@ -177,27 +181,27 @@
         <mark key="." line="22" column="59" />
         <mark key="^" line="22" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/orisflex/cms-module/lib/class.PositionRepository.php" timestamp="1593780367094">
-        <mark key="[" line="22" column="43" />
-        <mark key="]" line="22" column="44" />
-        <mark key="." line="22" column="44" />
-        <mark key="^" line="22" column="61" />
+      <file name="$USER_HOME$/projects/attendance/tests/Feature/CreditAttendanceTest.php" timestamp="1594042275819">
+        <mark key="'" line="61" column="8" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Jobs/CreditMeeting.php" timestamp="1594036426764" />
+      <file name="$USER_HOME$/projects/attendance/tests/Feature/CreditMeetingTest.php" timestamp="1594042064691">
+        <mark key="'" line="52" column="38" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="74" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="56" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/app/Jobs/CreditMeeting.php" timestamp="1594042808557">
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="28" column="38" />
+        <mark key="." line="28" column="37" />
+        <mark key="^" line="28" column="38" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="16" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" />
-      <jump line="97" column="16" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" />
-      <jump line="98" column="16" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" />
-      <jump line="76" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
-      <jump line="14" column="65" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
-      <jump line="15" column="49" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
-      <jump line="29" column="64" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
-      <jump line="44" column="84" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
-      <jump line="59" column="64" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
-      <jump line="95" column="10" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
-      <jump line="20" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
-      <jump line="86" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/shipping_address.blade.php" />
       <jump line="28" column="29" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
       <jump line="32" column="47" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_point.blade.php" />
@@ -286,24 +290,36 @@
       <jump line="53" column="0" filename="$USER_HOME$/projects/attendance/.env" />
       <jump line="49" column="14" filename="$USER_HOME$/projects/attendance/app/Jobs/RegisterMeetingWithAccreditationService.php" />
       <jump line="42" column="20" filename="$USER_HOME$/projects/attendance/app/Jobs/RegisterMeetingWithAccreditationService.php" />
+      <jump line="160" column="5" filename="$USER_HOME$/projects/attendance/app/Nova/Meeting.php" />
+      <jump line="220" column="0" filename="$USER_HOME$/projects/attendance/app/Nova/Meeting.php" />
+      <jump line="29" column="30" filename="$USER_HOME$/projects/attendance/app/Jobs/CreditAttendance.php" />
+      <jump line="69" column="0" filename="$USER_HOME$/projects/attendance/app/Jobs/CreditAttendance.php" />
+      <jump line="37" column="0" filename="$USER_HOME$/projects/attendance/database/factories/AttendanceFactory.php" />
+      <jump line="35" column="15" filename="$USER_HOME$/projects/attendance/tests/Feature/CreditMeetingTest.php" />
+      <jump line="51" column="38" filename="$USER_HOME$/projects/attendance/tests/Feature/CreditMeetingTest.php" />
+      <jump line="13" column="8" filename="$USER_HOME$/projects/attendance/app/Traits/ValidatesAccreditation.php" />
+      <jump line="72" column="8" filename="$USER_HOME$/projects/attendance/tests/Feature/CreditAttendanceTest.php" />
+      <jump line="47" column="0" filename="$USER_HOME$/projects/attendance/app/Nova/Actions/SendAttendanceConfirmationEmail.php" />
+      <jump line="21" column="138" filename="$USER_HOME$/projects/attendance/storage/logs/laravel-2020-07-06.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/attendance/app/Attendance.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>database</text>
+        <text encoding="base64">LT5jYW5SdW4oZnVuY3Rpb24gKFJlcXVlc3QgJHJlcXVlc3QsICRhdHRlbmRhbmNlKSB7CiAgICAgICAgICAgIH0pLA==</text>
       </register>
       <register name="-" type="4">
-        <text>database</text>
+        <text encoding="base64">bWVldGluZ3Mg</text>
       </register>
       <register name="/" type="4">
-        <text>cou</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QUNDUkVESVRBVElPTl9TRVJWSUNFX0VOQUJMRUQ9ZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJG1vZGVscy0+ZmlsdGVyKGZ1bmN0aW9uICgkYXR0ZW5kYW5jZSkgewogICAgICAgICAgICByZXR1cm4gJGF0dGVuZGFuY2UtPm1lZXRpbmctPmNsb3NpbmdEYXRlIDwgbm93KCk7CiAgICAgICAgfSktPmlzRW1wdHkoKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgKCRtZWV0aW5nLT5oYXNfYWNjcmVkaXRhdGlvbiAmJiBjb25maWcoJ2FjY3JlZGl0YXRpb25fc2VydmljZS5lbmFibGVkJykpIHsKICAgICAgICAgICAgZGlzcGF0Y2hfbm93KG5ldyBSZWdpc3Rlck1lZXRpbmdXaXRoQWNjcmVkaXRhdGlvblNlcnZpY2UoJG1lZXRpbmcpKTsKICAgICAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LT5jYW5SdW4oZnVuY3Rpb24gKFJlcXVlc3QgJHJlcXVlc3QsICRhdHRlbmRhbmNlKSB7CiAgICAgICAgICAgIH0pLA==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -321,42 +337,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Jhc2UnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEFjdGlvbjo6ZGFuZ2VyKCcnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICdNZWV0aW5nIGhhcyBubyBhY2NyZWRpdGF0aW9uJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEFjY3JlZGl0YXRpb25FeGNlcHRpb24oJHRoaXMtPmF0dGVuZGFuY2UsICk7Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiB2YWxpZGF0ZSgkbW9kZWxzKTogP3N0cmluZwogICAgewogICAgICAgICRjbG9zaW5nRGF0ZSA9ICRtb2RlbHMtPmZpbHRlcihmdW5jdGlvbiAoJGF0dGVuZGFuY2UpIHsKICAgICAgICAgICAgcmV0dXJuICRhdHRlbmRhbmNlLT5tZWV0aW5nLT5jbG9zaW5nRGF0ZSA8IG5vdygpOwogICAgICAgIH0pLT5pc0VtcHR5KCk7CiAgICAgICAgCiAgICAgICAgaWYgKCRjbG9zaW5nRGF0ZSkgewogICAgICAgICAgICByZXR1cm4gJ01lZXRpbmcgaGFzIG5vIGFjY3JlZGl0YXRpb24nOwogICAgICAgICAgICByZXR1cm4gQWN0aW9uOjpkYW5nZXIoJ0NvbmZpcm1hdGlvbiBjYW50IGJlIHNlbnQgd2hlbiBtZWV0aW5nIGNsb3NpbmcgZGF0ZSBoYXMgcGFzc2VkLicpOwogICAgICAgIH0KCiAgICAgICAgJHN0YXR1cyA9ICRtb2RlbHMtPmZpbHRlcihmdW5jdGlvbiAoJGF0dGVuZGFuY2UpIHsKICAgICAgICAgICAgcmV0dXJuICRhdHRlbmRhbmNlLT5zdGF0dXMgPT09IEF0dGVuZGFuY2VTdGF0dXM6OlNJR05FRF9VUDsKICAgICAgICB9KS0+aXNFbXB0eSgpOwogICAgICAgIAogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEFjY3JlZGl0YXRpb25FeGNlcHRpb24oJHRoaXMtPmF0dGVuZGFuY2UsICk7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPikK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRhdHRlbmRhbmNlLT5tZWV0aW5nLT5jbG9zaW5nRGF0ZSA8IG5vdygpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/&quot;/'/g</text>
+        <text encoding="base64">JzwsJz5zL2ZhaWwvZXhpdC9n</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>cou</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>cou</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern>'</last-pattern>
+      <last-replace>exit</last-replace>
+      <last-substitute>fail</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
