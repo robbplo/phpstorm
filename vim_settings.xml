@@ -91,22 +91,61 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" timestamp="1594028366172">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/app/Jobs/CreditAttendance.php" timestamp="1594036384690">
+        <mark key="[" line="47" column="34" />
+        <mark key="]" line="55" column="17" />
+        <mark key="m" line="47" column="16" />
+        <mark key="." line="55" column="16" />
+        <mark key="^" line="55" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/app/Exceptions/AccreditationException.php" timestamp="1594029209828">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="27" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/config/accreditation_service.php" timestamp="1594035901559">
+        <mark key="[" line="3" column="53" />
+        <mark key="]" line="3" column="59" />
+        <mark key="^" line="3" column="59" />
+        <mark key="." line="3" column="58" />
+      </file>
+      <file name="$USER_HOME$/projects/amsterdambeautiful/.env" timestamp="1593685562582">
+        <mark key="[" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/attendance/app/Jobs/RegisterMeetingWithAccreditationServiceJob.php" timestamp="1594034778368">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="57" column="87" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/amsterdambeautiful/index.php" timestamp="1593685572654">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="26" />
+        <mark key="^" line="37" column="21" />
+        <mark key="." line="12" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/orisflex/cms-module/method.install.php" timestamp="1593782503805">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/.env" timestamp="1593680881926">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="0" />
+      <file name="$USER_HOME$/projects/attendance/.env.example" timestamp="1594035858818">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="35" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Console/Commands/SyncUserAttributes.php" timestamp="1594028366172">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/projects/attendance/.env" timestamp="1594035861411">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="8" column="29" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" timestamp="1593766298960">
         <mark key="[" line="19" column="5" />
@@ -126,25 +165,6 @@
         <mark key="." line="18" column="38" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/amsterdambeautiful/src/Client.php" timestamp="1593684922660">
-        <mark key="[" line="342" column="0" />
-        <mark key="]" line="342" column="0" />
-        <mark key="." line="342" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/attendance/app/Exceptions/AccreditationException.php" timestamp="1594029209828">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="27" column="1" />
-      </file>
-      <file name="$USER_HOME$/projects/attendance/database/factories/ParticipantFactory.php" timestamp="1593681065403">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="23" column="54" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/amsterdambeautiful/.env" timestamp="1593685562582">
-        <mark key="[" line="0" column="20" />
-      </file>
       <file name="$USER_HOME$/projects/orisflex/cms-module/lib/vendor/smit/connexys-client/src/Models/Position.php" timestamp="1593780209070">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="34" />
@@ -155,23 +175,9 @@
         <mark key="." line="22" column="44" />
         <mark key="^" line="22" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Jobs/RegisterMeetingWithAccreditationServiceJob.php" timestamp="1594031512473">
-        <mark key="[" line="57" column="87" />
-        <mark key="]" line="57" column="87" />
-        <mark key="^" line="57" column="87" />
-        <mark key="." line="57" column="86" />
-      </file>
-      <file name="$USER_HOME$/projects/amsterdambeautiful/index.php" timestamp="1593685572654">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="26" />
-        <mark key="^" line="37" column="21" />
-        <mark key="." line="12" column="26" />
-      </file>
+      <file name="$USER_HOME$/projects/attendance/app/Jobs/CreditMeeting.php" timestamp="1594036426764" />
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/projects/materialenservice/app/Http/Requests/StoreOrderRequest.php" />
-      <jump line="43" column="0" filename="$USER_HOME$/projects/materialenservice/app/Http/Requests/StoreOrderRequest.php" />
-      <jump line="6" column="0" filename="$USER_HOME$/projects/materialenservice/app/Http/Requests/OrderContactDetailsRequest.php" />
       <jump line="86" column="12" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" />
       <jump line="95" column="25" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" />
       <jump line="96" column="16" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" />
@@ -269,24 +275,27 @@
       <jump line="15" column="6" filename="$USER_HOME$/projects/map/index.html" />
       <jump line="18" column="30" filename="$USER_HOME$/projects/map/index.html" />
       <jump line="62" column="8" filename="$USER_HOME$/projects/map/index.html" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/attendance/.env" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/attendance/.env" />
+      <jump line="53" column="0" filename="$USER_HOME$/projects/attendance/.env" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Marked as &quot;Credited&quot;</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Marked as &quot;Credited&quot;</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRTdGFydERhdGUoKQo=</text>
+        <text encoding="base64">QUNDUkVESVRBVElPTl9TRVJWSUNFX0VOQUJMRUQ9ZmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISApCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -304,28 +313,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwYXRjaF9ub3cobmV3IFJlZ2lzdGVyTWVldGluZ1dpdGhBY2NyZWRpdGF0aW9uU2VydmljZUpvYigkbWVldGluZykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEFjY3JlZGl0YXRpb25FeGNlcHRpb24oJHRoaXMtPmF0dGVuZGFuY2UsICk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEFjY3JlZGl0YXRpb25FeGNlcHRpb24oJHRoaXMtPmF0dGVuZGFuY2UsICk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjcmVhdGVkKE1lZXRpbmcgJG1lZXRpbmcpCiAgICB7CiAgICAgICAgLy8gTWFrZXMgc3VyZSBhIGNvdXJzZV9rZXkgaXMgYXZhaWxhYmxlIGZvciBhY2NyZWRpdGluZyBhdHRlbmRhbmNlcwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwYXRjaChuZXcgUmVnaXN0ZXJNZWV0aW5nV2l0aEFjY3JlZGl0YXRpb25TZXJ2aWNlSm9iKCRtZWV0aW5nKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNwYXRjaF9ub3cobmV3IFJlZ2lzdGVyTWVldGluZ1dpdGhBY2NyZWRpdGF0aW9uU2VydmljZUpvYigkbWVldGluZykpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJheV8K</text>
+      <register name="9" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/&quot;/'/g</text>
