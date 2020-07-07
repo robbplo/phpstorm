@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>true</entry>
         <entry>dr</entry>
         <entry>inde</entry>
         <entry>Su</entry>
@@ -27,6 +26,7 @@
         <entry>fail</entry>
         <entry>st</entry>
         <entry>'</entry>
+        <entry>field</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMg==</entry>
@@ -91,83 +91,89 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/accreditation/storage/logs/laravel-2020-07-06.log" timestamp="1594047441176">
-        <mark key="'" line="53" column="25" />
+      <file name="$USER_HOME$/projects/slack-habit-tracker/.env" timestamp="1594127231293">
+        <mark key="[" line="4" column="15" />
+        <mark key="k" line="4" column="20" />
+        <mark key="]" line="4" column="39" />
+        <mark key="." line="4" column="38" />
+        <mark key="^" line="4" column="39" />
       </file>
-      <file name="/a.dummy" timestamp="1594044696144">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/slack-habit-tracker/database/migrations/2020_07_07_125957_create_habits_table.php" timestamp="1594129540742">
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="17" column="47" />
+        <mark key="^" line="17" column="47" />
+        <mark key="." line="17" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Jobs/CreditAttendance.php" timestamp="1594047194168">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="38" column="72" />
-        <mark key="m" line="49" column="16" />
-        <mark key="]" line="39" column="47" />
-        <mark key="." line="38" column="72" />
-        <mark key="^" line="39" column="47" />
+      <file name="$USER_HOME$/projects/slack-habit-tracker/app/StorableEvents/HabitCreated.php" timestamp="1594130400769">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="32" />
+        <mark key="." line="14" column="31" />
+        <mark key="^" line="14" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/slack-habit-tracker/resources/views/habits/index.blade.php" timestamp="1594130919670">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="43" />
       </file>
       <file name="$USER_HOME$/projects/accreditation/Envoy.blade.php" timestamp="1594111906187" />
-      <file name="$USER_HOME$/projects/accreditation/app/Exceptions/Handler.php" timestamp="1594047539992">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/projects/slack-habit-tracker/app/User.php" timestamp="1594128732562">
+        <mark key="[" line="26" column="43" />
+        <mark key="]" line="26" column="44" />
+        <mark key="." line="26" column="43" />
+        <mark key="^" line="26" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/.env" timestamp="1594046718905">
-        <mark key="'" line="21" column="21" />
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="7" column="34" />
-        <mark key="." line="7" column="34" />
-        <mark key="^" line="21" column="25" />
+      <file name="$USER_HOME$/projects/slack-habit-tracker/resources/views/layouts/app.blade.php" timestamp="1594128844098">
+        <mark key="[" line="24" column="28" />
+        <mark key="]" line="24" column="28" />
+        <mark key="^" line="72" column="20" />
+        <mark key="." line="24" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/accreditation/app/Http/Controllers/CourseController.php" timestamp="1594045446721">
-        <mark key="[" line="18" column="44" />
-        <mark key="]" line="18" column="44" />
-        <mark key="^" line="18" column="44" />
-        <mark key="." line="18" column="43" />
+      <file name="$USER_HOME$/projects/slack-habit-tracker/resources/sass/app.scss" timestamp="1594127895017">
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Nova/Actions/SendAttendanceReminderEmail.php" timestamp="1594047024644">
-        <mark key="'" line="17" column="62" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/projects/slack-habit-tracker/app/Http/Controllers/HabitController.php" timestamp="1594130634807">
+        <mark key="'" line="26" column="30" />
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/accreditation/app/Services/Accreditation/AccreditationService.php" timestamp="1594044926605">
-        <mark key="'" line="54" column="32" />
+      <file name="$USER_HOME$/projects/slack-habit-tracker/resources/views/habits/create.blade.php" timestamp="1594129558135">
+        <mark key="'" line="34" column="8" />
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="14" column="46" />
+        <mark key="." line="14" column="46" />
+        <mark key="^" line="12" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/accreditation/app/Http/Middleware/VerifyCompanyHeader.php" timestamp="1594046869029">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/projects/slack-habit-tracker/app/Habit.php" timestamp="1594130248546">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="12" column="45" />
+        <mark key="^" line="12" column="45" />
+        <mark key="." line="12" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/accreditation/app/Http/Controllers/CourseCompletionController.php" timestamp="1594047283869" />
-      <file name="/PHP Console" timestamp="1594047427540">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/projects/slack-habit-tracker/database/seeds/UserSeeder.php" timestamp="1594127430603">
+        <mark key="[" line="17" column="41" />
+        <mark key="]" line="17" column="33" />
+        <mark key="^" line="17" column="33" />
+        <mark key="." line="17" column="33" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice-pwa/components/bits/productList/index.vue" timestamp="1594123621878">
         <mark key="[" line="45" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/accreditation/database/seeds/DatabaseSeeder.php" timestamp="1594046063610">
-        <mark key="'" line="19" column="22" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/projects/slack-habit-tracker/app/Projectors/HabitProjector.php" timestamp="1594130572150">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="39" />
+        <mark key="^" line="16" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/accreditation/database/seeds/AttendanceSeeder.php" timestamp="1594046300291">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="16" column="45" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/attendance/app/Traits/ValidatesAttendanceMailActions.php" timestamp="1594047031204">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1594045740016">
+      <file name="$USER_HOME$/projects/slack-habit-tracker/resources/views/home.blade.php" timestamp="1594128368727">
+        <mark key="'" line="10" column="30" />
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/accreditation/database/seeds/UserSeeder.php" timestamp="1594045953240">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="64" />
+        <mark key="]" line="2" column="19" />
       </file>
       <file name="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" timestamp="1594122933674">
         <mark key="[" line="17" column="96" />
@@ -175,18 +181,25 @@
         <mark key="^" line="17" column="106" />
         <mark key="." line="17" column="105" />
       </file>
-      <file name="$USER_HOME$/projects/accreditation/app/Http/Middleware/VerifyCourseHeaders.php" timestamp="1594047339451" />
+      <file name="$USER_HOME$/projects/slack-habit-tracker/routes/web.php" timestamp="1594130501911">
+        <mark key="[" line="23" column="45" />
+        <mark key="]" line="24" column="18" />
+        <mark key="." line="24" column="17" />
+        <mark key="^" line="24" column="18" />
+      </file>
+      <file name="$USER_HOME$/projects/slack-habit-tracker/app/Http/Requests/CreateHabitRequest.php" timestamp="1594130111300">
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="17" column="32" />
+        <mark key="." line="17" column="32" />
+        <mark key="^" line="17" column="46" />
+      </file>
+      <file name="$USER_HOME$/projects/slack-habit-tracker/resources/views/welcome.blade.php" timestamp="1594128404444">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/projects/materialenservice/app/Order.php" />
-      <jump line="113" column="43" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" />
-      <jump line="116" column="38" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" />
-      <jump line="72" column="17" filename="$USER_HOME$/projects/materialenservice/resources/views/checkout/pickup_location.blade.php" />
-      <jump line="123" column="8" filename="$USER_HOME$/projects/materialenservice/app/Http/Controllers/CheckoutController.php" />
-      <jump line="54" column="4" filename="$USER_HOME$/projects/materialenservice/api/v1/Controllers/CatalogController.php" />
-      <jump line="62" column="0" filename="$USER_HOME$/projects/materialenservice/api/v1/Controllers/CatalogController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/materialenservice/api/v1/Controllers/CatalogController.php" />
-      <jump line="82" column="55" filename="$USER_HOME$/projects/materialenservice/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php" />
       <jump line="61" column="75" filename="$USER_HOME$/projects/materialenservice/app/Nova/Order.php" />
       <jump line="134" column="0" filename="$USER_HOME$/projects/materialenservice/app/Nova/Order.php" />
       <jump line="160" column="0" filename="$USER_HOME$/projects/materialenservice/app/Nova/Order.php" />
@@ -278,24 +291,33 @@
       <jump line="19" column="22" filename="$USER_HOME$/projects/accreditation/database/seeds/DatabaseSeeder.php" />
       <jump line="21" column="21" filename="$USER_HOME$/projects/attendance/.env" />
       <jump line="53" column="25" filename="$USER_HOME$/projects/accreditation/storage/logs/laravel-2020-07-06.log" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/slack-habit-tracker/resources/views/home.blade.php" />
+      <jump line="10" column="30" filename="$USER_HOME$/projects/slack-habit-tracker/resources/views/home.blade.php" />
+      <jump line="31" column="0" filename="$USER_HOME$/projects/slack-habit-tracker/resources/views/habits/create.blade.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/slack-habit-tracker/resources/views/habits/create.blade.php" />
+      <jump line="34" column="10" filename="$USER_HOME$/projects/slack-habit-tracker/resources/views/habits/create.blade.php" />
+      <jump line="3" column="4" filename="$USER_HOME$/projects/slack-habit-tracker/resources/views/habits/create.blade.php" />
+      <jump line="28" column="8" filename="$USER_HOME$/projects/slack-habit-tracker/resources/views/habits/create.blade.php" />
+      <jump line="24" column="23" filename="$USER_HOME$/projects/slack-habit-tracker/app/Http/Controllers/HabitController.php" />
+      <jump line="25" column="30" filename="$USER_HOME$/projects/slack-habit-tracker/app/Http/Controllers/HabitController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHVrLWFsaWduLWNlbnRlcg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHVrLWFsaWduLWNlbnRlcg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>field</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29tbWFuZC0+aW5mbygiQ3JlYXRlZCB1c2VyOiB7JHVzZXItPmVtYWlsfSBcbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstbWFyZ2luIj4KICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9Im5hbWUiIGNsYXNzPSJ1ay1mb3JtLWxhYmVsIj5OYW1lPC9sYWJlbD4KICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0idWstaW5wdXQiIG5hbWU9Im5hbWUiIGlkPSJuYW1lIiB0eXBlPSJ0ZXh0Ij4KICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjbGFzcz0iIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -313,28 +335,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICB2LXNob3c9IiFwcm9kdWN0c0xvYWRpbmciLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgIH19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPT4KICAgICAgICAgICAgICAgICAgICAgICAgYQogICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgdWstc3Bpbm5lcj0icmF0aW86IDQiID48L2Rpdj4K</text>
+        <text encoding="base64">dXNlIEFwcFxIYWJpdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgdWstc3Bpbm5lcj0icmF0aW86IDQiID48L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdi1zaG93PSJwcm9kdWN0c0xvYWRpbmciCg==</text>
+        <text encoding="base64">Ly8gICAgcHJvdGVjdGVkICRtaWRkbGV3YXJlID0gWydhdXRoJ107Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdi1zaG93PSIhcHJvZHVjdHNMb2FkaW5nIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlcXVlc3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xhc3M9InVrLXNwaW5uZXIiCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ZhaWwvZXhpdC9n</text>
@@ -343,9 +365,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>'</last-search>
+      <last-search>field</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>field</last-pattern>
       <last-replace>exit</last-replace>
       <last-substitute>fail</last-substitute>
       <last-dir>1</last-dir>
