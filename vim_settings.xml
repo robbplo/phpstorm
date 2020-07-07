@@ -97,7 +97,6 @@
       <file name="/a.dummy" timestamp="1594044696144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/accreditation/app/Services/Accreditation/PeOnline/PeOnline.php" timestamp="1594044567494" />
       <file name="$USER_HOME$/projects/attendance/app/Jobs/CreditAttendance.php" timestamp="1594047194168">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="38" column="72" />
@@ -143,12 +142,11 @@
       <file name="/PHP Console" timestamp="1594047427540">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/attendance/app/Jobs/RegisterMeetingWithAccreditationService.php" timestamp="1594044286488">
-        <mark key="'" line="43" column="20" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="39" column="27" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/projects/materialenservice-pwa/components/bits/productList/index.vue" timestamp="1594123343261">
+        <mark key="[" line="46" column="12" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="47" column="22" />
+        <mark key="." line="45" column="14" />
       </file>
       <file name="$USER_HOME$/projects/accreditation/database/seeds/DatabaseSeeder.php" timestamp="1594046063610">
         <mark key="'" line="19" column="22" />
@@ -173,6 +171,12 @@
       <file name="$USER_HOME$/projects/accreditation/database/seeds/UserSeeder.php" timestamp="1594045953240">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="64" />
+      </file>
+      <file name="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" timestamp="1594122933674">
+        <mark key="[" line="17" column="96" />
+        <mark key="]" line="17" column="106" />
+        <mark key="^" line="17" column="106" />
+        <mark key="." line="17" column="105" />
       </file>
       <file name="$USER_HOME$/projects/accreditation/app/Http/Middleware/VerifyCourseHeaders.php" timestamp="1594047339451" />
     </filemarks>
@@ -282,7 +286,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHJlcXVlc3QtPndhbnRzSnNvbigpKSB7CiAgICAgICAgICAgIHJldHVybiByZXNwb25zZSgpLT5zZXRTdGF0dXNDb2RlKCktPmpzb24oWwogICAgICAgICAgICAgICAgJ2Vycm9ycycKICAgICAgICAgICAgXSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xhc3M9InVrLXNwaW5uZXIiCg==</text>
       </register>
       <register name="-" type="4">
         <text>errorCode</text>
@@ -294,7 +298,7 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29tbWFuZC0+aW5mbygiQ3JlYXRlZCB1c2VyOiB7JHVzZXItPmVtYWlsfSBcbiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHJlcXVlc3QtPndhbnRzSnNvbigpKSB7CiAgICAgICAgICAgIHJldHVybiByZXNwb25zZSgpLT5zZXRTdGF0dXNDb2RlKCktPmpzb24oWwogICAgICAgICAgICAgICAgJ2Vycm9ycycKICAgICAgICAgICAgXSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xhc3M9InVrLXNwaW5uZXIiCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -312,25 +316,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHN0YXR1c0NvZGUgPSAkZXhjZXB0aW9uLT5nZXRTdGF0dXNDb2RlKCkgfHwgNDAwOwogICAgICAgICAgICBrCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHJlcXVlc3QtPndhbnRzSnNvbigpKSB7CiAgICAgICAgICAgIHJldHVybiByZXNwb25zZSgpLT5zZXRTdGF0dXNDb2RlKCktPmpzb24oWwogICAgICAgICAgICAgICAgJ2Vycm9ycycKICAgICAgICAgICAgXSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNvbXBhbnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHN0YXR1c0NvZGUgPSAkZXhjZXB0aW9uLT5nZXRTdGF0dXNDb2RlKCkgfHwgNDAwOwogICAgICAgICAgICBrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxFbnVtc1xSZWNpcGllbnROdW1iZXJUeXBlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNvbXBhbnkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NvY1QK</text>
+        <text encoding="base64">dXNlIEFwcFxFbnVtc1xSZWNpcGllbnROdW1iZXJUeXBlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBBc3NvY1QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29tbWFuZC0+aW5mbygnVGhpcyBzZWVkZXIgc2hvdWxkIG9ubHkgYmUgdXNlZCBpbiBkZXZlbG9wbWVudCEnKTsKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29tbWFuZC0+aW5mbygnVGhpcyBzZWVkZXIgc2hvdWxkIG9ubHkgYmUgdXNlZCBpbiBkZXZlbG9wbWVudCEnKTsKICAgICAgICAK</text>
