@@ -110,12 +110,17 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="32" />
       </file>
+      <file name="$USER_HOME$/projects/hsa-api/.env" timestamp="1594201625148">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="26" />
+        <mark key="^" line="4" column="27" />
+      </file>
       <file name="$USER_HOME$/projects/slack-habit-tracker/resources/views/habits/index.blade.php" timestamp="1594195965617">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/accreditation/Envoy.blade.php" timestamp="1594111906187" />
       <file name="$USER_HOME$/projects/slack-habit-tracker/app/User.php" timestamp="1594128732562">
         <mark key="[" line="26" column="43" />
         <mark key="]" line="26" column="44" />
@@ -141,6 +146,7 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/hsa-api/tests/Unit/ProductImportTransformerTest.php" timestamp="1594201891403" />
       <file name="$USER_HOME$/projects/slack-habit-tracker/resources/views/habits/create.blade.php" timestamp="1594129558135">
         <mark key="'" line="34" column="8" />
         <mark key="[" line="14" column="46" />
@@ -160,25 +166,19 @@
         <mark key="^" line="17" column="33" />
         <mark key="." line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/materialenservice-pwa/components/bits/productList/index.vue" timestamp="1594123621878">
-        <mark key="[" line="45" column="33" />
-      </file>
       <file name="$USER_HOME$/projects/slack-habit-tracker/app/Projectors/HabitProjector.php" timestamp="1594130572150">
         <mark key="[" line="16" column="39" />
         <mark key="]" line="16" column="40" />
         <mark key="." line="16" column="39" />
         <mark key="^" line="16" column="40" />
       </file>
+      <file name="/Dummy.txt" timestamp="1594201639392">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/slack-habit-tracker/resources/views/home.blade.php" timestamp="1594128368727">
         <mark key="'" line="10" column="30" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/projects/materialenservice-pwa/nuxt.config.js" timestamp="1594122933674">
-        <mark key="[" line="17" column="96" />
-        <mark key="]" line="17" column="106" />
-        <mark key="^" line="17" column="106" />
-        <mark key="." line="17" column="105" />
       </file>
       <file name="$USER_HOME$/projects/slack-habit-tracker/routes/web.php" timestamp="1594130501911">
         <mark key="[" line="23" column="45" />
@@ -303,11 +303,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>field</text>
