@@ -91,24 +91,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/slack-habit-tracker/.env" timestamp="1594127231293">
-        <mark key="[" line="4" column="15" />
-        <mark key="k" line="4" column="20" />
-        <mark key="]" line="4" column="39" />
-        <mark key="." line="4" column="38" />
-        <mark key="^" line="4" column="39" />
-      </file>
-      <file name="$USER_HOME$/projects/slack-habit-tracker/database/migrations/2020_07_07_125957_create_habits_table.php" timestamp="1594129540742">
-        <mark key="[" line="19" column="39" />
-        <mark key="]" line="17" column="47" />
-        <mark key="^" line="17" column="47" />
-        <mark key="." line="17" column="46" />
-      </file>
       <file name="$USER_HOME$/projects/slack-habit-tracker/app/StorableEvents/HabitCreated.php" timestamp="1594130400769">
         <mark key="[" line="14" column="31" />
         <mark key="]" line="14" column="32" />
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/hsa-api/database/migrations/2020_07_08_134839_create_stores_table.php" timestamp="1594216958431">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="15" />
+        <mark key="^" line="17" column="16" />
       </file>
       <file name="$USER_HOME$/projects/hsa-api/.env" timestamp="1594201625148">
         <mark key="[" line="4" column="15" />
@@ -116,28 +109,38 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/hsa-api/app/Models/Stores/Projectors/StoreProjector.php" timestamp="1594216612141">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="25" />
+        <mark key="." line="21" column="24" />
+        <mark key="^" line="21" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/hsa-api/app/Models/Stores/Events/StoreWasCreated.php" timestamp="1594216307283">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="48" />
+        <mark key="^" line="12" column="48" />
+        <mark key="." line="12" column="47" />
+      </file>
       <file name="$USER_HOME$/projects/slack-habit-tracker/resources/views/habits/index.blade.php" timestamp="1594195965617">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/slack-habit-tracker/app/User.php" timestamp="1594128732562">
-        <mark key="[" line="26" column="43" />
-        <mark key="]" line="26" column="44" />
-        <mark key="." line="26" column="43" />
-        <mark key="^" line="26" column="44" />
+      <file name="$USER_HOME$/projects/hsa-api/tests/Unit/StoreTest.php" timestamp="1594217007277">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/slack-habit-tracker/resources/views/layouts/app.blade.php" timestamp="1594128844098">
-        <mark key="[" line="24" column="28" />
-        <mark key="]" line="24" column="28" />
-        <mark key="^" line="72" column="20" />
-        <mark key="." line="24" column="28" />
+      <file name="$USER_HOME$/projects/hsa-api/config/event-sourcing.php" timestamp="1594216467892">
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="30" />
+        <mark key="^" line="26" column="30" />
+        <mark key="." line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/slack-habit-tracker/resources/sass/app.scss" timestamp="1594127895017">
-        <mark key="[" line="5" column="43" />
-        <mark key="]" line="8" column="17" />
-        <mark key="." line="8" column="16" />
-        <mark key="^" line="8" column="17" />
+      <file name="$USER_HOME$/projects/hsa-api/app/Models/Products/Projectors/ProductProjector.php" timestamp="1594216603698">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="26" column="5" />
       </file>
       <file name="$USER_HOME$/projects/slack-habit-tracker/app/Http/Controllers/HabitController.php" timestamp="1594130634807">
         <mark key="'" line="26" column="30" />
@@ -146,18 +149,11 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/hsa-api/tests/Unit/ProductImportTransformerTest.php" timestamp="1594205021119">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/projects/hsa-api/tests/Unit/ProductImportTransformerTest.php" timestamp="1594216697019">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
         <mark key="^" line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/slack-habit-tracker/resources/views/habits/create.blade.php" timestamp="1594129558135">
-        <mark key="'" line="34" column="8" />
-        <mark key="[" line="14" column="46" />
-        <mark key="]" line="14" column="46" />
-        <mark key="." line="14" column="46" />
-        <mark key="^" line="12" column="12" />
       </file>
       <file name="$USER_HOME$/projects/slack-habit-tracker/app/Habit.php" timestamp="1594130248546">
         <mark key="[" line="7" column="1" />
@@ -165,25 +161,24 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/slack-habit-tracker/database/seeds/UserSeeder.php" timestamp="1594127430603">
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="17" column="33" />
-        <mark key="^" line="17" column="33" />
-        <mark key="." line="17" column="33" />
-      </file>
+      <file name="$USER_HOME$/projects/hsa-api/app/Models/Products/Events/AlcoholPercentageWasCreated.php" timestamp="1594215985867" />
       <file name="$USER_HOME$/projects/slack-habit-tracker/app/Projectors/HabitProjector.php" timestamp="1594130572150">
         <mark key="[" line="16" column="39" />
         <mark key="]" line="16" column="40" />
         <mark key="." line="16" column="39" />
         <mark key="^" line="16" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594201639392">
+      <file name="$USER_HOME$/projects/hsa-api/app/Models/Stores/Store.php" timestamp="1594216176540">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="4" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594216676784">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/slack-habit-tracker/resources/views/home.blade.php" timestamp="1594128368727">
-        <mark key="'" line="10" column="30" />
+      <file name="/fragment.php" timestamp="1594216008084">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="19" />
       </file>
       <file name="$USER_HOME$/projects/slack-habit-tracker/routes/web.php" timestamp="1594130501911">
         <mark key="[" line="23" column="45" />
@@ -197,10 +192,10 @@
         <mark key="." line="17" column="32" />
         <mark key="^" line="17" column="46" />
       </file>
-      <file name="$USER_HOME$/projects/slack-habit-tracker/resources/views/welcome.blade.php" timestamp="1594128404444">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/projects/hsa-api/app/Exceptions/Handler.php" timestamp="1594216070560">
+        <mark key="[" line="52" column="8" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="51" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -309,19 +304,21 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>it_creates_a_store</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>it_creates_a_store</text>
       </register>
       <register name="/" type="4">
         <text>field</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstbWFyZ2luIj4KICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9Im5hbWUiIGNsYXNzPSJ1ay1mb3JtLWxhYmVsIj5OYW1lPC9sYWJlbD4KICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0idWstaW5wdXQiIG5hbWU9Im5hbWUiIGlkPSJuYW1lIiB0eXBlPSJ0ZXh0Ij4KICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiByZXNldFN0YXRlKCkKICAgIHsKICAgICAgICBEQjo6dGFibGUoJ3Byb2R1Y3RzJyktPnRydW5jYXRlKCk7CiAgICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>[
+            ''
+        ]</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -338,29 +335,31 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAnbmFtZScgPT4gJ0hlbmsgU21pdCBBbXN0ZXJkYW0nLAogICAgICAgIF0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstdGV4dC1tdXRlZCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0c19hX3Byb2R1Y3RfaW1wb3J0X2NvbnRhaW5zX21pbmltYWxfcmVxdWlyZWRfdmFsdWVzKCkKICAgIHsKICAgICAgICAkcmVxdWlyZWRfa2V5cyA9IGNvbGxlY3QoWwogICAgICAgICAgICAnZXh0ZXJuYWxfaWQnLAogICAgICAgICAgICAnbmFtZScsCiAgICAgICAgICAgICdlYW4nLAogICAgICAgICAgICAnc2x1ZycsCiAgICAgICAgICAgICdwYWNrYWdlX2Rlc2NyaXB0aW9uJywKICAgICAgICAgICAgJ2F2YWlsYWJpbGl0eScsCiAgICAgICAgICAgICdtYXhfcGVyX29yZGVyJywKICAgICAgICBdKTsKCiAgICAgICAgJHJlc3VsdCA9IChuZXcgUHJvZHVjdEltcG9ydFRyYW5zZm9ybWVyKCR0aGlzLT5tb2NrKSkKICAgICAgICAgICAgLT50cmFuc2Zvcm0oKTsKCiAgICAgICAgJHJlcXVpcmVkX2tleXMtPmVhY2goZnVuY3Rpb24gKCRrZXkpIHVzZSAoJHJlc3VsdCkgewogICAgICAgICAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoJGtleSwgJHJlc3VsdCk7CiAgICAgICAgfSk7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RzX2FfcHJvZHVjdF9pbXBvcnRfY3JlYXRlc19hX2JyYW5kX3doZW5fbm90X2F2YWlsYWJsZSgpCiAgICB7CiAgICAgICAgJHJlc3VsdCA9IChuZXcgUHJvZHVjdEltcG9ydFRyYW5zZm9ybWVyKCR0aGlzLT5tb2NrKSkKICAgICAgICAgICAgLT50cmFuc2Zvcm0oKTsKCiAgICAgICAgJHRoaXMtPmFzc2VydEFycmF5SGFzS2V5KCdicmFuZF9pZCcsICRyZXN1bHQpOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0RGF0YWJhc2VIYXMoJ2JyYW5kcycsIFsKICAgICAgICAgICAgJ2lkJyA9PiAkcmVzdWx0WydicmFuZF9pZCddLAogICAgICAgIF0pOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0c19hX3Byb2R1Y3RfaW1wb3J0X2NyZWF0ZXNfYWxjb2hvbF9wZXJjZW50YWdlX3doZW5fbm90X2F2YWlsYWJsZSgpCiAgICB7CiAgICAgICAgJHJlc3VsdCA9IChuZXcgUHJvZHVjdEltcG9ydFRyYW5zZm9ybWVyKCR0aGlzLT5tb2NrKSkKICAgICAgICAgICAgLT50cmFuc2Zvcm0oKTsKCiAgICAgICAgJHRoaXMtPmFzc2VydEFycmF5SGFzS2V5KCdhbGNvaG9sX3BlcmNlbnRhZ2VfaWQnLCAkcmVzdWx0KTsKCiAgICAgICAgJHRoaXMtPmFzc2VydERhdGFiYXNlSGFzKCdhbGNvaG9sX3BlcmNlbnRhZ2VzJywgWwogICAgICAgICAgICAnaWQnID0+ICRyZXN1bHRbJ2FsY29ob2xfcGVyY2VudGFnZV9pZCddLAogICAgICAgIF0pOwogICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWstdGV4dC1tdXRlZCI+PC9kaXY+Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRVcCgpIDogdm9pZAogICAgewogICAgICAgIHBhcmVudDo6c2V0VXAoKTsKCiAgICAgICAgJHRoaXMtPm1vY2sgPSBqc29uX2RlY29kZShmaWxlX2dldF9jb250ZW50cyhiYXNlX3BhdGgoJy90ZXN0cy9Nb2Nrcy9wcm9kdWN0X2ltcG9ydC5qc29uJykpLCAxKTsKICAgIH0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgIH19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAkbW9jazsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPT4KICAgICAgICAgICAgICAgICAgICAgICAgYQogICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+      <register name="8" type="4">
+        <text>[
+            
+        ]</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxIYWJpdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ZhaWwvZXhpdC9n</text>
