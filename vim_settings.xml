@@ -91,12 +91,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/slack-habit-tracker/app/StorableEvents/HabitCreated.php" timestamp="1594367850963">
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="14" column="32" />
-        <mark key="." line="14" column="31" />
-        <mark key="^" line="14" column="32" />
-      </file>
       <file name="/a.dummy" timestamp="1594370244584">
         <mark key="[" line="0" column="5" />
       </file>
@@ -105,13 +99,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/hsa-api/vendor/laravel/framework/src/Illuminate/Support/MessageBag.php" timestamp="1594369397544" />
-      <file name="$USER_HOME$/projects/slack-habit-tracker/app/Projectors/HabitProjector.php" timestamp="1594367859524">
-        <mark key="[" line="16" column="39" />
-        <mark key="]" line="16" column="40" />
-        <mark key="." line="16" column="39" />
-        <mark key="^" line="16" column="40" />
+      <file name="$USER_HOME$/projects/hsa-api/database/factories/ProductFactory.php" timestamp="1594374038825">
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="44" />
+        <mark key="." line="13" column="44" />
       </file>
+      <file name="$USER_HOME$/projects/hsa-api/vendor/laravel/framework/src/Illuminate/Support/MessageBag.php" timestamp="1594369397544" />
       <file name="$USER_HOME$/projects/hsa-api/app/Models/Stores/Store.php" timestamp="1594372429574">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -132,11 +125,15 @@
       <file name="/fragment.php" timestamp="1594370278769">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/hsa-api/app/Transformers/Import/ProductImportTransformer.php" timestamp="1594368090847" />
       <file name="$USER_HOME$/projects/hsa-api/app/Models/Stores/Events/StoreCreated.php" timestamp="1594371731885">
         <mark key="[" line="7" column="6" />
         <mark key="]" line="7" column="42" />
         <mark key="." line="7" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/hsa-api/vendor/laravel/framework/src/Illuminate/Database/Eloquent/FactoryBuilder.php" timestamp="1594374348981">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hsa-api/app/Exceptions/StoredEventValidationException.php" timestamp="1594369586505">
         <mark key="'" line="13" column="56" />
@@ -151,11 +148,10 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/hsa-api/app/Models/Stores/Projectors/StoreProjector.php" timestamp="1594371738824">
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="15" column="27" />
-        <mark key="." line="15" column="27" />
-        <mark key="^" line="17" column="36" />
+      <file name="$USER_HOME$/projects/hsa-api/app/Models/Stores/Projectors/StoreProjector.php" timestamp="1594374209793">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hsa-api/tests/Unit/ResolveStoreFromHeaderTest.php" timestamp="1594369734839">
         <mark key="[" line="29" column="0" />
@@ -169,21 +165,23 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="14" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/hsa-api/tests/Unit/Middleware/ResolveStoreFromHeaderTest.php" timestamp="1594371773987">
-        <mark key="[" line="32" column="22" />
-        <mark key="]" line="32" column="21" />
-        <mark key="." line="32" column="20" />
-        <mark key="^" line="32" column="21" />
+      <file name="$USER_HOME$/projects/hsa-api/tests/Unit/Middleware/ResolveStoreFromHeaderTest.php" timestamp="1594375410913">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/slack-habit-tracker/app/Http/Controllers/HabitController.php" timestamp="1594367934562">
-        <mark key="'" line="26" column="30" />
-        <mark key="[" line="12" column="41" />
-        <mark key="]" line="12" column="41" />
-        <mark key="^" line="12" column="41" />
-        <mark key="." line="12" column="40" />
+      <file name="$USER_HOME$/projects/hsa-api/app/Traits/StoresModelEvents.php" timestamp="1594374418360">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1594371442864">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/hsa-api/database/factories/StoreFactory.php" timestamp="1594373564079">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hsa-api/app/Exceptions/Handler.php" timestamp="1594368934883">
         <mark key="[" line="53" column="0" />
@@ -298,10 +296,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAndXBkYXRlZCcgPT4gUHJvZHVjdFdhc1VwZGF0ZWQ6OmNsYXNzLAogICAgICAgIC8vICdkZWxldGVkJyA9PiBQcm9kdWN0V2FzRGVsZXRlZDo6Y2xhc3MsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGltcGxlbWVudHMgU2hvdWxkQmVTdG9yZWQ=</text>
+        <text>create</text>
       </register>
       <register name="/" type="4">
         <text>er</text>
@@ -310,7 +308,7 @@
         <text encoding="base64">ICAgICAgICA8c2VydmVyIG5hbWU9IkRCX0RBVEFCQVNFIiB2YWx1ZT0icHJqX2hzYV9hcGlfdGVzdGluZyIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAndXBkYXRlZCcgPT4gUHJvZHVjdFdhc1VwZGF0ZWQ6OmNsYXNzLAogICAgICAgIC8vICdkZWxldGVkJyA9PiBQcm9kdWN0V2FzRGVsZXRlZDo6Y2xhc3MsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -328,29 +326,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAka2V5VHlwZSA9ICdzdHJpbmcnOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc3RvcmUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcU3RvcmVzXEV2ZW50c1xTdG9yZVdhc0NyZWF0ZWQ7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgZGQoJHN0b3JlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgZGQoJHN0b3JlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkc3RvcmVkTW9kZWxFdmVudHMgPSBbCiAgICAgICAgJ2NyZWF0ZWQnID0+IFN0b3JlV2FzQ3JlYXRlZDo6Y2xhc3MsCiAgICAgICAgLy8gJ3VwZGF0ZWQnID0+IFByb2R1Y3RXYXNVcGRhdGVkOjpjbGFzcywKICAgICAgICAvLyAnZGVsZXRlZCcgPT4gUHJvZHVjdFdhc0RlbGV0ZWQ6OmNsYXNzLAogICAgXTsK</text>
+        <text encoding="base64">CiAgICAgICAgZGQoJHN0b3JlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+c3RvcmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGUK</text>
       </register>
-      <register name="8" type="4">
-        <text>[
-        ];</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRtb2RlbCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0cyBpbnN0YW5jZW9mIE1vZGVsKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ZhaWwvZXhpdC9n</text>
