@@ -127,11 +127,16 @@
         <mark key="." line="12" column="7" />
         <mark key="^" line="12" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/hsa-api/app/Models/Store.php" timestamp="1594727259792">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="11" column="3" />
-        <mark key="^" line="11" column="4" />
+      <file name="$USER_HOME$/projects/hsa-api/app/Models/Store.php" timestamp="1594727262303">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="10" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/hsa-api/app/Domain/Tenants/Behaviours/ResolveTenantConnection.php" timestamp="1594727768940">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hsa-api/app/Domain/Stores/Behaviours/CreatesStore.php" timestamp="1594717910046">
         <mark key="[" line="14" column="0" />
@@ -148,18 +153,19 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/hsa-api/app/Domain/Tenants/Events/StoreCreated.php" timestamp="1594715924430">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="28" />
-        <mark key="." line="2" column="27" />
-        <mark key="^" line="2" column="28" />
-      </file>
       <file name="$USER_HOME$/projects/hsa-api/app/Domain/Companies/Projectors/TenantProjector.php" timestamp="1594727169354" />
       <file name="$USER_HOME$/projects/auth.smit/composer.json" timestamp="1594726860942" />
       <file name="$USER_HOME$/projects/hsa-api/app/Domain/Companies/Projectors/CompanyProjector.php" timestamp="1594727103009">
         <mark key="[" line="20" column="19" />
         <mark key="]" line="20" column="19" />
         <mark key="." line="20" column="19" />
+      </file>
+      <file name="$USER_HOME$/projects/hsa-api/config/database.php" timestamp="1594727369762">
+        <mark key="'" line="53" column="11" />
+        <mark key="[" line="66" column="12" />
+        <mark key="]" line="66" column="12" />
+        <mark key="^" line="66" column="12" />
+        <mark key="." line="66" column="11" />
       </file>
       <file name="$USER_HOME$/projects/hsa-api/app/Models/Tenant.php" timestamp="1594727232273">
         <mark key="[" line="8" column="38" />
@@ -174,9 +180,6 @@
         <mark key="^" line="20" column="26" />
       </file>
       <file name="$USER_HOME$/projects/hsa-api/app/Models/Company.php" timestamp="1594727014512" />
-      <file name="/Dummy.txt" timestamp="1594715970061">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/hsa-api/database/seeds/TenantSeeder.php" timestamp="1594717623976">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -191,7 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="$USER_HOME$/projects/attendance/app/Meeting.php" />
       <jump line="67" column="0" filename="$USER_HOME$/projects/attendance/database/factories/MeetingFactory.php" />
       <jump line="48" column="9" filename="$USER_HOME$/projects/attendance/tests/Feature/CreditMeetingTest.php" />
       <jump line="50" column="33" filename="$USER_HOME$/projects/attendance/tests/Feature/CreditMeetingTest.php" />
@@ -291,12 +293,13 @@
       <jump line="63" column="0" filename="$USER_HOME$/projects/hsa-api/tests/Unit/Factories/StoredEventFactoryTest.php" />
       <jump line="19" column="3" filename="$USER_HOME$/projects/hsa-api/config/event-factories.php" />
       <jump line="20" column="41" filename="$USER_HOME$/projects/hsa-api/config/event-factories.php" />
+      <jump line="53" column="11" filename="$USER_HOME$/projects/hsa-api/config/database.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Tenant</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGhhbmRsZQo=</text>
       </register>
       <register name="-" type="4">
         <text>Tenant</text>
@@ -308,7 +311,7 @@
         <text encoding="base64">ICAgICAgICBnbG9iKGFwcCgpLT5wYXRoKCkgLiAnL0RvbWFpbi8qL1Byb2plY3RvcnMnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
+        <text encoding="base64">ICAgIGhhbmRsZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -326,28 +329,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9kdWN0UHJvamVjdG9yOjpjbGFzcywKICAgICAgICBTdG9yZVByb2plY3Rvcjo6Y2xhc3MsCg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIEFwcFxEb21haW5cVGVuYW50c1xCZWhhdmlvdXJzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnbG9iKCdkJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYXR0cmlidXRlcyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGVuYW50KTsK</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQmFzZU1vZGVsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGVuYW50KTsK</text>
+        <text encoding="base64">ICAgIF0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGVuYW50KTsK</text>
+        <text encoding="base64">ICAgICAgICBQcm9kdWN0UHJvamVjdG9yOjpjbGFzcywKICAgICAgICBTdG9yZVByb2plY3Rvcjo6Y2xhc3MsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcU3RvcmU7ZGQK</text>
+        <text encoding="base64">ICAgICAgICBnbG9iKCdkJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYXR0cmlidXRlcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ZhaWwvZXhpdC9n</text>
