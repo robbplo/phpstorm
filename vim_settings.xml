@@ -118,15 +118,16 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/hsa-api/app/Domain/Stores/Behaviours/CreatesStore.php" timestamp="1594717910046">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/hsa-api/app/Domain/Tenants/Behaviours/CreatesTenant.php" timestamp="1594729266567">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/hsa-api/app/Listeners/ResolveTenantConnection.php" timestamp="1594798732246">
+        <mark key="[" line="20" column="56" />
+        <mark key="]" line="22" column="23" />
+        <mark key="^" line="22" column="23" />
+        <mark key="." line="22" column="22" />
       </file>
       <file name="$USER_HOME$/projects/hsa-api/app/Domain/Companies/Projectors/TenantProjector.php" timestamp="1594727169354" />
       <file name="$USER_HOME$/projects/auth.smit/composer.json" timestamp="1594726860942" />
@@ -142,11 +143,12 @@
         <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hsa-api/tests/Unit/Transformers/ProductImportTransformerTest.php" timestamp="1594728304519" />
-      <file name="$USER_HOME$/projects/hsa-api/app/Providers/EventServiceProvider.php" timestamp="1594729677763">
-        <mark key="[" line="20" column="10" />
-        <mark key="]" line="22" column="18" />
-        <mark key="^" line="22" column="18" />
-        <mark key="." line="22" column="17" />
+      <file name="$USER_HOME$/projects/hsa-api/app/Providers/EventServiceProvider.php" timestamp="1594798510511">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="31" column="8" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hsa-api/app/Models/Tenant.php" timestamp="1594727232273">
         <mark key="[" line="8" column="38" />
@@ -164,10 +166,11 @@
       <file name="/Dummy.txt" timestamp="1594728949153">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/hsa-api/app/Listeners/ConfigureTenantDatabase.php" timestamp="1594729762730">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/projects/hsa-api/app/Listeners/ConfigureTenantDatabase.php" timestamp="1594797866819">
+        <mark key="[" line="10" column="73" />
+        <mark key="]" line="10" column="73" />
+        <mark key="." line="10" column="72" />
+        <mark key="^" line="10" column="73" />
       </file>
       <file name="$USER_HOME$/projects/hsa-api/tests/Unit/Tenants/StoreCreatedTest.php" timestamp="1594729518676">
         <mark key="[" line="10" column="8" />
@@ -183,8 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/projects/attendance/database/factories/MeetingFactory.php" />
-      <jump line="48" column="9" filename="$USER_HOME$/projects/attendance/tests/Feature/CreditMeetingTest.php" />
       <jump line="50" column="33" filename="$USER_HOME$/projects/attendance/tests/Feature/CreditMeetingTest.php" />
       <jump line="42" column="39" filename="$USER_HOME$/projects/attendance/tests/Feature/CreditMeetingTest.php" />
       <jump line="6" column="49" filename="$USER_HOME$/projects/attendance/resources/views/mail/attendance/confirmation.blade.php" />
@@ -283,24 +284,26 @@
       <jump line="19" column="3" filename="$USER_HOME$/projects/hsa-api/config/event-factories.php" />
       <jump line="20" column="41" filename="$USER_HOME$/projects/hsa-api/config/event-factories.php" />
       <jump line="53" column="11" filename="$USER_HOME$/projects/hsa-api/config/database.php" />
+      <jump line="29" column="30" filename="$USER_HOME$/projects/hsa-api/app/Providers/EventServiceProvider.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/hsa-api/app/Providers/EventServiceProvider.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAndXJsJyA9PiBlbnYoJ1RFTkFOQ1lfREFUQUJBU0VfVVJMJyksCi8vICAgICAgICAgICAgJ2hvc3QnID0+IGVudignVEVOQU5DWV9IT1NUJywgJzEyNy4wLjAuMScpLAovLyAgICAgICAgICAgICdwb3J0JyA9PiBlbnYoJ1RFTkFOQ1lfUE9SVCcsICczMzA2JyksCi8vICAgICAgICAgICAgJ2RhdGFiYXNlJyA9PiBlbnYoJ1RFTkFOQ1lfREFUQUJBU0UnLCAnZm9yZ2UnKSwKLy8gICAgICAgICAgICAndXNlcm5hbWUnID0+IGVudignVEVOQU5DWV9VU0VSTkFNRScsICdmb3JnZScpLAovLyAgICAgICAgICAgICdwYXNzd29yZCcgPT4gZW52KCdURU5BTkNZX1BBU1NXT1JEJywgJycpLAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29uZmlndXJlKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>Configuring</text>
+        <text encoding="base64">ICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>om</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2hvc3QnID0+IGVudignREJfSE9TVCcsICcxMjcuMC4wLjEnKSwKICAgICAgICAgICAgJ3BvcnQnID0+IGVudignREJfUE9SVCcsICczMzA2JyksCiAgICAgICAgICAgICdkYXRhYmFzZScgPT4gZW52KCdEQl9EQVRBQkFTRScsICdmb3JnZScpLAogICAgICAgICAgICAndXNlcm5hbWUnID0+IGVudignREJfVVNFUk5BTUUnLCAnZm9yZ2UnKSwKICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiBlbnYoJ0RCX1BBU1NXT1JEJywgJycpLAo=</text>
+        <text encoding="base64">dXNlIFRlbmFuY3lcQWZmZWN0c1xDb25uZWN0aW9uc1xFdmVudHNcUmVzb2x2aW5nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAndXJsJyA9PiBlbnYoJ1RFTkFOQ1lfREFUQUJBU0VfVVJMJyksCi8vICAgICAgICAgICAgJ2hvc3QnID0+IGVudignVEVOQU5DWV9IT1NUJywgJzEyNy4wLjAuMScpLAovLyAgICAgICAgICAgICdwb3J0JyA9PiBlbnYoJ1RFTkFOQ1lfUE9SVCcsICczMzA2JyksCi8vICAgICAgICAgICAgJ2RhdGFiYXNlJyA9PiBlbnYoJ1RFTkFOQ1lfREFUQUJBU0UnLCAnZm9yZ2UnKSwKLy8gICAgICAgICAgICAndXNlcm5hbWUnID0+IGVudignVEVOQU5DWV9VU0VSTkFNRScsICdmb3JnZScpLAovLyAgICAgICAgICAgICdwYXNzd29yZCcgPT4gZW52KCdURU5BTkNZX1BBU1NXT1JEJywgJycpLAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29uZmlndXJlKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -321,25 +324,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIFRlbmFuY3lcSWRlbnRpZmljYXRpb25cRXZlbnRzXENvbmZpZ3VyaW5nOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIHRoZSBldmVudCBsaXN0ZW5lci4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkKICAgIHsKICAgICAgICAvLwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXEV2ZW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgLy8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEFwcFxEb21haW5cU3RvcmVzXEV2ZW50c1xTdG9yZUNyZWF0ZWQ7CnVzZSBJbGx1bWluYXRlXFN1cHBvcnRcU3RyOwo=</text>
+        <text encoding="base64">dXNlIFRlbmFuY3lcSG9va3NcRGF0YWJhc2VcRXZlbnRzXFJlc29sdmluZzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ewogICAgICAgICRhdHRyaWJ1dGVzID0gWwogICAgICAgICAgICAnbmFtZScgPT4gJ0hlbmsgU21pdCBBbXN0ZXJkYW0nLAogICAgICAgIF07CgogICAgICAgIGV2ZW50KG5ldyBTdG9yZUNyZWF0ZWQoJGF0dHJpYnV0ZXMsIFtdLCBTdHI6OnV1aWQoKSkpOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0RGF0YWJhc2VIYXMoJ3N0b3JlcycsICRhdHRyaWJ1dGVzKTsKICAgIH0=</text>
+        <text encoding="base64">dXNlIFRlbmFuY3lcSG9va3NcRGF0YWJhc2VcRXZlbnRzXFJlc29sdmluZzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29udHJhY3RzXFF1ZXVlXFNob3VsZFF1ZXVlOwp1c2UgSWxsdW1pbmF0ZVxRdWV1ZVxJbnRlcmFjdHNXaXRoUXVldWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ZhaWwvZXhpdC9n</text>
