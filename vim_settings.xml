@@ -91,6 +91,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/hsa-api/vendor/tenancy/tenancy/src/Tenancy/Identification/Concerns/AllowsTenantIdentification.php" timestamp="1594811822571">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="50" column="41" />
+      </file>
       <file name="$USER_HOME$/projects/hsa-api/.env" timestamp="1594804357054">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="8" column="14" />
@@ -119,11 +123,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/hsa-api/app/Domain/Tenants/Behaviours/ResolveTenantConnection.php" timestamp="1594727768940">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hsa-api/app/Domain/Tenants/Events/TenantCreated.php" timestamp="1594804252920">
         <mark key="[" line="13" column="18" />
@@ -157,11 +156,12 @@
         <mark key="^" line="31" column="8" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/hsa-api/app/Models/Tenant.php" timestamp="1594807254857">
-        <mark key="[" line="13" column="37" />
-        <mark key="]" line="17" column="5" />
-        <mark key="." line="17" column="4" />
-        <mark key="^" line="17" column="5" />
+      <file name="$USER_HOME$/projects/hsa-api/app/Models/Tenant.php" timestamp="1594811887314">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="27" column="36" />
+        <mark key="]" line="27" column="36" />
+        <mark key="." line="27" column="35" />
+        <mark key="^" line="27" column="36" />
       </file>
       <file name="$USER_HOME$/projects/hsa-api/app/Providers/AppServiceProvider.php" timestamp="1594729213835">
         <mark key="[" line="29" column="0" />
@@ -204,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="49" filename="$USER_HOME$/projects/attendance/resources/views/mail/attendance/confirmation.blade.php" />
       <jump line="50" column="168" filename="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" />
       <jump line="166" column="10" filename="$USER_HOME$/projects/prj-klv-occasion-viewer/src/components/OccasionViewer.vue" />
       <jump line="17" column="0" filename="$USER_HOME$/projects/todo-es/routes/web.php" />
@@ -304,12 +303,13 @@
       <jump line="10" column="0" filename="$USER_HOME$/projects/hsa-api/app/Providers/EventServiceProvider.php" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/hsa-api/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php" />
       <jump line="19" column="15" filename="$USER_HOME$/projects/hsa-api/app/Listeners/ResolveTenantConnection.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/hsa-api/app/Models/Tenant.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdGVuYW50SWRlbnRpZmljYXRpb25CeUNvbnNvbGUoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0VGVuYW50S2V5KCkgbWV0aG9kLgo=</text>
       </register>
       <register name="-" type="4">
         <text>Contract</text>
@@ -318,10 +318,10 @@
         <text>;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNlIFRlbmFuY3lcQWZmZWN0c1xDb25uZWN0aW9uc1xFdmVudHNcUmVzb2x2aW5nOwo=</text>
+        <text encoding="base64">ICAgICAgICAkaWRlbnRpZmllciA9ICR0aGlzLT5nZXRUYWJsZSgpOwogICAgICAgICRjb25uZWN0aW9uID0gJHRoaXMtPmdldENvbm5lY3Rpb25OYW1lKCkgPz8gY29uZmlnKCdkYXRhYmFzZS5kZWZhdWx0Jyk7CgogICAgICAgIHJldHVybiAiJGNvbm5lY3Rpb24uJGlkZW50aWZpZXIiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdGVuYW50SWRlbnRpZmljYXRpb25CeUNvbnNvbGUoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0VGVuYW50S2V5KCkgbWV0aG9kLgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -339,30 +339,30 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0VGVuYW50S2V5TmFtZSgpIG1ldGhvZC4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIFRlbmFuY3lcSWRlbnRpZmljYXRpb25cQ29uY2VybnNcQWxsb3dzVGVuYW50SWRlbnRpZmljYXRpb247Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0VGVuYW50S2V5TmFtZSgpOiBzdHJpbmcKICAgIHsKICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0VGVuYW50S2V5TmFtZSgpIG1ldGhvZC4KICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0VGVuYW50S2V5KCkKICAgIHsKICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0VGVuYW50S2V5KCkgbWV0aG9kLgogICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgdXNlIEFsbG93c1RlbmFudElkZW50aWZpY2F0aW9uOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0VGVuYW50SWRlbnRpZmllcigpIG1ldGhvZC4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgdGVuYW50SWRlbnRpZmljYXRpb25CeUNvbnNvbGUoKSBtZXRob2QuCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">dXNlIFRlbmFuY3lcQWZmZWN0c1xDb25uZWN0aW9uc1xFdmVudHNcRHJpdmVyc1xDb25maWd1cmluZzsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>[
             ''
         ]</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY29uZmlnKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZSBPblRlbmFudDsKCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNvbm5lY3Rpb25zKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAndGVzdCc9PiAneWVzJywK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2ZhaWwvZXhpdC9n</text>
