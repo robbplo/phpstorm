@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>1</entry>
-        <entry encoding="base64">XDwoXD4=</entry>
-        <entry>cou</entry>
         <entry>fail</entry>
         <entry>st</entry>
         <entry>field</entry>
@@ -27,10 +24,11 @@
         <entry>&quot;</entry>
         <entry>Ho</entry>
         <entry>website</entry>
+        <entry>ho</entry>
+        <entry>hos</entry>
+        <entry>uuid</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2NvbnRhY3RwZXJzb24vcGhvbmVfbnVtYmVy</entry>
-        <entry>s/pickup/delivery/g</entry>
         <entry>s/contact/shipping/g</entry>
         <entry>s/name/contactperson/g</entry>
         <entry>s/name/phone_number/g</entry>
@@ -49,6 +47,8 @@
         <entry>s/'/&quot;/g</entry>
         <entry>s/&quot;/'/g</entry>
         <entry>s/website/hostname/g</entry>
+        <entry>s/uuid/id/g</entry>
+        <entry encoding="base64">JzwsJz5zL3V1aWQvZnFkbi9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -101,14 +101,24 @@
         <mark key="[" line="37" column="0" />
         <mark key="]" line="86" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/hsa-api/.env" timestamp="1594822481597">
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="21" column="25" />
-        <mark key="." line="21" column="24" />
-        <mark key="^" line="21" column="25" />
+      <file name="$USER_HOME$/projects/hsa-api/.env" timestamp="1594889850511">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/auth.smit/config/webserver.php" timestamp="1594821941175">
         <mark key="'" line="51" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/hsa-api/database/seeds/DatabaseSeeder.php" timestamp="1594890061743">
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="15" column="56" />
+        <mark key="." line="15" column="55" />
+        <mark key="^" line="15" column="56" />
+      </file>
+      <file name="$USER_HOME$/projects/hsa-api/config/event-factories.php" timestamp="1594889501299">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hsa-api/app/Models/Store.php" timestamp="1594821435003">
         <mark key="[" line="9" column="29" />
@@ -116,12 +126,24 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/hsa-api/app/Console/Commands/CreateTenant.php" timestamp="1594885954570">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="67" column="58" />
-        <mark key="]" line="67" column="29" />
-        <mark key="^" line="67" column="29" />
-        <mark key="." line="67" column="28" />
+      <file name="$USER_HOME$/projects/hsa-api/app/Console/Commands/CreateTenant.php" timestamp="1594889685993">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="23" column="52" />
+      </file>
+      <file name="$USER_HOME$/projects/hsa-api/readme.md" timestamp="1594889441203">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="9" column="18" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="9" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/hsa-api/database/seeds/StoreSeeder.php" timestamp="1594890196221">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="13" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="9" column="13" />
       </file>
       <file name="$USER_HOME$/projects/hsa-api/config/tenancy.php" timestamp="1594822440835">
         <mark key="[" line="75" column="0" />
@@ -129,34 +151,23 @@
         <mark key="^" line="74" column="74" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/hsa-api/.env.example" timestamp="1594817466216">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="18" column="21" />
-        <mark key="." line="18" column="20" />
+      <file name="$USER_HOME$/projects/hsa-api/.env.example" timestamp="1594889867574">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="35" />
+        <mark key="^" line="12" column="35" />
+        <mark key="." line="12" column="35" />
       </file>
       <file name="$USER_HOME$/projects/auth.smit/app/Console/Commands/DeleteTenant.php" timestamp="1594823374359" />
-      <file name="$USER_HOME$/projects/hsa-api/config/database.php" timestamp="1594817538496">
+      <file name="$USER_HOME$/projects/hsa-api/config/database.php" timestamp="1594889916070">
         <mark key="'" line="53" column="11" />
-        <mark key="[" line="17" column="39" />
-        <mark key="]" line="17" column="39" />
-        <mark key="^" line="71" column="29" />
-        <mark key="." line="17" column="39" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/hsa-api/app/Providers/EventServiceProvider.php" timestamp="1594816667006">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/hsa-api/app/Models/Tenant.php" timestamp="1594816740987">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/hsa-api/app/Providers/AppServiceProvider.php" timestamp="1594816696069">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/projects/hsa-api/app/Providers/AppServiceProvider.php" timestamp="1594889346207">
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/projects/hsa-api/app/Models/Product.php" timestamp="1594821420556">
         <mark key="[" line="5" column="0" />
@@ -168,37 +179,23 @@
         <mark key="]" line="11" column="8" />
         <mark key="." line="11" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/hsa-api/app/Console/Commands/DeleteTenant.php" timestamp="1594886722515">
-        <mark key="'" line="26" column="61" />
-        <mark key="[" line="22" column="40" />
-        <mark key="]" line="22" column="40" />
-        <mark key="^" line="22" column="16" />
-        <mark key="." line="22" column="40" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1594816480709">
+      <file name="/PHP Console" timestamp="1594889597953">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/hsa-api/app/Listeners/ConfigureTenantDatabase.php" timestamp="1594816460036">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/projects/hsa-api/app/Console/Commands/DeleteTenant.php" timestamp="1594889769492">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="26" column="33" />
+        <mark key="]" line="26" column="34" />
+        <mark key="^" line="37" column="57" />
+        <mark key="." line="26" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/hsa-api/database/seeds/TenantSeeder.php" timestamp="1594890001276">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="27" filename="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" />
-      <jump line="15" column="0" filename="$USER_HOME$/projects/attendance/vendor/spatie/calendar-links/src/Generators/Ics.php" />
-      <jump line="80" column="11" filename="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" />
-      <jump line="9" column="3" filename="$USER_HOME$/projects/attendance/domain/CalendarLinks/IcsFileGenerator.php" />
-      <jump line="6" column="4" filename="$USER_HOME$/projects/attendance/domain/CalendarLinks/MeetingIcsGenerator.php" />
-      <jump line="20" column="21" filename="$USER_HOME$/projects/attendance/domain/CalendarLinks/MeetingIcsGenerator.php" />
-      <jump line="47" column="42" filename="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" />
-      <jump line="5" column="0" filename="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" />
-      <jump line="58" column="0" filename="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" />
-      <jump line="72" column="0" filename="$USER_HOME$/projects/attendance/app/Notifications/SignedUpNotification.php" />
-      <jump line="9" column="4" filename="$USER_HOME$/projects/attendance/app/Exports/ExportsAttendances.php" />
-      <jump line="35" column="0" filename="$USER_HOME$/projects/attendance/database/factories/ParticipantFactory.php" />
-      <jump line="15" column="6" filename="$USER_HOME$/projects/map/index.html" />
-      <jump line="18" column="30" filename="$USER_HOME$/projects/map/index.html" />
       <jump line="62" column="8" filename="$USER_HOME$/projects/map/index.html" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/attendance/.env" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/attendance/.env" />
@@ -285,24 +282,38 @@
       <jump line="15" column="47" filename="$USER_HOME$/projects/hsa-api/app/Console/Commands/DeleteTenant.php" />
       <jump line="20" column="20" filename="$USER_HOME$/projects/hsa-api/app/Console/Commands/DeleteTenant.php" />
       <jump line="26" column="61" filename="$USER_HOME$/projects/hsa-api/app/Console/Commands/DeleteTenant.php" />
+      <jump line="27" column="30" filename="$USER_HOME$/projects/hsa-api/app/Console/Commands/DeleteTenant.php" />
+      <jump line="21" column="28" filename="$USER_HOME$/projects/hsa-api/app/Console/Commands/DeleteTenant.php" />
+      <jump line="28" column="38" filename="$USER_HOME$/projects/hsa-api/app/Console/Commands/DeleteTenant.php" />
+      <jump line="37" column="9" filename="$USER_HOME$/projects/hsa-api/app/Console/Commands/DeleteTenant.php" />
+      <jump line="38" column="64" filename="$USER_HOME$/projects/hsa-api/app/Console/Commands/DeleteTenant.php" />
+      <jump line="40" column="45" filename="$USER_HOME$/projects/hsa-api/app/Console/Commands/DeleteTenant.php" />
+      <jump line="44" column="40" filename="$USER_HOME$/projects/hsa-api/app/Console/Commands/DeleteTenant.php" />
+      <jump line="46" column="8" filename="$USER_HOME$/projects/hsa-api/app/Console/Commands/DeleteTenant.php" />
+      <jump line="42" column="0" filename="$USER_HOME$/projects/hsa-api/app/Console/Commands/DeleteTenant.php" />
+      <jump line="55" column="0" filename="$USER_HOME$/projects/hsa-api/app/Console/Commands/DeleteTenant.php" />
+      <jump line="35" column="51" filename="$USER_HOME$/projects/hsa-api/app/Console/Commands/CreateTenant.php" />
+      <jump line="65" column="0" filename="$USER_HOME$/projects/hsa-api/app/Console/Commands/CreateTenant.php" />
+      <jump line="14" column="23" filename="$USER_HOME$/projects/hsa-api/app/Console/Commands/DeleteTenant.php" />
+      <jump line="63" column="0" filename="$USER_HOME$/projects/hsa-api/app/Console/Commands/DeleteTenant.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
-        <text>website</text>
+        <text>uuid</text>
       </register>
-      <register name="0" type="4">
-        <text>Str::random(5)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRob3N0bmFtZS0+aWQgPT4gJGRlc2NyaXB0aW9uLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChUZW5hbnRTZWVkZXI6OmNsYXNzKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -320,41 +331,41 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwaWNrIG9uZQoK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXEFydGlzYW47Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkaXNwbGF5IGxpc3Qgb2YgdGVuYW50cwoK</text>
+        <text encoding="base64">ICAgICAgICBBcnRpc2FuOjpjYWxsKCd0ZW5hbnQ6Y3JlYXRlJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR3ZWJzaXRlcyA9IFdlYnNpdGU6OmFsbCgpLT5tYXBXaXRoS2V5cyhmdW5jdGlvbiAoV2Vic2l0ZSAkd2Vic2l0ZSkgewovLyAgICAgICAgICAgIHJldHVybiBbCi8vICAgICAgICAgICAgICAgICR3ZWJzaXRlLT5ob3N0bmFtZXNbMF0tPmZxZG4gPT4gJAovLyAgICAgICAgICAgIF07Ci8vICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBIb3N0cyB0ZW5hbnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkZWxldGUgaG9zdG5hbWUK</text>
+        <text encoding="base64">REJfSE9TVD0xMjcuMC4wLjEKREJfUE9SVD0zMzA2CkRCX0RBVEFCQVNFPWxhcmF2ZWwKREJfVVNFUk5BTUU9cm9vdApEQl9QQVNTV09SRD0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkaG9zdG5hbWVzID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiBlbnYgIT0gbG9jYWwsIHNob3cgd2FybmluZyBtZXNzYWdlCg==</text>
+        <text encoding="base64">CiNEQl9IT1NUPTEyNy4wLjAuMQojREJfUE9SVD0zMzA2CiNEQl9EQVRBQkFTRT1zbWl0X3N0b3JlCiNEQl9VU0VSTkFNRT1yb290CiNEQl9QQVNTV09SRD0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmNvbmZpcm0oJycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVGhlIG5hbWUgYW5kIHNpZ25hdHVyZSBvZiB0aGUgY29uc29sZSBjb21tYW5kLgogICAgICoKICAgICAqIEB2YXIgc3RyaW5nCiAgICAgKi8K</text>
       </register>
       <register name=":" type="4">
-        <text>s/website/hostname/g</text>
+        <text encoding="base64">JzwsJz5zL3V1aWQvZnFkbi9n</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>website</last-search>
+      <last-search>uuid</last-search>
       <last-offset />
-      <last-pattern>website</last-pattern>
-      <last-replace>hostname</last-replace>
-      <last-substitute>website</last-substitute>
+      <last-pattern>uuid</last-pattern>
+      <last-replace>fqdn</last-replace>
+      <last-substitute>uuid</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
