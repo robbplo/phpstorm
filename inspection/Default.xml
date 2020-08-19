@@ -795,6 +795,7 @@
   <inspection_tool class="SassScssUnresolvedPlaceholderSelector" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SassScssUnresolvedVariable" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SecurityAdvisoriesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="REPORT_MISSING_ROAVE_ADVISORIES" value="false" />
     <option name="optionConfiguration">
       <list>
         <option value="barryvdh/laravel-debugbar" />
