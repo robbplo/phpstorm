@@ -545,7 +545,7 @@
   <inspection_tool class="NotOptimalRegularExpressionsInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NpmUsedModulesInstalled" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="NullCoalescingOperatorCanBeUsedInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="NullPointerExceptionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="NullPointerExceptionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ObGetCleanCanBeUsedInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ObjectAllocationIgnoredJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="OffsetOperationsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
