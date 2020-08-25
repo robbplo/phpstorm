@@ -11,6 +11,9 @@
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="CollapseBlock" />
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
   <action id="CollapseSelection" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
@@ -25,6 +28,7 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="DecrementWindowHeight" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="Editor LRU">
@@ -40,6 +44,9 @@
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
@@ -51,10 +58,13 @@
   <action id="ImportSettings">
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
+  <action id="IncrementWindowHeight" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
   <action id="MethodHierarchy" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
@@ -66,6 +76,9 @@
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="ReplaceInPath" />
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
