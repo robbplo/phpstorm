@@ -653,6 +653,7 @@
   <inspection_tool class="PhpMissingBreakStatementInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpMissingDocCommentInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpMissingFieldTypeInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpMissingParamTypeInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpMissingParentCallCommonInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpMissingParentCallMagicInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpMissingParentConstructorInspection" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -1018,7 +1019,7 @@
   <inspection_tool class="UnusedCatchParameterJS" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="m_ignoreCatchBlocksWithComments" value="false" />
   </inspection_tool>
-  <inspection_tool class="UnusedConstructorDependenciesInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="UnusedConstructorDependenciesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="UnusedDefine" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnusedGotoLabelInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="UselessReturnInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
