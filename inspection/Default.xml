@@ -497,7 +497,7 @@
   <inspection_tool class="LoopStatementThatDoesntLoopJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LoopWhichDoesNotLoopInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LossyEncoding" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="MagicMethodsValidityInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="MagicMethodsValidityInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="MagicNumberJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MarkdownUnresolvedFileReference" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MessDetectorValidationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -656,7 +656,7 @@
   <inspection_tool class="PhpMissingParamTypeInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpMissingParentCallCommonInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpMissingParentCallMagicInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="PhpMissingParentConstructorInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpMissingParentConstructorInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpMissingReturnTypeInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="PhpMissingStrictTypesDeclarationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpMissingVisibilityInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
