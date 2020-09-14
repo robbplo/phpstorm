@@ -72,10 +72,14 @@
   <action id="ParameterInfo" />
   <action id="PreviousProjectWindow" />
   <action id="PreviousWindow" />
+  <action id="RecentLocations" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="ReplaceInPath" />
+  <action id="RerunFailedTests">
+    <keyboard-shortcut first-keystroke="shift meta e" />
+  </action>
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
