@@ -26,6 +26,10 @@
   <inspection_tool class="AngularUndefinedBinding" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="AngularUndefinedModuleExport" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="AngularUndefinedTag" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="AnnotationDeprecatedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="AnnotationDocBlockClassConstantNotFound" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="AnnotationDocBlockConstantDeprecated" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="AnnotationMissingUseInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="Annotator" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="AnonymousFunctionJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ArgumentEqualsDefaultValueInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -66,6 +70,7 @@
   <inspection_tool class="ClassMockingCorrectnessInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="ClassOverridesFieldOfSuperClassInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ClassReImplementsParentInterfaceInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ClassStringLocalInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CoffeeScriptArgumentsOutsideFunction" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CoffeeScriptFunctionSignatures" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="CoffeeScriptInfiniteLoop" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -155,6 +160,7 @@
   <inspection_tool class="DockerFileAddOrCopySemantic" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DockerFileArgumentCount" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="DockerFileAssignments" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="DoctrineTypeDeprecatedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DocumentWriteJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DotEnvDuplicateKeyInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DotEnvSpaceInsideNonQuotedInspection" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -634,7 +640,7 @@
   <inspection_tool class="PhpIllegalPsrClassPathInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpIllegalStringOffsetInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpInappropriateInheritDocUsageInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="PhpIncludeInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpIncludeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpIncompatibleReturnTypeInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpInconsistentReturnPointsInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpInstanceofIsAlwaysTrueInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -686,6 +692,7 @@
   <inspection_tool class="PhpSignatureMismatchDuringInheritanceInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpSillyAssignmentInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpSingleStatementWithBracesInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="PhpStanFixerValidation" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpStatementHasEmptyBodyInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpStatementWithoutBracesInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="PhpStaticAsDynamicMethodCallInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -765,6 +772,8 @@
   <inspection_tool class="ProperNullCoalescingOperatorUsageInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PropertyCanBeStaticInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PropertyInitializationFlawsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="PsalmLocalImmutableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PsalmValidation" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="RandomApiMigrationInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="RealpathInStreamContextInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="RedundantElseClauseInspection" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -785,6 +794,7 @@
   <inspection_tool class="RegExpSingleCharAlternation" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="RegExpUnexpectedAnchor" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ReplaceAssignmentWithOperatorAssignmentJS" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="RepositoryClassInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RequiredAttributes" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myAdditionalRequiredHtmlAttributes" value="" />
   </inspection_tool>
