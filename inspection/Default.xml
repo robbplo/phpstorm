@@ -773,7 +773,7 @@
   <inspection_tool class="PropertyCanBeStaticInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PropertyInitializationFlawsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PsalmLocalImmutableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="PsalmValidation" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PsalmValidation" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="RandomApiMigrationInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="RealpathInStreamContextInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="RedundantElseClauseInspection" enabled="true" level="WARNING" enabled_by_default="true" />
