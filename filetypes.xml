@@ -7,6 +7,7 @@
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping ext="jsoncopy" type="PLAIN_TEXT" />
       <mapping ext="fish" type="PLAIN_TEXT" />
       <removed_mapping pattern=".php.stub" approved="true" type="PHP" />
     </extensionMap>
