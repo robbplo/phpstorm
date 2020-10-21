@@ -157,7 +157,7 @@
   <inspection_tool class="DeprecatedIniOptionsInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DirectoryConstantCanBeUsedInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DisallowWritingIntoStaticPropertiesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="DisconnectedForeachInstructionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="DisconnectedForeachInstructionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="DivideByZeroJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DockerFileAddOrCopySemantic" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DockerFileArgumentCount" enabled="true" level="ERROR" enabled_by_default="true" />
