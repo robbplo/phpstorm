@@ -6,6 +6,10 @@
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="ChangeSignature">
+    <keyboard-shortcut first-keystroke="meta f6" />
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="ChangesView.ShelveSilently" />
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" />
@@ -99,6 +103,7 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="SaveAs" />
   <action id="Svn.RefreshWorkingCopies" />
   <action id="Terminal.SmartCommandExecution.Debug" />
   <action id="ToggleDistractionFreeMode">
@@ -111,6 +116,7 @@
     <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
   <action id="ViewSource" />
+  <action id="com.dubreuia.core.action.ShortcutAction" />
   <action id="com.jetbrains.php.framework.FrameworkRunConsoleAction" />
   <action id="hg4idea.QRefresh" />
 </keymap>
