@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="it" value="/** @test */&#10;public function it_$TEST_NAME$() &#10;{&#10;    $END$&#10;}" description="PHPUnit Test" toReformat="false" toShortenFQNames="true">
+  <template name="it" value="/** @test */&#10;public function it_$TEST_NAME$() &#10;{&#10;    $END$&#10;}" description="PHPUnit Test it_does_the_thing" toReformat="false" toShortenFQNames="true">
     <variable name="TEST_NAME" expression="" defaultValue="runs" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
