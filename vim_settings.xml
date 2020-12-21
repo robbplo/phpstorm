@@ -101,6 +101,9 @@
       <shortcut-conflict owner="vim">
         <text>shift pressed SPACE</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
