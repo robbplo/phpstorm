@@ -119,5 +119,10 @@
   <action id="ViewSource" />
   <action id="com.dubreuia.core.action.ShortcutAction" />
   <action id="com.jetbrains.php.framework.FrameworkRunConsoleAction" />
+  <action id="com.laravel_idea.plugin.i.f.c">
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+    <keyboard-shortcut first-keystroke="shift meta less" />
+  </action>
   <action id="hg4idea.QRefresh" />
 </keymap>
