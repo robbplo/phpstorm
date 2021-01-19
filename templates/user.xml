@@ -1,8 +1,9 @@
 <templateSet group="user">
-  <template name="it" value="/** @test */&#10;public function it_$TEST_NAME$()&#10;{&#10;    $END$&#10;}" description="PHPUnit Test it_does_the_thing" toReformat="false" toShortenFQNames="true">
-    <variable name="TEST_NAME" expression="" defaultValue="runs" alwaysStopAt="true" />
+  <template name="test" value="/** @test */&#10;public function $NAME$()&#10;{&#10;    // $TESTCASE$$END$&#10;}" description="PHPUnit test case" toReformat="false" toShortenFQNames="true">
+    <variable name="TESTCASE" expression="&quot;it does the thing good&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="snakeCase(TESTCASE)" defaultValue="" alwaysStopAt="false" />
     <context>
-      <option name="PHP" value="true" />
+      <option name="PHP Class Member" value="true" />
     </context>
   </template>
 </templateSet>
