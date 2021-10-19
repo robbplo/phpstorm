@@ -8,7 +8,7 @@
     </option>
     <option name="userDisabledRules">
       <set>
-        <option value="MUST_HAVE" />
+        <option value="LanguageTool.EN.MUST_HAVE" />
       </set>
     </option>
     <option name="suppressingContext">
@@ -23,6 +23,15 @@
           </set>
         </option>
       </SuppressingContext>
+    </option>
+    <option name="detectionContext">
+      <State>
+        <option name="disabled">
+          <set>
+            <option value="DUTCH" />
+          </set>
+        </option>
+      </State>
     </option>
   </component>
 </application>
