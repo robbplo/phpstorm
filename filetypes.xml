@@ -13,6 +13,8 @@
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping pattern=".php.stub" approved="true" type="PHP" />
       <mapping pattern="*.neon.dist" type="Neon" />
+      <mapping pattern="*.php.stub" type="PHP" />
+      <mapping pattern=".php_cs" type="PHP" />
     </extensionMap>
   </component>
 </application>
