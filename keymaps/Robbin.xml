@@ -32,6 +32,9 @@
   <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.Reload" />
+  <action id="CopyContentRootPath">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
   <action id="CopyPaths" />
   <action id="CopyReference">
     <keyboard-shortcut first-keystroke="shift meta c" />
