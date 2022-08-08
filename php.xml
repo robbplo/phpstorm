@@ -2,17 +2,17 @@
   <component name="PhpAutoImport" auto_import_file_scope="true" global_class_behavior="PREFER_IMPORT" />
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="79fd4857-2334-4ba4-bf1f-d76a46267086" name="PHP 8" home="/usr/local/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="79fd4857-2334-4ba4-bf1f-d76a46267086" name="PHP 8" home="/opt/homebrew/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 8">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.4/7.4.13_1/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.4/7.4.13_1/bin/php" path_separator=":" version="7.4.13">
-          <additional_php_ini>/usr/local/etc/php/7.4/conf.d/.ini, /usr/local/etc/php/7.4/conf.d/error_log.ini, /usr/local/etc/php/7.4/conf.d/ext-debug.ini, /usr/local/etc/php/7.4/conf.d/ext-opcache.ini, /usr/local/etc/php/7.4/conf.d/php-memory-limits.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/7.4/php.ini</configuration_file>
+        <phpinfo binary_type="PHP" php_cgi="/opt/homebrew/Cellar/php/8.1.9/bin/php-cgi" php_cli="/opt/homebrew/Cellar/php/8.1.9/bin/php" path_separator=":" version="8.1.9">
+          <additional_php_ini>/opt/homebrew/etc/php/8.1/conf.d/ext-opcache.ini</additional_php_ini>
+          <configuration_file>/opt/homebrew/etc/php/8.1/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.4/7.4.13_1/share/php@7.4/pear" />
+            <configuration_option name="include_path" value=".:/opt/homebrew/Cellar/php/8.1.9/share/php/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
@@ -58,11 +58,9 @@
             <extension name="pdo_pgsql" />
             <extension name="pdo_sqlite" />
             <extension name="pgsql" />
-            <extension name="phpdbg_webhelper" />
             <extension name="posix" />
             <extension name="pspell" />
             <extension name="readline" />
-            <extension name="redis" />
             <extension name="session" />
             <extension name="shmop" />
             <extension name="soap" />
@@ -77,7 +75,6 @@
             <extension name="tokenizer" />
             <extension name="xml" />
             <extension name="xmlreader" />
-            <extension name="xmlrpc" />
             <extension name="xmlwriter" />
             <extension name="xsl" />
             <extension name="zip" />
