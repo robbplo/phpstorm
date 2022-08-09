@@ -7,8 +7,8 @@
       <mapping ext="paw" type="Native" />
       <mapping pattern="*.php.stub" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping ext="jsoncopy" type="PLAIN_TEXT" />
       <mapping ext="fish" type="PLAIN_TEXT" />
@@ -19,8 +19,6 @@
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".php.stub" approved="true" type="PHP" />
       <mapping pattern="*.neon.dist" type="Neon" />
-      <mapping pattern="*.php.stub" type="PHP" />
-      <mapping pattern=".php_cs" type="PHP" />
     </extensionMap>
   </component>
 </application>
